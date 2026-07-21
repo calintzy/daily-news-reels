@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-22",
+  "todayOneLiner": "오늘 대한민국이 주목하는 소식 다섯 가지를 전해 드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "시장직 운명의 날",
+      "title": "오세훈 시장직 걸린 오늘 1심 선고",
+      "summary": "서울시장이 명태균씨 여론조사 비용 대납 혐의로 오늘 오후 1심 선고를 받습니다. 특검은 징역 1년 6개월을 구형했으며 유죄 시 시장직을 잃을 수 있습니다.",
+      "sourceTitle": "[종합]'여론조사 비용 대납' 오세훈 7월 22일 선고…특검, 징역 1년 6개월 구형",
+      "sourceDesc": "오세훈 시장은 2021년 서울시장 보궐선거를 앞두고 정치 브로커 명태균 씨 측에게 여론조사를 무상으로 제공받고, 비용을 후원자인 김한정 씨가 대신 지급하도록 했다는 혐의로 기소됐다. 민중기 특검팀은 오 시장에게 징역 1년 6개월과 추징금 3300만원을 구형했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%98%A4%EC%84%B8%ED%9B%88+1%EC%8B%AC+%EC%84%A0%EA%B3%A0+%EC%97%AC%EB%A1%A0%EC%A1%B0%EC%82%AC&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, close-up of a polished wooden judge's gavel resting on a circular sound block on a formal courtroom bench, dramatic side lighting from high windows, solemn and tense atmosphere, blurred courtroom interior in background, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "대통령 무주택자",
+      "title": "대통령 분당 아파트 29억 매각",
+      "summary": "이재명 대통령이 분당 아파트를 29억원에 매각하고 무주택자가 됐습니다. 매수인에게 17억7000만원 규모의 근저당을 설정한 내용이 알려지며 논란이 됩니다.",
+      "sourceTitle": "李대통령 '무주택자' 됐다…분당아파트 29억 매매 완료, 근저당 17.7억",
+      "sourceDesc": "이재명 대통령이 경기 성남 분당 아파트를 29억원에 팔면서 매수인에게 17억7000만원 수준의 근저당을 설정한 것으로 나타났다. 청와대는 등기상 내용은 매수자의 사정에 의한 것이라고 했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9D%B4%EC%9E%AC%EB%AA%85+%EB%B6%84%EB%8B%B9+%EC%95%84%ED%8C%8C%ED%8A%B8+%EB%A7%A4%EA%B0%81+%EA%B7%BC%EC%A0%80%EB%8B%B9&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, aerial view of rows of uniform high-rise residential apartment towers in a South Korean suburb at dawn, morning mist softening the skyline, dense urban housing complex, warm golden light on building facades, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "3국 공조",
+      "title": "한미일 외교장관 마닐라 회담",
+      "summary": "한국·미국·일본 외교장관이 오늘 필리핀 마닐라에서 회담을 열어 대북 공조와 경제안보협력을 논의합니다. 북중러 밀착에 대응하는 공동 방안을 조율할 예정입니다.",
+      "sourceTitle": "22일 한미일 외교장관 회담…북중러 밀착 속 대북 공조 등 논의",
+      "sourceDesc": "조현 한국 외교부 장관은 22일 필리핀 마닐라에서 마코 루비오 미국 국무장관, 모테기 도시미쓰 일본 외무상과 외교장관회의를 개최할 예정이다. 한반도 문제와 경제안보협력 등을 논의할 것으로 예상된다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%95%9C%EB%AF%B8%EC%9D%BC+%EC%99%B8%EA%B5%90%EC%9E%A5%EA%B4%80+%EB%A7%88%EB%8B%90%EB%9D%BC+%ED%9A%8C%EB%8B%B4&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, three national flags on tall metal poles standing side by side outdoors against a clear blue sky, light breeze creating subtle movement in the fabric, formal diplomatic setting with paved courtyard, even natural daylight, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "반도체 슈퍼사이클",
+      "title": "반도체 호황에 성장률 3% 5년 만에 최고",
+      "summary": "정부가 반도체와 AI 수출 호황을 바탕으로 올해 경제성장률 전망을 3%로 상향했습니다. 2021년 이후 5년 만에 최고치로 수출 회복이 성장을 이끌고 있습니다.",
+      "sourceTitle": "'반도체 대박'..성장률 3% 올리고 고용은 낮췄다 [2026 하반기 경제성장전략]",
+      "sourceDesc": "한국 정부가 반도체 경기 호조를 바탕으로 2026년 경제성장률 전망을 3.0%로 상향 조정했다. 이는 2021년 이후 5년 만에 최고치이며, AI 반도체 수출 호조가 배경으로 꼽힌다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%95%9C%EA%B5%AD+%EA%B2%BD%EC%A0%9C%EC%84%B1%EC%9E%A5%EB%A5%A0+%EB%B0%98%EB%8F%84%EC%B2%B4+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, extreme close-up of semiconductor chip wafers with intricate circuit patterns gleaming under blue-tinted clean room lighting, reflected light creating geometric patterns, futuristic industrial atmosphere, technical precision, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사건·사회",
+      "kicker": "잠긴 방에서 탈출",
+      "title": "부산 잠긴 모텔방 외국인 선원 추락",
+      "summary": "부산의 한 숙박업소 8층에서 외국인 선원 2명이 잠긴 객실 탈출을 시도하다 추락해 1명이 숨지고 1명이 다쳤습니다. 이불로 줄을 만들어 내려오다 사고가 난 것으로 확인됩니다.",
+      "sourceTitle": "[속보]숙박업소 8층서 탈출하려다 추락 1명 사망·1명 중상…'승선 피하려던' 외국인 선원들",
+      "sourceDesc": "부산 사상구 감전동의 한 모텔 8층에서 인도네시아 국적 선원 2명이 이불을 찢어 줄을 만들어 탈출하려다 추락했다. 1명이 숨지고 1명이 중상을 입었으며, 객실 출입문은 외부에서 잠긴 상태였다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%B6%80%EC%82%B0+%EB%AA%A8%ED%85%94+%EC%99%B8%EA%B5%AD%EC%9D%B8+%EC%84%A0%EC%9B%90+%EC%B6%94%EB%9D%BD&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, exterior night view of a multi-story motel building with dark brick facade, knotted bed sheets hanging from an upper floor window, harsh security floodlights casting sharp shadows on the building wall, ominous atmosphere, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "오늘의 국내 뉴스 TOP 5 — 2026년 7월 22일\n\n1. 오세훈 시장직 걸린 오늘 1심 선고\n2. 대통령 분당 아파트 29억 매각\n3. 한미일 외교장관 마닐라 회담\n4. 반도체 호황에 성장률 3% 5년 만에 최고\n5. 부산 잠긴 모텔방 외국인 선원 추락\n\n매일 아침 대한민국 주요 뉴스 다섯 가지를 1분 안에 정리해 드립니다. 팔로우하고 매일 받아보세요.\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #속보 #카드뉴스 #데일리뉴스"
+}
