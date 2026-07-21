@@ -5,37 +5,33 @@ import {
   Img,
   interpolate,
   spring,
+  staticFile,
   useCurrentFrame,
   useVideoConfig,
 } from 'remotion';
-import {coverDuration, issueDuration, outroDuration, issues} from './hotIssueData.js';
-
-import coverImage from '../assets/cover-city-newsroom.png';
-import issue1Image from '../assets/issue-01-baduk-closeup.png';
-import issue2Image from '../assets/issue-02-apartment-fire.png';
-import issue3Image from '../assets/issue-03-red-sea-blockade.png';
-import issue4Image from '../assets/issue-04-seoul-apartments-sunset.png';
-import issue5Image from '../assets/issue-05-court-verdict.png';
+import {coverDuration, issueDuration} from './timing.js';
 
 const fontFamily =
-  '"Apple SD Gothic Neo","SF Pro Display","Helvetica Neue",sans-serif';
+  '"Noto Sans CJK KR","Apple SD Gothic Neo","SF Pro Display","Helvetica Neue",sans-serif';
 
-const coverMeta = {
-  eyebrow: 'MORNING NEWS REELS',
-  titleLines: ['오늘의', '핫이슈', 'TOP 5'],
-  subhead: ['2026.07.21 (화)', '지금 대한민국이 주목하는 다섯 가지'],
+// 이미지 경로: 렌더 전에 스크립트가 reels/public/img/current/ 로 복사한다.
+// imageDir(inputProps)는 public 기준 상대 경로(기본 'img/current').
+const imgSrc = (imageDir, name) => staticFile(`${imageDir}/${name}.png`);
+
+// title(문자열)을 2줄로 나눈다: 공백 기준 균형 분리. 공백 없으면 한 줄.
+// 렌더 폭 방어는 폰트 자동 축소가 담당한다.
+const wrapTitle = (title) => {
+  const words = String(title).trim().split(/\s+/);
+  if (words.length <= 1) return [title];
+  const mid = Math.ceil(words.length / 2);
+  return [words.slice(0, mid).join(' '), words.slice(mid).join(' ')];
 };
 
-const photoAssets = [
-  issue1Image,
-  issue2Image,
-  issue3Image,
-  issue4Image,
-  issue5Image,
-];
+// title 길이별 폰트 크기: 24자 초과 시 88→72px 자동 축소.
+const titleFontSize = (title) => ([...String(title)].length > 24 ? 72 : 88);
 
 const splitSentences = (text) => {
-  const matches = text.match(/[^.!?]+[.!?]+|[^.!?]+$/g);
+  const matches = String(text).match(/[^.!?]+[.!?]+|[^.!?]+$/g);
   return matches ? matches.map((part) => part.trim()) : [text];
 };
 
@@ -69,7 +65,7 @@ const PhotoBackground = ({src, frame, startFrame, panBias = 0}) => {
   );
 };
 
-const Cover = () => {
+const Cover = ({date, todayOneLiner, coverSrc}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const titleEnter = spring({
@@ -90,7 +86,7 @@ const Cover = () => {
 
   return (
     <AbsoluteFill style={{overflow: 'hidden', backgroundColor: '#0b0d11', color: '#ffffff'}}>
-      <PhotoBackground src={coverImage} frame={frame} startFrame={0} panBias={-12} />
+      <PhotoBackground src={coverSrc} frame={frame} startFrame={0} panBias={-12} />
       <div
         style={{
           position: 'absolute',
@@ -123,14 +119,14 @@ const Cover = () => {
           backdropFilter: 'blur(12px)',
         }}
       >
-        {coverMeta.eyebrow}
+        MORNING NEWS REELS
       </div>
       <div
         style={{
           position: 'absolute',
           left: 74,
           bottom: 238,
-          width: 860,
+          width: 900,
           transform: `translateX(${interpolate(titleEnter, [0, 1], [110, 0])}px)`,
           opacity: 1 - exit,
           fontFamily,
@@ -159,11 +155,11 @@ const Cover = () => {
               color: 'rgba(255,255,255,0.74)',
             }}
           >
-            2026.07.21
+            {date}
           </div>
         </div>
         <div style={{fontSize: 154, fontWeight: 900, lineHeight: 0.86, letterSpacing: '-0.08em'}}>
-          {coverMeta.titleLines[0]}
+          오늘의
         </div>
         <div
           style={{
@@ -178,23 +174,23 @@ const Cover = () => {
             letterSpacing: '-0.1em',
           }}
         >
-          {coverMeta.titleLines[1]}
+          핫이슈
         </div>
         <div style={{fontSize: 190, fontWeight: 900, lineHeight: 0.82, letterSpacing: '-0.11em'}}>
-          {coverMeta.titleLines[2]}
+          TOP 5
         </div>
         <div
           style={{
             marginTop: 38,
-            fontSize: 46,
+            fontSize: 42,
             lineHeight: 1.32,
             color: 'rgba(255,255,255,0.86)',
             fontWeight: 700,
+            maxHeight: 168,
+            overflow: 'hidden',
           }}
         >
-          {coverMeta.subhead[0]}
-          <br />
-          {coverMeta.subhead[1]}
+          {todayOneLiner}
         </div>
       </div>
       <div
@@ -233,10 +229,7 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
     fps,
     config: {damping: 18, stiffness: 150},
   });
-  // 사선 와이프 2단계 — 기울어진(skewX -16deg) 밴드는 세로 1920 기준 수평으로
-  // 최대 ±height*tan(16°)≈550px 어긋나므로, 화면 폭만큼만 이동하면 끝까지 못 덮는다.
-  // 밴드 폭을 화면의 4배로 잡고 [진입: 우하단→화면 전체 덮음] → 컷 →
-  // [다음 슬라이드에서 좌상단으로 완전 퇴장]으로 이어지는 연속 동작으로 처리한다.
+  // 사선 와이프 2단계 — 원본 프로토타입과 동일 (기울어진 밴드 진입→퇴장 연속 동작).
   const wipeInX = interpolate(localFrame, [86, issueDuration], [width * 1.6, -width * 1.5], {
     easing: Easing.bezier(0.83, 0, 0.17, 1),
     extrapolateLeft: 'clamp',
@@ -257,7 +250,7 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
   });
-  const rankNum = parseInt(issue.rank, 10);
+  const rankNum = Number(issue.rank);
   const showWipeOut = rankNum > 1 && localFrame < 18;
   const wipeBandStyle = {
     position: 'absolute',
@@ -271,7 +264,10 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
   const headlineX = interpolate(headlineIn, [0, 1], [width * 0.14, 0]);
   const headlineY = interpolate(headlineIn, [0, 1], [46, 0]);
   const bodyY = interpolate(bodyIn, [0, 1], [70, 0]);
-  const sentences = splitSentences(issue.body);
+  const sentences = splitSentences(issue.summary);
+  const rankLabel = String(issue.rank).padStart(2, '0');
+  const titleLines = wrapTitle(issue.title);
+  const fontSize = titleFontSize(issue.title);
 
   return (
     <AbsoluteFill style={{overflow: 'hidden', backgroundColor: '#050608', color: '#ffffff'}}>
@@ -279,7 +275,7 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
         src={imageSrc}
         frame={frame}
         startFrame={startFrame}
-        panBias={(parseInt(issue.rank, 10) - 3) * 4}
+        panBias={(rankNum - 3) * 4}
       />
       <div
         style={{
@@ -321,7 +317,7 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
             lineHeight: 1,
           }}
         >
-          {issue.rank}
+          {rankLabel}
         </div>
         <div
           style={{
@@ -386,7 +382,7 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
             <div style={{width: 56, height: 6, background: '#d61f29'}} />
             {issue.kicker}
           </div>
-          {issue.titleLines.map((line, index) => {
+          {titleLines.map((line, index) => {
             const lineIn = spring({
               frame: localFrame - index * 4,
               fps,
@@ -394,12 +390,12 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
             });
             return (
               <div
-                key={`${issue.rank}-${line}`}
+                key={`${issue.rank}-${index}`}
                 style={{
-                  fontSize: 108,
+                  fontSize,
                   fontWeight: 900,
-                  lineHeight: 0.94,
-                  letterSpacing: '-0.08em',
+                  lineHeight: 1.02,
+                  letterSpacing: '-0.06em',
                   textShadow: '0 12px 24px rgba(0,0,0,0.3)',
                   transform: `translateX(${interpolate(lineIn, [0, 1], [100, 0])}px)`,
                   opacity: lineIn,
@@ -422,6 +418,8 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
             backdropFilter: 'blur(16px)',
             transform: `translateY(${bodyY}px)`,
             opacity: bodyIn,
+            maxHeight: 320,
+            overflow: 'hidden',
           }}
         >
           <div
@@ -473,9 +471,8 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
   );
 };
 
-// 리텐션 아웃트로 — 팔로우 약속(매일 TOP5) + 저장 유도. 마지막 이슈의 사선 와이프를
-// 이어받아 시작하므로 IssueSlide와 동일한 밴드 상수를 쓴다.
-const PhotoOutro = ({startFrame}) => {
+// 리텐션 아웃트로 — 원본 문구 그대로 유지 ("국내 뉴스 TOP 5 / 1분이면 끝").
+const PhotoOutro = ({startFrame, coverSrc}) => {
   const frame = useCurrentFrame();
   const {fps, width, height} = useVideoConfig();
   const localFrame = frame - startFrame;
@@ -497,7 +494,7 @@ const PhotoOutro = ({startFrame}) => {
 
   return (
     <AbsoluteFill style={{overflow: 'hidden', backgroundColor: '#050608', color: '#ffffff'}}>
-      <PhotoBackground src={coverImage} frame={frame} startFrame={startFrame} panBias={0} />
+      <PhotoBackground src={coverSrc} frame={frame} startFrame={startFrame} panBias={0} />
       <div
         style={{
           position: 'absolute',
@@ -590,24 +587,27 @@ const PhotoOutro = ({startFrame}) => {
   );
 };
 
-export const HotIssueReelPhoto = () => {
+export const HotIssueReelPhoto = ({date, todayOneLiner, issues, imageDir = 'img/current'}) => {
   const frame = useCurrentFrame();
+  const issueList = issues || [];
   const issueIndex = Math.floor((frame - coverDuration) / issueDuration);
-  const outroStart = coverDuration + issues.length * issueDuration;
+  const outroStart = coverDuration + issueList.length * issueDuration;
+  const coverSrc = imgSrc(imageDir, 'cover');
 
   if (frame < coverDuration) {
-    return <Cover />;
+    return <Cover date={date} todayOneLiner={todayOneLiner} coverSrc={coverSrc} />;
   }
   if (frame >= outroStart) {
-    return <PhotoOutro startFrame={outroStart} />;
+    return <PhotoOutro startFrame={outroStart} coverSrc={coverSrc} />;
   }
 
+  const issue = issueList[issueIndex];
   return (
     <IssueSlide
-      issue={issues[issueIndex]}
-      imageSrc={photoAssets[issueIndex]}
+      issue={issue}
+      imageSrc={imgSrc(imageDir, `issue-${issue.rank}`)}
       startFrame={coverDuration + issueIndex * issueDuration}
-      isLast={false}
+      isLast={issueIndex === issueList.length - 1}
     />
   );
 };

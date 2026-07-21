@@ -1,0 +1,6 @@
+node_modules/
+reels/node_modules/
+reels/out/
+reels/public/img/current/
+*.log
+.DS_Store

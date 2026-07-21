@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-21",
+  "todayOneLiner": "지금 대한민국이 주목하는 다섯 가지 소식을 1분에 정리해 드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI·과학",
+      "kicker": "인간 vs AI",
+      "title": "신진서, 현존 최강 바둑 AI 꺾었다",
+      "summary": "신진서 9단이 150수 만에 바둑 AI를 꺾었습니다. 화제가 되고 있습니다.",
+      "sourceTitle": "신진서 9단, 현존 최강 바둑 AI 상대로 승리",
+      "sourceDesc": "신진서 9단이 현존 최강으로 평가받는 바둑 AI와의 대국에서 승리를 거뒀다. 신진서는 경기 후 인터뷰에서 인간 기사의 전략적 판단을 강조했고, 이 발언이 온라인 커뮤니티에서 화제가 되고 있다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%8B%A0%EC%A7%84%EC%84%9C%20%EB%B0%94%EB%91%91%20AI&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, extreme close-up of a wooden Go board with black and white stones mid-game, dramatic side lighting, shallow depth of field, tense atmosphere, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "사건",
+      "kicker": "현장 충격",
+      "title": "압구정 아파트 화재, 원인은 로봇청소기",
+      "summary": "압구정의 한 아파트에서 로봇청소기 발화로 화재가 발생했습니다. 당시 상황을 전한 주민 목격담이 확산되고 있습니다.",
+      "sourceTitle": "압구정 아파트 화재, 로봇청소기 발화가 원인",
+      "sourceDesc": "서울 압구정의 한 아파트에서 로봇청소기 발화로 추정되는 화재가 발생했다. 소방 당국이 정확한 원인을 조사 중인 가운데, 당시 상황을 전한 주민들의 목격담이 온라인에서 확산되고 있다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%95%95%EA%B5%AC%EC%A0%95%20%EC%95%84%ED%8C%8C%ED%8A%B8%20%ED%99%94%EC%9E%AC%20%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, robotic vacuum cleaner on a burnt apartment floor with smoke stains on the wall, emergency lighting, dramatic shadows, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "해상 리스크",
+      "title": "후티, 해상봉쇄 선언",
+      "summary": "예멘 후티 반군이 해상봉쇄를 선언하며 특정 항구를 이용하는 선박도 표적이 될 수 있다고 경고했습니다. 글로벌 물류 불안이 커지고 있습니다.",
+      "sourceTitle": "예멘 후티 반군, 해상봉쇄 선언하며 선박 위협",
+      "sourceDesc": "예멘의 후티 반군이 해상봉쇄를 선언하고, 특정 항구를 이용하는 선박도 표적이 될 수 있다고 경고했다. 이에 따라 해당 항로를 지나는 글로벌 물류의 불안이 커지고 있다는 분석이 나온다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%9B%84%ED%8B%B0%20%ED%95%B4%EC%83%81%EB%B4%89%EC%87%84&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, cargo container ship silhouetted on a tense sea at dusk, distant coastline, heavy overcast sky, ominous mood, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "정책 발언",
+      "title": "대통령 부동산 불로소득 강하게 비판",
+      "summary": "대통령이 부동산 불로소득을 강하게 비판하며 주택 공급에 속도를 내겠다고 밝혔습니다. 관련 논의가 이어지고 있습니다.",
+      "sourceTitle": "대통령, 부동산 불로소득 비판하며 주택 공급 확대 예고",
+      "sourceDesc": "대통령이 부동산 불로소득 문제를 강하게 비판하며 주택 공급에 속도를 내겠다고 밝혔다. 부동산 정책 방향을 둘러싼 관련 논의가 정치권에서 이어지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%8C%80%ED%86%B5%EB%A0%B9%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EB%B6%88%EB%A1%9C%EC%86%8C%EB%93%9D&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, rows of Seoul high-rise apartment buildings at golden sunset, warm hazy light, aerial urban skyline, real-estate mood, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "법원 생중계",
+      "title": "오세훈 시장직 걸린 1심 선고",
+      "summary": "오세훈 서울시장의 시장직이 걸린 1심 선고를 법원이 생중계로 허가했습니다. 서울시장직의 향방에 관심이 쏠리고 있습니다.",
+      "sourceTitle": "법원, 오세훈 서울시장 1심 선고 생중계 허가",
+      "sourceDesc": "법원이 오세훈 서울시장의 시장직이 걸린 1심 선고를 생중계로 허가했다. 서울시장직의 향방을 좌우할 선고 결과에 정치권과 시민의 관심이 쏠리고 있다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%98%A4%EC%84%B8%ED%9B%88%201%EC%8B%AC%20%EC%84%A0%EA%B3%A0&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, empty courtroom interior with wooden judge bench and gavel, formal solemn lighting, broadcast camera on tripod in foreground, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "오늘의 국내 뉴스 TOP 5 — 2026년 7월 21일\n\n1. 신진서, 현존 최강 바둑 AI 꺾었다\n2. 압구정 아파트 화재, 원인은 로봇청소기\n3. 후티, 해상봉쇄 선언\n4. 대통령 부동산 불로소득 강하게 비판\n5. 오세훈 시장직 걸린 1심 선고\n\n매일 아침 대한민국 주요 뉴스 다섯 가지를 1분 안에 정리해 드립니다. 팔로우하고 매일 받아보세요.\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #속보 #카드뉴스 #데일리뉴스"
+}
