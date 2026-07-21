@@ -135,6 +135,10 @@ jobs:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
         run: |
+          if [ -z "$IG_ACCESS_TOKEN" ] || [ -z "$IG_USER_ID" ]; then
+            echo "IG 토큰 미등록 — publish 스킵 (README M0~M7 셋업 후 사용 가능)"
+            exit 0
+          fi
           DATA="data/${{ steps.date.outputs.date }}.json"
           if ! node scripts/publish.mjs "$DATA"; then
             node scripts/telegram.mjs fail "publish FAIL: $DATA" || true
