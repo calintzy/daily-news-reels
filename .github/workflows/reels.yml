@@ -29,6 +29,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - uses: actions/setup-node@v4
         with:
@@ -37,11 +39,18 @@ jobs:
       - name: CJK 폰트 설치 (한글 렌더)
         run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk ffmpeg
 
-      - name: 날짜 결정 (KST)
+      - name: 날짜 결정 (dispatch 입력 → push된 data 파일 → KST 오늘 순)
         id: date
         run: |
           if [ -n "${{ github.event.inputs.date }}" ]; then
             echo "date=${{ github.event.inputs.date }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          # push 이벤트면 HEAD 커밋에서 변경된 data/*.json에서 날짜(또는 sample)를 뽑는다
+          CHANGED=$(git show --name-only --pretty=format: HEAD -- data/ 2>/dev/null | grep -E '^data/.*\.json$' | head -1)
+          if [ -n "$CHANGED" ]; then
+            BASE=$(basename "$CHANGED" .json)
+            echo "date=$BASE" >> "$GITHUB_OUTPUT"
           else
             echo "date=$(TZ=Asia/Seoul date +%F)" >> "$GITHUB_OUTPUT"
           fi
@@ -93,6 +102,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - uses: actions/setup-node@v4
         with:
