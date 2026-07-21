@@ -1,0 +1,17 @@
+{
+  "name": "reels-codex",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "^4.0.495",
+    "@remotion/renderer": "^4.0.495",
+    "playwright": "^1.61.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "remotion": "^4.0.495"
+  }
+}

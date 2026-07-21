@@ -1,0 +1,110 @@
+[
+  {
+    "file": "cover-city-newsroom.png",
+    "model": "gpt-image-1.5",
+    "usage": {
+      "input_tokens": 75,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 75
+      },
+      "output_tokens": 6638,
+      "output_tokens_details": {
+        "image_tokens": 6240,
+        "text_tokens": 398
+      },
+      "total_tokens": 6713
+    },
+    "revisedPrompt": null
+  },
+  {
+    "file": "issue-01-baduk-closeup.png",
+    "model": "gpt-image-1.5",
+    "usage": {
+      "input_tokens": 75,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 75
+      },
+      "output_tokens": 6626,
+      "output_tokens_details": {
+        "image_tokens": 6240,
+        "text_tokens": 386
+      },
+      "total_tokens": 6701
+    },
+    "revisedPrompt": null
+  },
+  {
+    "file": "issue-02-apartment-fire.png",
+    "model": "gpt-image-1.5",
+    "usage": {
+      "input_tokens": 79,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 79
+      },
+      "output_tokens": 6611,
+      "output_tokens_details": {
+        "image_tokens": 6240,
+        "text_tokens": 371
+      },
+      "total_tokens": 6690
+    },
+    "revisedPrompt": null
+  },
+  {
+    "file": "issue-03-red-sea-blockade.png",
+    "model": "gpt-image-1.5",
+    "usage": {
+      "input_tokens": 73,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 73
+      },
+      "output_tokens": 6608,
+      "output_tokens_details": {
+        "image_tokens": 6240,
+        "text_tokens": 368
+      },
+      "total_tokens": 6681
+    },
+    "revisedPrompt": null
+  },
+  {
+    "file": "issue-04-seoul-apartments-sunset.png",
+    "model": "gpt-image-1.5",
+    "usage": {
+      "input_tokens": 73,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 73
+      },
+      "output_tokens": 6633,
+      "output_tokens_details": {
+        "image_tokens": 6240,
+        "text_tokens": 393
+      },
+      "total_tokens": 6706
+    },
+    "revisedPrompt": null
+  },
+  {
+    "file": "issue-05-court-verdict.png",
+    "model": "gpt-image-1.5",
+    "usage": {
+      "input_tokens": 79,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 79
+      },
+      "output_tokens": 6618,
+      "output_tokens_details": {
+        "image_tokens": 6240,
+        "text_tokens": 378
+      },
+      "total_tokens": 6697
+    },
+    "revisedPrompt": null
+  }
+]
