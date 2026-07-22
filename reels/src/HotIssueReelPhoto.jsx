@@ -171,19 +171,20 @@ const Cover = ({date, todayOneLiner, coverSrc}) => {
         <div
           style={{
             display: 'inline-block',
-            marginTop: 6,
-            padding: '8px 22px 20px',
+            marginTop: 10,
+            marginBottom: 14,
+            padding: '10px 26px 16px',
             backgroundColor: '#ffffff',
             color: '#0a0d11',
             fontSize: 182,
             fontWeight: 900,
-            lineHeight: 0.84,
+            lineHeight: 1.0,
             letterSpacing: '-0.1em',
           }}
         >
           뉴스
         </div>
-        <div style={{fontSize: 190, fontWeight: 900, lineHeight: 0.82, letterSpacing: '-0.11em'}}>
+        <div style={{fontSize: 190, fontWeight: 900, lineHeight: 0.95, letterSpacing: '-0.11em'}}>
           TOP 5
         </div>
         <div
