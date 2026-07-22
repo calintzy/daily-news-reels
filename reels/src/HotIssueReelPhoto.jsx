@@ -165,7 +165,7 @@ const Cover = ({date, todayOneLiner, coverSrc}) => {
             {date}
           </div>
         </div>
-        <div style={{fontSize: 154, fontWeight: 900, lineHeight: 0.86, letterSpacing: '-0.08em'}}>
+        <div style={{fontSize: 154, fontWeight: 900, lineHeight: 1.0, letterSpacing: '-0.08em'}}>
           오늘의
         </div>
         <div
