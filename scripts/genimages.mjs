@@ -7,7 +7,7 @@
 //   env: OPENAI_API_KEY, IMAGE_QUALITY(기본 medium)
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
-import { dirname, join } from "node:path";
+import { dirname, join, basename } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -58,11 +58,12 @@ async function main() {
     process.exit(2);
   }
   const data = JSON.parse(readFileSync(jsonPath, "utf-8"));
-  const date = data.date;
+  // 산출물 키는 파일명 stem(예: 2026-07-23-am). 슬롯 없는 기존 파일은 stem=date로 동일 동작.
+  const stem = basename(jsonPath, ".json");
   const prompts = buildPrompts(data);
 
   if (dryRun) {
-    console.log(`--dry-run: 프롬프트 ${prompts.length}건 (${date})`);
+    console.log(`--dry-run: 프롬프트 ${prompts.length}건 (${stem})`);
     for (const { name, prompt } of prompts) {
       console.log(`\n[${name}]`);
       console.log(prompt);
@@ -76,7 +77,7 @@ async function main() {
     process.exit(1);
   }
   const quality = process.env.IMAGE_QUALITY || "medium";
-  const outDir = join(ROOT, "assets", "img", date);
+  const outDir = join(ROOT, "assets", "img", stem);
   mkdirSync(outDir, { recursive: true });
 
   let ok = 0;

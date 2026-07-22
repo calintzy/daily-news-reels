@@ -5,16 +5,29 @@
 
 ## 산출물
 
-- 파일: `data/YYYY-MM-DD.json` — 날짜는 반드시 `TZ=Asia/Seoul date +%F`로 구한다 (UTC 날짜 사용 금지).
+- 파일: `data/YYYY-MM-DD-am.json`(아침 회차) / `data/YYYY-MM-DD-pm.json`(저녁 회차) — 날짜는 반드시 `TZ=Asia/Seoul date +%F`로 구한다 (UTC 날짜 사용 금지).
+  - 파일명 stem(`2026-07-23-am` 등)이 곧 산출물 키다: `assets/img/<stem>/`, `docs/videos/<stem>.mp4`, `containers/<stem>`, `published/<stem>`.
+  - 데이터 안 `date` 필드는 그대로 `YYYY-MM-DD`를 쓰고, 회차는 `slot` 필드("am"|"pm")로 구분한다.
 - 언어: 한국어 (요약·커버 문구). 이미지 프롬프트만 영문.
-- 완료 후: `git add data/YYYY-MM-DD.json` → commit (`reels: YYYY-MM-DD`) → push.
-- push하면 GitHub Actions(`reels.yml`)가 검증→이미지→렌더→음악→Telegram 미리보기까지 이어받는다.
+- 완료 후: `git add data/YYYY-MM-DD-<slot>.json` → commit (`reels: YYYY-MM-DD-<slot>`) → push.
+- push하면 GitHub Actions(`reels.yml`)가 검증→이미지→렌더→음악→Telegram 미리보기까지 이어받고, `PUBLISH_LIVE=1`이면 자동 발행까지 진행한다.
+
+## 회차(slot) 규칙
+
+하루 2회(아침/저녁) 발행한다. 각 회차는 별도 data 파일이다.
+
+- **am 회차** — 전날 저녁~오늘 아침 뉴스 중심. 파일명 `data/YYYY-MM-DD-am.json`, `slot: "am"`.
+- **pm 회차** — 당일 낮 뉴스 중심. 파일명 `data/YYYY-MM-DD-pm.json`, `slot: "pm"`.
+  - **같은 날 am 파일이 존재하면 그 5건과 중복되는 기사를 금지**한다. 같은 사건의 실질적 후속 전개는 허용하되, 요약에 "후속"임을 명시한다.
+- `slot`은 선택 필드다. 없으면 단일 회차(하위 호환)로 처리한다(기존 `data/YYYY-MM-DD.json`·`data/sample.json`도 계속 동작).
+- 커버 날짜 라벨은 `slot`에 따라 `YYYY-MM-DD · 아침 브리핑`(am) / `YYYY-MM-DD · 저녁 브리핑`(pm)으로 표기되며, slot이 없으면 날짜만 표기된다(스크립트·Remotion이 자동 처리).
 
 ## 데이터 계약 (전체)
 
 ```json
 {
   "date": "2026-07-21",
+  "slot": "am",
   "todayOneLiner": "커버에 얹을 한 줄 (존댓말). 대한민국이 주목하는 소식을 소개.",
   "issues": [
     {
@@ -36,6 +49,7 @@
 필드별 계약(`scripts/validate.mjs`가 이진 게이트로 강제):
 
 - `date` — 필수. `YYYY-MM-DD`.
+- `slot` — 선택. `"am"` 또는 `"pm"`만 허용(다른 값이면 FAIL). 없으면 단일 회차로 처리.
 - `todayOneLiner` — 필수. 존댓말 종결어미로 끝나는 한 줄.
 - `issues` — 4~6개. `rank`는 1부터 연속.
   - `title` — 32자 이내.
@@ -79,7 +93,7 @@
 
 브랜드: **물어오리 (@muleori.news)** — "매일 아침 국내 뉴스 5개를 물어오는" 오리 계정. 기존 @todays.ai.brief(오리 기자)의 자매 계정.
 
-- 첫 줄: `[물어오리] YYYY-MM-DD 오늘의 뉴스 TOP 5` 형식.
+- 첫 줄: 회차에 따라 `[물어오리] YYYY-MM-DD 아침 브리핑`(am) / `[물어오리] YYYY-MM-DD 저녁 브리핑`(pm). slot이 없으면 `[물어오리] YYYY-MM-DD 오늘의 뉴스 TOP 5`.
 - 이슈 제목 목록(번호 매김).
 - 마무리 한 줄: `내일 아침에도 물어오겠습니다 🦆` (또는 같은 톤의 변형).
 - 해시태그: `#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리` 등 (자유롭게 추가 가능).

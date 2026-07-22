@@ -66,7 +66,13 @@ function buildDetailMessage(data) {
     if (i.sourceLink) lines.push(`${i.sourceLink}`);
     lines.push("");
   }
-  lines.push("요약이 원문과 맞는지 확인 후, 승인하려면 Actions에서 publish 워크플로우를 실행하세요.");
+  // AUTO_PUBLISH=1(push 트리거 + PUBLISH_LIVE=1)이면 곧 자동 발행됨 → 킬스위치·삭제 안내.
+  // 그 외(dispatch dry_run 테스트 등)면 기존 수동 승인 안내 유지.
+  if (process.env.AUTO_PUBLISH === "1") {
+    lines.push("곧 자동 발행됩니다. 이상이 있으면 PUBLISH_LIVE 변수를 끄고 게시물을 삭제하세요.");
+  } else {
+    lines.push("요약이 원문과 맞는지 확인 후, 승인하려면 Actions에서 publish 워크플로우를 실행하세요.");
+  }
   return lines.join("\n").slice(0, 4096);
 }
 
@@ -79,7 +85,9 @@ async function main() {
       process.exit(2);
     }
     const data = JSON.parse(readFileSync(jsonPath, "utf-8"));
-    const videoPath = join(ROOT, "docs", "videos", `${data.date}.mp4`);
+    // 산출물 키는 파일명 stem(예: 2026-07-23-am). 슬롯 없는 기존 파일은 stem=date로 동일 동작.
+    const stem = basename(jsonPath, ".json");
+    const videoPath = join(ROOT, "docs", "videos", `${stem}.mp4`);
     if (!existsSync(videoPath)) {
       console.error(`영상 없음: ${videoPath}`);
       process.exit(1);

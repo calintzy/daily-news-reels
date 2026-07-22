@@ -65,7 +65,11 @@ const PhotoBackground = ({src, frame, startFrame, panBias = 0}) => {
   );
 };
 
-const Cover = ({date, todayOneLiner, coverSrc}) => {
+// 회차(slot) → 커버 날짜 라벨. slot 없으면 date만.
+const slotLabel = (date, slot) =>
+  slot === 'am' ? `${date} · 아침 브리핑` : slot === 'pm' ? `${date} · 저녁 브리핑` : date;
+
+const Cover = ({date, slot, todayOneLiner, coverSrc}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const titleEnter = spring({
@@ -162,7 +166,7 @@ const Cover = ({date, todayOneLiner, coverSrc}) => {
               color: 'rgba(255,255,255,0.74)',
             }}
           >
-            {date}
+            {slotLabel(date, slot)}
           </div>
         </div>
         <div style={{fontSize: 154, fontWeight: 900, lineHeight: 1.0, letterSpacing: '-0.08em'}}>
@@ -616,7 +620,7 @@ const PhotoOutro = ({startFrame, coverSrc}) => {
   );
 };
 
-export const HotIssueReelPhoto = ({date, todayOneLiner, issues, imageDir = 'img/current'}) => {
+export const HotIssueReelPhoto = ({date, slot = null, todayOneLiner, issues, imageDir = 'img/current'}) => {
   const frame = useCurrentFrame();
   const issueList = issues || [];
   const issueIndex = Math.floor((frame - coverDuration) / issueDuration);
@@ -624,7 +628,7 @@ export const HotIssueReelPhoto = ({date, todayOneLiner, issues, imageDir = 'img/
   const coverSrc = imgSrc(imageDir, 'cover');
 
   if (frame < coverDuration) {
-    return <Cover date={date} todayOneLiner={todayOneLiner} coverSrc={coverSrc} />;
+    return <Cover date={date} slot={slot} todayOneLiner={todayOneLiner} coverSrc={coverSrc} />;
   }
   if (frame >= outroStart) {
     return <PhotoOutro startFrame={outroStart} coverSrc={coverSrc} />;

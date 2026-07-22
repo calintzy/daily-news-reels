@@ -124,6 +124,11 @@ function validate(json) {
   if (!json.todayOneLiner) v.push("[구조] todayOneLiner 누락");
   if (json.caption == null) v.push("[구조] caption 누락");
 
+  // (1) 구조: slot(회차)은 선택 — 있으면 "am"|"pm"만 허용(없으면 하위 호환 통과)
+  if (json.slot != null && json.slot !== "am" && json.slot !== "pm") {
+    v.push(`[구조] slot="${json.slot}" — "am" 또는 "pm"만 허용`);
+  }
+
   if (!Array.isArray(json.issues)) {
     v.push("[구조] issues 배열 누락");
     return v;
@@ -217,7 +222,17 @@ function buildBadFixtures(sample) {
   hangulPrompt.issues[0].imagePrompt =
     "photojournalism, 바둑판 close-up, no people, no text, vertical 9:16 composition";
 
-  return { katago, number, hangulPrompt };
+  // slot-am / slot-pm: slot 필드 정상값 → PASS
+  const slotAm = clone();
+  slotAm.slot = "am";
+  const slotPm = clone();
+  slotPm.slot = "pm";
+
+  // bad-slot: slot 필드 잘못된 값 → 구조 FAIL
+  const badSlot = clone();
+  badSlot.slot = "morning";
+
+  return { katago, number, hangulPrompt, slotAm, slotPm, badSlot };
 }
 
 function runSelfTest() {
@@ -239,6 +254,9 @@ function runSelfTest() {
     { name: "FAIL — bad-katago(원문에 없는 KataGo)", fixture: bad.katago, expectPass: false },
     { name: "FAIL — bad-number(원문에 없는 150)", fixture: bad.number, expectPass: false },
     { name: "FAIL — bad-hangul-prompt(프롬프트 한글)", fixture: bad.hangulPrompt, expectPass: false },
+    { name: "PASS — slot-am(정상 회차)", fixture: bad.slotAm, expectPass: true },
+    { name: "PASS — slot-pm(정상 회차)", fixture: bad.slotPm, expectPass: true },
+    { name: "FAIL — bad-slot(잘못된 회차값)", fixture: bad.badSlot, expectPass: false },
   ];
 
   let allOk = true;

@@ -12,7 +12,7 @@ import {
   rmSync,
   readdirSync,
 } from "node:fs";
-import { dirname, join } from "node:path";
+import { dirname, join, basename } from "node:path";
 import { fileURLToPath } from "node:url";
 import { execFileSync } from "node:child_process";
 
@@ -39,12 +39,15 @@ async function main() {
   }
   const data = JSON.parse(readFileSync(jsonPath, "utf-8"));
   const date = data.date;
+  // 산출물 키는 파일명 stem(예: 2026-07-23-am). 슬롯 없는 기존 파일은 stem=date로 동일 동작.
+  const stem = basename(jsonPath, ".json");
+  const slot = data.slot ?? null; // "am" | "pm" | null
   const issues = data.issues || [];
   const totalFrames = COVER_D + ISSUE_D * issues.length + OUTRO_D;
   const expectedSec = totalFrames / FPS;
 
   // 1) 이미지 6장(커버 + 이슈) 확인
-  const imgDir = join(ROOT, "assets", "img", date);
+  const imgDir = join(ROOT, "assets", "img", stem);
   const needed = ["cover", ...issues.map((i) => `issue-${i.rank}`)];
   const missing = needed.filter((n) => !existsSync(join(imgDir, `${n}.png`)));
   if (missing.length > 0) {
@@ -62,9 +65,10 @@ async function main() {
   // 2) Remotion 렌더 (reels/ 안에서 inputProps 전달)
   const tmpDir = join(REELS, "out");
   mkdirSync(tmpDir, { recursive: true });
-  const silentMp4 = join(tmpDir, `${date}-silent.mp4`);
+  const silentMp4 = join(tmpDir, `${stem}-silent.mp4`);
   const inputProps = {
     date,
+    slot,
     todayOneLiner: data.todayOneLiner,
     issues: issues.map((i) => ({
       rank: i.rank,
@@ -91,7 +95,7 @@ async function main() {
   const music = join(REELS, "assets", "music", "pure_attitude.mp3");
   const videosDir = join(ROOT, "docs", "videos");
   mkdirSync(videosDir, { recursive: true });
-  const finalMp4 = join(videosDir, `${date}.mp4`);
+  const finalMp4 = join(videosDir, `${stem}.mp4`);
   const fadeStart = Math.max(0, expectedSec - 2).toFixed(2);
   console.log("음악 합성…");
   run("ffmpeg", [
@@ -107,7 +111,7 @@ async function main() {
     "-shortest",
     finalMp4,
   ]);
-  console.log(`영상 산출: docs/videos/${date}.mp4`);
+  console.log(`영상 산출: docs/videos/${stem}.mp4`);
 
   // 4) 프레임 캡처 (cover / issue1 / outro)
   const prevDir = join(ROOT, "docs", "previews");
@@ -127,10 +131,10 @@ async function main() {
       "-i", finalMp4,
       "-frames:v", "1",
       "-q:v", "3",
-      join(prevDir, `${date}-${name}.jpg`),
+      join(prevDir, `${stem}-${name}.jpg`),
     ]);
   }
-  console.log(`프리뷰 3장: docs/previews/${date}-{cover,issue1,outro}.jpg`);
+  console.log(`프리뷰 3장: docs/previews/${stem}-{cover,issue1,outro}.jpg`);
 
   // 5) ffprobe 검증: 해상도·fps·길이
   const probe = run("ffprobe", [

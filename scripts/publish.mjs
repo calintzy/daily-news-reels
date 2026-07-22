@@ -10,7 +10,7 @@
 //   C2: 컨테이너 status_code 폴링(FINISHED 대기). 인스타는 video_url을 비동기로 가져간다.
 
 import { readFileSync, existsSync, writeFileSync, mkdirSync, statSync } from "node:fs";
-import { dirname, join } from "node:path";
+import { dirname, join, basename } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -93,6 +93,28 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+// 발행 완료 텔레그램 알림 — 실패해도 게시 자체는 성공이므로 throw하지 않는다(best-effort).
+async function notifyTelegram(text) {
+  const token = process.env.TG_BOT_TOKEN;
+  const chat = process.env.TG_CHAT_ID;
+  if (!token || !chat) {
+    console.log("TG 자격증명 없음 — 발행 완료 알림 생략");
+    return;
+  }
+  try {
+    const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ chat_id: chat, text, disable_web_page_preview: true }),
+    });
+    const json = await res.json().catch(() => ({}));
+    if (!json.ok) console.log(`발행 완료 알림 실패: ${JSON.stringify(json)}`);
+    else console.log(`발행 완료 알림 전송 OK: message_id=${json.result.message_id}`);
+  } catch (e) {
+    console.log(`발행 완료 알림 예외: ${e.message}`);
+  }
+}
+
 async function main() {
   const jsonPath = process.argv[2];
   if (!jsonPath) {
@@ -100,7 +122,8 @@ async function main() {
     process.exit(2);
   }
   const data = JSON.parse(readFileSync(jsonPath, "utf-8"));
-  const date = data.date;
+  // 산출물 키는 파일명 stem(예: 2026-07-23-am). 슬롯 없는 기존 파일은 stem=date로 동일 동작.
+  const stem = basename(jsonPath, ".json");
   const caption = data.caption;
 
   const token = process.env.IG_ACCESS_TOKEN;
@@ -110,26 +133,26 @@ async function main() {
     process.exit(1);
   }
 
-  const publishedMarker = join(ROOT, "published", date);
-  const containerMarker = join(ROOT, "containers", date);
+  const publishedMarker = join(ROOT, "published", stem);
+  const containerMarker = join(ROOT, "containers", stem);
 
   // 게시 완료 멱등 체크
   if (!DRY && existsSync(publishedMarker)) {
     const content = readFileSync(publishedMarker, "utf-8").trim();
     if (content === "pending") {
       console.error(
-        `published/${date} 가 pending — 이전 실행이 media_publish 전 중단됨. 재시도하려면 마커 삭제 필요`
+        `published/${stem} 가 pending — 이전 실행이 media_publish 전 중단됨. 재시도하려면 마커 삭제 필요`
       );
       process.exit(1);
     }
-    console.log(`이미 게시됨: published/${date} (id=${content}) — 스킵(멱등)`);
+    console.log(`이미 게시됨: published/${stem} (id=${content}) — 스킵(멱등)`);
     process.exit(0);
   }
 
-  const videoUrl = `https://calintzy.github.io/daily-news-reels/videos/${date}.mp4`;
+  const videoUrl = `https://calintzy.github.io/daily-news-reels/videos/${stem}.mp4`;
 
   // C1: 프리플라이트 — 로컬 mp4 크기 대조
-  const localMp4 = join(ROOT, "docs", "videos", `${date}.mp4`);
+  const localMp4 = join(ROOT, "docs", "videos", `${stem}.mp4`);
   let expectedBytes = null;
   try {
     expectedBytes = statSync(localMp4).size;
@@ -156,7 +179,7 @@ async function main() {
     containerId = c.id;
     mkdirSync(dirname(containerMarker), { recursive: true });
     writeFileSync(containerMarker, `${containerId}\n`);
-    console.log(`컨테이너 생성: ${containerId} → containers/${date}`);
+    console.log(`컨테이너 생성: ${containerId} → containers/${stem}`);
   }
 
   // C2: FINISHED 대기 (인스타가 video_url을 실제로 fetch·인코딩)
@@ -167,10 +190,10 @@ async function main() {
     process.exit(0);
   }
 
-  // 실게시 2단계: published/<date> pending 선기록 → media_publish → media id 갱신
+  // 실게시 2단계: published/<stem> pending 선기록 → media_publish → media id 갱신
   mkdirSync(dirname(publishedMarker), { recursive: true });
   writeFileSync(publishedMarker, "pending\n");
-  console.log(`published/${date} pending 선기록`);
+  console.log(`published/${stem} pending 선기록`);
 
   const pub = await api(
     `/${igUser}/media_publish`,
@@ -178,7 +201,17 @@ async function main() {
     "POST"
   );
   writeFileSync(publishedMarker, `${pub.id}\n`);
-  console.log(`게시 완료: media id=${pub.id} → published/${date}`);
+  console.log(`게시 완료: media id=${pub.id} → published/${stem}`);
+
+  // 발행 완료 텔레그램 알림 — media id로 permalink 조회 후 한 줄 전송(best-effort)
+  let permalink = "";
+  try {
+    const meta = await api(`/${pub.id}`, { fields: "permalink", access_token: token });
+    permalink = meta.permalink || "";
+  } catch (e) {
+    console.log(`permalink 조회 실패: ${e.message}`);
+  }
+  await notifyTelegram(`[물어오리] 발행 완료 (${stem})${permalink ? `\n${permalink}` : ""}`);
 }
 
 main();

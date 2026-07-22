@@ -39,14 +39,15 @@ jobs:
       - name: CJK 폰트 설치 (한글 렌더)
         run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk ffmpeg
 
-      - name: 날짜 결정 (dispatch 입력 → push된 data 파일 → KST 오늘 순)
+      - name: 스템(회차 키) 결정 (dispatch 입력 → push된 data 파일 → KST 오늘 순)
+        # date는 산출물 키(파일명 stem)다. 슬롯 파일이면 2026-07-23-am 같은 값이 된다.
         id: date
         run: |
           if [ -n "${{ github.event.inputs.date }}" ]; then
             echo "date=${{ github.event.inputs.date }}" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          # push 이벤트면 HEAD 커밋에서 변경된 data/*.json에서 날짜(또는 sample)를 뽑는다
+          # push 이벤트면 HEAD 커밋에서 변경된 data/*.json에서 stem(또는 sample)을 뽑는다
           CHANGED=$(git show --name-only --pretty=format: HEAD -- data/ 2>/dev/null | grep -E '^data/.*\.json$' | head -1)
           if [ -n "$CHANGED" ]; then
             BASE=$(basename "$CHANGED" .json)
@@ -91,14 +92,22 @@ jobs:
           git push
 
       - name: Telegram 미리보기 전송
+        # push 트리거 + PUBLISH_LIVE=1 이면 "곧 자동 발행" 톤, 아니면 수동 승인 안내 톤.
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          AUTO_PUBLISH: ${{ (github.event_name == 'push' && vars.PUBLISH_LIVE == '1') && '1' || '0' }}
         run: node scripts/telegram.mjs preview "data/${{ steps.date.outputs.date }}.json"
 
   publish:
-    # workflow_dispatch 전용. 실게시는 dry_run=0 AND PUBLISH_LIVE=1 일 때만.
-    if: github.event_name == 'workflow_dispatch'
+    # 자동 발행: build 성공 후 실행.
+    #   push 트리거      → PUBLISH_LIVE=1 이면 실게시(DRY_RUN=0), 아니면 job 자체 스킵(마스터 킬스위치).
+    #   workflow_dispatch → 기존 이중 게이트(dry_run=0 AND PUBLISH_LIVE=1)일 때만 실게시.
+    # 어느 경로든 실게시는 항상 PUBLISH_LIVE=1 이 필수다.
+    needs: build
+    if: >-
+      (github.event_name == 'push' && vars.PUBLISH_LIVE == '1') ||
+      github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -106,24 +115,36 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 2
+          # build job이 방금 푸시한 산출물(mp4·마커)을 포함해 최신 main을 받는다.
+          ref: main
 
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: 날짜 결정 (KST)
+      - name: 스템(회차 키) 결정 (dispatch 입력 → push된 data 파일 → KST 오늘 순)
         id: date
         run: |
           if [ -n "${{ github.event.inputs.date }}" ]; then
             echo "date=${{ github.event.inputs.date }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          # push 이벤트면 트리거 커밋에서 변경된 data/*.json에서 stem(또는 sample)을 뽑는다
+          CHANGED=$(git show --name-only --pretty=format: "${{ github.sha }}" -- data/ 2>/dev/null | grep -E '^data/.*\.json$' | head -1)
+          if [ -n "$CHANGED" ]; then
+            echo "date=$(basename "$CHANGED" .json)" >> "$GITHUB_OUTPUT"
           else
             echo "date=$(TZ=Asia/Seoul date +%F)" >> "$GITHUB_OUTPUT"
           fi
 
       - name: DRY_RUN 결정
+        # push 경로: if 게이트에서 이미 PUBLISH_LIVE=1 확인됨 → 실게시(dry=0).
+        # dispatch 경로: dry_run=0 AND PUBLISH_LIVE=1 이중 게이트 유지.
         id: mode
         run: |
-          if [ "${{ github.event.inputs.dry_run }}" = "0" ] && [ "${{ vars.PUBLISH_LIVE }}" = "1" ]; then
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "dry=0" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.inputs.dry_run }}" = "0" ] && [ "${{ vars.PUBLISH_LIVE }}" = "1" ]; then
             echo "dry=0" >> "$GITHUB_OUTPUT"
           else
             echo "dry=1" >> "$GITHUB_OUTPUT"
@@ -154,4 +175,6 @@ jobs:
           git config user.email byjrasid@gmail.com
           git add containers published || true
           git commit -m "reels publish: ${{ steps.date.outputs.date }}" || echo "커밋 변경 없음"
+          # build job 산출물 push와 경합 방지 — rebase 후 push
+          git pull --rebase origin main || true
           git push
