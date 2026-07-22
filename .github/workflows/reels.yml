@@ -86,6 +86,8 @@ jobs:
           git config user.email byjrasid@gmail.com
           git add docs/videos docs/previews "assets/img/${{ steps.date.outputs.date }}"
           git commit -m "reels build: ${{ steps.date.outputs.date }}" || echo "커밋 변경 없음"
+          # publish 잡이 마커를 먼저 push하면 경합으로 거절됨(2026-07-22 실측) — rebase 재시도
+          git pull --rebase origin main || true
           git push
 
       - name: Telegram 미리보기 전송

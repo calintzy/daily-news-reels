@@ -1,0 +1,44 @@
+name: token-refresh
+
+# 월 1회 (매월 1일 02:00 UTC) — Instagram Login 장기 토큰(60일) 만료 전 재연장.
+# daily-briefing의 검증된 워크플로 이식. secret 대상 리포 = 본 리포(daily-news-reels).
+# 필요 secret: GH_PAT_SECRETS (secrets 갱신 권한 PAT — briefing과 동일 PAT 재사용 가능)
+on:
+  schedule:
+    - cron: "0 2 1 * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 토큰 갱신 (ig_refresh_token)
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT_SECRETS }}
+        run: |
+          echo "::add-mask::$IG_ACCESS_TOKEN"
+          if [ -z "$GH_TOKEN" ]; then
+            echo "GH_PAT_SECRETS 미등록 — 갱신 불가 (수동 갱신 필요)"
+            exit 1
+          fi
+          RES=$(curl -s "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_ACCESS_TOKEN}")
+          NEW=$(echo "$RES" | jq -r '.access_token // empty')
+          EXPIRES=$(echo "$RES" | jq -r '.expires_in // empty')
+          if [ -z "$NEW" ]; then
+            echo "갱신 실패: 응답 생략 (토큰 포함 가능)"
+            exit 1
+          fi
+          echo "::add-mask::$NEW"
+          echo "갱신 성공 — 만료까지 ${EXPIRES}초"
+          echo "$NEW" | gh secret set IG_ACCESS_TOKEN --repo calintzy/daily-news-reels
+
+      - name: 갱신 실패 시 텔레그램 알림
+        if: failure()
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TG_CHAT_ID}" \
+            --data-urlencode "text=[물어오리] IG 토큰 갱신 실패 — 수동 갱신 필요 (60일 만료 주의)"
