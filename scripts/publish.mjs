@@ -15,7 +15,9 @@ import { fileURLToPath } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
-const GRAPH = "https://graph.facebook.com/v21.0";
+// Instagram Login 경로 토큰(IGAA…)은 graph.instagram.com 전용 — graph.facebook.com에
+// 보내면 "Cannot parse access token"(2026-07-22 실측). cardnews publish.mjs와 동일 호스트.
+const GRAPH = "https://graph.instagram.com";
 const DRY = process.env.DRY_RUN === "1";
 
 async function api(path, params, method = "GET") {
