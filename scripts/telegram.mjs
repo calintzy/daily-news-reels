@@ -49,16 +49,24 @@ async function sendVideo(videoPath, caption) {
   console.log(`sendVideo OK: message_id=${json.result.message_id}`);
 }
 
-// 미리보기 캡션: 날짜 + 이슈 5개 제목 + 원문 링크(사실 검수용) + 승인 안내. 4096자 상한.
-function buildPreviewCaption(data) {
+// sendVideo의 미디어 캡션 상한은 1024자(sendMessage 4096과 다름 — 2026-07-22 실측 실패).
+// 영상 캡션은 제목만 짧게, 원문 링크·승인 안내는 별도 sendMessage로 보낸다.
+function buildVideoCaption(data) {
   const lines = [`[릴스 미리보기] ${data.date}`, ""];
   for (const i of data.issues) {
     lines.push(`${i.rank}. ${i.title}`);
-    if (i.sourceLink) lines.push(`   원문: ${i.sourceLink}`);
   }
-  lines.push("");
-  lines.push("사실 검수: 각 원문 링크로 요약이 원문과 맞는지 확인하세요.");
-  lines.push("승인하려면 Actions에서 publish 워크플로우를 실행하세요.");
+  return lines.join("\n").slice(0, 1024);
+}
+
+function buildDetailMessage(data) {
+  const lines = [`[사실 검수] ${data.date} 원문 링크`, ""];
+  for (const i of data.issues) {
+    lines.push(`${i.rank}. ${i.title}`);
+    if (i.sourceLink) lines.push(`${i.sourceLink}`);
+    lines.push("");
+  }
+  lines.push("요약이 원문과 맞는지 확인 후, 승인하려면 Actions에서 publish 워크플로우를 실행하세요.");
   return lines.join("\n").slice(0, 4096);
 }
 
@@ -79,7 +87,8 @@ async function main() {
     // 텔레그램 봇 업로드 상한(50MB) 안내만 — 초과 시 sendVideo가 실패로 알림
     const mb = (statSync(videoPath).size / 1024 / 1024).toFixed(1);
     console.log(`영상 ${mb}MB 전송 시도`);
-    await sendVideo(videoPath, buildPreviewCaption(data));
+    await sendVideo(videoPath, buildVideoCaption(data));
+    await sendMessage(buildDetailMessage(data));
   } else if (mode === "fail") {
     const msg = process.argv[3];
     if (!msg) {
