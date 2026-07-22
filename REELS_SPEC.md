@@ -73,21 +73,19 @@
 - 카테고리 다양성: 정치는 최대 2건까지만. AI·과학, 사건, 국제, 경제, 사회 등으로 고르게.
 - 광고성·홍보성 기사 제외. 단순 시황·연예 가십은 낮은 우선순위.
 
-## 요약 규칙 (가장 중요)
+## 재작성 규칙 (요약·imagePrompt) — 정본: contracts/rewrite/prompt.txt
 
-- **존댓말 2문장.** 각 문장은 존댓말 종결어미(습니다/니다/세요/어요/아요/해요/이에요/예요 계열)로 끝난다.
-- **원문(sourceTitle + sourceDesc)에 없는 고유명사·수치·기관명을 요약에 추가하는 것을 절대 금지한다.**
+각 기사의 title·summary·imagePrompt는 반드시 `contracts/rewrite/prompt.txt`를 읽고 그 규칙을 그대로 적용해 작성한다. 이 파일이 재작성 규칙의 정본이며 ratchetlock 계약(동결 기준선·CI check 게이트)으로 회귀 관리된다.
+
+규칙 요지:
+
+- **summary** — 존댓말 2문장·110자 이내. 각 문장이 존댓말 종결어미(습니다/니다/세요/어요/아요/해요/이에요/예요 계열)로 끝난다. **원문(sourceTitle + sourceDesc)에 없는 고유명사·수치·기관명을 요약에 추가하는 것을 절대 금지**한다.
   - `validate.mjs`가 결정론적으로 대조한다: summary+title에 등장하는 ①모든 아라비아 숫자 ②모든 라틴문자 토큰(2자 이상) ③괄호·따옴표 안 한글 토큰이 `sourceTitle+sourceDesc`에 문자열로 존재해야 통과한다. 미존재 시 FAIL.
   - 따라서 요약에 쓸 숫자·영문·인용 표현은 반드시 원문에 있는 것만 쓴다. 불확실하면 그 표현을 빼고 일반화한다.
 - `sourceTitle`/`sourceDesc`는 반드시 **원문 그대로** 동봉한다(각색·요약 금지). 이것이 사실성 대조의 기준이다.
+- **imagePrompt** — 영문 전용(한글 금지), photojournalism·documentary 스타일, `no people`·`no text` 필수, 실존 인물 묘사 금지(상징 사물·장면으로), `vertical 9:16 composition`, 500자 이내.
 
-## imagePrompt 규칙
-
-- **영문**으로 작성. photojournalism·documentary 스타일.
-- 반드시 `no people`·`no text` 포함.
-- **실존 인물 묘사 금지** — 사건을 상징하는 사물·장면·풍경으로 표현한다(예: 인물 대신 바둑판 클로즈업, 법정 내부, 도시 스카이라인).
-- 세로 9:16 구도(`vertical 9:16 composition`).
-- 한글이 들어가면 검증에서 FAIL(한글 인명이 프롬프트로 유입되는 것을 차단).
+**규칙을 바꾸려면 prompt.txt를 수정한다 — push 시 contract-check 워크플로가 게이트한다. freeze 없이 프로브·프롬프트만 바꾸면 check가 드리프트로 반려할 수 있다.**
 
 ## caption 규칙
 

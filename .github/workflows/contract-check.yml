@@ -1,0 +1,42 @@
+name: contract-check
+
+# 뉴스 재작성 프롬프트 계약(contracts/rewrite)의 결정적 회귀 게이트.
+# contracts/** 변경이 push/PR될 때 ratchetlock check(replay — API 키·claude CLI 불필요)를 돌려
+# 동결 기준선이 깨졌는지 본다. 회귀 시 exit 1 → 빌드 실패 + 텔레그램 알림.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "contracts/**"
+  pull_request:
+    paths:
+      - "contracts/**"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node 20 설치
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: ratchetlock 설치
+        run: npm install --no-save github:calintzy/ratchetlock
+
+      - name: 결정적 check (replay)
+        run: cd contracts/rewrite && npx ratchetlock check
+
+      - name: 실패 시 텔레그램 알림
+        if: failure()
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TG_CHAT_ID}" \
+            --data-urlencode "text=[물어오리] 프롬프트 계약 check 실패 — contracts/rewrite 회귀 확인 필요"

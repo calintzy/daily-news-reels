@@ -1,0 +1,18 @@
+# 뉴스 재작성 프롬프트 계약 — ratchetlock으로 회귀 관리한다.
+# 규칙 정본은 prompt.txt. 프로브(asserts.js)는 scripts/validate.mjs의 규칙을 기사 단위로 이식한 것.
+description: reels-rewrite
+prompts:
+  - file://prompt.txt
+providers:
+  # 라이브(--live) 평가용 — 구독 claude CLI 헤드리스 호출(API 키 불필요).
+  # 결정적 check는 이 프로바이더를 replay-provider.js로 자동 치환한다.
+  - id: 'exec: bash provider.sh'
+    config:
+      timeout: 180000
+defaultTest:
+  assert:
+    - type: javascript
+      value: file://asserts.js
+tests: file://tests.yaml
+evaluateOptions:
+  maxConcurrency: 2

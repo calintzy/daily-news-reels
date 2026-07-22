@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "target": {
+    "config": "promptfooconfig.yaml",
+    "prompts": [
+      "prompt.txt"
+    ],
+    "probes": [
+      "asserts.js"
+    ],
+    "tests": "tests.yaml"
+  },
+  "activePrompt": "prompt.txt",
+  "current": {
+    "prompts": {
+      "prompt.txt": "sha256:c8d402ae15d54437eca22bc1be5f20eb30dc9a36754f620abd4c57a75ac5ace4"
+    },
+    "probes": {
+      "asserts.js": "sha256:55507d6a4f8d1ca15797bcc965214c1f7736039d5fcb3ba99adff4a8ed1b4a51"
+    }
+  },
+  "frozen": [
+    {
+      "id": "2026-07-22T14-45-33Z",
+      "promptId": "prompt.txt",
+      "note": "reels 재작성 프롬프트 초기 동결 6/6(실측 07-22 am+pm)",
+      "promptHash": "sha256:c8d402ae15d54437eca22bc1be5f20eb30dc9a36754f620abd4c57a75ac5ace4",
+      "probeHash": "sha256:16befcd73207ef2daef587610bc275ceb2032bb01a5460c13d210fb9c10fd9dc",
+      "cases": {
+        "07-22 am ① 오세훈 1심 선고 (숫자·인용 고유명사 다수)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"오세훈 '여론조사 대납' 오늘 선고…징역 1년 6개월 구형\",\"summary\":\"오세훈 서울시장이 여론조사 비용을 후원자에게 대신 내게 한 혐의로 재판을 받고 있어요. 특검은 오늘 선고를 앞두고 징역 1년 6개월과 추징금 3300만원을 구형했습니다.\",\"imagePrompt\":\"Photojournalism documentary style photo of an empty Korean courtroom interior, wooden judge's bench, empty witness stand and gavel resting on a desk under solemn overhead lighting, symbolizing a criminal trial verdict, no people, no text, muted realistic tones, vertical 9:16 composition\"}"
+        },
+        "07-22 am ④ 반도체 성장률 (숫자·영문 AI 혼재)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"반도체 호황, 성장률 3%로 상향 조정\",\"summary\":\"정부가 반도체 호황에 힘입어 성장률 전망은 3%로 올리고 고용 전망은 낮췄습니다. 이는 2021년 이후 5년 만의 최고치로, AI 반도체 수출 호조가 배경입니다.\",\"imagePrompt\":\"Photojournalism documentary style, close-up of semiconductor wafer chips on a production line inside a high-tech fabrication plant, glowing blue industrial lighting, precision robotic arms and clean-room equipment, symbolizing a booming chip industry and rising economic growth, vertical 9:16 composition, no people, no text.\"}"
+        },
+        "07-22 am ⑤ 부산 모텔 추락 (평이한 사건, 인용 국적)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"모텔 8층서 탈출하려다 추락, 선원 1명 사망\",\"summary\":\"부산 사상구 모텔 8층에서 인도네시아 선원 2명이 이불로 만든 줄을 타고 탈출하려다 추락했습니다. 이 사고로 1명은 숨지고 1명은 중상을 입었으며, 객실 문은 밖에서 잠겨 있었습니다.\",\"imagePrompt\":\"Photojournalism style documentary photo, torn bedsheet rope dangling from an eighth-floor motel window at night, weathered building exterior facade, dim streetlight glow, urban Korean cityscape below, tense emergency atmosphere, gritty realistic tone, shallow depth of field, vertical 9:16 composition, no people, no text\"}"
+        },
+        "07-22 pm ② 이재명 AI CEO 면담 (영문 고유명사, 평이)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"이재명 대통령, 24일 美 AI기업 CEO 잇따라 면담\",\"summary\":\"이재명 대통령이 오는 24일 미국 샌프란시스코를 방문해 앤트로픽·오픈AI·엔비디아 등 AI 기업 CEO들을 잇따라 만납니다. 한국의 AI 기술 경쟁력을 강화하기 위한 정상급 외교 행보로 풀이됩니다.\",\"imagePrompt\":\"Photojournalism documentary style, vertical 9:16 composition, San Francisco skyline at dusk with Golden Gate Bridge silhouette in the distance, fog rolling over the bay, modern glass tech office towers with glowing windows, empty corporate conference table in foreground with laptops and semiconductor chips scattered on it, symbolizing AI diplomacy and a technology summit, muted blue and amber tones, cinematic lighting, high detail, realistic photo, no people, no text\"}"
+        },
+        "07-22 pm ④ 아산 삼성 HBM (영문 약어·숫자 다수)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"아산, 삼성 HBM 공장 증설 첫 착공\",\"summary\":\"아산시와 삼성전자가 22일 대규모 반도체 투자를 위한 업무협약을 체결했습니다. 배방읍 온양사업장에 3만1000㎡ 첨단 클린룸을 조성해 10월 착공하고 2029년 5월 양산을 목표로 합니다.\",\"imagePrompt\":\"Photojournalism documentary style image of a semiconductor fabrication plant construction site, steel framework and tower cranes under a cloudy sky, cleanroom building shell under construction, industrial construction machinery, concrete foundations, vertical 9:16 composition, no people, no text, realistic natural lighting, high detail\"}"
+        },
+        "07-22 pm ⑤ 6·3 지방선거 CCTV (숫자·영문 CCTV)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"6·3 투표용지 부족, 90명 투표 못했다\",\"summary\":\"6월3일 지방선거 당시 투표 중단 26개 투표소 중 11곳에서 유권자 90명이 투표하지 못했습니다. 이는 선관위가 발표한 44명의 약 2배에 달하는 수치입니다.\",\"imagePrompt\":\"Photojournalism documentary style image of an empty Korean polling station interior, rows of vacant voting booths with blank paper ballots left on the counter, a ceiling-mounted CCTV security camera visible in the corner, dim fluorescent lighting, an empty ballot box in the foreground, quiet and abandoned atmosphere, vertical 9:16 composition, no people, no text\"}"
+        }
+      }
+    }
+  ],
+  "failCases": []
+}
