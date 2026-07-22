@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-23",
+  "slot": "am",
+  "todayOneLiner": "AI 외교부터 부동산 대토론회, 갤럭시 신제품까지 오늘 아침 국내외 핵심 뉴스 TOP 5를 전해드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "AI 외교",
+      "title": "이재명 대통령, AI 빅테크 CEO와 샌프란 회동",
+      "summary": "이재명 대통령이 24일부터 미국을 방문해 샘 올트먼 오픈AI CEO, 젠슨 황 엔비디아 CEO 등 빅테크 수장들과 연쇄 면담합니다. 현지 AI 서밋에서는 한국의 AI 협력 방향을 담은 선언도 발표됩니다.",
+      "sourceTitle": "李대통령, 24일부터 실리콘밸리·브라질·칠레·아르헨 순방…AI·공급망 협력 강화",
+      "sourceDesc": "이재명 대통령이 24일 미국에서 샘 올트먼 오픈AI 최고경영자(CEO), 젠슨 황 엔비디아 CEO, 다리오 아모데이 앤트로픽 CEO, 혹 탄 브로드컴 사장 겸 CEO를 연쇄적으로 면담합니다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+실리콘밸리+AI+순방+2026",
+      "imagePrompt": "Photojournalistic aerial view of glowing AI circuit board patterns overlaying the San Francisco city skyline at dusk, golden and blue tones, no people, no text, vertical 9:16 composition, cinematic documentary style, soft bokeh background"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "집값 토론",
+      "title": "부동산 정책 대토론회, 오늘 이재명 주재",
+      "summary": "이재명 대통령이 오늘 부동산 정책 국민 대토론회를 직접 주재합니다. 공급·금융·세제 등 의견을 수렴해 집값 상승 대응 방안을 마련할 예정입니다.",
+      "sourceTitle": "140명 참여 부동산 대토론회…李, 보유세·실수요 대책 직접 챙긴다",
+      "sourceDesc": "이재명 대통령이 7월 23일 부동산 정책 국민 대토론회에 직접 나서면서 공급·금융·세제 대책을 아우르는 내용을 논의합니다. 실수요자 대출 규제 완화와 보유세 강화 방안이 핵심 의제로 거론됩니다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+부동산+대토론회+2026+7월",
+      "imagePrompt": "Documentary photography of empty conference hall with chairs arranged in formal panel discussion rows, government meeting room interior, soft overhead lighting, vertical 9:16 composition, no people, no text, photojournalism style, muted professional tones"
+    },
+    {
+      "rank": 3,
+      "category": "IT·기술",
+      "kicker": "폴더블 신제품",
+      "title": "삼성, 런던서 갤럭시 Z 폴드8 울트라 공개",
+      "summary": "삼성전자가 영국 런던에서 '갤럭시 언팩 2026'을 열고 갤럭시 Z 폴드8 울트라 등 폴더블 3종과 첫 스마트글래스를 공개했습니다. 구글과 협력해 개발한 '인텔리전트 아이웨어'가 핵심 신제품입니다.",
+      "sourceTitle": "삼성전자, 런던서 '갤럭시 언팩 2026'…폴더블 3종·첫 스마트글래스 공개",
+      "sourceDesc": "삼성전자가 7월 22일 영국 런던에서 '갤럭시 언팩 2026'을 개최해 갤럭시 Z 폴드8 울트라를 비롯한 폴더블 3종과 첫 스마트글래스 '인텔리전트 아이웨어'를 공개했습니다.",
+      "sourceLink": "https://news.google.com/search?q=삼성+갤럭시+언팩+2026+런던+폴드8",
+      "imagePrompt": "Close-up photojournalistic macro shot of a sleek foldable smartphone device partially unfolded on a polished glass surface, subtle reflections, dark studio background with accent lighting, vertical 9:16 composition, no people, no text, documentary product photography style"
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "공공 AI",
+      "title": "공공 AI 박람회 킨텍스 개막…52개사 참여",
+      "summary": "행정안전부 주최의 '2026 공공 AI 박람회'가 오늘 킨텍스에서 개막했습니다. AI 민원과 재해복구 등 공공 분야 AI 혁신 성과를 선보이는 자리입니다.",
+      "sourceTitle": "23~24일 킨텍스 '공공AI 박람회'... 'AI 민주정부' 대도약 선언",
+      "sourceDesc": "행정안전부가 주최하는 '2026 공공 AI 박람회(KPAIX 2026)'가 7월 23~24일 일산 킨텍스 제2전시장에서 열립니다. 삼성SDS, LG CNS, 네이버 클라우드, 카카오 등 52개 기업이 참여합니다.",
+      "sourceLink": "https://news.google.com/search?q=공공+AI+박람회+KPAIX+2026+킨텍스",
+      "imagePrompt": "Wide-angle documentary photography of a large modern exhibition hall interior with glowing blue and white technology display booths, dramatic overhead lighting, empty aisles with digital display screens, vertical 9:16 composition, no people, no text, photojournalism style"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "친환경 정책",
+      "title": "경기도 기후행동 기회소득 8월 지급 중단",
+      "summary": "경기도 '기후행동 기회소득' 지역화폐 보상이 8월부터 중단됩니다. 가입자 202만명을 돌파한 인기 친환경 앱 정책이 예산 부족으로 지속하기 어렵게 됐습니다.",
+      "sourceTitle": "경기도 '기후행동 기회소득' 지역화폐 보상, 8월부터 지급 중단",
+      "sourceDesc": "경기도 '기후행동 기회소득' 지역화폐 보상이 오는 8월부터 중단된다. 도는 7월까지의 실천 활동에 대한 보상은 지역화폐로 지급하되, 8월부터 다른 방식으로 보상을 지급할 방침이다. 기후행동 기회소득 앱 가입자는 202만명을 돌파했다.",
+      "sourceLink": "https://news.google.com/search?q=경기도+기후행동+기회소득+지역화폐+중단+2026",
+      "imagePrompt": "Photojournalistic image of a symbolic eco-friendly digital kiosk terminal placed in an empty urban plaza surrounded by green leaves and trees, natural afternoon light, muted green and gray tones, vertical 9:16 composition, no people, no text, documentary photography style"
+    }
+  ],
+  "caption": "[물어오리] 2026-07-23 아침 브리핑\n\n1. 이재명 대통령, AI 빅테크 CEO와 샌프란 회동\n2. 부동산 정책 대토론회, 오늘 이재명 주재\n3. 삼성, 런던서 갤럭시 Z 폴드8 울트라 공개\n4. 공공 AI 박람회 킨텍스 개막…52개사 참여\n5. 경기도 기후행동 기회소득 8월 지급 중단\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #AI뉴스 #부동산 #삼성갤럭시 #환경\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
