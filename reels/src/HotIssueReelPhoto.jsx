@@ -155,7 +155,7 @@ const Cover = ({date, todayOneLiner, coverSrc}) => {
               color: 'rgba(255,255,255,0.74)',
             }}
           >
-            {date}
+            물어오리 · {date}
           </div>
         </div>
         <div style={{fontSize: 154, fontWeight: 900, lineHeight: 0.86, letterSpacing: '-0.08em'}}>
@@ -174,7 +174,7 @@ const Cover = ({date, todayOneLiner, coverSrc}) => {
             letterSpacing: '-0.1em',
           }}
         >
-          핫이슈
+          뉴스
         </div>
         <div style={{fontSize: 190, fontWeight: 900, lineHeight: 0.82, letterSpacing: '-0.11em'}}>
           TOP 5
@@ -516,6 +516,16 @@ const PhotoOutro = ({startFrame, coverSrc}) => {
           fontFamily,
         }}
       >
+        <Img
+          src={staticFile('brand/duck.png')}
+          style={{
+            width: 210,
+            height: 210,
+            objectFit: 'contain',
+            opacity: titleIn,
+            transform: `rotate(-4deg) scale(${interpolate(titleIn, [0, 1], [0.7, 1])})`,
+          }}
+        />
         <div
           style={{
             fontSize: 30,
@@ -537,9 +547,9 @@ const PhotoOutro = ({startFrame, coverSrc}) => {
             transform: `translateY(${interpolate(titleIn, [0, 1], [40, 0])}px)`,
           }}
         >
-          국내 뉴스 TOP 5
+          뉴스 다섯 개
           <br />
-          <span style={{color: '#FF3B3B'}}>1분</span>이면 끝
+          <span style={{color: '#FF3B3B'}}>물어오리</span>
         </div>
         <div
           style={{
@@ -567,6 +577,17 @@ const PhotoOutro = ({startFrame, coverSrc}) => {
           }}
         >
           지금 저장해 두면 다시 보기 편해요
+        </div>
+        <div
+          style={{
+            fontSize: 26,
+            fontWeight: 800,
+            letterSpacing: '0.14em',
+            color: 'rgba(255,255,255,0.5)',
+            opacity: saveIn,
+          }}
+        >
+          @muleori.news
         </div>
       </div>
       {localFrame < 18 ? (
