@@ -109,17 +109,24 @@ const Cover = ({date, todayOneLiner, coverSrc}) => {
           position: 'absolute',
           left: 72,
           top: 86,
-          padding: '16px 22px',
+          display: 'flex',
+          alignItems: 'center',
+          gap: 16,
+          padding: '12px 22px 12px 14px',
           border: '1px solid rgba(255,255,255,0.34)',
           background: 'rgba(9,12,16,0.28)',
           fontFamily,
-          fontSize: 24,
-          fontWeight: 700,
-          letterSpacing: '0.22em',
+          fontSize: 26,
+          fontWeight: 800,
+          letterSpacing: '0.2em',
           backdropFilter: 'blur(12px)',
         }}
       >
-        MORNING NEWS REELS
+        <Img
+          src={staticFile('brand/duck.png')}
+          style={{width: 54, height: 54, objectFit: 'contain'}}
+        />
+        물어오리 뉴스
       </div>
       <div
         style={{
@@ -155,7 +162,7 @@ const Cover = ({date, todayOneLiner, coverSrc}) => {
               color: 'rgba(255,255,255,0.74)',
             }}
           >
-            물어오리 · {date}
+            {date}
           </div>
         </div>
         <div style={{fontSize: 154, fontWeight: 900, lineHeight: 0.86, letterSpacing: '-0.08em'}}>
