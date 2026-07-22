@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-22",
+  "slot": "pm",
+  "todayOneLiner": "오늘 오후 대한민국을 달군 다섯 가지 소식, 저녁 브리핑으로 전해 드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치·사법",
+      "kicker": "당선무효형 선고",
+      "title": "오세훈 1심 벌금 1000만원…시장직 위기",
+      "summary": "후속 | 오세훈 서울시장이 여론조사 비용 대납 혐의 1심에서 벌금 1000만원을 선고받았습니다. 대법원 확정 시 시장직을 상실하게 되며, 오 시장은 항소심에서 다툴 것이라고 밝혔습니다.",
+      "sourceTitle": "오세훈, '여론조사 대납의혹' 1심서 벌금 1000만원 … 吳 '납득 못해 항소심서 다툴 것'",
+      "sourceDesc": "서울중앙지법 형사합의22부(부장 조형우)는 22일 정치자금법 위반 혐의로 재판에 넘겨진 오 시장에게 벌금 1000만원을 선고했다. 재판부는 공직 자격 상실형 선고가 불가피하다고 밝혔으며, 대법원 확정 시 시장직 상실 및 5년간 공직 선거 출마가 금지된다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%98%A4%EC%84%B8%ED%9B%88+1%EC%8B%AC+%EB%B2%8C%EA%B8%88+1000%EB%A7%8C%EC%9B%90+%EC%84%A0%EA%B3%A0&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, close-up of a polished wooden judge's gavel resting on a circular sound block on a formal courtroom bench, shafts of afternoon light streaming through tall windows onto dark wood paneling, solemn and tense atmosphere, shallow depth of field with blurred wooden seats in background, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "AI·국제",
+      "kicker": "대통령 AI 외교",
+      "title": "이재명, 24일 미국서 빅테크 AI CEO 면담",
+      "summary": "이재명 대통령이 24일 미국 샌프란시스코에서 앤트로픽·오픈AI·엔비디아 CEO들을 만날 예정입니다. 국내 AI 산업 육성을 위한 기술 외교 행보로 주목받고 있습니다.",
+      "sourceTitle": "[속보]李, 24일 美샌프란서 앤트로픽·오픈AI·엔비디아 CEO 면담",
+      "sourceDesc": "이재명 대통령이 오는 24일 미국 샌프란시스코를 방문해 앤트로픽·오픈AI·엔비디아·브로드컴 등 글로벌 AI 기업 최고경영자들을 순차적으로 만난다. 한국의 AI 분야 기술 경쟁력 강화를 위한 정상급 외교 행보다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9D%B4%EC%9E%AC%EB%AA%85+%EC%83%8C%ED%94%84%EB%9E%80%EC%8B%9C%EC%8A%A4%EC%BD%94+AI+CEO+%EB%A9%B4%EB%8B%B4&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, wide-angle shot of a sleek tech campus glass facade reflecting golden afternoon sunlight in Silicon Valley, row of corporate logo signs on polished metal structures in manicured courtyard, futuristic architectural details, warm amber light contrasting cool glass panels, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "3국 공조 결과",
+      "title": "한미일 외교장관, 마닐라서 대북 공조 합의",
+      "summary": "후속 | 한국·미국·일본 외교장관이 필리핀 마닐라 회담에서 한반도 비핵화와 대북 공조 강화에 합의했습니다. 루비오 미 국무장관은 회담 후 역내 협력을 도모했다고 밝혔습니다.",
+      "sourceTitle": "루비오 장관 '아세안에서 미한일 회담…역내 협력 도모'",
+      "sourceDesc": "마코 루비오 미국 국무장관은 22일 필리핀 마닐라에서 한·미·일 외교장관 회의를 마친 뒤 아세안 지역 내 역내 협력을 도모했다고 밝혔다. 3국은 한반도 비핵화 원칙과 대북 억제 태세를 견지하고 긴밀한 공조를 유지하기로 합의했다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%95%9C%EB%AF%B8%EC%9D%BC+%EC%99%B8%EA%B5%90%EC%9E%A5%EA%B4%80+%EB%A7%88%EB%8B%90%EB%9D%BC+%ED%9A%8C%EB%8B%B4+%EA%B2%B0%EA%B3%BC&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, three national flags on tall metal poles standing side by side outdoors in a tropical setting, light breeze gently moving the fabric, formal diplomatic venue with manicured lawns, warm afternoon sunlight creating long shadows, wide open sky with scattered clouds, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제·산업",
+      "kicker": "메가프로젝트 첫삽",
+      "title": "아산-삼성전자 HBM 공장 증설 협약",
+      "summary": "아산시와 삼성전자가 반도체 HBM 생산 공장 증설을 위한 업무협약을 체결했습니다. 이재명 정부의 메가프로젝트 중 전국 최초 착공 사업으로, 오는 10월 착공을 앞두고 있습니다.",
+      "sourceTitle": "아산, 삼성 HBM 공장 증설 첫발…이재명 정부 '3대 메가프로젝트' 전국 첫 착공",
+      "sourceDesc": "아산시장 오세현과 삼성전자 DS부문 TSP총괄 부사장 조성일은 22일 아산시청에서 대규모 첨단 반도체 투자와 지역 상생 발전을 위한 업무협약(MOU)을 체결했다. 배방읍 온양사업장에 3만1000㎡의 첨단 클린룸 생산시설을 조성하며, 10월 착공해 2029년 5월 양산을 목표로 한다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%95%84%EC%82%B0%EC%8B%9C+%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90+HBM+%EA%B3%B5%EC%9E%A5+%ED%98%91%EC%95%BD&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, extreme close-up of advanced semiconductor chip wafers arranged in rows inside a blue-tinted clean room, circuit patterns gleaming under sterile fluorescent lighting, futuristic industrial atmosphere with metallic surfaces reflecting light, technical precision and scale, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "정치·사회",
+      "kicker": "선거 참정권 침해",
+      "title": "6·3 지방선거 CCTV 분석, 투표 못한 90명",
+      "summary": "6·3 지방선거에서 투표용지 부족으로 투표하지 못한 유권자가 CCTV 분석 결과 최소 90명으로 밝혀졌습니다. 공식 투표록의 2배에 달하는 수치로, 국회 국정조사특별위원회가 분석한 결과입니다.",
+      "sourceTitle": "[단독] 6·3 투표용지 부족으로 투표 못한 사람 최소 90명…투표록보다 2배 늘어나",
+      "sourceDesc": "22일 국회 국정조사특별위원회 분석에 따르면, 지난 6월3일 지방선거에서 투표를 일시 중단했던 전국 26개 투표소 중 CCTV가 확보된 11곳에서 유권자 90명이 투표하지 못한 것으로 집계됐다. 이는 선거관리위원회가 발표한 44명의 약 2배에 달하는 수치다.",
+      "sourceLink": "https://news.google.com/search?q=6+3+%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0+%ED%88%AC%ED%91%9C%EC%9A%A9%EC%A7%80+%EB%B6%80%EC%A1%B1+90%EB%AA%85&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, empty voting booth with red curtain panels open revealing bare ballot casting platform, dim institutional overhead lighting casting soft shadows, vacant polling station interior suggesting absence of voters, official signage-free government environment, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-07-22 저녁 브리핑\n\n1. 오세훈 1심 벌금 1000만원…시장직 위기\n2. 이재명, 24일 미국서 빅테크 AI CEO 면담\n3. 한미일 외교장관, 마닐라서 대북 공조 합의\n4. 아산-삼성전자 HBM 공장 증설 협약\n5. 6·3 지방선거 CCTV 분석, 투표 못한 90명\n\n오늘도 물어오리가 낮 뉴스 다섯 가지를 물어왔습니다. 내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #저녁뉴스 #오세훈 #AI외교 #반도체\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
