@@ -145,7 +145,12 @@ async function main() {
       );
       process.exit(1);
     }
+    // 조용한 스킵 금지 — 2026-07-23-am 미발행 사고: 스템 오판으로 전날 마커에 걸려
+    // 스킵됐는데 알림이 없어 발견이 늦었다. 스킵도 반드시 텔레그램으로 보인다.
     console.log(`이미 게시됨: published/${stem} (id=${content}) — 스킵(멱등)`);
+    await notifyTelegram(
+      `[물어오리] publish 스킵: ${stem} 은(는) 이미 게시됨(id=${content}). 의도한 재실행이 아니면 스템 오판·중복 실행을 점검하세요.`
+    );
     process.exit(0);
   }
 

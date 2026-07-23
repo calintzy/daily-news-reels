@@ -1,0 +1,45 @@
+name: watchdog
+
+# 발행 부재 감지 — 원인 불문(루틴 미실행·빌드 실패·스킵 오판·API 에러) 마커가 없으면 경보.
+# 2026-07-23-am 미발행 사고 재발 방지: "성공 알림의 부재"는 사람이 못 보므로 부재 자체를 감지한다.
+# am 발행 ~08:00 KST → 08:30 KST(23:30 UTC 전날) 체크, pm 발행 ~17:30 KST → 18:00 KST(09:00 UTC) 체크.
+# GitHub cron은 지연·누락이 있으므로(07-22 실측) 시각은 여유를 두고, 슬롯은 실행 시각(KST)으로 판별한다.
+on:
+  schedule:
+    - cron: "30 23 * * *"   # 08:30 KST — am 회차 점검
+    - cron: "0 9 * * *"     # 18:00 KST — pm 회차 점검
+  workflow_dispatch:
+
+jobs:
+  check:
+    # 킬스위치를 꺼둔 동안(의도적 발행 중단)은 경보하지 않는다.
+    if: vars.PUBLISH_LIVE == '1'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 오늘 회차 발행 마커 확인
+        id: probe
+        run: |
+          TODAY=$(TZ=Asia/Seoul date +%F)
+          HOUR=$(TZ=Asia/Seoul date +%H)
+          if [ "$HOUR" -lt 12 ]; then SLOT=am; else SLOT=pm; fi
+          STEM="${TODAY}-${SLOT}"
+          echo "stem=$STEM" >> "$GITHUB_OUTPUT"
+          MARKER="published/$STEM"
+          if [ -f "$MARKER" ] && [ "$(cat "$MARKER" | tr -d '[:space:]')" != "pending" ]; then
+            echo "OK: $MARKER (id=$(cat "$MARKER"))"
+          else
+            echo "발행 마커 없음/미완: $MARKER"
+            exit 1
+          fi
+
+      - name: 경보 (텔레그램)
+        if: failure()
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TG_CHAT_ID}" \
+            --data-urlencode "text=[물어오리] 경보: ${{ steps.probe.outputs.stem }} 회차가 아직 발행되지 않았습니다. Actions(reels.yml) 로그와 데이터 커밋 여부를 점검하세요."
