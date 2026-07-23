@@ -27,6 +27,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    outputs:
+      date: ${{ steps.date.outputs.date }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -122,20 +124,13 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 스템(회차 키) 결정 (dispatch 입력 → push된 data 파일 → KST 오늘 순)
+      # 스템은 build job이 계산한 값을 output으로 받는다.
+      # (여기서 git show로 재계산하면 안 된다 — ref:main 체크아웃에선 데이터 커밋이
+      #  shallow 경계가 되어 전체 트리가 diff로 나오고, 사전순 첫 data 파일을 오판한다.
+      #  2026-07-23-am 미발행 사고의 원인.)
+      - name: 스템(회차 키) — build job output 사용
         id: date
-        run: |
-          if [ -n "${{ github.event.inputs.date }}" ]; then
-            echo "date=${{ github.event.inputs.date }}" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          # push 이벤트면 트리거 커밋에서 변경된 data/*.json에서 stem(또는 sample)을 뽑는다
-          CHANGED=$(git show --name-only --pretty=format: "${{ github.sha }}" -- data/ 2>/dev/null | grep -E '^data/.*\.json$' | head -1)
-          if [ -n "$CHANGED" ]; then
-            echo "date=$(basename "$CHANGED" .json)" >> "$GITHUB_OUTPUT"
-          else
-            echo "date=$(TZ=Asia/Seoul date +%F)" >> "$GITHUB_OUTPUT"
-          fi
+        run: echo "date=${{ needs.build.outputs.date }}" >> "$GITHUB_OUTPUT"
 
       - name: DRY_RUN 결정
         # push 경로: if 게이트에서 이미 PUBLISH_LIVE=1 확인됨 → 실게시(dry=0).
