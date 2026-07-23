@@ -12,107 +12,34 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { createRequire } from "node:module";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const FIXTURE_DIR = join(__dirname, "..", "test", "fixtures");
 
-// ─── 상수 ────────────────────────────────────────────────────────
-const MAX_TITLE_LEN = 32;
-const MAX_SUMMARY_LEN = 120; // 스펙: 데이터는 110자 이내 권장, 게이트는 120자 상한
-const MAX_PROMPT_LEN = 500;
+// 기사 단위 규칙은 계약 프로브(contracts/rewrite/asserts.js)와 공유하는 CJS 모듈에서 가져온다.
+// 규칙을 복사하지 않으므로 이중화 드리프트가 없다 (PROBES.md 단일 모듈 패턴).
+const require = createRequire(import.meta.url);
+const {
+  MAX_TITLE_LEN,
+  MAX_SUMMARY_LEN,
+  charLen,
+  splitSentences,
+  checkHonorific,
+  checkFactuality: sharedCheckFactuality,
+  checkImagePrompt,
+} = require("./rewrite-probes.cjs");
+
+// ─── 상수 (최상위 구조·캡션 전용 — 공유 모듈 밖) ─────────────────
 const MAX_CAPTION_LEN = 2200;
 const MIN_ISSUES = 4;
 const MAX_ISSUES = 6;
 const MUSIC_CREDIT = "Music: Kevin MacLeod (incompetech.com), CC BY 4.0";
 
-// (2) 문체 계약: 존댓말 종결어미 화이트리스트.
-// 문장이 아래 어미 중 하나로 끝나야 한다 (습니다/니다/세요/어요/아요/해요/이에요/예요 계열).
-// 마침표·물음표·느낌표, 그리고 종결어미 뒤 괄호 보충까지 허용.
-const HONORIFIC_RE =
-  /(습니다|합니다|입니다|됩니다|있습니다|없습니다|니다|세요|해요|어요|아요|이에요|예요|에요|요)(\([^)]*\))?[.!?]?$/;
-
-// ─── 유틸 ────────────────────────────────────────────────────────
-function charLen(s) {
-  return [...String(s)].length;
-}
-
-// 문장 분리: 마침표·물음표·느낌표 + 공백 기준. 마지막 단편 포함.
-function splitSentences(text) {
-  const clean = String(text).trim();
-  const parts = clean.match(/[^.!?]+[.!?]+|[^.!?]+$/g);
-  return (parts ? parts.map((s) => s.trim()) : [clean]).filter(Boolean);
-}
-
-function checkHonorific(text, label, violations) {
-  const sentences = splitSentences(text);
-  for (const s of sentences) {
-    if (!HONORIFIC_RE.test(s)) {
-      violations.push(`[문체] ${label}: "${s.slice(0, 40)}…" — 존댓말 종결어미 아님`);
-    }
-  }
-}
-
-// ─── (3) 사실성 게이트: 토큰 추출 ─────────────────────────────────
-// summary+title에서 다음 세 종류 토큰을 뽑는다.
-//   ① 아라비아 숫자 토큰 (콤마 제거 후 비교)
-//   ② 라틴문자 토큰 (2자 이상, 소문자化 substring 매칭)
-//   ③ 괄호·따옴표 안의 한글 토큰
-function extractNumberTokens(text) {
-  const found = new Set();
-  // 콤마 포함 숫자(1,000)까지 잡고 콤마 제거. 소수점도 하나의 토큰으로.
-  const matches = String(text).match(/\d[\d,]*(?:\.\d+)?/g) || [];
-  for (const m of matches) found.add(m.replace(/,/g, ""));
-  return [...found];
-}
-
-function extractLatinTokens(text) {
-  const found = new Set();
-  const matches = String(text).match(/[A-Za-z]{2,}/g) || [];
-  for (const m of matches) found.add(m.toLowerCase());
-  return [...found];
-}
-
-function extractQuotedHangulTokens(text) {
-  const found = new Set();
-  const s = String(text);
-  // 괄호 (), 따옴표 "" '' “” ‘’ 안의 내용에서 한글 토큰(2자 이상 연속 한글)을 추출
-  const containers = [
-    ...(s.match(/\(([^)]*)\)/g) || []),
-    ...(s.match(/"([^"]*)"/g) || []),
-    ...(s.match(/'([^']*)'/g) || []),
-    ...(s.match(/“([^”]*)”/g) || []),
-    ...(s.match(/‘([^’]*)’/g) || []),
-  ];
-  for (const c of containers) {
-    const inner = c.slice(1, -1);
-    const hangul = inner.match(/[가-힣]+/g) || [];
-    for (const h of hangul) if (charLen(h) >= 2) found.add(h);
-  }
-  return [...found];
-}
-
-// 원문(source) 정규화: 콤마 제거·소문자化한 형태를 substring 대조에 쓴다.
+// 사실성 게이트: issue 단위 어댑터. 공유 모듈의 checkFactuality를 [사실성] 라벨로 감싼다.
 function checkFactuality(issue, label, violations) {
-  const probe = `${issue.title || ""} ${issue.summary || ""}`;
   const source = `${issue.sourceTitle || ""} ${issue.sourceDesc || ""}`;
-  const sourceNoComma = source.replace(/,/g, "");
-  const sourceLower = sourceNoComma.toLowerCase();
-
-  for (const num of extractNumberTokens(probe)) {
-    if (!sourceNoComma.includes(num)) {
-      violations.push(`[사실성] ${label}: 숫자 "${num}" 이(가) 원문에 없음`);
-    }
-  }
-  for (const lat of extractLatinTokens(probe)) {
-    if (!sourceLower.includes(lat)) {
-      violations.push(`[사실성] ${label}: 라틴 토큰 "${lat}" 이(가) 원문에 없음`);
-    }
-  }
-  for (const hg of extractQuotedHangulTokens(probe)) {
-    if (!source.includes(hg)) {
-      violations.push(`[사실성] ${label}: 인용 한글 "${hg}" 이(가) 원문에 없음`);
-    }
-  }
+  sharedCheckFactuality(issue.title, issue.summary, source, violations, `[사실성] ${label}`);
 }
 
 // ─── 핵심 검증 ───────────────────────────────────────────────────
@@ -177,15 +104,7 @@ function validate(json) {
 
     // 이미지 프롬프트: 영문만(한글 유입 차단), no people·no text 필수, 500자 이내
     if (issue.imagePrompt) {
-      const p = issue.imagePrompt;
-      if (/[가-힣]/.test(p)) {
-        v.push(`[프롬프트] ${label}.imagePrompt 한글 포함 — 영문만 허용`);
-      }
-      if (!/no people/i.test(p)) v.push(`[프롬프트] ${label}.imagePrompt 'no people' 누락`);
-      if (!/no text/i.test(p)) v.push(`[프롬프트] ${label}.imagePrompt 'no text' 누락`);
-      if (charLen(p) > MAX_PROMPT_LEN) {
-        v.push(`[프롬프트] ${label}.imagePrompt ${charLen(p)}자 > ${MAX_PROMPT_LEN}자`);
-      }
+      checkImagePrompt(issue.imagePrompt, v, `[프롬프트] ${label}`);
     }
   });
 
