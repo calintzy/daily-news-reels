@@ -176,11 +176,27 @@ async function main() {
     containerId = readFileSync(containerMarker, "utf-8").trim();
     console.log(`컨테이너 재사용: ${containerId}`);
   } else {
-    const c = await api(
-      `/${igUser}/media`,
-      { media_type: "REELS", video_url: videoUrl, caption, access_token: token },
-      "POST"
-    );
+    // 썸네일 프레임: 커버(매일 동일 디자인) 대신 이슈1 슬라이드 중간 프레임 —
+    // 그리드에 그날의 1위 뉴스 이미지·헤드라인이 보여 날짜별로 구분된다.
+    // 타이밍은 render.mjs 상수 기준: 커버 90f + 이슈 절반 57f = 147f @30fps = 4900ms.
+    const THUMB_OFFSET_MS = 4900;
+    let c;
+    try {
+      c = await api(
+        `/${igUser}/media`,
+        { media_type: "REELS", video_url: videoUrl, caption, thumb_offset: THUMB_OFFSET_MS, access_token: token },
+        "POST"
+      );
+      console.log(`thumb_offset=${THUMB_OFFSET_MS}ms 적용`);
+    } catch (e) {
+      // thumb_offset 미지원/거부 시 발행 자체는 막지 않는다 — 파라미터 없이 재시도.
+      console.log(`thumb_offset 거부(${e.message}) — 파라미터 없이 재시도`);
+      c = await api(
+        `/${igUser}/media`,
+        { media_type: "REELS", video_url: videoUrl, caption, access_token: token },
+        "POST"
+      );
+    }
     containerId = c.id;
     mkdirSync(dirname(containerMarker), { recursive: true });
     writeFileSync(containerMarker, `${containerId}\n`);

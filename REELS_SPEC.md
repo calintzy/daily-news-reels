@@ -57,7 +57,7 @@
   - `sourceTitle` + `sourceDesc` — 원문 그대로. **요약 사실성 대조의 기준**이 되므로 절대 각색하지 않는다.
   - `imagePrompt` — 영문만(한글 포함 시 FAIL). `no people`·`no text` 필수, 500자 이내.
 - `caption` — `Music: Kevin MacLeod (incompetech.com), CC BY 4.0` 필수, http 링크 0건, 2200자 이내.
-- (선택) `coverPrompt` — 없으면 기본값(새벽 도시 스카이라인 뉴스룸 무드) 사용.
+- `coverPrompt` — **반드시 그날 1위(rank 1) 이슈를 상징하는 장면으로 작성한다** (기본값 사용 금지 — 매일 같은 스카이라인이면 프로필 그리드 썸네일이 전부 똑같아진다, 07-24 실측). 규칙은 imagePrompt와 동일: 영문 전용, photojournalism, `no people`·`no text` 필수, 실존 인물 금지, `vertical 9:16 composition`.
 
 ## 수집
 
