@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-24",
+  "slot": "am",
+  "todayOneLiner": "이재명 대통령의 미국 AI 외교부터 보령 어선 전복까지, 오늘 아침 대한민국이 주목하는 소식을 전해드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI·국제",
+      "kicker": "한미 AI 정상 외교",
+      "title": "한미 AI 선언, 빅테크 CEO 연쇄 면담",
+      "summary": "이재명 대통령이 미국 샌프란시스코에서 앤트로픽·오픈AI·엔비디아 CEO들과 면담했습니다. 샌프란시스코 AI 선언을 발표하며 한국의 AI 도약 의지를 밝혔습니다.",
+      "sourceTitle": "李대통령, 앤트로픽·오픈AI·엔비디아 수장 만난다…'샌프란 AI 선언' 발표(종합)",
+      "sourceDesc": "이재명 대통령이 24일 미국 샌프란시스코에서 앤트로픽·오픈AI·엔비디아 등 빅테크 CEO들과 면담하고 샌프란시스코 인공지능(AI) 선언을 발표한다. 이재용 삼성전자 회장, 최태원 SK그룹 회장, 정의선 현대차그룹 회장, 이해진 네이버 의장이 함께하는 AI 서밋도 열려 기업 간 MOU가 체결된다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+샌프란시스코+AI+선언+2026",
+      "imagePrompt": "Close-up of glowing AI circuit board with silicon chips in a high-tech lab environment, dramatic blue side lighting, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "사건·사고",
+      "kicker": "새벽 구조 작전",
+      "title": "보령 어선 새벽 전복, 60대 선원 실종",
+      "summary": "충남 보령시 외연도 해상에서 새벽에 어선이 전복되는 사고가 발생했습니다. 선원 10명이 구조됐으나 60대 남성 1명이 실종돼 해경이 수색 중입니다.",
+      "sourceTitle": "보령 외연도 해상서 어선 전복…10명 구조·1명 실종",
+      "sourceDesc": "7월 24일 오전 3시 47분경 충남 보령시 오천면 외연도 서방 약 21.5해리에서 24톤급 어선이 전복되는 사고가 발생했다. 다른 선박들에 의해 선원 10명이 구조됐으나 60대 내국인 남성 선원 1명이 실종됐으며 해경이 수색 작업을 벌이고 있다.",
+      "sourceLink": "https://news.google.com/search?q=보령+외연도+어선+전복+2026",
+      "imagePrompt": "Dark pre-dawn ocean with emergency rescue lights reflected on turbulent waves, coast guard vessel silhouette in the distance, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "소비자 물가 부담",
+      "title": "농심, 8월부터 컵라면·스낵 가격 인상",
+      "summary": "농심이 8월 1일부터 컵라면과 스낵 등 주요 제품 출고가를 올린다고 밝혔습니다. 신라면 등 봉지라면은 물가 안정을 위해 이번 인상에서 제외됐습니다.",
+      "sourceTitle": "농심, 컵라면·새우깡 가격 올린다…봉지라면은 동결",
+      "sourceDesc": "농심은 8월 1일부터 주요 용기라면과 스낵, 음료 제품의 출고가격을 평균 5.8% 인상한다고 24일 밝혔다. 품목별 평균 인상률은 용기라면 6.0%, 스낵 5.5%, 음료 7.7%이며 신라면 등 봉지라면 전 제품은 인상 대상에서 제외됐다.",
+      "sourceLink": "https://news.google.com/search?q=농심+컵라면+가격인상+2026+8월",
+      "imagePrompt": "Close-up of stacked instant noodle cups on a supermarket shelf under warm fluorescent lighting, shallow depth of field, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "주간 지지율 조사",
+      "title": "이 대통령 지지율 51%, 한 달 만에 최저",
+      "summary": "한국갤럽의 7월 넷째 주 조사에서 이 대통령 지지율이 51%로 한 달 만에 최저를 기록했습니다. 부동산 정책이 처음으로 부정 평가 이유 최상위에 올랐습니다.",
+      "sourceTitle": "이재명 대통령 지지율 51% '한 달 만에 최저'… 부정 평가 1위 '부동산'",
+      "sourceDesc": "한국갤럽이 7월 넷째 주(21~23일) 전국 만 18세 이상 유권자 1003명을 대상으로 실시한 조사에서 이재명 대통령의 직무 수행 긍정 평가는 51%, 부정 평가는 38%로 집계됐다. 현 정부 출범 이후 처음으로 부동산 정책이 부정 평가 이유 최상위에 올랐다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+지지율+51+한국갤럽+2026+7월",
+      "imagePrompt": "Empty polling booth interior with a closed ballot box on a clean table under soft overhead lighting, documentary style, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "양평고속도로 수사",
+      "title": "원희룡, 양평고속도로 의혹 특검 첫 출석",
+      "summary": "원희룡 전 국토교통부 장관이 서울-양평 고속도로 노선 변경 의혹으로 종합특검에 피의자로 출석했습니다. 특검은 노선 변경 경위와 직권 남용 여부를 집중 조사할 방침입니다.",
+      "sourceTitle": "원희룡, '양평고속도로 의혹' 종합특검 피의자 조사 출석",
+      "sourceDesc": "서울-양평 고속도로 노선 변경 의혹을 받는 원희룡 전 국토교통부 장관이 23일 종합특검에 피의자 조사를 받기 위해 출석했다. 특검은 노선 변경 경위와 직권 남용 여부, 윗선 개입 여부를 집중 조사할 방침이다.",
+      "sourceLink": "https://news.google.com/search?q=원희룡+종합특검+양평고속도로+2026",
+      "imagePrompt": "Empty courtroom interior with wooden gallery benches and a spotlight on a lone podium, documentary style, vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-07-24 아침 브리핑\n\n1. 한미 AI 선언, 빅테크 CEO 연쇄 면담\n2. 보령 어선 새벽 전복, 60대 선원 실종\n3. 농심, 8월부터 컵라면·스낵 가격 인상\n4. 이 대통령 지지율 51%, 한 달 만에 최저\n5. 원희룡, 양평고속도로 의혹 특검 첫 출석\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #국내뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
