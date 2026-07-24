@@ -136,7 +136,8 @@ const Cover = ({date, slot, todayOneLiner, coverSrc}) => {
         style={{
           position: 'absolute',
           left: 74,
-          bottom: 238,
+          // 릴스 하단 UI 세이프존: 마지막 요소(todayOneLiner)가 계정명 줄에 가리지 않게.
+          bottom: 340,
           width: 900,
           transform: `translateX(${interpolate(titleEnter, [0, 1], [110, 0])}px)`,
           opacity: 1 - exit,
@@ -352,7 +353,9 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
           position: 'absolute',
           left: 72,
           right: 76,
-          bottom: 78,
+          // 인스타 릴스 하단 UI(계정명·캡션, 프레임 하단 ~360px)가 요약 박스를 가리지 않도록
+          // 세이프존 위로 올린다 (07-24 실기기 스크린샷에서 가림 확인).
+          bottom: 330,
           paddingTop: 156,
           paddingBottom: 32,
           fontFamily,
