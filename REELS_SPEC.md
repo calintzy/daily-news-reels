@@ -53,7 +53,7 @@
 - `todayOneLiner` — 필수. 존댓말 종결어미로 끝나는 한 줄.
 - `issues` — 4~6개. `rank`는 1부터 연속.
   - `title` — 32자 이내.
-  - `summary` — 120자 이내, 문장 2개 이하, 존댓말 종결.
+  - `summary` — **120자 초과 시 validate가 발행을 반려한다(07-24·25 이틀 연속 실측 — 하드 게이트)**. 안전하게 105자 이하로 쓴다. 문장 2개 이하, 존댓말 종결.
   - `sourceTitle` + `sourceDesc` — 원문 그대로. **요약 사실성 대조의 기준**이 되므로 절대 각색하지 않는다.
   - `imagePrompt` — 영문만(한글 포함 시 FAIL). `no people`·`no text` 필수, 500자 이내.
 - `caption` — `Music: Kevin MacLeod (incompetech.com), CC BY 4.0` 필수, http 링크 0건, 2200자 이내.
