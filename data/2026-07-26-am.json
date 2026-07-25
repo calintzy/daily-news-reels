@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-26",
+  "slot": "am",
+  "coverPrompt": "Scorched empty city street under an intense summer sun, heat waves shimmering above the asphalt, wilted roadside plants beside a cracked sidewalk, blazing afternoon light, no people, no text, photojournalism documentary style, vertical 9:16 composition.",
+  "todayOneLiner": "전국 폭염특보와 북한군 추가 파병 논란까지, 오늘 아침 대한민국이 주목하는 소식을 전해드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "극한의 더위",
+      "title": "전국 폭염특보, 체감온도 39도 극단",
+      "summary": "전국에 폭염특보가 발효되고 체감온도가 39도에 이르는 극단적 더위가 이어지고 있습니다. 중부지방에는 소나기가 오겠으나 열대야를 동반한 폭염은 계속될 전망입니다.",
+      "sourceTitle": "[내일 날씨] 전국 폭염특보, 체감 39도 극단적 더위…중부 '소나기'",
+      "sourceDesc": "폭염중대경보가 발효된 가운데 최고 체감온도가 38℃(또는 최고기온 39℃) 이상으로 올라갈 것으로 예측됩니다. 밤사이 기온이 충분히 떨어지지 않아 밤 최저기온이 25℃ 이상으로 유지되면서 열대야가 나타나는 곳이 많겠습니다. 중부지방에는 소나기가 예보됩니다.",
+      "sourceLink": "https://news.google.com/search?q=전국+폭염특보+체감+39도+2026+7월",
+      "imagePrompt": "Scorched concrete sidewalk baking under intense summer sun, heat waves shimmering above empty pavement, wilted roadside plants drooping in extreme heat, dramatic blazing summer sky, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "북-러 밀착",
+      "title": "젤렌스키, 러시아가 북한군 3만명 추가 파견 원해",
+      "summary": "우크라이나 대통령은 러시아가 북한군 3만명을 추가로 파견하길 원한다고 주장했습니다. 접경지에 이들을 배치하기 위한 준비가 이미 진행 중인 것으로 전해졌습니다.",
+      "sourceTitle": "젤렌스키 '러, 北병력 3만명 추가 파견 원해…접경지 배치 준비'",
+      "sourceDesc": "젤렌스키 우크라이나 대통령은 러시아가 북한군 3만명을 추가로 데려오려 한다고 밝혔다. 6월부터 러시아 접경지역에 이들을 수용하기 위한 준비가 진행되고 있다고 말했다.",
+      "sourceLink": "https://news.google.com/search?q=젤렌스키+러시아+북한군+3만명+추가+파병+2026",
+      "imagePrompt": "Military deployment map spread on a briefing table showing Eastern Europe and Northeast Asia, strategic markers and tactical overlays, dim operational room atmosphere, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "금리 긴축 개시",
+      "title": "한국은행, 3년여 만에 기준금리 인상",
+      "summary": "한국은행이 물가 상승과 가계부채 우려를 이유로 기준금리를 인상했습니다. 수년 만에 이뤄진 인상으로, 추가 금리 인상 가능성도 시사됐습니다.",
+      "sourceTitle": "Bank of Korea raises rates to 2.75% in first hike in over three years",
+      "sourceDesc": "The Bank of Korea raised its benchmark interest rate by 25 basis points to 2.75% on July 16, the first rate increase in over three years. The hike comes as inflation rose to 3.2% in June 2026, well above the bank's 2% target, with household debt and housing prices remaining elevated.",
+      "sourceLink": "https://news.google.com/search?q=한국은행+기준금리+인상+2026+7월",
+      "imagePrompt": "South Korean central bank building exterior at dawn, stone facade with formal columns and national emblem, long shadows cast across an empty granite plaza in soft morning light, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "외교",
+      "kicker": "아세안 외교",
+      "title": "외교장관, 아세안서 북한 대화 복귀 촉구",
+      "summary": "한국 외교장관이 아세안 지역안보포럼에서 북한의 대화 복귀를 촉구했습니다. 북한은 지난해에 이어 올해도 포럼에 불참하며 대화 의지를 보이지 않고 있습니다.",
+      "sourceTitle": "Seoul's foreign minister calls for support for peace on Korean Peninsula at Asean Plus Three talks",
+      "sourceDesc": "South Korea's Foreign Minister called on North Korea to respond to Seoul's offers for dialogue at the ASEAN Regional Forum, a 27-member multilateral security forum, in Manila on July 24. North Korea was absent from the forum for the second consecutive year, deepening concerns over peninsula stability.",
+      "sourceLink": "https://news.google.com/search?q=한국+외교장관+아세안+ARF+북한+대화+2026",
+      "imagePrompt": "Empty international conference hall with rows of national nameplates and flags arranged around a large circular table, warm overhead lighting illuminating vacant diplomatic seats and polished wood surfaces, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "반도체 슈퍼사이클",
+      "title": "정부, 반도체 AI 붐에 성장률 전망 3%로 상향",
+      "summary": "정부가 AI 반도체 수출 호조를 근거로 올해 성장률 전망을 3%로 상향 조정했습니다. 연초 전망보다 높아진 수치로, 반도체 수출이 경제 성장을 견인하고 있습니다.",
+      "sourceTitle": "Korea eyes 3% growth in 2026 riding on AI chip boom",
+      "sourceDesc": "South Korea's government raised the country's real GDP growth forecast for 2026 to 3 percent, up from the January projection of 2 percent, citing robust semiconductor exports driven by strong global demand for AI chips.",
+      "sourceLink": "https://news.google.com/search?q=한국+GDP+성장률+반도체+AI+2026",
+      "imagePrompt": "Macro close-up of semiconductor chip wafer under precision microscope lighting, intricate circuit patterns glowing in cool blue ambient light, cleanroom atmosphere, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-07-26 아침 브리핑\n\n1. 전국 폭염특보, 체감온도 39도 극단\n2. 젤렌스키, 러시아가 북한군 3만명 추가 파견 원해\n3. 한국은행, 3년여 만에 기준금리 인상\n4. 외교장관, 아세안서 북한 대화 복귀 촉구\n5. 정부, 반도체 AI 붐에 성장률 전망 3%로 상향\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #국내뉴스 #폭염 #반도체 #AI #한국은행\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
