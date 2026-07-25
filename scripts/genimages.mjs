@@ -14,8 +14,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 
 const IMAGES_ENDPOINT = "https://api.openai.com/v1/images/generations";
-// 임시 폴백(2026-07-25 저녁): gpt-image-1.5 지속 500 장애 — 발행 후 원복 예정
-const MODEL = "gpt-image-1-mini";
+const MODEL = "gpt-image-1.5";
 const SIZE = "1024x1536";
 
 // 커버 프롬프트 기본값 (데이터에 coverPrompt 없을 때)
