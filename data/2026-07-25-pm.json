@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-25",
+  "slot": "pm",
+  "coverPrompt": "Macro photograph of a silicon wafer resting on a dark reflective surface, with beams of blue and white light radiating outward suggesting global connectivity, photojournalism documentary style, no people, no text, vertical 9:16 composition.",
+  "todayOneLiner": "이재명 대통령의 샌프란시스코 AI 선언부터 전국 폭염 비상까지, 오늘 저녁 대한민국이 주목하는 소식을 전해드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI·국제",
+      "kicker": "한미 AI 동맹",
+      "title": "대통령 AI 선언…한미 9천500억달러 반도체 동맹",
+      "summary": "한미 AI 서밋 후속으로 이재명 대통령이 샌프란시스코 AI 선언을 공식 발표했습니다. 국내 기업과 글로벌 빅테크가 9천500억달러 규모의 반도체·AI 협력을 추진하기로 했습니다.",
+      "sourceTitle": "이 대통령 '샌프란 AI선언'…\"대한민국, 대체불가 공급망 핵심 국가로\"",
+      "sourceDesc": "이재명 대통령이 샌프란시스코 AI 서밋에서 '샌프란시스코 AI 선언'을 발표하며 대한민국이 대체 불가한 글로벌 AI 공급망의 핵심 국가로 도약하겠다고 선언했다. 국내 기업과 글로벌 빅테크 기업들이 총 9천500억달러 규모의 반도체·AI 협력을 추진하기로 합의했다.",
+      "sourceLink": "https://news.google.com/search?q=샌프란시스코+AI+선언+이재명+9천500억달러+2026+7월",
+      "imagePrompt": "Documentary close-up of interconnected fiber-optic cables and glowing circuit board traces in cool blue and white light against a dark background, representing a global AI supply network, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "수사권 전쟁",
+      "title": "보완수사권 폐지 공방…여야 입법 전쟁 가열",
+      "summary": "민주당의 보완수사권 폐지 입법 추진이 후속 쟁점으로 부상하며 여야 공방이 격화됐습니다. 민주당은 법사위 소위 심사를 다음 주 초 진행할 계획이며 국민의힘은 파상공세로 저지에 나서고 있습니다.",
+      "sourceTitle": "보완수사권 폐지 공방…與 \"법치 무너뜨린 것은 검찰\" 野 \"팬덤 위한 전대용 입법\"",
+      "sourceDesc": "더불어민주당이 보완수사권 폐지 형사소송법 개정안 당론을 확정한 가운데 여야 간 입법 공방이 격화됐다. 민주당은 법사위 소위 심사를 다음 주 초 진행할 계획이며, 국민의힘은 강성 팬덤을 위한 전당대회용 입법이라고 규정하며 저지 파상공세에 나섰다.",
+      "sourceLink": "https://news.google.com/search?q=보완수사권+폐지+여야+공방+국회+2026+7월+25일",
+      "imagePrompt": "Wide-angle interior view of an empty legislative chamber with rows of wooden seats under bright overhead lighting and a large national emblem on the back wall, photojournalism documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "AI·과학",
+      "kicker": "피지컬 AI",
+      "title": "현대차·엔비디아, 피지컬 AI 도시화 동맹",
+      "summary": "정의선 현대차그룹 회장이 엔비디아와 피지컬 AI 파트너십을 맺고 자동차·로보틱스·AI 팩토리를 연결하는 도시 지능화 청사진을 공개했습니다. 양사는 오픈소스 로봇 생태계 공동 구축과 피지컬 AI 인재 육성을 추진하기로 했습니다.",
+      "sourceTitle": "현대차그룹·엔비디아, 피지컬 AI 동맹…정의선 \"도시 지능화까지 확장\"",
+      "sourceDesc": "현대차그룹 정의선 회장이 샌프란시스코 AI 서밋에서 엔비디아와 피지컬 AI 동맹을 체결하고 도시 지능화 사회 구현 청사진을 제시했다. 자동차·로보틱스·AI 팩토리를 넘어 도시 전체를 AI로 연결하는 지능화 사회를 목표로, 오픈소스 로봇 생태계를 공동 구축하기로 했다.",
+      "sourceLink": "https://news.google.com/search?q=현대차그룹+엔비디아+피지컬+AI+동맹+정의선+도시지능화+2026+7월",
+      "imagePrompt": "Close-up of a robotic arm with precision joints resting in a brightly lit factory, amber and metallic tones, blurred conveyor line in background suggesting intelligent manufacturing, documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "기름값 동결",
+      "title": "정부, 8차 석유 최고가격 동결…휘발유 1784원",
+      "summary": "산업통상부가 8차 석유 최고가격을 동결해 휘발유 L당 1784원·경유 1773원이 4주간 유지됩니다. 국제유가가 배럴당 100달러를 넘어선 가운데 서민 부담 경감을 위해 최고가격제가 유지됩니다.",
+      "sourceTitle": "8차 석유 최고가격 동결…휘발유 1784원·경유 1773원 유지",
+      "sourceDesc": "산업통상부가 25일 0시부터 4주간 적용될 8차 석유 최고가격을 기존 7차와 동일하게 동결하기로 했다. 중동 위기 고조로 국제유가가 배럴당 100달러를 넘어서면서 휘발유 L당 1784원·경유 1773원·등유 1380원을 유지하며 고물가·서민경제 부담을 고려한 조치라고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=8차+석유+최고가격+동결+휘발유+1784원+경유+1773원+2026+7월+25일",
+      "imagePrompt": "Aerial view of gas station canopies and fuel dispensers lining an urban road at night, dark asphalt reflecting orange streetlights, documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "폭염 경보",
+      "title": "전국 폭염 비상…온열질환 첫 사망 잇따라",
+      "summary": "경남 고성군에서 90대 여성이 비닐하우스 작업 중 열사병으로 사망하는 등 폭염 피해가 이어지고 있습니다. 25일도 전국 대부분 지역에서 체감 온도 35도 안팎의 무더위가 예보돼 온열질환 주의가 요구됩니다.",
+      "sourceTitle": "경남서 올해 첫 온열질환 사망…한반도 폭염 비상(종합)",
+      "sourceDesc": "경남 고성군 하일면 비닐하우스에서 일하던 90대 여성이 열사병으로 쓰러져 사망하면서 경남에서 올해 첫 온열질환 사망자가 발생했다. 25일도 전국 대부분 지역에서 최고 체감온도 35도 안팎의 폭염이 이어지겠으며 온열질환 예방에 각별한 주의가 당부되고 있다.",
+      "sourceLink": "https://news.google.com/search?q=경남+고성+온열질환+사망+폭염+비상+2026+7월+25일",
+      "imagePrompt": "Cracked dry earth and a wilted straw hat abandoned in a dry field under a blazing white sky, heat haze shimmering on the distant horizon, documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-07-25 저녁 브리핑\n\n1. 대통령 AI 선언…한미 9천500억달러 반도체 동맹\n2. 보완수사권 폐지 공방…여야 입법 전쟁 가열\n3. 현대차·엔비디아, 피지컬 AI 도시화 동맹\n4. 정부, 8차 석유 최고가격 동결…휘발유 1784원\n5. 전국 폭염 비상…온열질환 첫 사망 잇따라\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #국내뉴스 #AI #폭염\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
