@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-26",
+  "slot": "pm",
+  "coverPrompt": "Sleek glass-and-steel tech campus plaza at dusk, server farm ventilation towers rising behind an empty forecourt, dramatic orange-gold sunset casting long shadows across polished concrete, no people, no text, photojournalism documentary style, vertical 9:16 composition.",
+  "todayOneLiner": "대통령의 AI 선언부터 건보료 개편과 유네스코 레바논 등재까지, 오늘 저녁 꼭 알아야 할 소식을 전해드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "외교",
+      "kicker": "AI 선도국 선언",
+      "title": "샌프란 AI 선언, 삼성·SK 9500억달러 협약",
+      "summary": "이재명 대통령이 샌프란시스코 AI서밋에서 한국의 글로벌 AI 공급망 선도 비전을 선언했습니다. 삼성전자·SK가 빅테크와 9500억달러 규모의 반도체 협력을 추진하기로 했습니다.",
+      "sourceTitle": "이 대통령, '샌프란시스코 AI 선언' 발표...\"공급망 핵심 국가로 도약\"",
+      "sourceDesc": "이재명 대통령이 미국 샌프란시스코 AI서밋에서 '샌프란시스코 AI 선언'을 발표하고 한국이 글로벌 AI 공급망의 핵심 국가로 도약하겠다고 선언했다. 삼성전자와 SK 등 국내 기업이 엔비디아·브로드컴 등 빅테크와 총 9500억달러 규모의 반도체 협력을 추진하기로 했다.",
+      "sourceLink": "https://news.google.com/search?q=샌프란시스코+AI+선언+이대통령+9500억달러+2026",
+      "imagePrompt": "Empty high-tech conference stage with spot-lit podium casting a long shadow, abstract digital pattern displayed on a large curved screen behind, sleek modern auditorium interior with cool blue ambient light, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "건보료 개편",
+      "title": "건보료 상한 612만원, 하한도 현실화",
+      "summary": "정부가 건강보험료 부과체계 개편안을 보고했습니다. 초고소득자의 월 상한이 459만원에서 612만원으로 오르고, 26년간 동결된 하한선도 최저임금과 연동해 현실화됩니다.",
+      "sourceTitle": "초고소득자 건보료 최대 612만원…26년 묵은 하한선도 현실화",
+      "sourceDesc": "정부가 건강보험료 부과체계 개편안을 건강보험정책심의위원회 소위원회에 보고했다. 직장가입자의 월 최고 보험료(본인 부담 기준)는 현행 459만원에서 612만원으로 약 33% 오른다. 26년간 동결된 직장가입자의 하한 기준도 최저임금과 연동하도록 했다.",
+      "sourceLink": "https://news.google.com/search?q=건강보험료+상한+612만원+하한+최저임금+연동+2026+7월",
+      "imagePrompt": "Official government policy binder and statistical charts spread on a conference table, blurred ministry building exterior visible through frosted glass in background, neutral bureaucratic lighting, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "문화유산 긴급 구조",
+      "title": "부산 세계유산위, 레바논 성채·팔레스타인 유적 등재",
+      "summary": "부산 세계유산위원회에서 레바논 성채 5곳과 팔레스타인 세바스티아 유적이 세계유산으로 등재됐습니다. 전쟁 속 유산 보호를 위해 이스라엘의 반대에도 긴급 절차로 진행됐습니다.",
+      "sourceTitle": "UNESCO adds West Bank site and Lebanese castles to World Heritage List despite Israeli objections",
+      "sourceDesc": "레바논 남부 마운트 아멜 지역의 성채 5곳과 팔레스타인 자치 지역의 세바스티아(Sebastia) 유적이 부산에서 열린 제48차 유네스코 세계유산위원회에서 세계유산 목록에 등재됐다. 이스라엘의 반대에도 불구하고 지역 내 지속되는 갈등 상황을 고려해 긴급 절차로 진행됐다.",
+      "sourceLink": "https://news.google.com/search?q=유네스코+세계유산+레바논+성채+팔레스타인+부산+2026",
+      "imagePrompt": "Ancient stone medieval fortress ruins on a sunlit hilltop, crumbling battlements and arched gateways draped in golden afternoon light, sparse scrubland stretching across the landscape below a dramatic cloudy sky, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "항암 신호 발견",
+      "title": "국내 연구진, 암세포 성장 신호 스위치 규명",
+      "summary": "국내 연구진이 세포가 영양 상태를 감지해 성장 신호를 활성화하는 핵심 원리를 규명했습니다. 이번 발견이 암세포의 비정상적인 성장 신호를 차단하는 차세대 항암 치료법 개발에 활용될 것으로 기대됩니다.",
+      "sourceTitle": "세포 성장 신호 '스위치' 찾아…차세대 항암 치료 새로운 전환점",
+      "sourceDesc": "국내 연구진이 세포가 영양 상태를 감지해 성장 신호를 활성화하는 핵심 원리를 규명했다. 이 연구는 암세포의 비정상적인 성장 신호를 차단하는 차세대 항암 치료법 개발에 활용될 것으로 기대된다.",
+      "sourceLink": "https://news.google.com/search?q=암세포+성장신호+스위치+항암+국내연구+2026",
+      "imagePrompt": "Macro close-up of a glowing cell culture under fluorescence microscopy, intricate cellular membrane structures illuminated in vivid blue-green against a dark field, lab equipment blurred softly in the background, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "문화",
+      "kicker": "시장 투명화",
+      "title": "미술서비스업 신고제 오늘부터 시행",
+      "summary": "오늘부터 화랑업·경매업 등 미술서비스업 6개 분야 사업자는 관할 지자체에 의무적으로 신고해야 합니다. 투명한 미술 시장 조성을 위해 도입된 이 제도는 1년간 계도기간을 운영합니다.",
+      "sourceTitle": "미술서비스업 신고제 26일 시행…화랑·경매업 등 신고 의무화",
+      "sourceDesc": "문화체육관광부는 7월 26일부터 미술서비스업 신고제를 시행한다. 화랑업, 미술품 경매업, 미술품 자문업, 미술품 대여·판매업, 미술품 감정업, 미술 전시업 6개 분야 영업을 영위하려는 사업자는 관할 지방자치단체장에게 반드시 신고해야 한다. 계도기간은 2027년 7월 25일까지 1년간 운영한다.",
+      "sourceLink": "https://news.google.com/search?q=미술서비스업+신고제+2026+7월+26일+시행",
+      "imagePrompt": "Elegant empty white-walled gallery interior, framed artworks under warm spotlights on pristine walls, polished concrete floor reflecting overhead light, an auction hammer resting on a podium in the foreground, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-07-26 저녁 브리핑\n\n1. 샌프란 AI 선언, 삼성·SK 9500억달러 협약\n2. 건보료 상한 612만원, 하한도 현실화\n3. 부산 세계유산위, 레바논 성채·팔레스타인 유적 등재\n4. 국내 연구진, 암세포 성장 신호 스위치 규명\n5. 미술서비스업 신고제 오늘부터 시행\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #국내뉴스 #AI #반도체 #건보료 #세계유산 #항암연구\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
