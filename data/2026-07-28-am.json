@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-28",
+  "slot": "am",
+  "coverPrompt": "A close-up of official government reimbursement documents stamped with a large red official seal on a dark wooden desk, a formal legal folder and a ballpoint pen placed beside it, dramatic directional desk lamp casting sharp shadows across the papers, deep shadowed background, tense administrative atmosphere. Vertical 9:16 composition. Photojournalism documentary style. no people, no text.",
+  "todayOneLiner": "국민의힘 397억 사법리스크부터 트럼프 이란 협상 경고까지, 오늘 아침 꼭 알아야 할 국내외 뉴스를 전해드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "尹 판결 후폭풍",
+      "title": "국민의힘 397억 반환 위기…후속 대책 주목",
+      "summary": "후속: 윤석열 전 대통령의 선거법 1심 유죄로 국민의힘에 397억원 반환 위기가 현실화됐습니다. 민주당이 즉각 반환을 압박하는 가운데 당은 당사 매각은 고려 안 한다고 밝혔습니다.",
+      "sourceTitle": "397억 사법리스크 휩싸인 국힘… 민주 \"책임지고 반환\" 압박",
+      "sourceDesc": "윤석열 전 대통령의 공직선거법 1심 유죄 판결로 국민의힘이 대선 보조금 397억원을 반환해야 하는 위기에 처했다. 더불어민주당은 국민의힘이 책임지고 반환하라고 압박하는 가운데, 당사 매각은 고려하지 않는다는 입장이다.",
+      "sourceLink": "https://news.google.com/search?q=국민의힘+397억+반환+사법리스크+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A stack of official government reimbursement forms stamped with a large red official seal on a dark wooden desk, a formal legal folder and a ballpoint pen placed beside it, dramatic directional lighting casting sharp shadows, isolated dark background. Vertical 9:16 composition. Photojournalism documentary style. no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "미·이란 핵담판",
+      "title": "트럼프, 이란 협상 중…실패 시 군사행동 경고",
+      "summary": "트럼프 대통령이 이란과 심도있는 협상을 진행 중이라며 협상 실패 시 강력한 군사행동으로 돌아갈 것이라고 경고했습니다. 이란도 공격 중단을 조건으로 협상 의지를 미국 측에 전달했습니다.",
+      "sourceTitle": "트럼프 \"이란과 심도있는 협상중…실패시 매우 강력한 군사행동\"",
+      "sourceDesc": "도널드 트럼프 미국 대통령이 이란과 심도있는 협상을 진행 중이라고 밝히며, 협상이 실패하면 매우 강력한 군사행동으로 돌아갈 것이라고 경고했습니다. 이란 측은 공격이 멈추면 작전을 중단할 것이라는 메시지를 미국 측에 전달했습니다.",
+      "sourceLink": "https://news.google.com/search?q=트럼프+이란+협상+군사행동+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "The exterior of the White House South Portico at dusk seen across a still reflecting pool, warm golden sunset light washing over the white facade, an American flag on its flagpole against a deep blue twilight sky, manicured lawn in the foreground. Vertical 9:16 composition. Photojournalism documentary style. no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "반도체 훈풍",
+      "title": "7월 소비자심리 3개월째 상승…집값 전망 최고",
+      "summary": "한국은행의 2026년 7월 소비자동향조사에서 소비자심리지수가 3개월 연속 상승했습니다. 반도체 중심 수출 호조에 힘입어 집값 상승 기대도 4년 10개월 만에 최고치를 기록했습니다.",
+      "sourceTitle": "소비심리 3개월째 개선···집값 전망 4년10개월 만에 최고",
+      "sourceDesc": "한국은행이 28일 발표한 2026년 7월 소비자동향조사에서 소비자심리지수(CCSI)는 106.8로 전월보다 0.2포인트 올랐다. 반도체 중심 수출 호조에 힘입어 3개월 연속 상승했으며, 집값 전망 지수는 4년 10개월 만에 최고치를 기록했다.",
+      "sourceLink": "https://news.google.com/search?q=소비자심리지수+3개월+상승+반도체+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A macro close-up of a semiconductor wafer with geometric circuit patterns catching golden light, subtle iridescent color gradients on the chip surface against a dark background, crisp technical detail suggesting precision manufacturing. Vertical 9:16 composition. Photojournalism documentary style. no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "건강보험 개편",
+      "title": "건보료 상한 459→612만원 인상 추진",
+      "summary": "정부가 직장가입자 건강보험료 상한선을 현행 월 459만원에서 612만원으로 높이는 방안을 추진합니다. 26년간 동결된 하한선도 최저임금에 연계해 함께 현실화할 계획입니다.",
+      "sourceTitle": "초고소득자 건보료 월 최대 612만원…상·하한선 모두 올린다",
+      "sourceDesc": "보건복지부가 직장가입자 건강보험료 상한선을 현행 월 459만원에서 612만원으로 인상하는 개편안을 추진한다. 26년 동안 동결됐던 하한선도 최저임금에 연계해 현실화하는 방안이 함께 추진된다.",
+      "sourceLink": "https://news.google.com/search?q=건보료+상한+612만원+인상+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A Korean health insurance card and a small stack of prescription medicine bottles resting on a clean hospital counter, cool clinical white light from above creating minimal soft shadows, sterile institutional atmosphere. Vertical 9:16 composition. Photojournalism documentary style. no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "K-AI 등장",
+      "title": "전 국민 무료 AI 서비스 '모두의 AI' 12월 출시",
+      "summary": "정부가 전 국민이 무료로 이용할 수 있는 AI 서비스 '모두의 AI'를 12월 출시합니다. 국내 AI 모델을 80% 이상 적용하고 내년부터는 AI 에이전트로 진화시킬 계획입니다.",
+      "sourceTitle": "전 국민 무료 이용 '모두의 AI' 12월 나온다...배경훈 \"보안특화 모델도 연내 공개\"",
+      "sourceDesc": "정부가 전 국민이 무료로 이용할 수 있는 한국형 AI 서비스 '모두의 AI'를 오는 12월 출시한다. 국내 AI 모델을 80% 이상 적용하며, 내년부터는 AI 에이전트로 진화해 예약·결제·민원을 처리할 계획이다.",
+      "sourceLink": "https://news.google.com/search?q=모두의+AI+12월+출시+2026년&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A glowing smartphone lying face-up on a clean white minimalist desk, soft blue ambient light emanating from the screen into a darkened room, sleek modern aesthetic symbolizing a digital AI assistant. Vertical 9:16 composition. Photojournalism documentary style. no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-07-28 아침 브리핑\n\n1. 국민의힘 397억 반환 위기…후속 대책 주목\n2. 트럼프, 이란 협상 중…실패 시 군사행동 경고\n3. 7월 소비자심리 3개월째 상승…집값 전망 최고\n4. 건보료 상한 459→612만원 인상 추진\n5. 전 국민 무료 AI 서비스 '모두의 AI' 12월 출시\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #국내뉴스 #국민의힘 #이란 #AI #건강보험\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
