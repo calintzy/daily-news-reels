@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-27",
+  "slot": "pm",
+  "coverPrompt": "Wide-angle view of a formal Korean district court chamber looking toward the elevated judge's bench from the empty public gallery, a large national court emblem mounted on the wall behind the bench, an ornate wooden gavel and legal nameplate resting on the bench surface, institutional overhead lighting casting stark order and gravity across the vacant chamber, no people, no text, photojournalism documentary style, vertical 9:16 composition.",
+  "todayOneLiner": "전 대통령 1심 선고부터 북핵 강경 담화·세기의 이혼 판결까지, 오늘 저녁 꼭 알아야 할 국내 뉴스 다섯 가지를 전해드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "대선 허위발언",
+      "title": "윤석열 허위발언 1심 징역형 집행유예 선고",
+      "summary": "서울중앙지법이 윤 전 대통령에게 징역 1년6개월, 집행유예 3년을 선고했습니다. 형이 확정되면 국민의힘은 대선 당시 보전받은 약 397억원의 선거비용을 반환해야 합니다.",
+      "sourceTitle": "尹 '허위발언' 1심 징역 1년6개월·집유 3년…확정시 국힘 397억 반환",
+      "sourceDesc": "서울중앙지법 형사합의21부는 27일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령에 대해 징역 1년6개월, 집행유예 3년을 선고했습니다. 형이 확정될 경우 국민의힘은 대선 당시 보전받은 약 397억원의 선거비용을 반환해야 합니다.",
+      "sourceLink": "https://news.google.com/search?q=윤석열+허위사실+1심+선고+2026년+7월",
+      "imagePrompt": "Close-up of a legal verdict document being stamped with an official court seal on a dark wooden desk, a formal judicial gavel placed beside stacked sealed case files tied with a ribbon, strong directional desk lamp casting a focused circle of light on the documents, deep shadows at the edges of the frame, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "북핵 강경",
+      "title": "김여정, ARF 비핵화 성명에 강력 반발",
+      "summary": "김여정 북한 노동당 총무부장이 ARF 의장 성명의 한반도 비핵화 촉구에 강하게 반발했습니다. 한반도 비핵화는 어리석은 망상이라며 북한의 핵능력은 부단히 갱신될 것이라고 강조했습니다.",
+      "sourceTitle": "김여정 \"핵능력 부단히 갱신될 것\"…ARF '비핵화' 성명에 반발",
+      "sourceDesc": "김여정 북한 노동당 총무부장이 아세안지역안보포럼(ARF) 의장 성명의 '한반도 비핵화' 촉구에 강한 불만을 표시하며 담화를 발표했습니다. 한반도 비핵화는 '어리석은 망상'이라며 북한의 핵능력은 '부단히 갱신될 것'이라고 강조했습니다.",
+      "sourceLink": "https://news.google.com/search?q=김여정+ARF+비핵화+반발+2026년+7월",
+      "imagePrompt": "Rows of empty diplomatic chairs arranged around a long formal conference table in a spacious negotiating hall, national flag stands and blank nameplates positioned at each seat, cool fluorescent overhead lighting reflecting off a polished floor, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "세기의 이혼",
+      "title": "최태원·노소영 재산분할 9440억 확정",
+      "summary": "서울고법이 최태원 SK그룹 회장에게 재산분할금 9440억원 지급을 명령했습니다. 분할 비율은 노소영 관장 3분의 1, 최태원 회장 3분의 2로 결정됐습니다.",
+      "sourceTitle": "법원 \"최태원, 노소영에 재산 분할 9440억 원 지급\"",
+      "sourceDesc": "서울고법 가사1부는 최태원 SK그룹 회장이 노소영 아트센터 나비 관장에게 재산분할금으로 9440억원을 현금 지급하라고 판결했습니다. 재산 분할 비율은 노소영 관장 3분의 1, 최태원 회장 3분의 2로 결정됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=최태원+노소영+재산분할+9440억+2026년",
+      "imagePrompt": "Close-up of corporate shareholder documents and a folded legal judgment paper spread across a polished office desk, a gold-tipped pen and official court seal stamp placed beside stacked financial files, soft natural window light casting long diagonal shadows over the papers, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "금융 호황",
+      "title": "5대 금융지주, 상반기 순익 13조 역대 최대",
+      "summary": "5대 금융지주의 올 상반기 합산 순이익이 13조1183억원으로 역대 최대를 기록했습니다. 비이자이익이 27.6% 증가하며 자본시장 수수료 수익이 이자이익 성장을 웃도는 성과를 냈습니다.",
+      "sourceTitle": "5대 금융지주 상반기 순이익 13.1조 '역대 최대'…비이자이익 27.6%↑",
+      "sourceDesc": "KB·신한·하나·우리·NH농협 등 5대 금융지주의 올 상반기 합산 순이익이 13조1183억원으로 역대 최대를 기록했습니다. 비이자이익이 27.6% 늘어 이자이익 성장을 웃도는 수수료·자본시장 수익이 실적을 이끌었습니다.",
+      "sourceLink": "https://news.google.com/search?q=5대+금융지주+상반기+실적+역대최대+2026년",
+      "imagePrompt": "The glass and steel facade of a modern financial district skyscraper reflecting a blue evening sky, illuminated office floors visible through floor-to-ceiling windows suggesting active trading activity, upward-trending graphical lines etched in reflected light on the glass exterior, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "전승절 행보",
+      "title": "김정은, 73주년 전승절에 딸 주애와 참배",
+      "summary": "김정은 국무위원장이 정전협정 73주년 전승절에 52일 만에 공식 등장한 딸 주애와 함께 참전열사묘를 참배했습니다. 주애는 정중앙에서 헌화를 주도해 후계자 존재감을 드러냈습니다.",
+      "sourceTitle": "김정은, '52일 만 등장' 딸 주애 손잡고 6·25 전쟁 참전열사묘 참배",
+      "sourceDesc": "김정은 국무위원장이 정전협정 73주년 전승절에 52일 만에 다시 등장한 딸 주애와 함께 6·25전쟁 참전열사묘를 참배했습니다. 주애는 정중앙에 서서 헌화를 주도하는 모습으로 후계자 존재감을 부각했습니다.",
+      "sourceLink": "https://news.google.com/search?q=김정은+주애+전승절+2026년+7월",
+      "imagePrompt": "Rows of grey granite military memorial tombstones in a formal cemetery at dusk, a large ceremonial floral wreath of white and red chrysanthemums placed before a central monument, soft fading evening light casting long shadows across manicured grounds, solemn and reverential atmosphere, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-07-27 저녁 브리핑\n\n1. 윤석열 허위발언 1심 징역형 집행유예 선고\n2. 김여정, ARF 비핵화 성명에 강력 반발\n3. 최태원·노소영 재산분할 9440억 확정\n4. 5대 금융지주, 상반기 순익 13조 역대 최대\n5. 김정은, 73주년 전승절에 딸 주애와 참배\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #국내뉴스 #윤석열선고 #전승절 #금융실적\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
