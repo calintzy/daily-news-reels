@@ -23,7 +23,7 @@ jobs:
     if: vars.PUBLISH_LIVE == '1'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: 오늘 회차 발행 마커·데이터 확인
         id: probe
