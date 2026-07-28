@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-29",
+  "slot": "am",
+  "coverPrompt": "A collapsed concrete building exterior with shattered facade panels and rubble scattered across a debris-strewn street, emergency police barrier tape and orange safety fencing cordoning off the disaster zone, diffuse overcast daylight filtering through settling dust, atmosphere of earthquake aftermath and urban crisis, no people, no text, vertical 9:16 composition, photojournalism documentary style.",
+  "todayOneLiner": "일본 구마모토 강진 충격부터 윤석열 영치금 논란, 청라 조폭 구속까지 오늘 아침 꼭 알아야 할 국내외 주요 뉴스를 전해드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "규모 7.1 강진",
+      "title": "일본 구마모토 7.1 강진, 수십 명 행방불명",
+      "summary": "일본 구마모토현에서 규모 7.1의 강진이 발생해 대형 쇼핑몰이 붕괴되고 수십 명이 행방불명됐습니다. 쓰나미 주의보가 발령됐으며 한국 경남·부산 등에서도 흔들림이 감지됐습니다.",
+      "sourceTitle": "일본 구마모토 지진, 사망자 다수 발생한 듯…수십 명 행방 불명",
+      "sourceDesc": "2026년 7월 28일 오후 4시 27분 일본 구마모토현에서 규모 7.1의 강진이 발생했습니다. 진도는 최고 등급인 '7강'으로, 대형 쇼핑몰이 폭발음과 함께 붕괴되고 수십 명이 행방불명됐습니다. 아리아케해와 야쓰시로해에 쓰나미 주의보가 발령됐으며, 한국 경남·부산·전남·제주 등지에서도 흔들림이 감지됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=일본+구마모토+지진+7.1+강진+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A cracked concrete building facade with collapsed sections and rubble in the foreground, emergency barricade tape stretched across the debris-strewn street, hazy overcast sky filtering through dust above the destruction zone, atmosphere of earthquake aftermath and urban crisis, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "구치소 후원 논란",
+      "title": "윤석열 구치소 영치금, 대통령 연봉의 6.3배",
+      "summary": "구속 중인 윤석열 전 대통령이 1년간 서울구치소에서 영치금 17억 원을 받아 대통령 연봉의 6.3배에 달했습니다. 김건희 여사도 서울남부구치소 영치금 최다 수령자로 기록됐습니다.",
+      "sourceTitle": "윤석열, 구속 1년간 영치금 17억 받았다…김건희 1.7억",
+      "sourceDesc": "지난해 7월 10일부터 올해 7월 10일까지 서울구치소 영치금 최다 수령자는 윤석열 전 대통령으로, 1년간 영치금이 대통령 연봉(2억 7177만 원)의 6.3배에 달했습니다. 김건희 여사는 같은 기간 서울남부구치소에서 1억 7123만 원을 받아 최다 수령자로 기록됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=윤석열+영치금+17억+구치소+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A stack of official white envelopes and formal deposit receipts arranged on a sterile grey concrete surface inside a correctional facility administration area, cold fluorescent overhead lighting casting harsh institutional shadows, a barred window in the background, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "사건",
+      "kicker": "주택가 집단 폭력",
+      "title": "청라 주택가 조폭 10명 야구방망이 패싸움 구속",
+      "summary": "서울·인천 조폭 10명이 청라 주택가에서 야구방망이 등으로 집단 패싸움을 벌여 구속 송치됐습니다. 구치소 다툼이 발단이 돼 '비상소집'으로 집결해 주택가를 아수라장으로 만들었습니다.",
+      "sourceTitle": "한밤중 청라 주택가 '아수라장'…서울·인천 조폭 10명 야구방망이·각목 들고 패싸움",
+      "sourceDesc": "인천경찰청 광역범죄수사대가 7월 28일 조직폭력배 조직원 10명을 검거해 구속 송치했습니다. 이들은 인천 서해구 청라동 주택가에서 야구방망이와 각목, 낫 등을 들고 집단 패싸움을 벌인 혐의를 받으며, 구치소에서 상대 조직을 비방한 것이 발단이 돼 출소 후 '비상소집'으로 집결해 아수라장을 만든 것으로 조사됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=청라+조폭+10명+야구방망이+패싸움+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A dark residential alleyway with a shattered aluminum baseball bat and splintered wooden club lying abandoned on wet asphalt, yellow police caution tape stretched across the entrance under a harsh streetlight, shadows deepening into a quiet suburban neighborhood at night, atmosphere of crime scene investigation, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "수사권 개혁",
+      "title": "검사 보완수사권 폐지 법사소위 통과",
+      "summary": "후속: 더불어민주당 주도로 검사의 보완수사권 폐지를 담은 형사소송법 개정안이 국회 법사소위를 통과했습니다. 30일 본회의 처리가 목표이며, 개정안은 검사 직접 수사 금지가 핵심입니다.",
+      "sourceTitle": "'보완수사권 폐지' 형소법 개정안, 與 주도 법사소위 통과",
+      "sourceDesc": "국회 법제사법위원회는 7월 28일 법안심사제1소위원회를 열어 검사의 보완수사권 폐지를 골자로 한 형사소송법 개정안을 여당 주도로 의결했습니다. 여당은 30일 본회의 통과를 목표로 하며, 개정안은 검사의 직접 수사를 금지하고 보완수사 권한을 사법경찰관에게 넘기는 내용이 골자입니다.",
+      "sourceLink": "https://news.google.com/search?q=보완수사권+폐지+형사소송법+법사소위+통과+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A wooden gavel lying flat beside a formally stamped official document on a polished dark conference table, dramatic single overhead spotlight casting precise geometric shadows, deep shadowed background creating an atmosphere of legal formality and legislative gravity, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "K-과학 도약",
+      "title": "한국새빛가속기 착공, 첨단 바이오 연구 기반 구축",
+      "summary": "충청북도 청주에서 한국새빛가속기 착공식이 열렸습니다. 4세대 방사광가속기로 신약 개발 등 첨단 과학 연구를 지원하며 지방 주도 성장의 새 거점 역할도 기대됩니다.",
+      "sourceTitle": "'정밀한 눈' 새빛가속기 착공, K-바이오 신약 강국 향한다",
+      "sourceDesc": "충청북도 청주 오창에서 한국새빛가속기 착공식이 열렸습니다. 4세대 방사광가속기로 신약 개발·반도체 소재 연구 등 첨단 과학기술 기반을 마련하며, 이재명 대통령은 '청주, 지방 주도 성장 선도 거점으로' 육성하겠다고 밝혔습니다.",
+      "sourceLink": "https://news.google.com/search?q=한국새빛가속기+착공+방사광가속기+청주+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A sweeping aerial view of a massive scientific facility under construction surrounded by green countryside, steel skeletal framework of a large circular accelerator ring partially erected, construction cranes silhouetted against a clear blue sky, suggesting cutting-edge research infrastructure on a vast scale, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-07-29 아침 브리핑\n\n1. 일본 구마모토 7.1 강진, 수십 명 행방불명\n2. 윤석열 구치소 영치금, 대통령 연봉의 6.3배\n3. 청라 주택가 조폭 10명 야구방망이 패싸움 구속\n4. 검사 보완수사권 폐지 법사소위 통과\n5. 한국새빛가속기 착공, 첨단 바이오 연구 기반 구축\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #국내뉴스 #일본지진 #구마모토 #윤석열 #형사소송법 #새빛가속기\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
