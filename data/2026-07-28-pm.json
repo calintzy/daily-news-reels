@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-28",
+  "slot": "pm",
+  "coverPrompt": "A dark trading floor with rows of red digital stock tickers and monitors all displaying sharp downward red arrows, emergency red lighting casting dramatic shadows across empty desks, atmosphere of financial crisis and market panic, vertical 9:16 composition, photojournalism documentary style, no people, no text.",
+  "todayOneLiner": "코스피 서킷브레이커 발동부터 한·브라질 전략 협력 선포까지, 오늘 저녁 꼭 알아야 할 국내 주요 뉴스를 전해드립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "검은 화요일",
+      "title": "창신메모리 쇼크에 코스피 8% 폭락",
+      "summary": "창신메모리(CXMT) 주가가 465%대 폭등하며 국내 반도체주 투자심리가 크게 위축돼 코스피가 8% 급락했습니다. 서킷브레이커가 발동돼 거래가 일시 중단됐습니다.",
+      "sourceTitle": "\"465% 폭등\" 창신메모리 쇼크...코스피 8% 급락, 또 '서킷브레이커'",
+      "sourceDesc": "중국 시장에 상장한 창신메모리(CXMT) 주가가 465%대 폭등하며 국내 반도체주 수급 우려로 투자심리가 얼어붙으면서 코스피 지수가 급락했습니다. 또한 중국이 반도체 제조 핵심 장비인 심자외선(DUV) 노광장비 개발에 착수했다는 소식이 전해지면서 국내외 반도체 투자심리를 크게 흔들었습니다.",
+      "sourceLink": "https://news.google.com/search?q=창신메모리+코스피+서킷브레이커+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a financial market display screen showing a steep red downward trend line on a dark background, red candlestick chart plunging sharply, dramatic directional light highlighting the falling graph, atmosphere of market crisis and financial panic, vertical 9:16 composition, photojournalism documentary style, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "한·브라질 도약",
+      "title": "이재명-룰라, 140분 회담 협력 원년 선포",
+      "summary": "이재명 대통령이 룰라 브라질 대통령과 140분에 걸친 정상회담을 갖고 양국 협력의 원년을 선언했습니다. 방산·핵심광물·항공우주 분야 협력 확대를 담은 공동성명을 채택했습니다.",
+      "sourceTitle": "李대통령, 룰라와 정상회담…\"2026년 한·브라질 도약 원년\"",
+      "sourceDesc": "이재명 대통령은 27일(현지시간) 브라질 브라질리아 대통령궁에서 루이스 이나시우 룰라 다시우바 브라질 대통령과 약 140분간의 정상회담을 통해 양국의 공급망 협력에 공감대를 세웠습니다. 양국은 2026년을 한·브라질 전략적 동반자 관계 도약의 원년으로 선포하고, 방산·핵심광물·항공우주 분야 협력을 확대하는 공동성명을 채택했습니다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+룰라+정상회담+브라질+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "The national flags of South Korea and Brazil hanging side by side in an ornate official diplomatic hall, golden ceremonial lighting illuminating the flags against a dark formal backdrop, polished marble floor reflecting the light, atmosphere of high-level state diplomacy, vertical 9:16 composition, photojournalism documentary style, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "수사권 개혁",
+      "title": "민주당, 보완수사권 폐지 형소법 30일 처리",
+      "summary": "더불어민주당이 검찰 보완수사권 폐지 형사소송법 최종안을 마련하고 30일 본회의 처리를 목표로 추진합니다. 해당 법안을 둘러싼 여야 공방이 예상됩니다.",
+      "sourceTitle": "與 \"오늘 檢 보완수사권 폐지 형소법 최종안 마련…30일 통과 목표\"",
+      "sourceDesc": "더불어민주당은 28일 검찰 보완수사권 폐지를 핵심으로 하는 형사소송법 개정안 최종안을 법사위 법안소위에서 마련하고, 30일 본회의 통과를 목표로 추진한다고 밝혔습니다. 야당은 추가 요구를 내세워 강력히 맞서겠다고 예고했습니다.",
+      "sourceLink": "https://news.google.com/search?q=보완수사권+폐지+형사소송법+30일+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A wooden judge's gavel resting on a formal legal document folder on a courtroom desk, dramatic single overhead spotlight casting sharp shadows, deep dark background emphasizing the solitary gavel, atmosphere of judicial gravity and legislative procedure, vertical 9:16 composition, photojournalism documentary style, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "폭염 비상",
+      "title": "폭염 위기경보 '심각'…중대본 가동",
+      "summary": "행정안전부가 폭염 재난 위기경보를 최고 수준인 '심각'으로 격상하고 중대본을 가동했습니다. 전국 대부분 지역에서 폭염특보가 발효되는 등 무더위와 열대야가 당분간 지속될 전망입니다.",
+      "sourceTitle": "폭염 위기경보 최고 수준 '심각' 격상…중대본 가동",
+      "sourceDesc": "행정안전부는 7월 27일 15시부로 폭염 재난 위기경보를 '심각' 단계로 격상하고, 행정안전부장관을 본부장으로 하는 중앙재난안전대책본부를 가동하여 총력 대응에 나섰습니다. 장마 종료 이후 폭염이 본격화되면서 전국 대부분 지역에서 폭염특보가 발효되는 등 무더위와 열대야가 당분간 지속될 것으로 전망됩니다.",
+      "sourceLink": "https://news.google.com/search?q=폭염+위기경보+심각+중대본+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Cracked sun-baked earth stretching to the horizon under a blazing white-hot sky, extreme heat haze shimmering above the scorched ground, harsh midday sun creating stark shadows, desolate drought landscape conveying oppressive heat, vertical 9:16 composition, photojournalism documentary style, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "간병비 개혁",
+      "title": "요양병원 간병비, 건보 급여화 추진",
+      "summary": "보건복지부가 100병상 이상 요양병원에서 간병비에 건강보험을 적용하는 급여화 방안을 발표했습니다. 중증도 높은 환자부터 단계적으로 확대해 전액 본인 부담 구조를 개선합니다.",
+      "sourceTitle": "요양병원 간병비 급여화, 중증도 높은 환자부터…복지부, 100병상 이상 병원 적용",
+      "sourceDesc": "보건복지부는 28일 간병인을 직접 고용한 100병상 이상 요양병원부터 간병비에 건강보험을 적용하는 방안을 발표했습니다. 중증·치매·파킨슨 등 의료 중증도가 높은 환자부터 단계적으로 확대하며, 현재 전액 본인 부담인 간병비를 건강보험 대상으로 포함해 본인부담률을 30% 수준으로 낮추는 방안입니다.",
+      "sourceLink": "https://news.google.com/search?q=요양병원+간병비+급여화+복지부+2026년+7월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A neatly made hospital bed with crisp white sheets in a quiet empty ward room, soft clinical overhead lighting creating gentle shadows, a single medical IV stand beside the bed, serene yet institutional atmosphere symbolizing healthcare reform, vertical 9:16 composition, photojournalism documentary style, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-07-28 저녁 브리핑\n\n1. 창신메모리 쇼크에 코스피 8% 폭락\n2. 이재명-룰라, 140분 회담 협력 원년 선포\n3. 민주당, 보완수사권 폐지 형소법 30일 처리\n4. 폭염 위기경보 '심각'…중대본 가동\n5. 요양병원 간병비, 건보 급여화 추진\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #국내뉴스 #코스피 #폭염 #브라질 #형사소송법 #간병비\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
