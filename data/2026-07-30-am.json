@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-30",
+  "slot": "am",
+  "todayOneLiner": "사상 처음 이틀 연속 서킷브레이커가 발동된 역대급 증시 충격이 대한민국을 뒤흔들고 있습니다.",
+  "coverPrompt": "Photojournalistic wide shot of an empty stock exchange trading hall with dim red emergency lights, dark blank screens on abandoned trading terminals, eerie silence, dramatic shadows on polished floors, vertical 9:16 composition, no people, no text",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "증시 패닉",
+      "title": "이틀 연속 서킷브레이커…사상 첫 동반 발동",
+      "summary": "코스피와 코스닥이 29일 이틀 연속으로 서킷브레이커가 발동되는 사상 최초 사태가 벌어졌습니다. 반도체주 급락이 주요 원인이며 코스피는 5500선까지 밀렸습니다.",
+      "sourceTitle": "이틀 연속 코스피·코스닥 '서킷 브레이커' 사상 첫 발동…5500선 '턱걸이'",
+      "sourceDesc": "코스피와 코스닥 시장이 28일에 이어 29일에도 8% 이상 급락하며 양대 지수에 서킷브레이커가 발동됐다. 두 시장 모두 2거래일 연속 서킷브레이커가 걸린 것은 이번이 처음이다. 코스피지수는 전 거래일보다 360.42포인트(5.98%) 내린 5663.24에 마감했고, 코스닥지수는 43.17포인트(6.12%) 내린 662.68로 장을 마쳤다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+코스닥+서킷브레이커+이틀+연속+2026",
+      "imagePrompt": "Photojournalistic close-up of an empty trading floor with dark blue ambient light and red warning indicator lights on ceiling, silent abandoned workstations, financial crisis atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "기상 경보",
+      "title": "슈퍼태풍 돌핀 북상…한반도 영향 주시",
+      "summary": "제13호 태풍 돌핀이 세력을 키우며 북상 중으로, 초강력 태풍으로 발달할 전망입니다. 한반도에 직접적인 영향을 미칠지 여부는 불확실하며 기상청이 예의주시하고 있습니다.",
+      "sourceTitle": "'초강력' 태풍 돌핀 북상…한반도 영향 여부 '예의주시'",
+      "sourceDesc": "제13호 태풍 돌핀이 29일 오전 현재 세력을 키우며 북상 중이며, 31일에는 중심기압 915hPa, 중심 최대풍속 초속 55m의 초강력 태풍으로 발달할 전망이다. 한반도에 직접 영향을 미칠지 여부는 태풍의 진로에 변동성이 큰 만큼 기상청이 예의주시하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=태풍+돌핀+초강력+북상+한반도+2026",
+      "imagePrompt": "Photojournalistic aerial view of a massive tropical cyclone swirling over open ocean, dark storm clouds with eye of storm visible, ominous weather system approaching coastline, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "내란 수사",
+      "title": "종합특검, 김태효 전 안보실 차장 구속기소",
+      "summary": "종합특검이 12·3 비상계엄을 정당화하는 메시지를 우방국에 전달한 혐의로 김태효 전 국가안보실 1차장을 29일 구속기소했습니다. 내란중요임무종사 혐의이며, 수사는 계속 이어지고 있습니다.",
+      "sourceTitle": "종합특검, '계엄 정당화 메시지' 김태효 구속기소",
+      "sourceDesc": "종합특검이 12·3 비상계엄 이후 우방국에 계엄을 정당화하는 메시지를 전달한 혐의를 받는 김태효 전 국가안보실 1차장을 29일 내란중요임무종사 혐의로 구속기소했다. 지난 2월 출범한 종합특검이 기소한 세 번째 사례다.",
+      "sourceLink": "https://news.google.com/search?q=종합특검+김태효+구속기소+2026",
+      "imagePrompt": "Photojournalistic exterior of a Korean court building with national flag, overcast sky, formal judiciary stone architecture with steps, solemnity and authority, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "실적 발표",
+      "title": "삼성전자, 2분기 영업이익 89.4조 확정 발표",
+      "summary": "삼성전자가 오늘 2분기 확정 실적을 발표합니다. 잠정 영업이익 89.4조 원으로 엔비디아를 넘어선 분기 실적의 사업부별 상세 내역이 공개됩니다.",
+      "sourceTitle": "삼성전자 2분기 영업이익 89.4조 원… 엔비디아도 넘었다",
+      "sourceDesc": "삼성전자가 2026년 2분기 잠정 실적으로 매출 171조 원, 영업이익 89.4조 원을 기록했다. 사업부별 상세 실적을 담은 확정 실적 발표 컨퍼런스콜은 7월 30일 오전 10시 진행된다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+2분기+영업이익+89.4조+2026",
+      "imagePrompt": "Photojournalistic close-up of a silicon semiconductor wafer with intricate circuit patterns, clean room blue-tinted laboratory lighting, precision technology detail, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "반도체 지각변동",
+      "title": "중국 CXMT 상장…한국 메모리 '긴장'",
+      "summary": "중국 반도체 기업 CXMT가 상하이 증시에 상장하며 수십조 원의 자금을 확보했습니다. 삼성전자와 SK하이닉스를 직접 겨냥하는 경쟁자로 부상하며 국내 증시에 충격을 줬습니다.",
+      "sourceTitle": "CXMT, 상장 첫날 주가 466% 폭등… '한국 메모리 양강 위협'",
+      "sourceDesc": "창신메모리(CXMT)가 7월 27일 상하이 증권거래소에 공모가 대비 466% 급등하며 데뷔했다. 삼성전자와 SK하이닉스를 직접 겨냥하는 '메모리 빅3' 기업으로 부상하며 한국 메모리 산업에 위협 신호가 켜졌다.",
+      "sourceLink": "https://news.google.com/search?q=CXMT+창신메모리+상장+한국+메모리+2026",
+      "imagePrompt": "Photojournalistic aerial view of a large semiconductor manufacturing facility with industrial clean room infrastructure, complex production halls and pipework, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-07-30 아침 브리핑\n\n1. 이틀 연속 서킷브레이커…사상 첫 동반 발동\n2. 슈퍼태풍 돌핀 북상…한반도 영향 주시\n3. 종합특검, 김태효 전 안보실 차장 구속기소\n4. 삼성전자, 2분기 영업이익 89.4조 확정 발표\n5. 중국 CXMT 상장…한국 메모리 '긴장'\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #증시 #서킷브레이커 #태풍 #삼성전자 #반도체\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
