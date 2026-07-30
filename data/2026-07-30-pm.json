@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-30",
+  "slot": "pm",
+  "todayOneLiner": "미·이란 충돌에 국제유가가 치솟고 폭염 열돔이 한반도를 삼키는 복합 위기의 하루였습니다.",
+  "coverPrompt": "Photojournalistic panoramic view of an oil refinery complex with flaring stacks silhouetted against a blood-red twilight sky, industrial pipes and towers in dramatic shadow, geopolitical tension atmosphere, vertical 9:16 composition, no people, no text",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "중동 충돌",
+      "title": "미·이란 교전에 국제유가 8% 급등",
+      "summary": "미국과 이란의 군사 충돌이 격화하면서 국제유가가 8% 급등했습니다. 브렌트유는 90달러를 재돌파하며 확전 우려가 커지고 있습니다.",
+      "sourceTitle": "트럼프 \"이란 강하게 때릴 것\"…국제유가 브렌트 8% 급등 90달러 재돌파",
+      "sourceDesc": "이란이 중동 미군기지를 공격하고 미국은 이라크 내 이란 대리세력을 겨냥한 공습에 나서면서 유가는 다시 급등했습니다. 브렌트유 선물은 전 거래일보다 7.9% 오른 배럴당 90.74달러에 거래를 마쳤습니다. 트럼프 대통령은 이제는 미국이 공격할 차례라며 강경 대응 방침을 보였습니다.",
+      "sourceLink": "https://news.google.com/search?q=국제유가+급등+이란+미국+충돌+브렌트+90달러+2026",
+      "imagePrompt": "Photojournalistic close-up of industrial oil pipeline and refinery towers at dusk, orange and red industrial glow from flaring stacks, sense of energy market tension, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "검찰 개혁",
+      "title": "보완수사권 폐지 형소법 본회의 상정",
+      "summary": "검찰의 보완수사권을 폐지하는 형사소송법 개정안이 민주당 주도로 법사위를 통과해 본회의에 상정됐습니다. 야권이 필리버스터를 예고해 2박3일간 여야 대치가 예상됩니다.",
+      "sourceTitle": "'보완수사권 폐지' 형소법 오늘 본회의 상정…2박3일 필버 대치 전망",
+      "sourceDesc": "보완수사권 폐지를 골자로 하는 형사소송법 개정안이 민주당 주도로 법사위 전체회의를 통과해 30일 본회의에 상정됐습니다. 국민의힘은 필리버스터로 맞서겠다고 예고했으며 2박3일간의 여야 대결이 전망됩니다.",
+      "sourceLink": "https://news.google.com/search?q=보완수사권+폐지+형소법+본회의+필리버스터+2026",
+      "imagePrompt": "Photojournalistic exterior of the Korean National Assembly building under overcast dramatic sky, imposing stone steps and granite pillars, formal legislative architecture, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "극한 폭염",
+      "title": "영남 40도 폭염, 서울로 확산…열흘 더",
+      "summary": "한반도 상공에 이중 열돔이 형성되며 영남권에 40도에 육박하는 폭염이 덮쳤습니다. 기상청은 이 열돔 현상이 최소 열흘간 지속될 것으로 전망했습니다.",
+      "sourceTitle": "영남 덮친 40도 폭염, 서울 온다... '열돔 감옥' 최소 열흘 더",
+      "sourceDesc": "한반도 상공에 티베트고기압과 북태평양고기압이 겹쳐 이중 열돔 구조가 형성되면서 영남권을 중심으로 40도에 육박하는 극한 폭염이 이어지고 있습니다. 기상청은 이 열돔이 최소 열흘간 지속되며 서울 등 수도권도 최고기온 37도까지 오를 것으로 예보했습니다.",
+      "sourceLink": "https://news.google.com/search?q=폭염+열돔+영남+40도+서울+수도권+2026",
+      "imagePrompt": "Photojournalistic street-level view of scorched asphalt during an extreme Korean heatwave, heat shimmer rising from the ground surface, harsh bleached sunlight casting short shadows, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "남미 순방",
+      "title": "이재명-칠레 정상회담…FTA·핵심광물",
+      "summary": "이재명 대통령이 칠레 대통령과 정상회담을 열고 한·칠레 FTA 개정과 핵심광물 협력을 논의했습니다. 구리·리튬 공급망 협의체 재가동에 합의해 자원 확보 기반을 다졌습니다.",
+      "sourceTitle": "李대통령, '1호 韓·칠레 FTA' 개정 논의…'구리·리튬' 핵심광물 협력",
+      "sourceDesc": "이재명 대통령이 30일 칠레 대통령궁에서 정상회담을 갖고 한·칠레 FTA 현대화와 구리·리튬 등 핵심광물 공급망 협력을 논의했습니다. 양국은 핵심광물·에너지 공급망 구축을 위한 협의체를 본격 재가동하기로 합의했습니다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+칠레+정상회담+FTA+핵심광물+구리+리튬+2026",
+      "imagePrompt": "Photojournalistic wide shot of a formal diplomatic meeting room with two national flags and a long polished conference table set for a summit, natural light from tall windows, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "서킷브레이커 후속",
+      "title": "코스피, 3거래일째 하락…5600선 하회",
+      "summary": "서킷브레이커 이틀 연속 발동 후속으로, 코스피가 30일에도 3거래일 연속 하락해 5600선 아래로 밀렸습니다. 장 초반 반등을 시도했으나 끝내 상승분을 반납하며 마감했습니다.",
+      "sourceTitle": "'뒷심 부족' 코스피, 3거래일째 하락 마감…5600선 하회",
+      "sourceDesc": "30일 코스피 지수는 3거래일 연속 하락해 5600선을 하회하며 장을 마쳤습니다. 코스피는 전 거래일보다 18.53포인트 오른 5681.77로 상승 출발했으나 상승분을 반납하고 5600선 아래로 후퇴했습니다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+3거래일+하락+5600선+하회+2026",
+      "imagePrompt": "Photojournalistic close-up of a financial market display board showing red declining arrows and downward bar charts in a stock exchange, blurred trading terminal lights in background, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-07-30 저녁 브리핑\n\n1. 미·이란 교전에 국제유가 8% 급등\n2. 보완수사권 폐지 형소법 본회의 상정\n3. 영남 40도 폭염, 서울로 확산…열흘 더\n4. 이재명-칠레 정상회담…FTA·핵심광물\n5. 코스피, 3거래일째 하락…5600선 하회\n\n오늘 하루도 물어오리가 전해드렸습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #국제유가 #이란 #폭염 #열돔 #검찰개혁 #코스피\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
