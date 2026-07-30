@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-31",
+  "slot": "am",
+  "todayOneLiner": "국회에서 검사의 보완수사권 폐지 표결이 진행되는 가운데, 증시·금융 규제까지 굵직한 소식들이 쏟아지는 하루입니다.",
+  "coverPrompt": "Photojournalistic wide-angle view of an empty Korean National Assembly plenary hall, rows of legislative desks under bright overhead lighting, speaker's podium in the foreground, solemn democratic deliberation atmosphere, vertical 9:16 composition, no people, no text",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "검찰 수사권 폐지",
+      "title": "보완수사권 폐지법 오늘 본회의 표결",
+      "summary": "검사의 보완 수사권 완전 폐지를 담은 형사소송법 개정안이 오늘 국회 본회의에서 표결될 예정입니다. 필리버스터가 이틀째 이어지는 가운데 민주당 주도로 처리될 전망입니다.",
+      "sourceTitle": "여야, 이틀째 필리버스터 대치…與, '보완수사 폐지' 형소법 처리 전망",
+      "sourceDesc": "더불어민주당은 31일 국회 본회의에서 검사의 보완 수사권 완전 폐지가 핵심인 형사소송법 개정안 표결에 나선다. 필리버스터 종결 동의안을 제출한 민주당은 필리버스터 시작 24시간이 지나는 이날 오후 4시께 범여권 주도로 토론을 종결하고 법안을 표결 처리한다는 방침이다.",
+      "sourceLink": "https://news.google.com/search?q=보완수사권+폐지+형사소송법+본회의+2026",
+      "imagePrompt": "Photojournalistic wide shot of an empty legislative chamber, rows of vacant desks illuminated by overhead lights, central speaker's podium with nameplate, solemn atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "책임경영 신호",
+      "title": "최태원 회장, SK하이닉스 주식 첫 장내 매수",
+      "summary": "최태원 SK그룹 회장이 SK하이닉스 보통주 3620주를 처음으로 장내 매수했습니다. 주가 급락 속 책임경영 의지를 드러낸 것으로 풀이됩니다.",
+      "sourceTitle": "최태원 회장, SK하이닉스 주식 48억원어치 첫 매수",
+      "sourceDesc": "최태원 SK그룹 회장이 SK하이닉스 보통주 3620주를 매입했으며, 종가(132만2000원) 기준 매입 규모는 약 47억9000만원이다. 주가가 과도하게 저평가됐다는 판단에 직접 매수에 나선 것으로, 책임경영 의지를 드러냄으로써 시장의 신뢰를 얻기 위한 것으로 풀이된다.",
+      "sourceLink": "https://news.google.com/search?q=최태원+SK하이닉스+주식+장내매수+2026",
+      "imagePrompt": "Photojournalistic close-up of glowing stock market ticker screens showing share prices and charts in a dim trading environment, financial data atmosphere, moody blue light, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "금융 규제",
+      "title": "단일 레버리지 ETF, 오늘부터 예탁금 규제 강화",
+      "summary": "단일종목 레버리지 ETF를 추가 매수하려면 오늘부터 기본예탁금 3000만원이 필요합니다. 금융당국은 투자 과열이 지속되면 총투자금 대비 비율 한도 규제도 추가 검토할 방침입니다.",
+      "sourceTitle": "단일종목 레버리지 ETF 총량규제 시동...'20% 한도' 기준 관건",
+      "sourceDesc": "금융위는 7월 31일부터 단일종목 레버리지 상품 추가 매수 시 현금 기본예탁금 3000만원을 요구하는 강화 조치를 시행한다. 투자 수요가 충분히 진정되지 않을 경우 금융투자상품 총투자금액의 20% 이내로 한도를 제한하는 총량 규제도 추가 검토한다.",
+      "sourceLink": "https://news.google.com/search?q=단일종목+레버리지+ETF+기본예탁금+3000만원+2026",
+      "imagePrompt": "Photojournalistic close-up of multiple computer monitors displaying declining stock graphs and financial data in a dim office, trading terminal environment with warning indicators, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "한미 통상 마찰",
+      "title": "쿠팡 미국 로비, 한미 통상 협상에 파장",
+      "summary": "쿠팡이 올해 상반기 미국 워싱턴 정관계를 상대로 한 로비 지출이 작년을 추월한 것으로 드러났습니다. 국내 규제 현안을 미국 정치권을 통해 압박한다는 비판이 나옵니다.",
+      "sourceTitle": "쿠팡, 워싱턴 로비 작년 추월…서한→보고서→법안까지 이어졌다",
+      "sourceDesc": "쿠팡Inc가 올해 상반기 신고한 로비 지출액은 237만달러(약 34억4200만원)로, 자체 조직과 외부 전문업체를 통해 백악관과 미 의회, 주요 행정부처 등을 폭넓게 접촉한 것으로 나타났다. 한국 정부의 쿠팡 조사와 제재를 미국 기업 차별로 규정하는 정치권의 움직임이 공화당 의원들의 연명서한과 하원 조사보고서 등으로 나타났다.",
+      "sourceLink": "https://news.google.com/search?q=쿠팡+워싱턴+로비+한미+통상+2026",
+      "imagePrompt": "Photojournalistic exterior shot of the United States Capitol building dome against a dramatic overcast sky at dusk, stone architecture and columns, symbol of political power, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "기상 경보",
+      "title": "오늘도 낮 최고 38도, 폭염·열대야 계속",
+      "summary": "오늘도 전국 낮 최고기온이 38도에 이르는 폭염이 이어지고 열대야도 계속될 전망입니다. 비 소식 없이 강한 볕이 이어져 건강 관리에 각별한 주의가 필요합니다.",
+      "sourceTitle": "[설기의 일기예보] 7월 31일 비 소식 없이 강한 볕…낮 최고 38도 '푹푹 찌는' 폭염·열대야 계속",
+      "sourceDesc": "금요일인 31일은 한낮 최고기온이 38도에 이르는 폭염이 이어지고 열대야도 지속될 전망이다. 아침 최저기온은 21~27도, 낮 최고기온은 31~38도로 예보됐다.",
+      "sourceLink": "https://news.google.com/search?q=폭염+열대야+38도+2026+7월31일",
+      "imagePrompt": "Photojournalistic aerial view of a sun-scorched urban street in extreme summer heat, shimmering heat haze rising from asphalt, high-contrast harsh sunlight baking empty pavement, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-07-31 아침 브리핑\n\n1. 보완수사권 폐지법 오늘 본회의 표결\n2. 최태원 회장, SK하이닉스 주식 첫 장내 매수\n3. 단일 레버리지 ETF, 오늘부터 예탁금 규제 강화\n4. 쿠팡 미국 로비, 한미 통상 협상에 파장\n5. 오늘도 낮 최고 38도, 폭염·열대야 계속\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #형사소송법 #보완수사권 #SK하이닉스 #레버리지ETF #쿠팡 #폭염\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
