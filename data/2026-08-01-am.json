@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-01",
+  "slot": "am",
+  "todayOneLiner": "검찰총장 대행 사의부터 일본 강진 피해 확산까지, 오늘 아침 꼭 알아야 할 소식을 물어왔습니다.",
+  "coverPrompt": "Photojournalistic interior of an empty high-backed leather chair behind a formal mahogany government desk with a sealed white envelope resting on the polished surface, morning light through slatted blinds casting diagonal shadow patterns across the room, solemn atmosphere symbolizing institutional transition, vertical 9:16 composition, no people, no text",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "수장 사의",
+      "title": "검찰총장 대행, 형소법 통과에 전격 사의",
+      "summary": "구자현 검찰총장 직무대행이 형사소송법 개정안 통과 직후 책임을 통감한다며 사직서를 제출했습니다. 보완수사권 폐지로 검찰 제도가 근본적으로 바뀌는 가운데 수장이 사의로 응했습니다.",
+      "sourceTitle": "구자현 검찰총장 대행 사의 표명…\"형소법 개정 책임 통감\"",
+      "sourceDesc": "구자현 검찰총장 직무대행이 검찰 보완수사권 폐지를 골자로 한 형사소송법 개정안이 국회 본회의를 통과하자 사의를 표명했다. 구 대행은 검찰청사를 나서며 책임을 통감하고 방금 전 사직서를 제출하였다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=구자현+검찰총장+사의+형소법&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic interior of an empty high-backed leather chair at a formal government desk with a sealed envelope resting on polished wood surface, morning sunlight through venetian blinds casting sharp parallel shadows across the room, solemn institutional atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "사망 35명",
+      "title": "日 구마모토 강진 35명 사망, 피해 확산",
+      "summary": "일본 구마모토 강진 사망자가 35명으로 늘어나며 추가 매몰자 수색이 계속되고 있습니다. 폭염과 열사병까지 겹쳐 이재민들이 이중고를 겪고 있습니다.",
+      "sourceTitle": "日구마모토 강진 사망자 35명으로 늘어…추가 매몰자 수색",
+      "sourceDesc": "일본 구마모토에서 규모 7.1 강진이 발생한 지 나흘째인 31일 지진 관련 사망자가 35명으로 늘었다. 단수와 정전이 이어지는 가운데 낮 기온이 35도를 웃도는 폭염까지 겹치면서 열사병 환자도 속출하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=구마모토+강진+사망+35명&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic aerial view of collapsed traditional Japanese wooden structures amid concrete debris in a residential neighborhood, orange rescue tents and equipment visible in the background, hazy overcast sky, documentary disaster photography style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "사건",
+      "kicker": "선거 자작극",
+      "title": "선거 피습 '자작극' 후보 구속기소",
+      "summary": "정이한 전 개혁신당 부산시장 후보가 지방선거 유세 중 피습 사건을 꾸민 자작극 혐의로 구속기소됐습니다. 부산지검이 공직선거법 위반과 공무집행방해 혐의를 적용했습니다.",
+      "sourceTitle": "검찰, 피습 자작극 혐의 정이한 전 부산시장 후보 구속기소",
+      "sourceDesc": "정이한 전 개혁신당 부산시장 후보가 6·3 지방선거 과정에서 피습 자작극을 벌인 혐의로 구속 상태에서 재판에 넘겨졌다. 부산지검은 정이한을 공직선거법 위반과 위계에 의한 공무집행방해 혐의로 구속기소했다.",
+      "sourceLink": "https://news.google.com/search?q=정이한+피습+자작극+구속기소&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic close-up of steel handcuffs resting on a worn wooden courtroom bench, single overhead spotlight illuminating the cold metal against dark wood, austere institutional atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "의료 혁신",
+      "title": "병원 이동 시 CT·MRI QR로 공유",
+      "summary": "병원을 옮길 때마다 CT·MRI를 다시 촬영하는 관행이 없어집니다. 환자가 스마트폰 QR코드로 기존 의료 영상을 다른 병원에 직접 전달할 수 있게 됩니다.",
+      "sourceTitle": "병원 옮겨도 CT·MRI 다시 안 찍는다…QR 영상 공유 도입",
+      "sourceDesc": "보건복지부가 환자가 스마트폰 QR코드를 활용해 기존 의료 영상을 다른 병원에 바로 전달할 수 있는 의료영상정보공유시스템을 2027년 상반기까지 구축할 계획이다. 2026년 12월부터는 의료기관에서 인공지능을 활용해 환자의 기존 CT·MRI 촬영 이력을 실시간으로 조회하는 서비스가 먼저 도입된다.",
+      "sourceLink": "https://news.google.com/search?q=CT+MRI+QR+의료영상+공유+보건복지부&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic close-up of a smartphone displaying a glowing QR code placed beside an illuminated medical imaging lightbox showing grayscale scan imagery, clinical sterile environment with cool white lighting, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "사법",
+      "kicker": "출국 차단",
+      "title": "법원, 모스 탄 출국정지 소송 기각",
+      "summary": "서울행정법원이 모스 탄 전 교수의 출국정지 처분 취소 소송을 기각했습니다. 법원은 출국 후 재입국하지 않을 가능성 등을 고려해 공익이 더 크다고 판단했습니다.",
+      "sourceTitle": "법원, 모스 탄 출국정지 유지…\"출국 후 재입국 안 할 가능성\"",
+      "sourceDesc": "서울행정법원이 모스 탄 전 리버티대 교수가 법무부를 상대로 낸 출국정지 처분 취소 소송을 기각했다. 법원은 출국 후 재입국하지 않을 가능성과 형사재판 진행 필요성 등을 고려하면 공익이 더 크다고 판단했다.",
+      "sourceLink": "https://news.google.com/search?q=모스탄+출국정지+소송+기각&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic view of an empty airport immigration checkpoint with closed barrier gates and empty queue lanes under fluorescent lighting, institutional border control atmosphere, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-01 아침 브리핑\n\n1. 검찰총장 대행, 형소법 통과에 전격 사의\n2. 日 구마모토 강진 35명 사망, 피해 확산\n3. 선거 피습 '자작극' 후보 구속기소\n4. 병원 이동 시 CT·MRI QR로 공유\n5. 법원, 모스 탄 출국정지 소송 기각\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #검찰 #구마모토지진 #선거범죄 #의료혁신 #사법\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
