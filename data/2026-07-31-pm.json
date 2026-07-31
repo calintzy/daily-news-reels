@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-31",
+  "slot": "pm",
+  "todayOneLiner": "오늘 국내 증시가 역대 최대 폭등을 기록하고 삼성전자가 분기 최고 실적을 경신한 가운데, 형사소송법 처리와 대통령 남미 순방 소식도 이어지고 있습니다.",
+  "coverPrompt": "Photojournalistic wide view of glowing digital stock market trading boards with surging green candlestick charts and climbing numerical data in a dimly lit financial environment, dramatic bull market atmosphere, vertical 9:16 composition, no people, no text",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "역대급 장세",
+      "title": "코스피 역대 최대 폭등…1001포인트 솟구쳐",
+      "summary": "코스피가 1001.89포인트(17.91%) 오른 6595.45로 마감하며 역대 최대 상승률을 기록했습니다. 미국 빅테크 호실적에 힘입어 외국인 순매수가 반도체주를 끌어올렸습니다.",
+      "sourceTitle": "코스피, 하루 만에 1000P 뛰었다…17.9% 역대 최대 폭등",
+      "sourceDesc": "코스피지수는 31일 전 거래일보다 1001.89포인트(17.91%) 오른 6595.45에 거래를 마쳤다. 하루 상승폭이 1000포인트를 넘어선 것은 처음으로, 역대 최대 상승률과 상승폭을 기록했다. 미국 빅테크 호실적과 AI 투자 확대 기대로 외국인 투자자가 순매수를 주도했고 반도체주가 폭등을 이끌었다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+1001포인트+역대최대+폭등+2026년7월31일",
+      "imagePrompt": "Photojournalistic close-up of glowing financial screens showing rapidly rising green candlestick charts and climbing index numbers in a dark trading environment, dramatic upward momentum atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "AI·과학",
+      "kicker": "반도체 슈퍼사이클",
+      "title": "삼성전자, 2분기 역대 최대 실적 경신",
+      "summary": "삼성전자가 2분기 매출 171.5조원, 영업이익 89.5조원으로 분기 사상 최대 실적을 경신했습니다. AI 반도체 수요 급증으로 반도체 부문 영업이익이 89.2조원에 달했습니다.",
+      "sourceTitle": "삼성전자, 2분기 매출 171.5조·영업익 89.5조…역대 최대 실적 경신",
+      "sourceDesc": "삼성전자가 올해 2분기 연결기준 매출액 171.5조원, 영업이익 89.5조원을 기록했다. 분기 기준 사상 최대 실적을 경신했으며, AI 반도체 수요 급증에 힘입어 반도체(DS) 부문에서만 매출 127.5조원, 영업이익 89.2조원을 기록했다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+2분기+171.5조+역대최대+2026",
+      "imagePrompt": "Photojournalistic close-up of layered memory semiconductor chips and silicon wafers arranged on a surface with cool blue studio lighting, advanced technology manufacturing atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "검찰 수사권 후속",
+      "title": "보완수사권 폐지 형소법, 국회 본회의 통과",
+      "summary": "후속: 보완수사권 폐지를 담은 형사소송법 개정안이 재석 178인 중 찬성 175인으로 국회 본회의를 통과했습니다. 야당인 국민의힘은 표결에 불참했습니다.",
+      "sourceTitle": "'보완수사권 완전 폐지' 형소법 개정안, 與 주도로 국회 본회의 통과...野 불참",
+      "sourceDesc": "검사의 보완수사권 완전 폐지를 담은 형사소송법 개정안이 31일 국회 본회의에서 재석 178인 중 찬성 175인, 반대 2인, 기권 1인으로 가결됐다. 야당인 국민의힘은 표결에 불참했으며, 필리버스터 시작 24시간 뒤인 이날 오후 범여권 주도로 토론을 종결하고 법안을 처리했다.",
+      "sourceLink": "https://news.google.com/search?q=형사소송법+보완수사권폐지+본회의통과+2026년7월31일",
+      "imagePrompt": "Photojournalistic interior shot of an empty legislative assembly chamber with rows of vacant desks under solemn overhead lighting, central speaker podium in the foreground, democratic institution atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "개인정보 침해",
+      "title": "KT 펨토셀 해킹, 개인정보 과징금 539억원",
+      "summary": "개인정보보호위원회가 불법 펨토셀 해킹으로 1만6647명의 개인정보를 유출한 KT에 과징금 539억원을 부과했습니다. KT는 조사 방해 혐의로 고발까지 당했습니다.",
+      "sourceTitle": "불법 펨토셀에 뚫린 KT, 과징금 539억…로그 삭제 등 고발",
+      "sourceDesc": "개인정보보호위원회는 불법 펨토셀 해킹으로 1만6647명의 개인정보(휴대전화번호, IMSI, IMEI)를 유출한 KT에 과징금 539억원을 부과했다. KT는 악성코드 감염 사고를 은폐하고 조사 과정에서 거짓 자료를 제출하는 등 조사를 방해한 혐의로 고발 조치도 받았다.",
+      "sourceLink": "https://news.google.com/search?q=KT+펨토셀+개인정보유출+과징금+539억+2026",
+      "imagePrompt": "Photojournalistic close-up of a small cellular network base station unit mounted on a utility pole against an overcast sky, industrial wireless infrastructure equipment, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "남미 순방",
+      "title": "이재명 대통령, 22년 만에 아르헨티나 방문",
+      "summary": "이재명 대통령이 22년 만에 아르헨티나를 공식 방문해 하비에르 밀레이 대통령과 정상회담을 가졌습니다. 핵심광물 공급망 협력과 한·메르코수르 무역협정 협상 재개가 주요 의제였습니다.",
+      "sourceTitle": "李대통령, 22년 만의 아르헨 공식 방문…'남미 공동시장' 협상 재개 논의",
+      "sourceDesc": "이재명 대통령이 30일(현지시간) 남미 순방 마지막 방문국인 아르헨티나에 도착했다. 한국 대통령의 아르헨티나 공식 방문은 2004년 이후 22년 만으로, 이 대통령은 31일 하비에르 밀레이 아르헨티나 대통령과 정상회담을 갖고 핵심광물 공급망 협력과 한·메르코수르 무역협정 협상 재개를 논의한다.",
+      "sourceLink": "https://news.google.com/search?q=이재명대통령+아르헨티나+22년만+공식방문+메르코수르+2026",
+      "imagePrompt": "Photojournalistic exterior view of an official government building facade with stone columns and national flags, formal diplomatic setting in South America, overcast sky, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-07-31 저녁 브리핑\n\n1. 코스피 역대 최대 폭등…1001포인트 솟구쳐\n2. 삼성전자, 2분기 역대 최대 실적 경신\n3. 보완수사권 폐지 형소법, 국회 본회의 통과 (후속)\n4. KT 펨토셀 해킹, 개인정보 과징금 539억원\n5. 이재명 대통령, 22년 만에 아르헨티나 방문\n\n오늘도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #코스피 #삼성전자 #형사소송법 #KT개인정보 #남미순방\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
