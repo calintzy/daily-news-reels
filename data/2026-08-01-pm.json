@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-01",
+  "slot": "pm",
+  "todayOneLiner": "경남 양산 기상관측 역사상 최고기온 경신부터 왕이 외교부장 방한 예정까지, 오늘 낮 핵심 소식을 물어왔습니다.",
+  "coverPrompt": "Photojournalistic close-up of cracked and scorched earth under relentless midday summer sun with visible heat distortion waves rising above the surface, an analog outdoor thermometer mounted on a weathered concrete wall showing extreme temperature reading in the background, harsh direct overhead light creating sharp shadows, vertical 9:16 composition, no people, no text",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "역대 최고",
+      "title": "경남 양산 41.6도, 기상 관측 사상 최고기온",
+      "summary": "경남 양산에서 오후 2시 9분 최고기온 41.6도가 측정돼 기상관측 사상 가장 높은 기온을 기록했습니다. 전날 41.4도를 하루 만에 경신한 것으로, 나흘째 40도대 폭염이 이어지고 있습니다.",
+      "sourceTitle": "[날씨]전국 폭염…경남 양산 41.6도, 역대 최고기온 경신",
+      "sourceDesc": "기상청에 따르면 이날 오후 2시 9분 양산의 최고기온이 41.6도를 기록했다. 이는 전날 양산에서 측정된 41.4도를 하루 만에 넘어선 것으로, 122년 국내 기상관측 역사상 가장 높은 기온이다. 지난달 29일부터 나흘째 40도대 기온이 이어지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=양산+41.6도+역대+최고기온+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic close-up of sun-baked cracked asphalt road with intense heat shimmer rising in waves above the surface, harsh direct sunlight casting sharp shadows, desolate summer heat atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "정보유출 제재",
+      "title": "롯데카드, 297만건 유출로 영업정지 1.5개월",
+      "summary": "고객 정보 297만건이 유출된 롯데카드에 금융위원회가 1.5개월 업무정지와 과징금 50억원을 부과했습니다. 해킹 사고로 인한 정보유출에 업무정지가 내려진 것은 처음으로, 8월 1일부터 시행됩니다.",
+      "sourceTitle": "롯데카드, 297만건 정보유출로 첫 업무정지 처분… 금융권 보안 강화 촉구",
+      "sourceDesc": "금융위원회가 고객정보 297만건이 유출된 롯데카드에 1.5개월 업무정지와 과징금 50억원을 부과했다. 업무정지 기간은 8월 1일부터 9월 15일까지며, 해킹으로 인한 정보유출 사건에 업무정지 처분이 내려진 것은 이번이 처음이다.",
+      "sourceLink": "https://news.google.com/search?q=롯데카드+영업정지+1.5개월+정보유출+금융위원회&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic close-up of a payment card lying face down on a dark polished surface, a broken padlock beside it symbolizing compromised security, dramatic side lighting with deep shadows, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "청소년 급증",
+      "title": "비만치료제 마운자로 150만 처방, 10대 급증",
+      "summary": "비만치료제 '마운자로'가 국내 출시 10개월 만에 처방 150만건을 넘겼습니다. 처방의 절반 이상이 20∼30대에 집중된 가운데 10대 처방도 올해 1.5배로 늘어 오남용 우려가 커지고 있습니다.",
+      "sourceTitle": "[와글와글 플러스] '마운자로' 처방 150만 건 돌파‥10대까지",
+      "sourceDesc": "비만치료제 '마운자로'가 국내 출시 10개월 만에 150만건 넘게 처방된 것으로 나타났다. 처방의 절반 이상이 20∼30대에 집중됐고, 10대 처방도 올해 들어 1.5배로 늘면서 오남용 우려가 커지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=마운자로+150만+처방+10대+오남용&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic close-up of prescription pill bottles and a medical blister pack arranged on a clinical white surface, soft even lighting with clean minimal hospital atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "한중 외교",
+      "title": "중국 왕이 외교부장, 이달 방한해 한중 회담",
+      "summary": "중국 왕이 외교부장이 이달 19∼20일 한국을 방문해 한중 외교장관 회담을 가질 전망입니다. 조현 외교부 장관과 양자관계 현안 및 한반도 문제를 논의할 예정입니다.",
+      "sourceTitle": "왕이 中 외교부장 다음달 19~20일 방한...'비핵화' 언급 주목",
+      "sourceDesc": "왕이(王毅) 중국 당 중앙정치국 위원 겸 외교부장이 내달 19∼20일 한국을 방문할 것으로 전망되고 있다. 왕 부장 방한 시 조현 외교부 장관과 가질 한중 외교장관 회담을 통해 양자관계 현안 및 한반도 문제에 대해 의견을 교환할 것이 확실시되고 있다.",
+      "sourceLink": "https://news.google.com/search?q=왕이+방한+한중+외교장관+회담+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic view of two pairs of national flags on tall ceremonial flagpoles in an official diplomatic hall setting, neutral interior with marble floors and high ceilings, soft diffused institutional lighting, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "문화",
+      "kicker": "흥행 신기록",
+      "title": "'스파이더맨: 브랜드 뉴 데이', 4일 만에 200만",
+      "summary": "'스파이더맨: 브랜드 뉴 데이'가 개봉 4일 만에 200만 관객을 넘어 올해 개봉작 최단 기록을 세웠습니다. 1일 기준 누적 관객 210만7469명으로, 올해 가장 빠른 흥행 속도입니다.",
+      "sourceTitle": "'스파이더맨: 브랜드 뉴 데이', 개봉 4일만 200만 관객 돌파 [DA박스]",
+      "sourceDesc": "영화관입장권 통합전산망에 따르면 '스파이더맨: 브랜드 뉴 데이'는 1일 오전 12시 5분 기준 누적 관객 210만7469명을 기록했다. 개봉 4일째 200만 관객을 넘어선 것으로, 올해 개봉작 가운데 가장 빠른 흥행 속도를 새로 썼다.",
+      "sourceLink": "https://news.google.com/search?q=스파이더맨+브랜드뉴데이+200만+관객+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic view of an illuminated cinema lobby with large movie poster display walls and empty queue barriers set up for ticket collection, warm indoor ambient lighting with vibrant atmospheric glow, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-01 저녁 브리핑\n\n1. 경남 양산 41.6도, 기상 관측 사상 최고기온\n2. 롯데카드, 297만건 유출로 영업정지 1.5개월\n3. 비만치료제 마운자로 150만 처방, 10대 급증\n4. 중국 왕이 외교부장, 이달 방한해 한중 회담\n5. '스파이더맨: 브랜드 뉴 데이', 4일 만에 200만\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #폭염 #역대최고기온 #롯데카드 #마운자로 #왕이방한 #스파이더맨\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
