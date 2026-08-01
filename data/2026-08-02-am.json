@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-02",
+  "slot": "am",
+  "todayOneLiner": "검찰 수사권 폐지법 국회 통과부터 이란의 쿠웨이트 드론 공습, 오늘도 찜통더위까지, 오늘 아침 핵심 소식을 물어왔습니다.",
+  "coverPrompt": "Photojournalistic close-up of a wooden gavel resting beside a thick legal statute book on a polished legislative bench, soft institutional overhead lighting creating subtle shadows, symbolizing a landmark parliamentary vote, vertical 9:16 composition, no people, no text",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "수사권 폐지",
+      "title": "검찰 보완수사권 폐지법 국회 통과",
+      "summary": "검찰의 보완수사권 폐지를 담은 형사소송법 개정안이 국회 본회의에서 찬성 175표로 통과됐습니다. 국민의힘의 필리버스터에도 여당 주도로 의결이 이뤄져 검찰 수사 구조가 바뀌게 됩니다.",
+      "sourceTitle": "형사소송법 개정안, 국힘 필버 뚫고 與 주도 본회의 통과…찬성 175",
+      "sourceDesc": "검찰의 보완수사권 폐지를 골자로 하는 형사소송법 개정안이 31일 국회 본회의를 통과했다. 재석 178명 중 찬성 175명(반대 2명, 기권 1명)으로 의결됐으며, 국민의힘은 이틀간 필리버스터로 반발했으나 역부족이었다.",
+      "sourceLink": "https://news.google.com/search?q=형사소송법+보완수사권+필리버스터+본회의+찬성+175&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic view of rows of empty legislative chamber seats in a parliament hall with national flags visible in the background, cool institutional lighting and dark wood paneling, symbolizing a major parliamentary vote, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "초박빙 경선",
+      "title": "민주당 충청 경선, 김민석·정청래 박빙",
+      "summary": "더불어민주당 당대표 선출 첫 순회경선이 충청권에서 열려 김민석·정청래 두 후보가 초박빙 대결을 펼쳤습니다. 충남·충북은 김민석 후보, 대전·세종은 정청래 후보가 각각 1위를 차지했습니다.",
+      "sourceTitle": "與 당대표 첫 경선…충남·충북 김민석, 대전·세종 정청래 승리",
+      "sourceDesc": "더불어민주당 8·17 전당대회 첫 순회경선인 충청권 투표가 1일 실시됐다. 충남·충북에서는 김민석 후보, 대전·세종에서는 정청래 후보가 각각 1위를 차지해 전체 득표율이 초박빙으로 나타났다.",
+      "sourceLink": "https://news.google.com/search?q=민주당+당대표+경선+충청권+김민석+정청래+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic wide shot of a large empty auditorium with a campaign stage setup, podiums and banners arranged on a raised platform, dramatic overhead stage lighting with empty rows of chairs in the foreground, political convention atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "중동 긴장",
+      "title": "이란, 쿠웨이트에 드론 공습 감행",
+      "summary": "이란이 쿠웨이트에 드론 공습을 가해 정부 시설 등이 파손됐습니다. 인명 피해는 없었으나 이란은 미국과 협력하는 국가를 겨냥한 경고 행동이라고 밝혔습니다.",
+      "sourceTitle": "이란, 쿠웨이트 미군기지 드론 공습⋯이라크·바레인도 긴장",
+      "sourceDesc": "이란이 쿠웨이트에 무인항공기(드론)를 동원한 공습을 가했다. 쿠웨이트 국방부는 자국 영공 내에서 적 드론을 탐지해 요격했다고 밝혔으며, 정부 시설 등이 파손됐으나 인명 피해는 없었다. 이란은 미국과 협력하는 국가를 겨냥한 보복 행동임을 시사했다.",
+      "sourceLink": "https://news.google.com/search?q=이란+쿠웨이트+드론+공습+미군기지+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic view of desert terrain at dawn with distant smoke rising from a damaged structure on the horizon, dramatic warm orange tones across dry barren land, ominous military atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "극한 폭염",
+      "title": "전국 찜통더위·열대야, 경남 체감 38도",
+      "summary": "8월 2일 일요일도 전국 대부분 지역에 찜통더위와 열대야가 이어집니다. 경남권 체감온도는 38도 이상까지 오르는 극한 폭염이 예고됐습니다.",
+      "sourceTitle": "[8월 2일 날씨] 일요일도 전국 찜통더위 계속-경남 체감온도 38도 이상, 열대야도 이어져",
+      "sourceDesc": "8월 2일 일요일에도 전국 대부분 지역에 찜통더위가 계속되겠다. 아침 최저기온은 24~27도, 낮 최고기온은 32~39도가 예상되며, 경남권은 체감온도 38도 이상의 극한 폭염이 나타날 전망이다. 밤에도 열대야가 이어지겠다.",
+      "sourceLink": "https://news.google.com/search?q=폭염+열대야+경남+체감온도+38도+2026년+8월+2일&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic view of empty urban street at noon under blazing summer sun, intense heat shimmer rising from scorched asphalt, harsh high-contrast midday light with minimal shadows, oppressive heatwave atmosphere, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "AI 국가 전략",
+      "title": "K-문샷 마일스톤 이달 공개, 12개 미션 확정",
+      "summary": "정부가 양자·신약·BCI 등 전략기술에 AI를 접목하는 K-문샷 프로젝트를 가속하고 있습니다. 12개 미션별 기술 목표를 담은 마일스톤이 이달 공개될 예정입니다.",
+      "sourceTitle": "AI로 국가 난제 푼다…양자·신약·BCI 'K-문샷' 가속",
+      "sourceDesc": "정부가 양자·신약·BCI 등 국가 전략기술에 인공지능(AI)을 접목해 국가 난제를 해결하는 K-문샷 프로젝트를 가속하고 있다. 과기정통부는 양자·신약·BCI·휴머노이드 등 12개 분야의 기술 목표와 달성 시점을 담은 마일스톤을 이달 말 공개하고 국가과학기술자문회의에 제출할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=K-문샷+AI+마일스톤+과기정통부+12개+미션+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalistic close-up of quantum computing circuit hardware showing intricate circuit board patterns and illuminated processing nodes inside a research laboratory, blue-toned cool technical lighting with metallic reflections, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-02 아침 브리핑\n\n1. 검찰 보완수사권 폐지법 국회 통과\n2. 민주당 충청 경선, 김민석·정청래 박빙\n3. 이란, 쿠웨이트에 드론 공습 감행\n4. 전국 찜통더위·열대야, 경남 체감 38도\n5. K-문샷 마일스톤 이달 공개, 12개 미션 확정\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #형사소송법 #검찰수사권 #민주당경선 #이란쿠웨이트 #폭염 #열대야 #K문샷 #AI\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
