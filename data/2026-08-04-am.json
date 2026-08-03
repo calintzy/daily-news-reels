@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-04",
+  "slot": "am",
+  "todayOneLiner": "트럼프의 이란 최후통첩부터 종부세 대수술, 국산 AI 경쟁까지 오늘 아침도 핵심 뉴스를 물어왔습니다.",
+  "coverPrompt": "Strait of Hormuz aerial view — deep blue ocean waters narrowing between rugged sunlit desert coastlines, large commercial oil supertanker casting a shadow on the sunlit sea surface, golden haze over distant arid landscape, photojournalism documentary style, no people, no text, vertical 9:16 composition",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "중동 위기",
+      "title": "트럼프, 이란에 '참수' 위협…최후통첩",
+      "summary": "트럼프 대통령이 이란 지도부 '참수'를 거론하며 핵 협상을 '마지막 기회'라고 압박했습니다. 합의 거부 시 대규모 폭격을 예고하며 호르무즈 해협 개방을 1단계 조건으로 제시했습니다.",
+      "sourceTitle": "트럼프 '이란에 마지막 기회'…합의 거부땐 지도부 '참수' 위협",
+      "sourceDesc": "도널드 트럼프 미국 대통령이 이란 지도부 제거('참수')를 거론하며 핵 협상이 '마지막 기회'라고 압박했다. 트럼프는 이란이 호르무즈 해협을 완전히 개방하는 것을 1단계 조건으로 제시하며, 거부 시 대규모 폭격을 감행하겠다고 위협했다.",
+      "sourceLink": "https://news.google.com/search?q=트럼프+이란+마지막기회+참수+위협+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial view of a strategic ocean strait narrowing between arid rocky coastlines, large oil supertanker vessel on sunlit blue-green waters, hazy desert horizon, cinematic wide angle, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정책",
+      "kicker": "세제 개편",
+      "title": "종부세 대수술…서민 감세·고가 다주택 강화",
+      "summary": "정부가 2026년 세제개편안을 확정했습니다. 서민·기업 부담은 1.4조 줄이고, 종부세 강화로 2.2조원을 확보하는 것이 골자입니다.",
+      "sourceTitle": "[2026 세제개편] 서민·기업부담 1.4조 줄이고 종부세로 2.2조 확보",
+      "sourceDesc": "재정경제부가 3일 2026년 세제개편안을 발표했다. 1세대 1주택 종부세 공제 기준을 공시가격 12억원에서 14억원으로 높이고 초고가·비거주·다주택 종부세는 강화한다. 서민·기업 세부담은 1.4조원 줄이고 종부세 강화로 2.2조원을 확보하는 게 골자다.",
+      "sourceLink": "https://news.google.com/search?q=2026+세제개편안+종부세+발표+서민감세&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Top-down view of real estate property deed documents and tax calculation papers spread on a wooden desk under harsh overhead light casting sharp shadows, formal government document texture, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "연예계 사기",
+      "title": "차가원 대표, 300억대 사기 혐의로 구속",
+      "summary": "서울중앙지법이 연예기획사 대표 차가원에게 구속영장을 발부했습니다. 300억원대 사기 혐의에 '증거인멸의 염려'가 인정됐습니다.",
+      "sourceTitle": "[속보]'300억 사기 혐의' 연예기획사 대표 차가원 구속…'증거인멸 염려'",
+      "sourceDesc": "서울중앙지방법원이 300억원대 사기 혐의를 받는 연예기획사 원헌드레드 대표 차가원에게 구속영장을 발부했다. 재판부는 '증거인멸의 염려가 있다'고 판단했다. 차 대표는 소속 연예인의 지식재산권(IP) 관련 사업으로 노머스로부터 242억원의 선수금을 받고 이행하지 않은 혐의를 받는다.",
+      "sourceLink": "https://news.google.com/search?q=차가원+구속+300억+사기혐의+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty formal courtroom interior with judge's elevated bench and wooden gallery seating, dramatic shaft of natural light through tall windows illuminating the silent chamber, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "소버린 AI",
+      "title": "독파모 2차 평가 '결전의 달', 4사 새 모델 경쟁",
+      "summary": "정부의 독자 AI 파운데이션 모델(독파모) 2차 평가가 이달 진행됩니다. SKT·LG·업스테이지·모티프 4사가 최신 모델을 앞세워 경쟁 중이며, 4팀 중 3팀만 다음 단계에 진출합니다.",
+      "sourceTitle": "윤곽 드러나는 국가대표AI…독파모 2차 평가 '결전의 달'",
+      "sourceDesc": "정부의 독자 AI 파운데이션 모델(독파모) 프로젝트 2차 평가가 8월 중 진행된다. SKT, LG AI연구원, 업스테이지, 모티프테크놀로지스 4개 팀이 최신 모델을 공개하며 경쟁에 돌입했으며, 4팀 중 3팀이 살아남는 평가 결과가 이달 발표된다.",
+      "sourceLink": "https://news.google.com/search?q=독파모+2차평가+2026+8월+AI+파운데이션모델&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of illuminated server rack panels inside a high-tech data center, rows of blinking blue and white LED status indicators on dark processing units, cool air circulation visible, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "폭염 피해",
+      "title": "이틀 연속 온열질환자 100명 초과, 사망 16명 누적",
+      "summary": "8월 2일 114명, 3일 108명으로 온열질환자가 이틀 연속 100명을 넘겼습니다. 누적 온열질환자는 2025명, 누적 사망자는 16명으로 집계됐습니다.",
+      "sourceTitle": "40도 넘는 폭염에 온열질환자 이틀 연속 100명 넘었다… 사망자도 발생",
+      "sourceDesc": "연이은 40도 넘는 폭염 속에 8월 2일 온열질환자 114명, 3일 108명이 발생해 이틀 연속 100명을 넘겼다. 누적 온열질환자는 2025명, 사망자는 16명으로 집계됐다.",
+      "sourceLink": "https://news.google.com/search?q=온열질환자+이틀연속+100명+폭염+2026년+8월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Extreme summer urban heat visualization — concrete pavement shimmering with intense heat haze under a blazing sun, cracked dry ground with withered vegetation beside empty city street infrastructure, deep orange sky, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-04 아침 브리핑\n\n1. 트럼프, 이란에 '참수' 위협…최후통첩\n2. 종부세 대수술…서민 감세·고가 다주택 강화\n3. 차가원 대표, 300억대 사기 혐의로 구속\n4. 독파모 2차 평가 '결전의 달', 4사 새 모델 경쟁\n5. 이틀 연속 온열질환자 100명 초과, 사망 16명 누적\n\n오늘 저녁에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #트럼프 #이란 #종부세 #세제개편 #차가원 #AI #독파모 #폭염 #온열질환\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
