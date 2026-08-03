@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-03",
+  "slot": "pm",
+  "todayOneLiner": "해병대 총기사고부터 대통령 귀국, 반도체 급락까지 오늘 낮 핵심 뉴스를 물어왔습니다.",
+  "coverPrompt": "Military off-base residential building exterior at dawn — standard institutional apartment blocks in a quiet neighborhood, caution tape visible at entrance, overcast sky with muted tones conveying gravity and solemnity, photojournalism documentary style, no people, no text, vertical 9:16 composition",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "군 내부 사고",
+      "title": "해병대 부사관 포항 영외숙소서 총기사고 사망",
+      "summary": "경북 포항 해병대 영외 간부숙소에서 부사관이 총기 사고로 숨진 채 발견됐습니다. 외부 범죄 혐의점은 없으며 군·경 합동 조사가 진행 중입니다.",
+      "sourceTitle": "해병대 부사관, 영외 간부숙소서 총기 사고로 사망…군·경 경위 조사",
+      "sourceDesc": "해병대는 3일 오전 경북 포항의 영외 간부숙소에서 부사관이 총기 사고로 숨진 채 발견됐다고 밝혔다. 출근 시간이 지나도록 연락이 닿지 않자 부대 관계자가 숙소를 확인하는 과정에서 발견됐으며, 현재까지 외부에 의한 범죄 혐의점은 발견되지 않았다. 군·경이 합동 조사를 벌이고 있으며, 총기와 실탄의 영외 반출 경위가 핵심 쟁점으로 떠오르고 있다.",
+      "sourceLink": "https://news.google.com/search?q=해병대+영외간부숙소+총기사고+사망+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty military residential corridor with numbered institutional doors, dim overhead fluorescent lighting, somber and quiet hallway in an off-base housing building, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "경제외교 성과",
+      "title": "李대통령, 7박11일 남미 순방 마치고 귀국",
+      "summary": "이재명 대통령이 7박 11일간의 남미 3개국 순방을 마치고 귀국했습니다. 핵심광물·원유 협력 등 경제외교 성과를 안고 귀국 직후 청와대에서 경제현안 점검 회의를 주재했습니다.",
+      "sourceTitle": "李대통령, 7박 11일 순방 귀국…글로벌 AI 동맹·핵심광물·원유 공급망 다변화",
+      "sourceDesc": "이재명 대통령이 7박 11일간의 미국·남미 3개국 순방을 마치고 3일 귀국했다. 미국 실리콘밸리에서 글로벌 빅테크와 AI 동맹을 맺고 핵심광물 공급망 다변화와 원유 협력 성과를 거뒀다. 귀국 직후 청와대에서 부동산·증시 등 경제현안 점검 회의를 주재했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+남미순방+귀국+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Formal diplomatic conference venue — empty oval table with international flags arranged around it, leather chairs, and official documents, warm golden overhead lighting, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "증시 되돌림",
+      "title": "반도체 차익실현에 코스피 5% 급락",
+      "summary": "전날 급등에 대한 후속 되돌림으로, 삼성전자·SK하이닉스 등 반도체주 차익 실현 매물에 코스피가 5% 이상 급락했습니다. 반도체 외 업종이 강세를 보인 코스닥은 올랐습니다.",
+      "sourceTitle": "[마감시황] 반도체 차익 실현 매물에 코스피 5.12% 하락",
+      "sourceDesc": "전날 역대급 상승을 기록한 삼성전자와 SK하이닉스 등 반도체 대형주에 3일 차익 실현 매물이 집중되며 코스피가 5.12% 급락, 6257.45에 장을 마쳤다. 코스닥은 반도체 이외 업종의 상승에 힘입어 2%대 올라 대조적인 디커플링 장세를 보였다.",
+      "sourceLink": "https://news.google.com/search?q=반도체+차익실현+코스피+하락+2026년+8월3일&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Electronic trading board inside an empty exchange hall showing downward red price arrows and falling chart lines on digital screens, deep red and dark tones, dramatic dim lighting, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "중동 정세",
+      "title": "트럼프, 이란 대공습 전격 보류",
+      "summary": "트럼프 미국 대통령이 주말로 예고됐던 이란 대규모 공습을 전격 보류했습니다. 사우디아라비아 왕세자가 대규모 공격에 우려를 표명하며 갈등 완화를 촉구한 것이 배경으로 알려졌습니다.",
+      "sourceTitle": "트럼프, 예고했던 주말 이란 공격 보류…사우디 왕세자 '공격 우려 표명'(종합)",
+      "sourceDesc": "도널드 트럼프 미국 대통령이 주말로 예고됐던 이란에 대한 대규모 공습을 전격 보류했다. 사우디아라비아 무함마드 빈 살만 왕세자가 트럼프 대통령과 통화해 이란에 대한 대규모 공격에 우려를 표명하며 갈등 완화를 촉구한 것으로 알려졌다. 트럼프 대통령은 이란 및 중동 국가들이 협상의 기본 골자에 합의했다며 공격 보류를 발표했다.",
+      "sourceLink": "https://news.google.com/search?q=트럼프+이란+공습+보류+사우디+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial view of a Middle Eastern oil refinery complex with glowing industrial towers and pipelines at dusk, vast petrochemical landscape stretching to the horizon under an orange-tinted hazy sky, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "안보",
+      "kicker": "군 개혁",
+      "title": "국방방첩본부 공식 출범, 방첩사 기능 재편",
+      "summary": "국방부가 방첩사를 해체하고 군 방첩·보안 기능을 전담할 국방방첩본부를 공식 출범시켰습니다. 방첩사의 과오를 청산하고 민주적 군 조직으로 개혁하기 위한 국정과제 완수의 일환입니다.",
+      "sourceTitle": "국방부, 12·3 계엄 과오 털고 '국방방첩본부' 출범… 미래 안보위협 전담",
+      "sourceDesc": "국방부가 3일 안규백 장관 주관으로 과천 본부에서 국방방첩본부 창설식을 개최했다. 해체된 국군방첩사령부의 방첩·보안·안보수사 기능을 이관받으며 방첩사 과오를 청산하고 민주적 조직으로 개혁하기 위한 국정과제 완수의 일환이다. 국방보안지원단과 안보수사단 등도 함께 출범해 군 방첩·보안 기능이 3개 기관으로 재편됐다.",
+      "sourceLink": "https://news.google.com/search?q=국방방첩본부+창설+출범+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "South Korean government ministry building exterior with national flags flying at the entrance, clean modern institutional architecture, overcast sky, formal and official atmosphere, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-03 저녁 브리핑\n\n1. 해병대 부사관 포항 영외숙소서 총기사고 사망\n2. 李대통령, 7박11일 남미 순방 마치고 귀국\n3. 반도체 차익실현에 코스피 5% 급락\n4. 트럼프, 이란 대공습 전격 보류\n5. 국방방첩본부 공식 출범, 방첩사 기능 재편\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #해병대 #코스피 #반도체 #이재명 #국방방첩본부 #트럼프 #이란\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
