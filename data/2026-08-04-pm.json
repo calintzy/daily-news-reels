@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-04",
+  "slot": "pm",
+  "todayOneLiner": "검찰 수사권 분리부터 국민 먹거리 담합 기소까지, 오늘 낮 핵심 뉴스를 물어왔습니다.",
+  "coverPrompt": "Stacked legal code books and thick case files on a polished wooden table in an empty government office, soft diffused window light casting long shadows across document-covered surface, photojournalism documentary style, no people, no text, vertical 9:16 composition",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "수사권 분리",
+      "title": "형소법 개정안 국무회의 통과…검사 수사권 폐지",
+      "summary": "이재명 대통령이 검사의 보완수사권을 폐지하는 형사소송법 개정안을 국무회의에서 의결했습니다. 수사 주체가 사법경찰관으로 일원화되며 검사는 공소제기와 공소유지만 담당하게 됩니다.",
+      "sourceTitle": "[정치][속보] '보완수사권 폐지' 형소법 개정안 국무회의서 의결",
+      "sourceDesc": "이재명 대통령이 4일 국무회의에서 검사의 직접수사권과 보완수사권의 법적 근거를 삭제하는 형사소송법 개정안을 심의·의결했다. 수사의 주체를 사법경찰관으로 일원화하고 검사는 공소제기와 공소유지를 담당하도록 하는 내용을 골자로 하며, 국민의힘은 사법 정의에 정면 도전이라며 강하게 반발했다.",
+      "sourceLink": "https://news.google.com/search?q=보완수사권+폐지+형소법+국무회의+의결+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "South Korean government meeting room — long empty conference table with microphones aligned, official national emblem mounted on the far wall, formal overhead lighting casting soft even shadows, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "물가 안정",
+      "title": "7월 소비자물가 2.8%…3개월 만에 2%대 복귀",
+      "summary": "7월 소비자물가 상승률이 2.8%를 기록하며 3개월 만에 2%대로 내려왔습니다. 석유류와 농산물 가격 오름세 둔화가 주요 원인으로 분석됩니다.",
+      "sourceTitle": "[속보]7월 소비자물가 2.8%, 3개월 만에 2%대…경유 21.5%↑·파 18.3%↑",
+      "sourceDesc": "국가데이터처가 4일 발표한 2026년 7월 소비자물가동향에 따르면 지난달 소비자물가지수는 전년 대비 2.8% 상승했다. 5월 3.1%, 6월 3.2%에서 3개월 만에 2%대로 내려왔으며, 석유류 가격 상승폭이 6월 24.7%에서 15.5%로 축소됐고 농산물 오름세도 둔화된 것이 주요 원인이다. 경유 21.5%↑, 파 18.3%↑ 등 일부 품목은 여전히 높은 상승률을 유지했다.",
+      "sourceLink": "https://news.google.com/search?q=7월+소비자물가+2.8%+3개월+2%대+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Traditional Korean open-air market vegetable stall — neatly stacked green onions and fresh produce under bright fluorescent lighting, price boards blurred in background, vivid textures and colors, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "국민 먹거리 담합",
+      "title": "돼지고기 담합 1조2000억 기소…유통사 6개사",
+      "summary": "검찰이 6년간 돼지고기 납품가를 담합한 도드람 등 유통업체 6개사와 임직원 12명을 공정거래법 위반으로 기소했습니다. 담합으로 대형마트 돼지고기 가격이 최소 20% 이상 올랐습니다.",
+      "sourceTitle": "1조2000억대 '돼지고기 담합' 적발…도드람 등 유통사",
+      "sourceDesc": "서울동부지검은 4일 대형마트에 납품하는 돼지고기 가격을 2017년 8월부터 2023년 11월까지 6년간 담합한 도드람푸드 등 유통업체 6개사와 임직원 12명을 공정거래법 위반 혐의로 불구속 기소했다. 이들 업체는 이마트 등에 제출한 견적 가격 정보를 서로 교환하며 납품 가격을 유지했으며, 담합으로 대형마트 돼지고기 가격이 최소 20% 이상 올라 1조2000억원 이상의 부당 매출을 올린 것으로 파악됐다.",
+      "sourceLink": "https://news.google.com/search?q=돼지고기+담합+1조2000억+기소+도드람+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Fresh pork cuts displayed on a supermarket refrigerated counter under cold white LED lighting, pale blue styrofoam trays in neat rows, reflective glass case with condensation, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "개헌 논란",
+      "title": "국회의장 연임 개헌 발언에 여야 파장",
+      "summary": "국회의장이 현직 대통령 연임 개헌을 국민이 선택할 문제라고 발언해 정치권에 파장이 일었습니다. 이재명 대통령은 공개 입장을 밝히지 않았으며 청와대는 추가 논란을 피하겠다는 기류입니다.",
+      "sourceTitle": "野일각 \"이재명 13년 장기집권 개헌설\" 하루 만에 국회의장 \"대통령 연임? 국민 선택\"",
+      "sourceDesc": "국회의장이 현직 대통령 연임을 허용하는 개헌에 대해 국민 선택의 문제라고 발언해 여야 모두 파장이 일었다. 야권 일각에서는 이재명 대통령의 13년 장기집권으로 이어질 수 있다고 우려했고, 청와대는 현행 헌법상 현직 대통령의 연임이 불가능한 만큼 대통령이 직접 나서 추가 논란을 키울 필요가 없다는 기류다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+연임+개헌+국회의장+국민선택+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "South Korean National Assembly building exterior — grand domed stone facade framed through iron fence gate, overcast daylight casting soft even shadows on the colonnaded entrance, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "AI 메모리 신기술",
+      "title": "SK하이닉스·샌디스크, HBF 첫 표준 규격 공개",
+      "summary": "SK하이닉스가 샌디스크와 HBF 첫 표준 규격을 공개했습니다. HBF는 HBM과 SSD 사이 새로운 메모리 계층으로 AI 추론 메모리 병목 해소를 목표로 합니다.",
+      "sourceTitle": "SK하이닉스·샌디스크, HBF 첫 표준 공개…AI 메모리 병목 푼다",
+      "sourceDesc": "SK하이닉스는 4일 샌디스크와 함께 차세대 스토리지 기술인 고대역폭플래시(HBF)의 첫 표준 규격을 공개했다. HBF는 HBM과 SSD 사이를 잇는 새로운 메모리 계층으로, 최대 512GB 용량과 최대 3.0TB/s의 대역폭을 지원해 AI 추론 환경에서 요구되는 성능과 용량을 동시에 확보하는 것이 목표다.",
+      "sourceLink": "https://news.google.com/search?q=SK하이닉스+샌디스크+HBF+표준+AI메모리+2026+8월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a next-generation memory chip module resting on a dark matte anti-static surface, intricate gold circuit traces reflecting warm studio light, extreme macro depth of field, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-04 저녁 브리핑\n\n1. 형소법 개정안 국무회의 통과…검사 수사권 폐지\n2. 7월 소비자물가 2.8%…3개월 만에 2%대 복귀\n3. 돼지고기 담합 1조2000억 기소…유통사 6개사\n4. 국회의장 연임 개헌 발언에 여야 파장\n5. SK하이닉스·샌디스크, HBF 첫 표준 규격 공개\n\n오늘 하루도 물어오리가 함께했습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #형사소송법 #검찰 #수사권 #소비자물가 #물가 #돼지고기 #담합 #개헌 #SK하이닉스 #HBF\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
