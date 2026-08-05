@@ -1,9 +1,9 @@
 // 릴스 타이밍 상수 (하드코딩 데이터에서 분리 — 데이터 주입형 컴포지션이 공유)
 export const coverDuration = 90;
-export const issueDuration = 114;
+export const issueDuration = 159;
 export const outroDuration = 84;
 
-// calculateMetadata용: durationInFrames = 90 + 114*이슈수 + 84
+// calculateMetadata용: durationInFrames = 90 + 159*이슈수 + 84
 export function totalFrames(issueCount) {
   return coverDuration + issueDuration * issueCount + outroDuration;
 }

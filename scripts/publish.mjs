@@ -178,8 +178,8 @@ async function main() {
   } else {
     // 썸네일 프레임: 커버(매일 동일 디자인) 대신 이슈1 슬라이드 중간 프레임 —
     // 그리드에 그날의 1위 뉴스 이미지·헤드라인이 보여 날짜별로 구분된다.
-    // 타이밍은 render.mjs 상수 기준: 커버 90f + 이슈 절반 57f = 147f @30fps = 4900ms.
-    const THUMB_OFFSET_MS = 4900;
+    // 타이밍은 render.mjs 상수 기준: 커버 90f + 이슈 절반 79f = 169f @30fps = 5633ms.
+    const THUMB_OFFSET_MS = 5633;
     let c;
     try {
       c = await api(
