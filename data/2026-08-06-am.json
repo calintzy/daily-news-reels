@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-06",
+  "slot": "am",
+  "todayOneLiner": "폭염에 KBO가 사상 초유의 전 경기 취소를 결단하고, 광복절을 앞두고 115년 만에 돌아온 안중근 의사의 유묵이 국민 앞에 공개됩니다.",
+  "coverPrompt": "Documentary photography of a deserted professional baseball stadium interior at midday, rows of empty colorful plastic seats radiating heat under intense summer sunlight, green infield shimmering with heat distortion, deep blue hazy sky overhead, no people, no text, vertical 9:16 composition, photojournalism style",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "폭염에 KBO 올스톱",
+      "title": "KBO, 살인 폭염에 전 경기 취소 결단",
+      "summary": "관중 25명이 온열질환 증상을 보이고 2명이 병원에 이송되는 사태가 발생했습니다. KBO는 사상 초유로 5~6일 예정된 전 경기를 취소했습니다.",
+      "sourceTitle": "프로야구, 관중 25명 온열질환에 결국 멈췄다…KBO, 5~6일 전 경기 취소",
+      "sourceDesc": "4일 열린 SSG 랜더스와 LG 트윈스의 경기에서 관중 25명이 온열질환 의심 증상을 보여 현장 치료를 받았고, 이 가운데 2명은 구급차로 병원에 이송됐다. KBO는 8월 5~6일 예정된 1군·퓨처스리그 전 경기를 취소했다.",
+      "sourceLink": "https://news.google.com/search?q=KBO+폭염+전경기취소+5~6일+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of an empty professional baseball stadium with rows of vacant plastic seats bathed in harsh summer sunlight, heat haze shimmering above the green infield, overhead floodlights dark against a bleached summer sky, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 2,
+      "category": "문화",
+      "kicker": "115년 만의 귀환",
+      "title": "안중근 의사 친필 유묵 광복절 앞두고 공개",
+      "summary": "일본에서 환수된 안중근 의사의 친필 유묵이 광복절을 앞두고 처음으로 국민 앞에 공개됩니다. 국가유산청은 오는 13일 덕수궁 중명전에서 유묵을 선보일 예정입니다.",
+      "sourceTitle": "'국제법이 대포만 못하다'…일본서 환수한 안중근 유묵 광복절 앞두고 공개",
+      "sourceDesc": "국가유산청은 일본에서 환수된 안중근 의사의 유묵 '만국공법불여대포(萬國公法不如大砲)'를 오는 13일 덕수궁 중명전에서 국민에게 공개한다고 밝혔다. 이 유묵은 안 의사가 순국하기 며칠 전 남긴 친필로, 115년 만에 국내로 돌아온 것이다.",
+      "sourceLink": "https://news.google.com/search?q=안중근+유묵+환수+광복절+덕수궁+중명전+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of a traditional East Asian museum display stand under warm museum spotlighting, aged ceremonial wooden mounting frame on silk lining inside a glass exhibition case, formal cultural heritage exhibition space in muted tones, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "경기도 예산 위기",
+      "title": "경기도 재정 비상 선언…7700억 감액 추경",
+      "summary": "추미애 경기도지사가 도의 재정 비상상황을 공식 선언하고 강도 높은 구조조정에 나섰습니다. 올해 세출예산에서 7700억 원 규모의 감액 추경이 불가피하다고 밝혔습니다.",
+      "sourceTitle": "추미애, 경기도 '재정 비상' 선언…7700억 감액추경 예고",
+      "sourceDesc": "추미애 경기도지사가 5일 경기도의 재정 비상상황을 공식 선언했다. 도 예산 담당부서는 올해 세출예산 전반에서 약 7700억 원을 조정하는 감액 추경이 필요하다고 보고했으며, 취득세 수입 감소 등 구조적 재정 위기 심화가 주요 원인으로 꼽혔다.",
+      "sourceLink": "https://news.google.com/search?q=경기도+재정+비상+추미애+7700억+감액추경+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of budget documents and financial ledgers spread across an empty government conference table under institutional fluorescent lighting, formal official meeting room setting in muted neutral tones, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "AI 메모리 경쟁 승부수",
+      "title": "삼성전자, FMS 2026서 차세대 3D 메모리 공개",
+      "summary": "삼성전자가 FMS 2026에서 AI 가속기에 메모리를 적층하는 차세대 3D 메모리 기술을 공개했습니다. 이 기술은 기존 대비 최대 8배 높은 성능을 제공합니다.",
+      "sourceTitle": "삼성전자, FMS 2026서 차세대 3D 메모리 비전 제시",
+      "sourceDesc": "삼성전자는 미국 캘리포니아주 산타클라라에서 열린 FMS 2026에 참가해 차세대 3D 메모리 아키텍처인 zHBM과 zNAND-O의 목업을 업계 최초로 공개했다. AI 가속기 상단에 HBM을 수직 적층하는 zHBM은 기존 대비 최대 8배 높은 성능을 제공하며 전성비를 최대 3배 향상시킨다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+FMS+2026+3D+메모리+zHBM+차세대+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of an advanced semiconductor memory chip on a high-tech circuit board, illuminated by cool blue laboratory lighting, intricate layered architecture visible under macro lens, clean white clean-room surface, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "서울 전역 열돔 경보",
+      "title": "서울 전역 폭염중대경보…온열질환자 올해 최다",
+      "summary": "서울 전역에 폭염중대경보가 발령되며 역대급 더위가 이어지고 있습니다. 지난 4일 하루에만 온열질환자 39명이 발생해 올여름 하루 기준 최다를 기록했습니다.",
+      "sourceTitle": "'폭염중대경보' 서울…어제 온열질환자 39명 '올해 최다'",
+      "sourceDesc": "서울 동북권과 서북권에도 폭염중대경보가 추가로 내려지며 서울 전역이 폭염중대경보 상태에 놓였다. 지난 4일 하루 동안 발생한 온열질환자는 39명으로, 올 여름 하루 기준 최다 기록을 경신했다.",
+      "sourceLink": "https://news.google.com/search?q=서울+폭염중대경보+온열질환자+39명+최다+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of empty urban rooftops and concrete streets shimmering with extreme heat distortion, hazy overexposed summer sky above the city skyline, industrial ventilation units on flat rooftops, bleached white sunlight, no people, no text, vertical 9:16 composition, photojournalism style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-06 아침 브리핑\n\n1. KBO, 살인 폭염에 전 경기 취소 결단\n2. 안중근 의사 친필 유묵 광복절 앞두고 공개\n3. 경기도 재정 비상 선언…7700억 감액 추경\n4. 삼성전자, FMS 2026서 차세대 3D 메모리 공개\n5. 서울 전역 폭염중대경보…온열질환자 올해 최다\n\n오늘 저녁에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #폭염 #KBO #야구 #안중근 #광복절 #경기도재정 #삼성전자 #AI메모리 #온열질환\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
