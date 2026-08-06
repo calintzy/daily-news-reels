@@ -22,7 +22,7 @@ const REELS = join(ROOT, "reels");
 
 const FPS = 30;
 const COVER_D = 90;
-const ISSUE_D = 114;
+const ISSUE_D = 159;
 const OUTRO_D = 84;
 
 function run(cmd, args, opts = {}) {

@@ -13,7 +13,7 @@ export const Root = () => {
       height={1920}
       fps={30}
       defaultProps={defaultInputProps}
-      // durationInFrames = 90 + 114*이슈수 + 84 (이슈 수에 따라 동적 계산)
+      // durationInFrames = 90 + 159*이슈수 + 84 (이슈 수에 따라 동적 계산)
       calculateMetadata={({props}) => ({
         durationInFrames: totalFrames((props.issues || []).length),
       })}

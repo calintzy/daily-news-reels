@@ -1,0 +1,29 @@
+name: report-notify
+
+# 발행 사후 점검 routine(클라우드)이 reports/*.md를 커밋하면 텔레그램으로 전송.
+# 클라우드 에이전트는 TG 시크릿에 접근할 수 없으므로 커밋 → Actions 릴레이 패턴 사용.
+on:
+  push:
+    paths:
+      - 'reports/**'
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 2
+
+      - name: 최신 보고서 텔레그램 전송
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: |
+          FILE=$(git show --name-only --pretty=format: HEAD -- reports/ | grep -E '^reports/.*\.md$' | head -1)
+          if [ -z "$FILE" ]; then echo "보고서 파일 없음 — 종료"; exit 0; fi
+          # 텔레그램 한도 4096자 — 여유를 두고 자른다
+          TEXT=$(head -c 3000 "$FILE")
+          curl -s -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TG_CHAT_ID}" \
+            --data-urlencode "text=[발행점검] ${TEXT}"

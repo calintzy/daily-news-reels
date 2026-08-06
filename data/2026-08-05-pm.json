@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-05",
+  "slot": "pm",
+  "todayOneLiner": "대법원의 내란 상고심 전원합의체 회부부터 국제유가 급락, 코스피 반등까지 굵직한 소식이 이어진 오후입니다.",
+  "coverPrompt": "Documentary photography of an empty Korean Supreme Court grand chamber interior, elevated judicial bench with multiple seats aligned in a row, official state emblem mounted high on the front wall, solemn wood-paneled institutional interior in muted tones, photojournalism style, no people, no text, vertical 9:16 composition",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사법",
+      "kicker": "내란 상고심",
+      "title": "한덕수·이상민 내란 상고심, 대법 전원합의체 회부",
+      "summary": "대법원이 한덕수 전 총리와 이상민 전 장관의 내란 혐의 상고심을 전원합의체에 회부했습니다. 두 사람은 항소심에서 각각 징역 15년, 9년을 선고받은 상태입니다.",
+      "sourceTitle": "대법, 한덕수·이상민 '내란 혐의' 상고심 전원합의체 회부",
+      "sourceDesc": "대법원이 5일 한덕수 전 국무총리와 이상민 전 행정안전부 장관의 내란 중요임무 종사 혐의 사건 상고심을 전원합의체에 회부했다. 대법원은 두 사건은 국민적 관심도가 매우 높고 역사적 사법 평가가 필요하며 피고인들이 공범 관계여서 함께 심리될 필요가 있다고 설명했다. 한 전 총리는 항소심에서 징역 15년, 이 전 장관은 징역 9년을 선고받은 상태다.",
+      "sourceLink": "https://news.google.com/search?q=한덕수+이상민+내란+상고심+전원합의체+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of an empty formal Korean Supreme Court chamber, elevated judicial bench with row of seats aligned facing the room, official court emblem mounted on the wall, solemn wood-paneled interior in muted neutral tones, photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치·국방",
+      "kicker": "사관학교 통합",
+      "title": "대통령, 3군 사관학교 통합 신속 추진 지시",
+      "summary": "이재명 대통령이 육사 출신이 쿠데타에 3번이나 가담했는데 책임을 한 번도 물은 적이 없다고 지적했습니다. 3군 사관학교를 통합하면 쿠데타 가능성이 줄어든다며 신속한 추진을 지시했습니다.",
+      "sourceTitle": "李대통령 \"육사 출신, 쿠데타 3번이나 가담…책임 한 번도 안 물어\"",
+      "sourceDesc": "이재명 대통령은 5일 국방부 업무보고에서 육사 출신들이 쿠데타에 3번이나 가담했는데 책임을 한 번도 물은 적이 없다고 지적했다. 대통령은 군별로 따로 군을 육성하고 특정 군종이 군대를 압도적으로 장악하면 쿠데타를 일으킬 가능성이 있다며 3군 사관학교를 통합하면 이런 가능성이 줄어들 것이라고 강조하며 신속한 추진을 지시했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+육사+쿠데타+3번+사관학교+통합+2026+8월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of a formal military academy parade ground, orderly empty flagpole alley along a wide stone pathway, institutional buildings in the background under a hazy summer sky, photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제·경제",
+      "kicker": "유가 급락",
+      "title": "미·이란 호르무즈 협상…국제유가 이틀새 10% 급락",
+      "summary": "미국과 이란의 호르무즈 협상 기대감으로 국제유가가 이틀 새 10% 급락했습니다. 브렌트유가 배럴당 79달러대로 내려앉았으며, 최종 합의가 임박했다는 분위기입니다.",
+      "sourceTitle": "국제유가 이틀새 10% 급락…호르무즈 협상 기대에 브렌트 79달러",
+      "sourceDesc": "미국과 이란의 호르무즈 해협 통항 협상 기대감이 커지면서 국제유가가 이틀 새 10% 넘게 급락했다. 4일(현지시간) 브렌트유는 5.3% 하락한 배럴당 79.36달러에, 서부텍사스산원유(WTI)는 5.7% 내린 배럴당 75.77달러에 마감됐다. 마코 루비오 미국 국무장관은 협상에 진전이 있었고 조만간 합의가 이뤄지길 기대한다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=호르무즈+해협+합의+국제유가+10%+급락+2026년+8월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of a large oil tanker vessel silhouetted at dusk in a narrow strait, warm orange and amber sky reflected on calm dark water, industrial maritime atmosphere, photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "수사권 재편",
+      "title": "경찰, 형소법 후속 TF 출범…검사 수사권 폐지 대응",
+      "summary": "경찰청이 10월 형사소송법 시행에 앞서 개정 형소법 후속조치 TF를 출범시켰습니다. 경찰청장 직무대행이 팀장을 맡아 수사 인력 보강과 경찰 수사 공정성 강화 방안 등을 논의합니다.",
+      "sourceTitle": "경찰, '개정 형소법 후속조치 TF' 가동…청장 대행이 팀장 맡아",
+      "sourceDesc": "경찰청은 5일 10월 2일 개정 형사소송법 시행을 앞두고 개정 형사소송법 후속조치 태스크포스(TF)를 본격 운영한다고 밝혔다. 유재성 경찰청장 직무대행이 TF 팀장을 맡아 총괄하며, TF는 경찰 수사 공정성 강화 방안을 비롯해 수사 인력과 예산 보강, 후속 법령 정비 방안 등을 논의할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=경찰청+형소법+후속조치+TF+출범+수사권+폐지+2026년+8월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of an empty modern Korean government office building exterior, institutional architectural facade with official signage mount, orderly clean lines in neutral stone tones under afternoon light, photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "증시 반등",
+      "title": "코스피 3.8% 급반등…반도체 투심 살아났다",
+      "summary": "연속 급락 후속으로, 코스피가 5일 3.8% 반등했습니다. 삼성전자·SK하이닉스 등 반도체 대형주가 살아나며 외국인 순매수가 이어졌습니다.",
+      "sourceTitle": "\"살아난 반도체 투심\" 코스피 3.8% 상승 마감…광통신주 상한가에 코스닥도↑",
+      "sourceDesc": "코스피가 5일 3.8% 상승 마감하며 이틀 연속 급락세에서 벗어났다. 삼성전자와 SK하이닉스 등 반도체 대형주가 강세를 보이며 외국인 순매수가 이어졌으며, 코스닥은 광통신주가 상한가를 기록하며 함께 올랐다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+3.8%+반등+반도체+삼성전자+SK하이닉스+2026년+8월+5일&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of empty financial market trading screens showing upward green chart lines and rising data readouts on dark display monitors mounted in a dimly lit trading room, photojournalism style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-05 저녁 브리핑\n\n1. 한덕수·이상민 내란 상고심, 대법 전원합의체 회부\n2. 대통령, 3군 사관학교 통합 신속 추진 지시\n3. 미·이란 호르무즈 협상…국제유가 이틀새 10% 급락\n4. 경찰, 형소법 후속 TF 출범…검사 수사권 폐지 대응\n5. 코스피 3.8% 급반등…반도체 투심 살아났다\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #내란재판 #대법원 #육사 #사관학교 #호르무즈 #유가급락 #경찰개혁 #코스피 #증시반등\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
