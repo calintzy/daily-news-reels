@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-07",
+  "slot": "am",
+  "todayOneLiner": "입추에도 꺾이지 않는 극한 폭염과 형소법 개정 후폭풍까지, 오늘 대한민국이 주목하는 소식을 전합니다.",
+  "coverPrompt": "Documentary photography of an outdoor thermometer mounted on a sun-baked brick wall showing extreme high temperature, intense heat distortion shimmering above empty city rooftops in background, bleached overexposed summer sky, no people, no text, photojournalism style, vertical 9:16 composition",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "입추에도 극한폭염",
+      "title": "입추에도 서울 39도 극한폭염",
+      "summary": "절기상 입추인 7일에도 서울을 비롯한 수도권의 낮 최고기온이 39도에 달하는 극단적인 더위가 이어지고 있습니다. 밤에도 최저기온이 25도를 웃도는 열대야가 계속되고 있습니다.",
+      "sourceTitle": "[날씨/XR] 입추에도 극단적 더위 지속…서울 '39도'",
+      "sourceDesc": "절기상 가을의 시작을 알리는 입추인 7일에도 서울 등 수도권을 중심으로 낮 최고기온이 39도에 달하는 극단적인 더위가 이어지고 있다. 폭염 절정에 아침 최저기온도 25도를 웃도는 열대야가 계속되고 있다.",
+      "sourceLink": "https://news.google.com/search?q=입추+폭염+서울+39도+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial documentary shot of an empty city street shimmering with intense heat distortion rising from asphalt, bleached white summer sunlight, hazy urban skyline in background, no people, no text, photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "검찰 수사권 폐지 후폭풍",
+      "title": "형소법 개정 수사공백 우려 확산",
+      "summary": "형사소송법 개정으로 검사의 직접 수사권이 전면 폐지되는 것을 두고 수사 공백 우려가 커지고 있습니다. 법 시행을 앞두고 준비 기간이 촉박하다는 지적이 잇따르고 있습니다.",
+      "sourceTitle": "[이슈빡] '수사 공백' 괜찮나? 커지는 우려…형소법 개정 '후폭풍'",
+      "sourceDesc": "형사소송법 개정으로 검사의 직접 수사권이 전면 폐지되면서 수사 공백에 대한 우려가 커지고 있다. 법 시행을 앞두고 준비 기간이 촉박하다는 지적과 함께 현장의 혼란을 우려하는 목소리가 높아지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=형사소송법+개정+수사공백+후폭풍+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty courthouse corridor with polished marble floors, high arched windows casting dramatic shadows, law books visible through an open office doorway, institutional stone architecture, no people, no text, documentary photography style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "살인 폭염 건강 경보",
+      "title": "온열질환 닷새째 사망·200명대 환자 속출",
+      "summary": "온열질환 추정 사망이 닷새 연속 발생하고 사흘째 하루 환자 수가 200명대를 기록하고 있습니다. 올여름 누적 온열질환 사망자는 23명으로 집계됐습니다.",
+      "sourceTitle": "온열질환 닷새째 인명 피해…사흘째 환자 200명대 속출",
+      "sourceDesc": "폭염이 이어지는 가운데 온열질환 추정 사망이 닷새 연속 발생했으며 사흘째 하루 환자 수가 200명대를 기록하고 있다. 올여름 누적 온열질환 사망자는 23명으로 집계됐다.",
+      "sourceLink": "https://news.google.com/search?q=온열질환+닷새+인명피해+사망+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty public cooling shelter with rows of vacant folding chairs and a large industrial fan in a sparse community center, harsh summer sunlight filtering through windows onto empty floor space, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "한미일 환율 공조",
+      "title": "미·일 엔화 방어, 한국도 개입 의혹",
+      "summary": "미국과 일본이 엔화 방어를 위해 외환시장에 공동 개입한 데 이어 한국 외환당국도 시장안정화 조치에 나선 것으로 알려졌습니다. 한국 당국도 한미일 공조에 참여했다는 관측이 나오고 있습니다.",
+      "sourceTitle": "미·일 엔화 방어 이어 한국도 개입?…\"미, 무역적자 의식\"",
+      "sourceDesc": "미국과 일본이 엔화 가치 방어를 위해 외환시장에 공동 개입한 데 이어 한국 외환당국도 시장안정화 조치에 나선 것으로 알려졌다. 블룸버그통신은 한국 당국도 공조에 참여한 것으로 보인다고 보도했다.",
+      "sourceLink": "https://news.google.com/search?q=미일+엔화+방어+한국+외환당국+개입+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of multiple international currency notes arranged on a financial desk surface, blurred stock market screens glowing in background, formal trading room atmosphere, no people, no text, documentary photography style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "경기도 재정 위기",
+      "title": "경기도 재정 비상, 7700억 감액 추경",
+      "summary": "추미애 경기도지사가 사실상 부도 상태에 준하는 재정 비상 상황을 선언하고 7700억 원 감액 추경을 추진하겠다고 밝혔습니다. 예산 재구성에 대한 논의가 이어지고 있습니다.",
+      "sourceTitle": "[자막뉴스] \"사실상 부도\" '재정 비상 상황' 돌입…\"당장 7700억\" 다시 바꾼다?",
+      "sourceDesc": "추미애 경기도지사가 사실상 부도 상태에 준하는 재정 비상 상황을 선언하고 당장 7700억 원을 조정하는 감액 추경을 추진하겠다고 밝혔다. 예산 재구성에 대한 논의가 이어지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=경기도+재정비상+7700억+감액추경+추미애+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Government budget documents and financial ledgers spread across an empty official conference table under institutional overhead lighting, neat stacks of papers and empty chairs in a formal meeting room setting, no people, no text, photojournalism style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-07 아침 브리핑\n\n1. 입추에도 서울 39도 극한폭염\n2. 형소법 개정 수사공백 우려 확산\n3. 온열질환 닷새째 사망·200명대 환자 속출\n4. 미·일 엔화 방어, 한국도 개입 의혹\n5. 경기도 재정 비상, 7700억 감액 추경\n\n입추가 무색한 폭염, 오늘도 놓치지 말아야 할 뉴스 다섯 가지를 물어왔습니다. 내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #폭염 #입추 #온열질환 #형사소송법 #수사공백 #환율 #경기도재정 #아침뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
