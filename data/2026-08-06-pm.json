@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-06",
+  "slot": "pm",
+  "todayOneLiner": "제13호 태풍 돌핀이 북상하며 한반도 영향 가능성이 제기되고, 쿠팡이 개인정보 유출 후 역대 최대 결제액을 기록한 8월 6일 저녁 브리핑입니다.",
+  "coverPrompt": "Documentary photography of an immense tropical typhoon spiral viewed from above the western Pacific Ocean, dense grey-white cloud bands swirling inward toward a clear eye, dark churning ocean surface below, dramatic overcast atmosphere, no people, no text, vertical 9:16 composition, photojournalism style",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "기상",
+      "kicker": "태풍 북상 긴장",
+      "title": "13호 태풍 돌핀, 한반도 영향권 진입 가능성",
+      "summary": "제13호 태풍 돌핀이 북상하면서 한반도 영향 가능성이 제기됐습니다. 일본 기상청이 예보 반경을 제주 남서쪽 먼바다까지 넓혀 한반도 북상 가능성을 열어두고 있습니다.",
+      "sourceTitle": "日기상청, 제 13호 태풍 '돌핀', 한국 영향 가능성 제시",
+      "sourceDesc": "제13호 태풍 돌핀이 북상하는 가운데 일본 기상청이 후반부 예보 반경을 제주 남서쪽 먼바다까지 열어 한국 영향 가능성을 제시했다. 한반도로 북상할 경우 장기간 이어진 폭염을 누그러뜨릴 수 있을지 관심이 집중된다.",
+      "sourceLink": "https://news.google.com/search?q=태풍+돌핀+13호+한반도+영향+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of a dark stormy ocean horizon with massive cumulonimbus clouds building dramatically above churning grey waves, typhoon-force winds suggested by whitecaps on the sea surface, ominous atmosphere, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "쿠팡 완전 부활",
+      "title": "쿠팡·쿠팡이츠, 7월 결제액 역대 최대 경신",
+      "summary": "쿠팡과 쿠팡이츠의 지난달 결제추정금액이 합산 역대 최대치를 기록했습니다. 개인정보 유출 사고 이후 이어진 회복세가 정점을 찍은 것으로 분석됩니다.",
+      "sourceTitle": "지난달 쿠팡·쿠팡이츠 결제액 7.29조원 '역대 최대'",
+      "sourceDesc": "7월 쿠팡의 결제추정금액은 6조1100억원, 쿠팡이츠는 1조1800억원으로 합산 7조2900억원을 기록하며 역대 최대치를 경신했다. 지난해 개인정보 유출 사고 이후 이어진 회복세가 정점을 찍은 것으로 분석됐다.",
+      "sourceLink": "https://news.google.com/search?q=쿠팡+쿠팡이츠+7월+결제추정금액+역대최대+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of a large modern e-commerce distribution center interior with rows of conveyor belts and stacked cardboard packages under bright industrial lighting, automated sorting systems visible in background, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "주택 공급 드라이브",
+      "title": "이재명 대통령, 2차 부동산 공급 점검회의 주재",
+      "summary": "이재명 대통령이 오는 7일 2차 부동산 공급 점검회의를 주재합니다. 수도권 주택 공급 확대 방안에 대한 세부안을 이번 회의에서 최종 조율할 예정입니다.",
+      "sourceTitle": "이 대통령, 7일 2차 부동산 점검회의…공급대책 세부안 조율",
+      "sourceDesc": "이재명 대통령이 오는 7일 2차 부동산 공급 점검회의를 주재한다. 1차 회의에서 지시한 수도권 주택 공급 방안에 대한 관계 부처 검토 결과를 공유하고 최종 공급대책 발표를 위한 세부 내용을 조율할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+2차+부동산+공급+점검회의+7일+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of a formal government conference room with an empty oval table surrounded by chairs and national flags standing in the background, institutional overhead lighting, official nameplates and documents arranged on the polished table, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 4,
+      "category": "환경",
+      "kicker": "식수원 녹조 경보",
+      "title": "울산 회야호, 17년 만에 조류경보 발령",
+      "summary": "낙동강유역환경청이 울산 회야호에 조류경보 '관심' 단계를 발령했습니다. 장기간 폭염과 가뭄, 낙동강 원수 유입이 복합적으로 작용한 결과로 17년 만에 처음 있는 일입니다.",
+      "sourceTitle": "울산 회야호, 17년 만에 조류경보…폭염·가뭄·낙동강 원수 '삼중고'",
+      "sourceDesc": "낙동강유역환경청이 울산 회야호 취수탑 지점에 조류경보 '관심' 단계를 발령했다. 이는 2009년 이후 17년 만으로, 폭염과 회야호 저수량 감소, 낙동강 원수 유입이 복합적으로 작용한 것으로 분석됐다.",
+      "sourceLink": "https://news.google.com/search?q=울산+회야호+조류경보+관심+17년만+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of a reservoir water surface with greenish algal bloom discoloration shimmering under harsh summer sunlight, surrounding dry cracked landscape showing drought conditions, concrete dam structure visible at edge, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 5,
+      "category": "사건",
+      "kicker": "스파링 뒤 의문의 죽음",
+      "title": "부산 복싱장 고교생 사망…경찰, 과실 여부 수사",
+      "summary": "부산의 한 킥복싱장에서 스파링 후 의식불명에 빠진 고교생이 결국 숨졌습니다. 경찰은 복싱장 CCTV를 분석하는 등 상대방 고의성과 과실 여부를 조사하고 있습니다.",
+      "sourceTitle": "복싱장서 스파링하던 고교생 사망…상대방 고의성·과실 여부 조사",
+      "sourceDesc": "부산의 한 킥복싱장에서 스파링하던 고교생이 휴식 시간에 의식불명으로 쓰러진 뒤 숨진 사실이 알려져 경찰이 조사에 나섰다. 경찰은 복싱장 CCTV 분석 결과 스파링이 격하게 진행되지는 않았던 것으로 파악했으나 정확한 사인을 규명하기 위해 국립과학수사연구원에 부검을 의뢰했다.",
+      "sourceLink": "https://news.google.com/search?q=부산+복싱장+고교생+사망+스파링+과실+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of an empty boxing gym interior with a ring and hanging punching bags under dim overhead lights, worn floor mats and equipment along the walls, quiet and still atmosphere, no people, no text, vertical 9:16 composition, photojournalism style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-06 저녁 브리핑\n\n1. 13호 태풍 돌핀, 한반도 영향권 진입 가능성\n2. 쿠팡·쿠팡이츠, 7월 결제액 역대 최대 경신\n3. 이재명 대통령, 2차 부동산 공급 점검회의 주재\n4. 울산 회야호, 17년 만에 조류경보 발령\n5. 부산 복싱장 고교생 사망…경찰, 과실 여부 수사\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #태풍 #태풍돌핀 #쿠팡 #이재명 #부동산 #울산 #조류경보 #복싱\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
