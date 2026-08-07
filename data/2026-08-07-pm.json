@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-07",
+  "slot": "pm",
+  "todayOneLiner": "오늘 낮, 북한 미사일 도발부터 역대급 경상흑자까지 대한민국이 주목하는 소식을 전합니다.",
+  "coverPrompt": "Documentary photograph of a military radar antenna silhouetted against a dark overcast sky above the sea, amber warning lights glowing faintly on metal equipment surfaces, low-contrast dusk atmosphere over distant ocean horizon, no people, no text, photojournalism style, vertical 9:16 composition",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "北 탄도미사일 도발",
+      "title": "北, 한미훈련 앞두고 동해 탄도미사일 발사",
+      "summary": "북한이 동해상으로 단거리 탄도미사일 1발을 발사했습니다. 한미 연합연습을 앞두고 42일 만에 이루어진 도발로, 한미 당국이 정밀 분석 중입니다.",
+      "sourceTitle": "합참, 北 동해상 단거리 탄도미사일 1발 도발 포착...42일 만(종합)",
+      "sourceDesc": "합동참모본부는 6일 북한이 원산 일대에서 동해상으로 단거리 탄도미사일 1발을 발사했다고 밝혔다. 이번 발사는 한미 연합연습을 앞두고 42일 만에 이루어진 도발로 분석되며, 한미 정보당국이 정밀 분석 중이다.",
+      "sourceLink": "https://news.google.com/search?q=북한+단거리+탄도미사일+동해+한미훈련+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Military radar antenna silhouetted against dark overcast ocean sky at dusk, steel surveillance tower on rocky coastline, distant sea horizon barely visible through atmospheric haze, no people, no text, documentary photography style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "반도체 수출 신기록",
+      "title": "6월 경상수지 497억달러 역대 최대 흑자",
+      "summary": "지난 6월 경상수지가 497억달러 흑자로 역대 최대 기록을 달성했습니다. 반도체 수출 호조로 월간 상품수출이 처음으로 1000억달러를 돌파했습니다.",
+      "sourceTitle": "반도체가 또 새 역사…6월 경상수지 497억달러 '역대 최대'",
+      "sourceDesc": "한국은행이 발표한 6월 국제수지에서 경상수지는 497억달러 흑자를 기록해 역대 최대를 경신했다. 반도체를 중심으로 한 IT 품목 수출 호조로 월간 상품수출이 처음으로 1000억달러를 돌파했다.",
+      "sourceLink": "https://news.google.com/search?q=경상수지+497억달러+역대최대+반도체+수출+1000억달러+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of semiconductor wafers arranged on a reflective clean room surface under bright clinical lighting, blue and silver tones with precise geometric patterns, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "금융권 역대급 제재",
+      "title": "국고채 76조 담합 공정위 심의 착수",
+      "summary": "공정거래위원회가 76조원 규모 국고채 입찰 담합 사건의 심의 절차를 개시했습니다. 이르면 이달 말 전원회의를 열어 증권사·은행 15곳에 최대 15조원의 과징금 부과 여부를 결정할 예정입니다.",
+      "sourceTitle": "최대 15조 과징금 나오나... 76조 국고채 담합 심판대 오른다",
+      "sourceDesc": "공정거래위원회 사무처가 76조원 규모 국고채 입찰 담합 사건의 심사보고서를 위원회에 제출하고 증권사·은행 15개 국고채 전문딜러에게 송부해 심의 절차를 개시했다. 이르면 이달 말 전원회의를 개최해 최대 15조원 안팎의 과징금 부과 여부를 결정할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=국고채+담합+공정위+76조+15조+과징금+심의+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty financial trading floor with rows of dark dormant computer monitors under fluorescent lighting, government regulatory documents spread on a formal conference table in the foreground, no people, no text, documentary photography style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "부동산 공급 대책",
+      "title": "이재명, 부동산 2차 점검회의 주택공급 조율",
+      "summary": "이재명 대통령이 7일 오후 청와대에서 부동산 정책 점검 2차 회의를 주재했습니다. 지난 3일 첫 회의에서 지시한 수도권 주택 공급 확대 방안을 각 부처가 검토한 결과를 공유했습니다.",
+      "sourceTitle": "李대통령, 오늘 오후 2시 부동산정책 2차 점검회의…주택 공급 대책 막바지 조율",
+      "sourceDesc": "이재명 대통령이 7일 오후 2시 청와대에서 부동산 정책 점검 2차 회의를 비공개로 주재했다. 지난 3일 첫 점검 회의에서 지시한 수도권 주택 공급 확대 방안에 대해 각 부처가 검토한 결과를 공유하고 조율하는 시간을 가졌다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+부동산정책+2차+점검회의+주택공급+수도권+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial documentary shot of high-rise residential apartment buildings under construction in Seoul, construction cranes rising above unfinished concrete towers against a hazy summer sky, urban density, no people, no text, photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "폭염 후속 · 밥상 비상",
+      "title": "히트플레이션, 시금치·오이 최대 120% 급등",
+      "summary": "폭염 후속으로 채소 가격이 급등하는 히트플레이션 현상이 심화되고 있습니다. 시금치가 120%·오이가 80% 이상 급등하는 등 밥상 물가 전반에 비상이 걸렸습니다.",
+      "sourceTitle": "시금치 120%·오이 80%↑… 밥상 덮친 '히트플레이션'",
+      "sourceDesc": "폭염이 이어지는 가운데 시금치 등 채소 가격이 급등하는 히트플레이션 현상이 심화되고 있다. 최근 한 달 새 시금치는 120% 급등했으며, 오이도 80% 이상 폭등해 밥상 물가에 비상이 걸렸다.",
+      "sourceLink": "https://news.google.com/search?q=히트플레이션+시금치+오이+폭염+채소가격+급등+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up documentary shot of wilted spinach leaves on a sun-bleached wooden market stall surface under harsh overhead summer light, dry and withered textures casting stark shadows, no people, no text, photojournalism style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-07 저녁 브리핑\n\n1. 北, 한미훈련 앞두고 동해 탄도미사일 발사\n2. 6월 경상수지 497억달러 역대 최대 흑자\n3. 국고채 76조 담합 공정위 심의 착수\n4. 이재명, 부동산 2차 점검회의 주택공급 조율\n5. 히트플레이션, 시금치·오이 최대 120% 급등\n\n오늘 하루도 놓치지 말아야 할 뉴스 다섯 가지를 물어왔습니다. 내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #북한미사일 #경상수지 #반도체 #국고채 #공정거래 #부동산 #히트플레이션 #폭염\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
