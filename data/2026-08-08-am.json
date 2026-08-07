@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-08",
+  "slot": "am",
+  "todayOneLiner": "이재명 대통령의 6시간 부동산 회의부터 경상수지 사상 최대 흑자, 산업 현장 중대재해까지 오늘 대한민국이 주목하는 소식을 전합니다.",
+  "coverPrompt": "Aerial documentary photojournalism image of densely packed South Korean high-rise apartment towers stretching to the horizon, rows of identical concrete facades with uniform windows, narrow gaps between buildings creating geometric urban patterns, hazy summer sky overhead. No people, no text, vertical 9:16 composition.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "부동산 공급 긴급 대책",
+      "title": "대통령, 6시간 부동산 회의 과감한 대책 주문",
+      "summary": "이재명 대통령이 6시간 부동산 정책 점검 회의를 주재하며 과감한 주택 공급 대책을 강력히 주문했습니다. 공급 절벽 극복을 위해 기존 사고방식에서 벗어나야 한다고 강조했습니다.",
+      "sourceTitle": "李대통령, 6시간 부동산 회의서 \"기존 사고방식 매달리지 말고 과감히\"",
+      "sourceDesc": "이재명 대통령이 2차 부동산 정책 점검 회의에서 6시간에 걸쳐 주택 공급 대책을 논의했다. 이 대통령은 공급 부진으로 초래된 공급 절벽을 극복하기 위해 기존 사고방식에서 벗어나 과감한 결단이 필요하다고 강조했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+6시간+부동산+회의+과감히+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Rows of densely packed high-rise apartment towers in a Korean city seen from a low angle, gray concrete facades with rows of identical windows, overcast hazy sky above, stark geometric urban architecture. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "수출·흑자 쌍끌이 신기록",
+      "title": "경상수지 497억달러 역대 최대",
+      "summary": "한국은행이 발표한 6월 경상수지가 497억달러 흑자를 기록하며 역대 최대치를 경신했습니다. 수출이 사상 처음 1000억달러를 돌파하는 기록도 함께 세웠습니다.",
+      "sourceTitle": "한은, 6월 경상수지 497억달러…수출 첫 1000억달러 돌파",
+      "sourceDesc": "한국은행이 발표한 6월 경상수지가 497억달러 흑자를 기록하며 역대 최대를 달성했다. 국제수지 기준 수출이 사상 처음 1000억달러를 넘어섰으며 38개월 연속 흑자 행진이 이어졌다.",
+      "sourceLink": "https://news.google.com/search?q=경상수지+497억달러+역대최대+수출+1000억달러+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Container port at dusk with massive cargo cranes silhouetted against an orange and deep blue sky, rows of colorful shipping containers stacked high on the quayside, calm harbor waters reflecting crane lights. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "AI·과학",
+      "kicker": "AI 매출 기여 첫 60% 돌파",
+      "title": "네이버 2분기 매출 역대 최대·AI 기여 60%",
+      "summary": "네이버가 2분기 매출 3조3888억원으로 분기 기준 역대 최대를 달성했습니다. 광고 수익에서 AI 기여도가 처음으로 60%를 돌파했습니다.",
+      "sourceTitle": "네이버, 2분기 영업익 5203억원…전년비 0.2%↓",
+      "sourceDesc": "네이버가 2분기 연결 매출 3조3888억원으로 분기 기준 역대 최대를 기록했다. 광고 매출에서 AI 기여도가 60%를 돌파했으나 AI 투자 비용 증가로 영업이익은 전년 대비 0.2% 줄었다.",
+      "sourceLink": "https://news.google.com/search?q=네이버+2분기+영업이익+5203억+매출+역대최대+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Rows of illuminated server racks inside a modern data center bathed in blue and white light, cables running overhead in neat bundles, metallic surfaces reflecting the glow of indicator lights. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "사건",
+      "kicker": "중대재해 강제수사",
+      "title": "HL만도 하청노동자 끼임 사망 압수수색",
+      "summary": "노동부와 경찰이 평택공장에서 20대 하청노동자가 기계에 끼어 숨진 HL만도 사업장을 압수수색했습니다. 수사관과 근로감독관 31명이 투입돼 중대재해 강제수사에 착수했습니다.",
+      "sourceTitle": "노동부·경찰, HL만도 평택공장 압수수색…끼임 사망사고 강제수사 착수",
+      "sourceDesc": "자동차부품 제조사 HL만도 평택공장에서 20대 하청노동자가 기계에 끼어 숨진 사건과 관련해 노동부와 경찰이 강제수사에 착수했다. 수사관·근로감독관 31명이 투입돼 평택공장과 하청업체를 압수수색했다.",
+      "sourceLink": "https://news.google.com/search?q=HL만도+평택공장+압수수색+끼임+사망+중대재해+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Industrial factory floor with heavy press machinery and mechanical equipment, yellow safety warning tape marking hazard zones on concrete floor, bold warning signage on metal surfaces, dramatic overhead industrial lighting casting deep shadows. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "가족사건 수사배제",
+      "title": "경찰 가족사건 상피제 9월 도입",
+      "summary": "경찰청이 9월부터 배우자·직계가족이 연루된 사건을 경찰관이 맡지 못하도록 하는 상피제를 도입합니다. 수사 공정성 강화를 위해 내부비리수사대도 새로 출범했습니다.",
+      "sourceTitle": "경찰, 내부비리수사대 출범…9월부터 '가족사건 상피제' 실시",
+      "sourceDesc": "경찰청이 배우자·직계가족이 연루된 사건에 경찰관이 배정되지 않도록 하는 상피제를 9월부터 시행한다. 내부 비리 수사를 전담하는 내부비리수사대도 출범해 수사 공정성 강화에 나선다.",
+      "sourceLink": "https://news.google.com/search?q=경찰+내부비리수사대+상피제+9월+가족사건+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A police badge resting next to an open legal document folder on a wooden desk under warm office lighting, organized filing cabinet in softly blurred background, formal institutional atmosphere. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-08 아침 브리핑\n\n1. 대통령, 6시간 부동산 회의 과감한 대책 주문\n2. 경상수지 497억달러 역대 최대\n3. 네이버 2분기 매출 역대 최대·AI 기여 60%\n4. HL만도 하청노동자 끼임 사망 압수수색\n5. 경찰 가족사건 상피제 9월 도입\n\n부동산 공급 대책부터 경상수지 신기록, 중대재해 강제수사까지 오늘 물어왔습니다. 내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #부동산 #경상수지 #네이버 #AI #중대재해 #경찰개혁\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
