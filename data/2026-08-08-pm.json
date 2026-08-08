@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-08",
+  "slot": "pm",
+  "hookLine": "폭염 사망 23명, 정부 비상대응기구 가동했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "폭염 비상 가동",
+      "title": "폭염 사망 23명, 정부 비상대응기구 가동",
+      "summary": "연일 폭염이 이어지면서 올해 누적 온열질환 사망자가 23명에 달했습니다. 정부는 비상대응기구를 가동하며 온열질환 피해 주의를 당부했습니다.",
+      "sourceTitle": "연일 폭염에 온열질환 사망 23명…정부, 비상대응기구 가동",
+      "sourceDesc": "연일 폭염이 이어지면서 올해 누적 온열질환 사망자가 23명에 달했다. 정부는 폭염 피해를 최소화하기 위해 비상대응기구를 가동하고 국민의 각별한 주의를 당부했다.",
+      "sourceLink": "https://news.google.com/search?q=폭염+온열질환+사망+23명+비상대응기구+가동+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial documentary view of sun-scorched Korean urban landscape under a bleached hazy sky, heat shimmer rising from empty concrete plazas and asphalt roads, stark washed-out colors conveying extreme summer heat, no visible life. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "부동산 D-5",
+      "title": "부동산 공급 대책 13일 발표 관측",
+      "summary": "이재명 대통령의 부동산 정책 점검 회의 후속으로, 정부가 13일 최종 주택 공급 대책을 발표할 것으로 관측됩니다. 그린벨트 해제와 국공유지 활용 방안이 포함될 전망입니다.",
+      "sourceTitle": "李대통령 '부동산 공급, 기존 사고방식 매달리지 말라'…13일 발표 관측",
+      "sourceDesc": "이재명 대통령이 부동산 정책 점검 회의에서 '기존 사고방식에 매달리지 말라'고 강조했다. 정부는 그린벨트 해제와 국공유지 활용 방안 등을 담은 최종 주택 공급 대책을 오는 13일 발표할 것으로 관측된다.",
+      "sourceLink": "https://news.google.com/search?q=부동산+공급+대책+13일+발표+그린벨트+해제+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Green rolling hillside at the urban fringe of a Korean city, lush undeveloped land in foreground contrasting sharply with dense high-rise apartment blocks on the horizon, mist drifting through valleys under an overcast sky. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "사건",
+      "kicker": "봉쇄 두 달 피해",
+      "title": "'올공 시위' 콘서트 12건 취소·파손비용 4억",
+      "summary": "올림픽공원 개표소 봉쇄 시위로 콘서트 12건이 줄줄이 취소됐습니다. 파손비용이 4억원을 넘어 손해배상 책임 논란도 커지고 있습니다.",
+      "sourceTitle": "[단독]'올공 시위'로 콘서트 12건 줄취소, 파손비용도 4억원…손해배상 책임은 누구?",
+      "sourceDesc": "투표용지 부족 사태로 촉발된 올림픽공원 개표소 봉쇄 시위가 두 달째 이어지면서 콘서트 12건이 줄줄이 취소됐다. 파손된 시설물 복구 비용도 4억원을 넘어 손해배상 책임을 두고 논란이 커지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=올림픽공원+봉쇄+시위+콘서트+취소+파손비용+4억원+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty outdoor concert venue with a large empty stage platform and rows of vacant folding chairs, yellow and black security tape cordoning off entrances, overcast sky above, atmosphere of abandonment. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "황제주 변신 시동?",
+      "title": "SK하이닉스 액면분할 재점화, ADR 가격차 8배",
+      "summary": "SK하이닉스 미국 ADR 상장 후 조용기간이 끝나면서 액면분할 가능성이 재점화됐습니다. ADR과 국내 주가 간 가격 격차가 8배에 달하며 시장의 주목을 받고 있습니다.",
+      "sourceTitle": "[경제]'태원이 형 진짜야?' SK하닉 액면분할 '솔솔'..이번주 주목되는 이유",
+      "sourceDesc": "SK하이닉스가 미국 나스닥에 ADR을 상장한 후 조용기간이 종료되면서 액면분할 가능성이 재점화됐다. ADR과 국내 주식 간 가격 격차가 8배에 달하면서 투자자들의 주목을 받고 있다.",
+      "sourceLink": "https://news.google.com/search?q=SK하이닉스+액면분할+ADR+조용기간+8배+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Macro close-up of a semiconductor memory chip under dramatic directional lighting, intricate circuit traces and metallic bond pads visible on a dark substrate, technical precision conveyed through extreme detail, shallow depth of field. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "금리 8월 전망",
+      "title": "8월 금통위 동결 전망, 소수 인상 가능성",
+      "summary": "우리금융경영연구소는 27일 금통위에서 기준금리가 2.75%로 동결될 것으로 전망했습니다. 다만 1~2명의 금통위원이 인상 소수의견을 낼 가능성도 있다고 밝혔습니다.",
+      "sourceTitle": "우리금융硏 '8월 기준금리 동결 전망···1~2명 인상 소수의견 낼 것'",
+      "sourceDesc": "우리금융경영연구소는 오는 27일 금통위에서 기준금리가 현행 2.75%로 동결될 것으로 전망했다. 다만 GDP·물가 전망치 상향 가능성을 고려할 때 1~2명의 금통위원이 인상 소수의견을 낼 수 있다고 분석했다.",
+      "sourceLink": "https://news.google.com/search?q=금통위+8월+27일+기준금리+동결+소수의견+인상+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Stone facade of a South Korean government financial institution building with imposing columns and heavy stonework, dramatic low-angle perspective under cloudy sky, formal and austere architectural atmosphere. Documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-08 저녁 브리핑\n\n1. 폭염 사망 23명, 정부 비상대응기구 가동\n2. 부동산 공급 대책 13일 발표 관측\n3. '올공 시위' 콘서트 12건 취소·파손비용 4억\n4. SK하이닉스 액면분할 재점화, ADR 가격차 8배\n5. 8월 금통위 동결 전망, 소수 인상 가능성\n\n폭염 비상부터 부동산 발표 D-5, 이번 주 증시 이슈까지 저녁에도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #폭염 #온열질환 #부동산 #SK하이닉스 #금통위 #기준금리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
