@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-09",
+  "slot": "am",
+  "hookLine": "여수 앞바다 모터보트 전복, 2명이 숨졌습니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "해상 전복 2명 사망",
+      "title": "여수 모터보트 전복, 2명 사망",
+      "summary": "여수 오동도 해상에서 5명이 탑승한 모터보트가 전복돼 2명이 숨졌습니다. 해경이 사고 원인을 조사하고 있습니다.",
+      "sourceTitle": "여수 해상서 5명 탄 유람용 모터보트 뒤집혀... 선장 등 2명 사망",
+      "sourceDesc": "여수시 오동도 인근 해상에서 5명이 탑승한 유람용 모터보트가 전복됐다. 선장 등 2명이 숨졌고 나머지 3명은 부상을 입어 병원에서 치료를 받고 있다.",
+      "sourceLink": "https://news.google.com/search?q=여수+오동도+모터보트+전복+사망+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Overturned small boat hull floating on calm ocean water at dawn, distant coastal silhouette under pale morning sky, rescue rope and life ring on a dock in the foreground, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "축구 스캔들",
+      "title": "축구협회, 심판 성접대 의혹에 공식 사과",
+      "summary": "대한축구협회가 감독 선임 의혹과 외국인 심판 성접대 논란에 공식 사과했습니다. 협회는 참담한 상황을 인정하며 강도 높은 쇄신을 약속했습니다.",
+      "sourceTitle": "홍명보 논란·심판 성접대 의혹까지...축구협회, 뒤늦은 사과 \"참담한 상황\"",
+      "sourceDesc": "대한축구협회가 홍명보 감독 선임 논란과 과거 외국인 심판 성접대 의혹 등 각종 비위에 공식 사과했다. 협회는 참담한 상황에 놓였다고 인정하며 강도 높은 쇄신을 약속했다.",
+      "sourceLink": "https://news.google.com/search?q=축구협회+성접대+의혹+사과+참담한+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty soccer field at twilight with goal posts silhouetted against a moody gradient sky, green grass faintly lit by distant stadium lights, corner flags still in windless air, atmosphere of institutional reckoning, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "사관학교 개편",
+      "title": "이 대통령, 사관학교 통합 신속 추진 지시",
+      "summary": "이재명 대통령이 육·해·공군 사관학교를 통합한 국군사관학교 설립을 신속 추진하라고 지시했습니다. 국방부는 연내 입법을 예고했으나 야당은 강하게 반발하고 있습니다.",
+      "sourceTitle": "이재명 사관학교 통합 지시에 야당 총반발... 국방부 연내 입법 예고",
+      "sourceDesc": "이재명 대통령이 육·해·공군사관학교를 통합하는 국군사관학교 설립을 신속하게 추진하라고 국방부에 지시했다. 국방부는 연내 입법을 예고했지만 야당은 총반발하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+사관학교+통합+국방부+연내+입법+야당+반발+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Row of formal military dress uniforms on mannequins displayed inside an institutional hall, brass buttons and insignia reflecting soft overhead light, polished floor with geometric shadows, symbolic of military tradition and reform, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 4,
+      "category": "사건",
+      "kicker": "노후관 파열 대형 단수",
+      "title": "부산 상수도관 파열, 2300가구 단수",
+      "summary": "부산 사상구에서 상수도관이 파열돼 2300여 가구에 수돗물 공급이 5시간30분간 끊겼습니다. 긴급 복구로 수돗물은 순차적으로 재개됐습니다.",
+      "sourceTitle": "부산 사상구 상수도관 파열, 2300가구 5시간30분 단수",
+      "sourceDesc": "부산 사상구 한 도로 아래에 매설된 500㎜ 상수도관이 파열돼 학장동 등 2300여 가구에 수돗물 공급이 5시간30분 동안 중단됐다. 상수도본부가 긴급 복구에 나서 수돗물 공급을 순차적으로 재개했다.",
+      "sourceLink": "https://news.google.com/search?q=부산+사상구+상수도관+파열+2300가구+단수+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a corroded metal water pipe with a visible crack leaking onto dry sunlit concrete, industrial pipe fittings and valves in background, stark contrast of rust and pale ground, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "민주당 당권 경쟁",
+      "title": "김민석, 민주당 전대 당원투표 1위 탈환",
+      "summary": "더불어민주당 전당대회 제주·인천 순회경선에서 김민석 후보가 당원투표 누적 득표율 1위를 탈환했습니다. 박빙의 경쟁 구도 속에 강원·대구·경북 경선이 이어집니다.",
+      "sourceTitle": "김민석, 與 전대 당원투표 누적 득표율 45.42%로 1위…'0.86%p차' 박빙 재역전(종합2보)",
+      "sourceDesc": "더불어민주당 전당대회 제주·인천 순회경선에서 김민석 후보가 당원투표 누적 득표율 1위를 재역전했다. 정청래 후보와 박빙의 경쟁을 이어가는 가운데 오는 강원·대구·경북 경선이 주목된다.",
+      "sourceLink": "https://news.google.com/search?q=김민석+민주당+전당대회+당원투표+1위+재역전+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Rows of empty blue plastic chairs arranged in a large convention hall, podium and microphone at the front under bright stage lighting, curtained backdrop with formal decor, anticipatory atmosphere, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-09 아침 브리핑\n\n1. 여수 모터보트 전복, 2명 사망\n2. 축구협회, 심판 성접대 의혹에 공식 사과\n3. 이 대통령, 사관학교 통합 신속 추진 지시\n4. 부산 상수도관 파열, 2300가구 단수\n5. 김민석, 민주당 전대 당원투표 1위 탈환\n\n여수 해상 사고 소식부터 축구협회 스캔들까지 오늘 아침에도 물어왔습니다. 내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #여수 #해양사고 #축구협회 #사관학교 #부산 #민주당\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
