@@ -117,7 +117,7 @@ const HookOverlay = ({hookLine}) => {
 };
 
 // textDelay: 훅 오버레이가 걷힐 때까지 텍스트 진입을 늦춘다(이슈1 전용 — 훅과 제목이 겹치는 것 방지).
-const IssueSlide = ({issue, imageSrc, startFrame, isLast, textDelay = 0}) => {
+const IssueSlide = ({issue, imageSrc, startFrame, textDelay = 0}) => {
   const frame = useCurrentFrame();
   const {fps, width, height} = useVideoConfig();
   const localFrame = frame - startFrame;
@@ -137,38 +137,8 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast, textDelay = 0}) => {
     fps,
     config: {damping: 18, stiffness: 150},
   });
-  // 사선 와이프 2단계 — 원본 프로토타입과 동일 (기울어진 밴드 진입→퇴장 연속 동작).
-  const wipeInX = interpolate(localFrame, [86, issueDuration], [width * 1.6, -width * 1.5], {
-    easing: Easing.bezier(0.83, 0, 0.17, 1),
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
-  const wipeInY = interpolate(localFrame, [86, issueDuration], [height * 0.1, 0], {
-    easing: Easing.bezier(0.83, 0, 0.17, 1),
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
-  const wipeOutX = interpolate(localFrame, [0, 16], [-width * 1.5, -width * 4.7], {
-    easing: Easing.bezier(0.55, 0, 0.45, 1),
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
-  const wipeOutY = interpolate(localFrame, [0, 16], [0, -height * 0.1], {
-    easing: Easing.bezier(0.55, 0, 0.45, 1),
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
+  // 사선 와이프 전환은 제거 — 하드컷이 숏폼 템포에 맞다 (2026-08-08 훅 수술 후속).
   const rankNum = Number(issue.rank);
-  const showWipeOut = rankNum > 1 && localFrame < 18;
-  const wipeBandStyle = {
-    position: 'absolute',
-    top: '-30%',
-    bottom: '-30%',
-    left: 0,
-    width: width * 4,
-    background:
-      'linear-gradient(90deg, rgba(214,31,41,0) 0%, rgba(214,31,41,0.4) 5%, rgba(214,31,41,0.98) 10%, rgba(11,13,18,0.97) 22%, rgba(11,13,18,0.97) 78%, rgba(214,31,41,0.98) 88%, rgba(214,31,41,0.4) 95%, rgba(214,31,41,0) 100%)',
-  };
   const headlineX = interpolate(headlineIn, [0, 1], [width * 0.14, 0]);
   const headlineY = interpolate(headlineIn, [0, 1], [46, 0]);
   const bodyY = interpolate(bodyIn, [0, 1], [70, 0]);
@@ -362,22 +332,6 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast, textDelay = 0}) => {
       >
         AI 생성 이미지
       </div>
-      {showWipeOut ? (
-        <div
-          style={{
-            ...wipeBandStyle,
-            transform: `translateX(${wipeOutX}px) translateY(${wipeOutY}px) skewX(-16deg)`,
-          }}
-        />
-      ) : null}
-      {!isLast ? (
-        <div
-          style={{
-            ...wipeBandStyle,
-            transform: `translateX(${wipeInX}px) translateY(${wipeInY}px) skewX(-16deg)`,
-          }}
-        />
-      ) : null}
     </AbsoluteFill>
   );
 };
@@ -385,19 +339,9 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast, textDelay = 0}) => {
 // 리텐션 아웃트로 — 1.5초(45f) 브랜드 컬러 카드 (2026-08-08 훅 수술: 커버 이미지 의존 제거·축소).
 const PhotoOutro = ({startFrame}) => {
   const frame = useCurrentFrame();
-  const {fps, width, height} = useVideoConfig();
+  const {fps} = useVideoConfig();
   const localFrame = frame - startFrame;
 
-  const wipeOutX = interpolate(localFrame, [0, 16], [-width * 1.5, -width * 4.7], {
-    easing: Easing.bezier(0.55, 0, 0.45, 1),
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
-  const wipeOutY = interpolate(localFrame, [0, 16], [0, -height * 0.1], {
-    easing: Easing.bezier(0.55, 0, 0.45, 1),
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
   const titleIn = spring({frame: localFrame - 2, fps, config: {damping: 15, stiffness: 140}});
   const pillIn = spring({frame: localFrame - 10, fps, config: {damping: 13, stiffness: 160}});
   const pillPulse = 1 + Math.sin(Math.max(0, localFrame - 18) / 9) * 0.02;
@@ -481,20 +425,6 @@ const PhotoOutro = ({startFrame}) => {
           @muleori.news
         </div>
       </div>
-      {localFrame < 18 ? (
-        <div
-          style={{
-            position: 'absolute',
-            top: '-30%',
-            bottom: '-30%',
-            left: 0,
-            width: width * 4,
-            background:
-              'linear-gradient(90deg, rgba(214,31,41,0) 0%, rgba(214,31,41,0.4) 5%, rgba(214,31,41,0.98) 10%, rgba(11,13,18,0.97) 22%, rgba(11,13,18,0.97) 78%, rgba(214,31,41,0.98) 88%, rgba(214,31,41,0.4) 95%, rgba(214,31,41,0) 100%)',
-            transform: `translateX(${wipeOutX}px) translateY(${wipeOutY}px) skewX(-16deg)`,
-          }}
-        />
-      ) : null}
     </AbsoluteFill>
   );
 };
@@ -517,7 +447,6 @@ export const HotIssueReelPhoto = ({hookLine, issues, imageDir = 'img/current'}) 
         issue={issue}
         imageSrc={imgSrc(imageDir, `issue-${issue.rank}`)}
         startFrame={issueIndex * issueDuration}
-        isLast={issueIndex === issueList.length - 1}
         textDelay={issueIndex === 0 ? hookDuration - 10 : 0}
       />
       {frame < hookDuration ? (
