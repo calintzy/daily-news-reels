@@ -9,7 +9,7 @@ import {
   useCurrentFrame,
   useVideoConfig,
 } from 'remotion';
-import {coverDuration, issueDuration} from './timing.js';
+import {issueDuration, hookDuration} from './timing.js';
 
 const fontFamily =
   '"Noto Sans CJK KR","Apple SD Gothic Neo","SF Pro Display","Helvetica Neue",sans-serif';
@@ -65,180 +65,75 @@ const PhotoBackground = ({src, frame, startFrame, panBias = 0}) => {
   );
 };
 
-// 회차(slot) → 커버 날짜 라벨. slot 없으면 date만.
-const slotLabel = (date, slot) =>
-  slot === 'am' ? `${date} · 아침 브리핑` : slot === 'pm' ? `${date} · 저녁 브리핑` : date;
-
-const Cover = ({date, slot, todayOneLiner, coverSrc}) => {
+// 훅 오버레이 — 커버 폐지 후 0초부터 이슈1 위에 결론형 한 문장(2026-08-08 리텐션 훅 수술).
+// hookDuration 프레임 동안 노출 후 페이드아웃 → 아래 깔린 이슈1 레이아웃이 드러난다.
+const HookOverlay = ({hookLine}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
-  const titleEnter = spring({
-    frame,
-    fps,
-    config: {damping: 17, stiffness: 140},
-  });
-  const stripEnter = spring({
-    frame: frame - 10,
-    fps,
-    config: {damping: 15, stiffness: 130},
-  });
-  const exit = interpolate(frame, [58, coverDuration], [0, 1], {
-    easing: Easing.bezier(0.78, 0, 0.22, 1),
+  const enter = spring({frame, fps, config: {damping: 14, stiffness: 170}});
+  const fadeOut = interpolate(frame, [hookDuration - 14, hookDuration], [1, 0], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
   });
-
   return (
-    <AbsoluteFill style={{overflow: 'hidden', backgroundColor: '#0b0d11', color: '#ffffff'}}>
-      <PhotoBackground src={coverSrc} frame={frame} startFrame={0} panBias={-12} />
+    <AbsoluteFill style={{opacity: fadeOut}}>
       <div
         style={{
           position: 'absolute',
           inset: 0,
-          background:
-            'linear-gradient(180deg, rgba(6,8,11,0.18) 0%, rgba(6,8,11,0.48) 52%, rgba(6,8,11,0.92) 100%)',
+          background: 'linear-gradient(180deg, rgba(5,6,8,0.5) 0%, rgba(5,6,8,0.84) 100%)',
         }}
       />
       <div
         style={{
           position: 'absolute',
           inset: 0,
-          background:
-            'linear-gradient(120deg, rgba(176,17,24,0.34) 0%, rgba(176,17,24,0.08) 26%, transparent 44%)',
-          opacity: 1 - exit,
-        }}
-      />
-      <div
-        style={{
-          position: 'absolute',
-          left: 72,
-          top: 86,
           display: 'flex',
           alignItems: 'center',
-          gap: 16,
-          padding: '12px 22px 12px 14px',
-          border: '1px solid rgba(255,255,255,0.34)',
-          background: 'rgba(9,12,16,0.28)',
-          fontFamily,
-          fontSize: 26,
-          fontWeight: 800,
-          letterSpacing: '0.2em',
-          backdropFilter: 'blur(12px)',
-        }}
-      >
-        <Img
-          src={staticFile('brand/duck.png')}
-          style={{width: 54, height: 54, objectFit: 'contain'}}
-        />
-        물어오리 뉴스
-      </div>
-      <div
-        style={{
-          position: 'absolute',
-          left: 74,
-          // 릴스 하단 UI 세이프존: 마지막 요소(todayOneLiner)가 계정명 줄에 가리지 않게.
-          bottom: 340,
-          width: 900,
-          transform: `translateX(${interpolate(titleEnter, [0, 1], [110, 0])}px)`,
-          opacity: 1 - exit,
+          justifyContent: 'center',
+          padding: '0 72px',
+          textAlign: 'center',
           fontFamily,
         }}
       >
         <div
           style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: 20,
-            marginBottom: 30,
-          }}
-        >
-          <div
-            style={{
-              height: 16,
-              width: interpolate(stripEnter, [0, 1], [0, 140]),
-              background: '#d61f29',
-            }}
-          />
-          <div
-            style={{
-              fontSize: 34,
-              letterSpacing: '0.1em',
-              fontWeight: 800,
-              color: 'rgba(255,255,255,0.74)',
-            }}
-          >
-            {slotLabel(date, slot)}
-          </div>
-        </div>
-        <div style={{fontSize: 154, fontWeight: 900, lineHeight: 1.0, letterSpacing: '-0.08em'}}>
-          오늘의
-        </div>
-        <div
-          style={{
-            display: 'inline-block',
-            marginTop: 10,
-            marginBottom: 14,
-            padding: '10px 26px 16px',
-            backgroundColor: '#ffffff',
-            color: '#0a0d11',
-            fontSize: 182,
+            fontSize: 96,
             fontWeight: 900,
-            lineHeight: 1.0,
-            letterSpacing: '-0.1em',
+            lineHeight: 1.24,
+            letterSpacing: '-0.01em',
+            color: '#ffffff',
+            textShadow: '0 6px 40px rgba(0,0,0,0.6)',
+            wordBreak: 'keep-all',
+            opacity: enter,
+            transform: `translateY(${interpolate(enter, [0, 1], [46, 0])}px)`,
           }}
         >
-          뉴스
-        </div>
-        <div style={{fontSize: 190, fontWeight: 900, lineHeight: 0.95, letterSpacing: '-0.11em'}}>
-          TOP 5
-        </div>
-        <div
-          style={{
-            marginTop: 38,
-            fontSize: 42,
-            lineHeight: 1.32,
-            color: 'rgba(255,255,255,0.86)',
-            fontWeight: 700,
-            maxHeight: 168,
-            overflow: 'hidden',
-          }}
-        >
-          {todayOneLiner}
+          {hookLine}
         </div>
       </div>
-      <div
-        style={{
-          position: 'absolute',
-          right: -120 + interpolate(stripEnter, [0, 1], [180, 0]),
-          top: -160,
-          width: 380,
-          height: 2450,
-          transform: 'rotate(14deg)',
-          background:
-            'linear-gradient(180deg, rgba(214,31,41,0.95) 0%, rgba(214,31,41,0.72) 40%, rgba(214,31,41,0.08) 100%)',
-          opacity: 1 - exit,
-        }}
-      />
     </AbsoluteFill>
   );
 };
 
-const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
+// textDelay: 훅 오버레이가 걷힐 때까지 텍스트 진입을 늦춘다(이슈1 전용 — 훅과 제목이 겹치는 것 방지).
+const IssueSlide = ({issue, imageSrc, startFrame, isLast, textDelay = 0}) => {
   const frame = useCurrentFrame();
   const {fps, width, height} = useVideoConfig();
   const localFrame = frame - startFrame;
+  const textFrame = localFrame - textDelay;
   const headlineIn = spring({
-    frame: localFrame,
+    frame: textFrame,
     fps,
     config: {damping: 15, stiffness: 150},
   });
   const bodyIn = spring({
-    frame: localFrame - 12,
+    frame: textFrame - 12,
     fps,
     config: {damping: 16, stiffness: 120},
   });
   const tagIn = spring({
-    frame: localFrame - 4,
+    frame: textFrame - 4,
     fps,
     config: {damping: 18, stiffness: 150},
   });
@@ -392,6 +287,7 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
               fontSize: 24,
               fontWeight: 800,
               letterSpacing: '0.18em',
+              opacity: headlineIn,
             }}
           >
             <div style={{width: 56, height: 6, background: '#d61f29'}} />
@@ -399,7 +295,7 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
           </div>
           {titleLines.map((line, index) => {
             const lineIn = spring({
-              frame: localFrame - index * 4,
+              frame: textFrame - index * 4,
               fps,
               config: {damping: 15, stiffness: 145},
             });
@@ -486,8 +382,8 @@ const IssueSlide = ({issue, imageSrc, startFrame, isLast}) => {
   );
 };
 
-// 리텐션 아웃트로 — 원본 문구 그대로 유지 ("국내 뉴스 TOP 5 / 1분이면 끝").
-const PhotoOutro = ({startFrame, coverSrc}) => {
+// 리텐션 아웃트로 — 1.5초(45f) 브랜드 컬러 카드 (2026-08-08 훅 수술: 커버 이미지 의존 제거·축소).
+const PhotoOutro = ({startFrame}) => {
   const frame = useCurrentFrame();
   const {fps, width, height} = useVideoConfig();
   const localFrame = frame - startFrame;
@@ -502,21 +398,12 @@ const PhotoOutro = ({startFrame, coverSrc}) => {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
   });
-  const titleIn = spring({frame: localFrame - 8, fps, config: {damping: 15, stiffness: 140}});
-  const pillIn = spring({frame: localFrame - 20, fps, config: {damping: 13, stiffness: 160}});
-  const saveIn = spring({frame: localFrame - 30, fps, config: {damping: 16, stiffness: 140}});
-  const pillPulse = 1 + Math.sin(Math.max(0, localFrame - 34) / 9) * 0.02;
+  const titleIn = spring({frame: localFrame - 2, fps, config: {damping: 15, stiffness: 140}});
+  const pillIn = spring({frame: localFrame - 10, fps, config: {damping: 13, stiffness: 160}});
+  const pillPulse = 1 + Math.sin(Math.max(0, localFrame - 18) / 9) * 0.02;
 
   return (
     <AbsoluteFill style={{overflow: 'hidden', backgroundColor: '#050608', color: '#ffffff'}}>
-      <PhotoBackground src={coverSrc} frame={frame} startFrame={startFrame} panBias={0} />
-      <div
-        style={{
-          position: 'absolute',
-          inset: 0,
-          background: 'rgba(5,6,8,0.72)',
-        }}
-      />
       <div
         style={{
           position: 'absolute',
@@ -584,22 +471,11 @@ const PhotoOutro = ({startFrame, coverSrc}) => {
         </div>
         <div
           style={{
-            fontSize: 30,
-            fontWeight: 600,
-            color: 'rgba(255,255,255,0.72)',
-            opacity: saveIn,
-            transform: `translateY(${interpolate(saveIn, [0, 1], [24, 0])}px)`,
-          }}
-        >
-          지금 저장해 두면 다시 보기 편해요
-        </div>
-        <div
-          style={{
             fontSize: 26,
             fontWeight: 800,
             letterSpacing: '0.14em',
             color: 'rgba(255,255,255,0.5)',
-            opacity: saveIn,
+            opacity: pillIn,
           }}
         >
           @muleori.news
@@ -623,27 +499,30 @@ const PhotoOutro = ({startFrame, coverSrc}) => {
   );
 };
 
-export const HotIssueReelPhoto = ({date, slot = null, todayOneLiner, issues, imageDir = 'img/current'}) => {
+// hookLine 없는 구 데이터는 이슈1 제목으로 폴백(하위 호환).
+export const HotIssueReelPhoto = ({hookLine, issues, imageDir = 'img/current'}) => {
   const frame = useCurrentFrame();
   const issueList = issues || [];
-  const issueIndex = Math.floor((frame - coverDuration) / issueDuration);
-  const outroStart = coverDuration + issueList.length * issueDuration;
-  const coverSrc = imgSrc(imageDir, 'cover');
+  const issueIndex = Math.floor(frame / issueDuration);
+  const outroStart = issueList.length * issueDuration;
 
-  if (frame < coverDuration) {
-    return <Cover date={date} slot={slot} todayOneLiner={todayOneLiner} coverSrc={coverSrc} />;
-  }
   if (frame >= outroStart) {
-    return <PhotoOutro startFrame={outroStart} coverSrc={coverSrc} />;
+    return <PhotoOutro startFrame={outroStart} />;
   }
 
   const issue = issueList[issueIndex];
   return (
-    <IssueSlide
-      issue={issue}
-      imageSrc={imgSrc(imageDir, `issue-${issue.rank}`)}
-      startFrame={coverDuration + issueIndex * issueDuration}
-      isLast={issueIndex === issueList.length - 1}
-    />
+    <AbsoluteFill>
+      <IssueSlide
+        issue={issue}
+        imageSrc={imgSrc(imageDir, `issue-${issue.rank}`)}
+        startFrame={issueIndex * issueDuration}
+        isLast={issueIndex === issueList.length - 1}
+        textDelay={issueIndex === 0 ? hookDuration - 10 : 0}
+      />
+      {frame < hookDuration ? (
+        <HookOverlay hookLine={hookLine || (issueList[0] && issueList[0].title)} />
+      ) : null}
+    </AbsoluteFill>
   );
 };

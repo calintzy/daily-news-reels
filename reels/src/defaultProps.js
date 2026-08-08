@@ -3,7 +3,7 @@
 // 이 값은 스튜디오에서 컴포지션을 열었을 때 보이는 샘플일 뿐이다.
 export const defaultInputProps = {
   date: '2026-07-21',
-  todayOneLiner: '지금 대한민국이 주목하는 다섯 가지 소식을 1분에 정리해 드립니다.',
+  hookLine: '인간이 바둑 AI를 다시 이겼습니다',
   imageDir: 'img/current',
   issues: [
     {rank: 1, category: 'AI·과학', kicker: '인간 vs AI', title: '신진서, 현존 최강 바둑 AI 꺾었다', summary: '신진서 9단이 현존 최강으로 꼽히는 바둑 AI를 상대로 승리했습니다. 경기 후 인터뷰가 온라인에서 화제가 되고 있습니다.'},

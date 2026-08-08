@@ -1,9 +1,9 @@
 #!/usr/bin/env node
-// OpenAI Images(gpt-image-1.5)로 커버 + 이슈 이미지 생성
+// OpenAI Images(gpt-image-1.5)로 이슈 이미지 생성 (2026-08-08 훅 수술: 커버 폐지)
 // 사용법: node scripts/genimages.mjs data/DATE.json [--dry-run]
-//   출력: assets/img/<date>/cover.png, issue-1.png ~ issue-N.png
+//   출력: assets/img/<date>/issue-1.png ~ issue-N.png
 //   장별 멱등(파일 있으면 스킵), 실패 장 1회 재시도, 그래도 실패면 전체 exit 1
-//   --dry-run: API 호출 없이 프롬프트 6건 출력만
+//   --dry-run: API 호출 없이 프롬프트 출력만
 //   env: OPENAI_API_KEY, IMAGE_QUALITY(기본 medium)
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
@@ -17,13 +17,8 @@ const IMAGES_ENDPOINT = "https://api.openai.com/v1/images/generations";
 const MODEL = "gpt-image-1.5";
 const SIZE = "1024x1536";
 
-// 커버 프롬프트 기본값 (데이터에 coverPrompt 없을 때)
-const DEFAULT_COVER_PROMPT =
-  "photojournalism, pre-dawn city skyline with a lit newsroom mood, cool blue hour tones, soft haze over the buildings, cinematic wide angle, no people, no text, vertical 9:16 composition";
-
 function buildPrompts(data) {
-  const cover = data.coverPrompt || DEFAULT_COVER_PROMPT;
-  const prompts = [{ name: "cover", prompt: cover }];
+  const prompts = [];
   for (const issue of data.issues) {
     prompts.push({ name: `issue-${issue.rank}`, prompt: issue.imagePrompt });
   }

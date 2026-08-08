@@ -48,7 +48,8 @@ function validate(json) {
 
   // (1) 구조: 최상위 필수 필드
   if (!json.date) v.push("[구조] date 누락");
-  if (!json.todayOneLiner) v.push("[구조] todayOneLiner 누락");
+  // 2026-08-08 훅 수술: todayOneLiner(커버용) → hookLine(0초 결론형 훅 문장)
+  if (!json.hookLine) v.push("[구조] hookLine 누락");
   if (json.caption == null) v.push("[구조] caption 누락");
 
   // (1) 구조: slot(회차)은 선택 — 있으면 "am"|"pm"만 허용(없으면 하위 호환 통과)
@@ -64,8 +65,18 @@ function validate(json) {
     v.push(`[구조] issues ${json.issues.length}개 — ${MIN_ISSUES}~${MAX_ISSUES}개여야 함`);
   }
 
-  // (2) 문체: todayOneLiner 존댓말
-  if (json.todayOneLiner) checkHonorific(json.todayOneLiner, "todayOneLiner", v);
+  // (2) 문체: hookLine 존댓말 + 30자 하드 게이트(훅은 한눈에 읽혀야 한다)
+  if (json.hookLine) {
+    checkHonorific(json.hookLine, "hookLine", v);
+    if ([...json.hookLine].length > 30) {
+      v.push(`[구조] hookLine ${[...json.hookLine].length}자 — 30자 이내여야 함`);
+    }
+    // 사실성: hookLine은 rank1 이슈 원문과 대조 — 훅이 낚시가 되는 것 방지
+    if (Array.isArray(json.issues) && json.issues[0]) {
+      const src1 = `${json.issues[0].sourceTitle || ""} ${json.issues[0].sourceDesc || ""}`;
+      sharedCheckFactuality(json.hookLine, "", src1, v, "[사실성] hookLine(rank1 대조)");
+    }
+  }
 
   json.issues.forEach((issue, i) => {
     const label = `issue[${i + 1}]`;

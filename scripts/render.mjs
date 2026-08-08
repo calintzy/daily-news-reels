@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 // 통합 렌더: 이미지 확인 → Remotion 렌더 → 음악 합성 → 캡처 → 검증
 // 사용법: node scripts/render.mjs data/DATE.json
-//   산출: docs/videos/<date>.mp4 + docs/previews/<date>-{cover,issue1,outro}.jpg
-//   전제: assets/img/<date>/{cover,issue-1..N}.png 6장(없으면 exit 1)
+//   산출: docs/videos/<date>.mp4 + docs/previews/<date>-{hook,issue1,outro}.jpg
+//   전제: assets/img/<date>/issue-1..N.png (없으면 exit 1)
 
 import {
   readFileSync,
@@ -21,9 +21,11 @@ const ROOT = join(__dirname, "..");
 const REELS = join(ROOT, "reels");
 
 const FPS = 30;
-const COVER_D = 90;
+// 2026-08-08 훅 수술: 커버 폐지(0f), 아웃트로 84f→45f. reels/src/timing.js와 동기 유지.
+const COVER_D = 0;
 const ISSUE_D = 159;
-const OUTRO_D = 84;
+const OUTRO_D = 45;
+const HOOK_D = 54; // 훅 오버레이 구간 — 프리뷰 캡처용
 
 function run(cmd, args, opts = {}) {
   const out = execFileSync(cmd, args, { stdio: ["ignore", "pipe", "pipe"], ...opts });
@@ -46,9 +48,9 @@ async function main() {
   const totalFrames = COVER_D + ISSUE_D * issues.length + OUTRO_D;
   const expectedSec = totalFrames / FPS;
 
-  // 1) 이미지 6장(커버 + 이슈) 확인
+  // 1) 이슈 이미지 확인 (커버 폐지 — 이슈 5장만)
   const imgDir = join(ROOT, "assets", "img", stem);
-  const needed = ["cover", ...issues.map((i) => `issue-${i.rank}`)];
+  const needed = issues.map((i) => `issue-${i.rank}`);
   const missing = needed.filter((n) => !existsSync(join(imgDir, `${n}.png`)));
   if (missing.length > 0) {
     console.error(`이미지 누락(${missing.length}): ${missing.join(", ")} — 렌더 중단(exit 1)`);
@@ -69,7 +71,7 @@ async function main() {
   const inputProps = {
     date,
     slot,
-    todayOneLiner: data.todayOneLiner,
+    hookLine: data.hookLine,
     issues: issues.map((i) => ({
       rank: i.rank,
       category: i.category,
@@ -113,14 +115,14 @@ async function main() {
   ]);
   console.log(`영상 산출: docs/videos/${stem}.mp4`);
 
-  // 4) 프레임 캡처 (cover / issue1 / outro)
+  // 4) 프레임 캡처 (hook / issue1 / outro)
   const prevDir = join(ROOT, "docs", "previews");
   mkdirSync(prevDir, { recursive: true });
-  const coverT = 1.0 / 1; // 커버 중반
-  const issue1T = (COVER_D + ISSUE_D / 2) / FPS;
-  const outroT = (COVER_D + ISSUE_D * issues.length + OUTRO_D / 2) / FPS;
+  const hookT = (HOOK_D / 2) / FPS; // 훅 오버레이 중반
+  const issue1T = (HOOK_D + (ISSUE_D - HOOK_D) / 2) / FPS; // 훅 걷힌 뒤 이슈1
+  const outroT = (ISSUE_D * issues.length + OUTRO_D / 2) / FPS;
   const shots = [
-    ["cover", (COVER_D / 2 / FPS).toFixed(2)],
+    ["hook", hookT.toFixed(2)],
     ["issue1", issue1T.toFixed(2)],
     ["outro", outroT.toFixed(2)],
   ];
@@ -134,7 +136,7 @@ async function main() {
       join(prevDir, `${stem}-${name}.jpg`),
     ]);
   }
-  console.log(`프리뷰 3장: docs/previews/${stem}-{cover,issue1,outro}.jpg`);
+  console.log(`프리뷰 3장: docs/previews/${stem}-{hook,issue1,outro}.jpg`);
 
   // 5) ffprobe 검증: 해상도·fps·길이
   const probe = run("ffprobe", [
