@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-10",
+  "slot": "am",
+  "hookLine": "말다툼 중 어머니 살해한 10대 아들, 구속됐습니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "충격 존속살인",
+      "title": "인천 10대, 어머니 살해 후 반려견도 죽였다",
+      "summary": "말다툼 중 어머니를 흉기로 살해한 10대 아들이 구속됐습니다. 범행 후 집 안의 반려견도 죽인 것으로 드러나 충격을 주고 있습니다.",
+      "sourceTitle": "인천서 말다툼 중 어머니 살해 10대 구속…범행 후 반려견도 죽여",
+      "sourceDesc": "말다툼을 하던 어머니를 흉기로 찔러 살해한 혐의를 받는 10대 아들이 구속됐다. 범행 이후 집 안의 반려견도 죽인 것으로 드러났다.",
+      "sourceLink": "https://news.google.com/search?q=인천+어머니+살해+10대+구속&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary-style photograph of police crime scene tape stretched across an apartment corridor entrance under fluorescent hallway lighting, yellow warning tape in the foreground, dark and tense atmosphere. Vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "히트플레이션 비상",
+      "title": "폭염이 밥상 덮쳤다, 채소값 줄줄이 폭등",
+      "summary": "폭염 여파로 채소와 생선 가격이 줄줄이 오르는 히트플레이션이 밥상을 덮쳤습니다. 8월 소비자물가가 3%대로 반등할 수 있다는 우려도 나오고 있습니다.",
+      "sourceTitle": "'히트플레이션'에 채소·생선 줄줄이 가격 인상‥밥상도 덮친 폭염",
+      "sourceDesc": "폭염 여파로 채소와 생선 가격이 줄줄이 오르는 히트플레이션이 밥상을 덮쳤다. 8월 소비자물가가 3%대로 반등할 수 있다는 우려가 나온다.",
+      "sourceLink": "https://news.google.com/search?q=히트플레이션+채소+가격+폭등+폭염&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of wilted leafy green vegetables displayed on an empty Korean market stall table in harsh summer sunlight, crumpled paper wrapping and empty vegetable crates in background, bleached harsh overhead light. Vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "극한 폭우 피해",
+      "title": "강원 동해안 물폭탄, 도로 잠기고 피서객 고립",
+      "summary": "강원 동해안에 시간당 80㎜가 넘는 폭우가 쏟아져 도로가 침수됐습니다. 계곡을 찾은 피서객이 고립되는 등 피해가 잇따랐습니다.",
+      "sourceTitle": "물폭탄 쏟아진 강원 동해안…도로 침수·피서객 고립 잇따라",
+      "sourceDesc": "강원 동해안에 시간당 80㎜가 넘는 집중호우가 쏟아지면서 도로가 침수되고 피서객이 계곡에 고립되는 등 피해가 잇따랐다.",
+      "sourceLink": "https://news.google.com/search?q=강원+동해안+물폭탄+침수+피서객+고립&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial documentary photograph of a flooded mountain road in a Korean valley gorge, brown muddy water rushing over cracked asphalt, submerged guardrails and debris in the swirling current. Vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "대형마트 귀환",
+      "title": "홈플러스 67개 점포, 경영 정상화 시동",
+      "summary": "법인회생 절차 중이던 홈플러스가 전국 67개 점포 문을 다시 열었습니다. 2000억 원 규모의 긴급운영자금을 기반으로 경영 정상화에 나섰습니다.",
+      "sourceTitle": "홈플러스, 67개 점포 임시 개장",
+      "sourceDesc": "전국 67개 점포의 문을 다시 연 홈플러스가 2000억 원 규모의 긴급운영자금(DIP) 대출을 기반으로 본격적인 경영 정상화 절차에 들어갔다.",
+      "sourceLink": "https://news.google.com/search?q=홈플러스+67개+점포+임시+개장&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Wide-angle shot of an empty large supermarket interior with bright LED overhead lighting, organized product shelves and shopping cart area visible, clean and inviting atmosphere. Vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "입시 대변동",
+      "title": "의대 신입생 절반, 내년부터 지역인재로",
+      "summary": "내년 의과대학 입시에서 지역인재 선발이 역대 최대 규모로 확대됩니다. 서울권 수험생의 의대 진학 문이 한층 좁아질 전망입니다.",
+      "sourceTitle": "내년 의대 절반은 '지역 학생'으로 뽑는다···역대 최고치",
+      "sourceDesc": "2027학년도 의과대학 입시에서 지방권 의대의 지역인재 선발이 역대 최대 규모로 확대됐다. 서울권 학생들의 의대 진학 문이 한층 좁아질 것이라는 분석이 나왔다.",
+      "sourceLink": "https://news.google.com/search?q=의대+지역인재+선발+역대+최대+2027&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up documentary photograph of a stethoscope and blank medical school admission papers on a clean white desk, dramatic side lighting casting long shadows. Vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-10 아침 브리핑\n\n1. 인천 10대, 어머니 살해 후 반려견도 죽였다\n2. 폭염이 밥상 덮쳤다, 채소값 줄줄이 폭등\n3. 강원 동해안 물폭탄, 도로 잠기고 피서객 고립\n4. 홈플러스 67개 점포, 경영 정상화 시동\n5. 의대 신입생 절반, 내년부터 지역인재로\n\n오늘 아침도 굵직한 소식들을 물어왔습니다. 내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #존속살인 #히트플레이션 #채소값 #강원폭우 #홈플러스 #의대입시\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
