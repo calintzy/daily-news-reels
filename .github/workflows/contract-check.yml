@@ -8,9 +8,12 @@ on:
     branches: [main]
     paths:
       - "contracts/**"
+      # asserts.js가 공유하는 프로브 모듈 — 이 파일 변경도 계약 회귀를 만들 수 있다(2026-08-10 구멍 발견)
+      - "scripts/rewrite-probes.cjs"
   pull_request:
     paths:
       - "contracts/**"
+      - "scripts/rewrite-probes.cjs"
   workflow_dispatch:
 
 jobs:
