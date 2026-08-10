@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-10",
+  "slot": "pm",
+  "hookLine": "이재명 대통령, 호남 반도체 전격전 지시했습니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "반도체 전격전",
+      "title": "호남 반도체 전격전, 광주 군공항 이전 앞당긴다",
+      "summary": "이재명 대통령이 호남 반도체 착공을 '전격전'으로 주문했습니다. 광주 군공항 기능을 2028년까지 이전해 반도체 산업 단지를 조기 활용하도록 지시했습니다.",
+      "sourceTitle": "李, 호남 반도체 '전격전' 주문…\"2028년까지 광주군공항 기능 임시배치\"",
+      "sourceDesc": "이재명 대통령이 청와대에서 열린 3대 메가프로젝트 2차 민관합동 점검회의를 주재하며 호남 반도체 조기 착공을 '전격전' 속도로 추진하라고 주문했다. 국방부에 2028년까지 광주 기지 기능을 다른 군공항으로 임시 배치해 반도체 산업 단지를 조기에 활용하도록 지시했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+호남+반도체+전격전+광주+군공항+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary aerial view of a vast empty military airfield floodplain awaiting redevelopment as an industrial site, distant construction cranes on the horizon, early morning golden light across flat open terrain. Vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "수수료 바가지 조사",
+      "title": "금감원, 은행 ETF 수수료 바가지 현장검사 착수",
+      "summary": "금감원이 10일 은행권 ETF 수수료 불완전판매를 점검하는 현장검사에 착수했습니다. 단기 투자에도 선취 수수료를 부과해 적합 수수료보다 7배 많이 받았다는 의혹을 받고 있습니다.",
+      "sourceTitle": "금감원 'ETF 신탁 수수료' 은행 현장검사…7배 많은 수수료 의심",
+      "sourceDesc": "금융감독원이 10일 KB국민·우리·NH농협은행을 대상으로 ETF 신탁 판매 실태 현장검사에 들어갔다. 단기 투자임에도 선취 수수료를 부과해 적합 수수료보다 7배 많은 수수료를 받았다는 의심을 받고 있다.",
+      "sourceLink": "https://news.google.com/search?q=금감원+ETF+신탁+수수료+은행+현장검사+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up documentary photograph of a bank passbook and stack of official financial documents spread across a dark wooden desk, magnifying glass resting on transaction rows, soft directional lighting from the side. Vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "안보",
+      "kicker": "연합훈련 개시",
+      "title": "한미, 다음 주 '을지 자유의 방패' 연합훈련",
+      "summary": "한국과 미국이 17일부터 27일까지 '을지 자유의 방패' 연합 훈련을 실시합니다. 드론·GPS 교란·사이버 공격 등 현대전 위협에 대응하는 훈련이며, 전작권 전환 준비 여부도 점검합니다.",
+      "sourceTitle": "한미, 17~27일 '을지 자유의 방패'… 드론·GPS 교란·사이버 위협 대응 훈련",
+      "sourceDesc": "한국과 미국이 오는 17일부터 27일까지 연합 방어 훈련 '을지 자유의 방패'를 실시한다. 드론·GPS 교란·사이버 공격 등 현대전 위협에 대응하는 훈련이 포함되며, 전작권 전환 준비 여부도 점검한다.",
+      "sourceLink": "https://news.google.com/search?q=을지+자유의+방패+한미+연합훈련+드론+사이버+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Wide-angle documentary photograph of military field communication equipment and radar antenna arrays assembled in open South Korean countryside, overcast sky, camouflage netting overhead, empty terrain to distant tree line. Vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "4년 만의 귀환",
+      "title": "국방부, 합참 더부살이 끝내고 용산 복귀",
+      "summary": "국방부가 오늘 용산 옛 청사에서 4년 만에 첫 정례 브리핑을 열었습니다. 대통령실에 내줬던 합참 건물 더부살이를 끝내고 이달 14일 이전 작업을 마칠 계획입니다.",
+      "sourceTitle": "국방부, 尹에 내줬던 용산 옛 청사서 4년 만에 첫 브리핑",
+      "sourceDesc": "국방부가 10일 윤석열 정부 때 대통령실에 내줬던 용산 옛 청사에서 4년 만에 첫 정례 브리핑을 열었다. 합참 건물에서 더부살이하던 국방부는 지난달 21일부터 부서별 이전 작업을 시작해 오는 14일 마칠 계획이다.",
+      "sourceLink": "https://news.google.com/search?q=국방부+용산+청사+복귀+4년+첫+브리핑+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism wide shot of an empty South Korean government ministry building lobby, official institutional signage on blank walls, moving crates stacked near corridor entrance, afternoon sunlight streaming through tall windows. Vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "당권 박빙 대결",
+      "title": "민주당 당대표 경선, 김민석 정청래 박빙",
+      "summary": "더불어민주당 당대표 경선에서 김민석 후보가 제주·인천 투표를 모두 이기며 정청래 후보를 근소하게 앞서고 있습니다. 최종 결선은 오는 17일 대전 전당대회에서 가려질 예정입니다.",
+      "sourceTitle": "[속보]민주당 전당대회 제주·인천 경선, 김민석 후보 모두 승리",
+      "sourceDesc": "더불어민주당 당대표 제주·인천 권리당원 투표에서 김민석 후보가 모두 승리하며 누적 득표에서 정청래 후보를 앞섰다. 최종 전당대회는 오는 17일 대전에서 열린다.",
+      "sourceLink": "https://news.google.com/search?q=민주당+전당대회+경선+김민석+정청래+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up photojournalism shot of a transparent ballot box placed on a wooden podium inside an empty Korean convention center, single spotlight illuminating the box from above, rows of empty chairs in the blurred background. Vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-10 저녁 브리핑\n\n1. 호남 반도체 전격전, 광주 군공항 이전 앞당긴다\n2. 금감원, 은행 ETF 수수료 바가지 현장검사 착수\n3. 한미, 다음 주 '을지 자유의 방패' 연합훈련\n4. 국방부, 합참 더부살이 끝내고 용산 복귀\n5. 민주당 당대표 경선, 김민석 정청래 박빙\n\n오늘 저녁도 굵직한 소식들을 물어왔습니다. 내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #반도체 #메가프로젝트 #금감원ETF #을지자유방패 #국방부 #민주당경선\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
