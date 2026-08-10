@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-11",
+  "slot": "am",
+  "hookLine": "대통령 지지율, 4주 만에 취임 후 최저가 됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "4주째 하락",
+      "title": "이 대통령 지지율 취임 후 최저",
+      "summary": "이재명 대통령 지지율이 4주 연속 하락해 취임 후 최저인 43.3%를 기록했습니다. 부정 평가는 53.0%로 올라 격차가 오차범위 밖으로 벌어졌습니다.",
+      "sourceTitle": "이재명 대통령 지지율 43.3%…취임 후 최저, 4주 연속 하락[리얼미터]",
+      "sourceDesc": "리얼미터가 에너지경제신문 의뢰로 3일부터 7일까지 전국 18세 이상 유권자 2514명을 대상으로 조사한 결과, 이 대통령의 국정수행에 대한 긍정 평가는 전주보다 2.6%포인트 하락한 43.3%로 집계됐다. 부정 평가는 53.0%로 오르면서 긍정 평가와의 격차가 오차범위 밖으로 벌어졌다. 리얼미터는 부동산 세제 개편과 형사소송법 개정 논란, 육사 쿠데타 발언 후폭풍에 더해 폭염과 경제 불안 요인까지 중첩됐다며 서울, 보수층, 고령층을 중심으로 이탈이 확대돼 긍정평가 하락세가 4주 연속 지속됐다고 분석했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+지지율+43.3+취임+후+최저+리얼미터&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty government press conference podium with South Korean national flag draped in background, dramatic overhead spotlight illuminating the lectern, marble hall interior, somber quiet atmosphere, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "AI 반도체 대투자",
+      "title": "SK하이닉스 54조 투자·배당 확정",
+      "summary": "SK하이닉스가 용인·청주에 신규 반도체 팹 건설에 54조 원을 투자하기로 확정했습니다. 분기 배당으로 보통주 1주당 375원도 함께 결정했습니다.",
+      "sourceTitle": "SK하이닉스, 54조 시설투자·분기 배당 375원 확정…추가환원 예고",
+      "sourceDesc": "SK하이닉스는 용인 Y2에 35조2000억원, 청주 M17에 19조1000억원 등 총 54조원을 투자하기로 결정했다. AI 시대 급증하는 메모리 반도체 수요에 대응하기 위한 것으로, 분기 배당으로 보통주 1주당 375원의 현금 배당을 한다고 7일 공시했다. 배당 기준일은 8월 31일이다. SK하이닉스는 추가 주주 환원 방안을 적극 검토 중이며 3분기 중 확정하여 발표할 예정이라고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=SK하이닉스+54조+용인+청주+팹+배당+375원&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Extreme close-up macro of semiconductor chip circuit board with intricate golden copper traces on dark green substrate, clean room blue ambient glow, shallow depth of field, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "중남미 대형 강진",
+      "title": "콜롬비아 규모 7.4 강진, 20명 사망",
+      "summary": "콜롬비아에서 규모 7.4 강진이 발생해 최소 20명이 숨졌습니다. 붕괴 건물에 사람들이 갇혀 구조 작업이 이어지고 있습니다.",
+      "sourceTitle": "[속보] 콜롬비아서 규모 7.4 강진‥'최소 20명 사망'",
+      "sourceDesc": "콜롬비아 서부에서 규모 7.4의 강진이 발생해 최소 20명이 사망했다. 붕괴 건물에 사람들이 갇혔다는 신고가 잇따르는 가운데 구조 작업이 벌어지고 있다. 지진은 현지시간 오전 7시34분 발생했으며, 콜롬비아 지질조사국은 이번 지진이 최근 10년간 가장 강력한 지진이라고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=콜롬비아+규모+7.4+강진+사망+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Collapsed concrete rubble and twisted steel rods from a destroyed building in bright daylight, orange emergency warning tape stretching across debris field, dust in the air, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "스포츠",
+      "kicker": "사상 첫 폭염 브레이크",
+      "title": "KBO 폭염 방학 끝, 프로야구 오늘 재개",
+      "summary": "KBO리그가 사상 첫 폭염 브레이크를 마치고 11일부터 리그를 재개합니다. 9월 6일까지 경기 시작 시간이 오후 7시로 바뀝니다.",
+      "sourceTitle": "'폭염 방학' 마치고 프로야구 내일 재개…KIA·NC는 11일 만에 실전",
+      "sourceDesc": "폭염으로 인해 2026 신한 SOL KBO리그의 8월 5일부터 9일까지 전 경기가 취소됐다. 11일부터 리그가 재개되며 9월 6일까지 경기 시작 시간이 오후 7시로 변경된다. 1982년 프로야구 출범 이후 폭염으로 전국 모든 경기가 취소된 것은 처음으로, 사상 첫 폭염 브레이크다.",
+      "sourceLink": "https://news.google.com/search?q=KBO+폭염+브레이크+리그+재개+2026년+8월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty baseball stadium at night illuminated by towering floodlights, green outfield grass glowing under brilliant white light, white chalk foul lines on clay infield, distant scoreboard, wide-angle photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회·보건",
+      "kicker": "병원 임종의 현실",
+      "title": "노인 10명 중 8명 병원서 임종",
+      "summary": "노인 10명 중 8명이 요양시설이 아닌 병원에서 숨지는 것으로 나타났습니다. 임종 전 의료비가 요양시설 대비 4.3배에 달해 고령화 사회의 과제로 떠올랐습니다.",
+      "sourceTitle": "노인 10명 중 8명 병원서 숨져...요양시설 임종보다 의료비 4.3배",
+      "sourceDesc": "노인 10명 중 8명이 병원에서 숨지고 있으며, 요양시설 임종보다 의료비가 4.3배 높은 것으로 조사됐다. 2023년 65세 이상 사망자 중 77.4%가 의료기관에서 사망했으며, 임종 한 달 전 1인당 월평균 의료비는 병원 사망자가 요양시설 사망자의 4.3배 수준이었다.",
+      "sourceLink": "https://news.google.com/search?q=노인+병원+임종+8명+의료비+4.3배+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Hospital corridor at dusk with warm amber and cool fluorescent light contrast, empty wheelchair parked beside a window with soft daylight filtering through frosted glass, quiet linoleum hallway, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-11 아침 브리핑\n\n1. 이 대통령 지지율 취임 후 최저\n2. SK하이닉스 54조 투자·배당 확정\n3. 콜롬비아 규모 7.4 강진, 20명 사망\n4. KBO 폭염 방학 끝, 프로야구 오늘 재개\n5. 노인 10명 중 8명 병원서 임종\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #KBO야구 #반도체 #지진\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
