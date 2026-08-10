@@ -17,6 +17,9 @@
     },
     "probes": {
       "asserts.js": "sha256:43ef73745764010ded0d66340334b3b4ca75202956abd69ef71c4ec32e4a18a0"
+    },
+    "probeDeps": {
+      "../../scripts/rewrite-probes.cjs": "sha256:756607693158db784cdc667a990c071e0900bc5bffdfc95b8ddf1d36cfd20986"
     }
   },
   "frozen": [
@@ -139,6 +142,51 @@
           "pass": true,
           "score": 1,
           "output": "{\"title\":\"이재명 대통령, 분당아파트 29억에 매매 완료\",\"summary\":\"이재명 대통령이 경기 성남 분당 아파트를 29억원에 매매했습니다. 매수인에게는 17억7000만원 수준의 근저당이 설정된 것으로 나타났습니다.\",\"imagePrompt\":\"Documentary photojournalism style image of a modern high-rise apartment complex in South Korea under an overcast sky, symbolizing a large real estate sale and mortgage registration, close-up of a building facade with balconies, vertical 9:16 composition, no people, no text.\"}"
+        }
+      }
+    },
+    {
+      "id": "2026-08-10T11-04-32Z",
+      "promptId": "prompt.txt",
+      "note": "v0.4.0 dep 베이스라인 기록(rewrite-probes.cjs 해시)",
+      "promptHash": "sha256:522c11808a5bc1173514f40f3f8d264cae94b80fe2459115b6a19b321c2c6a25",
+      "probeHash": "sha256:98a19a2fabc80399a1bcefc84b636dcf61986e18fde5f34ef8e367ebcf6583c4",
+      "depsHash": "sha256:a37a2216e0ef7d9ea93885f897cc910e363e3e5619ce2f005fa09c0895bc294d",
+      "cases": {
+        "07-22 am ① 오세훈 1심 선고 (숫자·인용 고유명사 다수)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"오세훈 여론조사 비용 대납 의혹, 특검 1년6개월 구형\",\"summary\":\"오세훈 서울시장이 2021년 서울시장 보궐선거를 앞두고 여론조사 비용을 대납받은 혐의로 재판을 받고 있습니다. 특검팀은 오 시장에게 징역 1년 6개월을 구형했습니다.\",\"imagePrompt\":\"Photojournalism documentary style image of an empty Seoul courtroom interior, wooden judge's bench and stacked case files under harsh fluorescent light, symbolizing a corruption trial, vertical 9:16 composition, no people, no text\"}"
+        },
+        "07-22 am ④ 반도체 성장률 (숫자·영문 AI 혼재)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"반도체 호조에 2026년 성장률 3% 상향 조정\",\"summary\":\"정부가 반도체 호황에 힘입어 2026년 경제성장률 전망치를 3%로 올렸습니다. 이는 2021년 이후 5년 만의 최고치로, AI 반도체 수출 호조가 배경으로 꼽힙니다.\",\"imagePrompt\":\"Photojournalism documentary style macro close-up of a silicon semiconductor wafer reflecting industrial light, intricate chip circuitry detail, blurred cleanroom fabrication facility in background, vertical 9:16 composition, no people, no text, natural industrial lighting, realistic high-detail photography.\"}"
+        },
+        "07-22 am ⑤ 부산 모텔 추락 (평이한 사건, 인용 국적)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"부산 모텔 8층서 탈출 시도 중 추락 사망\",\"summary\":\"부산의 한 모텔 8층에서 외국인 선원 2명이 이불을 찢어 만든 줄로 탈출을 시도하다 추락했습니다. 이 사고로 1명이 숨지고 1명이 중상을 입었으며, 객실 문은 외부에서 잠겨 있었습니다.\",\"imagePrompt\":\"Documentary photojournalism style, a torn bedsheet twisted into a makeshift rope hanging from a dark motel window at night, dim urban building facade, tense atmosphere, vertical 9:16 composition, no people, no text\"}"
+        },
+        "07-22 pm ② 이재명 AI CEO 면담 (영문 고유명사, 평이)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"이재명, 24일 美서 AI 기업 CEO 줄줄이 면담\",\"summary\":\"이재명 대통령이 24일 미국 샌프란시스코에서 앤트로픽·오픈AI·엔비디아 등 AI 기업 CEO들을 잇달아 만납니다. 한국의 AI 경쟁력을 높이기 위한 정상급 외교 행보로 풀이됩니다.\",\"imagePrompt\":\"Photojournalism documentary style image of the San Francisco skyline at dusk with the Golden Gate Bridge in the distance, symbolizing a high-level technology diplomacy summit, muted corporate blue tones, vertical 9:16 composition, no people, no text.\"}"
+        },
+        "07-22 pm ④ 아산 삼성 HBM (영문 약어·숫자 다수)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"아산 삼성 HBM 공장 증설, 전국 첫 착공\",\"summary\":\"아산시와 삼성전자가 22일 업무협약을 맺고 온양사업장에 반도체 생산시설을 짓기로 했습니다. 10월 착공해 2029년 5월 양산을 목표로 하며 정부 메가프로젝트 전국 첫 착공 사례가 됩니다.\",\"imagePrompt\":\"Documentary photojournalism style, aerial view of a semiconductor cleanroom construction site with steel framework and cranes under overcast sky, industrial facility exterior, vertical 9:16 composition, no people, no text.\"}"
+        },
+        "07-22 pm ⑤ 6·3 지방선거 CCTV (숫자·영문 CCTV)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"6·3 투표용지 부족, 최소 90명 투표 못해\",\"summary\":\"지난 6·3 지방선거 당시 투표용지 부족으로 CCTV가 확보된 11곳에서만 유권자 90명이 투표하지 못했습니다. 이는 선거관리위원회가 발표했던 44명보다 약 2배 많은 수치입니다.\",\"imagePrompt\":\"Empty polling station interior, stacks of blank paper ballots on a table under dim fluorescent light, a closed voting booth partition in the background, documentary photojournalism style, no people, no text, vertical 9:16 composition.\"}"
+        },
+        "07-22 am ② 이재명 무주택자 (정치·소수점·인용 복합, 표본 편입 실습)": {
+          "pass": true,
+          "score": 1,
+          "output": "{\"title\":\"이재명 대통령, 분당 아파트 29억 매매 완료\",\"summary\":\"이재명 대통령이 경기 성남 분당의 아파트를 29억원에 매도했습니다. 매수인에게는 17억7000만원 규모의 근저당이 설정된 것으로 나타났습니다.\",\"imagePrompt\":\"Documentary photojournalism style image of a modern high-rise apartment complex exterior in Bundang, South Korea, at dusk, symbolizing a real estate mortgage registration. Focus on building facade and windows, quiet atmosphere, no people, no text, vertical 9:16 composition.\"}"
         }
       }
     }

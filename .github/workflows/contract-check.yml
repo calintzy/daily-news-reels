@@ -29,13 +29,13 @@ jobs:
           node-version: "20"
 
       - name: ratchetlock 설치
-        run: npm install --no-save github:calintzy/ratchetlock
+        run: npm install --no-save github:calintzy/ratchetlock#v0.4.0
 
       - name: 결정적 check (replay)
-        run: cd contracts/rewrite && npx ratchetlock check
+        run: cd contracts/rewrite && npx ratchetlock check --probe-locked
 
       - name: 결정적 check (hook)
-        run: cd contracts/hook && npx ratchetlock check
+        run: cd contracts/hook && npx ratchetlock check --probe-locked
 
       - name: 실패 시 텔레그램 알림
         if: failure()
