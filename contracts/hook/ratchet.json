@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "target": {
+    "config": "promptfooconfig.yaml",
+    "prompts": [
+      "prompt.txt"
+    ],
+    "probes": [
+      "asserts.js"
+    ],
+    "tests": "tests.yaml"
+  },
+  "activePrompt": "prompt.txt",
+  "current": {
+    "prompts": {
+      "prompt.txt": "sha256:4df4e4079e50d5924a312548c7bc1c3aea93934efb4adbcaa190fde2be525b5f"
+    },
+    "probes": {
+      "asserts.js": "sha256:5b015cbc8be00086bfc51a970b1b32f62cc95d2494eac6fc535145ff1a123df2"
+    }
+  },
+  "frozen": [
+    {
+      "id": "2026-08-10T05-26-00Z",
+      "promptId": "prompt.txt",
+      "note": "hookLine 계약 초기 동결 4건(실측 08-08pm~08-10am rank1, 길이 규칙 강화 후)",
+      "promptHash": "sha256:4df4e4079e50d5924a312548c7bc1c3aea93934efb4adbcaa190fde2be525b5f",
+      "probeHash": "sha256:266ee07372cae0c041144a7a512bed30f57f2e9f52489c1c6876a043ba066ac1",
+      "cases": {
+        "08-08 pm 폭염 사망 23명 (누적 수치)": {
+          "pass": true,
+          "score": 1,
+          "output": "폭염 사망 23명, 정부 비상대응 나섰습니다."
+        },
+        "08-09 am 여수 모터보트 전복 (사건·사망 수치)": {
+          "pass": true,
+          "score": 1,
+          "output": "여수 유람선 전복, 선장 등 2명이 숨졌습니다."
+        },
+        "08-09 pm 폭염 지속 (수치 2건·절기)": {
+          "pass": true,
+          "score": 1,
+          "output": "올해 온열질환 사망 23명, 폭염이 안 꺾입니다."
+        },
+        "08-10 am 인천 존속살해 (강력사건)": {
+          "pass": true,
+          "score": 1,
+          "output": "어머니 살해한 10대, 반려견도 죽였습니다."
+        }
+      }
+    }
+  ],
+  "failCases": []
+}
