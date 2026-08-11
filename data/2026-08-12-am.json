@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-12",
+  "slot": "am",
+  "hookLine": "강남 집값, 일주일 새 급매 쏟아집니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "집값 요동",
+      "title": "강남 급매 '쑥' 전세는 '뚝'",
+      "summary": "세제개편 이후 강남 아파트 급매 물량이 일주일 새 크게 늘었습니다. 한편 전세 물량은 오히려 줄어드는 역설적 상황이 이어지고 있습니다.",
+      "sourceTitle": "71억 → 61억… 일주일 새 강남 급매 '쑥' 전세는 '뚝'",
+      "sourceDesc": "정부 세제 개편 이후 강남 아파트 급매 물량이 일주일 새 크게 늘었다. 강남구 압구정동 현대 1·2차 전용면적 131㎡가 최고 거래가인 71억원보다 10억원 낮은 61억원에 매물이 등록됐다. 반면 비거주 1주택자들이 세제상 불이익을 피하기 위해 기존 전세 물량을 거둬들이면서 전세 품귀 현상이 심화하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=강남+급매+71억+61억+일주일+전세+품귀+세제개편+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Exterior of a modern high-rise apartment tower with many balconies visible, large real estate for-sale banner draped on the facade, overcast urban sky, wide-angle photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제·정책",
+      "kicker": "정책 번복",
+      "title": "세제개편, 발표 일주일 만에 재설계",
+      "summary": "정부·여당이 세제개편안을 발표 일주일 만에 손질하기로 했습니다. 실거주 예외 확대와 ISA·주가대책 재검토 등이 논의되고 있습니다.",
+      "sourceTitle": "세제개편 발표 일주일 만에 '재설계'…실거주·ISA·주가대책 다시 손본다",
+      "sourceDesc": "정부와 여당이 발표한 세제개편안이 일주일 만에 수정 논의를 시작했다. 실거주 예외를 넓혀달라는 요구가 쏟아지고 ISA 개편과 주가 누르기 방지법 등에도 반발이 거세지자 보완 방안 검토에 착수했다. 국회 제출 전까지 세부 내용이 추가로 달라질 가능성이 커졌다.",
+      "sourceLink": "https://news.google.com/search?q=세제개편+발표+일주일+재설계+실거주+ISA+주가대책+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Stack of government policy documents with a red revision stamp pressed over the top page, warm desk lamp illuminating the scene, clean wooden desk surface, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "AI·과학",
+      "kicker": "역대 최대",
+      "title": "루닛, 상반기 매출 458억 역대 최대",
+      "summary": "루닛이 올해 상반기 매출 458억 원으로 역대 최대를 달성했습니다. 영업손실도 31% 줄어 수익성 개선이 이어지고 있습니다.",
+      "sourceTitle": "루닛, 상반기 매출 458억 '역대 최대'…영업손실 31% 축소",
+      "sourceDesc": "루닛이 2026년 상반기 연결기준 매출 458억 원을 기록해 반기 기준 역대 최대 매출을 달성했다. AI 의료 영상 분석 사업 성장에 힘입어 영업손실은 전년 동기 대비 31% 축소됐다. 해외 매출 비중은 95%에 달했다.",
+      "sourceLink": "https://news.google.com/search?q=루닛+상반기+매출+458억+역대+최대+영업손실+31%+축소+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Medical diagnostic imaging monitor displaying a radiology scan with subtle glowing grid overlay lines in a dark clinical room, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "스포츠",
+      "kicker": "MLB 신기록",
+      "title": "이정후, 시즌 9호 홈런으로 타율 3할",
+      "summary": "이정후가 시즌 9호 홈런을 포함한 멀티히트를 기록했습니다. MLB 한 시즌 최다 홈런 신기록과 함께 타율이 3할로 복귀했습니다.",
+      "sourceTitle": "[MLB] 이정후, 시즌 최다 9호 홈런 포함 멀티히트...3할 타율 복귀",
+      "sourceDesc": "이정후가 휴스턴 애스트로스와의 경기에서 시즌 9호 홈런을 포함한 멀티히트를 기록했다. MLB 한 시즌 개인 최다 홈런 신기록을 세우며 타율도 3할로 돌아섰다.",
+      "sourceLink": "https://news.google.com/search?q=이정후+MLB+시즌+9호+홈런+멀티히트+3할+타율+복귀+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a worn leather baseball resting on a dugout bench under bright stadium floodlights, dramatic shadow contrast on textured leather surface, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "IT·사회",
+      "kicker": "핀테크 논란",
+      "title": "네이버페이 리베이트 논란, 금감원 일축",
+      "summary": "네이버페이 결제 단말기 리베이트 의혹이 제기됐습니다. 금감원은 특이사항이 없다며 의혹을 일축했습니다.",
+      "sourceTitle": "네이버페이 단말기-PG '리베이트 논란'…금감원 "특이사항 없어"일축",
+      "sourceDesc": "네이버페이가 오프라인 결제 단말기 보급과 관련해 전자지급결제대행(PG) 업체에 리베이트를 제공했다는 의혹이 제기됐다. 금융감독원은 결제업계 전반의 거래 동향을 파악한 것으로 현재까지 특이사항이 발견된 건 없다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=네이버페이+단말기+PG+리베이트+논란+금감원+특이사항+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Modern digital payment terminal on a retail counter with a glowing card reader display, shallow depth of field, clean minimalist background, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-12 아침 브리핑\n\n1. 강남 급매 '쑥' 전세는 '뚝'\n2. 세제개편, 발표 일주일 만에 재설계\n3. 루닛, 상반기 매출 458억 역대 최대\n4. 이정후, 시즌 9호 홈런으로 타율 3할\n5. 네이버페이 리베이트 논란, 금감원 일축\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #부동산 #세제개편 #루닛 #이정후 #MLB #네이버페이\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
