@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-12",
+  "slot": "pm",
+  "hookLine": "북한이 한미 연합훈련 직전 또 미사일을 쐈습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "안보·국제",
+      "kicker": "도발 재개",
+      "title": "북한, 한미훈련 앞두고 탄도미사일 발사",
+      "summary": "북한이 오늘 새벽 원산에서 동해상으로 탄도미사일을 발사했습니다. 미사일은 700km 이상 비행했으며, 한미 연합훈련 UFS 직전 이뤄진 올해 11번째 도발입니다.",
+      "sourceTitle": "합참 \"북한, 원산 일대서 동해상으로 '탄도미사일' 발사\"",
+      "sourceDesc": "북한이 12일 오전 원산 일대에서 동해상으로 탄도미사일 1발을 발사했다. 미사일은 700km 이상 비행해 일본 배타적경제수역(EEZ) 밖에 낙하한 것으로 추정되며, 합참은 한미가 제원을 분석 중이라고 밝혔다. 이번 도발은 오는 17일 시작하는 한미 연합훈련 '을지 자유의 방패(UFS)' 반발로 예상되며, 올해 11번째 발사다.",
+      "sourceLink": "https://news.google.com/search?q=북한+원산+탄도미사일+동해+발사+을지자유의방패+UFS+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A single white contrail of smoke rising steeply into a dark pre-dawn sky over an empty ocean horizon, dramatic contrast between glowing exhaust and deep blue darkness, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "선거 결말",
+      "title": "선관위, 서울시장 선거소청 기각",
+      "summary": "중앙선관위가 서울시장 선거 무효 소청을 기각했습니다. 투표용지 부족으로 규정을 위반했지만 선거 결과에 영향이 없었다는 판단입니다.",
+      "sourceTitle": "중앙선관위, 서울시장 선거소청 기각…\"용지 부족, 선거 결과에 영향 없어\"",
+      "sourceDesc": "중앙선거관리위원회가 지난 7일 선거소청 15건을 심사해 3건을 기각하고 12건을 각하했다. 서울시장 선거 무효 소청에 대해 투표용지 부족 및 투표 중단으로 규정 위반 사실이 있으나 선거 결과에 영향을 미친 것으로 볼 수 없다고 밝혔다. 기각 결정에 불복하는 소청인은 결정서를 받은 날부터 10일 이내에 법원에 선거소송을 제기할 수 있다.",
+      "sourceLink": "https://news.google.com/search?q=중앙선관위+서울시장+선거소청+기각+투표용지+부족+선거결과+영향없어+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A formal government ruling document with an official red ink seal stamp pressed onto it, lying on a dark wooden desk under warm lamp light, clean official setting, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "AI·과학",
+      "kicker": "여론 공작 포착",
+      "title": "카이스트 AI, 외국 댓글 공작 2만4천 계정 잡다",
+      "summary": "카이스트가 20년치 네이버 댓글 1억1000만 건을 AI로 분석해 외국 연계 의심 계정 2만4천개를 찾아냈습니다. 국내 정치 갈등을 조장하는 외국발 여론 공작 패턴을 자동 탐지하는 기술입니다.",
+      "sourceTitle": "KAIST \"뉴스 댓글 외국 연계 의심 계정 2만4천개\"…패턴 자동 탐지 AI 기술 개발",
+      "sourceDesc": "카이스트 연구팀이 2006~2025년 20년간 네이버 뉴스에 작성된 약 1억1000만 건 댓글을 AI로 분석해 외국 연계 영향력 활동이 의심되는 계정 2만4천개를 식별했다. 해당 계정들은 외국을 직접 찬양하기보다 국내 정치인을 비난하며 정치 갈등을 조장하는 패턴을 보였다. 이 연구는 보안 학술대회 USENIX Security 2026에서 발표될 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=카이스트+KAIST+뉴스댓글+외국연계+의심계정+2만4천개+AI+여론공작+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A glowing computer monitor in a dark room displaying a web of interconnected network nodes with some clusters highlighted in red to indicate suspicious accounts, digital network visualization, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치·주거",
+      "kicker": "공급 대책",
+      "title": "민주당 주택 공급 TF 첫 회의, 비아파트 확대",
+      "summary": "세제개편 후속으로 민주당이 오늘 주택시장 안정화 TF 첫 회의를 열었습니다. 생활주택·오피스텔 등 비아파트 공급 확대 방안을 정부와 논의했습니다.",
+      "sourceTitle": "민주, 12일 주택시장 안정화TF 첫 회의…13일 의총서 부동산 공급 논의",
+      "sourceDesc": "민주당이 12일 주택시장 안정화 태스크포스(TF) 첫 회의를 열고 생활주택·오피스텔 등 비아파트 공급 확대 방안을 정부와 논의했다. 모듈러 방식을 통한 과감한 공급 확대가 필요하다는 데 공감했으며, 세제개편안의 8월 말 최종 조율도 계획 중이다. 13일에는 의원총회에서 부동산 공급 방안을 추가 논의할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=민주당+주택시장+안정화+TF+첫회의+비아파트+공급확대+오피스텔+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Prefabricated modular building sections stacked by a crane at an urban construction site against a clear blue sky, modern residential architecture in progress, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회·경제",
+      "kicker": "밥상 물가",
+      "title": "폭염에 채솟값·가공식품 가격 동반 상승",
+      "summary": "폭염 속 채소류 가격이 뛰고 가공식품 업체들의 가격 인상도 이어지고 있습니다. 배·수박·계란 등이 지난해보다 높은 수준을 보이며 장바구니 부담이 커지고 있습니다.",
+      "sourceTitle": "폭염에 채솟값 뛰고 가공식품도 줄인상…8월 장바구니 물가 부담",
+      "sourceDesc": "연일 이어지는 폭염으로 채솟값이 뛰는 가운데 가공식품 업체들의 가격 인상도 줄을 잇고 있다. 배·토마토·수박·계란 등은 지난해보다 가격이 높은 수준을 보이며, 폭염이 장기화할 경우 하반기 먹거리 물가에 최대 변수가 될 것으로 우려된다.",
+      "sourceLink": "https://news.google.com/search?q=폭염+채솟값+가공식품+가격인상+장바구니+물가+부담+2026+8월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Wilting green leafy vegetables on a traditional Korean outdoor market stall under harsh summer sunlight, warm golden light casting hard shadows over produce, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-12 저녁 브리핑\n\n1. 북한, 한미훈련 앞두고 탄도미사일 발사\n2. 선관위, 서울시장 선거소청 기각\n3. 카이스트 AI, 외국 댓글 공작 2만4천 계정 잡다\n4. 민주당 주택 공급 TF 첫 회의, 비아파트 확대\n5. 폭염에 채솟값·가공식품 가격 동반 상승\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #북한 #미사일 #선관위 #서울시장 #카이스트 #AI여론조작 #폭염 #물가\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
