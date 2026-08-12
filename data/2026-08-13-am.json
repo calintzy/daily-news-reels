@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-13",
+  "slot": "am",
+  "hookLine": "외국인 2.8조에 코스피 3.68% 급등했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "반도체 불장",
+      "title": "반도체 불장에 코스피 3.68% 급등",
+      "summary": "삼성전자와 SK하이닉스 급등에 코스피가 3.68% 올랐습니다. 외국인이 2.8조원 넘게 순매수하며 사흘 연속 지수를 끌어올렸습니다.",
+      "sourceTitle": "삼성전자·SK하이닉스 급등에 코스피 3.68%↑…외국인 2.8조 쓸어담았다",
+      "sourceDesc": "12일 코스피 지수는 전 거래일보다 3.68% 오른 6579.04에 장을 마쳤다. 삼성전자는 6.68% 오른 25만5500원에, SK하이닉스는 5.54% 상승한 150만4000원에 마감했다. 외국인은 2.8조원 넘게 순매수하며 사흘 연속 지수 상승을 이끌었다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+3.68%25+삼성전자+SK하이닉스+급등+외국인+순매수+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Stock market trading screens showing green rising charts and financial data, glowing monitors in a dark trading room reflecting off polished surfaces, dramatic cinematic lighting, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "AI·과학",
+      "kicker": "반도체 그 다음",
+      "title": "7대 SEED로 차세대 성장동력 육성",
+      "summary": "정부가 SMR·양자·우주항공 등을 '7대 SEED'로 선정해 집중 투자를 선언했습니다. 반도체를 이을 차세대 성장동력 확보를 위한 구체 목표가 발표됐습니다.",
+      "sourceTitle": "李대통령, '7대 SEED' 미래성장동력 육성…SMR·양자·우주항공 집중 투자",
+      "sourceDesc": "이재명 대통령이 12일 청와대에서 소형모듈원전(SMR), 핵융합, 재생에너지, 양자, 우주·항공, 첨단바이오, 첨단 소재·부품 공급망 등 7대 첨단기술 '7대 SEED' 보고회를 주재했다. 정부는 2029년 국산 양자컴퓨터 100큐비트 개발, 2030년 민간 달 착륙선 발사 등 구체 목표를 제시했다.",
+      "sourceLink": "https://news.google.com/search?q=7대+SEED+미래성장동력+SMR+양자+우주항공+집중투자+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Small modular reactor facility at dusk, cooling tower silhouette reflected in a still water surface with metallic industrial architecture and soft blue ambient glow, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "경찰 고위직 인사",
+      "title": "치안정감 4명 승진, 경찰청장 후보 재편",
+      "summary": "정부가 유승렬 등 4명을 치안정감으로 승진시키며 차기 경찰청장 후보군을 재편했습니다. 약 11개월 만의 고위직 인사로 치안감 9명도 함께 승진했습니다.",
+      "sourceTitle": "'경찰청장 후보군' 치안정감 4명 승진…유승렬·고범석·김종철·고평기",
+      "sourceDesc": "정부가 8월 12일 경찰 고위직 인사를 단행해 유승렬, 고범석, 김종철, 고평기 4명을 치안정감으로 승진시켰다. 약 11개월 만의 고위직 인사로 차기 경찰청장 후보군이 재편됐으며, 치안감도 9명이 함께 승진했다.",
+      "sourceLink": "https://news.google.com/search?q=치안정감+4명+승진+유승렬+고범석+김종철+고평기+경찰청장+후보군+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Polished police service badges and ranking insignia arranged ceremonially on a dark velvet background, dramatic spotlight highlighting metallic details and official emblems, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "한국 반도체·태양광 비상",
+      "title": "트럼프, 폴리실리콘에 15% 관세 서명",
+      "summary": "트럼프 미국 대통령이 폴리실리콘 파생상품에 15% 관세를 부과하는 포고령에 서명했습니다. 120일간의 유예기간을 거쳐 12월부터 시행되며 한국 태양광·반도체 업계에 영향이 예상됩니다.",
+      "sourceTitle": "트럼프, 폴리실리콘 파생상품에 15% 관세...\"미국 산업 재건\"",
+      "sourceDesc": "도널드 트럼프 미국 대통령이 폴리실리콘 파생상품에 15% 종가관세를 부과하는 포고령에 서명했다. 120일간의 유예기간을 거쳐 12월 4일 미 동부시간 오전 0시 1분부터 발효된다. 한국·일본 등 협력국에는 기존 관세와 합산해 상한 15%가 적용된다.",
+      "sourceLink": "https://news.google.com/search?q=트럼프+폴리실리콘+파생상품+15%25+관세+포고령+서명+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Vast solar panel array stretching to the horizon at golden hour, rows of geometric photovoltaic panels casting long shadows on dusty ground, industrial scale, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "교통카드 대환승",
+      "title": "기후동행카드 8월 종료, 모두의카드로",
+      "summary": "서울시 기후동행카드가 8월 말 운영을 종료하고 9월부터 모두의카드로 통합 전환됩니다. 월 대중교통비의 20~30%를 정률 환급하는 방식으로 바뀌어 서울 시민에게 영향을 줍니다.",
+      "sourceTitle": "서울 기후동행카드 8월 종료… 9월부터 '모두의카드' 출시",
+      "sourceDesc": "서울시의 대중교통 무제한 정기권 기후동행카드가 8월 말 운영을 종료하고 9월 1일부터 정부의 모두의카드(기후동행패스)로 통합 전환된다. 선불 카드는 8월 31일까지 충전 가능하며 9월 29일까지 사용할 수 있다. 새 카드는 월 대중교통비의 20~30%를 정률 환급하는 방식으로 운영된다.",
+      "sourceLink": "https://news.google.com/search?q=기후동행카드+8월+종료+모두의카드+9월+전환+서울+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Contactless smart card payment terminal at a subway turnstile, blue metallic card reader glowing softly in a clean transit corridor, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-13 아침 브리핑\n\n1. 반도체 불장에 코스피 3.68% 급등\n2. 7대 SEED로 차세대 성장동력 육성\n3. 치안정감 4명 승진, 경찰청장 후보 재편\n4. 트럼프, 폴리실리콘에 15% 관세 서명\n5. 기후동행카드 8월 종료, 모두의카드로\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #코스피 #반도체 #삼성전자 #SK하이닉스 #SEED #트럼프 #관세 #기후동행카드 #모두의카드\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
