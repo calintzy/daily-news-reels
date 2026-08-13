@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-14",
+  "slot": "am",
+  "hookLine": "수도권에 집 23만 채 더 짓습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "주거·부동산",
+      "kicker": "23만호 공급 확정",
+      "title": "수도권 23만 가구 추가 공급 확정",
+      "summary": "정부가 서울 강서·남양주 등 3곳에 신규 공공택지를 지정해 2만7200가구를 공급합니다. 수도권 전체 추가 공급 규모는 23만 가구에 달합니다.",
+      "sourceTitle": "서울 강서·남양주 도심 등 3곳에 2만7200가구…수도권 23만가구+α 공급 [8.13 대책]",
+      "sourceDesc": "정부가 8·13 부동산 대책으로 서울 강서 염창, 경기 남양주 도심, 경기 광주 등 수도권 3곳에 총 2만7200가구 규모의 신규 공공택지를 지정하고, 2030년까지 수도권 23만가구+α를 추가 공급하겠다고 발표했다.",
+      "sourceLink": "https://news.google.com/search?q=8.13+부동산+대책+수도권+23만가구+공급+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial view of a large undeveloped urban plot designated for new apartment construction, surrounded by existing dense residential tower blocks in a South Korean metropolitan area, overcast sky, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "금융·사회",
+      "kicker": "490억 대출 사기",
+      "title": "은행권 부동산 대출 사기 490억",
+      "summary": "부동산 시행사와 허위 분양자들이 공모한 대출 사기로 은행권에서 490억원 규모의 금융사고가 발생했습니다. 피해를 입은 은행들이 경찰에 수사를 의뢰했으며 규모가 더 늘어날 수 있습니다.",
+      "sourceTitle": "대출사기 번진 은행권…금융사고 490억원 규모",
+      "sourceDesc": "부동산 시행사·허위 분양자가 공모해 KB국민·신한·우리 등 주요 은행에서 490억원 규모의 분양 대출 사기가 발생했다. 경찰이 수사 중이며 지방은행과 상호금융권까지 합산하면 피해 규모가 더 클 것으로 보인다.",
+      "sourceLink": "https://news.google.com/search?q=은행+부동산+대출사기+490억원+금융사고+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Blank mortgage contract documents and a rubber stamp resting on a wooden desk, with blurred stacks of paper files in the background, cool natural window lighting, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "에너지·과학",
+      "kicker": "빌 게이츠 방한",
+      "title": "빌 게이츠 방한…SMR 협력 논의",
+      "summary": "빌 게이츠가 1년 만에 방한해 한성숙 총리 등 정·재계 인사들과 소형모듈원전(SMR) 협력을 논의합니다. 에너지 분야 협력 강화를 위한 잇단 면담이 예정돼 있습니다.",
+      "sourceTitle": "빌 게이츠 1년 만에 방한…정·재계와 SMR 협력 논의",
+      "sourceDesc": "빌 게이츠 마이크로소프트 창업자가 1년 만에 방한해 한성숙 총리와 정기선 HD현대 회장 등 정·재계 인사들과 소형모듈원전(SMR) 협력 방안을 논의한다. 방한 기간 국회 의장 등과도 잇달아 면담할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=빌게이츠+방한+SMR+협력+한성숙+총리+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Scale model of a small modular reactor placed on a government conference room table beside a national flag and technical blueprint folders, soft institutional lighting, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "반도체 소재 담합",
+      "title": "반도체 소재 담합 상장사 기소",
+      "summary": "서울중앙지검이 반도체 소재 담합 혐의로 코스닥 상장사와 임직원 5명을 불구속 기소했습니다. 3476억원 규모의 납품 가격 담합을 수년간 벌인 것으로 파악됐습니다.",
+      "sourceTitle": "검찰, 3400억원대 반도체 소재 담합 코스닥 상장사·임직원 등 5명 기소",
+      "sourceDesc": "서울중앙지검이 반도체 소재인 본딩와이어·솔더볼 납품 과정에서 3476억원 규모의 가격·거래조건 담합을 벌인 코스닥 상장사와 전·현직 임직원 등 5명을 공정거래법 위반 혐의로 불구속 기소했다.",
+      "sourceLink": "https://news.google.com/search?q=반도체+소재+담합+코스닥+상장사+기소+3400억+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Extreme close-up of semiconductor chips and fine gold bonding wires on a circuit board surface, harsh forensic overhead lighting revealing intricate metallic detail, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사건·사회",
+      "kicker": "갑질 공무원 항소심",
+      "title": "'계엄령 놀이' 갑질 공무원 실형",
+      "summary": "전 양양군 공무원이 환경미화원 3명에게 가혹행위를 일삼은 혐의로 항소심에서도 징역 1년 8개월 실형을 선고받았습니다. 피해자들은 이른바 '계엄령 놀이'로 불리는 가혹행위에 오랫동안 시달렸습니다.",
+      "sourceTitle": "환경미화원에 '엽기 갑질' 양양군 전 공무원…2심도 징역 1년 8개월",
+      "sourceDesc": "춘천지법 강릉지원 형사1부는 환경미화원 3명에게 이불 씌우기·발로 밟기 등 이른바 '계엄령 놀이' 가혹행위를 한 전 양양군 공무원의 항소심에서 징역 1년 8개월을 선고한 원심을 유지했다.",
+      "sourceLink": "https://news.google.com/search?q=양양군+공무원+갑질+계엄령놀이+항소심+실형+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty courtroom interior showing a judge's elevated bench and Korean national court emblem on the wall, dramatic natural light streaming through tall windows across wooden furnishings, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-14 아침 브리핑\n\n1. 수도권 23만 가구 추가 공급 확정\n2. 은행권 부동산 대출 사기 490억\n3. 빌 게이츠 방한…SMR 협력 논의\n4. 반도체 소재 담합 상장사 기소\n5. '계엄령 놀이' 갑질 공무원 실형\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #부동산 #주택공급 #대출사기 #SMR #빌게이츠 #반도체 #담합 #갑질\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
