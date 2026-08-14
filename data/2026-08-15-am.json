@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-15",
+  "slot": "am",
+  "hookLine": "최태원, 9440억 판결 불복해 재상고했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사회",
+      "kicker": "판결 불복, 대법 재상고",
+      "title": "최태원, 9440억 판결 불복 재상고",
+      "summary": "최태원 회장이 노소영 관장에게 9440억원을 지급하라는 파기환송심 판결에 불복해 재상고했습니다. 사건은 대법원 재심리로 돌아갑니다.",
+      "sourceTitle": "최태원, '노소영에 재산분할 9440억' 재상고…대법서 재심리",
+      "sourceDesc": "최태원 SK그룹 회장이 노소영 아트센터나비 관장에게 9440억원을 지급하라는 파기환송심 판결에 불복해 14일 밤 재상고했다. 최 회장 측은 '여러 사정을 고려해 고심 끝에 상고장을 제출했다'고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=최태원+노소영+재상고+9440억+대법원+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a wooden gavel resting on a folded legal document on a dark polished desk, cool blue courtroom ambient lighting, stack of papers blurred in background, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "AI 수요에 역대 최대",
+      "title": "8월 초 반도체 수출, 역대 최대",
+      "summary": "8월 1~10일 수출이 213억달러로 역대 8월 초 최대를 기록했습니다. 반도체 수출은 155% 급증해 전체의 절반 가까이를 차지했습니다.",
+      "sourceTitle": "8월 초순 수출 213억불 '역대 최고'⋯반도체 155% 급증 [종합]",
+      "sourceDesc": "8월 1일부터 10일까지 수출액이 213억달러로 전년 대비 45.3% 늘어 8월 초 기준 역대 최대를 기록했다. 반도체가 99억달러로 155.4% 급증하며 전체 수출의 절반 가까이를 차지했다.",
+      "sourceLink": "https://news.google.com/search?q=8월+초순+수출+213억+반도체+155+급증+역대최고+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Rows of polished silicon wafers arranged under bright semiconductor cleanroom lighting, reflective metallic surfaces with intricate geometric circuit patterns, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제·소비",
+      "kicker": "운명의 3주 시작",
+      "title": "홈플러스 67개 점포 재개장, 회생 도전",
+      "summary": "홈플러스가 13일 전국 67개 점포를 재개장하며 회생 가능성 입증에 나섰습니다. 9월 4일까지 약 3주가 관건입니다.",
+      "sourceTitle": "홈플러스 운명의 3주 시작됐다…'홈플 is Back' 회생 시험대",
+      "sourceDesc": "홈플러스가 8월 13일 전국 67개 점포 영업을 재개하며 회생 계획안 가결 기한까지 약 3주간 회생 가능성을 입증해야 하는 시험대에 올랐다. 법원이 정한 기한은 9월 4일이다.",
+      "sourceLink": "https://news.google.com/search?q=홈플러스+재개장+67개+회생+시험대+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Wide-angle view of a large supermarket aisle with shelves being restocked with packaged products, fluorescent overhead lighting casting warm light over fresh produce displays, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "통합특별시 첫 경축",
+      "title": "전남광주, 출범 후 첫 광복절 경축식",
+      "summary": "전남광주통합특별시가 제81주년 광복절 경축식을 개최했습니다. 통합특별시 출범 이후 첫 국가 행사로 600여 명이 참석했습니다.",
+      "sourceTitle": "통합특별시 출범 후 첫 광복절…전남광주, 600여명 참석 경축식 개최",
+      "sourceDesc": "전남광주통합특별시가 8월 15일 오전 10시 광주 서구 김대중컨벤션센터에서 제81주년 광복절 경축식을 열었다. 민형배 시장을 비롯한 600여 명이 참석해 통합특별시 출범 이후 첫 국가 기념행사를 가졌다.",
+      "sourceLink": "https://news.google.com/search?q=전남광주통합특별시+광복절+경축식+81주년+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "South Korean national flag waving in a clear summer morning sky, warm sunlight, vibrant red and blue colors against a bright blue sky, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회·안전",
+      "kicker": "낙석 경기장 불허",
+      "title": "포항 스틸야드, 석재 낙하로 홈경기 불허",
+      "summary": "한국프로축구연맹이 관중석 천장 석재 낙하 사고가 발생한 포항스틸야드에 홈경기 개최를 불허했습니다. 안전성이 확보되기 전까지 K리그 홈 경기를 치를 수 없습니다.",
+      "sourceTitle": "프로축구연맹, '석재 추락' 포항스틸야드 홈경기 개최 불허",
+      "sourceDesc": "한국프로축구연맹이 관중석 천장에서 석재가 낙하하는 사고가 발생한 포항스틸야드에 대해 안전성이 확보되기 전까지 홈경기 개최를 불허하기로 결정했다. 연맹은 현재 상태에서는 K리그 경기를 개최하기 어렵다고 판단했다.",
+      "sourceLink": "https://news.google.com/search?q=프로축구연맹+포항스틸야드+홈경기+불허+석재+낙하+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Concrete debris and rubble scattered across empty stadium seats, yellow caution tape cordoning off a danger zone, harsh overhead lighting highlighting structural ceiling damage, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-15 아침 브리핑\n\n1. 최태원, 9440억 판결 불복 재상고\n2. 8월 초 반도체 수출, 역대 최대\n3. 홈플러스 67개 점포 재개장, 회생 도전\n4. 전남광주, 출범 후 첫 광복절 경축식\n5. 포항 스틸야드, 석재 낙하로 홈경기 불허\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #최태원 #노소영 #반도체 #수출 #홈플러스 #광복절 #포항스틸야드 #K리그\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
