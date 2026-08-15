@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-16",
+  "slot": "am",
+  "hookLine": "남부·제주, 오늘 폭우에 강풍까지 옵니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "오늘 폭우·강풍",
+      "title": "남부·제주, 광복절 연휴 천둥 폭우",
+      "summary": "광복절 연휴 둘째 날인 오늘 남부지방과 제주도를 중심으로 천둥·번개를 동반한 강한 비가 쏟아지고 있습니다. 남해안에는 순간풍속 시속 70㎞ 이상의 강한 바람도 불고 있습니다.",
+      "sourceTitle": "연휴 둘째 날 전국에 비…남부·제주 천둥·번개 동반 폭우",
+      "sourceDesc": "광복절 연휴 둘째 날인 16일 전국이 대체로 흐리고 비가 내렸으며, 남부지방과 제주도를 중심으로 천둥·번개를 동반한 매우 강하고 많은 비가 내렸다. 오전부터 남해안에는 순간풍속 시속 70㎞ 이상의 매우 강한 바람이 불어 강풍특보가 발표될 가능성이 있었다.",
+      "sourceLink": "https://news.google.com/search?q=남부+제주+폭우+광복절+연휴+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Dark storm clouds sweeping over a coastal headland, sheets of heavy rain obscuring the horizon, turbulent grey sea with whitecap waves crashing on rocky shores, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "민주당 전당대회 D-1",
+      "title": "김민석, 호남 과반 압승…당선 유력",
+      "summary": "민주당 호남권 당원투표에서 김민석 후보가 57.54%를 득표해 압승했습니다. 정청래 후보는 32.65%에 그치며 두 후보 간 격차가 크게 벌어졌습니다.",
+      "sourceTitle": "[속보] 與 호남권 당원투표, 김민석 57.54% 압승…鄭 32.65%·宋 9.81%",
+      "sourceDesc": "더불어민주당 호남권 권리당원 투표에서 김민석 후보가 57.54%를 득표해 압승했다. 정청래 후보는 32.65%, 송영길 후보는 9.81%를 기록했다.",
+      "sourceLink": "https://news.google.com/search?q=민주당+전당대회+김민석+호남+당원투표+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Rows of empty ballot boxes stacked on a polished conference table with voting materials, under bright institutional lighting in a spacious convention hall, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "부동산 대책 총력전",
+      "title": "이재명, 법 바꿔서라도 부동산 공급 총력",
+      "summary": "이재명 대통령이 부동산 문제를 시한폭탄으로 규정하며 법·제도를 고쳐서라도 택지를 확보해 공급 총력전을 펼쳐야 한다고 강조했습니다. 인허가 절차를 최대한 단축하고 규제를 넘어 파격적인 공급에 나설 것을 주문했습니다.",
+      "sourceTitle": "李대통령 \"부동산 문제 시한폭탄…법·제도 고쳐서라도 공급 총력\"",
+      "sourceDesc": "이재명 대통령이 부동산 문제를 시한폭탄이라고 규정하며 법·제도를 고쳐서라도 택지를 확보하고 주택 공급에 총력을 기울여야 한다고 강조했다. 인허가 절차 단축, 규제 철폐, 파격적인 공급을 주문했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+부동산+법제도+고쳐서라도+공급+총력전+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial view of a large urban construction site with tower cranes and concrete framework rising between existing apartment towers, early morning haze over the city, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "증시 선진국 도전",
+      "title": "MSCI 선진국 편입, 39개 과제 중 30개 완료",
+      "summary": "정부가 MSCI 선진국 지수 편입을 위한 39개 과제 중 30개를 완료했습니다. 잔여 과제를 올해 안에 이행해 내년 정식 편입을 목표로 추진합니다.",
+      "sourceTitle": "MSCI 선진국 지수 편입 속도…정부, 39개 과제 중 30개 완료",
+      "sourceDesc": "정부가 MSCI 선진국 지수 편입 로드맵상 39개 과제 중 30개를 완료했다. 외국인 투자자 편의를 위한 원화 결제 개선 등 잔여 과제를 올해 안에 이행해 2027년 정식 편입을 목표로 한다.",
+      "sourceLink": "https://news.google.com/search?q=MSCI+선진국+지수+편입+39개+과제+30개+완료+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial wide-angle view of a major financial district skyline at golden hour, glass skyscrapers reflecting orange sunset light over a calm river, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "휴머노이드 개발 동맹",
+      "title": "LG·엔비디아, 피지컬AI 동맹…내년 휴머노이드",
+      "summary": "LG와 엔비디아가 피지컬AI 분야에서 협력해 차세대 이족보행 휴머노이드 로봇을 공동 개발하기로 했습니다. 내년 1분기 첫 공개를 목표로 로보틱스와 AI 팩토리 등에서 협력을 확대합니다.",
+      "sourceTitle": "LG·엔비디아,피지컬AI 동맹…내년 1분기 휴머노이드 공개",
+      "sourceDesc": "LG와 엔비디아가 미국 엔비디아 본사에서 양해각서를 체결하고 피지컬AI 분야 협력을 확대한다. 차세대 이족보행 휴머노이드 로봇 공동 개발, AI 팩토리, AI 정의 차량 플랫폼 등에서 협력하며, 내년 1분기 첫 휴머노이드 공개를 목표로 한다.",
+      "sourceLink": "https://news.google.com/search?q=LG+엔비디아+피지컬AI+동맹+휴머노이드+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Abstract robotic arm mechanism with intricate metallic joints against a dark background lit with warm amber light, technological precision engineering closeup, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-16 아침 브리핑\n\n1. 남부·제주, 광복절 연휴 천둥 폭우\n2. 김민석, 호남 과반 압승…당선 유력\n3. 이재명, 법 바꿔서라도 부동산 공급 총력\n4. MSCI 선진국 편입, 39개 과제 중 30개 완료\n5. LG·엔비디아, 피지컬AI 동맹…내년 휴머노이드\n\n오늘도 뉴스를 물어왔습니다 🦆 내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #폭우 #광복절연휴 #민주당 #전당대회 #김민석 #부동산 #MSCI #LG #엔비디아 #피지컬AI #휴머노이드\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
