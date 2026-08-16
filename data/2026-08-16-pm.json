@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-16",
+  "slot": "pm",
+  "hookLine": "통상 사령탑 공백, 장관이 긴급 미국으로 갑니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "통상 사령탑 공백",
+      "title": "통상 수장 경질, 장관 긴급 방미",
+      "summary": "한미 관세협상을 총괄해온 통상교섭본부장이 갑자기 직권면직되며 사령탑 자리가 비었습니다. 산업장관이 통상 현안 논의를 위해 곧바로 긴급 미국행에 나섰습니다.",
+      "sourceTitle": "'추가 관세 폭풍전야'속 통상사령탑 공백 ⋯김정관 장관, 현안 논의 美 긴급 출국",
+      "sourceDesc": "한미 관세협상 도중 통상교섭본부장이 직권면직되면서 사령탑 자리가 빈 상황에서 김정관 산업장관이 16일 오전 긴급 미국행에 나섰다. 대미 투자 프로젝트 추진 현황 점검과 추가 관세 등 통상 현안을 논의할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=여한구+통상교섭본부장+경질+김정관+긴급+미국+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty executive chair at the head of a large polished conference table with stacked policy documents and miniature national flags, dramatic side lighting in a formal government meeting room, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "폭우 피해 속출",
+      "title": "전남광주 폭우, 목포 기록적 물폭탄",
+      "summary": "어제 예보된 폭우의 후속으로, 전남광주에서 침수 피해가 속출했습니다. 목포에는 한 시간 만에 66.4mm 물폭탄이 쏟아지며 강수량 역대 최고 기록을 갈아치웠습니다.",
+      "sourceTitle": "전남광주, 120건 침수 피해 신고…목포 1시간 66.4mm 물폭탄",
+      "sourceDesc": "전남광주에 집중호우가 쏟아지면서 주택과 도로, 상가가 침수되는 등 피해가 속출했다. 목포에는 한 시간 만에 66.4mm의 물폭탄이 쏟아지며 시간당 강수량 역대 최고 기록을 갈아치웠다.",
+      "sourceLink": "https://news.google.com/search?q=전남광주+폭우+침수+목포+강수량+2026+8월16일&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Flooded urban street with dark rushing water reflecting emergency vehicle lights, overflowing storm drains and submerged road markings visible under heavy rainfall, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "친일재산 16년 만에 환수",
+      "title": "친일재산조사위 16년 만에 부활",
+      "summary": "2010년 해산된 친일재산조사위원회가 12월 법 시행과 함께 16년 만에 다시 출범합니다. 최소 325억원 이상의 친일재산을 환수해 독립유공자 후손 복지에 쓸 예정입니다.",
+      "sourceTitle": "16년 만에 부활하는 친일재산조사위⋯'최소 325억원 환수'",
+      "sourceDesc": "친일반민족행위자 재산의 국가귀속에 관한 특별법이 12월부터 시행된다. 2010년 해산된 친일재산조사위원회가 16년 만에 부활하며, 최소 325억원 이상의 친일재산 환수가 예상된다.",
+      "sourceLink": "https://news.google.com/search?q=친일재산조사위+16년+부활+325억원+환수+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aged official government documents and court case files stacked on a wooden desk under a focused overhead spotlight, a small national flag pin resting beside a pen on a formal desk surface, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "민주당 수도권 경선",
+      "title": "민주당 서울·경기 경선 결과 공개",
+      "summary": "더불어민주당이 16일 서울·경기 순회경선을 진행하고 당원투표 결과를 발표했습니다. 호남 압승의 후속으로 김민석 후보가 대세론을 굳힐지, 정청래 후보의 역전극이 펼쳐질지 주목됩니다.",
+      "sourceTitle": "민주, 오늘 서울·경기 경선 결과 발표…김민석 '대세론' vs 정청래 '대역전극'",
+      "sourceDesc": "더불어민주당이 16일 서울·경기 순회경선을 실시하고 결과를 발표했다. 호남에서 과반을 차지한 김민석 후보가 대세론을 굳힐지, 정청래 후보가 역전극을 펼칠지 최대 관심사로 꼽혔다.",
+      "sourceLink": "https://news.google.com/search?q=민주당+서울+경기+순회경선+결과+김민석+정청래+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Large indoor convention arena with a central stage and surrounding tiered empty seats, dramatic spotlights illuminating a podium beneath hanging banners, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "SK·엔비디아 AI 동맹",
+      "title": "SK 최태원·젠슨 황, GTC 2026 재회",
+      "summary": "최태원 SK 회장이 미국 새너제이에서 열린 GTC 2026 콘퍼런스를 방문해 젠슨 황 CEO와 재회했습니다. AI 메모리와 반도체 협력 확대를 논의하며 양사 동맹 관계를 더욱 굳혔습니다.",
+      "sourceTitle": "[GTC 2026] 최태원·젠슨황, 한달만 재회···'엔비디아 가장 큰 고객사'",
+      "sourceDesc": "최태원 SK그룹 회장과 젠슨 황 엔비디아 CEO가 16일(현지시간) 미국 새너제이에서 열린 'GTC 2026'에서 재회했다. 최 회장은 황 CEO의 기조연설을 VIP석에서 지켜봤으며 SK하이닉스 AI 메모리 협력을 논의했다.",
+      "sourceLink": "https://news.google.com/search?q=최태원+SK+GTC+2026+젠슨황+엔비디아+재회+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Futuristic AI technology conference exhibition floor with rows of glowing server hardware displays and geometric LED light installations, wide-angle view of a cavernous modern convention hall, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-16 저녁 브리핑\n\n1. 통상 수장 경질, 장관 긴급 방미\n2. 전남광주 폭우, 목포 기록적 물폭탄\n3. 친일재산조사위 16년 만에 부활\n4. 민주당 서울·경기 경선 결과 공개\n5. SK 최태원·젠슨 황, GTC 2026 재회\n\n오늘 낮에도 물어왔습니다 🦆 내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #한미관세 #통상협상 #폭우 #전남광주 #친일재산 #민주당전당대회 #GTC2026 #SK하이닉스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
