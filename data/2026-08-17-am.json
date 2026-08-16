@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-17",
+  "slot": "am",
+  "hookLine": "청년 취업자가 10만명 가까이 줄었습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제·AI",
+      "kicker": "일자리 위기",
+      "title": "AI 여파 청년 취업 10만명 가까이 감소",
+      "summary": "AI 확산으로 청년 취업자가 10만명 가까이 줄어드는 추세입니다. 정보통신업 등 AI 고노출 업종에서 신입 채용이 크게 줄며 청년 일자리 위기가 심화되고 있습니다.",
+      "sourceTitle": "신입 대신 AI?…'이 업종' 청년 취업 10만명 가까이 '뚝'",
+      "sourceDesc": "지난 7월 15~29세 청년층 취업자가 전년 동월 대비 크게 줄면서 45개월째 감소세가 이어졌다. 정보통신업과 전문·과학기술서비스업 등 AI 고노출 업종에서 청년 취업 감소가 집중됐고, 신입 대신 경력직과 AI 도입을 선호하는 채용 문화가 확산되는 것으로 나타났다.",
+      "sourceLink": "https://news.google.com/search?q=청년+취업+AI+10만명+감소+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty open-plan office at dawn, rows of unoccupied workstations with dark computer monitors and scattered documents, fluorescent lights casting a cold blue-white glow over vacant ergonomic chairs, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "국제·안보",
+      "kicker": "한미 동맹",
+      "title": "한미 UFS 연합훈련 오늘 17일 개시",
+      "summary": "한미 을지 자유의 방패(UFS) 연합훈련이 오늘 17일부터 27일까지 진행됩니다. 한국군 약 1만8천명을 포함해 총 2만1천명 병력이 참가하며 드론·사이버 위협 대응 시나리오를 강화했습니다.",
+      "sourceTitle": "한·미 17일부터 UFS 연습…북한 무력시위 나서나",
+      "sourceDesc": "한미는 17일부터 27일까지 을지 자유의 방패(UFS) 연합연습을 진행한다. 한국군 약 1만8천명을 포함해 총 2만1천명 병력이 참가하며, 드론·GPS 교란·사이버 위협 대응 시나리오를 대폭 강화했다.",
+      "sourceLink": "https://news.google.com/search?q=한미+UFS+을지프리덤실드+2026+8월17일&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Military command post with maps and tactical communications equipment spread across a dark briefing table, dimly lit with focused overhead lamps, stacked field manuals visible in the background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "민주당 지도부",
+      "title": "민주당 전당대회 오늘 대전서 개막",
+      "summary": "더불어민주당이 오늘 대전컨벤션센터에서 전당대회를 열고 새 당대표와 최고위원을 선출합니다. 최초 1인 1표제가 적용되며 오후 6시 이후 최종 결과가 발표될 예정입니다.",
+      "sourceTitle": "민주당 오늘 대전서 전당대회…당대표 선출 최대 관심사",
+      "sourceDesc": "더불어민주당이 17일 대전컨벤션센터에서 제3차 정기전국당원대회를 열고 새 당대표와 최고위원 5명을 선출한다. 오후 6시 이후 최종 당선자를 발표할 예정이며, 최초로 1인 1표제가 적용돼 관심이 집중됐다.",
+      "sourceLink": "https://news.google.com/search?q=민주당+전당대회+2026+8월17일+대전+당대표+선출&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Large indoor convention hall with a central stage and tiered empty seating, dramatic spotlights illuminating a speaker podium beneath broad hanging banners, rows of unoccupied red seats stretching to the rear, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "대미 투자 협상",
+      "title": "장관 방미 속 대미 투자 발표 8월 말 목표",
+      "summary": "산업장관 방미 후속으로, 8월 말에서 9월 초 대미 투자 프로젝트 발표를 목표로 협상을 이어가고 있습니다. 과잉생산 관련 추가 관세 등 통상 현안도 함께 논의 중입니다.",
+      "sourceTitle": "김정관 산업장관 \"'8말9초' 대미 투자 발표, 어떻게든 관철하려 방미\"",
+      "sourceDesc": "김정관 산업통상부 장관이 8월 말에서 9월 초 대미 투자 프로젝트 발표를 목표로 미국에서 협상을 이어가고 있다. 과잉생산 관련 추가 관세 등 통상 현안도 함께 논의할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=김정관+산업장관+방미+대미투자+관세+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Row of national flags on tall poles outside a glass and steel government building at sunrise, an empty diplomatic reception area visible through wide entrance doors, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "유통 재건",
+      "title": "홈플러스 TF 회의, 경영 정상화 점검",
+      "summary": "재정경제부가 홈플러스 관련 관계기관 전담반(TF) 회의를 열어 경영 정상화 현황을 점검했습니다. 홈플러스 영업 재개 상황과 근로자·협력업체 지원 실적도 확인했습니다.",
+      "sourceTitle": "재정경제부, 홈플러스 관련 관계기관 전담반(TF) 회의 개최",
+      "sourceDesc": "강기룡 재정경제부 차관보가 정부서울청사에서 홈플러스 관련 관계기관 전담반(TF) 회의를 개최했다. 홈플러스 영업 재개 상황과 근로자·협력업체 지원 실적을 점검하고 경영 정상화 방안을 논의했다.",
+      "sourceLink": "https://news.google.com/search?q=홈플러스+TF+회의+경영+정상화+재정경제부+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Wide-angle view of a large supermarket aisle at closing time, fluorescent overhead lights illuminating rows of neatly stocked shelves and empty shopping carts lined near the exit, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-17 아침 브리핑\n\n1. AI 여파 청년 취업 10만명 가까이 감소\n2. 한미 UFS 연합훈련 17일 개시\n3. 민주당 전당대회 오늘 대전서 개막\n4. 장관 방미 속 대미 투자 발표 8월 말 목표\n5. 홈플러스 TF 회의, 경영 정상화 점검\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #AI #청년취업 #일자리 #한미훈련 #UFS #을지프리덤실드 #민주당 #전당대회 #대미투자 #관세협상 #홈플러스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
