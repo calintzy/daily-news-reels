@@ -6,6 +6,7 @@
 
 import {
   readFileSync,
+  writeFileSync,
   existsSync,
   mkdirSync,
   copyFileSync,
@@ -14,7 +15,8 @@ import {
 } from "node:fs";
 import { dirname, join, basename } from "node:path";
 import { fileURLToPath } from "node:url";
-import { execFileSync } from "node:child_process";
+import { execFileSync, spawnSync } from "node:child_process";
+import { generateNarration } from "./tts.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -31,6 +33,47 @@ function run(cmd, args, opts = {}) {
   const out = execFileSync(cmd, args, { stdio: ["ignore", "pipe", "pipe"], ...opts });
   // stdio가 inherit면 out이 null이므로 방어
   return out ? out.toString().trim() : "";
+}
+
+// stderr가 필요한 도구용(ffmpeg volumedetect는 측정값을 info 레벨 stderr로만 낸다)
+function runStderr(cmd, args) {
+  const r = spawnSync(cmd, args, { encoding: "utf-8" });
+  return r.stderr || "";
+}
+
+// A/B 팔 결정: 강제 오버라이드 → 전역 킬스위치 → 일(DD) 짝/홀 카운터밸런싱
+function resolveArm(stem, slot) {
+  const forced = process.env.REELS_ARM;
+  if (forced === "tts" || forced === "control") return forced;
+  if (process.env.TTS_ENABLED !== "1") return "control";
+  const even = Number(stem.slice(8, 10)) % 2 === 0;
+  // pm은 am과 반대 배정. slot이 null이면 am과 동일 규칙.
+  if (slot === "pm") return even ? "control" : "tts";
+  return even ? "tts" : "control";
+}
+
+// TTS 필터 그래프 — 입력 0=무음영상, 1=음악, 2..=세그먼트 mp3
+// 스트림은 전부 [N:a]로 명시한다(음악 mp3에 커버아트 스트림이 있어 자동 선택 금지).
+function buildTtsFilter(segments, expectedSec, fadeStart) {
+  const chains = [
+    `[1:a]atrim=0:${expectedSec.toFixed(3)},loudnorm=I=-16,afade=t=out:st=${fadeStart}:d=2,volume=0.22[m]`,
+  ];
+  const labels = [];
+  segments.forEach((s, idx) => {
+    const k = idx + 1;
+    // 순서 고정: atempo(가속) → adelay(시작 위치). 반대면 지연까지 가속돼 위치가 틀어진다.
+    const tempo = s.atempo === 1 ? "" : `atempo=${s.atempo.toFixed(3)},`;
+    chains.push(`[${idx + 2}:a]${tempo}adelay=${s.delayMs}:all=1[d${k}]`);
+    labels.push(`[d${k}]`);
+  });
+  chains.push(
+    `${labels.join("")}amix=inputs=${segments.length}:normalize=0:dropout_transition=0[nar]`
+  );
+  chains.push(`[nar]loudnorm=I=-16[narn]`);
+  chains.push(
+    `[m][narn]amix=inputs=2:normalize=0:dropout_transition=0,alimiter=limit=0.95[a]`
+  );
+  return chains.join(";");
 }
 
 async function main() {
@@ -99,21 +142,57 @@ async function main() {
   mkdirSync(videosDir, { recursive: true });
   const finalMp4 = join(videosDir, `${stem}.mp4`);
   const fadeStart = Math.max(0, expectedSec - 2).toFixed(2);
+
+  // TTS 나레이션 A/B — 팔 결정 후, tts 팔이면 세그먼트 생성(실패 시 control 폴백)
+  const arm = resolveArm(stem, slot);
+  let armRecord = arm;
+  let segments = null;
+  if (arm === "tts") {
+    try {
+      segments = await generateNarration(data, join(REELS, "out", `tts-${stem}`));
+    } catch (e) {
+      segments = null;
+      armRecord = "control-fallback";
+      const reason = String(e.message || e).split("\n")[0];
+      console.error(`TTS 생성 실패 — control 폴백: ${reason}`);
+      try {
+        run("node", [
+          join(ROOT, "scripts", "telegram.mjs"),
+          "fail",
+          `TTS 폴백: ${stem} — ${reason}`,
+        ]);
+      } catch {
+        // best-effort — TG env 미설정 등으로 실패해도 렌더는 계속한다
+      }
+    }
+  }
+
   console.log("음악 합성…");
-  run("ffmpeg", [
-    "-y",
-    "-i", silentMp4,
-    "-i", music,
-    "-filter_complex",
-    `[1:a]atrim=0:${expectedSec.toFixed(3)},loudnorm=I=-16,afade=t=out:st=${fadeStart}:d=2,volume=0.4[a]`,
+  const ffArgs = ["-y", "-i", silentMp4, "-i", music];
+  let filterComplex;
+  if (segments) {
+    for (const s of segments) ffArgs.push("-i", s.file);
+    filterComplex = buildTtsFilter(segments, expectedSec, fadeStart);
+  } else {
+    filterComplex = `[1:a]atrim=0:${expectedSec.toFixed(3)},loudnorm=I=-16,afade=t=out:st=${fadeStart}:d=2,volume=0.4[a]`;
+  }
+  ffArgs.push(
+    "-filter_complex", filterComplex,
     "-map", "0:v",
     "-map", "[a]",
     "-c:v", "copy",
     "-c:a", "aac",
     "-shortest",
-    finalMp4,
-  ]);
+    finalMp4
+  );
+  run("ffmpeg", ffArgs);
   console.log(`영상 산출: docs/videos/${stem}.mp4`);
+
+  // 팔 기록물 — A/B 평가의 진실원
+  const armsDir = join(ROOT, "docs", "arms");
+  mkdirSync(armsDir, { recursive: true });
+  writeFileSync(join(armsDir, `${stem}.txt`), `${armRecord}\n`, "utf-8");
+  console.log(`팔: ${armRecord}`);
 
   // 4) 프레임 캡처 (hook / issue1 / outro)
   const prevDir = join(ROOT, "docs", "previews");
@@ -163,6 +242,58 @@ async function main() {
     console.error("렌더 검증 실패");
     process.exit(1);
   }
+
+  // 5-1) 오디오 상설 게이트: 스트림 존재 + 길이
+  const aLines = run("ffprobe", [
+    "-v", "error",
+    "-select_streams", "a:0",
+    "-show_entries", "stream=codec_type,duration",
+    "-of", "default=noprint_wrappers=1:nokey=1",
+    finalMp4,
+  ])
+    .split("\n")
+    .map((s) => s.trim())
+    .filter(Boolean);
+  const hasAudio = aLines[0] === "audio";
+  // 스트림 duration이 N/A인 컨테이너도 있어 그때는 컨테이너 길이로 대체
+  const aDur = Number.isFinite(Number(aLines[1])) ? Number(aLines[1]) : duration;
+  const okADur = Math.abs(aDur - expectedSec) <= 0.5;
+  console.log(
+    `오디오 검증: 스트림 ${hasAudio ? "OK" : "FAIL"} | ${aDur.toFixed(2)}s (기대 ${expectedSec.toFixed(1)}±0.5) ${okADur ? "OK" : "FAIL"}`
+  );
+  if (!(hasAudio && okADur)) {
+    console.error("오디오 검증 실패");
+    process.exit(1);
+  }
+
+  // 5-2) tts 팔(폴백 아님)이면 세그먼트 시작 창의 음량으로 나레이션 존재를 확인
+  if (armRecord === "tts" && segments) {
+    let narOk = true;
+    for (let i = 0; i < segments.length; i++) {
+      const t = (segments[i].delayMs / 1000).toFixed(2);
+      const err = runStderr("ffmpeg", [
+        "-hide_banner",
+        "-nostats",
+        "-ss", t,
+        "-t", "1",
+        "-i", finalMp4,
+        "-map", "a:0",
+        "-af", "volumedetect",
+        "-f", "null",
+        "-",
+      ]);
+      const m = /mean_volume:\s*(-?[\d.]+) dB/.exec(err);
+      const mean = m ? Number(m[1]) : -Infinity;
+      const ok = mean >= -28;
+      if (!ok) narOk = false;
+      console.log(`창${i + 1}: ${m ? mean.toFixed(1) : "-inf"}dB ${ok ? "OK" : "FAIL"}`);
+    }
+    if (!narOk) {
+      console.error("나레이션 검증 실패");
+      process.exit(1);
+    }
+  }
+
   console.log("render: PASS");
 }
 
