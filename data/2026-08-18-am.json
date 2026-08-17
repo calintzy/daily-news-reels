@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-18",
+  "slot": "am",
+  "hookLine": "거제에 사흘간 900㎜, 1명 숨졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회·재난",
+      "kicker": "200년만의 물폭탄",
+      "title": "거제 사흘간 900㎜…피해신고 2300건",
+      "summary": "광복절 연휴 경남 거제에 사흘간 900㎜에 달하는 극한호우가 쏟아졌습니다. 피해 신고가 2300건을 넘었고 산사태로 1명이 숨졌습니다.",
+      "narration": null,
+      "sourceTitle": "남부 극한호우 피해신고 2300건 넘어…거제에 사흘간 900㎜ '물폭탄'",
+      "sourceDesc": "17일 중앙재난안전대책본부에 따르면 이날 오후 5시 기준 호우 피해 신고는 주택·도로 침수와 수목 전도 등 총 2324건으로 집계됐다. 경남 거제에 지난 15일부터 900㎜의 비가 쏟아지면서 1명이 숨지고 4명이 다쳤다. 거제시 옥포동에서 산사태가 발생해 인근 아파트를 덮쳤다.",
+      "sourceLink": "https://news.google.com/search?q=거제+극한호우+900mm+2300건",
+      "imagePrompt": "Flooded Korean residential street with submerged cars and debris after extreme rainfall, dark storm clouds overhead, orange emergency cones and barriers, no people, no text, vertical 9:16 composition, photojournalism documentary style, dramatic overcast lighting"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "새 당대표 선출",
+      "title": "민주당 전당대회, 김민석 54.08% 선출",
+      "summary": "더불어민주당이 17일 대전에서 전당대회를 열고 김민석 의원을 신임 당대표로 선출했습니다. 최종 득표율 54.08%로 정청래 의원을 누르고 당선됐습니다.",
+      "narration": "민주당 새 지도부에 김민석 대표가 선출됐습니다.",
+      "sourceTitle": "[속보] 김민석, 민주당 신임 당대표 선출 '득표율 54.08%'···선호투표 반영",
+      "sourceDesc": "2026년 8월 17일 대전컨벤션센터에서 열린 민주당 전당대회에서 김민석 의원이 최종 득표율 54.08%를 기록하며 신임 당대표로 선출됐다. 정청래 의원은 45.92%를 얻었다. 1차 투표에서 과반 득표자가 없어 선호투표제가 적용됐다.",
+      "sourceLink": "https://news.google.com/search?q=민주당+전당대회+김민석+당대표",
+      "imagePrompt": "Empty Korean political convention hall with large stage, podium with microphone, blue and white party banners, rows of vacant chairs, no people, no text, vertical 9:16 composition, photojournalism documentary style, bright stage lighting"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "역대 최대 드론 공습",
+      "title": "우크라, 모스크바에 드론 600대 이상 공습",
+      "summary": "우크라이나가 러시아 수도 모스크바를 향해 드론 600대 이상을 발사하는 역대 최대급 공습을 감행했습니다. 러시아도 우크라이나 최대 제철소를 공습해 사상자가 발생했습니다.",
+      "narration": "우크라이나가 역대 최대 드론으로 모스크바를 공격했습니다.",
+      "sourceTitle": "러, 우크라 최대 제철소 공습…우크라는 모스크바권 대규모 드론 공격",
+      "sourceDesc": "러시아 국방부는 우크라이나의 드론 822대를 요격했다고 밝혔다. 이중 약 600대가 모스크바를 향한 것으로 알려졌으며 개전 이후 모스크바 지역 최대 규모다. 러시아는 우크라이나 최대 제철소 공습으로 최소 2명이 숨지고 14명이 다쳤다.",
+      "sourceLink": "https://news.google.com/search?q=우크라이나+드론+모스크바+공격+2026",
+      "imagePrompt": "Night city skyline with multiple glowing drone trails streaking across dark sky, distant industrial silhouette with fire and smoke on horizon, no people, no text, vertical 9:16 composition, photojournalism documentary style, dramatic backlighting"
+    },
+    {
+      "rank": 4,
+      "category": "안보",
+      "kicker": "한미 연합연습 개시",
+      "title": "한미 UFS 을지 자유의 방패, 17일 시작",
+      "summary": "한미 군 당국이 17일부터 '을지 자유의 방패(UFS)' 연합연습을 시작했습니다. 11일간 진행되는 이번 훈련에는 드론 대응과 사이버 공격 대비 등 새로운 시나리오가 포함됩니다.",
+      "narration": "한미 을지 자유의 방패 연합훈련이 시작됐습니다.",
+      "sourceTitle": "한미, UFS 오늘 시작… 트럼프 축소 지시에도 \"계획대로 진행\"",
+      "sourceDesc": "한미 군 당국이 17일부터 27일까지 11일간 '을지 자유의 방패(UFS)' 연합연습에 돌입했다. 한국군 약 1만8000명이 참여하며 드론 대응, GPS 교란, 사이버 공격 등 새 시나리오가 포함된다. 트럼프 대통령의 축소 지시에도 계획대로 진행된다고 군 당국은 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=한미연합훈련+을지자유의방패+UFS+2026",
+      "imagePrompt": "Military fighter jets in tight formation flying over mountainous Korean terrain, dramatic low angle shot, atmospheric haze and sunlight glare on wings, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "사회·범죄",
+      "kicker": "딥페이크 도박 사기",
+      "title": "딥페이크로 강원랜드 사칭, 58명 검거",
+      "summary": "경찰이 강원랜드를 사칭한 불법 온라인 카지노를 운영한 러시아계 외국인 등 58명을 검거하고 이 중 5명을 구속했습니다. 이들은 딥페이크 영상으로 홍보해 4만여 명의 국내 회원을 유치했습니다.",
+      "narration": "딥페이크로 강원랜드를 사칭한 불법 도박단이 검거됐습니다.",
+      "sourceTitle": "강원랜드 사칭해 780억원대 불법 도박…러시아계 일당 58명 검거",
+      "sourceDesc": "경북경찰청 사이버수사대는 강원랜드를 사칭하며 해외 서버를 둔 불법 도박사이트 국내 총책 러시아계 외국인 등 58명을 검거하고 5명을 구속했다. 딥페이크 영상으로 홍보해 4만여 명의 국내 회원을 유치했고 약 780억 원 도박 자금이 입금됐다.",
+      "sourceLink": "https://news.google.com/search?q=강원랜드+사칭+딥페이크+불법도박+검거",
+      "imagePrompt": "Close-up of a cracked smartphone screen showing a fake casino interface with blurred casino chips and cards in background, dark moody studio lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-18 아침 브리핑\n\n1. 거제 사흘간 900㎜…피해신고 2300건\n2. 민주당 전당대회, 김민석 54.08% 선출\n3. 우크라, 모스크바에 드론 600대 이상 공습\n4. 한미 UFS 을지 자유의 방패, 17일 시작\n5. 딥페이크로 강원랜드 사칭, 58명 검거\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #재난 #폭우 #거제 #정치 #국제 #한미훈련 #딥페이크\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
