@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-17",
+  "slot": "pm",
+  "hookLine": "거제 813㎜ 물폭탄, 산사태로 1명 숨졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회·재난",
+      "kicker": "극한 호우",
+      "title": "거제 813㎜ 물폭탄, 산사태로 아파트서 1명 사망",
+      "summary": "경남 거제에 813㎜ 폭우가 쏟아지며 산사태가 발생해 아파트 1층을 덮쳤습니다. 매몰된 주민 1명이 숨지고 4명이 부상을 입었습니다.",
+      "sourceTitle": "남해안 폭우에 1명 사망·4명 부상...거제 813㎜ '물폭탄'",
+      "sourceDesc": "광복절인 15일부터 17일 오전 10시까지 거제의 누적 강수량은 813㎜를 기록했다. 17일 오전 4시 42분쯤 경남 거제시 옥포동의 한 아파트 인근에서 산사태가 발생해 아파트 1층을 덮쳤다. 경찰과 소방당국은 매몰된 1층에서 주민 2명을 구조하고, 심정지 상태로 발견된 주민 1명을 추가로 구조해 병원으로 이송했지만 이 주민은 끝내 숨졌다. 이번 폭우로 남해안 일대에서 1명이 사망하고 4명이 부상을 입었다.",
+      "sourceLink": "https://news.google.com/search?q=거제+813mm+폭우+산사태+아파트+사망+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Flooded city street with muddy brown water and scattered debris from a landslide, collapsed hillside mud and rocks covering the road below apartment buildings, emergency warning lights reflecting off deep water puddles, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "국제·안보",
+      "kicker": "우크라-러 전쟁",
+      "title": "우크라, 드론 822대로 모스크바 역대 최대 공격",
+      "summary": "우크라이나가 드론 822대를 동원해 모스크바주를 역대 최대 규모로 공격했습니다. 러시아는 탄도미사일과 드론으로 응수해 키이우 등 주요 도시를 타격했습니다.",
+      "sourceTitle": "러시아 \"모스크바주 겨냥 역대 최대 공격\"…우크라 드론 822대 요격",
+      "sourceDesc": "우크라이나가 드론 822대를 동원해 모스크바주를 역대 최대 규모로 공격했다. 러시아 국방부는 자국 전역에서 우크라이나 드론 822대를 요격했으며, 약 600대가 모스크바를 겨냥했다고 밝혔다. 러시아군은 탄도미사일·드론을 동원해 수도 키이우와 드니프로페트로우스크주 등을 공격했다.",
+      "sourceLink": "https://news.google.com/search?q=우크라이나+드론+모스크바+역대최대+공격+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Night aerial view of an industrial warehouse complex engulfed in towering orange flames, thick black smoke column rising against a dark sky with distant city lights visible at the horizon through the haze, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "민주당 당권",
+      "title": "민주당 전당대회 후속: 김민석 당대표 당선 유력",
+      "summary": "전날 개막한 민주당 전당대회 후속 소식으로, 김민석 후보가 권리당원 득표율 49.91%로 선두를 지키며 당대표 당선이 유력합니다. 대의원 투표와 국민 여론조사를 합산한 최종 결과가 오늘 저녁 발표됩니다.",
+      "sourceTitle": "민주당 권리당원들은 김민석 손 들었다…오늘 최종 당 대표 선출",
+      "sourceDesc": "더불어민주당 8·17 전당대회에서 권리당원 투표 결과 김민석 후보가 누적 득표율 49.91%로 1위를 기록했다. 정청래 후보는 41.50%, 송영길 후보는 8.57%였다. 최종 당대표는 대의원 투표와 국민 여론조사 30%를 합산해 이날 오후 6~7시 발표될 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=민주당+전당대회+김민석+당대표+2026+8월17일&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Large empty convention hall stage lit with dramatic spotlights above a speaker's podium, rows of unoccupied audience seats stretching back under high ceilings, an oversized digital scoreboard display glowing above the stage, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "경제·AI",
+      "kicker": "반도체 투자",
+      "title": "삼성·SK, 상반기 AI반도체 시설투자 43조 35% 확대",
+      "summary": "삼성전자와 SK하이닉스가 올해 상반기 AI 반도체 시설에 43조원이 넘는 투자를 단행했습니다. 전년 동기보다 35% 확대된 것으로 AI 수요 대응을 위한 공격적 투자입니다.",
+      "sourceTitle": "AI 반도체에 43조 쏟았다…삼성·SK, 투자 35% 확대",
+      "sourceDesc": "삼성전자와 SK하이닉스가 AI 반도체 수요 확대에 대응해 올해 상반기에만 43조원이 넘는 시설투자를 단행했다. 양사의 상반기 반도체 시설투자 총액은 43조1980억원으로 전년 동기 31조9751억원보다 35.1% 증가했으며, SK하이닉스의 시설투자는 56.4% 늘었다.",
+      "sourceLink": "https://news.google.com/search?q=삼성+SK+AI반도체+상반기+시설투자+43조+35%+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a silicon semiconductor wafer inside a pristine clean room, circular disc reflecting iridescent rainbow patterns under cool white fluorescent lighting, stainless steel processing equipment visible in the soft background blur, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "국제·재난",
+      "kicker": "인도네시아 강진",
+      "title": "인도네시아 규모 7.7 강진, 사망 47명으로 늘어",
+      "summary": "인도네시아 플로레스섬 인근에서 규모 7.7의 강진이 발생해 사망자가 47명으로 늘었습니다. 산사태로 도로가 막히고 통신이 끊겨 구조에 어려움이 이어지고 있습니다.",
+      "sourceTitle": "\"도로 막히고 통신 끊겨\"…인도네시아 7.7 강진에 47명 사망",
+      "sourceDesc": "인도네시아 플로레스섬 인근에서 규모 7.7의 강진이 발생해 사망자가 47명으로 늘었다. 산사태로 도로가 차단되고 통신이 끊기면서 구조 작업에 어려움이 있으며, 진앙 인근 주민 약 2000명이 대피했다.",
+      "sourceLink": "https://news.google.com/search?q=인도네시아+플로레스+규모7.7+강진+사망+2026+8월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Mountain road destroyed by a massive landslide with enormous boulders and brown earth piled across the tarmac, tropical vegetation intact on the unaffected hillside beyond, cloudy grey sky overhead in a remote island landscape, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-17 저녁 브리핑\n\n1. 거제 813㎜ 물폭탄, 산사태로 아파트서 1명 사망\n2. 우크라, 드론 822대로 모스크바 역대 최대 공격\n3. 민주당 전당대회 후속: 김민석 당대표 당선 유력\n4. 삼성·SK, 상반기 AI반도체 시설투자 43조 35% 확대\n5. 인도네시아 규모 7.7 강진, 사망 47명으로 늘어\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #거제폭우 #집중호우 #산사태 #우크라이나 #러시아 #드론공격 #민주당 #전당대회 #김민석 #삼성전자 #SK하이닉스 #AI반도체 #인도네시아 #강진\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
