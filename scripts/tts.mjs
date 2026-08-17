@@ -10,7 +10,8 @@ import { join } from "node:path";
 import { pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 
-const VOICE = "ko-KR-SunHiNeural";
+// 2026-08-17 보이스 비교 청취(후보 5종)에서 선정 — SunHi는 AI 티 과다로 교체
+const VOICE = "ko-KR-HyunsuMultilingualNeural";
 const SLIDE_MS = 5300; // 이슈 슬라이드 1장 = 159f/30fps
 const BUDGET_SEC = 5.0; // 세그먼트 1개에 허용하는 낭독 예산
 const ATEMPO_MAX = 1.4;

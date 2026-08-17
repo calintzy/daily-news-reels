@@ -32,7 +32,7 @@ jobs:
 
       - name: edge-tts 스모크 (GitHub Actions IP 차단 여부 판정)
         run: |
-          edge-tts --voice ko-KR-SunHiNeural --text "테스트입니다" --write-media /tmp/smoke.mp3
+          edge-tts --voice ko-KR-HyunsuMultilingualNeural --text "테스트입니다" --write-media /tmp/smoke.mp3
           test -s /tmp/smoke.mp3
 
       - name: reels 의존성 설치
