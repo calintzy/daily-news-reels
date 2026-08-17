@@ -1,12 +1,18 @@
 name: insights
 
-# 릴스 인사이트 일회성 수집 — 훅 수술 전후 성과 평가용(수동 실행 전용)
+# 릴스 인사이트 수집 — 훅 수술 전후·TTS A/B·리믹스 판정용.
+# 매일 KST 05:00에 전 회차 누적 지표를 metrics/에 커밋해 시계열을 영속화한다
+# (누적 스냅샷의 일일 차분으로 발행 후 72시간 연령 고정 views를 계산할 수 있다 — 2026-08-18 critic M4).
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 20 * * *" # 20:00 UTC = 05:00 KST
 
 jobs:
   collect:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v5
 
@@ -18,6 +24,18 @@ jobs:
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
         run: node scripts/insights.mjs
+
+      - name: metrics/ 스냅샷 커밋
+        run: |
+          DATE=$(TZ=Asia/Seoul date +%F)
+          mkdir -p metrics
+          cp insights.json "metrics/${DATE}.json"
+          git config user.name calintzy
+          git config user.email byjrasid@gmail.com
+          git add metrics
+          git commit -m "metrics: ${DATE} 인사이트 스냅샷" || echo "변경 없음"
+          git pull --rebase origin main || true
+          git push
 
       - uses: actions/upload-artifact@v4
         with:
