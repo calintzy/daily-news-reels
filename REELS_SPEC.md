@@ -36,6 +36,7 @@
       "kicker": "인간 vs AI",
       "title": "제목 (32자 이내)",
       "summary": "존댓말 2문장, 110자 이내. 원문에 없는 고유명사·수치 추가 금지.",
+      "narration": "구어체 존댓말 한 문장 (30자 이내). rank 2 이상 필수적 작성.",
       "sourceTitle": "원문 기사 제목 (원문 그대로 동봉)",
       "sourceDesc": "RSS description 원문 (원문 그대로 동봉)",
       "sourceLink": "https://news.google.com/search?q=...",
@@ -58,6 +59,11 @@
 - `issues` — 4~6개. `rank`는 1부터 연속.
   - `title` — 32자 이내.
   - `summary` — **120자 초과 시 validate가 발행을 반려한다(07-24·25 이틀 연속 실측 — 하드 게이트)**. 안전하게 105자 이하로 쓴다. 문장 2개 이하, 존댓말 종결.
+  - `narration` — **TTS 낭독 대본. rank 2 이상 각 이슈에 작성한다. rank 1은 생략한다(hookLine이 rank 1 낭독을 겸함).** 규칙:
+    - 해당 이슈의 결론·핵심 변화를 **구어체 존댓말 한 문장, 30자 이내**로 쓴다(validate 하드 게이트). 문장은 1개만.
+    - 화면 자막(`title`·`summary`)의 문구를 그대로 복사하지 말고 같은 내용을 말로 풀어 쓴다 (예: title "중수청 10월 출범…2874명 체제 확정" → narration "10월부터 중대범죄 수사, 새 기관이 맡습니다").
+    - **사실성: 해당 이슈의 sourceTitle·sourceDesc에 있는 내용만** 쓴다. 원문에 없는 수치·고유명사를 넣으면 validate가 반려한다(rank 1 hookLine과 동일한 원문 대조 게이트).
+    - 용도: TTS 나레이션 A/B(2026-08-17 훅 수술 2단계)의 낭독 대본. narration이 없는 회차는 TTS 팔이어도 대조군으로 폴백된다(실험 표본에서 제외됨) — 그러니 반드시 쓴다.
   - `sourceTitle` + `sourceDesc` — 원문 그대로. **요약 사실성 대조의 기준**이 되므로 절대 각색하지 않는다.
   - `imagePrompt` — 영문만(한글 포함 시 FAIL). `no people`·`no text` 필수, 500자 이내.
 - `caption` — `Music: Kevin MacLeod (incompetech.com), CC BY 4.0` 필수, http 링크 0건, 2200자 이내.

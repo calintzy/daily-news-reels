@@ -2,7 +2,7 @@
 // TTS 나레이션 세그먼트 생성 — edge-tts CLI 래퍼
 // 사용법: node scripts/tts.mjs data/DATE.json <outDir>
 //   산출: <outDir>/seg-1..N.mp3 (+ 낭독 원문 seg-N.txt)
-//   대본: 세그먼트 1 = hookLine(이슈1 낭독 겸함), 세그먼트 k = rank k 이슈의 title
+//   대본: 세그먼트 1 = hookLine(이슈1 낭독 겸함), 세그먼트 k = rank k 이슈의 narration
 //   전제: edge-tts CLI가 PATH에 있어야 한다(없으면 예외 → 호출부가 폴백)
 
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
@@ -40,10 +40,18 @@ export async function generateNarration(data, outDir) {
   mkdirSync(outDir, { recursive: true });
   const issues = [...(data.issues || [])].sort((a, b) => a.rank - b.rank);
 
-  // 대본 구성: 1번은 hookLine(= rank1 결론이라 이슈1 title은 낭독하지 않는다)
-  const scripts = issues.map((issue, idx) =>
-    idx === 0 ? data.hookLine : issue.title
-  );
+  // 대본 구성: 1번은 hookLine(= rank1 결론이라 이슈1 title은 낭독하지 않는다).
+  // 2번 이후는 issue.narration(구어체 나레이션 문장)이며 title 폴백을 두지 않는다 —
+  // 화면 자막을 그대로 읽는 약한 대본으로 A/B 실험이 오염되는 것을 원천 차단하려는 의도다.
+  // narration이 없으면 예외를 던져 render.mjs의 기존 catch가 control-fallback + 텔레그램 경고로 처리한다.
+  const scripts = issues.map((issue, idx) => {
+    if (idx === 0) return data.hookLine;
+    const narration = typeof issue.narration === "string" ? issue.narration.trim() : "";
+    if (!narration) {
+      throw new Error(`narration 없음(rank ${issue.rank ?? idx + 1}) — TTS 대본 불가`);
+    }
+    return narration;
+  });
 
   const segments = [];
   for (let idx = 0; idx < scripts.length; idx++) {

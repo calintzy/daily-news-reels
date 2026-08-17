@@ -32,6 +32,7 @@ const {
 
 // ─── 상수 (최상위 구조·캡션 전용 — 공유 모듈 밖) ─────────────────
 const MAX_CAPTION_LEN = 2200;
+const MAX_NARRATION_LEN = 30; // TTS 낭독 대본 상한 — hookLine 30자 게이트와 동일 기준
 const MIN_ISSUES = 4;
 const MAX_ISSUES = 6;
 const MUSIC_CREDIT = "Music: Kevin MacLeod (incompetech.com), CC BY 4.0";
@@ -43,7 +44,8 @@ function checkFactuality(issue, label, violations) {
 }
 
 // ─── 핵심 검증 ───────────────────────────────────────────────────
-function validate(json) {
+// warnings: FAIL이 아닌 경고를 담는 배열(호출부가 출력). 도입기 필드(narration)의 부재 알림용.
+function validate(json, warnings = []) {
   const v = [];
 
   // (1) 구조: 최상위 필수 필드
@@ -111,6 +113,30 @@ function validate(json) {
     // (3) 사실성 게이트
     if (issue.summary && issue.title && issue.sourceTitle != null && issue.sourceDesc != null) {
       checkFactuality(issue, label, v);
+    }
+
+    // narration(TTS 낭독 대본, 2026-08-17 훅 수술 2단계):
+    //   존재하면 hookLine과 동일한 공유 프로브로 게이트한다 — 30자·존댓말·문장 1개·해당 이슈 원문 대조.
+    //   부재 시 FAIL이 아니라 경고만 남긴다(도입기 — 새 스펙 반영 전 데이터·과거 데이터의 발행을 막지 않는다).
+    const narration = typeof issue.narration === "string" ? issue.narration.trim() : "";
+    if (narration) {
+      // (1) 구조: 길이·문장 수
+      if (charLen(narration) > MAX_NARRATION_LEN) {
+        v.push(`[구조] ${label}.narration ${charLen(narration)}자 > ${MAX_NARRATION_LEN}자`);
+      }
+      const nsc = splitSentences(narration).length;
+      if (nsc > 1) v.push(`[구조] ${label}.narration 문장 ${nsc}개 > 1개`);
+
+      // (2) 문체: 존댓말 종결 — hookLine과 동일 판정
+      checkHonorific(narration, `${label}.narration`, v);
+
+      // (3) 사실성: 그 이슈의 sourceTitle+sourceDesc 대조 — hookLine의 rank1 대조와 동일 방식
+      if (issue.sourceTitle != null && issue.sourceDesc != null) {
+        const src = `${issue.sourceTitle || ""} ${issue.sourceDesc || ""}`;
+        sharedCheckFactuality(narration, "", src, v, `[사실성] ${label}.narration(원문 대조)`);
+      }
+    } else if ((issue.rank ?? i + 1) >= 2) {
+      warnings.push(`경고: rank ${issue.rank ?? i + 1} narration 없음 — TTS 팔이면 대조군 폴백됨`);
     }
 
     // 이미지 프롬프트: 영문만(한글 유입 차단), no people·no text 필수, 500자 이내
@@ -230,7 +256,9 @@ function main() {
     console.error(`[파싱 오류] ${e.message}`);
     process.exit(1);
   }
-  const violations = validate(json);
+  const warnings = [];
+  const violations = validate(json, warnings);
+  for (const w of warnings) console.error(w);
   if (violations.length === 0) {
     console.log("validate: PASS");
     process.exit(0);
