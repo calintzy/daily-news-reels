@@ -1,0 +1,25 @@
+name: insights
+
+# 릴스 인사이트 일회성 수집 — 훅 수술 전후 성과 평가용(수동 실행 전용)
+on:
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "20"
+
+      - name: 인사이트 수집
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: node scripts/insights.mjs
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: insights
+          path: insights.json
