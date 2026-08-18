@@ -34,8 +34,10 @@ async function api(path, params, method = "GET") {
   return json;
 }
 
-// C1: HEAD 요청 지수 백오프 — 200 + content-length가 로컬 크기와 일치할 때까지(최대 5분)
-async function waitUrl(url, expectedBytes, { maxMs = 300000 } = {}) {
+// C1: HEAD 요청 지수 백오프 — 200 + content-length가 로컬 크기와 일치할 때까지(최대 15분)
+// 5분→15분(2026-08-19): docs/ 용량 증가로 Pages 배포가 10분+ 걸려 첫 오리 기자 발행이 타임아웃.
+// 근본 해결은 저장소 용량 정리(백로그) — 이건 그때까지의 안전 마진.
+async function waitUrl(url, expectedBytes, { maxMs = 900000 } = {}) {
   const start = Date.now();
   let delay = 5000;
   let attempt = 0;
@@ -66,7 +68,7 @@ async function waitUrl(url, expectedBytes, { maxMs = 300000 } = {}) {
     await sleep(delay);
     delay = Math.min(delay * 1.4, 30000);
   }
-  throw new Error(`프리플라이트 5분 초과: ${url}`);
+  throw new Error(`프리플라이트 ${Math.round(maxMs / 60000)}분 초과: ${url}`);
 }
 
 // C2: status_code 폴링 — FINISHED 대기(최대 5분), 15초→최대 60초 점증
