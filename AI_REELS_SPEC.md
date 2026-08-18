@@ -16,7 +16,10 @@
   - 데이터 안 `date` 필드는 그대로 `YYYY-MM-DD`를 쓴다(파일명의 `ai-` 접두는 붙이지 않는다).
 - **`"account": "aibrief"` 필수.** 이 필드가 없거나 파일명이 `ai-` 접두가 아니면 `validate.mjs`가 FAIL한다
   (계정-파일명 정합 게이트 — 잘못된 계정으로 게시되는 사고를 막는다).
-- 언어: 한국어 (요약·훅·나레이션). 이미지 프롬프트만 영문.
+- 언어: 한국어 (요약·훅·나레이션).
+- **이미지를 쓰지 않는다(무료 버전 — 사진 대신 키 스탯 타이포 지면).** 데이터에 `imagePrompt` 필드를 넣지 않는다.
+  `genimages.mjs`는 `account: "aibrief"`를 보면 이미지 생성을 스킵하고, `render.mjs`도 이미지 게이트 없이
+  `noPhotos: true`로 렌더한다.
 - 완료 후: `git add data/ai-YYYY-MM-DD.json` → commit (`ai reels: YYYY-MM-DD`) → push.
 - **ai 데이터 파일은 반드시 단독 커밋한다.** 다른 `data/*.json`(물어오리 회차 등)과 같은 커밋에 넣지 않는다 —
   빌드의 스템 결정이 변경된 data 파일 중 **첫 파일 하나만** 잡으므로, 같이 커밋하면 한쪽 회차가 통째로 누락된다.
@@ -40,8 +43,7 @@
       "narration": "구어체 존댓말 한 문장 (25자 안팎, 30자 하드 상한). rank 2 이상 필수.",
       "sourceTitle": "원문 기사 제목 (원문 그대로 동봉)",
       "sourceDesc": "RSS description 원문 (원문 그대로 동봉)",
-      "sourceLink": "https://news.google.com/search?q=...",
-      "imagePrompt": "영문 photojournalism 프롬프트. 반드시 'no people'과 'no text' 포함, 세로 9:16."
+      "sourceLink": "https://news.google.com/search?q=..."
     }
   ],
   "caption": "인스타 캡션 (이슈 제목 목록 + 해시태그 + CC-BY 표기). http 링크 금지.",
@@ -52,13 +54,15 @@
 물어오리 계약과 **같은 것**(전부 `scripts/validate.mjs`가 동일 게이트로 강제):
 `date`, `hookLine`(30자·존댓말·rank1 원문 대조), `issues` 4~6개·rank 연속, `title` 32자,
 `summary` 110자·2문장·존댓말·사실성, `narration` 30자·1문장·존댓말·해당 이슈 원문 대조,
-`sourceTitle`/`sourceDesc` 원문 그대로, `imagePrompt` 영문·`no people`·`no text`·500자,
+`sourceTitle`/`sourceDesc` 원문 그대로,
 `caption` 2200자·http 금지·음악 크레딧 필수.
 
 **다른 것**:
 
 - `account` — **필수. `"aibrief"`.**
 - `slot` — 쓰지 않는다(1일 1회).
+- `imagePrompt` — **쓰지 않는다.** 오리 기자는 사진 없는 무료 버전이라 이미지를 생성하지 않는다
+  (`validate.mjs`도 aibrief에 한해 이 필드를 선택 항목으로 취급한다).
 - `selection` — `{"spec": "ai-v1", "signalSources": {}, "signalHits": []}`로 고정한다.
   AI 트랙은 v1에서 관심 신호 소스(트렌드·네이트)를 쓰지 않는다. `spec`이 `ai-v1`이므로 물어오리의
   리믹스 표본(`remix-v1`)과 사후 집계에서 구분된다.
@@ -87,9 +91,10 @@
      rank 1이 곧 훅(hookLine 원천)이다.
   5. rank 2~5는 1~4를 통과한 후보 중 파급력·신선도가 큰 순.
 
-## 재작성 규칙 (요약·imagePrompt) — 정본: contracts/rewrite/prompt.txt
+## 재작성 규칙 (요약) — 정본: contracts/rewrite/prompt.txt
 
-각 기사의 title·summary·imagePrompt는 반드시 `contracts/rewrite/prompt.txt`를 읽고 그 규칙을 그대로 적용해 작성한다.
+각 기사의 title·summary는 반드시 `contracts/rewrite/prompt.txt`를 읽고 그 규칙을 그대로 적용해 작성한다.
+(이미지를 쓰지 않으므로 imagePrompt 관련 지시는 적용하지 않는다.)
 hookLine은 `contracts/hook/prompt.txt`가 정본이다. **두 정본은 물어오리와 공유한다**(ratchetlock 계약으로 회귀 관리).
 AI 트랙 전용 프롬프트를 따로 만들지 않는다.
 

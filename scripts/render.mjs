@@ -56,7 +56,7 @@ const BRANDS = {
   aibrief: {
     name: "오리 기자",
     handle: "@todays.ai.brief",
-    logo: "brand/duck-news.png",
+    logo: "brand/duck-news-t.png",
     // daily-briefing/cardnews/template.mjs의 브랜드 옐로우(#F5B82E) — 카드뉴스와 색을 맞춘다.
     accent: "#F5B82E",
     // AI 릴스는 낮 발행이라 "내일 아침에도"가 맞지 않는다 — 시간 표현을 brand로 파라미터화한 이유.
@@ -121,20 +121,25 @@ async function main() {
   const expectedSec = totalFrames / FPS;
 
   // 1) 이슈 이미지 확인 (커버 폐지 — 이슈 5장만)
+  // aibrief(오리 기자)는 무료 버전(사진 없는 타이포 지면) — 이미지 게이트·복사를 건너뛴다.
   const imgDir = join(ROOT, "assets", "img", stem);
   const needed = issues.map((i) => `issue-${i.rank}`);
-  const missing = needed.filter((n) => !existsSync(join(imgDir, `${n}.png`)));
-  if (missing.length > 0) {
-    console.error(`이미지 누락(${missing.length}): ${missing.join(", ")} — 렌더 중단(exit 1)`);
-    process.exit(1);
-  }
+  if (account === "aibrief") {
+    console.log("aibrief — 이미지 없이 렌더(noPhotos)");
+  } else {
+    const missing = needed.filter((n) => !existsSync(join(imgDir, `${n}.png`)));
+    if (missing.length > 0) {
+      console.error(`이미지 누락(${missing.length}): ${missing.join(", ")} — 렌더 중단(exit 1)`);
+      process.exit(1);
+    }
 
-  // public/img/current/ 로 복사 (staticFile 사용)
-  const pubDir = join(REELS, "public", "img", "current");
-  if (existsSync(pubDir)) rmSync(pubDir, { recursive: true, force: true });
-  mkdirSync(pubDir, { recursive: true });
-  for (const n of needed) copyFileSync(join(imgDir, `${n}.png`), join(pubDir, `${n}.png`));
-  console.log(`이미지 ${needed.length}장 → reels/public/img/current/`);
+    // public/img/current/ 로 복사 (staticFile 사용)
+    const pubDir = join(REELS, "public", "img", "current");
+    if (existsSync(pubDir)) rmSync(pubDir, { recursive: true, force: true });
+    mkdirSync(pubDir, { recursive: true });
+    for (const n of needed) copyFileSync(join(imgDir, `${n}.png`), join(pubDir, `${n}.png`));
+    console.log(`이미지 ${needed.length}장 → reels/public/img/current/`);
+  }
 
   // 2) Remotion 렌더 (reels/ 안에서 inputProps 전달)
   const tmpDir = join(REELS, "out");
@@ -153,13 +158,18 @@ async function main() {
     })),
     imageDir: "img/current",
     brand: BRANDS[account],
+    // aibrief(오리 기자)만 noPhotos — muleori inputProps는 키가 늘면 안 된다(바이트 불변 원칙).
+    ...(account === "aibrief" ? { noPhotos: true } : {}),
   };
-  console.log("Remotion 렌더 시작…");
+  // 계정별 컴포지션: 오리 기자(aibrief)는 신문 에디토리얼 스타일(CardNewsReel),
+  // 물어오리는 기존 사진 풀블리드 스타일(HotIssueReelPhoto) 그대로 유지.
+  const compositionId = account === "aibrief" ? "CardNewsReel" : "HotIssueReelPhoto";
+  console.log(`Remotion 렌더 시작… (${compositionId})`);
   run(
     "node",
     [
       "render-cli.mjs",
-      "HotIssueReelPhoto",
+      compositionId,
       silentMp4,
       JSON.stringify(inputProps),
     ],

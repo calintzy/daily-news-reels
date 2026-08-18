@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@remotion/bundler": "^4.0.495",
+    "@remotion/google-fonts": "^4.0.496",
     "@remotion/renderer": "^4.0.495",
     "playwright": "^1.61.1",
     "react": "^19.1.1",

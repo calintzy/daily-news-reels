@@ -55,6 +55,14 @@ async function main() {
   const data = JSON.parse(readFileSync(jsonPath, "utf-8"));
   // 산출물 키는 파일명 stem(예: 2026-07-23-am). 슬롯 없는 기존 파일은 stem=date로 동일 동작.
   const stem = basename(jsonPath, ".json");
+
+  // aibrief(오리 기자)는 무료 버전(사진 없는 타이포 지면) — 이미지 생성을 아예 스킵한다.
+  // OPENAI_API_KEY 검사보다 먼저 수행해 키 없이도 스킵되게 한다.
+  if (data.account === "aibrief") {
+    console.log("aibrief — 이미지 생성 스킵(무료 버전)");
+    process.exit(0);
+  }
+
   const prompts = buildPrompts(data);
 
   if (dryRun) {

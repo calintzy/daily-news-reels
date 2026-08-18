@@ -113,8 +113,9 @@ function validate(json, warnings = [], stem = null) {
       v.push(`[구조] ${label} rank=${issue.rank} — ${i + 1}이어야 함(연속)`);
     }
 
-    // (1) 구조: 필수 필드
+    // (1) 구조: 필수 필드. imagePrompt는 aibrief(오리 기자·무료 버전, 이미지 미사용)만 선택.
     for (const f of ["category", "kicker", "title", "summary", "sourceTitle", "sourceDesc", "imagePrompt"]) {
+      if (f === "imagePrompt" && account === "aibrief") continue;
       if (!issue[f]) v.push(`[구조] ${label}.${f} 누락`);
     }
 
@@ -224,7 +225,23 @@ function buildBadFixtures(sample) {
   const badAccountStem = clone();
   badAccountStem.account = "aibrief";
 
-  return { katago, number, hangulPrompt, slotAm, slotPm, badSlot, accountNone, badAccount, badAccountStem };
+  // aibrief-no-image-prompt: account=aibrief + imagePrompt 부재 → PASS(무료 버전, 이미지 미사용)
+  const aibriefNoImagePrompt = clone();
+  aibriefNoImagePrompt.account = "aibrief";
+  for (const issue of aibriefNoImagePrompt.issues) delete issue.imagePrompt;
+
+  return {
+    katago,
+    number,
+    hangulPrompt,
+    slotAm,
+    slotPm,
+    badSlot,
+    accountNone,
+    badAccount,
+    badAccountStem,
+    aibriefNoImagePrompt,
+  };
 }
 
 function runSelfTest() {
@@ -262,6 +279,12 @@ function runSelfTest() {
       fixture: bad.badAccountStem,
       stem: "2026-08-18-am",
       expectPass: false,
+    },
+    {
+      name: "PASS — aibrief + imagePrompt 부재(무료 버전, 이미지 미사용)",
+      fixture: bad.aibriefNoImagePrompt,
+      stem: "ai-2026-08-18",
+      expectPass: true,
     },
   ];
 
