@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-18",
+  "slot": "pm",
+  "hookLine": "외인 1조 매수, 코스피 7100 돌파입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "칠천피 귀환",
+      "title": "외인 1조 순매수, 코스피 7100 돌파",
+      "summary": "이날 코스피가 외국인 순매수에 힘입어 7100선을 돌파하며 6거래일 연속 상승했습니다. 삼성전자와 SK하이닉스 등 반도체주가 강세를 이끌었습니다.",
+      "narration": null,
+      "sourceTitle": "'28만전자·170만닉스' 부활…외인 매수세에 코스피 6거래일 연속 랠리",
+      "sourceDesc": "코스피가 18일 외국인의 강한 매수세와 반도체주 상승에 힘입어 7100선을 돌파했다. 유가증권시장에서 외국인이 1조631억원을 순매수하며 지수 상승을 주도했다. 삼성전자는 28만2750원, SK하이닉스는 174만원대를 기록했다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+7100+외인+매수+반도체+2026-08-18",
+      "imagePrompt": "Glowing financial district skyline at dusk reflected in rain-slicked pavement, stock index numbers rising on a massive LED display on a skyscraper facade, dynamic upward momentum, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "사회·정책",
+      "kicker": "수사·기소 분리 첫발",
+      "title": "중수청 10월 출범…2874명 체제 확정",
+      "summary": "행정안전부가 18일 국무회의에서 중수청 하위법령을 의결해 10월 2일 출범이 공식 확정됐습니다. 전국 6개 지방청을 포함한 총 2874명 규모로, 5개 합동수사과도 신설됩니다.",
+      "narration": "10월부터 중대범죄 수사, 새 기관이 맡습니다.",
+      "sourceTitle": "중수청 10월2일 출범…2874명 규모·보이스피싱 등 5개 합동수사과 신설",
+      "sourceDesc": "행정안전부는 18일 국무회의에서 중대범죄수사청 조직 및 운영에 관한 법률 시행령 등 제정안이 의결됐다고 밝혔다. 중수청은 10월 2일 출범하며 본청과 전국 6개 지방청, 총 2874명 규모로 구성된다. 보이스피싱·금융·가상자산·마약 등을 전담하는 5개 합동수사과와 아동학대·성범죄 등 사회적 약자 대상 범죄의 보완수사 조직도 신설된다.",
+      "sourceLink": "https://news.google.com/search?q=중수청+10월+출범+2874명+국무회의+의결",
+      "imagePrompt": "Empty Korean courthouse hallway with polished marble floor, official government emblem on wall, single shaft of daylight through tall window, institutional gravitas, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "사회·재난",
+      "kicker": "폭우 후속",
+      "title": "거제·통영 학교 41곳 침수, 교육부 복구 나서",
+      "summary": "후속: 경남 거제·통영의 기록적 폭우로 학교 41곳이 침수 피해를 입었습니다. 교육부는 18일 긴급 복구에 나서며 2학기 전 복구를 완료하겠다고 밝혔습니다.",
+      "narration": "학교 41곳 폭우 피해, 교육부가 복구합니다.",
+      "sourceTitle": "거제·통영 폭우에 학교 41곳 피해…교육부 '2학기 전 복구 완료하겠다'",
+      "sourceDesc": "교육부는 경남 거제와 통영에 내린 기록적인 폭우로 학교 41곳이 피해를 입었다고 18일 밝혔다. 거제 33곳, 통영 8곳 등 41개 학교가 침수 등 피해를 입었으며 교육부는 2학기 전 복구를 완료하겠다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=거제+통영+학교+폭우+피해+교육부+복구+2학기",
+      "imagePrompt": "Muddy primary school courtyard after flooding, damaged playground equipment surrounded by receding brown water, overcast Korean sky, emergency recovery materials at gate, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "재검표 무산",
+      "title": "올공 재검표 18일 불발…여야 특검 이견",
+      "summary": "18일로 합의한 올림픽공원 투표용지 재검표가 불발됐습니다. 선관위 특별검사 입회 여부를 두고 여야 합의에 실패했습니다.",
+      "narration": "올림픽공원 재검표, 여야 갈등으로 무산됐습니다.",
+      "sourceTitle": "여야 합의한 18일 투표지 재검표 불발 전망…특검 입회 놓고 이견",
+      "sourceDesc": "18일로 잠정 합의됐던 서울 올림픽공원 내 투표용지 재검표가 예정대로 진행될지 불투명해졌다. 선관위 특별검사 입회 여부를 둘러싸고 여야가 이견을 좁히지 못하면서 일정이 확정되지 않았다. 더불어민주당과 조국혁신당은 예정대로 진행을 요구했고 국민의힘은 특검 입회를 주장했다.",
+      "sourceLink": "https://news.google.com/search?q=올공+재검표+8월18일+불발+여야+이견",
+      "imagePrompt": "Official ballot papers stacked neatly on an examination table under cold fluorescent lighting, empty conference room with institutional chairs, sealed document boxes in background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "경제·산업",
+      "kicker": "반도체 역설",
+      "title": "삼성, 메모리 재고 10조 급증…왜?",
+      "summary": "삼성전자가 메모리 반도체 공급 부족을 경고하면서도 재고자산이 10조 급증해 주목됩니다. 차세대 제품 생산을 선제적으로 늘린 전략적 선택으로 풀이됩니다.",
+      "narration": "삼성 반도체 재고 10조 급증, 왜인지 주목됩니다.",
+      "sourceTitle": "삼성, 메모리 반도체 부족하다더니···재고자산 10兆 급증, 왜?",
+      "sourceDesc": "삼성전자 DS부문의 2026년 상반기 재고자산이 9조 원 이상 급증했다. 메모리 공급 부족이 예고된 가운데 차세대 제품 생산 초기부터 선제적으로 재고를 확보하는 전략으로 풀이된다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+메모리+재고자산+급증+2026-08-18",
+      "imagePrompt": "Modern semiconductor clean room with rows of silicon wafer cassettes glowing under sterile white cleanroom lighting, high-tech storage racks stretching into depth, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-18 저녁 브리핑\n\n1. 외인 1조 순매수, 코스피 7100 돌파\n2. 중수청 10월 출범…2874명 체제 확정\n3. 거제·통영 학교 41곳 침수, 교육부 복구 나서\n4. 올공 재검표 18일 불발…여야 특검 이견\n5. 삼성, 메모리 재고 10조 급증…왜?\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #코스피 #반도체 #중수청 #거제폭우 #재검표 #삼성전자\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
