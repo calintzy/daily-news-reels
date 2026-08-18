@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-19",
+  "slot": "am",
+  "hookLine": "거제 813㎜ 물폭탄에 1명 숨졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·재해",
+      "kicker": "남해안 물폭탄",
+      "title": "남해안 집중호우, 거제 813㎜ 물폭탄",
+      "summary": "경남 거제에 813㎜ 집중호우가 쏟아져 1명이 숨지고 159명이 대피했습니다. 거제시 산사태로 토사가 아파트를 덮쳤습니다.",
+      "sourceTitle": "813㎜ 물폭탄에 1명 숨지고 159명 대피…남부지방 '초비상'",
+      "sourceDesc": "경남 거제 일대에 집중호우로 누적 813㎜의 비가 쏟아져 1명이 사망하고 159명이 대피했다. 거제시 옥포동에서 산사태로 토사가 아파트를 덮쳤으며, 소방청은 집중호우 신고 1947건에 130명을 구조했다.",
+      "sourceLink": "https://news.google.com/search?q=남해안+집중호우+거제+813mm&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of a flooded coastal city street with debris and mudslide remains covering residential buildings, turbulent brown floodwater reflecting dark storm clouds, dramatic low-angle perspective, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "새 수사기관",
+      "title": "중수청 10월 출범, 2874명 규모 확정",
+      "summary": "중대범죄수사청이 오는 10월 2일 2874명 규모로 출범합니다. 서울 본청과 전국 6개 지방청을 두고 7대 중대범죄 수사를 전담합니다.",
+      "narration": "10월부터 중대범죄 수사, 새 기관이 맡습니다.",
+      "sourceTitle": "중수청 10월2일 출범…2874명 규모·보이스피싱 등 5개 합동수사과 신설",
+      "sourceDesc": "중대범죄수사청(중수청)이 오는 10월 2일 출범하며 정원 2874명으로 확정됐다. 서울 본청과 전국 6개 지방청을 두고 부패·경제·마약 등 7대 중대범죄를 수사하며, 보이스피싱 등 5개 합동수사과도 신설된다.",
+      "sourceLink": "https://news.google.com/search?q=중수청+10월+출범+2874명&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism shot of an empty modern government building entrance with official signage, clean architecture, national flag pole, morning sunlight, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "AI·과학",
+      "kicker": "여론 조작 추적",
+      "title": "외국 여론 조작 의심 네이버 계정 2만4천개",
+      "summary": "KAIST가 네이버 뉴스 댓글 1억1000만 건을 AI로 분석해 외국 여론 조작 의심 계정 2만4000개를 찾아냈습니다. 정치 갈등 조장 패턴이 드러났습니다.",
+      "narration": "외국 여론 조작 의심 계정 2만4천개 찾아냈습니다.",
+      "sourceTitle": "외국과 연계 '여론 조작' 의심되는 네이버 계정 2만4천개 찾았다…KAIST 기술 개발",
+      "sourceDesc": "KAIST 연구팀이 20년간 축적된 1억1000만 건의 네이버 뉴스 댓글을 AI로 분석해 외국 연계 여론 조작 의심 계정 2만4000개를 식별했다. 좌우를 가리지 않고 정치 갈등을 조장한 패턴이 포착됐다.",
+      "sourceLink": "https://news.google.com/search?q=KAIST+외국+여론+조작+네이버+계정&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary close-up of a glowing blue computer network visualization with interconnected nodes and flagged accounts highlighted on a dark background, cybersecurity monitoring concept, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "사법부 vs 정치권",
+      "title": "조희대, 대통령 패싱 대법관 제청…탄핵 추진",
+      "summary": "조희대 대법원장이 대통령과 사전 협의 없이 대법관 임명을 제청했습니다. 야권은 탄핵 사유가 늘었다며 8월 국회에서 탄핵소추안 보고를 추진하고 있습니다.",
+      "narration": "야권이 조희대 탄핵을 8월 국회에서 추진합니다.",
+      "sourceTitle": "조희대 대법원장, 대통령 협의없이 대법관 임명 제청···송영길 '탄핵 사유 늘었다'",
+      "sourceDesc": "조희대 대법원장이 대통령과 사전 협의 없이 서면으로 대법관 임명 제청을 했다. 야권에서는 탄핵 사유가 늘었다며 8월 국회 본회의 탄핵소추안 보고를 추진하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=조희대+대법관+제청+탄핵&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism interior shot of a supreme court chamber with wooden judge benches, gavel resting on a desk, empty gallery seating, dramatic natural lighting from high windows, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "사회·건강",
+      "kicker": "모기 주의보",
+      "title": "전국 말라리아 경보 발령, 매개모기서 원충 확인",
+      "summary": "질병관리청이 전국에 말라리아 경보를 발령했습니다. 매개모기에서 원충이 확인돼 서울·경기 등 위험 지역 주민은 모기에 물리지 않도록 주의해야 합니다.",
+      "narration": "전국에 말라리아 경보가 발령됐습니다.",
+      "sourceTitle": "전국 말라리아 경보 발령…매개모기서 원충 확인",
+      "sourceDesc": "질병관리청이 전국에 말라리아 경보를 발령했다. 말라리아를 일으키는 원충이 채집한 매개모기에서 확인됐으며, 위험 지역은 서울·인천·경기·강원 50개 시·군·구다.",
+      "sourceLink": "https://news.google.com/search?q=전국+말라리아+경보+발령&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary close-up of stagnant water and overgrown grass at dusk with atmospheric mist, mosquito breeding ground concept, blurred caution sign visible in the background, vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-19 아침 브리핑\n\n1. 남해안 집중호우, 거제 813㎜ 물폭탄\n2. 중수청 10월 출범, 2874명 규모 확정\n3. 외국 여론 조작 의심 네이버 계정 2만4천개\n4. 조희대, 대통령 패싱 대법관 제청…탄핵 추진\n5. 전국 말라리아 경보 발령, 매개모기서 원충 확인\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #집중호우 #거제 #말라리아\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
