@@ -5,6 +5,15 @@ export const defaultInputProps = {
   date: '2026-07-21',
   hookLine: '인간이 바둑 AI를 다시 이겼습니다',
   imageDir: 'img/current',
+  // 브랜드(계정) 기본값 — 물어오리. 실제 렌더는 render.mjs가 data.account로 정해 주입한다.
+  brand: {
+    name: '물어오리',
+    handle: '@muleori.news',
+    logo: 'brand/duck.png',
+    accent: '#FF3B3B',
+    eyebrow: '내일 아침에도',
+    closing: '뉴스 다섯 개',
+  },
   issues: [
     {rank: 1, category: 'AI·과학', kicker: '인간 vs AI', title: '신진서, 현존 최강 바둑 AI 꺾었다', summary: '신진서 9단이 현존 최강으로 꼽히는 바둑 AI를 상대로 승리했습니다. 경기 후 인터뷰가 온라인에서 화제가 되고 있습니다.'},
     {rank: 2, category: '사건', kicker: '현장 충격', title: '압구정 아파트 화재, 원인은 로봇청소기', summary: '압구정의 한 아파트에서 로봇청소기 발화로 화재가 발생했습니다. 당시 상황을 전한 주민 목격담이 확산되고 있습니다.'},

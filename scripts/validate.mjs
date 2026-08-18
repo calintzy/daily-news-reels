@@ -10,7 +10,7 @@
 //        문자열로 존재하는지 결정론적으로 대조. 원문에 없는 고유명사·수치 유입을 차단한다.
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
-import { dirname, join } from "node:path";
+import { basename, dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { createRequire } from "node:module";
 
@@ -36,6 +36,8 @@ const MAX_NARRATION_LEN = 30; // TTS 낭독 대본 상한 — hookLine 30자 게
 const MIN_ISSUES = 4;
 const MAX_ISSUES = 6;
 const MUSIC_CREDIT = "Music: Kevin MacLeod (incompetech.com), CC BY 4.0";
+// 계정(account) 허용값 — 없으면 "muleori"(물어오리)로 간주한다(하위 호환).
+const ACCOUNTS = ["muleori", "aibrief"];
 
 // 사실성 게이트: issue 단위 어댑터. 공유 모듈의 checkFactuality를 [사실성] 라벨로 감싼다.
 function checkFactuality(issue, label, violations) {
@@ -45,8 +47,31 @@ function checkFactuality(issue, label, violations) {
 
 // ─── 핵심 검증 ───────────────────────────────────────────────────
 // warnings: FAIL이 아닌 경고를 담는 배열(호출부가 출력). 도입기 필드(narration)의 부재 알림용.
-function validate(json, warnings = []) {
+// stem: 파일명 stem(예: "2026-08-18-am", "ai-2026-08-18"). 파일 경로로 실행할 때만 주어지며,
+//       계정(account)과 파일명 접두의 정합을 교차 검증하는 데 쓴다(없으면 그 검사만 생략).
+function validate(json, warnings = [], stem = null) {
   const v = [];
+
+  // (1) 구조: account(계정)는 선택 — 없으면 "muleori"(물어오리). 기존 데이터는 전부 무경고 통과한다.
+  const account = json.account ?? null;
+  if (account != null && !ACCOUNTS.includes(account)) {
+    v.push(`[구조] account="${account}" — "muleori" 또는 "aibrief"만 허용`);
+  }
+  // 계정-파일명 정합: ai- 접두 stem ⟺ account "aibrief". 어긋나면 산출물 키와 발행 계정이
+  // 엇갈려 잘못된 계정으로 게시될 수 있으므로 FAIL로 막는다.
+  if (stem) {
+    const isAiStem = stem.startsWith("ai-");
+    if (isAiStem && account !== "aibrief") {
+      v.push(
+        `[계정] 파일명 stem "${stem}"은 ai- 접두(오리 기자)인데 account=${account == null ? "없음" : `"${account}"`} — account: "aibrief" 필요`
+      );
+    }
+    if (account === "aibrief" && !isAiStem) {
+      v.push(
+        `[계정] account="aibrief"(오리 기자)인데 파일명 stem "${stem}"이 ai- 접두가 아님 — data/ai-YYYY-MM-DD.json 이어야 함`
+      );
+    }
+  }
 
   // (1) 구조: 최상위 필수 필드
   if (!json.date) v.push("[구조] date 누락");
@@ -188,7 +213,18 @@ function buildBadFixtures(sample) {
   const badSlot = clone();
   badSlot.slot = "morning";
 
-  return { katago, number, hangulPrompt, slotAm, slotPm, badSlot };
+  // account-none: account 없음(물어오리 간주) → stem이 숫자여도 PASS(하위 호환)
+  const accountNone = clone();
+
+  // bad-account: 허용값 밖 계정 → 구조 FAIL
+  const badAccount = clone();
+  badAccount.account = "duckpress";
+
+  // bad-account-stem: aibrief인데 숫자 stem → 계정 FAIL
+  const badAccountStem = clone();
+  badAccountStem.account = "aibrief";
+
+  return { katago, number, hangulPrompt, slotAm, slotPm, badSlot, accountNone, badAccount, badAccountStem };
 }
 
 function runSelfTest() {
@@ -213,11 +249,25 @@ function runSelfTest() {
     { name: "PASS — slot-am(정상 회차)", fixture: bad.slotAm, expectPass: true },
     { name: "PASS — slot-pm(정상 회차)", fixture: bad.slotPm, expectPass: true },
     { name: "FAIL — bad-slot(잘못된 회차값)", fixture: bad.badSlot, expectPass: false },
+    // 계정 계약 (2026-08-18 멀티 계정화)
+    {
+      name: "PASS — account 없음 + 숫자 stem(물어오리 하위 호환)",
+      fixture: bad.accountNone,
+      stem: "2026-08-18-am",
+      expectPass: true,
+    },
+    { name: "FAIL — bad-account(허용값 밖 계정)", fixture: bad.badAccount, expectPass: false },
+    {
+      name: "FAIL — bad-account-stem(aibrief인데 숫자 stem)",
+      fixture: bad.badAccountStem,
+      stem: "2026-08-18-am",
+      expectPass: false,
+    },
   ];
 
   let allOk = true;
-  for (const { name, fixture, expectPass } of cases) {
-    const violations = validate(fixture);
+  for (const { name, fixture, expectPass, stem = null } of cases) {
+    const violations = validate(fixture, [], stem);
     const passed = violations.length === 0;
     const ok = passed === expectPass;
     console.error(`${ok ? "✓" : "✗"} ${name}`);
@@ -256,8 +306,10 @@ function main() {
     console.error(`[파싱 오류] ${e.message}`);
     process.exit(1);
   }
+  // 산출물 키는 파일명 stem(예: 2026-08-18-am, ai-2026-08-18) — 계정 정합 검사에 쓴다.
+  const stem = basename(fileArg, ".json");
   const warnings = [];
-  const violations = validate(json, warnings);
+  const violations = validate(json, warnings, stem);
   for (const w of warnings) console.error(w);
   if (violations.length === 0) {
     console.log("validate: PASS");

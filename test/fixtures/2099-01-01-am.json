@@ -1,0 +1,73 @@
+{
+  "date": "2099-01-01",
+  "account": "aibrief",
+  "hookLine": "OpenAI, GPT를 무료로 공개했습니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 모델",
+      "kicker": "무료 개방",
+      "title": "OpenAI, GPT 신모델 무료 공개",
+      "summary": "OpenAI가 GPT 계열 새 모델을 무료 사용자에게도 공개했습니다. 추론 속도가 기존보다 2배 빨라졌다고 설명했습니다.",
+      "narration": "GPT 신모델이 무료로 열립니다",
+      "sourceTitle": "OpenAI, GPT 신모델 무료 공개…추론 속도 2배",
+      "sourceDesc": "OpenAI가 GPT 계열 새 모델을 공개하고 무료 사용자에게도 개방한다고 밝혔다. 회사는 새 모델의 추론 속도가 기존보다 2배 빨라졌으며 한국어 응답 품질도 개선됐다고 설명했다.",
+      "sourceLink": "https://news.google.com/rss/search?q=OpenAI",
+      "imagePrompt": "photojournalism, glowing server rack in a dark data hall with soft blue indicator lights, shallow depth of field, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "반도체",
+      "kicker": "양산 개시",
+      "title": "인공지능 전용 메모리 양산 시작",
+      "summary": "국내 반도체 기업이 인공지능 전용 메모리 양산을 시작했습니다. 내년까지 생산 능력을 3배로 늘리겠다고 밝혔습니다.",
+      "narration": "인공지능 메모리 양산이 시작됩니다",
+      "sourceTitle": "국내 반도체 기업, 인공지능 전용 메모리 양산 시작",
+      "sourceDesc": "국내 반도체 기업이 인공지능 서버에 들어가는 전용 메모리 양산을 시작했다고 밝혔다. 회사는 내년까지 생산 능력을 3배로 늘리겠다는 계획도 함께 내놨다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EB%B0%98%EB%8F%84%EC%B2%B4",
+      "imagePrompt": "photojournalism, close-up of memory chips on a clean semiconductor wafer tray under cold industrial lighting, macro detail, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "규제",
+      "kicker": "이행 지침",
+      "title": "유럽연합, 인공지능 규제 지침 공개",
+      "summary": "유럽연합이 인공지능 규제법의 세부 이행 지침을 공개했습니다. 고위험 서비스는 내년부터 사전 심사를 받아야 합니다.",
+      "narration": "고위험 인공지능은 사전 심사를 받습니다",
+      "sourceTitle": "유럽연합, 인공지능 규제법 세부 지침 공개",
+      "sourceDesc": "유럽연합이 인공지능 규제법의 세부 이행 지침을 공개했다. 고위험 등급으로 분류된 서비스는 내년부터 사전 심사를 받아야 하며, 위반 시 과징금이 부과된다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B7%9C%EC%A0%9C",
+      "imagePrompt": "photojournalism, empty European institutional meeting room with rows of desks and flag poles, cold morning light through tall windows, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "일자리",
+      "kicker": "채용 한파",
+      "title": "인공지능 도입 기업 절반, 채용 줄였다",
+      "summary": "인공지능을 도입한 기업 절반이 신규 채용을 줄인 것으로 조사됐습니다. 단순 반복 업무의 자동화가 주된 이유로 꼽혔습니다.",
+      "narration": "인공지능 도입 기업 절반이 채용을 줄였습니다",
+      "sourceTitle": "인공지능 도입 기업 절반, 신규 채용 줄였다",
+      "sourceDesc": "인공지능 도입을 마친 기업 가운데 절반이 지난해보다 신규 채용을 줄인 것으로 조사됐다. 조사에 참여한 기업들은 단순 반복 업무의 자동화를 주된 이유로 꼽았다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EC%B1%84%EC%9A%A9",
+      "imagePrompt": "photojournalism, empty open-plan office with unused desks and dark monitors at dusk, long shadows, melancholic documentary mood, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "로봇",
+      "kicker": "무인 운영",
+      "title": "물류센터 야간 무인 운영 확대",
+      "summary": "국내 물류센터가 인공지능 로봇을 활용한 야간 무인 운영을 확대합니다. 사람이 하던 분류 작업을 로봇이 맡게 됩니다.",
+      "narration": "야간 물류센터를 로봇이 맡습니다",
+      "sourceTitle": "물류센터 인공지능 로봇, 야간 무인 운영 확대",
+      "sourceDesc": "국내 물류센터가 인공지능 로봇을 활용한 야간 무인 운영을 확대한다고 밝혔다. 사람이 하던 분류 작업을 로봇이 맡으면서 처리 물량이 늘었다는 설명이다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EB%AC%BC%EB%A5%98%20%EB%A1%9C%EB%B4%87",
+      "imagePrompt": "photojournalism, automated warehouse aisle with robotic carts moving conveyor totes under night lighting, motion blur, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[오리 기자] 2099-01-01 AI 뉴스 브리핑\n\n1. OpenAI, GPT 신모델 무료 공개\n2. 인공지능 전용 메모리 양산 시작\n3. 유럽연합, 인공지능 규제 지침 공개\n4. 인공지능 도입 기업 절반, 채용 줄였다\n5. 물류센터 야간 무인 운영 확대\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}

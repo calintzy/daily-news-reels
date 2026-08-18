@@ -18,6 +18,26 @@ const fontFamily =
 // imageDir(inputProps)는 public 기준 상대 경로(기본 'img/current').
 const imgSrc = (imageDir, name) => staticFile(`${imageDir}/${name}.png`);
 
+// 브랜드 기본값 = 물어오리(기존 하드코딩 값 그대로).
+// brand prop을 주지 않으면 렌더 결과가 멀티 계정화 이전과 완전히 동일해야 한다(하위 호환).
+const DEFAULT_BRAND = {
+  name: '물어오리',
+  handle: '@muleori.news',
+  logo: 'brand/duck.png',
+  accent: '#FF3B3B',
+  eyebrow: '내일 아침에도', // 아웃트로 상단 시간 표현 (AI 릴스는 낮 발행이라 계정별로 다르다)
+  closing: '뉴스 다섯 개', // 아웃트로 대문 문구 (아랫줄이 name)
+};
+
+// accent(#RRGGBB) → 'r,g,b'. 필 그림자 rgba 조립용 —
+// #FF3B3B가 기존 하드코딩 문자열 rgba(255,59,59,0.45)를 그대로 재현한다.
+const accentRgb = (hex) => {
+  const h = String(hex).replace('#', '');
+  const full = h.length === 3 ? h.split('').map((c) => c + c).join('') : h;
+  const n = parseInt(full, 16);
+  return `${(n >> 16) & 255},${(n >> 8) & 255},${n & 255}`;
+};
+
 // title(문자열)을 2줄로 나눈다: 공백 기준 균형 분리. 공백 없으면 한 줄.
 // 렌더 폭 방어는 폰트 자동 축소가 담당한다.
 const wrapTitle = (title) => {
@@ -337,10 +357,12 @@ const IssueSlide = ({issue, imageSrc, startFrame, textDelay = 0}) => {
 };
 
 // 리텐션 아웃트로 — 1.5초(45f) 브랜드 컬러 카드 (2026-08-08 훅 수술: 커버 이미지 의존 제거·축소).
-const PhotoOutro = ({startFrame}) => {
+const PhotoOutro = ({startFrame, brand}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const localFrame = frame - startFrame;
+  // 부분 지정도 허용 — 빠진 키는 물어오리 기본값으로 채운다.
+  const b = {...DEFAULT_BRAND, ...(brand || {})};
 
   const titleIn = spring({frame: localFrame - 2, fps, config: {damping: 15, stiffness: 140}});
   const pillIn = spring({frame: localFrame - 10, fps, config: {damping: 13, stiffness: 160}});
@@ -363,7 +385,7 @@ const PhotoOutro = ({startFrame}) => {
         }}
       >
         <Img
-          src={staticFile('brand/duck.png')}
+          src={staticFile(b.logo)}
           style={{
             width: 210,
             height: 210,
@@ -381,7 +403,7 @@ const PhotoOutro = ({startFrame}) => {
             opacity: titleIn,
           }}
         >
-          내일 아침에도
+          {b.eyebrow}
         </div>
         <div
           style={{
@@ -393,14 +415,14 @@ const PhotoOutro = ({startFrame}) => {
             transform: `translateY(${interpolate(titleIn, [0, 1], [40, 0])}px)`,
           }}
         >
-          뉴스 다섯 개
+          {b.closing}
           <br />
-          <span style={{color: '#FF3B3B'}}>물어오리</span>
+          <span style={{color: b.accent}}>{b.name}</span>
         </div>
         <div
           style={{
             marginTop: 12,
-            background: '#FF3B3B',
+            background: b.accent,
             borderRadius: 999,
             padding: '26px 64px',
             fontSize: 44,
@@ -408,7 +430,7 @@ const PhotoOutro = ({startFrame}) => {
             letterSpacing: '0.02em',
             opacity: pillIn,
             transform: `scale(${interpolate(pillIn, [0, 1], [0.8, 1]) * pillPulse})`,
-            boxShadow: '0 18px 60px rgba(255,59,59,0.45)',
+            boxShadow: `0 18px 60px rgba(${accentRgb(b.accent)},0.45)`,
           }}
         >
           팔로우하고 매일 받아보기
@@ -422,7 +444,7 @@ const PhotoOutro = ({startFrame}) => {
             opacity: pillIn,
           }}
         >
-          @muleori.news
+          {b.handle}
         </div>
       </div>
     </AbsoluteFill>
@@ -430,14 +452,15 @@ const PhotoOutro = ({startFrame}) => {
 };
 
 // hookLine 없는 구 데이터는 이슈1 제목으로 폴백(하위 호환).
-export const HotIssueReelPhoto = ({hookLine, issues, imageDir = 'img/current'}) => {
+// brand 미전달이면 PhotoOutro가 물어오리 기본값을 쓴다(하위 호환).
+export const HotIssueReelPhoto = ({hookLine, issues, imageDir = 'img/current', brand}) => {
   const frame = useCurrentFrame();
   const issueList = issues || [];
   const issueIndex = Math.floor(frame / issueDuration);
   const outroStart = issueList.length * issueDuration;
 
   if (frame >= outroStart) {
-    return <PhotoOutro startFrame={outroStart} />;
+    return <PhotoOutro startFrame={outroStart} brand={brand} />;
   }
 
   const issue = issueList[issueIndex];

@@ -1,0 +1,73 @@
+{
+  "date": "2099-01-03",
+  "account": "aibrief",
+  "hookLine": "스마트폰 인공지능이 유료가 됩니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "서비스",
+      "kicker": "유료 전환",
+      "title": "스마트폰 인공지능 기능 유료 전환",
+      "summary": "제조사가 스마트폰 인공지능 기능을 내년부터 유료 구독으로 전환합니다. 기본 기능은 무료로 남습니다.",
+      "narration": "무료로 쓰던 기능이 구독이 됩니다",
+      "sourceTitle": "스마트폰 인공지능 기능 내년부터 유료 전환",
+      "sourceDesc": "제조사가 스마트폰에 넣은 인공지능 기능을 내년부터 유료 구독으로 전환한다고 밝혔다. 기본 기능은 무료로 남기고 고급 편집 기능만 구독 대상이 된다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0",
+      "imagePrompt": "photojournalism, smartphone lying face up on a dark table with a glowing blank screen, moody rim lighting, shallow depth of field, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "빅테크",
+      "kicker": "추가 투자",
+      "title": "빅테크, 국내 데이터센터 추가 투자",
+      "summary": "해외 빅테크 기업이 국내에 데이터센터를 추가로 짓겠다고 발표했습니다. 전력망 보강 비용도 함께 부담합니다.",
+      "narration": "국내에 데이터센터가 더 들어섭니다",
+      "sourceTitle": "빅테크 기업, 국내 데이터센터 추가 투자 발표",
+      "sourceDesc": "해외 빅테크 기업이 국내에 데이터센터를 추가로 짓겠다고 발표했다. 회사는 지역 전력망 보강 비용도 함께 부담하겠다고 밝혔다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EB%B9%85%ED%85%8C%ED%81%AC",
+      "imagePrompt": "photojournalism, wide construction site of a low rectangular data center building with cranes at golden hour, aerial documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "의료",
+      "kicker": "응급실 확대",
+      "title": "인공지능 판독, 응급실 도입 확대",
+      "summary": "인공지능 영상 판독을 도입하는 응급실이 늘고 있습니다. 최종 판단은 의사가 맡습니다.",
+      "narration": "응급실 판독을 인공지능이 돕습니다",
+      "sourceTitle": "인공지능 영상 판독, 응급실 도입 확대",
+      "sourceDesc": "인공지능 영상 판독 시스템을 도입하는 응급실이 늘고 있다. 판독 대기 시간이 줄었다는 병원 측 설명이 나오는 가운데 최종 판단은 의사가 맡는다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EC%9D%98%EB%A3%8C%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5",
+      "imagePrompt": "photojournalism, hospital reading room with medical scan images glowing on wall-mounted displays, dim clinical lighting, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "행정",
+      "kicker": "도입 논란",
+      "title": "민원 상담 챗봇 도입 논란",
+      "summary": "지자체가 민원 상담을 챗봇으로 대체하려 하면서 논란이 일고 있습니다. 고령층 배제 우려가 제기됐습니다.",
+      "narration": "민원 상담을 챗봇이 대신합니다",
+      "sourceTitle": "지자체 민원 상담 챗봇 도입 놓고 논란",
+      "sourceDesc": "일부 지자체가 민원 상담을 챗봇으로 대체하는 방안을 추진하면서 논란이 일고 있다. 고령층 이용자가 상담에서 배제될 수 있다는 우려가 제기됐다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EC%B1%97%EB%B4%87",
+      "imagePrompt": "photojournalism, empty public service counter with a self-service kiosk screen glowing in a quiet government office, flat fluorescent lighting, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "저작권",
+      "kicker": "법정 공방",
+      "title": "창작자들, 학습 데이터 소송",
+      "summary": "창작자 단체가 인공지능 학습에 작품이 무단으로 쓰였다며 소송을 냈습니다. 판결이 이용 기준을 정할 전망입니다.",
+      "narration": "학습 데이터 소송이 시작됐습니다",
+      "sourceTitle": "창작자들, 인공지능 학습 데이터 놓고 소송",
+      "sourceDesc": "창작자 단체가 인공지능 학습에 자신들의 작품이 무단으로 쓰였다며 소송을 냈다. 업계에서는 이번 판결이 학습 데이터 이용 기준을 정할 것으로 보고 있다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EC%A0%80%EC%9E%91%EA%B6%8C",
+      "imagePrompt": "photojournalism, stacked legal document folders and a wooden gavel on a courtroom desk, solemn side lighting, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[오리 기자] 2099-01-03 AI 뉴스 브리핑\n\n1. 스마트폰 인공지능 기능 유료 전환\n2. 빅테크, 국내 데이터센터 추가 투자\n3. 인공지능 판독, 응급실 도입 확대\n4. 민원 상담 챗봇 도입 논란\n5. 창작자들, 학습 데이터 소송\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}

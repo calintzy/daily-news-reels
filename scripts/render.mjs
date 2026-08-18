@@ -41,10 +41,37 @@ function runStderr(cmd, args) {
   return r.stderr || "";
 }
 
-// A/B 팔 결정: 강제 오버라이드 → 전역 킬스위치 → 일(DD) 짝/홀 카운터밸런싱
-function resolveArm(stem, slot) {
+// 계정별 브랜드 — 아웃트로(로고·문구·색)와 텔레그램 표기를 결정한다.
+// muleori 값은 reels/src/HotIssueReelPhoto.jsx의 하드코딩 기본값과 **정확히 동일**해야 한다
+// (물어오리 렌더 결과 불변이 하위 호환 조건 — 값이 갈리면 화면이 달라진다).
+const BRANDS = {
+  muleori: {
+    name: "물어오리",
+    handle: "@muleori.news",
+    logo: "brand/duck.png",
+    accent: "#FF3B3B",
+    eyebrow: "내일 아침에도", // 아웃트로 상단 시간 표현
+    closing: "뉴스 다섯 개", // 아웃트로 대문 문구(아래 줄이 name)
+  },
+  aibrief: {
+    name: "오리 기자",
+    handle: "@todays.ai.brief",
+    logo: "brand/duck-news.png",
+    // daily-briefing/cardnews/template.mjs의 브랜드 옐로우(#F5B82E) — 카드뉴스와 색을 맞춘다.
+    accent: "#F5B82E",
+    // AI 릴스는 낮 발행이라 "내일 아침에도"가 맞지 않는다 — 시간 표현을 brand로 파라미터화한 이유.
+    eyebrow: "내일도 물어오는",
+    closing: "AI 뉴스",
+  },
+};
+
+// A/B 팔 결정: 강제 오버라이드 → 계정(오리 기자 고정) → 전역 킬스위치 → 일(DD) 짝/홀 카운터밸런싱
+function resolveArm(stem, slot, account) {
   const forced = process.env.REELS_ARM;
   if (forced === "tts" || forced === "control") return forced;
+  // 오리 기자(aibrief)는 A/B 대상이 아니라 TTS 고정이다.
+  // TTS_ENABLED 킬스위치·짝홀 카운터밸런싱은 물어오리 A/B 전용이므로 그 위에서 갈라진다.
+  if (account === "aibrief") return "tts";
   if (process.env.TTS_ENABLED !== "1") return "control";
   const even = Number(stem.slice(8, 10)) % 2 === 0;
   // pm은 am과 반대 배정. slot이 null이면 am과 동일 규칙.
@@ -87,6 +114,8 @@ async function main() {
   // 산출물 키는 파일명 stem(예: 2026-07-23-am). 슬롯 없는 기존 파일은 stem=date로 동일 동작.
   const stem = basename(jsonPath, ".json");
   const slot = data.slot ?? null; // "am" | "pm" | null
+  // 계정: account 없거나 "muleori"면 물어오리(하위 호환). "aibrief"만 오리 기자로 분기한다.
+  const account = data.account === "aibrief" ? "aibrief" : "muleori";
   const issues = data.issues || [];
   const totalFrames = COVER_D + ISSUE_D * issues.length + OUTRO_D;
   const expectedSec = totalFrames / FPS;
@@ -123,6 +152,7 @@ async function main() {
       summary: i.summary,
     })),
     imageDir: "img/current",
+    brand: BRANDS[account],
   };
   console.log("Remotion 렌더 시작…");
   run(
@@ -144,7 +174,7 @@ async function main() {
   const fadeStart = Math.max(0, expectedSec - 2).toFixed(2);
 
   // TTS 나레이션 A/B — 팔 결정 후, tts 팔이면 세그먼트 생성(실패 시 control 폴백)
-  const arm = resolveArm(stem, slot);
+  const arm = resolveArm(stem, slot, account);
   let armRecord = arm;
   let segments = null;
   if (arm === "tts") {
@@ -188,8 +218,11 @@ async function main() {
   run("ffmpeg", ffArgs);
   console.log(`영상 산출: docs/videos/${stem}.mp4`);
 
-  // 팔 기록물 — A/B 평가의 진실원
-  const armsDir = join(ROOT, "docs", "arms");
+  // 팔 기록물 — A/B 평가의 진실원.
+  // 오리 기자(aibrief)는 하위 디렉토리 docs/arms/ai/ 에 쓴다 — 물어오리 A/B 집계는
+  // docs/arms/ 직파일만 읽으므로 AI 회차가 실험 표본을 오염시키지 않는다.
+  const armsDir =
+    account === "aibrief" ? join(ROOT, "docs", "arms", "ai") : join(ROOT, "docs", "arms");
   mkdirSync(armsDir, { recursive: true });
   writeFileSync(join(armsDir, `${stem}.txt`), `${armRecord}\n`, "utf-8");
   console.log(`팔: ${armRecord}`);

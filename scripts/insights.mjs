@@ -74,6 +74,9 @@ async function main() {
     const stat = statSync(path);
     if (stat.isDirectory()) continue; // 초기 회차 일부가 디렉토리 — 스킵
     if (name === "sample") continue;
+    // 오리 기자(ai- 접두) 회차 스킵 — 그 계정 media는 물어오리 토큰으로 조회 불가하다.
+    // 계정별 insights 수집은 후속 백로그.
+    if (name.startsWith("ai-")) continue;
 
     const content = readFileSync(path, "utf-8").trim();
     if (!/^\d+$/.test(content)) {

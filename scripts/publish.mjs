@@ -126,10 +126,17 @@ async function main() {
   const stem = basename(jsonPath, ".json");
   const caption = data.caption;
 
-  const token = process.env.IG_ACCESS_TOKEN;
-  const igUser = process.env.IG_USER_ID;
+  // 계정 분기 — account 없거나 "muleori"면 물어오리(기존 env 그대로), "aibrief"면 오리 기자 전용 env.
+  const isAibrief = data.account === "aibrief";
+  const brandTag = isAibrief ? "[오리기자]" : "[물어오리]";
+  const token = isAibrief ? process.env.IG_ACCESS_TOKEN_AIBRIEF : process.env.IG_ACCESS_TOKEN;
+  const igUser = isAibrief ? process.env.IG_USER_ID_AIBRIEF : process.env.IG_USER_ID;
   if (!token || !igUser) {
-    console.error("IG_ACCESS_TOKEN·IG_USER_ID 필요 (Meta 셋업 후 GitHub Secrets)");
+    console.error(
+      isAibrief
+        ? "IG_ACCESS_TOKEN_AIBRIEF·IG_USER_ID_AIBRIEF 필요 (오리 기자 계정 — GitHub Secrets 미등록)"
+        : "IG_ACCESS_TOKEN·IG_USER_ID 필요 (Meta 셋업 후 GitHub Secrets)"
+    );
     process.exit(1);
   }
 
@@ -149,7 +156,7 @@ async function main() {
     // 스킵됐는데 알림이 없어 발견이 늦었다. 스킵도 반드시 텔레그램으로 보인다.
     console.log(`이미 게시됨: published/${stem} (id=${content}) — 스킵(멱등)`);
     await notifyTelegram(
-      `[물어오리] publish 스킵: ${stem} 은(는) 이미 게시됨(id=${content}). 의도한 재실행이 아니면 스템 오판·중복 실행을 점검하세요.`
+      `${brandTag} publish 스킵: ${stem} 은(는) 이미 게시됨(id=${content}). 의도한 재실행이 아니면 스템 오판·중복 실행을 점검하세요.`
     );
     process.exit(0);
   }
@@ -233,7 +240,7 @@ async function main() {
   } catch (e) {
     console.log(`permalink 조회 실패: ${e.message}`);
   }
-  await notifyTelegram(`[물어오리] 발행 완료 (${stem})${permalink ? `\n${permalink}` : ""}`);
+  await notifyTelegram(`${brandTag} 발행 완료 (${stem})${permalink ? `\n${permalink}` : ""}`);
 }
 
 main();

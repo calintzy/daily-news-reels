@@ -6,11 +6,13 @@ name: watchdog
 #   데이터 있음 + 미발행 → reels.yml 재dispatch (빌드·발행 재시도)
 #   데이터 없음         → 경보만 (생성은 백업 클라우드 루틴 07:45/17:45 KST 담당)
 # am 발행 ~07:30 KST → 08:30 KST(23:30 UTC 전날) 체크, pm 발행 ~17:30 KST → 18:00 KST(09:00 UTC) 체크.
+# 오리 기자(ai) 발행 ~12:00 KST → 13:30 KST(04:30 UTC) 체크.
 # GitHub cron은 지연·누락이 있으므로(07-22 실측) 시각은 여유를 두고, 슬롯은 실행 시각(KST)으로 판별한다.
 on:
   schedule:
-    - cron: "30 23 * * *"   # 08:30 KST — am 회차 점검
-    - cron: "0 9 * * *"     # 18:00 KST — pm 회차 점검
+    - cron: "30 23 * * *"   # 08:30 KST — am 회차 점검(물어오리)
+    - cron: "30 4 * * *"    # 13:30 KST — ai 회차 점검(오리 기자)
+    - cron: "0 9 * * *"     # 18:00 KST — pm 회차 점검(물어오리)
   workflow_dispatch:
 
 permissions:
@@ -20,19 +22,47 @@ permissions:
 jobs:
   check:
     # 킬스위치를 꺼둔 동안(의도적 발행 중단)은 경보하지 않는다.
-    if: vars.PUBLISH_LIVE == '1'
+    # 계정별로 스위치가 따로이므로 둘 중 하나라도 켜져 있으면 잡을 돌리고, 슬롯별 스킵은 probe가 판정한다.
+    if: vars.PUBLISH_LIVE == '1' || vars.PUBLISH_LIVE_AIBRIEF == '1'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
 
       - name: 오늘 회차 발행 마커·데이터 확인
         id: probe
+        env:
+          PUBLISH_LIVE: ${{ vars.PUBLISH_LIVE }}
+          PUBLISH_LIVE_AIBRIEF: ${{ vars.PUBLISH_LIVE_AIBRIEF }}
         run: |
           TODAY=$(TZ=Asia/Seoul date +%F)
           HOUR=$(TZ=Asia/Seoul date +%H)
-          if [ "$HOUR" -lt 12 ]; then SLOT=am; else SLOT=pm; fi
-          STEM="${TODAY}-${SLOT}"
+          # 슬롯 3갈래(실행 시각 KST): 12시 전 am / 12~15시 ai(오리 기자) / 그 외 pm
+          if [ "$HOUR" -lt 12 ]; then
+            STEM="${TODAY}-am"; ACCOUNT=muleori
+          elif [ "$HOUR" -lt 15 ]; then
+            STEM="ai-${TODAY}"; ACCOUNT=aibrief
+          else
+            STEM="${TODAY}-pm"; ACCOUNT=muleori
+          fi
           echo "stem=$STEM" >> "$GITHUB_OUTPUT"
+          if [ "$ACCOUNT" = "aibrief" ]; then
+            echo "prefix=[오리기자]" >> "$GITHUB_OUTPUT"
+          else
+            echo "prefix=[물어오리]" >> "$GITHUB_OUTPUT"
+          fi
+          # 해당 계정 킬스위치가 꺼져 있으면 감시하지 않는다(라이브 전 오탐 방지).
+          if [ "$ACCOUNT" = "aibrief" ] && [ "$PUBLISH_LIVE_AIBRIEF" != "1" ]; then
+            echo "PUBLISH_LIVE_AIBRIEF≠1 — ai 슬롯 감시 스킵 ($STEM)"
+            echo "missing=0" >> "$GITHUB_OUTPUT"
+            echo "data_exists=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if [ "$ACCOUNT" = "muleori" ] && [ "$PUBLISH_LIVE" != "1" ]; then
+            echo "PUBLISH_LIVE≠1 — 물어오리 슬롯 감시 스킵 ($STEM)"
+            echo "missing=0" >> "$GITHUB_OUTPUT"
+            echo "data_exists=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           MARKER="published/$STEM"
           if [ -f "$MARKER" ] && [ "$(cat "$MARKER" | tr -d '[:space:]')" != "pending" ]; then
             echo "OK: $MARKER (id=$(cat "$MARKER"))"
@@ -62,10 +92,11 @@ jobs:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
         run: |
+          PREFIX="${{ steps.probe.outputs.prefix }}"
           if [ "${{ steps.probe.outputs.data_exists }}" = "1" ]; then
-            TEXT="[물어오리] 경보: ${{ steps.probe.outputs.stem }} 미발행 감지 — 데이터는 있어 빌드·발행을 자동 재시도했습니다. 30분 후에도 발행 알림이 없으면 Actions 로그를 점검하세요."
+            TEXT="$PREFIX 경보: ${{ steps.probe.outputs.stem }} 미발행 감지 — 데이터는 있어 빌드·발행을 자동 재시도했습니다. 30분 후에도 발행 알림이 없으면 Actions 로그를 점검하세요."
           else
-            TEXT="[물어오리] 경보: ${{ steps.probe.outputs.stem }} 미발행 + 데이터도 없음 — 수집 루틴 미실행. 백업 루틴(07:45/17:45)이 생성했는지 확인하고, 없으면 루틴을 수동 실행하세요."
+            TEXT="$PREFIX 경보: ${{ steps.probe.outputs.stem }} 미발행 + 데이터도 없음 — 수집 루틴 미실행. 백업 루틴(07:45/17:45)이 생성했는지 확인하고, 없으면 루틴을 수동 실행하세요."
           fi
           curl -s -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TG_CHAT_ID}" \

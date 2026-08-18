@@ -1,0 +1,73 @@
+{
+  "date": "2099-01-02",
+  "account": "aibrief",
+  "hookLine": "전기요금 인상 논의가 시작됐습니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "인프라",
+      "kicker": "전력 부담",
+      "title": "데이터센터 급증에 전기요금 논의",
+      "summary": "인공지능 데이터센터가 늘면서 전기요금 인상 논의가 시작됐습니다. 정부는 산업용 요금 체계를 손보겠다고 밝혔습니다.",
+      "narration": "데이터센터가 요금을 밀어 올립니다",
+      "sourceTitle": "인공지능 데이터센터 급증에 전기요금 인상 논의 시작",
+      "sourceDesc": "인공지능 데이터센터가 빠르게 늘면서 전력 수요가 급증해 전기요금 인상 논의가 시작됐다. 정부는 산업용 요금 체계를 손보는 방안을 검토하겠다고 밝혔다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0",
+      "imagePrompt": "photojournalism, high voltage transmission towers looming over a low industrial data center building at dusk, heavy overcast sky, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "교육",
+      "kicker": "전면 도입",
+      "title": "인공지능 교과서, 초등 전면 도입",
+      "summary": "내년부터 초등학교에 인공지능 교과서가 전면 도입됩니다. 교사 연수와 학습 기기 보급도 함께 진행됩니다.",
+      "narration": "내년부터 초등학교에 도입됩니다",
+      "sourceTitle": "인공지능 교과서 내년 초등학교 전면 도입",
+      "sourceDesc": "내년부터 전국 초등학교에 인공지능 교과서가 전면 도입된다. 교육 당국은 교사 연수와 학습 기기 보급을 함께 진행하겠다고 밝혔다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B5%90%EA%B3%BC%EC%84%9C",
+      "imagePrompt": "photojournalism, empty elementary classroom with tablets placed on wooden desks and a blank whiteboard, warm morning light, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "범죄 급증",
+      "title": "딥페이크 범죄 신고 크게 늘어",
+      "summary": "인공지능으로 만든 딥페이크 범죄 신고가 크게 늘었습니다. 경찰은 전담 수사팀을 확대하기로 했습니다.",
+      "narration": "딥페이크 수사가 강화됩니다",
+      "sourceTitle": "딥페이크 범죄 신고 급증…경찰 전담팀 확대",
+      "sourceDesc": "인공지능으로 만든 딥페이크를 이용한 범죄 신고가 크게 늘어난 것으로 나타났다. 경찰은 전담 수사팀을 확대하고 단속을 강화하기로 했다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EB%94%A5%ED%8E%98%EC%9D%B4%ED%81%AC",
+      "imagePrompt": "photojournalism, distorted glitching portrait silhouette on a computer monitor in a dark room, cold blue light, unsettling documentary mood, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "모빌리티",
+      "kicker": "심야 운행",
+      "title": "자율주행 버스, 심야 노선 운행",
+      "summary": "자율주행 버스가 도심 심야 노선에서 운행을 시작합니다. 운영 초기에는 안전요원이 함께 탑승합니다.",
+      "narration": "심야 버스가 스스로 달립니다",
+      "sourceTitle": "자율주행 버스 심야 노선 운행 시작",
+      "sourceDesc": "자율주행 버스가 도심 심야 노선에서 운행을 시작한다. 운영 초기에는 안전요원이 함께 탑승해 돌발 상황에 대비한다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89",
+      "imagePrompt": "photojournalism, empty city bus stopped at a night crosswalk with sensor housings on its roof, wet asphalt reflecting street lights, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "바이오",
+      "kicker": "임상 진입",
+      "title": "인공지능 설계 신약, 임상 진입",
+      "summary": "인공지능이 설계한 신약 후보물질이 임상시험에 들어갑니다. 후보물질 발굴 기간이 크게 단축됐다는 평가가 나옵니다.",
+      "narration": "인공지능이 만든 신약이 임상에 갑니다",
+      "sourceTitle": "인공지능이 설계한 신약 후보물질, 임상시험 진입",
+      "sourceDesc": "인공지능이 설계한 신약 후보물질이 임상시험 단계에 들어간다. 업계에서는 후보물질 발굴 기간이 크게 단축됐다는 평가가 나온다.",
+      "sourceLink": "https://news.google.com/rss/search?q=%EC%8B%A0%EC%95%BD",
+      "imagePrompt": "photojournalism, laboratory bench with rows of sample vials and a glowing molecular model display, sterile clinical lighting, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[오리 기자] 2099-01-02 AI 뉴스 브리핑\n\n1. 데이터센터 급증에 전기요금 논의\n2. 인공지능 교과서, 초등 전면 도입\n3. 딥페이크 범죄 신고 크게 늘어\n4. 자율주행 버스, 심야 노선 운행\n5. 인공지능 설계 신약, 임상 진입\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
