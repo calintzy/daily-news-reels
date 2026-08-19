@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-20",
+  "slot": "am",
+  "hookLine": "코스피 5.8% 급락, 6400선까지 밀렸습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "증시 충격",
+      "title": "코스피 5.8% 급락…외국인 투매",
+      "summary": "어제 코스피가 5.8% 급락하며 6400선으로 후퇴했습니다. 미국 국채 금리 급등 여파로 외국인이 3조5000억원 넘게 투매하며 반도체 대형주를 중심으로 하락을 주도했습니다.",
+      "sourceTitle": "美 금리 쇼크에 코스피 5.8% 급락…외국인 '투매' [fn마감시황]",
+      "sourceDesc": "코스피가 미국 국채 금리 급등 여파에 5% 넘게 급락하며 6400선으로 후퇴했다. 외국인이 하루 동안 3조5000억원 넘게 팔아치운 가운데 삼성전자와 SK하이닉스 등 반도체 대형주가 지수 하락을 주도했다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+5.8%25+급락+외국인+투매&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Dramatic close-up of a stock market digital ticker board with cascading red numbers and downward arrows in a dark trading floor, photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "오늘의 훈련",
+      "title": "오늘 오후 2시 전국 민방위 훈련",
+      "summary": "행정안전부가 오늘 오후 2시부터 20분간 전국 민방위 훈련을 실시합니다. 공습경보 사이렌이 울리면 가까운 대피소나 지하공간으로 즉시 대피해야 합니다.",
+      "narration": "오늘 오후 2시, 전국에서 공습 사이렌이 울립니다.",
+      "sourceTitle": "20일 오후 2시 전국서 민방위 훈련…공습경보 울리면 지하로 대피",
+      "sourceDesc": "행정안전부가 20일 오후 2시부터 20분간 전국 공습 대비 민방위 훈련을 실시한다. 을지연습과 연계하여 오후 2시 공습경보 사이렌이 울리면 모든 국민은 즉시 가까운 민방위 대피소나 지하공간으로 대피해야 한다.",
+      "sourceLink": "https://news.google.com/search?q=8월+20일+민방위+훈련+공습경보&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Underground subway station with emergency orange lighting, civil defense shelter sign on concrete pillar, deserted platform in long corridor perspective, photojournalism documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "경제·기업",
+      "kicker": "주주환원 역대급",
+      "title": "SK하이닉스 40조 자사주 소각…국내 최대",
+      "summary": "SK하이닉스가 40조 규모 자사주 취득·소각을 결정했습니다. 국내 상장사 중 최대 규모로, 8월 20일부터 약 3개월간 취득 후 전량 소각합니다.",
+      "narration": "SK하이닉스, 국내 최대 40조 자사주 소각합니다.",
+      "sourceTitle": "SK하이닉스 '40조' 자사주 매입 소각...\"韓 자본시장 역사 바꾼 주주환원\"",
+      "sourceDesc": "SK하이닉스가 19일 이사회를 열고 총 40조43억원 규모의 자기주식을 취득해 소각하기로 결정했다. 국내 상장사의 자기주식 소각 사례 가운데 최대 규모로, 취득 예정 기간은 8월 20일부터 약 3개월이다.",
+      "sourceLink": "https://news.google.com/search?q=SK하이닉스+40조+자사주+소각&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of semiconductor chip circuit boards arranged in a geometric pattern under blue industrial lighting, photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "국제·안보",
+      "kicker": "동맹 흔들",
+      "title": "한미 UFS 훈련 축소, 21일 조기종료",
+      "summary": "트럼프 대통령 지시에 따라 한미 연합훈련이 대폭 축소됐습니다. 반격 작전이 취소되고 2주 일정이 1주로 단축돼 21일 조기 종료됩니다.",
+      "narration": "트럼프 지시로 한미훈련이 21일 조기 마무리됩니다.",
+      "sourceTitle": "한미 UFS, 방어만 하고 21일 조기종료…반격 취소·실기동 축소(종합)",
+      "sourceDesc": "트럼프 대통령의 지시에 따라 한미 연합훈련 을지자유의방패(UFS)가 대폭 축소됐다. 당초 2주 일정에서 1주로 단축됐으며, 반격 작전이 취소되고 실기동 훈련도 줄어 21일 조기 종료된다.",
+      "sourceLink": "https://news.google.com/search?q=한미+UFS+훈련+21일+조기종료&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Military airfield at dawn with fighter jets parked on empty tarmac, misty atmospheric light, wide documentary perspective, photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "국제·외교",
+      "kicker": "한중관계",
+      "title": "왕이 中외교부장 방한, 이재명 대통령 접견",
+      "summary": "왕이 중국 외교부장이 19~20일 한국을 공식 방문 중입니다. 이재명 대통령은 오늘 왕이 부장을 접견하며 한중관계를 논의합니다.",
+      "narration": "왕이 부장이 방한해 오늘 대통령과 만납니다.",
+      "sourceTitle": "李대통령, 20일 왕이 中외교부장 접견…한중관계 논의",
+      "sourceDesc": "왕이 중국 외교부장이 19~20일 한국을 공식 방문한다. 이재명 대통령은 20일 왕이 부장을 접견하며, 양자 외교장관 회담으로는 5년 만의 방한이다.",
+      "sourceLink": "https://news.google.com/search?q=왕이+외교부장+방한+이재명+접견&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Korean traditional palace gate with diplomatic flags on tall poles in morning light, cloudy sky backdrop, wide-angle documentary perspective, photojournalism style, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-20 아침 브리핑\n\n1. 코스피 5.8% 급락…외국인 투매\n2. 오늘 오후 2시 전국 민방위 훈련\n3. SK하이닉스 40조 자사주 소각…국내 최대\n4. 한미 UFS 훈련 축소, 21일 조기종료\n5. 왕이 中외교부장 방한, 이재명 대통령 접견\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #코스피 #민방위훈련 #한미훈련\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
