@@ -101,7 +101,9 @@ jobs:
         run: |
           git config user.name calintzy
           git config user.email byjrasid@gmail.com
-          git add docs/videos docs/previews docs/arms "assets/img/${{ steps.date.outputs.date }}"
+          git add docs/videos docs/previews docs/arms
+          # aibrief(무료 버전)는 이미지를 생성하지 않아 디렉토리가 없다 — 있을 때만 add (없으면 pathspec fatal)
+          [ -d "assets/img/${{ steps.date.outputs.date }}" ] && git add "assets/img/${{ steps.date.outputs.date }}"
           git commit -m "reels build: ${{ steps.date.outputs.date }}" || echo "커밋 변경 없음"
           # publish 잡이 마커를 먼저 push하면 경합으로 거절됨(2026-07-22 실측) — rebase 재시도
           git pull --rebase origin main || true
