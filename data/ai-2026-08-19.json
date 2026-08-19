@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-19",
+  "account": "aibrief",
+  "hookLine": "챗GPT 청소년 버전, 부모도 관리합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 서비스",
+      "kicker": "안전 출시",
+      "title": "OpenAI, 청소년 전용 챗GPT 출시",
+      "summary": "OpenAI가 13~17세 청소년을 위한 'ChatGPT for Teens'를 출시했습니다. 부모는 계정을 연결해 자녀의 사용시간과 안전 설정을 직접 관리할 수 있습니다.",
+      "sourceTitle": "챗GPT 청소년용 버전 출시… 13~17세 자녀 사용시간·안전 설정 부모가 관리",
+      "sourceDesc": "OpenAI가 13~17세 청소년을 위한 'ChatGPT for Teens'를 출시했습니다. 청소년에게는 강화된 안전 설정이 적용되고, 부모는 계정을 연결해 사용시간과 학습 모드, 일부 기능을 관리할 수 있습니다.",
+      "sourceLink": "https://news.google.com/search?q=ChatGPT+for+Teens+%EC%B6%9C%EC%8B%9C+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 기업",
+      "kicker": "상장 준비",
+      "title": "앤트로픽 IPO, 신용한도 100억달러 돌파 주목",
+      "summary": "IPO를 준비 중인 앤트로픽이 100억달러가 넘는 신용한도 확보를 추진하고 있습니다. 월가 은행들이 IPO 주요 역할을 차지하려고 대규모 신용공여 경쟁에 나서고 있습니다.",
+      "narration": "앤트로픽 IPO를 두고 월가 은행들이 경쟁합니다.",
+      "sourceTitle": "앤트로픽, IPO 주관사 경쟁 치열…신용한도 100억달러 돌파 주목",
+      "sourceDesc": "기업공개(IPO)를 준비 중인 인공지능(AI) 기업 앤트로픽이 100억달러가 넘는 대규모 신용한도 확보를 추진하고 있습니다. 월가 은행들이 앤트로픽 IPO에서 주요 역할을 따내기 위해 대규모 신용공여 경쟁에 나서고 있습니다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD+IPO+%EC%8B%A0%EC%9A%A9%ED%95%9C%EB%8F%84+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 정책",
+      "kicker": "국민 AI",
+      "title": "'모두의 AI', 이통3사·카카오 사업 참여",
+      "summary": "이재명 1호 공약인 전 국민 무료 AI 서비스 '모두의 AI'에 이통3사와 카카오 등이 참여를 신청했습니다. 정부는 이달 말 사업자를 선정해 12월 정식 출시를 목표로 합니다.",
+      "narration": "'모두의 AI', 이통3사와 카카오가 참여합니다.",
+      "sourceTitle": "이재명 1호 공약 '모두의 AI' 프로젝트…이통3사·카카오 등 참여",
+      "sourceDesc": "이재명 대통령의 1호 공약인 전 국민 무료 AI 서비스 '모두의 AI' 사업에 이통3사와 카카오 등이 참여를 신청했습니다. 정부는 이달 말 사업자를 선정하고 12월 정식 출시를 목표로 합니다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%AA%A8%EB%91%90%EC%9D%98+AI+%EC%82%AC%EC%97%85+%EC%B0%B8%EC%97%AC+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "사회 영향",
+      "kicker": "AI 수사",
+      "title": "경찰, 딥페이크 범죄자 419명 AI로 검거",
+      "summary": "경찰이 올해 1~7월 딥페이크 범죄 피의자 419명을 검거하고 이 가운데 17명을 구속했습니다. 딥페이크 탐지 소프트웨어와 AI 포렌식을 결합한 3중 대응체계가 가동 중입니다.",
+      "narration": "올해 딥페이크 범죄자 419명을 AI로 검거했습니다.",
+      "sourceTitle": "딥페이크 419명 검거…'AI 포렌식'으로 끝까지 쫓는다",
+      "sourceDesc": "경찰이 올해 1~7월 허위영상물(딥페이크) 범죄 피의자 419명을 검거해 이 가운데 17명을 구속했습니다. 경찰은 딥페이크 탐지 소프트웨어와 AI 포렌식 기법을 결합한 3중 대응체계로 범죄에 맞서고 있습니다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%94%A5%ED%8E%98%EC%9D%B4%ED%81%AC+419%EB%AA%85+%EA%B2%80%EA%B1%B0+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "AI 인프라",
+      "kicker": "AI 동맹",
+      "title": "LG·엔비디아, 내년 1분기 휴머노이드 로봇 공개",
+      "summary": "LG그룹과 엔비디아가 로봇·AI팩토리·모빌리티 3대 분야에서 전략적 협력을 맺었습니다. 양사는 내년 1분기 차세대 휴머노이드 로봇도 공개할 예정입니다.",
+      "narration": "LG와 엔비디아가 AI 로봇 협력을 본격화합니다.",
+      "sourceTitle": "LG 구광모·엔비디아 젠슨 황 'AI 동맹'…내년 1분기 휴머노이드 로봇 공개",
+      "sourceDesc": "LG그룹과 엔비디아가 로봇, AI팩토리, 모빌리티 3대 분야에서 전략적 사업 협력을 맺었습니다. 내년 1분기 차세대 휴머노이드 로봇도 공개할 예정입니다.",
+      "sourceLink": "https://news.google.com/search?q=LG+%EC%97%94%EB%B9%84%EB%94%94%EC%95%84+%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C+%EB%A1%9C%EB%B4%87+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-08-19 AI 뉴스 브리핑\n\n1. OpenAI, 청소년 전용 챗GPT 출시\n2. 앤트로픽 IPO, 신용한도 100억달러 돌파 주목\n3. '모두의 AI', 이통3사·카카오 사업 참여\n4. 경찰, 딥페이크 범죄자 419명 AI로 검거\n5. LG·엔비디아, 내년 1분기 휴머노이드 로봇 공개\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #ChatGPT #청소년AI #모두의AI #딥페이크 #LG엔비디아\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
