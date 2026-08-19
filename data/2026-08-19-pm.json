@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-19",
+  "slot": "pm",
+  "hookLine": "코스피 5.80% 급락, 사이드카 발동됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "증시 패닉",
+      "title": "코스피 5.80% 급락, 사이드카 발동",
+      "summary": "코스피 지수가 5.80% 급락해 6471.17로 마감됐습니다. 글로벌 금리 급등과 반도체 매물에 외국인·기관이 대규모 순매도했습니다.",
+      "sourceTitle": "[마감시황] 코스피, 외인·기관 매도에 5.80% 급락…6471선 마감",
+      "sourceDesc": "코스피 지수는 전 거래일보다 398.66포인트(5.80%) 내린 6471.17에 거래를 마쳤습니다. 오전 장 초반 매도 사이드카가 발동됐으며, 외국인과 기관이 각각 4조242억원, 1조7926억원을 순매도했습니다. 글로벌 장기금리 급등과 미국 반도체주 약세 여파가 국내 증시를 덮쳤습니다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+5.80%25+급락+사이드카&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism image of a digital stock market board with cascading red numbers and downward trending graphs, dramatic red lighting reflecting off dark glossy surfaces in a modern exchange hall, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "국제·안보",
+      "kicker": "훈련 반토막",
+      "title": "한미 연합훈련, 반격 없이 21일 조기 종료",
+      "summary": "합참이 한미 연합훈련 을지자유의방패가 21일 조기 종료된다고 공식 발표했습니다. 방어 훈련만 실시하고 대북 반격 훈련은 취소됐습니다.",
+      "narration": "한미 연합훈련이 21일 조기 종료됩니다.",
+      "sourceTitle": "한미 UFS, 17~21일 방어 훈련만 실시…대북 반격 훈련 취소·기간 절반 축소",
+      "sourceDesc": "한미 연합군사훈련 을지자유의방패(UFS)가 미측 제안으로 당초 일정(8월 17~27일)보다 6일 단축돼 21일 조기 종료된다. 방어 훈련(1부)만 실시하고 대북 반격 훈련(2부)은 취소됐으며, 야외기동훈련 일부도 축소됐다. 합참이 19일 이 같은 사실을 공식 발표했다.",
+      "sourceLink": "https://news.google.com/search?q=한미+UFS+을지자유의방패+21일+조기종료&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of an empty military exercise field at dusk with abandoned camouflage barriers and parked armored vehicles in the background, long shadows across dry open ground, muted olive and gray tones, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "경제·기업",
+      "kicker": "역대 최대",
+      "title": "SK하이닉스, 국내 최대 40조 자사주 소각",
+      "summary": "SK하이닉스가 40조원 규모 자사주를 취득해 전량 소각하기로 결의했습니다. 국내 상장사 자사주 소각 규모로는 역대 최대입니다.",
+      "narration": "SK하이닉스가 40조원 자사주 소각을 결정했습니다.",
+      "sourceTitle": "SK하이닉스, 40조원 규모 자사주 취득·소각…국내 상장사 최대",
+      "sourceDesc": "SK하이닉스가 19일 이사회를 열고 보통주 2407만주를 취득해 전량 소각하기로 결의했다. 취득예정금액은 40조43억4000만원이며, 취득 기간은 8월 20일부터 11월 19일까지다. 국내 상장사 자사주 소각 규모로는 역대 최대다.",
+      "sourceLink": "https://news.google.com/search?q=SK하이닉스+40조원+자사주+소각&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism close-up of stacked semiconductor memory chips arranged in precise rows under clean laboratory lighting, metallic blue and silver reflections on a white surface, shallow depth of field, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "국제·외교",
+      "kicker": "한중 외교",
+      "title": "왕이 방한, 한중 외교장관회담 개최",
+      "summary": "왕이 중국 외교부장이 19~20일 방한해 조현 외교부 장관과 한중 외교장관회담을 갖습니다. 이재명 대통령도 20일 청와대에서 왕이 부장을 접견할 예정입니다.",
+      "narration": "왕이 중국 외교부장이 방한해 회담을 시작합니다.",
+      "sourceTitle": "中왕이, 19~20일 공식 방한…종전 '다자논의' 테이블 오르나",
+      "sourceDesc": "왕이 중국 외교부장이 19~20일 한국을 공식 방문해 조현 외교부 장관과 한중 외교장관회담을 갖는다. 이재명 대통령은 20일 청와대에서 왕이 부장을 접견하며, 한중 관계 복원과 한반도 정세 등이 논의될 전망이다.",
+      "sourceLink": "https://news.google.com/search?q=왕이+방한+한중+외교장관회담&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photography of an empty formal diplomatic reception hall with two national flags on poles facing each other, parquet floor leading to tall ceremonial double doors, soft warm lighting, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "사회·IT",
+      "kicker": "베팅 차단",
+      "title": "폴리마켓 국내 접속 차단…사행성 인정",
+      "summary": "방미심위가 해외 예측시장 플랫폼 폴리마켓에 대해 사행성을 인정하고 국내 접속 차단을 의결했습니다. 이로써 한국은 폴리마켓을 제한한 세계 30여개국에 동참했습니다.",
+      "narration": "예측 베팅 플랫폼 폴리마켓이 국내서 차단됩니다.",
+      "sourceTitle": "해외 예측시장 '폴리마켓' 국내서 차단…방미심위 '사행성 인정'",
+      "sourceDesc": "방송미디어통신심의위원회(방미심위)가 18일 폴리마켓의 사행성을 인정하고 국내 접속 차단을 의결했다. 폴리마켓은 선거·날씨 등 현실 사건 결과에 베팅하는 예측시장 플랫폼이며, 이로써 한국은 폴리마켓 접속을 제한한 세계 30여개국에 동참하게 됐다.",
+      "sourceLink": "https://news.google.com/search?q=폴리마켓+한국+접속차단+방미심위&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism image of a laptop screen glowing red in a dark room showing a padlock prohibition symbol, cryptocurrency chart partially visible on a secondary monitor in the background, blue and red neon tones, vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-19 저녁 브리핑\n\n1. 코스피 5.80% 급락, 사이드카 발동\n2. 한미 연합훈련, 반격 없이 21일 조기 종료\n3. SK하이닉스, 국내 최대 40조 자사주 소각\n4. 왕이 방한, 한중 외교장관회담 개최\n5. 폴리마켓 국내 접속 차단…사행성 인정\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #코스피 #사이드카 #SK하이닉스 #한미훈련 #폴리마켓\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
