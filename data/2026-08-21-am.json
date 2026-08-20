@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-21",
+  "slot": "am",
+  "hookLine": "환율 1400원 선이 11개월 만에 무너졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "11개월 만에 최저",
+      "title": "환율 1400원 선 붕괴",
+      "summary": "어제 원·달러 환율이 1392.6원에 마감해 약 11개월 만에 1400원 선이 무너졌습니다. 달러 약세와 수출업체의 달러 매도 물량이 겹쳐 환율이 추가 하락했습니다.",
+      "sourceTitle": "1400원 무너지자 달러 매도 가속…환율, 11개월 만에 최저",
+      "sourceDesc": "원·달러 환율이 달러당 1392.6원에 마감해 약 11개월 만에 1400원이라는 심리적 지지선이 무너졌다. 미국 장기 국채금리 하락에 따른 달러 약세와 수출업체의 달러 매도 물량이 겹쳤다.",
+      "sourceLink": "https://news.google.com/search?q=원달러환율+1400원+2026년+8월",
+      "imagePrompt": "Currency exchange rate display board in an empty Korean bank lobby at dawn, warm golden morning light, shallow depth of field, photojournalism documentary style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "트럼프 지시",
+      "title": "한미 연합훈련, 오늘 조기 종료",
+      "summary": "트럼프 대통령 지시로 한미 연합훈련 기간이 11일에서 5일로 단축됐습니다. 김정은 위원장과의 관계를 이유로 훈련이 오늘 조기 종료됩니다.",
+      "narration": "한미 연합훈련이 오늘 조기에 끝납니다.",
+      "sourceTitle": "트럼프·김정은 11월 만남 추진… 한미연합훈련 11일서 5일로 단축",
+      "sourceDesc": "트럼프 대통령 지시로 한미 연합훈련 을지프리덤실드가 8월 17일 시작해 8월 21일 조기 종료하기로 했다. 훈련 기간은 11일에서 5일로 줄었으며 일부 야외 기동훈련 규모도 축소됐다.",
+      "sourceLink": "https://news.google.com/search?q=한미연합훈련+트럼프+축소+2026년+8월",
+      "imagePrompt": "Aerial view of an empty military training field at dawn with packed equipment and folded tents, overcast sky, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "사건",
+      "kicker": "개인정보 유출",
+      "title": "민간기관 해킹, 청와대 인사 정보 유출",
+      "summary": "민간 인증기관 서버가 해킹돼 청와대 인사 등 주요 인물의 개인정보가 유출됐습니다. 경찰이 수사에 착수했으며 국가 배후 해킹조직 소행 가능성도 살피고 있습니다.",
+      "narration": "청와대 인사 개인정보가 해킹으로 유출됐습니다.",
+      "sourceTitle": "민간 인증기관 서버 뚫렸다…'청와대 인사' 개인정보 유출",
+      "sourceDesc": "국내 민간인증기관 서버가 해킹돼 청와대 인사를 비롯한 국내 주요 인물의 개인정보가 탈취된 정황이 확인됐다. 유출된 개인정보는 이름과 전화번호, 주소 등이며 경찰은 국가 배후 해킹조직 소행 가능성을 수사 중이다.",
+      "sourceLink": "https://news.google.com/search?q=민간인증기관+해킹+청와대+개인정보+2026년+8월",
+      "imagePrompt": "Close-up of blinking red warning lights on a dark server rack in a secure data center corridor, dramatic side lighting, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "임단협 잠정합의",
+      "title": "SK하이닉스, 성과급 60% 자사주로",
+      "summary": "SK하이닉스 노사가 임금 6.3% 인상과 성과급 최대 60%를 자사주로 지급하는 잠정합의안을 마련했습니다. PS 40%는 현금, 나머지 60%는 주식으로 지급됩니다.",
+      "narration": "성과급 일부를 주식으로 받는 합의안이 나왔습니다.",
+      "sourceTitle": "SK하이닉스 노사 임단협 잠정합의…성과급 60% 자사주로",
+      "sourceDesc": "SK하이닉스 노사가 올해 임금을 6.3% 올리고 초과이익분배금(PS)의 최대 60%를 자사주로 지급하는 잠정합의안을 마련했다. PS 40%는 현금, 나머지 60%는 주식으로 지급되는 구조다.",
+      "sourceLink": "https://news.google.com/search?q=SK하이닉스+임단협+성과급+자사주+2026년+8월",
+      "imagePrompt": "Macro shot of semiconductor chips arranged on a circuit board with clean room manufacturing equipment in soft focus background, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "헌정사태 논란",
+      "title": "대법원장, 청와대 협의 없이 대법관 제청",
+      "summary": "조희대 대법원장이 청와대와 사전 협의 없이 대법관 2명을 서면으로 임명 제청했습니다. 청와대는 '헌정사 초유의 사태'라며 강하게 반발했습니다.",
+      "narration": "대법원장이 청와대 협의 없이 대법관을 제청했습니다.",
+      "sourceTitle": "조희대 대법원장, 대통령 협의없이 대법관 임명 제청···송영길 '탄핵 사유 늘었다'",
+      "sourceDesc": "조희대 대법원장이 청와대와 사전 협의 없이 대법관 2명을 서면으로 임명 제청했다. 청와대는 '대한민국 헌정사 초유의 사태'이며 '협의를 건너뛴 유례 없는 일방 통보'라고 반발했다.",
+      "sourceLink": "https://news.google.com/search?q=조희대+대법원장+대법관+임명+제청+2026년+8월",
+      "imagePrompt": "Exterior of a traditional stone-pillared Korean Supreme Court building in early morning mist, muted light, wide angle view, photojournalism style, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-21 아침 브리핑\n\n1. 환율 1400원 선 붕괴\n2. 한미 연합훈련, 오늘 조기 종료\n3. 민간기관 해킹, 청와대 인사 정보 유출\n4. SK하이닉스, 성과급 60% 자사주로\n5. 대법원장, 청와대 협의 없이 대법관 제청\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #경제 #환율 #한미동맹 #보안 #대법원\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_news_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
