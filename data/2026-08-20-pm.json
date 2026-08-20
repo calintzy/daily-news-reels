@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-20",
+  "slot": "pm",
+  "hookLine": "코스피, 급락 딛고 5.89% 반등 마감했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "증시 후속",
+      "title": "코스피 5.89% 급반등, 6852.58 마감",
+      "summary": "전날 급락했던 코스피가 5.89% 반등하며 6852.58로 마감했습니다. 외국인이 1조 7117억 원을 순매수하며 반도체 대형주가 강세를 이끌었습니다.",
+      "sourceTitle": "코스피 6852.58 마감…반도체 대장주 중 가장 많이 오른 '이곳'",
+      "sourceDesc": "코스피 지수는 전 거래일 대비 381.41포인트(5.89%) 상승한 6852.58에 거래를 끝냈다. 외국인은 코스피 시장에서 1조 7117억 원을 순매수했다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+5.89%25+반등+6852+마감&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Digital stock exchange board showing rising green numbers and upward arrows on a trading floor monitor, financial market recovery atmosphere, photojournalism documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "정치·사회",
+      "kicker": "주거 공방",
+      "title": "용산공원 주택 법안, 여야 처리 연기",
+      "summary": "당정이 추진한 용산공원 주택 법안이 오늘 국회 본회의에서 처리되지 않았습니다. 여야는 다음 주 본회의에서 처리하기로 했습니다.",
+      "narration": "용산공원 주택 법안이 다음 주로 미뤄졌습니다.",
+      "sourceTitle": "여야 '용산특별법 국토부 장관·서울시장 논의 반영해 처리'",
+      "sourceDesc": "여야는 20일 국회 본회의에서 용산공원특별법을 처리하지 않고, 국토교통부 장관과 서울시장의 논의를 반영해 다음 주 본회의에서 처리하기로 했다.",
+      "sourceLink": "https://news.google.com/search?q=용산공원+특별법+여야+본회의&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty urban park landscape with construction barriers on lush green lawn in a Seoul cityscape, overcast sky, wide-angle documentary perspective, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "성장률 상향",
+      "title": "KDI, 올해 성장률 3.2%로 상향 조정",
+      "summary": "KDI가 올해 경제성장률 전망을 2.5%에서 3.2%로 상향 조정했습니다. 반도체 설비투자 호황이 성장을 이끌었으며 경상흑자는 3600억달러 수준이 예상됩니다.",
+      "narration": "KDI가 올해 성장률을 3.2%로 올렸습니다.",
+      "sourceTitle": "KDI, 올해 경제성장률 3.2% 전망…반도체 호황에 경상흑자 3600억달러 예상",
+      "sourceDesc": "KDI는 19일 '2026년 8월 KDI 경제전망 수정'을 발표하고 올해 국내총생산(GDP) 성장률 전망치를 지난 5월 2.5%에서 3.2%로 0.7%포인트 상향 조정했다. 성장률 전망치 상향분 0.7%포인트 가운데 약 0.6%포인트가 반도체와 관련 설비투자에서 나올 정도로 '반도체 효과'가 압도적이다.",
+      "sourceLink": "https://news.google.com/search?q=KDI+경제성장률+3.2%25+상향&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Row of semiconductor wafers on a cleanroom processing tray under blue-tinted industrial lighting, high-tech manufacturing environment, photojournalism documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "사건·사고",
+      "kicker": "새벽 화재",
+      "title": "인천 중고차 수출단지 화재, 58대 소실",
+      "summary": "20일 새벽 인천 연수구 중고차 수출단지에서 화재가 발생해 중고차 58대가 소실됐습니다. 불은 100분 만에 진화됐으며 인명 피해는 없었습니다.",
+      "narration": "인천 중고차 수출단지 화재로 차량 58대가 불탔습니다.",
+      "sourceTitle": "인천 중고차수출단지 화재 100분 만에 진화…중고차 58대 불타",
+      "sourceDesc": "20일 오전 0시 39분께 인천 연수구 옥련동의 한 중고차 수출단지에서 화재가 발생해 약 100분 만에 진화됐다. 수출용 중고차 50대가 전소되고 8대가 일부 탔으며 인명 피해는 없었다.",
+      "sourceLink": "https://news.google.com/search?q=인천+중고차수출단지+화재+58대&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Charred vehicle frames and blackened debris in a dark commercial parking lot at night under sodium vapor lights, fire aftermath scene, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "사회·재난",
+      "kicker": "가뭄 대응",
+      "title": "경북 가뭄 비상…특별교부세 50억 긴급 투입",
+      "summary": "경북도가 계속되는 가뭄에 재난안전특별교부세 50억 7300만원을 긴급 투입합니다. 도내 누적 강수량이 평년의 74.5% 수준에 그쳐 농업용수 확보에 집중한다고 밝혔습니다.",
+      "narration": "경북도가 가뭄에 특별교부세 50억을 긴급 투입합니다.",
+      "sourceTitle": "경북도, 가뭄 피해 최소화에 특별교부세 50억 7300만원 전격 투입",
+      "sourceDesc": "경북도는 지속되는 강수 부족에 대응하기 위해 재난안전특별교부세 50억 7300만원을 추가 투입한다. 20일 경북도에 따르면 도내 2026년 누적 강수량은 570.0mm로 평년(764.7mm) 대비 74.5% 수준에 그치고 있다.",
+      "sourceLink": "https://news.google.com/search?q=경북+가뭄+재난안전특별교부세&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Cracked dry soil in a Korean farmland with withered crops in background, harsh summer sunlight casting long shadows, drought atmosphere, documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-20 저녁 브리핑\n\n1. 코스피 5.89% 급반등, 6852.58 마감\n2. 용산공원 주택 법안, 여야 처리 연기\n3. KDI, 올해 성장률 3.2%로 상향 조정\n4. 인천 중고차 수출단지 화재, 58대 소실\n5. 경북 가뭄 비상…특별교부세 50억 긴급 투입\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #코스피 #용산공원 #경북가뭄\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
