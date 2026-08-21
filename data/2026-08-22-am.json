@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-22",
+  "slot": "am",
+  "hookLine": "반도체 호황 세수로 AI·청년에 투자합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "재정 저수지",
+      "title": "미래대응기금 출범, AI·청년 등 4대 분야에 투자",
+      "summary": "정부가 반도체 호황기 세수 증가분을 쌓아두는 '미래대응기금' 신설을 발표했습니다. AI와 청년 등 미래 성장 분야를 포함한 4대 분야에 집중 투자합니다.",
+      "sourceTitle": "'재정 저수지'로 변동성 최소화…AI·청년 '미래 성장' 집중 투자 [미래대응기금 신설 방안 발표]",
+      "sourceDesc": "정부가 반도체 호황 등으로 세수 증가분을 별도로 쌓아두는 '미래대응기금'을 신설한다. 호황기에 늘어난 세수를 '재정 저수지'에 모아 인공지능(AI)과 청년 등 미래 성장 분야에 투자하고, 불황으로 세수가 줄면 꺼내 재정을 보강하는 구조다. 청년·성장동력·지방·교육 4대 분야에 중점 투자한다.",
+      "sourceLink": "https://news.google.com/search?q=미래대응기금+AI+청년+재정+저수지",
+      "imagePrompt": "Korean government budget documents and economic growth charts spread on a clean conference table in a modern ministerial office, warm daylight through large windows, bokeh background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "안보",
+      "kicker": "동맹 시험대",
+      "title": "한미 UFS 연습, 트럼프 지시로 반토막 종료",
+      "summary": "트럼프 대통령 지시로 한미 연합연습 UFS가 21일 조기 종료됐습니다. 훈련 기간이 11일에서 5일로 줄었고, 북한은 UFS 기간 중 탄도미사일을 발사했습니다.",
+      "narration": "한미 연합훈련이 트럼프 지시로 반토막 났습니다.",
+      "sourceTitle": "'트럼프 지시'에 축소된 UFS 연습, 21일 조기종료… 북한은 미사일 발사",
+      "sourceDesc": "도널드 트럼프 미국 대통령의 지시로 한미 연합연습 UFS가 21일 조기 종료됐다. 훈련 기간이 11일에서 5일로 반토막 났으며, 북한은 UFS 기간 중 단거리 탄도미사일을 동해상으로 발사했다.",
+      "sourceLink": "https://news.google.com/search?q=UFS+연습+조기종료+트럼프+한미",
+      "imagePrompt": "Empty military command center interior with dark displays and tactical maps on walls, dim blue operational lighting, rows of vacant workstations, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "사법 판단",
+      "title": "노웅래 2심 무죄, 이재명 대통령 공개 사과",
+      "summary": "노웅래 전 의원이 불법 정치자금 수수 혐의 항소심에서도 무죄를 선고받았습니다. 이재명 대통령은 소셜미디어에 '죄송합니다'라며 공천 배제에 대해 사과했습니다.",
+      "narration": "노웅래 2심 무죄, 이재명 대통령 사과했습니다.",
+      "sourceTitle": "李대통령, 노웅래 2심 무죄에 사과…'공천배제, 눈물 머금은 읍참마속'",
+      "sourceDesc": "이재명 대통령이 노웅래 전 의원의 불법 정치자금 수수 혐의 항소심 무죄 선고에 대해 공천 배제를 사과했다. 이 대통령은 소셜미디어에 '선배님, 죄송합니다. 존경합니다. 사랑합니다'라고 쓰며 공천 배제는 눈물 머금은 읍참마속이었다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=노웅래+2심+무죄+이재명+사과+공천배제",
+      "imagePrompt": "Empty Korean courtroom with a wooden judge's bench, scales of justice, tall windows casting light on empty benches, marble floor, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "한중 외교",
+      "title": "이재명·왕이 회담, 한중관계 전면 복원 평가",
+      "summary": "이재명 대통령이 왕이 중국 외교부장을 만나 한반도 문제 전략적 소통을 당부했습니다. 이 대통령은 한중관계 전면 복원이라는 성과를 만들고 있다고 평가했습니다.",
+      "narration": "이재명 대통령이 왕이와 한중관계 복원을 확인했습니다.",
+      "sourceTitle": "中 왕이 만난 李대통령, '한반도 문제' 전략적 소통 당부 (종합)",
+      "sourceDesc": "이재명 대통령이 왕이 중국 공산당 중앙정치국 위원 겸 외교부장을 만나 한중관계 및 한반도 문제에 대해 긴밀한 전략적 소통을 이어가 달라고 당부했다. 이 대통령은 한중관계 전면 복원이라는 확실한 성과를 만들고 있다고 평가했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+왕이+한중관계+전략적+소통",
+      "imagePrompt": "Korean and Chinese diplomatic flags displayed symmetrically in a formal government reception hall, polished marble floor, warm ambient chandeliers, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "고용 한파",
+      "title": "청년 취업자 45개월째 감소, 실업률 5년6개월 만에 최고",
+      "summary": "지난달 청년 취업자가 45개월 연속 감소했습니다. 청년 실업률은 5년 6개월 만에 가장 큰 폭으로 올라 정부가 대책을 검토합니다.",
+      "narration": "청년 취업자 감소, 45개월째 이어지고 있습니다.",
+      "sourceTitle": "전체 취업자수 늘고 청년 취업자수 줄었다…45개월째↓",
+      "sourceDesc": "15~29세 청년 취업자는 19만 1천 명 줄어 45개월째 감소했다. 청년 고용률도 44.2%로 1년 전보다 1.6%포인트 떨어져 27개월째 하락세이며, 청년 실업률은 5년 6개월 만에 가장 큰 폭으로 상승했다.",
+      "sourceLink": "https://news.google.com/search?q=청년+취업자+45개월+감소+실업률",
+      "imagePrompt": "Stack of job application forms on an empty desk with a closed laptop and a dim desk lamp, muted natural light from a window, minimalist composition, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-22 아침 브리핑\n\n1. 미래대응기금 출범, AI·청년 등 4대 분야에 투자\n2. 한미 UFS 연습, 트럼프 지시로 반토막 종료\n3. 노웅래 2심 무죄, 이재명 대통령 공개 사과\n4. 이재명·왕이 회담, 한중관계 전면 복원 평가\n5. 청년 취업자 45개월째 감소, 실업률 5년6개월 만에 최고\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #한국뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
