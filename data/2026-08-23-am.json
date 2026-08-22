@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-23",
+  "slot": "am",
+  "hookLine": "18호 태풍 사우델이 오늘 강도 4를 찍습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "날씨·재난",
+      "kicker": "초강력 태풍 정점",
+      "title": "18호 태풍 사우델 오늘 강도 4 정점",
+      "summary": "제18호 태풍 사우델이 오늘 강도 4의 최강 세력을 기록할 전망입니다. 25일 이후 세력이 약화되지만 이동 경로에 따라 한반도 영향 여부를 지켜봐야 합니다.",
+      "sourceTitle": "18호 태풍 사우델, 23일 강도 4로 정점…25일 이후 세력 약화 전망",
+      "sourceDesc": "제18호 태풍 사우델이 23일 강도 4로 정점을 기록할 전망이다. 이후 25일부터 세력이 점차 약화될 것으로 예보됐으며, 기상청은 한반도 영향 여부를 예의주시 중이다.",
+      "sourceLink": "https://news.google.com/search?q=18%ED%98%B8+%ED%83%9C%ED%92%8D+%EC%82%AC%EC%9A%B0%EB%8D%B8+%EA%B0%95%EB%8F%844+%EC%A0%95%EC%A0%90",
+      "imagePrompt": "Aerial photojournalism shot of a massive typhoon spiral over open ocean, towering cumulonimbus clouds forming a spiral wall, dark churning sea below, dramatic storm light, no people, no text, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "사건·사회",
+      "kicker": "유명 스님 급서",
+      "title": "명진스님 제주 프리다이빙 사고로 입적",
+      "summary": "봉은사 전 주지를 지낸 명진스님이 제주 해상에서 프리다이빙 도중 사고로 입적하셨습니다. 세수 76세, 법랍 52년의 스님은 어제 오전 구조됐으나 끝내 소생하지 못했습니다.",
+      "sourceTitle": "봉은사 전 주지 명진스님, 제주서 해양사고 입적…세수 76세",
+      "sourceDesc": "봉은사 전 주지를 지낸 명진스님이 8월 22일 제주 서귀포시 하예포구 인근 해상에서 프리다이빙 도중 사고로 입적했다. 세수 76세, 법랍 52년이다. 스님은 오전 9시 38분 물 위에 떠 있는 상태로 구조됐으나 10시 28분 사망 판정을 받았다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%AA%85%EC%A7%84%EC%8A%A4%EB%8B%98+%EC%9E%85%EC%A0%81+%EC%A0%9C%EC%A3%BC+%ED%94%84%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%B9%99",
+      "imagePrompt": "Close-up of wooden Buddhist prayer beads resting on dark coastal rocks beside calm ocean waves, incense smoke rising in still morning air, solemn quiet coastal atmosphere, no people, no text, vertical 9:16 composition, documentary photojournalism"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "가계빚 2000조 돌파",
+      "title": "가계부채 사상 처음 2000조원 돌파",
+      "summary": "올해 2분기 국내 가계부채가 사상 처음으로 2000조원대를 넘어섰습니다. 전분기 대비 26조원 가량 증가해 최대 폭을 기록했으며 주택담보대출과 빚투 수요가 증가를 이끌었습니다.",
+      "sourceTitle": "가계부채 2천조원 넘어 사상 최대…2분기 26조원 증가",
+      "sourceDesc": "올해 2분기 말 국내 가계신용 잔액이 2,019.8조원으로 사상 처음 2000조원대를 넘었다. 전분기 대비 26조원 가량 늘어 사상 최대 폭 증가를 기록했으며, 한국은행은 주택담보대출 수요와 빚투 등이 대출 증가를 이끌었다고 분석했다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%B0%80%EA%B3%84%EB%B6%80%EC%B1%842000%EC%A1%B0+2%EB%B6%84%EA%B8%B0+%EC%82%AC%EC%83%81%EC%B5%9C%EB%8C%80",
+      "imagePrompt": "Rows of high-rise apartment buildings reflected in a rain-soaked Seoul street at dusk, grey overcast sky, bank branch illuminated in the background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "사회·생활",
+      "kicker": "꽃게 제철 개막",
+      "title": "금어기 해제 햇꽃게, 100g당 689원 초저가",
+      "summary": "꽃게 금어기가 해제되면서 이마트가 가을 햇꽃게를 100g당 689원에 초저가 판매에 나섰습니다. 롯데마트·홈플러스 등도 동참하며 대형마트 간 가격 경쟁이 본격화됐습니다.",
+      "sourceTitle": "이마트, 금어기 풀린 햇 꽃게 100g 689원 초저가 판매",
+      "sourceDesc": "꽃게 금어기가 해제된 21일부터 이마트가 가을 햇꽃게를 100g당 689원이라는 초저가에 판매하기 시작했다. 롯데마트·홈플러스 등 대형마트들도 할인 판매에 나서며 꽃게 가격 경쟁이 본격화되고 있다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%BD%83%EA%B2%8C+%EA%B8%88%EC%96%B4%EA%B8%B0+%ED%95%B4%EC%A0%9C+%EC%9D%B4%EB%A7%88%ED%8A%B8+689%EC%9B%90",
+      "imagePrompt": "Fresh blue crabs piled on crushed ice at a Korean fish market, glistening orange and blue shells under bright overhead lights, wooden crates and fishing nets in background, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 5,
+      "category": "경제·생활",
+      "kicker": "기름값 14주째 뚝",
+      "title": "전국 기름값 14주째 하락, 휘발유 1862.5원",
+      "summary": "전국 주유소 휘발유 가격이 14주째 하락해 리터당 1862.5원을 기록했습니다. 경유도 1845.7원으로 내려 소비자들의 기름값 부담이 연속 완화되고 있습니다.",
+      "sourceTitle": "전국 기름값 14주째 하락…휘발유 리터당 1862.5원",
+      "sourceDesc": "8월 셋째 주 전국 주유소 휘발유 평균 판매가는 1ℓ에 1862.5원으로 지난주보다 1.7원 하락했다. 경유는 1845.7원으로 1.4원 내렸다. 국내 기름값은 5월 셋째 주부터 14주 연속 하락 중이다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%B8%B0%EB%A6%84%EA%B0%9214%EC%A3%BC+%EC%97%B0%EC%86%8D+%ED%95%98%EB%9D%BD+%ED%9C%98%EB%B0%9C%EC%9C%A0",
+      "imagePrompt": "Close-up of fuel dispenser nozzles hanging at an empty gas station, colorful pump handles in a row, sunlight reflecting off polished metal surfaces under a canopy, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-23 아침 브리핑\n\n1. 18호 태풍 사우델 오늘 강도 4 정점\n2. 명진스님 제주 프리다이빙 사고로 입적\n3. 가계부채 사상 처음 2000조원 돌파\n4. 금어기 해제 햇꽃게, 100g당 689원 초저가\n5. 전국 기름값 14주째 하락, 휘발유 1862.5원\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #태풍사우델 #가계부채 #꽃게\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "google_news_rss": "fail",
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
