@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-23",
+  "account": "aibrief",
+  "hookLine": "라스베이거스 유료 로보택시가 정식 허가됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "자율주행·교통",
+      "kicker": "수천 대 승인",
+      "title": "테슬라·웨이모·우버, 라스베이거스 로보택시 허가",
+      "summary": "미국 네바다주가 테슬라·웨이모·우버에 라스베이거스 일대 유료 로보택시 영업을 일괄 허가했습니다. 수천 대의 자율주행 차량이 이 지역에서 유료로 승객을 태울 수 있게 됐습니다.",
+      "sourceTitle": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "sourceDesc": "Nevada's transportation regulator unanimously approved permits for Tesla, Waymo, and Uber to offer paid robotaxi services in Clark County, home to Las Vegas. The permits allow thousands of self-driving vehicles to begin paid rides in the region.",
+      "sourceLink": "https://news.google.com/search?q=Tesla+Waymo+Uber+Nevada+robotaxi+approved&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델",
+      "kicker": "$6B 라이선스",
+      "title": "엔비디아, Poolside AI 소프트웨어 라이선스",
+      "summary": "엔비디아가 AI 스타트업 Poolside와 $6 Billion 규모의 비독점 라이선스 계약을 맺었습니다. Poolside 직원 109명에게도 채용을 제안했습니다.",
+      "narration": "엔비디아가 AI 스타트업 라이선스를 확보했습니다.",
+      "sourceTitle": "Nvidia to Pay Poolside a $6 Billion License, Tap Startup's Staff",
+      "sourceDesc": "Nvidia agreed to pay AI startup Poolside $6 Billion for a non-exclusive license to its Model Factory AI model-development software and extend job offers to about 109 Poolside employees. The startup is also raising an additional $1 Billion at a $12 Billion pre-money valuation.",
+      "sourceLink": "https://news.google.com/search?q=Nvidia+Poolside+6+Billion+license&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크 사업",
+      "kicker": "IPO 임박",
+      "title": "앤트로픽 연매출 $65 Billion, IPO 임박",
+      "summary": "AI 기업 앤트로픽의 연간 매출이 $65 Billion을 돌파하며 IPO 직전 역대 최고 실적을 기록했습니다. 분기 조정 영업이익도 흑자로 전환돼 기업공개가 가시화됐습니다.",
+      "narration": "앤트로픽 연매출, $65 Billion 돌파했습니다.",
+      "sourceTitle": "Anthropic's Annualized Revenue Tops $65 Billion Before IPO",
+      "sourceDesc": "Anthropic's annualized revenue run rate has surpassed $65 Billion based on current performance, up more than sevenfold from its pace at the end of last year. The AI company reported positive adjusted operating income in the second quarter and is expected to publicly file for an IPO as early as the end of August.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+65+Billion+revenue+IPO&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "AI 서비스",
+      "kicker": "청소년 모드",
+      "title": "OpenAI, 청소년용 ChatGPT 별도 모드 출시",
+      "summary": "OpenAI가 13세에서 17세 사용자를 위한 청소년 전용 ChatGPT 모드를 출시했습니다. 자살·자해·성적 대화를 차단하고, 부모가 알림을 받을 수 있는 기능도 포함됐습니다.",
+      "narration": "OpenAI, 십대용 ChatGPT 출시했습니다.",
+      "sourceTitle": "OpenAI Plans To Make ChatGPT Safer For Teens, Here's How",
+      "sourceDesc": "OpenAI launched a teen-tailored version of ChatGPT for users 13-17, blocking suicide, self-harm and romantic/sexual conversations and using age-prediction to auto-route minors into the mode. Parents can set quiet hours and receive high-risk safety notifications; a study mode nudges students through problems rather than handing them answers.",
+      "sourceLink": "https://news.google.com/search?q=OpenAI+ChatGPT+teen+13+17+safe&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "사회 영향",
+      "kicker": "AI 음악 표시제",
+      "title": "애플뮤직, AI 생성 음악에 라벨 부착 예고",
+      "summary": "애플뮤직이 AI로 만든 음악에 AI 생성 표시 라벨을 붙이는 정책을 예고했습니다. AI가 제작에 상당 부분 관여한 콘텐츠는 모든 애플뮤직 사용자에게 라벨이 표시됩니다.",
+      "narration": "애플뮤직이 AI 음악에 라벨 부착을 예고했습니다.",
+      "sourceTitle": "Apple Music Will Start Labeling AI-Generated Music",
+      "sourceDesc": "Apple Music will begin labeling AI-generated songs as Made With AI, with the labels visible to all Apple Music users. Content providers will be required to include AI transparency tags when AI was used to create a material portion of content, including tracks, artwork and music videos.",
+      "sourceLink": "https://news.google.com/search?q=Apple+Music+AI+generated+label&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-08-23 AI 뉴스 브리핑\n\n1. 테슬라·웨이모·우버, 라스베이거스 로보택시 허가\n2. 엔비디아, Poolside AI 소프트웨어 라이선스\n3. 앤트로픽 연매출 $65 Billion, IPO 임박\n4. OpenAI, 청소년용 ChatGPT 별도 모드 출시\n5. 애플뮤직, AI 생성 음악에 라벨 부착 예고\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #ChatGPT #엔비디아 #자율주행 #로보택시 #애플뮤직\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
