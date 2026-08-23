@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-23",
+  "slot": "pm",
+  "hookLine": "강도 4 사우델, 경로 두고 한·미·일이 엇갈립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "날씨·재난",
+      "kicker": "태풍 경로 논쟁",
+      "title": "사우델 강도 4 발달 후속, 한·미·일 경로 예측 분분",
+      "summary": "강도 4로 발달한 태풍 사우델 후속 소식입니다. 오키나와 이후 경로를 두고 한국·미국·일본 기상청의 예측이 크게 엇갈리며 한반도 직격 여부가 여전히 불투명합니다.",
+      "sourceTitle": "초강력 태풍 온다…제18호 태풍 사우델 경로, 한국·미국·일본 기상청 예측은?",
+      "sourceDesc": "제18호 태풍 사우델이 22일부터 최대풍속 초속 44~53m의 강도 4 태풍으로 발달한 가운데 오키나와 이후 진로를 두고 한국·미국·일본 기상청의 예측이 크게 엇갈리고 있다. 미국 수치모델(GFS) 앙상블은 대만부터 중국 동부, 일부는 우리나라 서해, 또 일부는 일본을 향하는 경우까지 다양하게 갈린다. 개별 모델 간 편차가 워낙 커서 아직 특정 경로에 무게를 싣기는 이른 상황이다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%82%AC%EC%9A%B0%EB%8D%B8+%EA%B2%BD%EB%A1%9C+%ED%95%9C%EB%AF%B8%EC%9D%BC+%EA%B8%B0%EC%83%81%EC%B2%AD+%EC%98%88%EC%B8%A1",
+      "imagePrompt": "Satellite-style aerial view of a massive typhoon spiral over the western Pacific Ocean, multiple diverging path arrows spreading toward different coastlines, dramatic storm cloud formations, dark churning seas, no people, no text, vertical 9:16 composition, documentary photojournalism"
+    },
+    {
+      "rank": 2,
+      "category": "경제·부동산",
+      "kicker": "갭투자 차단",
+      "title": "비거주 1주택자 전세대출, 신규·만기 연장 차단",
+      "summary": "정부가 수도권·규제지역에 주택을 보유하고도 실거주하지 않는 1주택자의 전세대출을 제한합니다. 신규 취급뿐 아니라 기존 만기 연장도 원칙적으로 금지되며, 하루라도 거주한 이력이 있으면 예외가 인정됩니다.",
+      "sourceTitle": "비거주 1주택자 전세대출 차단…\"하루라도 살았다면 예외\" [8·13 부동산대책-Q&A]",
+      "sourceDesc": "정부가 수도권·규제지역에 주택을 보유하고도 실제 거주하지 않는 1주택자의 전세대출을 제한한다. 보유 주택에 본인이나 배우자가 하루라도 거주한 이력이 있다면 규제 대상에서 제외된다. 신규 전세대출 취급뿐 아니라 기존 전세대출의 만기 연장도 원칙적으로 금지된다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%B9%84%EA%B1%B0%EC%A3%BC+1%EC%A3%BC%ED%83%9D%EC%9E%90+%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C+%EC%B0%A8%EB%8B%A8+813+%EB%B6%80%EB%8F%99%EC%82%B0",
+      "imagePrompt": "Row of high-rise residential apartment towers in Seoul at dusk, illuminated windows reflecting on wet pavement below, real estate office storefront with listings visible through glass, urban neighborhood atmosphere, no people, no text, vertical 9:16 composition, documentary photojournalism"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "당청 결속",
+      "title": "이재명, 28일 민주당 의원 전원 청와대 오찬",
+      "summary": "이재명 대통령이 오는 28일 더불어민주당 의원들을 청와대 영빈관으로 초청해 오찬을 함께합니다. 9월 정기국회를 앞두고 당정 결속을 다지려는 행보로 풀이됩니다.",
+      "sourceTitle": "李대통령, 28일 민주당 국회의원 전원 청와대 초청해 오찬",
+      "sourceDesc": "이재명 대통령이 28일 더불어민주당 의원들을 청와대 영빈관으로 초청해 오찬을 함께한다. 민주당 의원들은 27일부터 1박 2일 일정으로 인천에서 정기국회 대비 의원 워크숍을 연 뒤 이 대통령과의 오찬에 참석한다. 9월 정기국회를 앞두고 당정 결속을 다지는 자리로 풀이된다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9D%B4%EC%9E%AC%EB%AA%85+28%EC%9D%BC+%EB%AF%BC%EC%A3%BC%EB%8B%B9+%EC%B2%AD%EC%99%80%EB%8C%80+%EC%98%A4%EC%B0%AC",
+      "imagePrompt": "Exterior view of the South Korean presidential Blue House building at dusk, traditional tiled rooftop architecture, formal stone gate with courtyard, national flag pole in background, no people, no text, vertical 9:16 composition, documentary photojournalism"
+    },
+    {
+      "rank": 4,
+      "category": "국제·외교",
+      "kicker": "한중 교류 복원",
+      "title": "이재명-왕이 회담, APEC 계기 정상회담 추진",
+      "summary": "이재명 대통령이 왕이 중국 외교부장을 만나 한반도 평화를 위한 협력을 요청했습니다. 양측은 11월 선전 APEC 정상회의를 계기로 한 정상회담 개최 등 고위급 교류 복원 방안을 논의했습니다.",
+      "sourceTitle": "왕이 접견한 李 '中, 한반도 평화 위한 협력을'",
+      "sourceDesc": "이재명 대통령이 왕이 중국 외교부장을 접견하고 한반도 평화체제 구축과 한중 관계 복원을 위한 협력을 요청했다. 양측은 11월 중국 선전에서 열리는 APEC 정상회의를 계기로 한 정상회담 개최 등 고위급 교류 복원 방안을 논의했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9D%B4%EC%9E%AC%EB%AA%85+%EC%99%95%EC%9D%B4+%ED%9A%8C%EB%8B%B4+APEC+%ED%95%9C%EC%A4%91+%EC%A0%95%EC%83%81%ED%9A%8C%EB%8B%B4",
+      "imagePrompt": "Formal diplomatic meeting room with Korean and Chinese national flags placed side by side on a long conference table, classical interior with warm lighting, empty high-backed chairs, no people, no text, vertical 9:16 composition, documentary photojournalism"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "아동보호 대개편",
+      "title": "서울시 아동복지센터, 광역 컨트롤타워로 개편",
+      "summary": "서울시가 기존 아동복지센터를 '광역 아동보호 컨트롤타워'로 개편한다고 23일 밝혔습니다. 양육시설 아동 48%가 경계선지능·ADHD 등 어려움을 겪는다는 실태를 바탕으로 치료·입양·학대 대응을 통합합니다.",
+      "sourceTitle": "아동복지센터, '광역 아동보호 컨트롤타워'로 새 출발… 입양~심리치료 통합지원",
+      "sourceDesc": "서울시는 2027년부터 아동복지센터를 고위험 아동 집중치료, 공적입양, 아동학대 대응, 일시보호 등을 아우르는 '광역 아동보호 컨트롤타워'로 개편한다고 23일 밝혔다. 2025년 기준 서울시 양육시설 아동 1497명 중 719명(48%)이 경계선지능이나 ADHD, 우울·불안 등 정서·행동 문제를 겪는 것으로 파악됐다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%84%9C%EC%9A%B8%EC%8B%9C+%EC%95%84%EB%8F%99%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0+%EA%B4%91%EC%97%AD+%EC%BB%A8%ED%8A%B8%EB%A1%A4%ED%83%80%EC%9B%8C+2026",
+      "imagePrompt": "Child welfare center interior with colorful empty play area, soft seating and cushions, children's artwork on pastel-colored walls, warm afternoon sunlight streaming through large windows, cozy and safe atmosphere, no people, no text, vertical 9:16 composition, documentary photojournalism"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-23 저녁 브리핑\n\n1. 사우델 강도 4 발달 후속, 한·미·일 경로 예측 분분\n2. 비거주 1주택자 전세대출, 신규·만기 연장 차단\n3. 이재명, 28일 민주당 의원 전원 청와대 오찬\n4. 이재명-왕이 회담, APEC 계기 정상회담 추진\n5. 서울시 아동복지센터, 광역 컨트롤타워로 개편\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #태풍사우델 #부동산 #한중외교\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_news_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
