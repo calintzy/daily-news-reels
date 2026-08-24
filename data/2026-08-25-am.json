@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-25",
+  "slot": "am",
+  "hookLine": "경찰 허위종결 실종, 사흘새 시신 4명 발견됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "경찰 허위종결 파문",
+      "title": "제주 실종 허위종결, 시신 4명 발견",
+      "summary": "제주에서 사흘 새 실종자 4명의 시신이 발견됐으며, 경찰 허위종결 사건 2건이 포함됐습니다. 경찰청이 제주 실종사건 허위종결에 대한 감찰에 착수했습니다.",
+      "sourceTitle": "제주서 사흘새 실종자 4명 시신 발견… 경찰 허위종결 2건 포함",
+      "sourceDesc": "제주 곳곳에서 사흘 새 실종자 4명의 시신이 발견됐으며, 이 가운데 경찰관이 허위로 종결 처리한 사건 2건이 포함됐다. 경찰청이 제주 실종사건 허위 종결과 관련해 감찰에 착수했다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=제주+실종+허위종결+시신+발견&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Abandoned police evidence folders stacked on a dusty desk inside an empty government office, dim overhead lighting, muted green and grey tones, documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "삼성 주주환원 역풍",
+      "title": "삼성전자, 역대급 주주환원에도 주가 폭락",
+      "summary": "삼성전자가 역대급 주주환원 계획을 발표했음에도 주가가 큰 폭으로 폭락했습니다. 시장 기대에 미치지 못한다는 평가 속에 실망 매물이 쏟아진 것으로 분석됩니다.",
+      "sourceTitle": "삼성전자 8% 폭락…110조 역대급 돈잔치에도 주가 무너진 이유",
+      "sourceDesc": "삼성전자가 역대급 주주환원 계획(90조~110조원)을 발표했음에도 주가가 8% 넘게 폭락했다. 시장이 기대한 자사주 매입·소각 규모와 집행 시점이 구체화되지 않으면서 실망 매물이 쏟아진 것으로 분석된다. 코스피 지수도 3% 넘게 하락했다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+주가+폭락+주주환원&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Large LED stock ticker board on a financial district building exterior showing red downward arrows in the early morning light, blurred glass tower reflections in background, photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "현대차 파업 봉합",
+      "title": "현대차 노사, 파업 사흘 만에 충원 합의",
+      "summary": "전면파업 사흘 만에 현대자동차 노사가 교섭 테이블에 복귀해 신규 인원 500명 충원에 합의했습니다. 기본급 등 임금성 안건에서는 이견이 남아 협상이 계속됩니다.",
+      "sourceTitle": "전면파업 사흘 만에 마주앉은 현대차 노사, 500명 충원 합의",
+      "sourceDesc": "현대차 노사가 전면파업 사흘 만에 교섭 테이블에 복귀해 신규 인원 500명 충원에 합의했다. 기술직 신규 채용은 내년 하반기 200명, 2028년 300명으로 전해졌다. 기본급 등 임금성 안건에서는 이견이 좁혀지지 않아 교섭이 정회됐다.",
+      "sourceLink": "https://news.google.com/search?q=현대차+노사+파업+500명+충원+합의&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty automotive assembly line in a large factory, idle robotic arms frozen mid-motion, dramatic industrial overhead lighting casting long shadows, photojournalism documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "물류 현장 안전사고",
+      "title": "쿠팡 광주 물류센터 사고, 40대 심정지",
+      "summary": "경기도 광주 쿠팡 물류센터에서 40대 노동자가 지게차 사고로 구조물에 끼여 심정지 상태에 빠졌습니다. 자가맥박은 회복됐으나 의식을 되찾지 못한 중태로 고용노동부가 조사에 착수했습니다.",
+      "sourceTitle": "경기 광주 쿠팡 물류센터서 지게차 사고‥40대 노동자 심정지",
+      "sourceDesc": "경기도 광주시 쿠팡 물류센터에서 지게차를 운전하던 40대 노동자가 구조물 사이에 끼이는 사고로 심정지 상태에 빠졌다. 노동자는 치료 후 자가맥박은 회복했으나 의식을 되찾지 못한 중태이며, 고용노동부가 현장 조사에 착수했다.",
+      "sourceLink": "https://news.google.com/search?q=쿠팡+물류센터+지게차+사고+심정지&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Industrial warehouse interior with yellow caution tape stretched across a narrow aisle between tall metal shelving units, a single forklift visible in background, harsh overhead fluorescent lighting, documentary photojournalism style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "법무장관 교체",
+      "title": "정성호 법무장관 사의 수리, 후임 공백",
+      "summary": "이재명 대통령이 정성호 법무부 장관의 사표를 수리했습니다. 사직서 제출 엿새 만이며, 오는 10월 공소청 개청을 앞두고 이진수 차관의 대행 체제로 운영됩니다.",
+      "sourceTitle": "李대통령, 정성호 법무부 장관 사의 수리",
+      "sourceDesc": "이재명 대통령이 24일 정성호 법무부 장관의 사표를 수리했다. 사직서를 제출한 지 엿새 만이며, 오는 10월 공소청 개청을 앞두고 이진수 차관의 장관 대행 체제로 운영된다.",
+      "sourceLink": "https://news.google.com/search?q=정성호+법무장관+사의+수리&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Exterior of a large government ministry building at dusk, an empty placard frame on the facade, formal Korean government architecture with stone steps, cool blue evening light, photojournalism style, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-25 아침 브리핑\n\n1. 제주 실종 허위종결, 시신 4명 발견\n2. 삼성전자, 역대급 주주환원에도 주가 폭락\n3. 현대차 노사, 파업 사흘 만에 충원 합의\n4. 쿠팡 광주 물류센터 사고, 40대 심정지\n5. 정성호 법무장관 사의 수리, 후임 공백\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #제주실종 #경찰허위종결 #삼성전자 #현대차파업 #물류센터사고\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "googleNews": "fail",
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
