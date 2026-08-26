@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-27",
+  "slot": "am",
+  "hookLine": "네팔 홍수로 한국인 8명이 실종됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·재난",
+      "kicker": "한국인 실종",
+      "title": "네팔 홍수 한국인 8명 실종, 10명 고립",
+      "summary": "네팔에서 홍수가 발생해 수력발전소를 건설 중이던 한국인 직원 8명이 실종됐습니다. 현지에 고립된 한국인 10명도 구조를 기다리고 있습니다.",
+      "sourceTitle": "[속보] 네팔 홍수로 한국인 8명 실종‥10명 고립",
+      "sourceDesc": "네팔 라수와 지역에 홍수가 발생하면서 현지에 수력발전소 건설을 위해 머물던 한국인 직원 8명이 실종됐으며, 한국남동발전과 두산에너빌리티 소속 우리 국민 직원들입니다. 현지에서 일하는 한국인 10명은 고립돼 구조를 기다리고 있습니다.",
+      "sourceLink": "https://news.google.com/search?q=네팔+홍수+한국인+실종+2026",
+      "imagePrompt": "Wide-angle documentary photograph of a flooded mountain valley in Nepal, turbulent brown floodwater surging through a construction site with partially submerged concrete structures, dramatic stormclouds over snow-capped Himalayan peaks, golden-hour light, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "사건",
+      "kicker": "신원 확인",
+      "title": "경산 살인 피의자, 피해자 대학 강사였다",
+      "summary": "경북 경산에서 중국인 여성 유학생을 살해한 혐의로 검거된 30대 남성이 피해자가 다니던 대학의 강사였습니다. 경찰은 피의자가 시신 일부를 훼손·유기한 것으로 보고 수색 중입니다.",
+      "sourceTitle": "中 유학생 살해 피의자, 피해자 다니던 대학 강사였다 (종합)",
+      "sourceDesc": "경북 경산에서 20대 중국인 여성 유학생을 살해한 혐의로 붙잡힌 30대 중국인 남성이 피해자가 다니던 대학의 강사였습니다. 경찰은 피의자가 피해자 시신 일부를 훼손해 유기한 것으로 보고 소각장 일대를 수색하고 있습니다.",
+      "sourceLink": "https://news.google.com/search?q=경산+중국인+유학생+살해+강사+2026",
+      "imagePrompt": "Documentary photograph of a Korean university hallway at night with yellow police investigation tape stretched across a closed classroom door, evidence markers on tiled floor, dim fluorescent lighting casting long shadows, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "출산율 반등",
+      "title": "합계출산율 0.8명대, 4년 만에 반등",
+      "summary": "지난해 합계출산율이 4년 만에 0.8명대를 회복했습니다. 출생아 수도 2년 연속 늘어 저출산 반등에 긍정 신호가 나타났습니다.",
+      "sourceTitle": "지난해 출생아 2년 연속 증가…합계출산율 0.8명대 회복",
+      "sourceDesc": "통계청이 발표한 2025년 출생·사망 통계(잠정)에 따르면 2025년 합계출산율이 0.80명으로 2024년 0.75명보다 증가했습니다. 2021년 이후 4년 만에 0.8명대를 회복했으며, 출생아 수는 2년 연속 늘었습니다.",
+      "sourceLink": "https://news.google.com/search?q=합계출산율+2025년+출생통계",
+      "imagePrompt": "Documentary photograph of a quiet empty Korean baby nursery with a wooden crib placed by a sunny window, soft morning light filtering through white sheer curtains, pastel-colored room, small plush toy on the floor, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "법정 다툼",
+      "title": "쿠팡, 공정위 거부하고 법원 소송까지",
+      "summary": "쿠팡이 공정위 현장조사를 거부한 데 이어 법원에 직권조사 결정 취소 소송을 냈습니다. 대규모유통업법 시행 이래 기업이 현장조사를 거부한 것도, 법원에서 다투게 된 것도 처음입니다.",
+      "sourceTitle": "초유의 조사 거부… 법정서 맞붙는 공정위·쿠팡",
+      "sourceDesc": "쿠팡이 공정위 현장조사를 전면 거부하고 법원에 직권조사 결정 취소 소송을 냈습니다. 대규모유통업법 시행 이래 기업이 현장조사를 거부한 것도, 법원에서 다투게 된 것도 처음 있는 일입니다.",
+      "sourceLink": "https://news.google.com/search?q=쿠팡+공정위+현장조사+법원+소송+2026",
+      "imagePrompt": "Documentary photograph of a Korean courthouse exterior with stone columns and official stone signage, heavy closed wooden entrance doors, wide stone steps leading to entrance, overcast sky, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "생활",
+      "kicker": "농가 보호",
+      "title": "농산물 가격안정제 오늘부터 시행",
+      "summary": "오늘부터 농산물 가격이 기준 이하로 떨어지면 정부가 농가에 하락분 일부를 지원하는 가격안정제가 시행됩니다. 파종부터 수급을 체계적으로 관리하는 농안법도 함께 시행됩니다.",
+      "sourceTitle": "정부, 농가 경영안정 총력…'가격안정제' 8월27일 시행",
+      "sourceDesc": "농림축산식품부는 27일부터 농산물 가격이 기준 이하로 하락할 경우 정부가 농가에 하락분 일부를 지원하는 가격안정제를 시행합니다. 파종·정식 단계부터 수급을 선제적·체계적으로 관리하는 농안법도 이날부터 시행됩니다.",
+      "sourceLink": "https://news.google.com/search?q=농안법+가격안정제+2026+8월",
+      "imagePrompt": "Documentary photograph of fresh vegetables in wooden harvest crates at a Korean rural wholesale market, rows of green cabbages and peppers on rustic wooden stall with price label cards, soft morning light, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-27 아침 브리핑\n\n1. 네팔 홍수 한국인 8명 실종, 10명 고립\n2. 경산 살인 피의자, 피해자 대학 강사였다\n3. 합계출산율 0.8명대, 4년 만에 반등\n4. 쿠팡, 공정위 거부하고 법원 소송까지\n5. 농산물 가격안정제 오늘부터 시행\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #네팔홍수 #출산율 #쿠팡 #공정위 #농안법\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail", "googleNewsRSS": "fail" },
+    "signalHits": []
+  }
+}
