@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-26",
+  "account": "aibrief",
+  "hookLine": "챗GPT, 유럽에서도 광고가 뜹니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 서비스",
+      "kicker": "무료엔 광고",
+      "title": "오픈AI, 유럽 31개국 챗GPT에 광고 시작",
+      "summary": "오픈AI가 8월 24일부터 유럽 31개국 챗GPT 무료·저가 요금제에 광고를 도입했습니다. GDPR 준수를 위해 개인화 없이 운영되며, 유료 구독자에게는 광고가 노출되지 않습니다.",
+      "sourceTitle": "오픈AI, 유럽 31개국 챗GPT 무료·저가판에 광고 도입…유료만 광고 없다",
+      "sourceDesc": "오픈AI가 8월 24일(현지시각)부터 유럽 31개국에서 챗GPT 무료 버전과 저가 요금제 이용자에게 광고를 노출한다고 밝혔다. 독일, 프랑스, 스웨덴, 노르웨이, 오스트리아 등을 포함한 유럽 31개 시장에 챗GPT 광고를 도입하며, GDPR 준수를 위해 개인화 없이 운영된다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%98%A4%ED%94%88AI+%EC%9C%A0%EB%9F%BD+%EC%B1%97GPT+%EA%B4%91%EA%B3%A0&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 안보",
+      "kicker": "AI 자율살상",
+      "title": "러시아, AI 자율살상 드론 우크라이나에 투입",
+      "summary": "러시아가 우크라이나에 AI 기반 '자율살상' 드론을 투입한 것으로 확인됐습니다. 드론 잔해에서 엔비디아 '젯슨 오린' 칩이 발견됐으며, 자포리자 공격에서 민간인 3명이 사망했습니다.",
+      "narration": "러시아가 AI 자율살상 드론을 투입했습니다.",
+      "sourceTitle": "러시아, 우크라이나에 '자율살상' AI 드론 투입...엔비디아 칩 탑재",
+      "sourceDesc": "우크라이나 감식반이 러시아군 드론 잔해에서 엔비디아 초소형 컴퓨터 '젯슨 오린'을 발견했다. 우크라이나 당국은 이 드론이 자포리자에서 발생한 공격에 가담해 민간인 3명을 사망하게 한 것으로 판단했다. 드론에 안테나가 없어 AI 시스템을 기반으로 스스로 판단해 공격을 결정한 것으로 보인다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%9F%AC%EC%8B%9C%EC%95%84+AI+%EC%9E%90%EC%9C%A8%EC%82%B4%EC%83%81+%EB%93%9C%EB%A1%A0+%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "사회 영향",
+      "kicker": "청년 일자리 직격",
+      "title": "AI, 청년 일자리 26만8000개 뺏었다",
+      "summary": "2022년부터 4년간 청년층 일자리 28만5000개 중 94.0%인 26만8000개가 AI 노출도 높은 업종에서 감소했습니다. 청년 취업 문턱이 높아졌다는 분석이 나왔습니다.",
+      "narration": "청년 일자리 감소의 94.0%가 AI 업종입니다.",
+      "sourceTitle": "\"AI가 청년 일자리 뺏었다\" 4년간 26만8000개 감소",
+      "sourceDesc": "2022년 6월부터 2026년 6월까지 청년층(15~29세) 일자리는 28만5000개 감소했으며, 이 중 26만8000개가 AI 노출도가 높은 업종에서 줄었고, 이는 전체 감소분의 94.0%에 달한다. AI가 자료 정리, 문서 작성 등 사회초년생이 맡아온 업무를 빠르게 대체하면서 청년층의 노동시장 진입 문턱이 높아졌다는 분석이다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%B2%AD%EB%85%84+%EC%9D%BC%EC%9E%90%EB%A6%AC+AI+%EA%B0%90%EC%86%8C&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "빅테크 사업",
+      "kicker": "역대 최대 IPO",
+      "title": "Anthropic, 10월 $2조 IPO 추진",
+      "summary": "Anthropic이 10월에 $2조 이상의 기업가치로 상장을 추진합니다. 실현되면 역대 최대 규모의 IPO가 됩니다.",
+      "narration": "Anthropic이 $2조 IPO를 추진합니다.",
+      "sourceTitle": "Anthropic reportedly plans a $2 trillion IPO in October—the largest ever—that will eclipse SpaceX",
+      "sourceDesc": "Anthropic investors expect the AI company to go public in October at a valuation of $2 trillion or more, which would make it the largest initial public offering in history. Such a figure would surpass SpaceX, which went public at a $1.77 trillion valuation in June.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+IPO+%EA%B8%B0%EC%97%85%EA%B3%B5%EA%B0%9C&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "AI 표시 의무",
+      "title": "EU AI법, AI 투명성 의무 8월부터 발효",
+      "summary": "EU에서 8월 2일부터 AI Act 제50조 투명성 의무가 발효됐습니다. 범용 인공지능(General-Purpose AI)에 대한 집행·제재 권한도 본격 가동됩니다.",
+      "narration": "EU AI법 투명성 의무가 8월부터 발효됐습니다.",
+      "sourceTitle": "EU, 8월 2일부터 AI법 시행…AI 투명성 의무 신설",
+      "sourceDesc": "EU에서는 2026년 8월 2일부터 AI Act 제50조 투명성 의무가 발효되고 범용 인공지능(General-Purpose AI)에 대한 집행·제재 권한이 본격 가동됩니다.",
+      "sourceLink": "https://news.google.com/search?q=EU+AI%EB%B2%95+%ED%88%AC%EB%AA%85%EC%84%B1+%EC%9D%98%EB%AC%B4&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-08-26 AI 뉴스 브리핑\n\n1. 오픈AI, 유럽 31개국 챗GPT에 광고 시작\n2. 러시아, AI 자율살상 드론 우크라이나에 투입\n3. AI, 청년 일자리 26만8000개 뺏었다\n4. Anthropic, 10월 $2조 IPO 추진\n5. EU AI법, AI 투명성 의무 8월부터 발효\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #ChatGPT #드론 #일자리 #IPO #규제\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
