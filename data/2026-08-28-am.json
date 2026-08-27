@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-28",
+  "slot": "am",
+  "hookLine": "네팔 홍수로 한국인 8명 연락 두절됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·재난",
+      "kicker": "네팔 홍수",
+      "title": "한국인 8명 연락두절·9명 헬기 이동",
+      "summary": "네팔 라수와 지역 돌발 홍수로 수력발전소 건설 현장 한국인 8명이 연락 두절됐습니다. 고립됐던 10명 중 9명은 헬기로 안전지역으로 이동했습니다.",
+      "sourceTitle": "[속보] 네팔 홍수로 한국인 8명 연락두절·10명 고립",
+      "sourceDesc": "네팔 라수와 지역 수력발전소 건설 현장에서 돌발 홍수가 발생해 한국인 8명이 연락 두절되고 10명이 고립됐다. 고립된 10명 중 9명이 헬기로 안전지역으로 이동한 것으로 확인됐다.",
+      "sourceLink": "https://news.google.com/search?q=네팔+홍수+한국인+연락두절+2026",
+      "imagePrompt": "Turbulent river overflowing its banks in a steep Himalayan valley, rushing brown floodwater sweeping through a remote construction site, rescue helicopter visible in heavy clouds above, dramatic wide-angle view, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "사건",
+      "kicker": "부산 살인",
+      "title": "베트남 유학생 살해 동포 긴급체포",
+      "summary": "부산 중구에서 베트남 여성 유학생을 살해한 혐의를 받는 20대 베트남 남성이 긴급체포됐습니다. 피의자는 피해자 자택에 침입해 현금을 빼앗으려다 저항하자 살해한 혐의입니다.",
+      "sourceTitle": "베트남 유학생 살해하고 달아난 20대 동포, 긴급체포",
+      "sourceDesc": "부산 중구에서 베트남 여성 유학생을 결박해 살해한 혐의를 받는 베트남 국적 20대 남성이 긴급체포됐다. 피의자는 피해자 자택에 침입해 현금을 빼앗으려다 피해자가 저항하자 살해한 혐의를 받는다.",
+      "sourceLink": "https://news.google.com/search?q=부산+베트남+유학생+살해+긴급체포+2026",
+      "imagePrompt": "Empty apartment building corridor at night in South Korea, dim overhead lighting casting long shadows on closed doors, police investigation notice posted on one door, no people, no text, vertical 9:16 composition, documentary photography style."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "쿠팡 vs 공정위",
+      "title": "쿠팡, 공정위 현장조사 전면 거부",
+      "summary": "공정거래위원회의 쿠팡 현장조사가 쿠팡의 전면 거부로 무산됐습니다. 대규모유통업법 시행 이래 기업이 현장조사를 거부해 조사가 무산된 것은 이번이 처음입니다.",
+      "sourceTitle": "쿠팡 거부에 공정위 현장조사 무산‥초유의 '빈손 철수'",
+      "sourceDesc": "공정거래위원회가 쿠팡의 납품업체 갑질 의혹 조사를 위해 현장조사에 착수했으나 쿠팡의 전면 거부로 무산됐다. 대규모유통업법 시행 이래 기업이 현장조사를 거부해 조사가 무산된 것은 이번이 처음이다.",
+      "sourceLink": "https://news.google.com/search?q=쿠팡+공정위+현장조사+거부+2026",
+      "imagePrompt": "Modern glass-and-steel corporate headquarters building exterior, official government documents spread on steps in front of entrance, closed revolving doors, overcast sky, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "농어촌 기본소득",
+      "title": "농어촌 7개 군 기본소득 오늘 첫 지급",
+      "summary": "농어촌 기본소득 추가 선정 7개 군에서 28일부터 주민 1인당 15만원씩 첫 지급이 시작됩니다. 지역사랑상품권 형태로 지급되며 구례·보성·화천 등이 포함됩니다.",
+      "sourceTitle": "농어촌 기본소득 추가 선정 7개 군, 이달 28일부터 첫 지급",
+      "sourceDesc": "농어촌 기본소득 추가 선정 7개 군에서 28일부터 주민 1인당 15만원씩 지역사랑상품권 형태로 첫 지급이 시작된다. 구례·보성·화천·보은·진안·무주·청송 등 7개 군이 대상이다.",
+      "sourceLink": "https://news.google.com/search?q=농어촌+기본소득+7개+군+첫+지급+2026",
+      "imagePrompt": "South Korean rural countryside with lush green rice paddies at golden hour, a small rural post office and traditional market stalls visible along a quiet road, soft warm morning light, no people, no text, vertical 9:16 composition, documentary photography style."
+    },
+    {
+      "rank": 5,
+      "category": "사건·사고",
+      "kicker": "국내 집중호우",
+      "title": "전남 장흥 급류 80대 숨진 채 발견",
+      "summary": "전남 장흥에서 집중호우로 급류에 휩쓸려 실종됐던 80대 남성이 숨진 채 발견됐습니다. 비가 계속 오면서 곳곳에서 비 피해가 이어지고 있습니다.",
+      "sourceTitle": "전남 장흥 급류 휩쓸려 실종된 80대 숨진 채 발견",
+      "sourceDesc": "전남 장흥에서 집중호우로 인한 급류에 휩쓸려 실종됐던 80대 남성이 숨진 채 발견됐다. 비가 계속 오면서 곳곳에서 비 피해가 이어지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=장흥+급류+80대+사망+집중호우+2026",
+      "imagePrompt": "Flooded rural drainage channel overflowing into rice paddies in South Korean countryside, muddy brown rushing water submerging a narrow country road, storm clouds heavy overhead, no people, no text, vertical 9:16 composition, photojournalism style."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-28 아침 브리핑\n\n1. 한국인 8명 연락두절·9명 헬기 이동\n2. 베트남 유학생 살해 동포 긴급체포\n3. 쿠팡, 공정위 현장조사 전면 거부\n4. 농어촌 7개 군 기본소득 오늘 첫 지급\n5. 전남 장흥 급류 80대 숨진 채 발견\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #네팔홍수 #부산사건 #기본소득\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
