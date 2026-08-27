@@ -7,7 +7,7 @@ name: watchdog
 #   데이터 없음         → 경보만 (생성은 백업 클라우드 루틴 07:45/17:45 KST 담당)
 # am 발행 ~07:30 KST → 08:30 KST(23:30 UTC 전날) 체크, pm 발행 ~17:30 KST → 18:00 KST(09:00 UTC) 체크.
 # 오리 기자(ai) 발행 ~12:00 KST → 13:30 KST(04:30 UTC) 체크.
-# GitHub cron은 지연·누락이 있으므로(07-22 실측) 시각은 여유를 두고, 슬롯은 실행 시각(KST)으로 판별한다.
+# GitHub cron은 지연·누락이 있으므로(07-22 실측) 시각은 여유를 두고, 슬롯은 cron 표현식으로 판별한다(수동 실행은 실행 시각(KST)으로 추정).
 on:
   schedule:
     - cron: "30 23 * * *"   # 08:30 KST — am 회차 점검(물어오리)
@@ -36,14 +36,27 @@ jobs:
         run: |
           TODAY=$(TZ=Asia/Seoul date +%F)
           HOUR=$(TZ=Asia/Seoul date +%H)
-          # 슬롯 3갈래(실행 시각 KST): 12시 전 am / 12~15시 ai(오리 기자) / 그 외 pm
-          if [ "$HOUR" -lt 12 ]; then
-            STEM="${TODAY}-am"; ACCOUNT=muleori
-          elif [ "$HOUR" -lt 15 ]; then
-            STEM="ai-${TODAY}"; ACCOUNT=aibrief
-          else
-            STEM="${TODAY}-pm"; ACCOUNT=muleori
+          # 슬롯은 cron 표현식으로 판별한다(지연 발화에도 불변). 수동 실행은 실행 시각(KST)으로 추정.
+          CRON="${{ github.event.schedule }}"
+          case "$CRON" in
+            "30 23 * * *") SLOT=am ;;
+            "30 4 * * *")  SLOT=ai ;;
+            "0 9 * * *")   SLOT=pm ;;
+            *)
+              if [ "$HOUR" -lt 7 ]; then SLOT=pm            # 자정~새벽은 전날 pm 회차로 본다
+              elif [ "$HOUR" -lt 12 ]; then SLOT=am
+              elif [ "$HOUR" -lt 15 ]; then SLOT=ai
+              else SLOT=pm; fi ;;
+          esac
+          # 자정 넘김 가드: pm 점검이 지연 발화로 KST 자정을 넘기면 대상은 전날 회차다 (2026-08-28 00:21 거짓 경보 실측)
+          if [ "$SLOT" = "pm" ] && [ "$HOUR" -lt 15 ]; then
+            TODAY=$(TZ=Asia/Seoul date -d yesterday +%F)
           fi
+          case "$SLOT" in
+            am) STEM="${TODAY}-am"; ACCOUNT=muleori ;;
+            ai) STEM="ai-${TODAY}"; ACCOUNT=aibrief ;;
+            pm) STEM="${TODAY}-pm"; ACCOUNT=muleori ;;
+          esac
           echo "stem=$STEM" >> "$GITHUB_OUTPUT"
           if [ "$ACCOUNT" = "aibrief" ]; then
             echo "prefix=[오리기자]" >> "$GITHUB_OUTPUT"
