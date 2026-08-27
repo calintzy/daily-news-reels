@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-27",
+  "slot": "pm",
+  "hookLine": "네팔 실종 한인이 9명으로 늘었습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·재난",
+      "kicker": "속보 후속",
+      "title": "한인 9명 연락 끊겨, 정부 구조팀 급파",
+      "summary": "네팔 대홍수 후속 — 한인 직원 9명과 연락이 끊겼습니다. 고립된 10명은 안전이 확인됐고, 정부 신속대응팀이 현지에 급파됐습니다.",
+      "sourceTitle": "네팔 건설현장 한인 9명, '대홍수'에 연락 끊겼다",
+      "sourceDesc": "네팔 라수와 일대 대홍수로 수력발전소 건설 현장에 있던 한인 직원 9명과 연락이 끊겼으며, 고립된 10명은 안전한 것으로 확인됐다. 정부는 합동 신속대응팀을 꾸려 현지에 급파했다.",
+      "sourceLink": "https://news.google.com/search?q=네팔+대홍수+한국인+연락두절+2026+8월",
+      "imagePrompt": "Photojournalism photograph of a Himalayan mountain valley overwhelmed by floodwaters, turbulent brown water surging over a collapsed concrete construction platform, dark stormclouds above steep forested ridgelines, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "긴축 전환",
+      "title": "한국은행 기준금리 연 3.0%, 두 달 연속 인상",
+      "summary": "한국은행이 기준금리를 연 2.75%에서 3.0%로 0.25%포인트 인상했습니다. 두 달 연속 인상이며, 올해 성장률 전망치도 3.3%로 상향했습니다.",
+      "sourceTitle": "[속보] 한국은행, 기준금리 연 3.0%…2회 연속 인상",
+      "sourceDesc": "한국은행이 27일 금융통화위원회를 열고 기준금리를 연 2.75%에서 3.0%로 0.25%포인트 인상했다. 두 달 연속 인상으로, 올해 경제성장률 전망치를 기존 2.6%에서 3.3%로 상향했다.",
+      "sourceLink": "https://news.google.com/search?q=한국은행+기준금리+3%+2회연속+2026+8월",
+      "imagePrompt": "Documentary photograph of stacked official financial policy documents with an embossed government seal on a polished wooden desk, warm directional light casting sharp shadows across crisp white papers, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "정책·환경",
+      "kicker": "물 관리",
+      "title": "신규댐 14곳 중 5곳만 건설 최종 결정",
+      "summary": "기후에너지환경부가 기후대응댐 14곳 중 5곳만 선별 건설하기로 결정했습니다. 나머지는 사업 중단 또는 하천정비·저수지 활용 대안사업으로 전환됩니다.",
+      "sourceTitle": "신규댐 14곳 중 5곳만 건설…기후부, '선별 추진'으로 물관리 정책 전환",
+      "sourceDesc": "기후에너지환경부는 27일 기후대응댐 14개 후보지 중 5곳은 건설을 추진하고, 7곳은 사업을 중단하며, 2곳은 댐 대신 하천정비·저수지 활용 등 대안사업으로 전환하기로 결정했다.",
+      "sourceLink": "https://news.google.com/search?q=신규댐+기후부+선별+2026+8월+27일",
+      "imagePrompt": "Wide-angle documentary photograph of a rocky Korean mountain valley with a clear shallow river winding through layered granite boulders, survey markers and planning flags planted along the riverbank, overcast sky, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "노동 판정",
+      "title": "MBC 기상캐스터, 부당해고로 판정받다",
+      "summary": "오요안나 사건 이후 계약이 종료된 MBC 기상캐스터가 부당해고로 인정받았습니다. 서울지방노동위원회가 구제신청을 인용하고 근로기준법상 근로자로 판정했습니다.",
+      "sourceTitle": "[단독] '오요안나 사건' 후 계약 종료된 MBC 기상캐스터, 부당해고 인정",
+      "sourceDesc": "서울지방노동위원회는 지난 24일 MBC 기상캐스터로 일했던 최아리씨가 제기한 부당해고 구제신청을 인용했다. 위원회는 최씨를 근로기준법상 근로자로 인정하고, MBC의 계약 종료를 부당해고로 판정했다.",
+      "sourceLink": "https://news.google.com/search?q=MBC+기상캐스터+부당해고+오요안나+2026",
+      "imagePrompt": "Documentary photograph of an empty television weather studio with a luminous weather map screen still illuminated on a rear display, dramatic studio lighting casting shadows across a vacant presenter platform, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회·교육",
+      "kicker": "역대 최다",
+      "title": "외국인 유학생 30만 명 돌파, 베트남 첫 1위",
+      "summary": "국내 대학 외국인 유학생이 처음으로 30만 명을 넘어 역대 최다를 기록했습니다. 베트남 출신이 중국을 처음 제치고 1위가 됐습니다.",
+      "sourceTitle": "대학 외국인 유학생 30만명 돌파…베트남, 사상 첫 1위",
+      "sourceDesc": "교육부와 한국교육개발원의 2026년 교육기본통계 결과에 따르면 국내 대학 외국인 유학생이 30만7464명으로 역대 최다를 기록했다. 베트남 유학생은 9만6834명으로 전체의 35.1%를 차지해 중국을 처음 추월했다.",
+      "sourceLink": "https://news.google.com/search?q=외국인+유학생+30만명+베트남+1위+2026",
+      "imagePrompt": "Documentary photograph of a Korean university campus plaza with colorful international cultural banners and national flags from multiple countries hanging between trees, autumn sunlight filtering through leaves, empty stone benches in foreground, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-08-27 저녁 브리핑\n\n1. 한인 9명 연락 끊겨, 정부 구조팀 급파\n2. 한국은행 기준금리 연 3.0%, 두 달 연속 인상\n3. 신규댐 14곳 중 5곳만 건설 최종 결정\n4. MBC 기상캐스터, 부당해고로 판정받다\n5. 외국인 유학생 30만 명 돌파, 베트남 첫 1위\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #네팔홍수 #한국은행 #금리인상 #MBC #유학생 #베트남\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "googleNewsRSS": "fail",
+      "webSearch": "ok"
+    },
+    "signalHits": []
+  }
+}
