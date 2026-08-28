@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-28",
+  "slot": "pm",
+  "hookLine": "천안 공장 화재로 시신 발견, 실종자 수색 중입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "천안 공장 화재",
+      "title": "천안 공장 화재, 총리 긴급 지시",
+      "summary": "충남 천안 동남구 페인트 원료 공장에서 불이 나 시신 1구가 발견됐고 실종자 수색이 이어지고 있습니다. 총리는 소방청에 가용 인력과 장비 총동원을 긴급 지시했습니다.",
+      "sourceTitle": "한 총리 '천안시 공장 화재 진압 활동·인명 검색 최선' 긴급 지시",
+      "sourceDesc": "28일 오전 11시 44분께 충남 천안시 동남구에 위치한 한 페인트 원료 생산 공장에서 불이 났다. 소방 당국은 현장에서 시신 1구를 발견했고, 실종자들도 있는 것으로 파악돼 수색하고 있다. 한성숙 국무총리는 소방청에 가용 인력·장비를 총동원해 화재 진압과 인명 검색에 최선을 다하라고 긴급 지시했다.",
+      "sourceLink": "https://news.google.com/search?q=천안+공장+화재+총리+긴급지시+2026",
+      "imagePrompt": "Thick black smoke and orange flames rising from an industrial factory building at midday, fire trucks with extended ladders surrounding the structure, emergency scene in a South Korean industrial zone, overcast sky, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "삼성바이오 유상증자",
+      "title": "삼성바이오, 3조 유증·폴리펩타이드 인수",
+      "summary": "삼성바이오로직스가 약 3조원 유상증자를 결정했다고 28일 공시했습니다. 폴리펩타이드그룹 인수와 송도 증설에 조달 자금을 투입할 계획입니다.",
+      "sourceTitle": "삼성바이오로직스, 3조원 유상증자…폴리펩타이드그룹 인수·송도 증설에 투입",
+      "sourceDesc": "삼성바이오로직스는 약 3조원을 조달하고자 주주배정 후 실권주 일반공모 유상증자를 결정했다고 28일 공시했다. 조달 자금은 폴리펩타이드그룹 인수와 인천 송도 제2바이오캠퍼스 증설에 투입한다.",
+      "sourceLink": "https://news.google.com/search?q=삼성바이오로직스+유상증자+폴리펩타이드+2026",
+      "imagePrompt": "Modern pharmaceutical biomanufacturing campus exterior at dawn, glass-fronted industrial building with bioreactor equipment visible inside, clean white architecture in a coastal technology district, clear sky, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "대법관 임명 갈등",
+      "title": "청와대, 손봉기 대법관 동의안 불제출",
+      "summary": "청와대가 손봉기 대법관 후보자의 임명동의안을 국회에 제출하지 않기로 결정했습니다. 조희대 대법원장에게 후보자를 재제청해달라고 요청했습니다.",
+      "sourceTitle": "靑 '손봉기 대법관 후보자 임명동의안 제출 않는다… 재제청 요청'",
+      "sourceDesc": "청와대는 손봉기 대법관 후보자의 임명동의안을 국회에 제출하지 않기로 했다. 강유정 수석대변인은 조희대 대법원장에게 후보자를 재제청해달라고 요청했다고 밝혔다. 협의 없이 일방적으로 서면 제청됐다는 것이 주된 이유다.",
+      "sourceLink": "https://news.google.com/search?q=손봉기+대법관+임명동의안+청와대+재제청+2026",
+      "imagePrompt": "Grand exterior of South Korea's Supreme Court building with ornate stone architecture and wide marble steps, formal judicial facade in Seoul under clear sky, no people, no text, vertical 9:16 composition, documentary photography style."
+    },
+    {
+      "rank": 4,
+      "category": "국제·안보",
+      "kicker": "한미일 훈련",
+      "title": "한미일 프리덤 에지, 내달 제주서 실시",
+      "summary": "한미일 3국이 다음달 7일부터 11일까지 제주 동·남방 공해상에서 프리덤 에지 다영역 훈련을 실시합니다. 한미 연합연습은 규모가 줄었지만 한미일 훈련은 예정대로 진행됩니다.",
+      "sourceTitle": "한미일, 다영역훈련 '프리덤 에지' 내달 7~11일 실시…미 항모 불참 가능성(종합)",
+      "sourceDesc": "한미일 3국은 다음달 7일부터 11일까지 제주 동·남방 공해상에서 2026년 프리덤 에지 훈련을 시행할 예정이다. 미 항모가 불참할 수 있는 가운데 한미 연합연습 규모는 축소됐지만 한미일 훈련은 예정대로 진행한다.",
+      "sourceLink": "https://news.google.com/search?q=한미일+프리덤에지+훈련+제주+2026",
+      "imagePrompt": "Military warships sailing in formation across open ocean, naval vessels cutting through calm blue waters under clear sky, aerial perspective showing fleet arrangement, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "암표 근절",
+      "title": "암표법 오늘 시행, 50배 과징금 부과",
+      "summary": "오늘부터 공연법·국민체육진흥법 시행령 개정안이 시행돼 입장권 부정판매에 최대 50배 과징금이 부과됩니다. 재판매 목적의 구매와 판매 행위가 금지됩니다.",
+      "sourceTitle": "정가 19만8,000원이 800만 원에…8월 28일 암표법, 50배 과징금은 무엇을 바꾸나",
+      "sourceDesc": "2026년 8월 28일부터 공연법·국민체육진흥법 시행령 개정안이 시행된다. 입장권 부정판매자에게는 판매 금액의 최대 50배까지 과징금을 부과하는 규정이 적용된다. 재판매 목적의 부정구매와 부정판매 행위도 전면 금지된다.",
+      "sourceLink": "https://news.google.com/search?q=암표법+공연법+시행령+50배+과징금+2026",
+      "imagePrompt": "Empty concert venue interior with rows of velvet seats under dramatic stage spotlights, theatrical hall with balcony tiers in shadowy darkness, moody cinematic atmosphere, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-28 저녁 브리핑\n\n1. 천안 공장 화재, 총리 긴급 지시\n2. 삼성바이오, 3조 유증·폴리펩타이드 인수\n3. 청와대, 손봉기 대법관 동의안 불제출\n4. 한미일 프리덤 에지, 내달 제주서 실시\n5. 암표법 오늘 시행, 50배 과징금 부과\n\n오늘 저녁도 물어오리가 전해드렸습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #천안화재 #삼성바이오 #암표법\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
