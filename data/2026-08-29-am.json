@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-29",
+  "slot": "am",
+  "hookLine": "전국에 많은 비, 경남 2차 피해 우려됩니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "재난·기상",
+      "kicker": "전국 집중호우",
+      "title": "집중호우 2차 피해 경보",
+      "summary": "행안부가 29일부터 31일까지 전국에 많은 비를 예보하며 경남 등 피해 지역의 2차 피해를 경고했습니다. 가용 자원을 총동원해 신속히 응급복구하고 안전조치를 철저히 해달라고 당부했습니다.",
+      "sourceTitle": "행안부 \"29~31일 전국에 많은 비···경남 등 2차 피해 우려\"",
+      "sourceDesc": "행정안전부는 8월 29일부터 31일까지 전국에 많은 비가 예보됨에 따라 경남 등 최근 호우 피해를 입은 지역에서 가용 자원을 총동원해 신속히 응급복구하고 안전조치를 철저히 해달라고 관계기관에 당부했습니다.",
+      "sourceLink": "https://news.google.com/search?q=행안부+집중호우+2차피해+2026",
+      "imagePrompt": "Aerial view of flooded farmland in South Korea, overflowing river with muddy water inundating rice paddies, dark storm clouds overhead, no people, no text, vertical 9:16 composition, photojournalism documentary style, dramatic moody lighting."
+    },
+    {
+      "rank": 2,
+      "category": "사건·사고",
+      "kicker": "경찰 허위종결",
+      "title": "장미란 허위종결 경찰 구속",
+      "summary": "장미란 씨 실종 신고를 허위로 종결한 혐의를 받는 경찰관이 법원 결정으로 구속됐습니다. 법원은 도주·증거인멸 우려를 이유로 구속영장을 발부했습니다.",
+      "sourceTitle": "제주 '장미란 실종 허위종결' 경찰관 구속…'도주·증거인멸 우려'(종합)",
+      "sourceDesc": "실종 신고를 허위로 종결한 혐의를 받는 제주서부경찰서 실종팀 소속 부 경장에 대해 법원이 도주·증거인멸 우려를 이유로 구속영장을 발부했습니다.",
+      "sourceLink": "https://news.google.com/search?q=장미란+실종+허위종결+경찰+구속",
+      "imagePrompt": "Quiet overgrown farm path in Jeju Island at dawn, tall subtropical vegetation, yellow police crime scene tape on a rusty wire fence, no people, no text, vertical 9:16 composition, photojournalism documentary style, somber muted tones."
+    },
+    {
+      "rank": 3,
+      "category": "경제·사회",
+      "kicker": "청년 예산 43.3조",
+      "title": "청년 예산 43.3조 편성",
+      "summary": "정부가 내년 청년 예산을 43조3000억원으로 편성해 출생부터 34세까지 생애 단계별로 지원하기로 했습니다. 대상자가 받을 수 있는 최대 혜택은 34세까지 1억9582만원으로 추산됩니다.",
+      "sourceTitle": "'태어나 34세까지 최대 1.9억원 나라 지원'…내년 청년 투자 43.3조",
+      "sourceDesc": "정부가 내년 청년 예산을 43조3000억원으로 편성해 출생부터 34세까지 단계별로 지원하기로 했습니다. 34세까지 최대 1억9582만원의 혜택을 받을 수 있다고 추산했습니다.",
+      "sourceLink": "https://news.google.com/search?q=청년+예산+43.3조+2026+성장단계별",
+      "imagePrompt": "South Korean government policy documents spread on a wooden desk, budget printouts with official blue seal stamp on white paper, warm office lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "사회·정책",
+      "kicker": "암표 근절",
+      "title": "암표 최대 50배 과징금 시행",
+      "summary": "공연·스포츠 암표를 거래하다 적발되면 판매 금액의 최대 50배 과징금이 부과됩니다. 정가 19만8,000원 티켓이 800만 원에 팔리는 암표 행위도 처벌 대상입니다.",
+      "sourceTitle": "정가 19만8,000원이 800만 원에…8월 28일 암표법, 50배 과징금은 무엇을 바꾸나",
+      "sourceDesc": "암표 거래를 적발하면 판매 금액의 최소 2배에서 최대 50배에 달하는 과징금을 부과하는 공연법·국민체육진흥법 시행령 개정안이 8월 28일부터 시행됩니다. 부정 판매로 얻은 범죄 수익에 대한 몰수·추징도 가능해집니다.",
+      "sourceLink": "https://news.google.com/search?q=암표+공연법+시행령+50배+과징금+2026",
+      "imagePrompt": "Dark empty concert hall interior, scattered paper tickets on velvet seats, stage spotlights casting long shadows across the empty auditorium, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "미국 vs 한국",
+      "title": "미 하원, 쿠팡 차별 공식 지목",
+      "summary": "미국 하원이 한국 정부가 쿠팡을 차별적으로 공격했다는 보고서를 발표했습니다. 한국 정부는 유감을 표명하며 사실과 다르다고 반박했습니다.",
+      "sourceTitle": "미 하원 '한국 정부, 쿠팡 차별적 공격‥표적화'",
+      "sourceDesc": "미국 하원이 한국 정부가 쿠팡을 차별적으로 공격하고 표적화했다는 보고서를 발표했습니다. 한국 정부는 유감을 표명하며 사실과 다르다고 반박했습니다.",
+      "sourceLink": "https://news.google.com/search?q=미국+하원+쿠팡+차별+보고서+2026",
+      "imagePrompt": "Empty formal negotiation conference room with South Korean and American national flags displayed beside a long polished conference table, leather chairs arranged neatly, no people, no text, vertical 9:16 composition, photojournalism documentary style, neutral office lighting."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-29 아침 브리핑\n\n1. 집중호우 2차 피해 경보\n2. 장미란 허위종결 경찰 구속\n3. 청년 예산 43.3조 편성\n4. 암표 최대 50배 과징금 시행\n5. 미 하원, 쿠팡 차별 공식 지목\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #집중호우 #장미란 #청년예산 #암표 #쿠팡\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_news_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
