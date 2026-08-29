@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-29",
+  "slot": "pm",
+  "hookLine": "네팔 홍수로 한국인 9명 연락두절됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "재난·국제",
+      "kicker": "한국인 실종",
+      "title": "네팔 홍수, 한국인 9명 연락두절",
+      "summary": "네팔 대규모 홍수로 한국인 9명이 연락두절된 가운데 정부가 신속대응팀을 현지에 파견했습니다. 이재명 대통령은 가용 수단을 동원해 수색구조에 총력을 다하라고 지시했습니다.",
+      "sourceTitle": "'네팔 홍수' 인명피해 급증‥한국인 9명 연락두절",
+      "sourceDesc": "네팔 대규모 홍수로 인명피해가 급증하는 가운데, 현지에서 수력발전소 건설 작업 중이던 한국인 9명이 연락두절됐습니다. 정부는 신속대응팀을 현지에 파견해 수색구조에 나섰습니다.",
+      "sourceLink": "https://news.google.com/search?q=네팔+홍수+한국인+실종+신속대응팀+2026",
+      "imagePrompt": "Turbulent muddy floodwaters rushing through a narrow mountain gorge in Nepal, submerged construction scaffolding visible beneath the surface, dark storm clouds over steep rocky cliffs, no people, no text, vertical 9:16 composition, photojournalism documentary style, dramatic overcast lighting."
+    },
+    {
+      "rank": 2,
+      "category": "사건·사고",
+      "kicker": "잇단 사고",
+      "title": "잇단 사고로 6명 사망",
+      "summary": "의왕역 코레일 직원 사망, 천안 공장 폭발, 석유운반선 화재 등 잇단 사고로 6명이 숨졌습니다. 당국은 각 현장에 조사팀을 파견해 원인 조사에 나섰습니다.",
+      "sourceTitle": "의왕역 작업자 사망·천안 공장 폭발·석유운반선 화재…잇단 사고에 6명 숨져",
+      "sourceDesc": "29일 의왕역에서 코레일 직원이 열차에 깔려 사망하고, 천안 공장에서 폭발 사고가 발생하는 등 잇단 사고가 이어졌습니다. 이날 하루 발생한 사고로 6명이 숨졌습니다.",
+      "sourceLink": "https://news.google.com/search?q=의왕역+코레일+사망+천안+공장+폭발+2026",
+      "imagePrompt": "Railway freight yard at dawn with yellow caution tape cordoning off a section of tracks, heavy morning mist over concrete platform edges, emergency response lights reflected in steel rails, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "정치·사법",
+      "kicker": "대법관 파행",
+      "title": "청와대, 손봉기 대법관 반려",
+      "summary": "청와대가 손봉기 대법관 후보자 임명동의안을 반려하며 재제청을 요청했습니다. 현행 헌법 시행 이후 대법관 후보자 반려는 이번이 처음입니다.",
+      "sourceTitle": "청와대, 손봉기 대법관 후보자 반려‥\"재제청 요구\"",
+      "sourceDesc": "청와대가 손봉기 대법관 후보자 임명동의안을 반려하고 대법원장에게 재제청을 요청했습니다. 1987년 현행 헌법 제정 이후 대법관 후보자 반려는 이번이 처음입니다.",
+      "sourceLink": "https://news.google.com/search?q=청와대+손봉기+대법관+임명동의안+반려+재제청+2026",
+      "imagePrompt": "South Korean Supreme Court building stone facade at dusk, formal columns casting long shadows across an empty plaza, muted golden light, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "정치·사법",
+      "kicker": "무죄 확정",
+      "title": "노웅래 뇌물 혐의 무죄 확정",
+      "summary": "검찰이 노웅래 전 의원의 뇌물수수 혐의 항소심 무죄에 상고를 포기하며 무죄가 확정됐습니다. 불법 정치자금 수수 혐의로 재판에 넘겨졌으나 두 차례 모두 무죄였습니다.",
+      "sourceTitle": "[속보] 검찰, 노웅래 '뇌물수수' 2심 무죄에 상고 포기 [세상&]",
+      "sourceDesc": "검찰이 노웅래 전 더불어민주당 의원의 뇌물수수 혐의 항소심 무죄 판결에 상고하지 않기로 해 무죄가 확정됐습니다. 불법 정치자금 6000만원 수수 혐의로 기소됐으나 1·2심 모두 무죄 판결을 받았습니다.",
+      "sourceLink": "https://news.google.com/search?q=노웅래+뇌물수수+상고+포기+무죄+확정+2026",
+      "imagePrompt": "Empty Korean courtroom interior, judge's bench with official green nameplate, stacked legal documents tied with red ribbon on a wooden table, muted natural light from frosted windows, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "반도체 쇼크",
+      "title": "코스피 6500 붕괴, 반도체 쇼크",
+      "summary": "미국 반도체주 급락의 영향으로 삼성전자와 SK하이닉스가 크게 하락하며 코스피가 6500선을 하회했습니다. 글로벌 반도체 시장 변동성이 계속되며 투자 심리가 위축되고 있습니다.",
+      "sourceTitle": "삼성전자 -4%·SK하이닉스 -6% 급락…코스피 6500 깨졌다",
+      "sourceDesc": "미국 반도체주가 일제히 급락한 영향으로 삼성전자와 SK하이닉스가 장 초반 각각 4%대, 6%대 하락하며 코스피가 6500선을 하회했습니다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+SK하이닉스+코스피+6500+반도체+급락+2026",
+      "imagePrompt": "Seoul financial district skyscrapers at dusk viewed from below, glass facades reflecting red evening clouds and a darkening sky, no people, no text, vertical 9:16 composition, photojournalism documentary style, moody blue-hour lighting."
+    }
+  ],
+  "caption": "[물어오리] 2026-08-29 저녁 브리핑\n\n1. 네팔 홍수, 한국인 9명 연락두절\n2. 잇단 사고로 6명 사망\n3. 청와대, 손봉기 대법관 반려\n4. 노웅래 뇌물 혐의 무죄 확정\n5. 코스피 6500 붕괴, 반도체 쇼크\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #네팔홍수 #코레일 #대법관 #노웅래 #코스피\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_news_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
