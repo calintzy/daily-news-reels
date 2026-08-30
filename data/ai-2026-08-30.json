@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-30",
+  "account": "aibrief",
+  "hookLine": "구글 AI로 이제 항공·호텔 예약 한 번에 됩니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 서비스",
+      "kicker": "항공·호텔 예약까지",
+      "title": "구글 AI 모드, 항공·호텔 예약까지 된다",
+      "summary": "구글이 AI 모드에 항공권 가격 추적과 호텔 예약 기능을 새로 추가했습니다. 가격 변동 알림과 구글 페이를 통한 호텔 즉시 결제도 지원합니다.",
+      "sourceTitle": "\"말 한마디로 항공·호텔 예약\"…구글 AI, 여행 검색판 뒤흔든다",
+      "sourceDesc": "구글이 AI 모드에 항공권 가격 추적, 포인트·마일리지 조회, 호텔 예약 기능을 추가했다. 가격 변동 시 이메일 알림을 받을 수 있으며, 구글 페이를 통한 호텔 예약 결제도 지원한다.",
+      "sourceLink": "https://www.tech42.co.kr/%EB%A7%90-%ED%95%9C%EB%A7%88%EB%94%94%EB%A1%9C-%ED%95%AD%EA%B3%B5%C2%B7%ED%98%B8%ED%85%94-%EC%98%88%EC%95%BD%EA%B5%AC%EA%B8%80-ai-%EC%97%AC%ED%96%89-%EA%B2%80%EC%83%89%ED%8C%90-%EB%92%A4/"
+    },
+    {
+      "rank": 2,
+      "category": "빅테크 사업",
+      "kicker": "6년 장기 계약",
+      "title": "앤트로픽, Nscale과 AI 컴퓨팅 6년 계약",
+      "summary": "앤트로픽이 영국 AI 인프라 기업 Nscale과 6년간 AI 컴퓨팅 임차 계약을 체결했습니다. Nvidia의 Vera Rubin 칩으로 웨스트버지니아 데이터센터를 확보합니다.",
+      "narration": "앤트로픽이 AI 컴퓨팅 6년 대형 계약을 맺었습니다.",
+      "sourceTitle": "Anthropic to Pay Nscale $45 Billion for AI Computing Power",
+      "sourceDesc": "Anthropic agreed to pay $45 billion to rent AI cloud computing power from Nscale, a British AI infrastructure company, in a 6-year deal. Nscale will supply compute via Nvidia's Vera Rubin chips from a West Virginia data center.",
+      "sourceLink": "https://www.bloomberg.com/news/articles/2026-08-26/anthropic-to-pay-nscale-45-billion-for-ai-computing-power"
+    },
+    {
+      "rank": 3,
+      "category": "사회 영향",
+      "kicker": "21년 만에 종말",
+      "title": "아마존, 21년 역사 메커니컬 터크 문 닫는다",
+      "summary": "아마존이 2005년 창립된 크라우드소싱 플랫폼 메커니컬 터크를 9월 30일 종료합니다. 21년간 데이터 작업을 인간이 수행하던 서비스가 AI 발전으로 폐쇄됩니다.",
+      "narration": "21년 역사 메커니컬 터크가 AI에 밀려 사라집니다.",
+      "sourceTitle": "'AI인 척했던 인간들'의 종말…아마존, 메커니컬 터크 신규 모집 중단",
+      "sourceDesc": "아마존이 2005년 창립된 크라우드소싱 플랫폼 메커니컬 터크의 신규 고객 모집을 중단하고 9월 30일 서비스를 종료한다고 밝혔다. AI 발전과 경쟁 플랫폼 확산 속에 21년 만에 역사 속으로 사라진다.",
+      "sourceLink": "https://www.tech42.co.kr/ai%EC%9D%B8-%EC%B2%99%ED%96%88%EB%8D%98-%EC%9D%B8%EA%B0%84%EB%93%A4%EC%9D%98-%EC%A2%85%EB%A7%90%EC%95%84%EB%A7%88%EC%A1%B4-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%BB%AC-%ED%84%B0/"
+    },
+    {
+      "rank": 4,
+      "category": "AI 모델",
+      "kicker": "피지컬 AI 표준",
+      "title": "앤트로픽, AI 물리 기기 제어 표준 'MHS' 공개",
+      "summary": "앤트로픽이 AI 에이전트가 현미경·로봇팔 등 실험장비를 직접 조작하는 공통 표준 MHS를 공개했습니다. 두산로보틱스 등 제조업체가 파트너로 참여하며, AI의 물리 세계 진출이 본격화됩니다.",
+      "narration": "AI 에이전트가 로봇팔을 제어하는 시대가 왔습니다.",
+      "sourceTitle": "앤트로픽, AI가 실험장비 직접 조작하는 표준 'MHS' 공개",
+      "sourceDesc": "앤트로픽이 AI 에이전트가 현미경·로봇팔 등 실험·제조 장비를 직접 조작하는 표준 '모델 하드웨어 스탠더드(MHS)'의 연구 프리뷰를 공개했다. 파트너로 두산로보틱스, AWS, 허깅페이스 등이 참여한다.",
+      "sourceLink": "https://wowtale.net/2026/08/29/263648/"
+    },
+    {
+      "rank": 5,
+      "category": "반도체·인프라",
+      "kicker": "일자리 5.1% 증가",
+      "title": "AI 호황에 반도체 일자리 5.1% 증가 전망",
+      "summary": "AI 시장 성장과 데이터센터 투자 확대에 힘입어 올해 하반기 반도체 일자리가 5.1% 증가할 것으로 전망됩니다. 약 8000명이 새로 일자리를 얻을 것으로 예상됩니다.",
+      "narration": "AI 호황에 반도체 일자리가 5.1% 늘어납니다.",
+      "sourceTitle": "AI 호황에 반도체 일자리 5.1% 늘어난다…섬유는 3.5% 감소",
+      "sourceDesc": "AI 시장 성장과 데이터센터 투자 확대에 힘입어 올해 하반기 반도체 업종 일자리가 지난해 같은 기간보다 5.1%, 약 8000명 늘어날 것으로 전망됐다.",
+      "sourceLink": "https://www.asiatoday.co.kr/kn/view.php?key=20260819010006217"
+    }
+  ],
+  "caption": "[오리 기자] 2026-08-30 AI 뉴스 브리핑\n\n1. 구글 AI 모드, 항공·호텔 예약까지 된다\n2. 앤트로픽, Nscale과 AI 컴퓨팅 6년 계약\n3. 아마존, 21년 역사 메커니컬 터크 문 닫는다\n4. 앤트로픽, AI 물리 기기 제어 표준 'MHS' 공개\n5. AI 호황에 반도체 일자리 5.1% 증가 전망\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #구글 #앤트로픽 #아마존 #반도체 #AI일자리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
