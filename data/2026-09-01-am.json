@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-01",
+  "slot": "am",
+  "hookLine": "폭우에 1명 숨지고 1명이 실종됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "재난·사건",
+      "kicker": "집중호우 피해",
+      "title": "호남·충청 폭우 1명 사망·1명 실종",
+      "summary": "영호남과 충청권에 폭우가 쏟아지며 1명이 숨지고 1명이 실종됐습니다. 집중호우로 침수와 산사태 피해가 잇따르고 있습니다.",
+      "sourceTitle": "영호남·충청 폭우 피해 속출… 1명 사망·1명 실종",
+      "sourceDesc": "전날 오후 8시 50분께 대구 남구 신천 징검다리 인근에서 70대 남성이 물에 빠져 숨졌으며, 31일 오후 4시 기준 전북 정읍에서 70대 남성이 실종돼 경찰과 소방 당국이 수색 중입니다.",
+      "sourceLink": "https://news.google.com/search?q=호남+충청+폭우+사망+실종&hl=ko&gl=KR",
+      "imagePrompt": "A flooded rural road in South Korea with muddy brown water rushing through ditches, submerged farmland in the background, overcast stormy sky with heavy dark clouds, debris scattered across the road surface, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "사건·법원",
+      "kicker": "정교유착 판결",
+      "title": "통일교 한학자, 1심 징역 2년",
+      "summary": "법원이 정교유착 혐의를 받아온 한학자 통일교 총재에게 징역 2년을 선고했습니다. 특검이 구형한 징역 13년보다 크게 낮은 형량입니다.",
+      "sourceTitle": "한학자 통일교 총재 1심 징역 2년…\"대선, 교세 확장 기회로 봐\"",
+      "sourceDesc": "서울중앙지방법원 형사27부는 31일 한학자 통일교 총재에게 정치자금법 위반 1년, 부정청탁금지법 위반 1년으로 합산 징역 2년을 선고했다. 특검은 징역 13년을 구형한 바 있다. 법원은 통일교가 대선을 교세 확장의 기회로 삼아 범행에 이른 것이라고 지적했다.",
+      "sourceLink": "https://news.google.com/search?q=한학자+통일교+1심+징역+2년&hl=ko&gl=KR",
+      "imagePrompt": "Empty South Korean courtroom interior with rows of dark wooden benches and a judge's elevated bench, muted natural light filtering through frosted glass windows, formal solemn atmosphere, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "중폭 개각",
+      "title": "이재명 대통령, 6개 부처 개각 단행",
+      "summary": "이재명 대통령이 6개 부처 개각을 단행했습니다. 경제부총리에 이형일, 법무장관에 김승원, 국방장관에 강신철이 지명됐습니다.",
+      "sourceTitle": "李대통령, 6개 부처 중폭 개각…경제부총리 이형일·법무 김승원·국방 강신철 등",
+      "sourceDesc": "이재명 대통령이 6개 부처 개각을 단행했다. 경제부총리 겸 재정경제부 장관 후보자에 이형일 현 재경부 1차관, 법무부 장관 후보자로 김승원 더불어민주당 의원, 국방부 장관 후보자로 강신철 전 한미연합사부사령관을 각각 지명했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+개각+경제부총리+이형일+법무+김승원&hl=ko&gl=KR",
+      "imagePrompt": "South Korean government ministry building exterior with stone facade and formal architecture, Korean national flag on a flagpole against a clear morning sky, official nameplate on stone wall, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "쉬었음 청년",
+      "title": "쉬었음 청년 72만명…고용 위기 심화",
+      "summary": "'쉬었음' 청년이 72만명으로 2003년 통계 이래 최고치를 기록했습니다. 알바와 취업 준비로 실제 쉬지 않는 청년도 포함돼 현실과 동떨어진 분류라는 지적이 나옵니다.",
+      "sourceTitle": "알바·취준 쉴 틈 없는데… '쉬었음'으로 묶인 72만명 [쉬었음 청년 추적기:우리는 쉬지 않았습니다]",
+      "sourceDesc": "'쉬었음' 인구(20~39세 기준)는 2022년 62만2000명에서 2025년 71만7000명으로, 15.3% 늘어 2003년 통계 시작 이래 최고치를 기록했다.",
+      "sourceLink": "https://news.google.com/search?q=쉬었음+청년+72만명+고용+최고치&hl=ko&gl=KR",
+      "imagePrompt": "Stack of job application documents and a closed laptop on an empty desk with a single window casting soft grey light, sparse melancholic office setting, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "한국 AI 중동 진출",
+      "title": "NC AI 등 한국 기업, 중동 AI 시장 공략",
+      "summary": "NC AI가 사우디아라비아에서 열리는 LEAP 2026 행사에 참가해 한국 AI 기술을 선보입니다. 메가존클라우드, 업스테이지 등 국내 AI 기업들이 공동관을 꾸려 중동 시장에 진출합니다.",
+      "sourceTitle": "NC AI, 사우디 'LEAP 2026' 참가…'풀스택 피지컬 AI' 중동 시장 공략",
+      "sourceDesc": "NC AI는 8월 31일부터 9월 3일까지 사우디아라비아 리야드에서 열리는 LEAP 2026에서 '한국 풀스택 AI 컨소시엄' 공동관을 운영한다. 메가존클라우드, 업스테이지, 퓨리오사AI, 유라클 등 국내 기업들과 함께 AI 반도체부터 클라우드·인프라, AI 모델까지 국내 AI 기술 역량을 통합해 중동 시장에 선보인다.",
+      "sourceLink": "https://news.google.com/search?q=NC+AI+LEAP+2026+사우디+중동&hl=ko&gl=KR",
+      "imagePrompt": "Futuristic technology exhibition hall interior with glowing blue digital display panels showing circuit pattern graphics, floor-to-ceiling windows overlooking an arid desert cityscape at dawn, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-01 아침 브리핑\n\n1. 호남·충청 폭우 1명 사망·1명 실종\n2. 통일교 한학자, 1심 징역 2년\n3. 이재명 대통령, 6개 부처 개각 단행\n4. 쉬었음 청년 72만명…고용 위기 심화\n5. NC AI 등 한국 기업, 중동 AI 시장 공략\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "googleTrends": "fail",
+      "nate": "fail",
+      "googleNews": "fail"
+    },
+    "signalHits": []
+  }
+}
