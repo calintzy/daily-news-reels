@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-01",
+  "account": "aibrief",
+  "hookLine": "수만 곡이 AI에 불법 학습됐다는 소송이 났습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "규제·정책",
+      "kicker": "저작권 폭탄",
+      "title": "소니·워너, 앤트로픽 수만 곡 저작권 소송",
+      "summary": "소니뮤직과 워너채플뮤직이 앤트로픽을 상대로 수만 곡의 가사와 악보를 무단으로 AI 학습에 이용했다며 소송을 냈습니다. 불법 학습 데이터 폐기와 손해배상을 요구했습니다.",
+      "sourceTitle": "소니·워너, 앤트로픽에 저작권 소송 “수만 곡 불법 학습”",
+      "sourceDesc": "소니뮤직과 워너채플뮤직이 앤트로픽을 상대로 저작권 침해 소송을 제기했다. 두 음악사는 앤트로픽이 수만 곡의 가사와 악보를 무단으로 AI 학습에 활용했다며 불법 복제 데이터 폐기와 손해배상을 요구했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%86%8C%EB%8B%88+%EC%9B%8C%EB%84%88+%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD+%EC%A0%80%EC%9E%91%EA%B6%8C+%EC%86%8C%EC%86%A1+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "반도체·인프라",
+      "kicker": "수출 규제",
+      "title": "AI 칩·반도체 장비, 오늘부터 전략물자 지정",
+      "narration": "AI 칩 수출에 이제 정부 허가가 필요합니다.",
+      "summary": "정부가 오늘부터 고성능 AI 집적회로와 첨단 반도체 제조장비를 전략물자로 새로 지정했습니다. 이제 해당 품목을 수출하려는 기업은 산업부의 수출허가를 받아야 합니다.",
+      "sourceTitle": "AI칩·첨단 반도체 장비 전략물자 지정…수출하려면 정부 허가",
+      "sourceDesc": "정부가 고성능 인공지능(AI)용 집적회로와 첨단 반도체 제조장비 등을 전략물자로 추가 지정했다. 이날부터 해당 품목을 수출하려는 기업은 산업부의 수출허가를 받아야 한다.",
+      "sourceLink": "https://news.google.com/search?q=AI%EC%B9%A9+%EC%A0%84%EB%9E%B5%EB%AC%BC%EC%9E%90+%EC%88%98%EC%B6%9C+%ED%97%88%EA%B0%80+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크 사업",
+      "kicker": "3조 투자",
+      "title": "SKT, AI 데이터센터 전문 'SK호라이즌' 출범",
+      "narration": "SKT가 AI 데이터센터 전문 회사를 출범했습니다.",
+      "summary": "SKT가 AI 데이터센터 전문 자회사 'SK호라이즌'을 새로 출범했습니다. 외부 투자 유치를 통해 아시아 AI 인프라 허브로 성장하겠다는 계획입니다.",
+      "sourceTitle": "SKT, AI DC 인프라 컴퍼니 'SK호라이즌' 출범",
+      "sourceDesc": "SK텔레콤이 AI 데이터센터 전문 기업 SK호라이즌을 출범했다. 외부 투자를 유치해 아시아 AI 인프라 허브로 성장하겠다는 계획이다.",
+      "sourceLink": "https://news.google.com/search?q=SKT+SK%ED%98%B8%EB%9D%BC%EC%9D%B4%EC%A6%8C+AIDC+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "AI 모델·서비스",
+      "kicker": "청소년 전용",
+      "title": "오픈AI, 청소년 전용 챗GPT 글로벌 출시",
+      "narration": "오픈AI가 청소년 전용 챗GPT를 출시했습니다.",
+      "summary": "오픈AI가 청소년을 위한 챗GPT를 출시해 학습 모드와 안전 기능을 기본 적용했습니다. AI에 대한 과도한 의존을 막고 스스로 문제를 풀 수 있도록 설계됐습니다.",
+      "sourceTitle": "오픈AI, 청소년을 위한 챗GPT 출시…학습·안전 모드 강화",
+      "sourceDesc": "오픈AI는 청소년을 위한 챗GPT를 출시한다고 밝혔다. 이 서비스는 청소년의 학습을 돕고 AI에 정서적으로 지나치게 의존하는 것을 막기 위해 학습 모드와 안전 기능을 기본 적용했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%98%A4%ED%94%88AI+%EC%B2%AD%EC%86%8C%EB%85%84+%EC%B1%97GPT+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "사회 영향",
+      "kicker": "역할 재편",
+      "title": "AI 확산 노동시장, 일자리 소멸보다 역할 재편",
+      "narration": "AI가 일자리 대신 역할을 바꾸고 있습니다.",
+      "summary": "AI 에이전트가 기업 업무에 깊이 침투하면서 일자리 소멸보다 역할 재편이 현실이 되고 있습니다. 은행 등 디지털 전환이 빠른 분야에서 인력 구조 변화가 가속되고 있습니다.",
+      "sourceTitle": "AI 확산과 경기 둔화가 동시에 덮친 2026년 노동시장, '일자리 소멸'보다 '역할 재편'이 현실이다",
+      "sourceDesc": "AI 에이전트가 조직 내 주요 프로세스에 깊이 침투하면서 실질적 노동력을 대체하는 확산기에 진입했다. 시중은행들이 영업점을 축소하고 AI 기반 서비스를 확대하면서 인력 구조 변화가 가속되고 있다.",
+      "sourceLink": "https://news.google.com/search?q=AI+%EC%9D%BC%EC%9E%90%EB%A6%AC+%EC%97%AD%ED%95%A0+%EC%9E%AC%ED%8E%B8+2026+%EB%85%B8%EB%8F%99%EC%8B%9C%EC%9E%A5&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-01 AI 뉴스 브리핑\n\n1. 소니·워너, 앤트로픽 수만 곡 저작권 소송\n2. AI 칩·반도체 장비, 오늘부터 전략물자 지정\n3. SKT, AI 데이터센터 전문 'SK호라이즌' 출범\n4. 오픈AI, 청소년 전용 챗GPT 글로벌 출시\n5. AI 확산 노동시장, 일자리 소멸보다 역할 재편\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #AIbrief #ChatGPT #앤트로픽 #반도체 #SKT\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
