@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-01",
+  "slot": "pm",
+  "hookLine": "네팔 실종자 수색에 두산 헬기가 처음 투입됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "재난·사건",
+      "kicker": "네팔 한국인 수색",
+      "title": "네팔 실종 한국인 수색, 헬기 첫 투입",
+      "summary": "네팔 수력발전소 현장에서 실종된 한국인들을 찾기 위해 두산에너빌리티 민간 헬기가 수색에 처음 투입됐습니다. 정부 합동팀도 네팔군과 함께 육로·드론으로 병행 수색에 나섰습니다.",
+      "sourceTitle": "두산 헬기 네팔 수색 첫 투입…정부는 육로·드론 병행",
+      "sourceDesc": "두산에너빌리티는 전날 네팔 당국의 운항 허가를 받아 자체 확보한 민간 헬기 1대를 어퍼트리슐리-1 수력발전소 일대 수색에 투입했으며, 지난달 28일부터 헬기 수색을 추진한 지 나흘 만이다. 정부 합동 신속대응팀도 네팔군과 함께 현장 수색에 나섰다.",
+      "sourceLink": "https://news.google.com/search?q=네팔+한국인+실종+헬기+수색&hl=ko&gl=KR",
+      "imagePrompt": "Flooded mountain gorge in Nepal with a raging brown river sweeping through, collapsed bridge and debris-strewn rocky banks, dramatic storm clouds over snow-capped Himalayan peaks, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "재난·사건",
+      "kicker": "집중호우 피해 후속",
+      "title": "집중호우 전국 확산…전북 사망자 추가 발생",
+      "summary": "아침 폭우 피해의 후속입니다. 전북 고창에서 실종됐던 남성이 숨진 채 발견됐고, 낮부터 호우가 중부권으로 확산될 전망입니다.",
+      "sourceTitle": "전북서 2명 사망·실종···전국 곳곳 호우 피해",
+      "sourceDesc": "9월 1일 오전 기준 전북 정읍과 고창에서 남성들이 실종됐으며, 고창군에서 실종된 60대 남성은 이날 오전 6시50분쯤 숨진 채 발견됐다. 소방 활동 건수는 전국에서 모두 557건으로 집계됐고 낮부터 중부권에도 호우가 상륙할 전망이다.",
+      "sourceLink": "https://news.google.com/search?q=전북+집중호우+고창+사망+중부권+확산&hl=ko&gl=KR",
+      "imagePrompt": "Submerged South Korean rural farmland with muddy brown floodwater covering low-lying fields and collapsed greenhouse tunnels, dark overcast sky with heavy rain, broken debris floating in murky water, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "KTX·SRT 통합",
+      "title": "KTX·SRT 오늘부터 통합…요금 인하·좌석 확대",
+      "summary": "오늘부터 KTX와 SRT가 통합 운행을 시작했습니다. 서울~부산 요금이 내리고 수서축 좌석이 30% 확대되며 예매 앱도 코레일+로 통합됩니다.",
+      "sourceTitle": "9월 1일부터 서울~부산 KTX 5만4400원…운임 평균 10% 인하",
+      "sourceDesc": "국토교통부는 코레일과 SR의 제도적 통합을 완료하고 9월 1일부터 KTX와 SRT를 통합 운영한다고 밝혔다. 기존 KTX 운임이 SRT 수준으로 낮아져 서울~부산 표준요금이 5만4400원이 됐으며, 운임 평균 10% 인하와 수서축 좌석 30% 확대가 시행된다.",
+      "sourceLink": "https://news.google.com/search?q=KTX+SRT+통합+운행+9월+1일&hl=ko&gl=KR",
+      "imagePrompt": "Sleek modern high-speed train on elevated tracks at a South Korean station, platform lighting glowing in early morning, silver and blue train exterior reflecting station lights, empty platform with departure board in background, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "국회 개막",
+      "title": "정기국회 오늘 개막…여야 100일 격전 예고",
+      "summary": "오늘 정기국회가 개막하며 여야의 100일간 입법·예산 격돌이 시작됐습니다. 청문회와 국정감사, 예산안 처리를 두고 여야가 맞붙을 전망입니다.",
+      "sourceTitle": "정기국회 오늘 개막...입법·청문회·국감·예산 놓고 여야 격돌 전망",
+      "sourceDesc": "9월 1일 정기국회가 개막했다. 여야는 100일간의 일정 동안 입법, 청문회, 국정감사, 예산 처리를 놓고 격돌할 전망이다. 정부 예산안은 9월 3일 제출될 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=정기국회+개막+2026+9월+1일&hl=ko&gl=KR",
+      "imagePrompt": "South Korean National Assembly building in Yeouido with iconic domed rotunda, Korean national flag on a tall flagpole against a clear blue sky, formal stone steps and entrance plaza, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "역대 최대 교육 예산",
+      "title": "2027 교육 예산 역대 최대…3세까지 무상교육 확대",
+      "summary": "교육부가 2027년도 예산안을 역대 최대 규모로 확정했습니다. 지방국립대 21곳에 미래인재성장자금이 신설되고 3세까지 무상교육·보육이 확대됩니다.",
+      "sourceTitle": "[2027 예산안]내년 교육예산 117.6조…교부금 78.9조·지역대학 투자 확대",
+      "sourceDesc": "교육부는 1일 국무회의에서 2027년도 교육부 예산안을 117조5962억원으로 확정했다. 이는 전년도 대비 10.6% 증가한 역대 최대 규모다. 지방국립대 21곳에 미래인재성장자금 6910억원이 신설되고, 3세까지 무상 교육·보육이 확대된다.",
+      "sourceLink": "https://news.google.com/search?q=2027+교육예산+역대최대+무상교육+지방국립대&hl=ko&gl=KR",
+      "imagePrompt": "Rows of empty wooden school desks in a sunlit South Korean classroom with windows casting long light beams, neatly stacked textbooks on a desk, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-01 저녁 브리핑\n\n1. 네팔 실종 한국인 수색, 헬기 첫 투입\n2. 집중호우 전국 확산…전북 사망자 추가 발생\n3. KTX·SRT 오늘부터 통합…요금 인하·좌석 확대\n4. 정기국회 오늘 개막…여야 100일 격전 예고\n5. 2027 교육 예산 역대 최대…3세까지 무상교육 확대\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "googleTrends": "fail",
+      "nate": "fail",
+      "googleNews": "fail"
+    },
+    "signalHits": []
+  }
+}
