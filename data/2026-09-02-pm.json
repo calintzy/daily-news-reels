@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-02",
+  "slot": "pm",
+  "hookLine": "한 달 만에 미·이란 무력충돌이 재개됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "무력충돌 재개",
+      "title": "미국·이란, 한 달 만에 무력충돌 재개",
+      "summary": "트럼프 미국 대통령이 이란에 강력 타격을 가하며 한 달 만에 미·이란 무력충돌이 재개됐습니다. 이란도 즉각 맞대응 작전을 개시하며 긴장이 고조되고 있습니다.",
+      "sourceTitle": "트럼프 \"이란 강력 타격\" … 한 달 만에 美·이란 무력충돌 재개",
+      "sourceDesc": "트럼프 대통령이 요르단 내 미군 기지를 공격한 이란에 대해 강력 타격을 명령했다. 미군의 대이란 공격은 약 한 달 만에 재개된 것으로, 미국은 호르무즈 해협의 이란 라라크섬을 공습해 이슬람혁명수비대의 기뢰 부설용 로켓발사대를 타격했다. 이란도 즉각 결정적 맞대응 작전을 개시했다.",
+      "sourceLink": "https://news.google.com/search?q=트럼프+이란+강력타격+무력충돌+재개&hl=ko&gl=KR",
+      "imagePrompt": "Military jet silhouettes reflected on a darkened oil refinery basin at dusk, distant black smoke rising against an orange and grey sky, industrial infrastructure, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "물가 재상승",
+      "title": "8월 소비자물가 3.1%, 두 달 만에 3%대",
+      "summary": "8월 소비자물가가 3.1% 올라 두 달 만에 다시 3%대로 올라섰습니다. 근원물가도 3년3개월 만에 최고치를 기록하며 서민 가계 부담이 커지고 있습니다.",
+      "sourceTitle": "8월 소비자물가 3.1%↑…근원물가 3년3개월 만에 최고(종합)",
+      "sourceDesc": "8월 소비자물가 상승률이 3.1%를 기록하며 두 달 만에 다시 3%대로 올라섰다. 지난해 SKT 통신 요금 감면에 따른 기저효과가 크게 작용했으며, 근원물가도 3년3개월 만에 최고치를 기록했다. 서비스·전기가스가 동반 상승하며 생활물가도 함께 올랐다.",
+      "sourceLink": "https://news.google.com/search?q=8월+소비자물가+3.1+근원물가+최고&hl=ko&gl=KR",
+      "imagePrompt": "Close-up of a shopping basket filled with assorted grocery items resting on an empty supermarket checkout conveyor belt under dramatic overhead fluorescent store lighting, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제·사건",
+      "kicker": "후속",
+      "title": "홈플러스 회생 가결…첫 관문 통과",
+      "summary": "후속 소식으로, 오늘 관계인집회에서 홈플러스 회생계획안이 가결됐습니다. 회생채권자 75.9%가 동의하며 홈플러스가 법정관리 졸업의 첫 관문을 통과했습니다.",
+      "sourceTitle": "[속보] 홈플러스 회생계획안 가결…회생채권자 75.9% 동의",
+      "sourceDesc": "홈플러스 회생계획안이 2일 서울회생법원 관계인집회에서 가결됐다. 회생채권자조의 동의율은 75.9%로 가결 기준인 66.7%를 넘겼다. 이어 법원이 회생계획안을 인가하며 홈플러스는 회생 절차를 이어가게 됐다.",
+      "sourceLink": "https://news.google.com/search?q=홈플러스+회생계획안+가결+회생채권자+동의&hl=ko&gl=KR",
+      "imagePrompt": "A legal gavel resting on a thick stack of official court documents stamped with approval seals on a polished wooden judicial bench under warm spotlight lighting, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "겸직 논란",
+      "title": "용혜인 장관 후보 겸직 논란 확산",
+      "summary": "용혜인 성평등가족부 장관 후보자가 비례대표 의원직을 유지하겠다고 밝혀 겸직 논란이 확산되고 있습니다. 2030 세대를 중심으로 불공정·특혜 논란이 커지며 여권도 부담감이 커지고 있습니다.",
+      "sourceTitle": "\"2030이 뭐라 하겠나\" 용혜인 겸직 논란에 커지는 여권 부담감",
+      "sourceDesc": "이재명 대통령이 성평등가족부 장관 후보자로 지명한 용혜인 기본소득당 의원이 비례대표 의원직과 장관직을 겸직하겠다는 의사를 밝혀 논란이 확산되고 있다. 위성정당에 참여해 두 차례 비례대표 국회의원에 당선된 후 장관직까지 유지하겠다는 것을 두고 2030 세대를 향한 불공정·특혜 논란이 커지고 있으며 여권 내부의 부담감도 높아지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=용혜인+겸직+논란+장관+의원직+여권&hl=ko&gl=KR",
+      "imagePrompt": "A glass and brass name plate holder placed beside a stack of parliamentary voting ballots on a formal government office desk, natural light from tall windows casting long shadows on polished wood, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "100일 개막",
+      "title": "2026 정기국회, 협치 vs 대치 시험대",
+      "summary": "새 여야 지도부가 처음 맞붙는 2026 정기국회가 문을 열었습니다. 인사청문회, 국정감사, 예산안 심사를 놓고 협치와 대치의 시험대가 될 전망입니다.",
+      "sourceTitle": "[2026 정기국회]①새 여야 지도부, 첫 정기국회서 협치 vs 대치 시험대",
+      "sourceDesc": "새롭게 출범한 여야 지도부가 처음 맞붙는 2026 정기국회가 개막했다. 인사청문회부터 국정감사, 연말 예산안 심사에 이르기까지 핵심 쟁점을 놓고 여야가 격돌할 전망이다. 협치와 대치 사이에서 새 지도부의 진면목이 드러날 시험대가 될 것으로 보인다.",
+      "sourceLink": "https://news.google.com/search?q=2026+정기국회+개막+여야+시험대&hl=ko&gl=KR",
+      "imagePrompt": "Wide angle view of an empty legislative chamber with rows of wooden seats, microphones on each desk, and a central podium under soft ceiling lighting, formal and institutional atmosphere, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-02 저녁 브리핑\n\n1. 미국·이란, 한 달 만에 무력충돌 재개\n2. 8월 소비자물가 3.1%, 두 달 만에 3%대\n3. 홈플러스 회생 가결…첫 관문 통과\n4. 용혜인 장관 후보 겸직 논란 확산\n5. 2026 정기국회, 협치 vs 대치 시험대\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #이란전쟁 #소비자물가 #홈플러스 #용혜인 #정기국회\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "googleTrends": "fail",
+      "nate": "fail",
+      "googleNews": "fail"
+    },
+    "signalHits": []
+  }
+}
