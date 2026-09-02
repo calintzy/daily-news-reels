@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-03",
+  "slot": "am",
+  "hookLine": "한국인 실종자 수색, 긴급구호대가 네팔 도착했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·재난",
+      "kicker": "홍수 구호",
+      "title": "네팔 홍수 한국인 실종, 구호대 현지 투입",
+      "summary": "네팔·중국 대홍수로 한국인 실종자가 발생한 가운데 정부 긴급구호대가 현지에 도착했습니다. 한국인 실종자 9명을 찾기 위해 휴대전화 위치추적과 헬기·드론 수색이 진행 중입니다.",
+      "sourceTitle": "긴급구호대 네팔 도착, 내일부터 투입…韓실종자 휴대전화 위치추적",
+      "sourceDesc": "네팔 대홍수로 한국인 실종자가 발생한 가운데 정부 파견 긴급구호대(KDRT)가 현지에 도착했다. 한국인 실종자 9명을 찾기 위해 휴대전화 위치추적과 헬기·드론 수색이 진행 중이다.",
+      "sourceLink": "https://news.google.com/search?q=긴급구호대+네팔+도착+한국인+실종자&hl=ko&gl=KR",
+      "imagePrompt": "Aerial view of flooded valley in Nepal with submerged villages and muddy brown water covering fields and roads, orange emergency equipment on higher ground, overcast sky with dramatic clouds, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "사회·교육",
+      "kicker": "수능 리허설",
+      "title": "수능 9월 모의평가 오늘 시행",
+      "summary": "수능 리허설인 9월 모의평가가 오늘 전국에서 시행됐습니다. 지원자는 전년보다 감소한 50만128명으로, 전 범위 출제와 공교육 내 변별력 확보가 주요 관심사입니다.",
+      "sourceTitle": "'수능 리허설' 9월 모평 시작…\"공교육 내 변별력 확보\"",
+      "sourceDesc": "수능 9월 모의평가가 9월 3일 오늘 전국에서 시행됐다. 지원자는 전년보다 1만5772명 감소한 50만128명으로, 전 범위 출제와 공교육 내 변별력 확보가 주요 관심사다.",
+      "sourceLink": "https://news.google.com/search?q=수능+9월+모의평가+2026+시행&hl=ko&gl=KR",
+      "imagePrompt": "Empty South Korean high school exam room with rows of wooden desks and answer sheet papers laid out, fluorescent overhead lighting on white walls and blackboard at front, quiet institutional atmosphere, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "사회·법",
+      "kicker": "72년 만의 개혁",
+      "title": "검사 수사권 폐지, 10월 시행 확정",
+      "summary": "오는 10월부터 72년 만에 검사의 직접 수사권이 사라집니다. 개정 형사소송법 시행으로 경찰이 형사사건 수사를 전담하고 검찰은 기소만 담당하게 됩니다.",
+      "sourceTitle": "72년 만의 형사사법체계 개편‥변화와 우려",
+      "sourceDesc": "오는 10월 2일 개정 형사소송법이 시행되면 72년 만에 검사의 직접 수사권이 사라지고 경찰이 형사사건 수사를 전담한다. 검찰은 기소만 담당하게 되며, 법조계의 변화와 우려가 동시에 제기되고 있다.",
+      "sourceLink": "https://news.google.com/search?q=형사소송법+수사기소분리+10월+시행&hl=ko&gl=KR",
+      "imagePrompt": "Interior of South Korean courthouse with empty wooden benches in solemn courtroom, scales of justice sculpture in foreground, morning light through tall narrow windows casting sharp shadows on marble floors, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "청문 정국",
+      "title": "정기국회 개막, 인사청문 정국 격화",
+      "summary": "오늘 정기국회가 개막되며 여야 간 격돌이 예상됩니다. 6개 부처 장관 후보자 인사청문회가 예정돼 있고, 국정감사와 예산안 심의를 둘러싼 첫 공방이 시작됩니다.",
+      "sourceTitle": "정기국회 오늘 개막...입법·청문회·국감·예산 놓고 여야 격돌 전망",
+      "sourceDesc": "오늘 정기국회가 개막됐다. 이재명 정부 2기 개각에 따라 6개 부처 장관 후보자 인사청문회가 예정돼 있고, 국정감사와 예산안 심의를 둘러싼 여야 간 격돌이 전망된다.",
+      "sourceLink": "https://news.google.com/search?q=정기국회+개막+인사청문+여야+격돌&hl=ko&gl=KR",
+      "imagePrompt": "South Korean National Assembly building exterior with distinctive domed roof, Korean national flag on flagpole against clear morning sky, stone columns and formal architecture, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "베를린 AI 가전",
+      "title": "삼성, IFA 2026서 'AI 리빙' 공개",
+      "summary": "삼성전자가 독일 베를린 IFA 2026에서 'AI 리빙' 전략을 발표했습니다. TV, 가전, 갤럭시 기기를 하나의 AI 생태계로 연결하는 서비스를 선보였습니다.",
+      "sourceTitle": "삼성전자, IFA 2026서 'AI 리빙' 공개…일상 전반 연결한다",
+      "sourceDesc": "삼성전자가 독일 베를린에서 열리는 IFA 2026에서 여가·홈·건강관리 등 일상 전반을 AI로 연결하는 'AI 리빙' 전략을 공개했다. TV, 가전, 갤럭시 기기를 하나의 생태계로 연결하는 AI 컴패니언 서비스를 선보였다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+IFA+2026+AI+리빙&hl=ko&gl=KR",
+      "imagePrompt": "Modern technology exhibition hall with sleek home appliances and large display screens showing abstract geometric light patterns, clean minimalist interior design with blue and white ambient lighting, polished floors reflecting displays, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-03 아침 브리핑\n\n1. 네팔 홍수 한국인 실종, 구호대 현지 투입\n2. 수능 9월 모의평가 오늘 시행\n3. 검사 수사권 폐지, 10월 시행 확정\n4. 정기국회 개막, 인사청문 정국 격화\n5. 삼성, IFA 2026서 'AI 리빙' 공개\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "googleTrends": "fail",
+      "nate": "fail",
+      "googleNews": "fail"
+    },
+    "signalHits": []
+  }
+}
