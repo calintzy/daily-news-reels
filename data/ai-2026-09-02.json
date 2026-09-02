@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-02",
+  "account": "aibrief",
+  "hookLine": "챗GPT 광고 200일 만에 1.4조원 돌파했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 모델·서비스",
+      "kicker": "광고 1.4조 돌파",
+      "title": "챗GPT 광고 200일 만에 연매출 1.4조원 돌파",
+      "summary": "오픈AI의 챗GPT 광고가 출시 200일 만에 연환산 매출 1.4조원을 돌파했습니다. 40개국 이상에서 운영 중이며 새로운 수익 기반으로 주목받고 있습니다.",
+      "sourceTitle": "챗GPT 광고, 200일 만에 연환산 매출 1.4조원 돌파",
+      "sourceDesc": "오픈AI는 챗GPT 광고가 출시 200일이 채 되지 않아 연환산 매출 10억달러(약 1조4000억원)를 돌파했다고 31일(현지시간) 밝혔다. 챗GPT 광고는 현재 40개국 이상에서 운영 중이다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%B1%97GPT+%EA%B4%91%EA%B3%A0+%EC%97%B0%ED%99%98%EC%82%B0+%EB%A7%A4%EC%B6%9C+1.4%EC%A1%B0%EC%9B%90+%EB%8F%8C%ED%8C%8C+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "규제·정책",
+      "kicker": "AI 예산 84% 증가",
+      "title": "정부 2027 예산안, AI 예산 역대 최대 편성",
+      "summary": "정부가 국무회의에서 의결한 2027년 예산안에서 R&D 예산은 역대 최대인 39조5000억원으로 편성됐습니다. AI 예산은 84.3% 증가한 9조4000억원으로 대폭 확대됐습니다.",
+      "narration": "내년 정부 AI 예산이 84.3%나 증가했습니다.",
+      "sourceTitle": "R&D 39조5천억 '역대 최대'.. AI에만 70% 늘려 4조1천억 [2027년 예산안]",
+      "sourceDesc": "정부가 국무회의에서 의결한 2027년 예산안에서 R&D 예산이 역대 최대인 39조5000억원으로 확정됐다. 과기정통부의 AI 예산은 9조4000억원으로 84.3% 늘었다.",
+      "sourceLink": "https://news.google.com/search?q=2027%EB%85%84+%EC%98%88%EC%82%B0%EC%95%88+AI+%EC%98%88%EC%82%B0+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크 사업",
+      "kicker": "군용 AI 포털 개방",
+      "title": "미군 300만 명에 챗GPT·그록 배포 완료",
+      "summary": "미 국방부가 챗GPT와 그록을 군용으로 개조해 약 300만 명에게 배포했습니다. 이미 170만 명 이상이 이용 중이며 행정·물류 등 비기밀 업무에 활용됩니다.",
+      "narration": "미군이 챗GPT와 그록을 실전에 배치했습니다.",
+      "sourceTitle": "미 군사 기밀 쥐어쥔 AI… 미 국방부, 챗GPT·그록 '실전 배치' 완료",
+      "sourceDesc": "미 국방부가 오픈AI의 챗GPT와 xAI의 그록을 군 전용으로 개조해 약 300만 명의 민간·군 인력에게 보급했다. 보안 AI 포털 'GenAI.mil'을 통해 제공되며 170만 명 이상이 이미 이용 중이다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%AF%B8+%EA%B5%AD%EB%B0%A9%EB%B6%80+%EC%B1%97GPT+%EA%B7%B8%EB%A1%9D+%EA%B5%B0%EC%9A%A9+AI+%EB%B0%B0%ED%8F%AC+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "사회 영향",
+      "kicker": "청년 일자리 위기",
+      "title": "사라진 청년 일자리 94%, AI 고노출 업종 집중",
+      "summary": "한국은행 보고서에 따르면 2022년부터 청년 일자리 28만5000개가 줄었습니다. 이 중 94%인 26만8000개가 AI 고노출 업종에서 사라진 것으로 나타났습니다.",
+      "narration": "청년 일자리의 94%가 AI 업종에서 사라졌습니다.",
+      "sourceTitle": "청년층들의 '첫 경력' AI에 막혔나…4년새 줄어든 일자리 94%가 고노출 업종",
+      "sourceDesc": "한국은행 조사에 따르면 2022년 6월부터 2026년 6월까지 청년층(15~29세) 일자리는 28만5000개 감소했다. 이 중 94%인 26만8000개가 AI 고노출 업종에서 줄어들었다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%B2%AD%EB%85%84+%EC%9D%BC%EC%9E%90%EB%A6%AC+AI+%EA%B3%A0%EB%85%B8%EC%B6%9C+%EC%97%85%EC%A2%85+94%25+%EA%B0%90%EC%86%8C+%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "AI 모델·서비스",
+      "kicker": "금융 AI 에이전트",
+      "title": "KT, 우리은행 AI 상담봇 에이전트화 착수",
+      "summary": "KT가 우리은행의 AI 챗봇과 상담봇 재구축 사업자로 선정돼 시스템 고도화에 나섰습니다. 고객이 채널을 옮겨도 상담 내용이 이어지는 AI 에이전트 기술이 적용됩니다.",
+      "narration": "KT가 우리은행 AI 상담을 에이전트로 바꿉니다.",
+      "sourceTitle": "KT, 우리은행 'AI 챗봇·상담봇' 재구축···금융 상담에 AI 에이전트 결합",
+      "sourceDesc": "KT가 우리은행이 발주한 AI 챗봇 및 상담봇 재구축 사업자로 선정돼 AI 기반 고객 상담 시스템 구축에 착수했다. 고객이 채널을 이동해도 상담 맥락이 이어지는 AI 에이전트 솔루션이 핵심이다.",
+      "sourceLink": "https://news.google.com/search?q=KT+%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89+AI+%EC%B1%97%EB%B4%87+%EC%83%81%EB%8B%B4%EB%B4%87+%EC%9E%AC%EA%B5%AC%EC%B6%95+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-02 AI 뉴스 브리핑\n\n1. 챗GPT 광고 200일 만에 연매출 1.4조원 돌파\n2. 정부 2027 예산안, AI 예산 역대 최대 편성\n3. 미군 300만 명에 챗GPT·그록 배포 완료\n4. 사라진 청년 일자리 94%, AI 고노출 업종 집중\n5. KT, 우리은행 AI 상담봇 에이전트화 착수\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #챗GPT #예산안 #청년일자리 #금융AI #미국방부\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
