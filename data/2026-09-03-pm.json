@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-03",
+  "slot": "pm",
+  "hookLine": "티빙 해킹, 4000만 계정 정보가 유출됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사이버·IT",
+      "kicker": "역대급 유출",
+      "title": "티빙 계정 4000만개 해킹, 정보 해외 유출",
+      "summary": "국내 OTT 티빙의 이용자 계정 4000만개가 해킹돼 비밀번호·성명·휴대폰 번호 등 개인정보가 해외로 대규모 유출됐습니다. 접속키 탈취로 내부 시스템이 뚫린 것이 원인으로 파악됐습니다.",
+      "sourceTitle": "티빙, 4000만개 계정 해킹···비밀번호·성명·휴대폰 번호 등 대규모 해외 유출",
+      "sourceDesc": "국내 대표 OTT 서비스 티빙에서 이용자 계정 약 4000만 개의 비밀번호·성명·휴대폰 번호 등 개인정보가 대규모로 해외에 유출됐다. 개발자 접속키 탈취로 내부 시스템에 침투된 것이 원인으로 조사됐다.",
+      "sourceLink": "https://news.google.com/search?q=티빙+해킹+4000만+계정+유출&hl=ko&gl=KR",
+      "imagePrompt": "Close-up of a dark computer monitor displaying rows of encrypted data and glowing warning indicators, dramatic red and blue lighting casting eerie shadows on server racks in background, tension-filled cybersecurity atmosphere, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "국제·경제",
+      "kicker": "반도체 압박",
+      "title": "트럼프, 한국에 반도체 공장 압박 수위 높여",
+      "summary": "트럼프 미국 대통령이 한국에 알래스카 LNG 투자와 반도체 공장 건설을 요구하며 압박 수위를 높이고 있습니다. 미 상무장관은 삼성과 하이닉스가 미국에 생산 시설을 지어야 한다고 밝혔습니다.",
+      "sourceTitle": "'중간선거 위기' 트럼프…반도체 관세·알래스카 LNG 내세워 韓 투자 압박하나",
+      "sourceDesc": "트럼프 행정부가 반도체 관세와 알래스카 LNG 카드를 내세워 한국 기업의 미국 투자를 압박하고 있다. 미 상무장관은 삼성과 하이닉스 등 한국 반도체 업체들이 미국에 생산 시설을 지어야 한다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=트럼프+반도체+관세+알래스카+한국+압박+2026&hl=ko&gl=KR",
+      "imagePrompt": "Semiconductor wafer chips arranged on a dark reflective industrial surface under dramatic split lighting, close-up of silicon circuit patterns symbolizing international economic tension, sleek and strategic atmosphere, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "국제·문화",
+      "kicker": "양안 갈등 불씨",
+      "title": "광주비엔날레 대만관 논란, 중국 작가 철수",
+      "summary": "광주비엔날레 대만관 명칭 논란으로 중국 작가들이 전시 철수를 선언했습니다. 주한중국대사관도 이를 강하게 비판해 한중 문화 갈등으로 확산됐습니다.",
+      "sourceTitle": "광주비엔날레 '대만관' 논란…중국 작가들 전면 철수 선언",
+      "sourceDesc": "제16회 광주비엔날레에서 대만관 명칭 사용에 반발한 중국 작가들이 전시 철수를 만장일치로 결정했다. 주한중국대사관은 이를 강력히 비판하며 관련 지자체 방문 일정도 전격 취소됐다.",
+      "sourceLink": "https://news.google.com/search?q=광주비엔날레+대만관+논란+중국+작가+철수&hl=ko&gl=KR",
+      "imagePrompt": "Contemporary art gallery interior with empty pedestals and blank white walls where artworks have been removed, dramatic spotlight beams cutting through dim exhibition space, atmosphere of cultural absence and tension, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 4,
+      "category": "사회·사건",
+      "kicker": "의료 폐기물 범죄",
+      "title": "서울시, 흡입지방 변기에 버린 성형외과 적발",
+      "summary": "서울시가 흡입지방·폐혈액을 개수대·변기에 버린 성형외과 등 의료기관 25곳을 적발했습니다. 관련자 25명은 기소의견으로 검찰에 송치됐습니다.",
+      "sourceTitle": "흡입지방·폐혈액 개수대·변기에 버리는 성형외과 25곳 적발",
+      "sourceDesc": "서울시 민생사법경찰국이 흡입지방과 폐혈액을 개수대·변기에 버리는 등 의료폐기물 처리기준을 위반한 성형외과 등 25곳을 적발했다. 관련자 25명을 기소의견으로 검찰에 송치했으며 총 36건의 위반 행위가 확인됐다.",
+      "sourceLink": "https://news.google.com/search?q=서울시+성형외과+의료폐기물+흡입지방+변기+적발&hl=ko&gl=KR",
+      "imagePrompt": "Sealed biohazard medical waste containers with orange warning labels arranged on a sterile clinical floor, harsh fluorescent overhead lighting revealing institutional hallway with disposal bins, stark documentary atmosphere, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    },
+    {
+      "rank": 5,
+      "category": "경제·정책",
+      "kicker": "공기업 대수술",
+      "title": "공공기관 109곳 통폐합, 발전 5사 하나로",
+      "summary": "정부가 발전 5사를 하나로 통합하고 LH를 두 기관으로 분리하는 등 공공기관 109곳을 통폐합합니다. 항만공사 4개도 하나로 합쳐 대형 공기업으로 재편됩니다.",
+      "sourceTitle": "공공기관 통폐합, 109개 감축한다…발전 5사·4개 항만공사 통합",
+      "sourceDesc": "정부가 발전 5사를 통합하고 한국토지주택공사(LH)를 개발·주거복지 기능으로 분리하는 등 공공기관·자회사 109곳을 통폐합한다. 한국석유공사와 한국가스공사도 하나로 합치고 4개 항만공사도 통합한다.",
+      "sourceLink": "https://news.google.com/search?q=공공기관+통폐합+발전5사+LH+분리+109곳&hl=ko&gl=KR",
+      "imagePrompt": "Wide-angle view of a large South Korean government institutional building with stone columns and formal architecture under overcast autumn sky, symbolic of major bureaucratic restructuring and policy change, no people, no text, vertical 9:16 composition, documentary photojournalism style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-03 저녁 브리핑\n\n1. 티빙 계정 4000만개 해킹, 정보 해외 유출\n2. 트럼프, 한국에 반도체 공장 압박 수위 높여\n3. 광주비엔날레 대만관 논란, 중국 작가 철수\n4. 서울시, 흡입지방 변기에 버린 성형외과 적발\n5. 공공기관 109곳 통폐합, 발전 5사 하나로\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "googleNews": "fail"
+    },
+    "signalHits": []
+  }
+}
