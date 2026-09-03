@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-03",
+  "account": "aibrief",
+  "hookLine": "테슬라 사이버캡, 오늘 오스틴서 출시됩니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회 영향",
+      "kicker": "로보택시 현실화",
+      "title": "테슬라 사이버캡, 오늘 오스틴서 출시 행사",
+      "summary": "테슬라가 오늘 오스틴에서 운전대와 페달 없는 완전자율주행 로보택시 사이버캡을 공개합니다. 텍사스주에 이미 45대가 등록된 사이버캡이 라이드셰어링 서비스에 본격 투입될 예정입니다.",
+      "sourceTitle": "테슬라 사이버캡, 오스틴 행사 앞두고 텍사스주에 45대 등록",
+      "sourceDesc": "테슬라가 9월 3일 텍사스 오스틴 행사를 앞두고 텍사스주 당국에 사이버캡 45대를 등록한 것으로 확인됐다. 사이버캡은 운전대와 페달이 없는 완전자율주행 로보택시다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%85%8C%EC%8A%AC%EB%9D%BC+%EC%82%AC%EC%9D%B4%EB%B2%84%EC%BA%A1+%EC%98%A4%EC%8A%A4%ED%8B%B4+%EC%B6%9C%EC%8B%9C+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델·서비스",
+      "kicker": "비용 75% 인하",
+      "title": "앤트로픽 페이블 5.1 출시, 캐시 비용 75% 인하",
+      "summary": "앤트로픽이 코딩과 에이전트 작업에 특화된 최신 AI 모델 페이블 5.1과 미토스 5.1을 공개했습니다. 캐시 읽기 요금이 75% 인하되어 사용자 비용이 크게 낮아졌습니다.",
+      "narration": "앤트로픽이 페이블 5.1을 출시해 비용을 낮췄습니다.",
+      "sourceTitle": "앤트로픽, 최고 성능 '페이블 5.1' 출시...캐시 읽기 75% 파격 할인",
+      "sourceDesc": "앤트로픽이 코딩과 에이전트 작업에 특화된 최신 AI 모델 페이블 5.1과 미토스 5.1을 공개했다. 캐시 읽기 요금이 기존 대비 75% 인하되며, 미토스 5.1은 검증된 기관에만 제한 제공된다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD+%ED%8E%98%EC%9D%B4%EB%B8%94+5.1+%EC%B6%9C%EC%8B%9C+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 모델·서비스",
+      "kicker": "코딩·보안 강화",
+      "title": "구글 제미나이 3.8 플래시, 보안·코딩 성능 강화",
+      "summary": "구글이 소프트웨어 엔지니어링과 에이전트 작업에 특화된 제미나이 3.8 플래시를 공개했습니다. 사이버 보안 전용 변종 3.8 플래시 사이버도 함께 선보였습니다.",
+      "narration": "구글이 제미나이 3.8 플래시를 공개했습니다.",
+      "sourceTitle": "구글, 코딩·보안 특화 '제미나이 3.8 플래시' 공개",
+      "sourceDesc": "구글이 소프트웨어 엔지니어링과 사이버 보안에 특화된 제미나이 3.8 플래시와 보안 전용 모델 3.8 플래시 사이버를 함께 공개했다. 3.7 플래시 대비 에이전트 작업과 코딩 성능이 크게 강화됐으며, 출시 기념가 3.7 플래시와 동일하다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%B5%AC%EA%B8%80+%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4+3.8+%ED%94%8C%EB%9E%98%EC%8B%9C+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "반도체·인프라",
+      "kicker": "AI 서버 최대 매출",
+      "title": "델, AI 서버 매출 두 배 급증…개장 전 9% 강세",
+      "summary": "델 테크놀로지스가 이번 분기 실적에서 AI 전용 서버 매출이 전년 대비 두 배 급증했습니다. AI 서버 수요 증가에 힘입어 주가도 개장 전 9% 강세를 보이고 있습니다.",
+      "narration": "델이 AI 서버 매출 두 배 성장으로 강세입니다.",
+      "sourceTitle": "[실적리뷰]델 테크놀로지스, AI 서버 매출 두 배 급증에 개장전 9% 강세",
+      "sourceDesc": "델 테크놀로지스가 이번 분기 AI 전용 서버 매출이 전년 대비 두 배 급증했다고 발표했다. AI 서버 수요 증가에 힘입어 주가도 개장 전 9% 강세를 보이고 있다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%8D%B8+AI+%EC%84%9C%EB%B2%84+%EB%A7%A4%EC%B6%9C+%EB%91%90+%EB%B0%B0+%EA%B8%89%EC%A6%9D+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "빅테크 사업",
+      "kicker": "AI 추격 최우선",
+      "title": "애플 CEO 터너스 취임…AI 추격이 최우선 과제",
+      "summary": "존 터너스가 9월 1일 애플 새 CEO로 공식 취임해 AI 경쟁력 강화를 최우선 과제로 삼았습니다. 팀 쿡은 이사회 집행의장으로 역할을 전환했습니다.",
+      "narration": "애플이 AI 추격을 새 목표로 CEO를 교체했습니다.",
+      "sourceTitle": "애플 새 CEO 취임한 터너스, 첫 과제는 'AI 추격'",
+      "sourceDesc": "존 터너스가 9월 1일 애플 최고경영자(CEO)로 공식 취임했다. 팀 쿡은 이사회 집행의장으로 전환하며, AI 경쟁력 강화가 터너스의 최우선 과제로 꼽힌다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%95%A0%ED%94%8C+%ED%84%B0%EB%84%88%EC%8A%A4+CEO+%EC%B7%A8%EC%9E%84+AI+%EC%B6%94%EA%B2%A9+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-03 AI 뉴스 브리핑\n\n1. 테슬라 사이버캡, 오늘 오스틴서 출시 행사\n2. 앤트로픽 페이블 5.1 출시, 캐시 비용 75% 인하\n3. 구글 제미나이 3.8 플래시, 보안·코딩 성능 강화\n4. 델, AI 서버 매출 두 배 급증…개장 전 9% 강세\n5. 애플 CEO 터너스 취임…AI 추격이 최우선 과제\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #테슬라 #앤트로픽 #구글 #델 #애플\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
