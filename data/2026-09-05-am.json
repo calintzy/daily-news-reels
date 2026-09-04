@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-05",
+  "slot": "am",
+  "hookLine": "공공기관 109개, 역대 최대 규모로 통폐합됩니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제·행정",
+      "kicker": "역대 최대 구조개혁",
+      "title": "공공기관 109개, 역대 최대 통폐합",
+      "summary": "정부가 발전 5사와 4개 항만공사 등을 통합하는 등 공공기관 109개를 감축한다고 발표했습니다. 전체 공공기관의 약 20%에 해당하는 역대 최대 규모입니다.",
+      "sourceTitle": "공공기관 109개 줄인다…발전5사·항만 4사 '대통합'",
+      "sourceDesc": "정부가 발전 5사와 4개 항만공사, 석유·가스공사를 통합하고 석탄공사를 청산하는 등 공공기관 109개를 감축한다. 전체 공공기관의 약 20%에 해당하는 역대 최대 규모로, 전략적 구조개혁 15개, 유사·중복기능 일원화 11개, 자회사·소규모기관 통합 83개 등을 통해 총 109개 기관을 정비한다.",
+      "sourceLink": "https://news.google.com/search?q=공공기관+109개+통폐합+2026",
+      "imagePrompt": "Wide-angle photojournalistic shot of a large Korean government institutional building exterior, gray concrete facade, overcast sky, documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "경제·사회",
+      "kicker": "생활비 지원",
+      "title": "근로장려금 상반기 신청, 9월 15일까지",
+      "summary": "국세청이 상반기 근로장려금 신청을 9월 15일까지 받습니다. 130만 가구가 대상이며 가구당 최대 115만 원을 12월 17일에 지급합니다.",
+      "sourceTitle": "상반기 근로장려금 신청하세요…130만 가구, 최대 115만원",
+      "sourceDesc": "국세청이 9월 1일부터 15일까지 2026년 귀속 상반기분 근로장려금 신청을 받는다. 상반기에 근로소득만 있는 130만 가구가 대상이며, 가구당 최대 115만 원을 받을 수 있다. 심사를 거쳐 12월 17일 지급 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=근로장려금+상반기+신청+2026",
+      "imagePrompt": "Close-up of a stack of South Korean won banknotes and an official government tax document on a wooden desk, soft morning light, photojournalistic documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "국제·스포츠",
+      "kicker": "태극전사 출정",
+      "title": "아시안게임 태극전사 1052명 출정 결단",
+      "summary": "대한체육회가 아이치·나고야 아시안게임 선수단 결단식을 열었습니다. 41개 종목에 총 1052명이 출전해 금메달 40~45개, 종합 3위를 목표로 합니다.",
+      "sourceTitle": "\"금메달 40~45개, 종합 3위 지킨다\"…태극전사 1052명 출정",
+      "sourceDesc": "대한체육회는 3일 충북 진천 국가대표선수촌에서 선수단 결단식을 열었다. 한국은 41개 종목에 총 1052명(선수 792명, 임원 260명)을 파견하며, 금메달 40~45개를 획득해 종합 3위를 지킨다는 목표를 세웠다. 대회는 9월 19일 개막해 10월 4일까지 진행된다.",
+      "sourceLink": "https://news.google.com/search?q=아시안게임+한국+선수단+1052명+출정+2026",
+      "imagePrompt": "Korean national athletics equipment and team uniforms arranged on a modern sports stadium floor, dramatic overhead lighting, photojournalistic documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "인사청문 쟁점",
+      "title": "법무장관 후보 김승원, 청탁 의혹 고발",
+      "summary": "김승원 법무부 장관 후보자가 신약 청탁 의혹으로 고발됐습니다. 후보자 측은 청탁이 아닌 적법한 민원 전달이라고 해명했습니다.",
+      "sourceTitle": "김승원 법무부 장관 후보자, '신약 청탁 의혹'으로 고발당해",
+      "sourceDesc": "김승원 법무부 장관 후보자가 신약 청탁 의혹으로 고발당했다. 코로나19 치료제 개발사가 임상시험 승인을 요청하며 청탁을 했고, 당시 의원이던 후보자가 식약처에 이를 전달했다는 것이 핵심 의혹이다. 후보자 측은 부정한 청탁은 없었다고 해명했다.",
+      "sourceLink": "https://news.google.com/search?q=김승원+법무부+장관+후보자+청탁+의혹",
+      "imagePrompt": "Empty Korean courtroom interior with wooden benches and a judge's elevated podium, warm tungsten light casting long shadows, documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "문화",
+      "kicker": "K-시네마 위상",
+      "title": "나홍진, 할리우드 리포터 장르 감독 30인 선정",
+      "summary": "나홍진 감독이 할리우드 리포터가 선정한 가장 영향력 있는 장르 영화 감독 30인에 이름을 올렸습니다. 아트하우스부터 액션 팬까지 아우르는 한국 거장으로 소개됐습니다.",
+      "sourceTitle": "나홍진 감독, 결국 일냈다…할리우드 리포터 선정 '가장 영향력 있는 장르 영화 감독 30인' 등극",
+      "sourceDesc": "나홍진 감독이 미국 영화 전문매체 할리우드 리포터가 선정한 '가장 영향력 있는 장르 영화 감독 30인'에 이름을 올렸다. 할리우드 리포터는 나 감독을 아트하우스와 액션 영화 팬을 아우르는 국제적 팬층을 구축한 한국의 거장이라고 소개했다.",
+      "sourceLink": "https://news.google.com/search?q=나홍진+할리우드+리포터+장르+감독+30인",
+      "imagePrompt": "A 35mm film reel unspooling against a dark dramatic background, cinematic side lighting highlighting translucent film frames, documentary style, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-05 아침 브리핑\n\n1. 공공기관 109개, 역대 최대 통폐합\n2. 근로장려금 상반기 신청, 9월 15일까지\n3. 아시안게임 태극전사 1052명 출정 결단\n4. 법무장관 후보 김승원, 청탁 의혹 고발\n5. 나홍진, 할리우드 리포터 장르 감독 30인 선정\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침뉴스 #오늘이슈\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
