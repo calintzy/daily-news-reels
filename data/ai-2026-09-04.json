@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-04",
+  "account": "aibrief",
+  "hookLine": "엔비디아가 허깅페이스를 129억달러에 인수합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "빅테크 사업",
+      "kicker": "역대 최대 AI 인수",
+      "title": "엔비디아, 허깅페이스 129억달러에 인수",
+      "summary": "엔비디아가 AI 오픈소스 플랫폼 허깅페이스를 129억달러에 인수하기로 공식 합의했습니다. 1800만 명 이상의 개발자가 이용하는 허깅페이스 인수로 AI 소프트웨어 사업이 확대됩니다.",
+      "sourceTitle": "엔비디아, 허깅페이스 129억달러에 인수…AI 소프트웨어 확대",
+      "sourceDesc": "엔비디아가 AI 오픈소스 플랫폼 허깅페이스를 129억달러에 인수하기로 공식 합의했다. 허깅페이스는 300만개 이상의 AI 모델을 호스팅하며 1800만 명 이상의 개발자가 이용하는 플랫폼이다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%97%94%EB%B9%84%EB%94%94%EC%95%84+%ED%97%88%EA%B9%85%ED%8E%98%EC%9D%B4%EC%8A%A4+%EC%9D%B8%EC%88%98+129%EC%96%B5%EB%8B%AC%EB%9F%AC+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델·서비스",
+      "kicker": "AGI 시대 개막",
+      "title": "오픈AI GPT-6 아스트라 출시, 컴퓨터 사용 지원",
+      "summary": "오픈AI가 차세대 플래그십 모델 GPT-6 아스트라를 공개했습니다. 컴퓨터 사용 등 복잡한 에이전트 작업에 특화됐으며, AI 에이전트 감시·통제 우려도 함께 제기됐습니다.",
+      "narration": "오픈AI가 최신 GPT-6 아스트라를 공개했습니다.",
+      "sourceTitle": "OpenAI, AI 에이전트 감시 우려 속 GPT-6 아스트라 공개",
+      "sourceDesc": "오픈AI가 차세대 플래그십 모델 GPT-6 아스트라를 공개했다. 컴퓨터 사용 등 복잡한 에이전트 작업에 특화됐으며, AI 에이전트의 자율성 확대에 따른 감시·통제 우려도 함께 제기됐다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%98%A4%ED%94%88AI+GPT-6+%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BC+%EC%B6%9C%EC%8B%9C+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "사회 영향",
+      "kicker": "교실 AI 금지령",
+      "title": "뉴욕시 초중생 AI 전면 금지…60만 명 영향",
+      "summary": "뉴욕시가 초·중학생을 대상으로 학교 내 생성형 AI 사용을 1년간 전면 금지했습니다. 공립학교 학생 약 60만 명, 전체의 3분의 2가 이번 조치의 영향을 받습니다.",
+      "narration": "뉴욕시가 초중생에게 AI 금지령을 내렸습니다.",
+      "sourceTitle": "美 최대 학군지 뉴욕, 초·중학생 AI 사용 1년간 금지",
+      "sourceDesc": "뉴욕시가 2026~2027학년도 동안 초등학교 및 중학교(8학년 이하) 학생의 생성형 AI 사용을 전면 금지했다. 이번 조치로 약 60만 명에 달하는 뉴욕시 공립학교 학생 3분의 2가 영향을 받는다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%89%B4%EC%9A%95%EC%8B%9C+%EC%B4%88%EC%A4%91%ED%95%99%EC%83%9D+AI+%EA%B8%88%EC%A7%80+%ED%95%99%EA%B5%90+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "규제·정책",
+      "kicker": "AI 첫 플랫폼 규제",
+      "title": "EU, 챗GPT 초대형 검색엔진으로 지정…첫 규제",
+      "summary": "EU 집행위원회가 챗GPT를 디지털서비스법상 초대형 온라인 검색엔진으로 지정했습니다. AI 챗봇으로는 처음 이 법의 적용을 받게 됐으며 오픈AI는 미성년자 보호 등 추가 의무를 이행해야 합니다.",
+      "narration": "EU가 챗GPT를 검색엔진으로 처음 규제합니다.",
+      "sourceTitle": "EU, 챗GPT에 최고 강도 규제…생성형 AI로는 처음",
+      "sourceDesc": "EU 집행위원회가 챗GPT를 디지털서비스법(DSA)상 초대형 온라인 검색엔진으로 지정했다. AI 챗봇이 이 법의 적용을 받는 것은 처음으로, 오픈AI는 미성년자 보호와 불법 콘텐츠 차단 등 추가 의무를 이행해야 한다.",
+      "sourceLink": "https://news.google.com/search?q=EU+%EC%B1%97GPT+%EC%B4%88%EB%8C%80%ED%98%95+%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84+DSA+%EC%A7%80%EC%A0%95+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "AI 저작권 전환점",
+      "title": "미 법무부, AI 저작권 소송서 오픈AI 편 들어",
+      "summary": "미국 법무부가 NYT 저작권 소송에서 오픈AI와 MS 편을 들어 언론기사 AI 학습이 공정이용이라는 입장을 밝혔습니다. AI 경쟁력이 국가 안보와 직결된다는 점도 근거로 제시됐습니다.",
+      "narration": "미 정부가 오픈AI 저작권 소송 편을 들었습니다.",
+      "sourceTitle": "美 법무부, NYT 저작권소송서 오픈AI·MS 손 들어줬다…'AI경쟁력은 안보'",
+      "sourceDesc": "미국 법무부가 뉴욕타임스(NYT)의 저작권 소송에서 오픈AI와 마이크로소프트(MS) 편을 들었다. 언론기사를 AI 학습에 사용하는 것이 공정이용에 해당한다며, AI 경쟁력이 국가 안보와 직결된다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%AF%B8+%EB%B2%95%EB%AC%B4%EB%B6%80+NYT+%EC%A0%80%EC%9E%91%EA%B6%8C+%EC%86%8C%EC%86%A1+%EC%98%A4%ED%94%88AI+%EA%B3%B5%EC%A0%95%EC%9D%B4%EC%9A%A9+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-04 AI 뉴스 브리핑\n\n1. 엔비디아, 허깅페이스 129억달러에 인수\n2. 오픈AI GPT-6 아스트라 출시, 컴퓨터 사용 지원\n3. 뉴욕시 초중생 AI 전면 금지…60만 명 영향\n4. EU, 챗GPT 초대형 검색엔진으로 지정…첫 규제\n5. 미 법무부, AI 저작권 소송서 오픈AI 편 들어\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #엔비디아 #허깅페이스 #오픈AI #뉴욕시 #EU\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
