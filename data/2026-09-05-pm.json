@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-05",
+  "slot": "pm",
+  "hookLine": "부산 예인선 침몰, 실종자 6명 수색 중입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·재난",
+      "kicker": "생사 미궁",
+      "title": "부산 예인선 침몰, 실종자 수색 나흘째",
+      "summary": "부산 오륙도 해상 예인선 침몰 사고 수색이 나흘째 이어지고 있습니다. 1명이 사망하고 6명이 실종된 가운데, 해경은 강풍특보로 수중 수색 대신 컨테이너선 바닥 탐색으로 방향을 전환했습니다.",
+      "sourceTitle": "부산 예인선 사고 나흘째…해경, 컨테이너선 바닥 살핀다",
+      "sourceDesc": "9월 2일 부산 오륙도 해상에서 예인선이 전복·침몰해 1명이 사망하고 6명이 실종됐다. 사고 나흘째인 5일 해경은 강풍특보로 수중 수색이 어렵자 컨테이너선 선체 바닥 탐색으로 전환해 수색을 이어가고 있다.",
+      "sourceLink": "https://news.google.com/search?q=부산+예인선+침몰+오륙도+실종+2026",
+      "imagePrompt": "Wide-angle aerial view of dark ocean at dusk with coast guard vessels as small silhouettes on the horizon, overcast sky, cold blue tones, photojournalistic documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "사건·안보",
+      "kicker": "북한 지령 간첩",
+      "title": "북한 공작원 지령 간첩 40대 징역 5년",
+      "summary": "북한 공작원 지령을 받고 탈북민과 현역 군인 정보를 수집한 40대가 징역 5년을 선고받았습니다. 가상화폐를 대가로 받은 혐의도 유죄로 인정됐습니다.",
+      "sourceTitle": "북한 공작원 지령받고 정보수집한 40대 징역 5년…가상화폐 6억6000만원 받아",
+      "sourceDesc": "서울중앙지법이 국가보안법상 간첩 혐의로 기소된 40대에게 징역 5년과 자격정지 5년을 선고했다. 피고인은 북한 공작원의 지령을 받고 탈북민과 현역 군인 정보를 수집했으며, 대가로 가상화폐 6억6000만원 상당을 받은 혐의가 인정됐다.",
+      "sourceLink": "https://news.google.com/search?q=북한+공작원+간첩+40대+징역+5년+2026",
+      "imagePrompt": "Abstract dark background with glowing digital network lines and nodes symbolizing covert communication, deep blue and green tones, photojournalistic documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "국제·안보",
+      "kicker": "중동 파병 기로",
+      "title": "정부, 호르무즈 해협 파병 본격 검토",
+      "summary": "한국 정부가 호르무즈 해협에 초계기와 군수지원함 등 군 전력 파병 방안을 검토하고 있습니다. 정부는 결정된 것은 없다고 밝혔으나, 미국의 역할 확대 요구가 배경인 것으로 알려졌습니다.",
+      "sourceTitle": "정부, 호르무즈 파병 검토…'트럼프 압박'에 기류 변했나",
+      "sourceDesc": "한국 정부가 호르무즈 해협에 초계기와 군수지원함 등을 파병하는 방안을 검토 중인 것으로 알려졌다. 정부는 결정된 것은 없다는 입장이지만, 미국의 지속적인 역할 확대 요구로 기류가 바뀐 것으로 전해졌다.",
+      "sourceLink": "https://news.google.com/search?q=한국+호르무즈+파병+검토+2026",
+      "imagePrompt": "Twilight ocean horizon with distant dark naval vessel silhouettes on calm water, golden light reflecting on waves, aerial perspective, documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "개헌 공방",
+      "title": "국민의힘, 이재명에 '연임 없다' 선언 촉구",
+      "summary": "국민의힘이 이재명 대통령의 개헌 진정성을 증명하려면 '연임 없다'는 선언을 공개적으로 해야 한다고 촉구했습니다. 대변인은 '재판 재개' 선언도 함께 요구했습니다.",
+      "sourceTitle": "개헌 진정성 증명하라…국민의힘, 李대통령 네 마디 요구",
+      "sourceDesc": "국민의힘은 이재명 대통령에게 '연임 없다'는 선언을 공개적으로 해야 개헌 논의에 진정성이 있다고 주장했다. 대변인은 '재판 재개' 네 마디도 선언할 것을 추가로 촉구했다.",
+      "sourceLink": "https://news.google.com/search?q=국민의힘+이재명+연임없다+개헌+2026",
+      "imagePrompt": "Empty modern parliamentary chamber interior with curved rows of seats under bright overhead lighting, formal wooden podium at center, documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "환경·사회",
+      "kicker": "불꽃과 생태 딜레마",
+      "title": "서울불꽃축제, 밤섬 생태계 훼손 논란",
+      "summary": "서울세계불꽃축제가 람사르습지로 지정된 밤섬의 생태계를 훼손한다는 지적이 제기됐습니다. 서울시의원은 드론쇼 전환 등 친환경 대책 마련을 서울시에 촉구했습니다.",
+      "sourceTitle": "낭만의 불꽃 뒤에 숨은 '밤섬의 비명'… 서울시는 더 이상 방관자여선 안 된다",
+      "sourceDesc": "5일 열리는 서울세계불꽃축제로 람사르습지인 밤섬의 생태계가 훼손되고 있다는 지적이 나왔다. 서울시의원은 드론쇼 전환 등 친환경 대책을 서울시가 마련해야 한다고 촉구했다.",
+      "sourceLink": "https://news.google.com/search?q=서울불꽃축제+밤섬+생태계+람사르+2026",
+      "imagePrompt": "Serene river wetland at dawn with tall reeds and water reflecting soft pink sky, birds visible as distant shapes in flight, nature documentary style, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-05 저녁 브리핑\n\n1. 부산 예인선 침몰, 실종자 수색 나흘째\n2. 북한 공작원 지령 간첩 40대 징역 5년\n3. 정부, 호르무즈 해협 파병 본격 검토\n4. 국민의힘, 이재명에 '연임 없다' 선언 촉구\n5. 서울불꽃축제, 밤섬 생태계 훼손 논란\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁뉴스 #오늘이슈\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
