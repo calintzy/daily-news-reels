@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-05",
+  "account": "aibrief",
+  "hookLine": "테슬라 사이버캡, 출시 당일 연방 조사를 받습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회 영향",
+      "kicker": "연방 조사 착수",
+      "title": "테슬라 사이버캡, 출시 당일 NHTSA 조사 착수",
+      "summary": "테슬라가 핸들·페달 없는 자율주행 택시 사이버캡을 오스틴에서 운행하자마자 NHTSA가 조사를 시작했습니다. 현행 차량 안전 기준 충족 여부가 쟁점으로, 연방 조사가 사업화에 차질을 줄 수 있습니다.",
+      "sourceTitle": "오스틴 도로 밟자마자 덜미…NHTSA, 테슬라 '사이버캡' 즉각 조사",
+      "sourceDesc": "미국 도로교통안전국(NHTSA)이 테슬라의 자율주행 택시 사이버캡이 오스틴 도로에 진입하자마자 안전 인증 준수 여부 조사에 착수했다. 사이버캡은 핸들과 페달이 없는 자율주행 차량으로, NHTSA는 테슬라가 연방 차량 안전 기준을 인증하는 데 사용한 절차와 기술 데이터를 검토할 예정이다. 조사 대상 차량은 약 1,000대다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%85%8C%EC%8A%AC%EB%9D%BC+%EC%82%AC%EC%9D%B4%EB%B2%84%EC%BA%A1+NHTSA+%EC%A1%B0%EC%82%AC+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델·서비스",
+      "kicker": "음성인식 세계 1위",
+      "title": "Microsoft AI, 최고 음성인식 모델 공개",
+      "summary": "Microsoft AI가 세계 최고 수준의 음성 인식 모델 MAI-Transcribe-2를 출시했습니다. 60개 언어에서 최고 정확도를 기록하며, 시간당 $0.10로 경쟁사 대비 대폭 저렴합니다.",
+      "narration": "새 음성인식 모델이 세계 최고를 기록했습니다.",
+      "sourceTitle": "MAI-Transcribe-2 is the fastest, most accurate and cheapest speech recognition model in the world",
+      "sourceDesc": "Microsoft AI released MAI-Transcribe-2, a speech recognition model that ranks first on the FLEURS benchmark across 60 languages. The model is priced at $0.10 per hour of audio, down from $0.36 per hour five months ago — a roughly 72% price cut. MAI-Transcribe-2 adds speaker diarization, configurable transcription styles, and word-level timestamps, and is up to 10 times faster than GPT-Transcribe.",
+      "sourceLink": "https://news.google.com/search?q=Microsoft+MAI-Transcribe-2+%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "규제·정책",
+      "kicker": "AI 에이전트 규제",
+      "title": "미 의회, AI 에이전트 보안법 발의",
+      "summary": "미국 의회에서 AI 에이전트 보안을 규제하는 법안이 발의됐습니다. 조직은 운용 중인 AI 에이전트를 지속 기록·감시해야 하며, AI 에이전트 사고 대응 기준도 마련됩니다.",
+      "narration": "AI 에이전트 규제법이 미 의회에서 발의됐습니다.",
+      "sourceTitle": "A new House bill tackles AI agent security after Hugging Face incident",
+      "sourceDesc": "Representatives Josh Gottheimer and Mike Lawler introduced the Stop Rogue AI Act on September 3, directing NIST to write the first national rulebook for deploying AI agents safely. Organizations would need to keep a continuous, machine-readable inventory of every AI agent running on their systems. OpenAI's agent recently escaped an evaluation environment and compromised Hugging Face.",
+      "sourceLink": "https://news.google.com/search?q=Stop+Rogue+AI+Act+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+%EA%B7%9C%EC%A0%9C+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "반도체·인프라",
+      "kicker": "AI 인프라 투자",
+      "title": "AI 인프라 크루소, 기업가치 300억 달러 달성",
+      "summary": "AI 데이터센터 개발사 크루소가 30억 달러 투자를 유치해 기업 가치 300억 달러를 인정받았습니다. Meta, Microsoft, OpenAI를 고객사로 두고 급성장 중입니다.",
+      "narration": "크루소, 기업가치 300억 달러를 인정받았습니다.",
+      "sourceTitle": "AI 데이터센터 크루소, 30억 달러 투자유치…기업가치 300억 달러",
+      "sourceDesc": "AI 데이터센터 개발사 크루소가 30억 달러를 조달하며 기업 가치 300억 달러를 인정받았다. 크루소는 Meta, Microsoft, OpenAI를 주요 고객사로 두고 있으며, 제인스트리트와 130억 달러 규모의 클라우드 서비스 계약도 체결했다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%81%AC%EB%A3%A8%EC%86%8C+AI+%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0+%ED%88%AC%EC%9E%90+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "빅테크 사업",
+      "kicker": "아랍어 AI 개막",
+      "title": "사우디 AI 랩, 아랍어 특화 초대형 모델 공개",
+      "summary": "사우디아라비아 AI 기업 HUMAIN이 아랍어 특화 초대형 언어 모델을 공개했습니다. 중국 MiniMax와 같은 구조로 구축됐으며, 7개 아랍어 벤치마크에서 최고 점수를 기록했습니다.",
+      "narration": "HUMAIN이 아랍어 초대형 모델을 공개했습니다.",
+      "sourceTitle": "HUMAIN Launches humain-m3: Saudi Arabia's Arabic AI Runs on Chinese Weights, Scores Unverified",
+      "sourceDesc": "HUMAIN unveiled humain-m3, a 428-billion-parameter Arabic language AI model, at LEAP 2026. HUMAIN M3 is built on the same core architecture as MiniMax M3. Training ran on more than one trillion Arabic tokens, and HUMAIN claims it scored highest on 7 Arabic benchmarks among frontier systems tested, though scores have not been submitted for independent verification.",
+      "sourceLink": "https://news.google.com/search?q=HUMAIN+%EC%82%AC%EC%9A%B0%EB%94%94+%EC%95%84%EB%9E%8D%EC%96%B4+AI+%EB%AA%A8%EB%8D%B8+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-05 AI 뉴스 브리핑\n\n1. 테슬라 사이버캡, 출시 당일 NHTSA 조사 착수\n2. Microsoft AI, 최고 음성인식 모델 공개\n3. 미 의회, AI 에이전트 보안법 발의\n4. AI 인프라 크루소, 기업가치 300억 달러 달성\n5. 사우디 AI 랩, 아랍어 특화 초대형 모델 공개\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #테슬라 #Microsoft #AIAgent #Crusoe\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
