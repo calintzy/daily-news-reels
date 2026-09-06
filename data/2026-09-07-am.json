@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-07",
+  "slot": "am",
+  "hookLine": "이란, 파병하면 전쟁 참여로 간주합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "전쟁 참여 경고",
+      "title": "이란, 한국 파병 시 '전쟁 참여'로 간주",
+      "summary": "이란이 한국의 호르무즈 해협 파병을 '전쟁 참여'로 간주하겠다고 공개 경고했습니다. 미국의 파병 압박을 받는 가운데 한국 정부가 대응 방안을 검토하고 있습니다.",
+      "sourceTitle": "韓, 호르무즈 파병시 전쟁 참여로 간주…이란, 공개 경고",
+      "sourceDesc": "이란 안보·정치 부문 고위 당국자가 한국의 호르무즈 해협 파병을 전쟁 참여로 간주하겠다고 경고했다. 미국이 한국에 호르무즈 파병을 압박하는 가운데 이란 관리는 이를 군사 침략으로 보겠다며 협력하지 말라고 촉구했다.",
+      "sourceLink": "https://news.google.com/search?q=한국+호르무즈+파병+이란+경고",
+      "imagePrompt": "Aerial view of a narrow sea strait at dusk, oil tanker silhouettes on the horizon, dramatic storm clouds gathering overhead, orange light reflecting on dark choppy water, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "AI·과학",
+      "kicker": "AGI 시대 선언",
+      "title": "오픈AI, GPT-6 출시…AGI 시대 선언",
+      "summary": "오픈AI가 GPT-6 아스트라를 출시하며 AGI 시대의 시작을 공식 선언했습니다. 법률·코딩·이미지 생성까지 통합 처리하는 AI 모델이라고 밝혔습니다.",
+      "sourceTitle": "오픈AI, GPT-6 아스트라 공개…\"AGI 시대 시작\" 선언",
+      "sourceDesc": "오픈AI가 차세대 AI 모델 GPT-6 아스트라를 출시하며 AGI 시대의 시작을 공식 선언했다. 코딩·법률 계약서 작성·이미지 생성까지 처리하는 멀티모달 능력을 갖춘 모델로, 오픈AI는 이를 세대적 도약이라 평가했다.",
+      "sourceLink": "https://news.google.com/search?q=오픈AI+GPT-6+아스트라+AGI+출시",
+      "imagePrompt": "Glowing holographic neural network patterns floating above a dark server room floor, blue energy pulses traveling through fiber-optic cables on the ground, abstract data streams in the air, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "전세 패닉",
+      "title": "9월 아파트 입주물량, 6년5개월 만에 최저",
+      "summary": "9월 전국 아파트 입주물량이 6년 5개월 만에 최저를 기록했습니다. 전세 매물 부족이 심화하면서 임대차 시장 불안이 커지고 있습니다.",
+      "sourceTitle": "\"가뜩이나 전세 없는데\" 9월 아파트 입주물량, 6년 5개월 만에 최저 [부동산360]",
+      "sourceDesc": "9월 전국 아파트 입주 예정 물량이 6년 5개월 만에 가장 적은 수준을 기록했다. 전세 매물 부족이 심화하면서 임대차 시장 불안이 커지는 가운데 서울과 수도권 물량도 급감했다.",
+      "sourceLink": "https://news.google.com/search?q=9월+아파트+입주물량+최저+전세",
+      "imagePrompt": "Rows of unlit apartment tower blocks at night in a dense urban skyline, sparse lights in windows, empty construction site in the foreground with cranes silhouetted against a pale overcast sky, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "한불 정상회담",
+      "title": "이재명 대통령, 프랑스 국빈방문·한불 정상회담",
+      "summary": "이재명 대통령이 마크롱 프랑스 대통령의 초청으로 프랑스를 국빈 방문했습니다. AI·원자력 등 첨단 기술 분야 협력이 주요 의제로 논의됩니다.",
+      "sourceTitle": "李대통령, 6~9일 프랑스 순방…마크롱과 'AI·원자력' 협력",
+      "sourceDesc": "이재명 대통령이 마크롱 프랑스 대통령 초청으로 6~9일 프랑스를 국빈 방문한다. AI·원자력 분야 협력이 주요 의제며, 한불 수교 140주년을 맞아 양국 관계를 심화하는 계기가 될 전망이다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+프랑스+순방+마크롱+정상회담",
+      "imagePrompt": "French and South Korean national flags side by side on tall flagpoles against a clear blue European sky, ornate classical palace architecture in the background, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "이주노동자 권리",
+      "title": "이주노동자 성희롱 정신질환, 처음 '산재' 인정",
+      "summary": "조선업 하청에서 일하는 이주노동자가 직장 내 성희롱으로 인한 정신질환을 산재로 인정받았습니다. 고용허가제로 들어온 이주노동자가 성희롱 피해를 업무상 재해로 인정받은 사례로 주목됩니다.",
+      "sourceTitle": "[단독]조선업 하청 이주노동자, 직장 내 성희롱으로 인한 정신질환 '산재' 인정…\"고용허가제 속 유의미한 사례\"",
+      "sourceDesc": "경남업무상질병판정위원회가 조선업 하청에서 일하는 이주노동자의 직장 내 성희롱으로 인한 정신질환을 산재로 인정했다. 고용허가제로 들어온 이주노동자가 성희롱 피해를 업무상 질병으로 인정받은 사례다.",
+      "sourceLink": "https://news.google.com/search?q=이주노동자+성희롱+정신질환+산재+인정",
+      "imagePrompt": "Industrial shipyard dock at dawn, massive ship hull under construction, bright welding sparks glowing against the dark hull, safety helmets arranged on a metal rack in the foreground, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-07 아침 브리핑\n\n1. 이란, 한국 파병 시 '전쟁 참여'로 간주\n2. 오픈AI, GPT-6 출시…AGI 시대 선언\n3. 9월 아파트 입주물량, 6년5개월 만에 최저\n4. 이재명 대통령, 프랑스 국빈방문·한불 정상회담\n5. 이주노동자 성희롱 정신질환, 처음 '산재' 인정\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
