@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-08",
+  "slot": "am",
+  "hookLine": "오늘 마크롱과 정상회담, 미래산업 협력 논의합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "한불 정상회담",
+      "title": "이재명-마크롱, 오늘 파리 정상회담",
+      "summary": "이재명 대통령이 오늘 파리에서 마크롱 대통령과 정상회담을 갖습니다. 미래산업 협력 확대와 양국 관계 강화 방안을 논의합니다.",
+      "sourceTitle": "李대통령, 파리 도착…마크롱과 정상회담·미래산업 협력 논의",
+      "sourceDesc": "이재명 대통령이 파리에 도착해 마크롱 프랑스 대통령과 정상회담을 갖는다. 엘리제궁에서 단독 오찬 및 확대 정상회담을 진행하며 미래산업 협력 방안을 논의한다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+마크롱+파리+정상회담+2026+9월",
+      "imagePrompt": "French presidential Elysee Palace courtyard at golden hour, classical French architecture with ornate stone facades, diplomatic flags mounted on the building exterior, empty ceremonial entrance steps, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "초대 중수청장",
+      "title": "초대 중수청장에 김지용 지명",
+      "summary": "이재명 대통령이 초대 중수청장으로 김지용 변호사를 지명했습니다. 대통령실은 중수청의 빠른 안착에 적임자라며 지명 배경을 밝혔습니다.",
+      "sourceTitle": "李대통령, 초대 중수청장에 김지용 지명...靑 '중수청 빠른 안착 적임자'",
+      "sourceDesc": "이재명 대통령이 초대 중수청장에 김지용 변호사를 지명했다. 대통령실은 중수청의 빠른 안착에 적임자라며 지명 배경을 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=초대+중수청장+김지용+지명+2026",
+      "imagePrompt": "Empty modern government office corridor with polished marble floors, official institutional signage frames on the wall, formal overhead lighting casting sharp shadows, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "이란 경고문",
+      "title": "이란, 한국어로 직접 경고…심각한 결과 위협",
+      "summary": "이란 외무부 대변인이 한국어로 경고문을 SNS에 직접 게시했습니다. 미국의 대이란 공격에 공모하면 심각한 결과를 초래한다는 내용입니다.",
+      "sourceTitle": "한글로 한국에 '경고'한 이란…'美 대이란 공격 공모하면 심각한 결과'",
+      "sourceDesc": "이란 외무부 대변인이 SNS에 한국어로 경고문을 직접 게시했다. 미국의 대이란 공격에 한국이 공모하면 심각한 결과를 초래할 것이라고 위협했다.",
+      "sourceLink": "https://news.google.com/search?q=이란+한국어+경고+SNS+대이란+공격+2026",
+      "imagePrompt": "Aerial view of a major seaport at dusk with cargo ships moored along industrial docks, long crane shadows stretching across the water, orange light reflecting on dark harbour surface, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "국방",
+      "kicker": "서울안보대화",
+      "title": "서울안보대화 2일차…방위산업 공급망 논의",
+      "summary": "서울에서 열린 서울안보대화가 오늘 본회의 세션을 진행합니다. 동맹·파트너십의 진화와 방위산업 글로벌 공급망 회복력 등을 논의합니다.",
+      "sourceTitle": "국방부, 7일 '2026 서울안보대화' 개최…'67개국 안보 수뇌부 서울 집결'",
+      "sourceDesc": "국방부가 7일부터 9일까지 더그랜드롯데 서울에서 2026 서울안보대화(SDD)를 개최한다. 올해 15회째를 맞은 이번 행사에는 67개국 및 국제기구에서 1,000여 명이 참가하며, 체코·파푸아뉴기니·필리핀·우간다 4개국 국방장관이 참석한다.",
+      "sourceLink": "https://news.google.com/search?q=2026+서울안보대화+SDD+2일차+방위산업",
+      "imagePrompt": "Grand international conference hall with curved rows of empty delegation chairs, multiple colorful national flags displayed along the wall, dramatic spotlight on a podium, polished wood surfaces, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "GDP 잠정치",
+      "title": "오늘 한국은행, 2분기 GDP 잠정치 발표",
+      "summary": "오늘 한국은행이 올해 2분기 GDP 성장률 잠정치를 발표합니다. 속보치의 성장 흐름이 유지될지 주목됩니다.",
+      "sourceTitle": "[영상] 이번주 2분기 GDP 잠정치 공개…'0.6% 성장' 유지할까",
+      "sourceDesc": "한국은행이 이번 주 2분기 GDP 잠정치를 공개한다. 지난 7월 발표된 속보치 기준 0.6% 성장 수준이 유지될지 관심이 집중된다.",
+      "sourceLink": "https://news.google.com/search?q=한국은행+2분기+GDP+잠정치+2026+9월",
+      "imagePrompt": "Korean central bank building exterior facade with rows of windows reflecting morning sky, wide stone steps leading to the entrance, financial district skyline visible in the background, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-08 아침 브리핑\n\n1. 이재명-마크롱, 오늘 파리 정상회담\n2. 초대 중수청장에 김지용 지명\n3. 이란, 한국어로 직접 경고…심각한 결과 위협\n4. 서울안보대화 2일차…방위산업 공급망 논의\n5. 오늘 한국은행, 2분기 GDP 잠정치 발표\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #정상회담 #마크롱 #한국은행\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "googleNews": "fail", "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
