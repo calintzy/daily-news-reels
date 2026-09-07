@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-07",
+  "slot": "pm",
+  "hookLine": "추석 승차권 예매, 코레일+ 가입 필수입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "추석 기차표",
+      "title": "오늘부터 추석 승차권 일반 예매 시작",
+      "summary": "추석 명절 일반 승차권 예매가 오늘부터 노선별로 시작됐습니다. 모바일 앱 코레일+를 통해서만 예매 가능하니 서둘러 가입해두세요.",
+      "sourceTitle": "오늘부터 추석 명절 승차권 예매 시작‥'코레일+ 가입해야 예매 가능'",
+      "sourceDesc": "추석 명절 일반 승차권 예매가 오늘(7일)부터 시작됐다. 노선별로 세분화돼 오전 7시부터 오후 1시까지 진행되며, 모바일 앱 코레일+와 홈페이지 명절 예매 전용 웹페이지를 통해 비대면으로 이뤄진다. 예매 대상은 9월 23일부터 27일까지 운행하는 열차다.",
+      "sourceLink": "https://news.google.com/search?q=추석+승차권+예매+코레일+2026+9월",
+      "imagePrompt": "Empty modern KTX train platform inside a Korean railway station, dramatic natural light through high windows, departure board glowing above empty benches, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "서울안보대화",
+      "title": "2026 서울안보대화 개막…67개국 안보 수뇌부 집결",
+      "summary": "국방부가 오늘부터 사흘간 서울에서 2026 서울안보대화를 개최합니다. 67개국 및 국제기구의 안보 수뇌부가 참가해 한반도 평화와 새로운 안보 협력을 논의합니다.",
+      "sourceTitle": "국방부, 7일 '2026 서울안보대화' 개최…'67개국 안보 수뇌부 서울 집결'",
+      "sourceDesc": "국방부가 7일부터 9일까지 더그랜드롯데 서울에서 2026 서울안보대화(SDD)를 개최한다. 올해 15회째를 맞은 이번 행사에는 67개국 및 국제기구에서 1,000여 명이 참가하며, 체코·파푸아뉴기니·필리핀·우간다 4개국 국방장관이 참석한다.",
+      "sourceLink": "https://news.google.com/search?q=2026+서울안보대화+SDD+개막+9월",
+      "imagePrompt": "Grand international conference hall with curved rows of empty delegation chairs, multiple colorful national flags displayed along the wall, dramatic spotlight on a podium, polished wood surfaces, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "장관 후보 해명",
+      "title": "김승원 후보, 식약처 청탁 의혹 직접 해명",
+      "summary": "김승원 법무부 장관 후보자가 식약처 임상시험 승인 청탁 의혹에 대해 부정 청탁이 없었다고 직접 해명했습니다. 한동훈 의원이 공개한 녹취를 앞뒤를 자른 정치공세라고 반박했습니다.",
+      "sourceTitle": "[속보]김승원 '식약처 로비 의혹'에 '부정 청탁 없었다' 직접 해명",
+      "sourceDesc": "김승원 법무부 장관 후보자가 7일 식약처 임상시험 승인 청탁 의혹에 대해 부정청탁을 한 적이 없다며 직접 해명했다. 한동훈 무소속 의원이 공개한 녹취에 대해서는 앞뒤를 자른 정치공세라고 반박했다.",
+      "sourceLink": "https://news.google.com/search?q=김승원+법무장관+후보+식약처+청탁+해명+2026",
+      "imagePrompt": "Empty formal legislative hearing chamber, rows of wooden seats facing a single microphone podium, soft institutional lighting, official government building interior, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "AI 국가기관 개편",
+      "title": "NIA, AI정부기반본부 격상…에이전틱AI 전담팀 신설",
+      "summary": "국가 AI 정책 실행기관 NIA가 7일 조직개편을 단행해 AI정부기반본부를 격상했습니다. 에이전틱AI 전담팀을 신설하는 등 AI 3대 강국 도약을 뒷받침하는 체계를 갖췄습니다.",
+      "sourceTitle": "NIA, AI정부 기반본부 격상…에이전틱AI 전담팀 신설",
+      "sourceDesc": "한국지능정보사회진흥원(NIA)이 7일 AI 3대 강국 도약을 위한 조직개편을 단행했다. AI정부기반본부를 격상하고 에이전틱AI 전담팀을 신설하는 등 국가 AI 정책의 현장 실행력을 높이는 데 집중했다.",
+      "sourceLink": "https://news.google.com/search?q=NIA+AI정부기반본부+에이전틱AI+조직개편+2026+9월",
+      "imagePrompt": "Rows of glowing blue server racks in a dark data center, abstract neural network light patterns on the ceiling, fiber optic cable conduits running along the floor, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "물가 3%대",
+      "title": "8월 소비자물가 3.1% 상승…근원물가도 동반↑",
+      "summary": "지난달 소비자물가지수가 전년 대비 3.1% 상승했습니다. 통신요금 기저효과와 서비스 물가 오름세가 겹치며, 한국은행은 9월 이후 둔화를 전망했습니다.",
+      "sourceTitle": "[종합] 8월 소비자물가 3.1%↑…통신료 기저효과에 근원물가도 껑충",
+      "sourceDesc": "국가데이터처가 발표한 8월 소비자물가지수는 전년 동월 대비 3.1% 상승했다. 통신요금 기저효과로 근원물가도 크게 올라, 한국은행은 9월에는 상승률이 낮아지겠지만 근원물가 기조적 상승세는 이어질 것으로 전망했다.",
+      "sourceLink": "https://news.google.com/search?q=8월+소비자물가+3.1+상승+2026+한국은행",
+      "imagePrompt": "Close-up of Korean supermarket shelves stacked with everyday grocery items, bright overhead fluorescent lighting illuminating packaged food products and fresh produce, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-07 저녁 브리핑\n\n1. 오늘부터 추석 승차권 일반 예매 시작\n2. 2026 서울안보대화 개막…67개국 안보 수뇌부 집결\n3. 김승원 후보, 식약처 청탁 의혹 직접 해명\n4. NIA, AI정부기반본부 격상…에이전틱AI 전담팀 신설\n5. 8월 소비자물가 3.1% 상승…근원물가도 동반↑\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #추석 #서울안보대화 #물가\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
