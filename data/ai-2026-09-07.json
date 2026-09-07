@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-07",
+  "account": "aibrief",
+  "hookLine": "엔비디아가 허깅페이스를 통째로 인수했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "빅테크 사업",
+      "kicker": "초대형 인수",
+      "title": "엔비디아, 허깅페이스 인수 합의",
+      "summary": "엔비디아가 AI 개발 플랫폼 허깅페이스를 인수하기로 합의했습니다. 전 세계 수천만 명의 개발자와 기업이 이용하는 허깅페이스는 AI 모델과 데이터셋 공유의 핵심 플랫폼입니다.",
+      "sourceTitle": "Nvidia Acquires AI Platform Hugging Face for About $13 Billion",
+      "sourceDesc": "Nvidia agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about $13 billion, adding a popular software platform to the chip giant's AI empire. More than 18 million developers, researchers and creators use Hugging Face to share more than 3 million models, 500,000 datasets and 1 million applications, with more than 200,000 companies using the platform to discover, evaluate, customize and deploy AI.",
+      "sourceLink": "https://news.google.com/search?q=Nvidia+Hugging+Face+%EC%9D%B8%EC%88%98+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 연구",
+      "kicker": "연구 에이전트",
+      "title": "OpenAI 연구원도 AI 에이전트에 맡긴다",
+      "summary": "OpenAI가 AI 에이전트 활용으로 연구 속도를 획기적으로 높이고 있다고 밝혔습니다. 에이전트가 인간 연구원 1명당 3.1배의 작업량을 처리하며, 올해 자동화 연구 인턴 목표도 달성했습니다.",
+      "narration": "OpenAI 에이전트가 이제 연구까지 합니다.",
+      "sourceTitle": "OpenAI Says Coding Agents Now Do 3.1 Workdays for Every Human Workday",
+      "sourceDesc": "OpenAI announced on September 6, 2026 that it has reached its goal of fielding an 'automated research intern' by September of this year, and that its research organization now uses 3.1 agent-workdays of effort for every workday of human labor. By mid-August, the median researcher was integrating agents daily into their work, using more than $600 per day of inference at API prices, while the 90th percentile user in the research organization uses more than $7,000 of tokens per day.",
+      "sourceLink": "https://news.google.com/search?q=OpenAI+%EC%BD%94%EB%94%A9+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+%EC%97%B0%EA%B5%AC+3.1+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 모델·서비스",
+      "kicker": "최강 AI 모델",
+      "title": "오픈AI, GPT-6 아스트라 공개",
+      "summary": "오픈AI가 차세대 대표 모델 GPT-6 아스트라를 공식 출시했습니다. 사이버 보안·소프트웨어 엔지니어링 등 실무 전반에서 AGI 시대 진입을 선언하는 성과입니다.",
+      "narration": "오픈AI가 GPT-6 아스트라를 출시했습니다.",
+      "sourceTitle": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언",
+      "sourceDesc": "오픈AI가 2026년 9월 3일(현지시간) 차세대 대표 모델 GPT-6 아스트라(GPT-6 Astra)를 공식 출시했습니다. 그렉 브록먼 오픈AI 사장은 출시와 함께 'AGI 시대에 오신 것을 환영합니다(Welcome to the AGI era)'며 AGI 시대 진입을 선언했습니다. GPT-6 아스트라는 텍사스 스타게이트에서 10만개 GPU를 이용해 학습됐으며, 사이버 보안·소프트웨어 엔지니어링 등 실무 전반에서 세대적 도약을 이뤘다는 평가입니다.",
+      "sourceLink": "https://news.google.com/search?q=GPT-6+%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BC+%EC%B6%9C%EC%8B%9C+AGI+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "AI 모델·서비스",
+      "kicker": "파격 가격",
+      "title": "마이크로소프트, 음성 인식 AI 최저가 모델 공개",
+      "summary": "마이크로소프트가 음성 인식 AI 모델 MAI-Transcribe-2를 공개했습니다. OpenAI보다 72% 저렴한 가격으로, 속도와 정확도에서도 경쟁사를 앞섰습니다.",
+      "narration": "마이크로소프트의 AI 음성 모델이 최저가입니다.",
+      "sourceTitle": "Microsoft's 10-person team built a speech model that undercuts OpenAI, Google and ElevenLabs on every benchmark — at $0.10 an hour",
+      "sourceDesc": "Microsoft AI released MAI-Transcribe-2, a speech-recognition model the company says is faster, more accurate, and cheaper than anything OpenAI, Google, or ElevenLabs currently sells. Microsoft AI shipped it on September 3 at $0.10 per audio hour — limited through the end of 2026. When Microsoft AI shipped the first model in this line just five months ago, it charged $0.36 an hour. The early-bird price cuts that by roughly 72%.",
+      "sourceLink": "https://news.google.com/search?q=Microsoft+MAI-Transcribe-2+%EC%9D%8C%EC%84%B1+%EC%9D%B8%EC%8B%9D+%EC%A0%80%EB%A0%B4+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "직장 AI 규제",
+      "title": "캘리포니아, AI 해고 금지 법안 의회 통과",
+      "summary": "캘리포니아 의회가 AI 알고리즘만으로 직원을 해고하거나 징계하는 행위를 금지하는 법안을 통과시켰습니다. 뉴섬 주지사가 서명하면 미국 최초의 AI 직장 보호법이 됩니다.",
+      "narration": "AI만으로 해고가 불가능해지는 법이 생겼습니다.",
+      "sourceTitle": "California's Workplace AI Decision-Making Bill Heads to Governor",
+      "sourceDesc": "California legislators passed SB 947, the No Robo Bosses Act of 2026, which would ban businesses from relying solely on AI-based automated decision-making systems to fire or discipline employees without human review. Governor Newsom has until September 30 to sign or veto the bill. If enacted, SB 947 would be the first such AI workplace protection law in the nation.",
+      "sourceLink": "https://news.google.com/search?q=%EC%BA%98%EB%A6%AC%ED%8F%AC%EB%8B%88%EC%95%84+AI+%ED%95%B4%EA%B3%A0+%EA%B8%88%EC%A7%80+%EB%B2%95%EC%95%88+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-07 AI 뉴스 브리핑\n\n1. 엔비디아, 허깅페이스 인수 합의\n2. OpenAI 연구원도 AI 에이전트에 맡긴다\n3. 오픈AI, GPT-6 아스트라 공개\n4. 마이크로소프트, 음성 인식 AI 최저가 모델 공개\n5. 캘리포니아, AI 해고 금지 법안 의회 통과\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #엔비디아 #허깅페이스 #GPT6 #마이크로소프트 #캘리포니아\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
