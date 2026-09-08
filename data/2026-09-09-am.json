@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-09",
+  "slot": "am",
+  "hookLine": "국방부, 호르무즈 파병 현지 조사 나섰습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "파병 후속 전개",
+      "title": "국방부, UAE 현지조사단 파견…파병 검토",
+      "summary": "국방부가 호르무즈 현지 상황 파악을 위해 UAE에 현지 조사단을 파견했습니다. 후속 전개로, 이번 조사는 실제 파병을 전제로 한 것은 아니라고 국방부는 밝혔습니다.",
+      "sourceTitle": "[속보] 국방부, UAE에 현지 조사단 파견…'파병 전제 아니다'",
+      "sourceDesc": "국방부가 호르무즈 현지 상황 파악을 위해 아랍에미리트(UAE)에 현지 조사단을 파견했다. 미국의 거듭된 파병 요구로 호르무즈 해협 파병 가능성이 거론되는 가운데, 국방부는 이번 조사가 실제 파병을 전제로 한 것은 아니라고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=국방부+UAE+현지조사단+파견+호르무즈+파병",
+      "imagePrompt": "Aerial view of a narrow sea strait at dusk, oil tankers silhouetted on dark choppy water, faint silhouette of a military vessel on the horizon, muted orange and grey tones, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "47년 만 최대",
+      "title": "2분기 명목 GDP 26.4% 급증…47년 만 최대",
+      "summary": "한국은행이 2분기 국민소득 잠정치를 발표했습니다. 명목 GDP가 26.4% 급증해 47년 만 최대 증가폭을 기록했고, 실질 국민총소득(GNI)도 3.1% 증가했습니다.",
+      "sourceTitle": "2분기 명목 GDP 26.4% 급증…47년 만 최대 증가폭",
+      "sourceDesc": "한국은행이 8일 발표한 2026년 2분기 국민소득 잠정치에서 명목 GDP가 26.4% 급증해 47년 만의 최대 증가폭을 기록했다. 실질 GDP는 전기비 0.6% 성장하고, 실질 국민총소득(GNI)은 3.1% 증가했다.",
+      "sourceLink": "https://news.google.com/search?q=2분기+명목+GDP+26.4+급증+47년+최대",
+      "imagePrompt": "Stacks of South Korean currency bills arranged in ascending steps on a dark surface, bold upward economic growth chart rendered in neon light against dark background, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "디지털 책임 강화",
+      "title": "개인정보 유출 기업, 매출 10% 과징금 9월 시행",
+      "summary": "개정 개인정보보호법이 9월 11일부터 시행돼 유출 기업에 매출 최대 10%까지 과징금이 부과됩니다. 반복 침해 또는 1000만명 이상 피해 시 적용되는 징벌적 과징금입니다.",
+      "sourceTitle": "[알고 계신가요?] 개인정보 유출 시 '매출액 최대 10%' 과징금... 9월 11일부터 시행",
+      "sourceDesc": "개정 개인정보보호법이 9월 11일부터 시행된다. 중대한 개인정보 유출 사고를 낸 기업에 매출액의 최대 10%까지 과징금을 부과하며, 고의·중과실 또는 반복 사고나 1000만명 이상 유출 때 적용된다.",
+      "sourceLink": "https://news.google.com/search?q=개인정보보호법+매출+10%+과징금+9월+시행",
+      "imagePrompt": "Dark server room with red warning indicator lights glowing above rows of server racks, digital padlock icon projected faintly on concrete wall, close-up of circuit board in foreground, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "한불 전략 협력",
+      "title": "한-프 정상회담…교역 200억달러·AI 협력 합의",
+      "summary": "이재명 대통령이 마크롱과 정상회담을 열고 2030년까지 교역액 200억달러 달성 목표에 합의했습니다. 후속 결과로 AI·원자력 등 첨단산업 협력도 전방위 확대키로 했습니다.",
+      "sourceTitle": "李대통령·마크롱, 한불 협력 전방위 확대…2030년 교역 200억달러 목표",
+      "sourceDesc": "이재명 대통령이 마크롱 프랑스 대통령과 파리 엘리제궁에서 정상회담을 갖고 2030년까지 교역액 200억달러 달성을 목표로 한불 협력을 전방위 확대하기로 합의했다. AI·우주·원자력 등 첨단산업 협력도 심화하기로 했으며, 삼성전자와 미스트랄AI 간 투자협약도 체결됐다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+마크롱+한불+정상회담+200억달러+AI+원자력",
+      "imagePrompt": "French and South Korean national flags on tall flagpoles against a clear blue European sky, ornate classical stone palace architecture in the background, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "양자기술 개막",
+      "title": "양자기술 국제박람회 오늘 코엑스 개막",
+      "summary": "9월 9일 서울 코엑스에서 국제 양자기술 박람회 Quantum Expo Korea 2026이 개막했습니다. 부대행사로 글로벌 양자 서밋과 퀀티넘 기조연설·IR·글로벌 포럼이 열립니다.",
+      "sourceTitle": "Quantum Expo Korea 2026, 부대행사 프로그램 공개…퀀티넘 기조연설·IR·글로벌 포럼",
+      "sourceDesc": "9월 9일부터 11일까지 서울 코엑스에서 Quantum Expo Korea 2026이 개막했다. 부대행사로 2026 글로벌 양자 서밋이 열리며, 퀀티넘의 기조연설과 IR, 글로벌 포럼 등이 진행된다.",
+      "sourceLink": "https://news.google.com/search?q=Quantum+Expo+Korea+2026+코엑스+양자기술",
+      "imagePrompt": "Futuristic quantum computer vacuum chamber glowing blue inside a dark exhibition hall, suspended metallic sphere-shaped qubit structure visible through curved transparent panels, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-09 아침 브리핑\n\n1. 국방부, UAE 현지조사단 파견…파병 검토\n2. 2분기 명목 GDP 26.4% 급증…47년 만 최대\n3. 개인정보 유출 기업, 매출 10% 과징금 9월 시행\n4. 한-프 정상회담…교역 200억달러·AI 협력 합의\n5. 양자기술 국제박람회 오늘 코엑스 개막\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
