@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-08",
+  "slot": "pm",
+  "hookLine": "60대 여성을 냉동창고에서 살해한 업주, 구속됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "파주 카페 살인",
+      "title": "파주 카페서 60대 여성 냉동창고 살해",
+      "summary": "파주 카페 업주 30대 남성이 60대 여성을 냉동창고에 유인해 살해한 혐의로 구속됐습니다. 창고에서는 수백억원대 위조 상품권도 발견돼 경찰이 연관성을 수사 중입니다.",
+      "sourceTitle": "카페로 60대 여성 유인해 냉동창고 감금·살해…30대 남성 구속(종합)",
+      "sourceDesc": "경기 파주경찰서는 살인 혐의로 30대 카페 업주를 구속했다. 피의자는 60대 여성을 냉동창고로 유인해 감금·살해한 혐의를 받으며, 냉동창고에서 수백억원대 위조 상품권도 발견됐다.",
+      "sourceLink": "https://news.google.com/search?q=파주+카페+냉동창고+60대+여성+살해+구속+2026",
+      "imagePrompt": "Frost-covered industrial freezer container exterior door with ice crystals on metal handles, caution tape stretched across the entrance at a rural cafe storage area, cold fluorescent industrial lighting casting harsh shadows, no people, no text, vertical 9:16 composition, photojournalistic documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "야차룰 강요 사망",
+      "title": "야차룰 강요받은 20대 여성 숨져",
+      "summary": "싸우기 싫다는 20대 여성을 협박해 야차룰 방식으로 10대 2명과 싸우게 강요한 남녀 2명이 구속됐습니다. 피해자는 폭행 후 숨졌으며, 10대 2명은 폭행치사 혐의로 입건됐습니다.",
+      "sourceTitle": "'야차룰' 싸움 붙여 20대 여성 숨지게 한 남녀 구속···폭행치사 10대 2명도 입건",
+      "sourceDesc": "싸우기 싫다는 20대 여성을 협박해 야차룰 방식으로 10대 2명과 싸우게 강요한 혐의로 남녀 2명이 구속됐다. 피해자는 일방적으로 폭행당한 뒤 숨졌으며, 10대 2명은 폭행치사 혐의로 불구속 입건됐다.",
+      "sourceLink": "https://news.google.com/search?q=야차룰+강요+20대+여성+사망+구속+2026",
+      "imagePrompt": "Empty urban park at night with dim street lights casting long shadows on a deserted concrete path, abandoned bench surrounded by fallen leaves, atmospheric mist settling between dark tree silhouettes, no people, no text, vertical 9:16 composition, photojournalistic documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "IT·사회",
+      "kicker": "위버스 정보 유출",
+      "title": "위버스 개인정보 42만건 유출",
+      "summary": "하이브 팬 플랫폼 위버스에서 개인정보 42만2584건이 유출됐습니다. 회사는 유출된 내부식별정보만으로는 부정 결제가 어렵다고 밝혔습니다.",
+      "sourceTitle": "하이브 위버스, 개인정보 42만건 유출… \"내부식별정보 등 노출\"",
+      "sourceDesc": "위버스컴퍼니는 보안 취약점으로 계정 ID 기준 42만2584건의 개인정보가 유출됐다고 밝혔다. 유출 항목은 내부식별정보 등이며, 이 정보만으로는 결제 위조 등 부정 이체가 어렵다고 설명했다.",
+      "sourceLink": "https://news.google.com/search?q=하이브+위버스+개인정보+42만건+유출+2026+9월",
+      "imagePrompt": "Abstract digital security breach visualization with glowing red warning indicators on a dark server room background, rows of server racks with red status lights, padlock icon with fracture line on blue digital grid overlay, no people, no text, vertical 9:16 composition, photojournalistic documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "네팔 실종자 수색",
+      "title": "한국 구호대, 네팔 실종지 첫 도보수색",
+      "summary": "한국 해외긴급구호대 6명이 사고 14일만에 파워하우스 등 산악지역 도보수색에 처음 투입됐습니다. 네팔군과 공동으로 실종자 가족이 요청한 지역을 수색하며 드론도 활용합니다.",
+      "sourceTitle": "韓근로자 실종 파워하우스에 첫 '도보수색'...사고 14일만에 우리 구호대 6명 투입",
+      "sourceDesc": "해외긴급구호대 6명이 사고 14일만에 처음으로 파워하우스 등 산악지역 도보수색에 투입됐다. 네팔군과 공동으로 실종자 가족이 구조를 희망한 지역을 수색하며 드론도 병행 활용할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=한국+구호대+네팔+파워하우스+도보수색+실종자+2026",
+      "imagePrompt": "Rugged Himalayan mountain valley shrouded in morning mist, aerial view of dense forest terrain with rocky grey riverbed below, search drone silhouette visible against misty grey-blue sky above steep ridgeline, no people, no text, vertical 9:16 composition, photojournalistic documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "문화",
+      "kicker": "한불 영화 협력",
+      "title": "한불 뤼미에르 파트너십 10억유로 투자",
+      "summary": "이재명-마크롱 정상회담 후속으로 '뤼미에르 파트너십'이 공식 선포됐습니다. 양국은 5년간 각각 5억유로씩 총 10억유로를 영화·영상산업에 투자해 글로벌 콘텐츠 진출을 확대합니다.",
+      "sourceTitle": "韓·佛, 영화·영상에 5년간 10억 유로 투자…李 \"글로벌 진출 위한 디딤돌\"",
+      "sourceDesc": "이재명 대통령과 마크롱 대통령이 '뤼미에르 파트너십'을 선포했다. 양국은 5년간 각각 5억유로씩 총 10억유로를 영화·영상산업에 투자해 글로벌 콘텐츠 진출을 확대한다.",
+      "sourceLink": "https://news.google.com/search?q=뤼미에르+파트너십+한불+영화+영상산업+10억유로+2026",
+      "imagePrompt": "Elegant Art Deco style cinema facade illuminated at dusk with warm decorative lights along ornate stone columns, vintage film reel motif in architectural frieze above grand theater entrance steps bathed in golden light, no people, no text, vertical 9:16 composition, photojournalistic documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-08 저녁 브리핑\n\n1. 파주 카페서 60대 여성 냉동창고 살해\n2. 야차룰 강요받은 20대 여성 숨져\n3. 위버스 개인정보 42만건 유출\n4. 한국 구호대, 네팔 실종지 첫 도보수색\n5. 한불 뤼미에르 파트너십 10억유로 투자\n\n저녁에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #파주카페 #야차룰 #위버스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail", "googleNews": "fail" },
+    "signalHits": []
+  }
+}
