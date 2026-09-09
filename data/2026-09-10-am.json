@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-10",
+  "slot": "am",
+  "hookLine": "부산 침몰 예인선 실종자, 포항서 발견됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "해양 재난",
+      "title": "침몰 예인선 실종자, 포항서 발견",
+      "summary": "부산 앞바다에서 전복된 티엔에스캐처호의 실종 선원이 사고 7일 만에 포항 해변에서 숨진 채 발견됐습니다. 현재 실종자는 5명이며 수색이 계속되고 있습니다.",
+      "sourceTitle": "부산 침몰 예인선 실종자 50대 선원, 포항 해변서 시신으로 발견",
+      "sourceDesc": "9일 해경에 따르면 경북 포항시 도구해수욕장에서 티엔에스캐처호 실종 선원이 사고 7일 만에 숨진 채 발견됐습니다. 티엔에스캐처호는 지난 2일 부산 오륙도 인근 해상에서 컨테이너선 예인 작업 중 전복됐으며, 당시 승선원 8명 가운데 1명은 구조됐고 1명은 현장에서 숨졌습니다. 현재 실종자는 5명입니다.",
+      "sourceLink": "https://news.google.com/search?q=부산+예인선+침몰+실종자+포항+시신&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary-style photograph of an empty coastline at dawn, waves washing ashore against grey rocks, a lifesaving ring buoy lying on the sand, faint lights of a distant fishing vessel on the horizon, moody overcast sky, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "AI·과학",
+      "kicker": "AGI 선언",
+      "title": "GPT-6 아스트라, 수능 450점 만점",
+      "summary": "오픈AI의 GPT-6 아스트라가 수능 전 과목에서 450점 만점을 기록했습니다. 젠슨 황 CEO가 AGI 도래를 선언했으나 전문가들은 의견이 갈립니다.",
+      "sourceTitle": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
+      "sourceDesc": "오픈AI의 GPT-6 아스트라가 2026학년도 수능 국어·수학·영어·탐구를 합산해 종합 450점 만점을 기록했습니다. 젠슨 황 엔비디아 CEO는 AGI(범용인공지능)가 도래했다고 선언했으나, 전문가들은 시기상조라며 의견이 엇갈립니다.",
+      "sourceLink": "https://news.google.com/search?q=GPT-6+아스트라+수능+450점+만점+AGI&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism-style image of scattered open textbooks and exam answer sheets on a wooden desk, a glowing computer monitor displaying code in the background, dramatic low-key studio lighting, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "고용 희비",
+      "title": "고용률 역대 최대, 청년은 한파 지속",
+      "summary": "8월 취업자가 전년보다 18만4000명 늘어 15~64세 고용률이 역대 최대를 기록했습니다. 다만 청년층 취업자는 46개월 연속 감소해 청년 고용 한파는 여전합니다.",
+      "sourceTitle": "8월 취업자 18.4만명↑…15~64세 고용률 '역대 최대'",
+      "sourceDesc": "8월 취업자 수는 전년 동월 대비 18만4000명 증가했습니다. 15세 이상 고용률은 63.3%로 8월 기준 1982년 이후 가장 높으며, 15~64세 고용률은 70.4%로 관련 통계 이래 8월 기준 역대 최대입니다. 반면 청년층 취업자는 14만3000명 줄어 46개월 연속 감소세를 이어갔습니다.",
+      "sourceLink": "https://news.google.com/search?q=8월+취업자+18.4만명+고용률+역대최대&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "An empty job fair venue with rows of vacant booths, abandoned chairs, and stacked pamphlets under harsh fluorescent lights, photojournalism documentary style, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "임기 논란",
+      "title": "이 대통령, 프랑스서 임기 헌법상 제한 강조",
+      "summary": "이재명 대통령이 프랑스 국빈 방문 중 임기가 헌법상 명확히 제한돼 있다고 직접 밝혔습니다. 야권은 대통령이 연임 개헌 의사를 직접 밝혀야 한다고 요구했습니다.",
+      "sourceTitle": "'프랑스 국빈방문' 이재명 대통령 \"임기, 헌법상 명확히 제한\" 강조한 이유는",
+      "sourceDesc": "프랑스를 국빈 방문 중인 이재명 대통령이 9일 현지시간 파리 동포 오찬간담회에서 임기는 헌법상 명확하게 제한돼 있다고 밝혔습니다. 취임 초반 정상외교 일정을 집중 소화하는 이유를 설명하며 이같이 말했으며, 야권은 연임 개헌 의사를 직접 밝혀야 한다고 요구했습니다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+프랑스+국빈방문+임기+헌법상+제한&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism photograph of an ornate European palace facade at twilight, national flags on tall ceremonial poles lining a stone pathway, classical limestone architecture bathed in golden-hour light, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "진상규명 연장",
+      "title": "이태원 특조위 1년 연장, 내년까지 진상규명",
+      "summary": "이태원 참사 특별조사위원회 활동이 내년 9월까지 1년 연장됩니다. 국무회의가 특별법 개정안을 의결해 9월 15일부터 시행될 예정입니다.",
+      "sourceTitle": "이태원참사 특조위 활동 1년 연장…내년 9월까지 진상규명",
+      "sourceDesc": "이태원 참사 특별조사위원회의 활동 기한이 2026년 9월 16일에서 2027년 9월 16일로 1년 연장됩니다. 국무회의는 9월 8일 관련 특별법 개정법률안을 의결했으며, 9월 15일 공포·시행될 예정입니다. 이로써 피해자 피해 신청 기간도 함께 연장됩니다.",
+      "sourceLink": "https://news.google.com/search?q=이태원참사+특조위+1년+연장&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary close-up of dozens of memorial candles in neat rows on dark wet pavement, soft amber flame light reflecting on cobblestones, solemn and quiet atmosphere, vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-10 아침 브리핑\n\n1. 침몰 예인선 실종자, 포항서 발견\n2. GPT-6 아스트라, 수능 450점 만점\n3. 고용률 역대 최대, 청년은 한파 지속\n4. 이 대통령, 프랑스서 임기 헌법상 제한 강조\n5. 이태원 특조위 1년 연장, 내년까지 진상규명\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
