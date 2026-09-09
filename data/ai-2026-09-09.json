@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-09",
+  "account": "aibrief",
+  "hookLine": "AI가 수능 만점, AGI 선언이 나왔어요.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 모델",
+      "kicker": "AGI 선언",
+      "title": "아스트라, 수능 450점 만점…AGI 선언",
+      "summary": "오픈AI의 GPT-6 아스트라가 수능 450점 만점을 달성했습니다. 젠슨 황 엔비디아 CEO는 'AGI has arrived'라고 선언했습니다.",
+      "sourceTitle": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
+      "sourceDesc": "오픈AI의 GPT-6 아스트라가 수능 총점 450점 만점을 기록해 AI 최초 만점을 달성했다. 탐구 4과목까지 석권하며 젠슨 황 엔비디아 CEO는 X에 'AGI has arrived'라고 적었다.",
+      "sourceLink": "https://news.google.com/search?q=GPT-6+아스트라+수능+만점&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "빅테크 사업",
+      "kicker": "삼성 주도 투자",
+      "title": "삼성, 미스트랄에 30억 유로 투자 주도",
+      "summary": "삼성전자가 프랑스 AI 기업 미스트랄의 30억 유로 시리즈D 투자를 주도했습니다. 미스트랄은 기업가치 210억 유로로 유럽 기술 기업 최대 지분 투자 기록을 세웠습니다.",
+      "narration": "삼성이 유럽 AI 기업에 30억 유로 투자했어요.",
+      "sourceTitle": "삼성전자, '유럽 AI 자존심' 미스트랄에 30억 유로 투자 주도",
+      "sourceDesc": "삼성전자가 프랑스 AI 스타트업 미스트랄의 30억 유로 시리즈D 투자 라운드를 주도했다. 미스트랄은 기업가치 210억 유로로 유럽 기술 기업 사상 최대 규모 지분 투자 기록을 세웠다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+미스트랄+30억+유로+투자&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 로봇",
+      "kicker": "생산라인 가동",
+      "title": "샤오펑 Iron, 생산라인서 직접 걸어나와",
+      "summary": "샤오펑이 휴머노이드 로봇 'Iron' 양산 라인을 가동하고 첫 번째 완제품을 선보였습니다. 로봇이 스스로 생산라인을 걸어 나왔으며, 핵심 공정 자동화율이 80%를 넘습니다.",
+      "narration": "샤오펑 로봇 Iron이 혼자 공장서 걸어나왔어요.",
+      "sourceTitle": "샤오펑, 범용 휴머노이드 로봇 'Iron' 양산 라인 가동",
+      "sourceDesc": "샤오펑이 광저우에서 휴머노이드 로봇 'Iron' 생산라인을 가동하고 첫 로봇을 완성했다. 로봇이 스스로 생산라인을 걸어 나왔으며, 핵심 공정의 자동화율이 80%를 넘는다.",
+      "sourceLink": "https://news.google.com/search?q=샤오펑+Iron+휴머노이드+생산라인+가동&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "반도체·인프라",
+      "kicker": "AI 인프라 확대",
+      "title": "중국, 2030년까지 AI 연산 9800 엑사플롭스 목표",
+      "summary": "중국이 2030년까지 AI 연산 능력을 9800 엑사플롭스 목표치로 끌어올리는 계획을 발표했습니다. 현재보다 큰 폭으로 확대하는 대규모 인프라 투자입니다.",
+      "narration": "중국이 AI 연산 능력 9800 목표를 발표했어요.",
+      "sourceTitle": "China targets fourfold boost in AI computing capacity by 2030 in major tech push",
+      "sourceDesc": "China's Ministry of Industry and Information Technology (MIIT) released a 2026-2030 plan targeting 9800 eflops of AI computing capacity by 2030. China's current intelligent computing capacity was 2185 eflops as of June.",
+      "sourceLink": "https://news.google.com/search?q=China+AI+computing+capacity+9800+eflops+2030&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "규제 우회 적발",
+      "title": "中 인스퍼, AI칩 7.5조원 수출규제 우회 드러나",
+      "summary": "미국의 제재 대상인 중국 인스퍼그룹이 자회사를 통해 수출 규제를 우회한 정황이 드러났습니다. AI칩이 탑재된 장비 56억달러 상당을 동남아로 우회 수출한 것으로 전해집니다.",
+      "narration": "中 인스퍼, 미국 AI칩 규제 우회 적발됐어요.",
+      "sourceTitle": "'미국 회사' 간판 달고 미국 칩 빼갔다…中 인스퍼 7.5조원 규제 우회 전모",
+      "sourceDesc": "미국의 제재 대상인 중국 인스퍼그룹이 자회사를 통해 미국산 AI칩이 탑재된 장비 56억달러 상당을 동남아로 수출하며 수출 규제를 우회했다. 이 중 30억달러 이상이 엔비디아 블랙웰 탑재 장비였다.",
+      "sourceLink": "https://news.google.com/search?q=인스퍼+수출규제+우회+AI칩&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-09 AI 뉴스 브리핑\n1. 아스트라, 수능 450점 만점…AGI 선언\n2. 삼성, 미스트랄에 30억 유로 투자 주도\n3. 샤오펑 Iron, 생산라인서 직접 걸어나와\n4. 중국, 2030년까지 AI 연산 9800 엑사플롭스 목표\n5. 中 인스퍼, AI칩 7.5조원 수출규제 우회 드러나\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #GPT6 #아스트라 #AGI #미스트랄 #삼성전자 #휴머노이드 #로봇 #중국AI #반도체\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
