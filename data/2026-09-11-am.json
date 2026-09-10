@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-11",
+  "slot": "am",
+  "hookLine": "네팔 실종 국민 9명, 아직 못 찾았습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·사건",
+      "kicker": "실종자 수색",
+      "title": "네팔 구호대 1진 귀국, 실종 9명 수색 계속",
+      "summary": "네팔 대홍수로 실종된 한국 국민 9명을 못 찾은 채 해외긴급구호대 1진이 11일 귀국합니다. 정부는 수색을 이어가기 위해 2진 파견을 추진 중입니다.",
+      "sourceTitle": "'네팔 대홍수' 실종 국민 9명 못찾고…해외구호대 1진 11일 귀국, 2진 준비",
+      "sourceDesc": "네팔 대홍수 실종자 수색을 위해 현지에 파견된 대한민국 해외긴급구호대(KDRT) 1진이 11일 귀국하는 가운데 정부는 수색 활동을 이어가기 위해 2진 파견을 준비 중이다. 1진은 11일 군 수송기 KC-330을 이용해 국내로 복귀할 예정이며, 외교부는 KDRT 2진 파견도 추진한다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=네팔+긴급구호대+1진+귀국+실종+국민+9명&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism documentary image of search and rescue equipment — ropes, helmets, and orange life vests — arranged on muddy ground near a flooded riverbank in a mountain valley, grey overcast sky, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "사회·법",
+      "kicker": "개보법 강화",
+      "title": "개인정보 대규모 유출, 오늘부터 매출 10% 과징금",
+      "summary": "오늘부터 개정 개인정보보호법이 시행돼 반복·중대 유출 기업에 매출 최대 10% 과징금이 부과됩니다. 개인정보보호위원회는 고의·중과실로 1000만 명 이상 피해 시 대상이라고 밝혔습니다.",
+      "sourceTitle": "개인정보 반복·대규모 유출 최대 매출 10% 과징금…내일부터 시행",
+      "sourceDesc": "개인정보보호위원회는 3월 개정된 개인정보 보호법과 위임 사항을 구체화한 시행령 및 관련 고시가 11일부터 시행된다고 10일 밝혔다. 고의·중과실로 3년 안에 위반 행위를 반복하거나 1000만 명 이상의 대규모 피해를 일으킨 경우, 전체 매출의 최대 10%까지 과징금을 부과할 수 있다.",
+      "sourceLink": "https://news.google.com/search?q=개인정보보호법+개정안+11일+시행+매출+10%25+과징금&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism documentary image of rows of server racks with blinking indicator lights in a dark data center corridor, emergency warning light casting a red glow, dramatic high-contrast lighting, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "소비자·사회",
+      "kicker": "위험한 경품",
+      "title": "인형뽑기 경품 10개 중 6개서 유해물질 검출",
+      "summary": "한국소비자원 조사에서 무인 인형뽑기점 경품 10개 중 6개에서 납·카드뮴 등 유해물질이 기준치를 초과해 검출됐습니다. 조사 대상 20종 모두 안전 인증마크가 없어 어린이 안전이 우려됩니다.",
+      "sourceTitle": "\"어제도 뽑았는데\"…무인 인형뽑기점 경품 10개 중 6개서 유해물질 검출",
+      "sourceDesc": "한국소비자원이 지난 4~7월 국내 무인 인형뽑기점 유통 제품 20종과 업체 16곳을 대상으로 진행한 안전실태 조사 결과를 10일 발표했다. 제품 20종 중 12종에서 어린이 제품 공통 안전기준을 초과한 프탈레이트계 가소제와 납, 카드뮴이 나왔으며, 조사 대상 20종 모두 안전 인증마크와 사용 가능 연령 표시가 없었다.",
+      "sourceLink": "https://news.google.com/search?q=무인+인형뽑기점+경품+유해물질+납+카드뮴+검출&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary close-up photograph of colorful stuffed animal toys and character dolls piled inside a glass claw machine, bright artificial lights reflecting off the glass surface, vivid colors, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "순방 마무리",
+      "title": "이 대통령, 3박 5일 프랑스 귀국…내치 현안 대기",
+      "summary": "이재명 대통령이 3박 5일간의 프랑스 국빈방문 일정을 마치고 10일 귀국했습니다. 방위산업·원자력 협력을 논의했으며, 귀국 후 장관 인사 논란과 파병 등 현안이 대기 중입니다.",
+      "sourceTitle": "李대통령, 프랑스 국빈 방문 마치고 귀국길…3박 5일 일정 마무리",
+      "sourceDesc": "이재명 대통령이 3박 5일간의 프랑스 국빈 방문 일정을 마치고 10일 귀국했다. 순방 기간 마크롱 프랑스 대통령과 정상회담을 열고 방위산업 및 원자력 분야 협력 방안을 논의했으며, 귀국 후에는 장관 후보자 인사 논란과 파병 결정 등 국내 현안이 대기하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+프랑스+국빈방문+귀국+3박5일&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism image of an airport tarmac at dusk with a large government aircraft on the runway, national flags on a terminal building, ceremonial red carpet near airstairs, golden-hour light, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "정치자금 유죄",
+      "title": "김영선 전 의원, 불법 정치자금으로 집행유예",
+      "summary": "국민의힘 김영선 전 의원이 불법 정치자금 수수 혐의로 10일 1심에서 징역 1년, 집행유예 2년을 선고받았습니다. 재력가에게 법률 자문료 명목으로 4050만 원을 받은 혐의가 유죄로 인정됐습니다.",
+      "sourceTitle": "국민의힘 김영선 전 의원, 불법 정치자금 수수로 징역 1년, 집행유예 2년",
+      "sourceDesc": "창원지방법원 형사2부는 10일 김영선 전 국민의힘 의원에게 정치자금법 위반 혐의를 유죄로 인정해 징역 1년에 집행유예 2년, 추징금 4050만 원을 선고했다. 안동 소재 재력가에게 법률 자문료 명목으로 2021년 9월부터 2022년 10월까지 4050만 원을 수수한 혐의가 인정됐다.",
+      "sourceLink": "https://news.google.com/search?q=김영선+전+의원+정치자금법+위반+집행유예+선고&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism-style image of an empty courtroom interior — a judge's bench, wooden tables and chairs, national flag on a stand, harsh fluorescent overhead lighting, polished floor — formal justice setting, vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-11 아침 브리핑\n\n1. 네팔 구호대 1진 귀국, 실종 9명 수색 계속\n2. 개인정보 대규모 유출, 오늘부터 매출 10% 과징금\n3. 인형뽑기 경품 10개 중 6개서 유해물질 검출\n4. 이 대통령, 3박 5일 프랑스 귀국…내치 현안 대기\n5. 김영선 전 의원, 불법 정치자금으로 집행유예\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
