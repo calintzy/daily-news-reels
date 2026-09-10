@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-10",
+  "slot": "pm",
+  "hookLine": "국제유가, 100달러 돌파했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "유가 100달러",
+      "title": "중동 전쟁 확대, 국제유가 100달러 돌파",
+      "summary": "중동 전쟁이 호르무즈해협과 홍해로 확대되며 국제유가가 100달러를 돌파했습니다. 브렌트유가 배럴당 100.01달러를 기록하며 지난 7월24일 이후 처음입니다.",
+      "sourceTitle": "호르무즈 건너 홍해까지 불길… 국제유가 100달러 돌파",
+      "sourceDesc": "9일 런던 ICE선물거래소에서 브렌트유 11월 인도분은 배럴당 100.01달러를 기록했습니다. 장중 브렌트유 선물이 100달러를 넘은 것은 지난 7월24일 이후 처음입니다. 예멘의 친이란 후티반군이 사우디 에너지 시설을 공격하고 미·이란 보복전이 이어지며 호르무즈해협과 홍해 긴장이 고조됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=국제유가+100달러+돌파+호르무즈+홍해&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photograph of crude oil tanker on open sea at sunrise, thick black smoke rising from a distant refinery on the horizon, tense orange-red sky reflecting on water, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "IT·기술",
+      "kicker": "애플 참전",
+      "title": "애플 아이폰 듀오 공개, 한국 329만원",
+      "summary": "애플이 첫 폴더블 스마트폰 아이폰 듀오를 공개했습니다. 내달 23일 국내 출시되며 출고가는 329만원부터 시작합니다.",
+      "sourceTitle": "애플 첫 폴더블폰 '아이폰 듀오', 내달 23일 국내 출시…329만원부터",
+      "sourceDesc": "애플이 9일(현지시간) 미국 캘리포니아 쿠퍼티노 애플파크에서 첫 폴더블 스마트폰 '아이폰 듀오'를 공개했습니다. 아이폰 듀오는 펼치면 7.6인치, 접으면 5.4인치이며, 국내 출고가는 256GB 기준 329만원부터 시작합니다.",
+      "sourceLink": "https://news.google.com/search?q=애플+아이폰+듀오+폴더블+329만원&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism close-up of a sleek folded smartphone resting on a white minimal surface, soft shadow emphasizing the folded hinge seam, cool clean studio lighting, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "사건·사고",
+      "kicker": "5명 행방불명",
+      "title": "예인선 침몰 실종자 5명, 수색 범위 확대",
+      "summary": "부산 앞바다 예인선 침몰 실종자 5명 수색이 후속 확대됐습니다. 해경은 수색 범위를 2배로 늘리고 함선 16척과 항공기 5대를 동원했습니다.",
+      "sourceTitle": "예인선 실종자 행방은…해경, 침몰 선체 수중수색·인양 검토",
+      "sourceDesc": "부산 앞바다에서 침몰한 예인선 티엔에스캐처호 실종 선원 5명의 행방이 여전히 오리무중인 가운데, 해경이 함선 16척과 항공기 5대를 동원해 수색을 계속하고 있습니다. 해경은 수색 범위를 2배로 확대하고 침몰 선체의 수중수색·인양도 검토 중입니다.",
+      "sourceLink": "https://news.google.com/search?q=부산+예인선+침몰+수색+확대+실종&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary aerial view of a coast guard patrol vessel on vast dark grey sea, white wake trail cutting through choppy waves, overcast sky above open ocean, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "초유 수입금지",
+      "title": "트럼프, 캐나다산 수입 금지 행정명령",
+      "summary": "트럼프 미국 대통령이 이달 29일부터 캐나다산 유제품·주류·오토바이 수입을 금지하는 포고문에 서명했습니다. 취임 이후 관세가 아닌 수입 금지 조치는 이번이 처음입니다.",
+      "sourceTitle": "트럼프, 캐나다산 유제품·주류·오토바이 수입 금지…29일부터 시행",
+      "sourceDesc": "도널드 트럼프 미국 대통령이 8일(현지시간) 캐나다산 유제품·주류·오토바이에 대해 오는 29일 0시1분부터 수입을 금지하는 포고문에 서명했습니다. 취임 이후 관세가 아닌 수입 금지 조치는 이번이 처음으로, 캐나다가 미국산 제품에 최대 50%의 보복 관세를 부과한 데 대한 대응입니다.",
+      "sourceLink": "https://news.google.com/search?q=트럼프+캐나다+수입금지+29일+포고문&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism photograph of a border crossing checkpoint with barrier arms lowered, cargo truck silhouettes visible on both sides of the barrier, moody overcast sky at dusk, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "집행유예 선고",
+      "title": "정치자금법 위반 김영선 전 의원, 집행유예",
+      "summary": "법원이 정치자금법 위반 혐의 김영선 전 의원에게 징역 1년에 집행유예 2년을 선고했습니다. 검찰은 결심공판에서 징역 3년 6개월과 벌금 100만원을 구형했습니다.",
+      "sourceTitle": "[속보]정치자금법 위반 김영선 전 의원, 집행유예 선고",
+      "sourceDesc": "법원은 10일 정치자금법 위반 등 혐의로 기소된 김영선 전 의원에게 징역 1년에 집행유예 2년을 선고했습니다. 검찰은 결심공판에서 징역 3년 6개월과 벌금 100만원을 구형했었습니다.",
+      "sourceLink": "https://news.google.com/search?q=김영선+전의원+집행유예+정치자금법+선고&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photograph of courthouse stone steps and classical granite columns in morning light, judicial scale symbol carved in stone facade, long shadows cast by sunlight, vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-10 저녁 브리핑\n\n1. 중동 전쟁 확대, 국제유가 100달러 돌파\n2. 애플 아이폰 듀오 공개, 한국 329만원\n3. 예인선 침몰 실종자 5명, 수색 범위 확대\n4. 트럼프, 캐나다산 수입 금지 행정명령\n5. 정치자금법 위반 김영선 전 의원, 집행유예\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
