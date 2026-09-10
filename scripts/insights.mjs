@@ -1,14 +1,16 @@
 #!/usr/bin/env node
 // 릴스 인사이트 수집 — published/ 마커(회차 stem→IG media id)를 전수 조회해 Graph API 인사이트를 저장
 // 사용법: node scripts/insights.mjs
-//   env: IG_ACCESS_TOKEN
+//   env: IG_ACCESS_TOKEN, IG_ACCESS_TOKEN_AIBRIEF
 //
 // 훅 수술(2026-08-08) 전후 성과 평가용 일회성 수집. publish.mjs와 동일하게
 // Instagram Login 경로 토큰(graph.instagram.com)을 쓴다.
+// 계정 판정은 publish.mjs/.github/workflows/reels.yml과 동일하게 stem의 ai- 접두로 가른다
+// (ai- → 오리 기자/aibrief 계정, 그 외 → 물어오리 계정).
 
 import { readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -56,8 +58,14 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+// stem → 계정 판정 (publish.mjs/reels.yml과 동일 규칙: ai- 접두 → 오리 기자/aibrief 계정)
+export function accountOf(stem) {
+  return stem.startsWith("ai-") ? "aibrief" : "muleori";
+}
+
 async function main() {
   const token = process.env.IG_ACCESS_TOKEN;
+  const aibriefToken = process.env.IG_ACCESS_TOKEN_AIBRIEF;
   if (!token) {
     console.error("IG_ACCESS_TOKEN 필요 (Meta 셋업 후 GitHub Secrets)");
     process.exit(1);
@@ -68,15 +76,24 @@ async function main() {
 
   const results = [];
   let failCount = 0;
+  let aibriefWarned = false;
 
   for (const name of names) {
     const path = join(publishedDir, name);
     const stat = statSync(path);
     if (stat.isDirectory()) continue; // 초기 회차 일부가 디렉토리 — 스킵
     if (name === "sample") continue;
-    // 오리 기자(ai- 접두) 회차 스킵 — 그 계정 media는 물어오리 토큰으로 조회 불가하다.
-    // 계정별 insights 수집은 후속 백로그.
-    if (name.startsWith("ai-")) continue;
+
+    const account = accountOf(name);
+    if (account === "aibrief" && !aibriefToken) {
+      // 오리 기자(aibrief) 토큰 미설정 — 전체 스킵을 스템마다 반복 경고하지 않고 1회만 알린다.
+      if (!aibriefWarned) {
+        console.error("IG_ACCESS_TOKEN_AIBRIEF 미설정 — ai- 회차 전체 스킵");
+        aibriefWarned = true;
+      }
+      continue;
+    }
+    const accountToken = account === "aibrief" ? aibriefToken : token;
 
     const content = readFileSync(path, "utf-8").trim();
     if (!/^\d+$/.test(content)) {
@@ -85,10 +102,10 @@ async function main() {
     }
     const mediaId = content;
 
-    const entry = { stem: name, mediaId, timestamp: null, permalink: null, metrics: {} };
+    const entry = { stem: name, account, mediaId, timestamp: null, permalink: null, metrics: {} };
 
     try {
-      const meta = await api(`/${mediaId}`, { fields: "id,timestamp,permalink", access_token: token });
+      const meta = await api(`/${mediaId}`, { fields: "id,timestamp,permalink", access_token: accountToken });
       entry.timestamp = meta.timestamp;
       entry.permalink = meta.permalink;
     } catch (e) {
@@ -96,7 +113,7 @@ async function main() {
     }
 
     try {
-      entry.metrics = await fetchInsights(mediaId, token);
+      entry.metrics = await fetchInsights(mediaId, accountToken);
     } catch (e) {
       entry.error = entry.error ? `${entry.error}; 인사이트 실패: ${e.message}` : `인사이트 실패: ${e.message}`;
     }
@@ -123,4 +140,7 @@ async function main() {
   console.log(`총 ${results.length}회차 / 실패 ${failCount}`);
 }
 
-main();
+// 이 파일이 직접 실행됐을 때만 main()을 돈다 — import 시 네트워크 호출 방지(accountOf 등 순수 함수 재사용 목적).
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main();
+}

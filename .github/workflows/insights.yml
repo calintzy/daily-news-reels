@@ -23,6 +23,7 @@ jobs:
       - name: 인사이트 수집
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_ACCESS_TOKEN_AIBRIEF: ${{ secrets.IG_ACCESS_TOKEN_AIBRIEF }}
         run: node scripts/insights.mjs
 
       - name: metrics/ 스냅샷 커밋
