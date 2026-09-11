@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-11",
+  "slot": "pm",
+  "hookLine": "윤 전 대통령, 이종섭 범인도피 혐의 1심 무죄입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사법",
+      "kicker": "1심 무죄 선고",
+      "title": "윤 전 대통령, 이종섭 범인도피 혐의 1심 무죄",
+      "summary": "서울중앙지법이 11일 이종섭 전 장관을 호주 대사로 임명한 혐의(범인도피)로 기소된 윤 전 대통령에게 1심 무죄를 선고했습니다. 재판부는 수사를 방해하려는 의도가 있었다고 단정하기 어렵다고 밝혔습니다.",
+      "sourceTitle": "윤석열 '이종섭 호주도피' 1심 무죄…\"도피 의사 확정 어려워\"",
+      "sourceDesc": "서울중앙지법 형사합의22부(조형우 부장판사)는 11일 범인도피·직권남용·국가공무원법 위반 혐의로 기소된 윤 전 대통령에게 무죄를 선고했다. 재판부는 윤 전 대통령이 이종섭 전 장관을 호주 대사로 임명한 것이 수사를 방해하려는 의도나 의사가 있었다고 단정하기 어렵다고 판단했다.",
+      "sourceLink": "https://news.google.com/search?q=윤석열+이종섭+호주도피+1심+무죄&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism documentary image of an empty courtroom interior with wooden benches, a judge's elevated bench, and a national flag on a stand, fluorescent overhead lighting casting harsh shadows on polished marble floors, dramatic perspective looking toward the bench, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "유가 100달러 돌파",
+      "title": "국제유가 WTI·브렌트유 100달러 돌파",
+      "summary": "미국과 이란의 무력 충돌이 격화하면서 WTI와 브렌트유가 모두 배럴당 100달러를 돌파했습니다. WTI는 102.48달러, 브렌트유는 107.63달러에 마감하며 국제유가가 6%대 급등했습니다.",
+      "sourceTitle": "국제유가 6%대 급등…WTI·브렌트유 모두 100달러 돌파",
+      "sourceDesc": "미국과 이란의 무력 충돌이 격화하면서 서부텍사스산원유(WTI)와 브렌트유가 모두 배럴당 100달러를 돌파했다. WTI 선물은 배럴당 102.48달러에, 브렌트유는 107.63달러에 마감하며 국제유가가 6%대 급등했다.",
+      "sourceLink": "https://news.google.com/search?q=국제유가+WTI+브렌트유+100달러+돌파+2026년+9월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism documentary image of large cylindrical oil storage tanks and pipeline infrastructure under a hazy desert sky with orange and red tones, low-angle dramatic perspective, industrial scale, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "에너지·사회",
+      "kicker": "40년 설계수명 만료",
+      "title": "한빛 2호기, 40년 만에 가동 정지…계속운전 심사 중",
+      "summary": "한빛원자력발전소 2호기가 40년 설계수명을 마치고 11일 가동을 멈췄습니다. 계속운전 허가를 받기 전까지 재가동할 수 없으며, 원자력안전위원회는 2027년 상반기 심의를 추진 중입니다.",
+      "sourceTitle": "한빛 2호기 11일 가동 중단…운영허가 만료",
+      "sourceDesc": "한빛원자력발전소 2호기가 40년 설계수명을 마치고 11일 가동을 멈췄다. 계속운전 허가를 받기 전까지 재가동할 수 없으며, 원자력안전위원회는 2027년 상반기 허가안을 심의에 상정하는 방안을 추진 중이다.",
+      "sourceLink": "https://news.google.com/search?q=한빛2호기+가동+중단+운영허가+만료&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism documentary image of large concrete cooling towers at a nuclear power plant at dawn, steam rising into a grey morning sky, structures reflected in a still reservoir, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "겸직 고수",
+      "title": "용혜인 장관 후보, 의원직 겸직 고수해 논란",
+      "summary": "용혜인 성평등가족부 장관 후보자가 의원직을 유지하며 장관직 겸직을 고수해 논란이 이어지고 있습니다. 기본소득당의 유일한 현역 의원인 용 후보자가 사퇴하면 당이 원외 정당으로 전락하기 때문입니다.",
+      "sourceTitle": "\"장관·의원 겸직은 법이 허용\" 버티는 용혜인…속 끓이는 민주당",
+      "sourceDesc": "용혜인 성평등가족부 장관 후보자가 의원직과 장관직 겸직 논란에도 사퇴를 거부하고 정면 돌파에 나섰다. 기본소득당의 유일한 현역 의원인 용 후보자가 사퇴할 경우 의석 승계가 불가능해 당이 원외 정당으로 전락한다는 이유에서다.",
+      "sourceLink": "https://news.google.com/search?q=용혜인+장관+후보자+의원직+겸직+논란&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism documentary image of rows of empty National Assembly chamber seats arranged in a semicircle around a central podium, dramatic overhead lighting, deep perspective showing tier after tier of blue seats, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "정치·사회",
+      "kicker": "추경 예산 삭감",
+      "title": "오세훈표 역점사업 예산, 시의회서 대폭 삭감",
+      "summary": "서울시의회 예산결산특별위원회가 11일 추경 수정안을 의결하면서 오세훈 시장의 역점 사업 예산을 대폭 삭감했습니다. 청년 AI 성장권 지원사업 56억2500만원과 야장 조성 예산 등이 깎였습니다.",
+      "sourceTitle": "'오세훈표' 역점사업 시의회서 잇따라 삭감··· 청년 AI 이용권, 달빛야장 등 대폭 깎여",
+      "sourceDesc": "서울시의회 예산결산특별위원회는 11일 오세훈 시장의 2026년 제2회 추가경정예산 수정안을 의결하면서 청년 AI 성장권 지원사업 56억2500만원, 지역별 야장 조성 12억200만원 등 오세훈 시장 역점 사업 예산을 대폭 삭감했다.",
+      "sourceLink": "https://news.google.com/search?q=오세훈+서울시+추경+역점사업+삭감+2026년+9월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Photojournalism documentary image of Seoul City Hall government building exterior at daytime, architectural perspective looking up at the curved modern glass facade with historic stone columns below, clear blue sky, vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-11 저녁 브리핑\n\n1. 윤 전 대통령, 이종섭 범인도피 혐의 1심 무죄\n2. 국제유가 WTI·브렌트유 100달러 돌파\n3. 한빛 2호기, 40년 만에 가동 정지…계속운전 심사 중\n4. 용혜인 장관 후보, 의원직 겸직 고수해 논란\n5. 오세훈표 역점사업 예산, 시의회서 대폭 삭감\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
