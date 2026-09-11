@@ -177,7 +177,9 @@ async function main() {
   );
 
   // 3) 음악 합성: 영상 길이에 맞춰 컷 + loudnorm + 끝 2초 페이드 + volume 0.4
-  const music = join(REELS, "assets", "music", "pure_attitude.mp3");
+  // 2026-09-11 음악 교체 실험: 7주간 전 회차 동일 트랙(pure_attitude) → 두 계정 동시 조회수 붕괴의
+  // 공유 요소 분리 1차. 되돌리려면 pure_attitude.mp3로 경로만 복원(파일 보존).
+  const music = join(REELS, "assets", "music", "digital_lemonade.mp3");
   const videosDir = join(ROOT, "docs", "videos");
   mkdirSync(videosDir, { recursive: true });
   const finalMp4 = join(videosDir, `${stem}.mp4`);
