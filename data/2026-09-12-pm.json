@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-12",
+  "slot": "pm",
+  "hookLine": "북한 탄도미사일, 오늘 동해상에 수차례 발사됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·안보",
+      "kicker": "北 미사일 도발",
+      "title": "북한 단거리 탄도미사일 수발 동해상 발사",
+      "summary": "북한이 원산 일대에서 동해상으로 단거리 탄도미사일 수발을 발사했습니다. 약 250㎞를 비행했으며 한미 양국이 정밀 분석 중입니다.",
+      "sourceTitle": "北, 단거리 탄도미사일 수차례 발사…약 250㎞ 비행",
+      "sourceDesc": "합동참모본부는 12일 오전 북한 원산 일대에서 동해상으로 단거리 탄도미사일 수발을 포착했다고 밝혔다. 미사일은 약 250㎞를 비행했으며 한미 양국이 정밀분석 중이다. 지난달 20일 이후 23일 만의 탄도미사일 도발 재개로, 한미일 3국 연합훈련에 대한 항의성 무력 시위로 분석된다.",
+      "sourceLink": "https://news.google.com/search?q=북한+단거리+탄도미사일+동해상+발사&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photojournalism style. South Korean military operations center at dawn, dark room lit by radar monitors and tactical displays glowing in blue and green, empty command chairs facing the screens, alert atmosphere. No people. No text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "경제·국제",
+      "kicker": "에너지 쇼크",
+      "title": "국제유가 배럴당 100달러 재돌파",
+      "summary": "중동 위기가 격화하면서 국제유가가 배럴당 100달러를 다시 돌파했습니다. 이란과 미국 간 무력 충돌에 사우디 석유 시설도 타격을 입어 에너지 쇼크 장기화 우려가 커지고 있습니다.",
+      "sourceTitle": "국제유가 100달러 재돌파…에너지 쇼크 장기화 우려",
+      "sourceDesc": "미국과 이란 간 무력 충돌이 격화하면서 국제유가가 배럴당 100달러선을 다시 돌파했다. 런던 ICE선물거래소에서 브렌트유 11월 인도분은 전장 대비 3.4% 오른 배럴당 101.21달러에 마감했다. 사우디 석유 시설도 타격을 입었다는 소식에 에너지 쇼크 장기화 우려가 커지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=국제유가+100달러+재돌파+중동+에너지+쇼크&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photojournalism style. Oil refinery towers silhouetted against a dark orange and red sky, thick black smoke rising from distant burning facilities, desert landscape at dusk, dramatic backlighting. No people. No text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "대통령 지지율",
+      "title": "이재명 지지율 38% 취임 후 최저치 경신",
+      "summary": "한국갤럽 조사에서 이재명 대통령 지지율이 38%로 취임 후 최저치를 경신했습니다. 부정평가는 51%로, 부동산 정책에 대한 불만이 가장 높았습니다.",
+      "sourceTitle": "李대통령 지지율 38% 취임 후 최저…부정평가 '부동산·인사'",
+      "sourceDesc": "한국갤럽이 9월 8~10일 전국 만 18세 이상 1000명을 조사한 결과, 이재명 대통령 지지율이 38%로 취임 후 최저치를 기록했다. 전주 40%에서 2%포인트 하락했으며 부정평가는 51%였다. 부정 이유로는 부동산 정책이 24%로 가장 많았고 인사가 16%로 뒤를 이었다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+지지율+38+갤럽+최저치&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photojournalism style. Rows of empty survey response forms laid out on a plain government office desk, a single pen resting beside them, soft diffused natural light from a nearby window, neutral institutional setting. No people. No text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "AI 투자 협력",
+      "title": "삼성전자, 프랑스 AI 미스트랄에 30억 유로 투자",
+      "summary": "삼성전자가 프랑스 AI 기업 미스트랄과 30억 유로 투자 라운드를 주도하며 반도체 특화 AI 모델을 공동 개발하기로 했습니다. 미스트랄 기업가치는 210억 유로 이상으로 평가됐습니다.",
+      "sourceTitle": "삼성전자, 미스트랄 AI와 반도체 특화 AI 개발…30억 유로 투자도 주도",
+      "sourceDesc": "삼성전자가 프랑스 인공지능 기업 미스트랄 AI의 시리즈 D 투자 라운드를 주도하며 반도체 공정 특화 온프레미스 AI 모델을 공동 개발하는 파트너십을 체결했다. 이번 라운드 총 투자 규모는 30억 유로로, 미스트랄 AI 기업가치는 210억 유로 이상으로 평가됐다. 삼성전자는 HBM 등 메모리 반도체 공급과 AI 개발을 연계한 협력을 강화한다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+미스트랄+AI+투자+반도체&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photojournalism style. Close-up of a semiconductor wafer under laboratory lighting, intricate circuit patterns etched in silicon catching purple and gold reflections, clean-room manufacturing environment. No people. No text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "학폭 역대 최고",
+      "title": "학교폭력 피해응답률 6년 연속 최고치",
+      "summary": "교육부가 발표한 2026년 학교폭력 실태조사에서 피해응답률이 2013년 이후 최고치를 기록했습니다. 6년 연속 상승세로, 초등학교 피해응답률이 특히 높아 심각성이 지적됩니다.",
+      "sourceTitle": "'피해응답률 2.9%' 6년 연속 상승세…가해응답은 0.8%로 꺾여 '인식 괴리' 뚜렷",
+      "sourceDesc": "교육부가 2026년 1차 학교폭력 실태조사 결과를 발표했다. 피해응답률이 2.9%로 2013년 이후 최고치를 기록하며 6년 연속 상승했다. 초등학교 피해응답률이 5.7%로 가장 높았고, 가해응답률은 0.8%로 낮아 피해자와 가해자 사이 인식 괴리가 뚜렷했다.",
+      "sourceLink": "https://news.google.com/search?q=학교폭력+피해응답률+최고치+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photojournalism style. Empty school hallway with rows of blue lockers, a scattered backpack left on the floor, harsh fluorescent lighting casting long shadows, sense of abandonment in an institutional corridor. No people. No text. Vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-12 저녁 브리핑\n\n1. 북한 단거리 탄도미사일 수발 동해상 발사\n2. 국제유가 배럴당 100달러 재돌파\n3. 이재명 지지율 38% 취임 후 최저치 경신\n4. 삼성전자, 프랑스 AI 미스트랄에 30억 유로 투자\n5. 학교폭력 피해응답률 6년 연속 최고치\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #북한 #에너지 #AI\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
