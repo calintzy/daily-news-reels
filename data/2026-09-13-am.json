@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-13",
+  "slot": "am",
+  "hookLine": "수시 원서접수 먹통, 오늘 구제책 나옵니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "대입 형평성 논란",
+      "title": "수시 원서접수 먹통, 오늘 구제책 발표",
+      "summary": "수시 원서접수 시스템이 마감 직전 먹통이 되면서 수험생 간 형평성 논란이 일고 있습니다. 교육부는 장애로 접수를 완료하지 못한 수험생들의 구제 방안을 오늘 안내할 예정입니다.",
+      "sourceTitle": "수시 원서접수 '먹통' 후폭풍…교육부 \"접수체계 전면 검토, 13일 구제책 발표\"",
+      "sourceDesc": "원서접수 시스템이 마감 직전 먹통으로 접수 시간이 연장되면서 수험생 간 형평성 논란이 일고 있다. 교육부는 시스템 장애로 접수를 완료하지 못한 수험생들의 구제 방안을 13일에 안내할 예정이라고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=수시+원서접수+먹통+구제책&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a laptop keyboard with a frozen error screen casting cold blue glow on a dark desk, empty study room in background, tense quiet atmosphere, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "파병 반대 집회",
+      "title": "601개 단체, 호르무즈 파병 반대 대행진",
+      "summary": "601개 시민사회단체가 미국의 호르무즈 파병 요구를 정부가 거부해야 한다며 서울에서 시민 대행진을 열었습니다. 참여연대 등은 침략전쟁 중단과 파병 거부를 강력히 촉구했습니다.",
+      "sourceTitle": "시민사회단체 \"'침략전쟁' 호르무즈 파병 요구 거부해야\"",
+      "sourceDesc": "601개 시민사회단체 및 정당, 정치인이 미국의 호르무즈 파병 강요를 규탄하며 이재명 정부에 이를 거부할 것을 강력히 촉구했다. 참여연대 등은 서울에서 호르무즈 파병 반대 시민 대행진을 열고 침략전쟁 중단, 파병 단호히 거부 등 구호를 외쳤다.",
+      "sourceLink": "https://news.google.com/search?q=호르무즈+파병+반대+시민+대행진&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty boulevard in Seoul at dusk lined with discarded protest signs on the pavement, city streetlights glowing amber, symbolic aftermath of a mass demonstration, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "브릭스 정상회의",
+      "title": "브릭스 뉴델리 선언, 일방 제재 반대",
+      "summary": "제18차 브릭스 정상회의에서 뉴델리 선언이 만장일치로 채택됐습니다. 회원국 정상들은 국제법을 위반한 일방 제재에 반대하며 중동 지역의 자제를 촉구했습니다.",
+      "sourceTitle": "브릭스, '뉴델리 선언' 만장일치 채택…\"일방 제재·관세 반대\"",
+      "sourceDesc": "제18차 브릭스 정상회의가 인도 뉴델리에서 열려 뉴델리 선언이 만장일치로 채택됐다. 회원국 정상들은 공동 성명을 통해 국제법을 위반한 일방 제재에 반대하며 중동 지역에서의 자제를 촉구했다.",
+      "sourceLink": "https://news.google.com/search?q=브릭스+뉴델리+선언+일방+제재&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Grand diplomatic conference hall with a long empty polished table draped with national flags, ornate chandeliers and tall windows, warm golden lighting, Indian convention center aesthetic, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "장관 인사 논란",
+      "title": "용혜인 논란에 청년 여론 들끓어",
+      "summary": "민주당은 용혜인 장관 후보자 논란에 청년 여론이 들끓는다며 대응 논의에 나섰습니다. 당내에서는 후보자 지명 철회 수순을 밟을 것이라는 해석도 나오고 있습니다.",
+      "sourceTitle": "민주당 \"용혜인 논란에 청년 여론 들끓어\"‥내일 고위당정 논의 가능성",
+      "sourceDesc": "민주당은 용혜인 여성가족부 장관 후보자 논란과 관련해 청년 여론이 들끓고 있다며 고위당정 회의에서 대응 방안을 논의할 예정이라고 밝혔다. 당내에서는 후보자 지명 철회 수순이라는 해석이 나오고 있다.",
+      "sourceLink": "https://news.google.com/search?q=용혜인+장관+논란+청년+여론&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "South Korean National Assembly building exterior at early morning, stone pillars and marble steps in soft gray light, overcast sky, institutional political architecture, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "집값 지도 변화",
+      "title": "분당 아파트값, 1년 새 29.5% 전국 1위",
+      "summary": "최근 1년간 아파트값 상승률 전국 1위는 경기 분당구로 29.5% 뛰었습니다. 재건축 기대감에 따른 가격 상승이 주된 요인으로 분석됩니다.",
+      "sourceTitle": "아파트값 상승률 1위는 '분당'···29.5%↑",
+      "sourceDesc": "최근 1년간 전국 아파트 매매시세를 비교한 결과 경기 성남시 분당구가 29.5% 올라 상승률이 가장 높은 1위 지역으로 조사됐다. 야탑동·서현동·구미동을 중심으로 재건축 기대감에 따른 가격 상승세가 두드러졌다.",
+      "sourceLink": "https://news.google.com/search?q=분당+아파트값+상승률+전국+1위&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial perspective of dense Korean apartment tower clusters in a suburban district, green parks between towers, construction cranes on the horizon, golden afternoon light, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-13 아침 브리핑\n\n1. 수시 원서접수 먹통, 오늘 구제책 발표\n2. 601개 단체, 호르무즈 파병 반대 대행진\n3. 브릭스 뉴델리 선언, 일방 제재 반대\n4. 용혜인 논란에 청년 여론 들끓어\n5. 분당 아파트값, 1년 새 29.5% 전국 1위\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #대입 #파병 #브릭스 #부동산\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
