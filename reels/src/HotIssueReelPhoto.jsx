@@ -10,6 +10,7 @@ import {
   useVideoConfig,
 } from 'remotion';
 import {issueDuration, hookDuration} from './timing.js';
+import {nowrapNumbers} from './nowrapNumbers.jsx';
 
 const fontFamily =
   '"Noto Sans CJK KR","Apple SD Gothic Neo","SF Pro Display","Helvetica Neue",sans-serif';
@@ -50,9 +51,15 @@ const wrapTitle = (title) => {
 // title 길이별 폰트 크기: 24자 초과 시 88→72px 자동 축소.
 const titleFontSize = (title) => ([...String(title)].length > 24 ? 72 : 88);
 
+// 숫자 사이 마침표(소수점, 예: "100.01")는 문장 종결부호가 아니다 — 문장 경계 판정 전에
+// 임시 치환해 분리 대상에서 제외한 뒤 복원한다(2026-09-13: "100.01달러"가 "100."/"01달러"로
+// 서로 다른 <div>에 쪼개져 줄바꿈되는 버그의 root cause).
+const DECIMAL_POINT_PLACEHOLDER = '';
 const splitSentences = (text) => {
-  const matches = String(text).match(/[^.!?]+[.!?]+|[^.!?]+$/g);
-  return matches ? matches.map((part) => part.trim()) : [text];
+  const masked = String(text).replace(/(\d)\.(?=\d)/g, `$1${DECIMAL_POINT_PLACEHOLDER}`);
+  const matches = masked.match(/[^.!?]+[.!?]+|[^.!?]+$/g);
+  const restore = (part) => part.replace(new RegExp(DECIMAL_POINT_PLACEHOLDER, 'g'), '.');
+  return matches ? matches.map((part) => restore(part.trim())) : [text];
 };
 
 const PhotoBackground = ({src, frame, startFrame, panBias = 0}) => {
@@ -129,7 +136,7 @@ const HookOverlay = ({hookLine}) => {
             transform: `translateY(${interpolate(enter, [0, 1], [46, 0])}px)`,
           }}
         >
-          {hookLine}
+          {nowrapNumbers(hookLine)}
         </div>
       </div>
     </AbsoluteFill>
@@ -302,7 +309,7 @@ const IssueSlide = ({issue, imageSrc, startFrame, textDelay = 0}) => {
                   opacity: lineIn,
                 }}
               >
-                {line}
+                {nowrapNumbers(line)}
               </div>
             );
           })}
@@ -333,7 +340,7 @@ const IssueSlide = ({issue, imageSrc, startFrame, textDelay = 0}) => {
             }}
           >
             {sentences.map((sentence, index) => (
-              <div key={`${issue.rank}-sentence-${index}`}>{sentence}</div>
+              <div key={`${issue.rank}-sentence-${index}`}>{nowrapNumbers(sentence)}</div>
             ))}
           </div>
         </div>

@@ -12,6 +12,7 @@ import {
 } from 'remotion';
 import {loadFont, fontFamily as notoSerifKRFamily} from '@remotion/google-fonts/NotoSerifKR';
 import {issueDuration, hookDuration} from './timing.js';
+import {nowrapNumbers} from './nowrapNumbers.jsx';
 
 // Noto Serif KR — CI(ubuntu headless Chromium)에는 기본 설치돼 있지 않으므로 렌더 전에 로드해 대기한다.
 // (Noto Sans CJK KR과 달리 이 서체는 컨테이너 이미지에 없다 — 폴백이면 고딕으로 뭉개진다.)
@@ -69,9 +70,15 @@ const weekdayOf = (dateStr) => {
   return WEEKDAYS[utcDay];
 };
 
+// 숫자 사이 마침표(소수점, 예: "100.01")는 문장 종결부호가 아니다 — 문장 경계 판정 전에
+// 임시 치환해 분리 대상에서 제외한 뒤 복원한다(2026-09-13: "100.01달러"가 "100."/"01달러"로
+// 서로 다른 <div>에 쪼개져 줄바꿈되는 버그의 root cause).
+const DECIMAL_POINT_PLACEHOLDER = '';
 const splitSentences = (text) => {
-  const matches = String(text).match(/[^.!?]+[.!?]+|[^.!?]+$/g);
-  return matches ? matches.map((p) => p.trim()).filter(Boolean) : [String(text)];
+  const masked = String(text).replace(/(\d)\.(?=\d)/g, `$1${DECIMAL_POINT_PLACEHOLDER}`);
+  const matches = masked.match(/[^.!?]+[.!?]+|[^.!?]+$/g);
+  const restore = (part) => part.replace(new RegExp(DECIMAL_POINT_PLACEHOLDER, 'g'), '.');
+  return matches ? matches.map((p) => restore(p.trim())).filter(Boolean) : [String(text)];
 };
 
 // 제목 길이별 폰트 크기: 26자 초과 시 74→62px 자동 축소.
@@ -192,7 +199,7 @@ const HookOverlay = ({hookLine, date, weekday, issueNumber, accent}) => {
             wordBreak: 'keep-all',
           }}
         >
-          {hookLine}
+          {nowrapNumbers(hookLine)}
         </div>
       </div>
 
@@ -392,7 +399,7 @@ const NewsIssueSlide = ({issue, imageSrc, startFrame, date, weekday, issueNumber
             wordBreak: 'keep-all',
           }}
         >
-          {issue.title}
+          {nowrapNumbers(issue.title)}
         </div>
       </div>
 
@@ -501,7 +508,7 @@ const NewsIssueSlide = ({issue, imageSrc, startFrame, date, weekday, issueNumber
                       backgroundSize: `${progress * 100}% 100%`,
                     }}
                   >
-                    {s}{' '}
+                    {nowrapNumbers(s)}{' '}
                   </span>
                 );
               })}
@@ -689,7 +696,7 @@ const NewsIssueSlide = ({issue, imageSrc, startFrame, date, weekday, issueNumber
                     backgroundSize: `${progress * 100}% 100%`,
                   }}
                 >
-                  {s}{' '}
+                  {nowrapNumbers(s)}{' '}
                 </span>
               );
             })}
