@@ -26,6 +26,9 @@ jobs:
           IG_ACCESS_TOKEN_AIBRIEF: ${{ secrets.IG_ACCESS_TOKEN_AIBRIEF }}
         run: node scripts/insights.mjs
 
+      - name: KPI 집계
+        run: node scripts/kpi.mjs > metrics/kpi-latest.md && cat metrics/kpi-latest.md >> "$GITHUB_STEP_SUMMARY"
+
       - name: metrics/ 스냅샷 커밋
         run: |
           DATE=$(TZ=Asia/Seoul date +%F)

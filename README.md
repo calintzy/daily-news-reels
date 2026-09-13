@@ -31,6 +31,7 @@
 | `scripts/render.mjs` | 이미지 확인 → Remotion 렌더 → 음악 합성 → 프리뷰·검증 |
 | `scripts/publish.mjs` | 릴스 게시(프리플라이트·컨테이너 멱등·status 폴링·2단계 마커) |
 | `scripts/telegram.mjs` | 미리보기(`preview`)·실패 알림(`fail`) |
+| `scripts/kpi.mjs` | metrics/ 스냅샷 기반 계정별·기간별 KPI 집계(shares·saved per reach) |
 | `reels/` | Remotion 프로젝트(데이터 주입형 컴포지션 `HotIssueReelPhoto`) |
 | `.github/workflows/reels.yml` | build/publish 워크플로우 |
 
