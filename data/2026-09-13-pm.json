@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-13",
+  "slot": "pm",
+  "hookLine": "한국 영화 14년 만에 베니스 심사위원대상 받았습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "문화",
+      "kicker": "베니스 쾌거",
+      "title": "이창동 '가능한 사랑', 14년 만에 베니스 심사위원대상",
+      "summary": "'가능한 사랑'이 제83회 베니스 국제영화제에서 심사위원대상을 수상했습니다. 한국 영화가 베니스 본상을 받은 것은 2012년 이후 14년 만이며, 심사위원대상은 한국 최초입니다.",
+      "sourceTitle": "이창동 '가능한 사랑' 베니스 심사위원대상... 14년 만",
+      "sourceDesc": "이창동 감독의 신작 '가능한 사랑'이 제83회 베니스국제영화제에서 심사위원 대상을 수상했다. 한국 영화가 베니스영화제 경쟁 부문에서 수상한 것은 2012년 이후 14년 만이며, 심사위원대상 수상은 한국 영화 최초다.",
+      "sourceLink": "https://news.google.com/search?q=이창동+가능한사랑+베니스+심사위원대상&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Ornate Venetian gilded theater curtain parting to reveal a gleaming silver trophy on a stage pedestal, warm amber stage light illuminating red velvet, cinematic shadows and marble columns, documentary photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "후보자 사퇴",
+      "title": "용혜인 후보, 지명 14일 만에 자진 사퇴",
+      "summary": "후속: 용혜인 성평등가족부 장관 후보자가 지명 14일 만에 자진 사퇴 의사를 밝혔습니다. 겸직 논란 등 잇따른 의혹으로 결국 후보직을 내려놓았습니다.",
+      "sourceTitle": "용혜인 성평등부 장관 후보자, 지명 14일만에 자진 사퇴",
+      "sourceDesc": "용혜인 성평등가족부 장관 후보자가 13일 국회 소통관에서 기자회견을 열고 장관 후보직을 내려놓는다고 밝혔다. 지명 14일 만의 결정으로, 비례대표 의원직과 장관직 겸직 논란 등 잇따른 의혹이 사퇴 배경으로 꼽힌다.",
+      "sourceLink": "https://news.google.com/search?q=용혜인+장관+후보자+자진사퇴&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty government press briefing podium with a single microphone in a corridor, fluorescent overhead lighting, rows of empty chairs in background, institutional hallway stretching into distance, documentary photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "세금 환급",
+      "title": "국세청, 부부 공동명의 종부세 직권 환급 첫 시행",
+      "summary": "국세청장이 부부 공동명의 1주택자에게 유리한 종부세를 미리 안내한다고 밝혔습니다. 그동안 더 낸 종부세는 별도 신청 없이 직권으로 찾아 환급하겠다고 발표했습니다.",
+      "sourceTitle": "임광현 \"부부 공동명의 1주택자 유리한 종부세 안내…더 낸 세금은 환급\"",
+      "sourceDesc": "임광현 국세청장은 13일 부부 공동명의 1주택자에게 가장 유리한 종부세를 계산해 안내하고, 그동안 더 낸 종부세를 직권으로 환급하겠다고 발표했다. 올해 처음 도입하는 맞춤형 사전 통지 제도를 통해 납세자 편의를 높이겠다는 계획이다.",
+      "sourceLink": "https://news.google.com/search?q=임광현+국세청장+종부세+부부공동명의+환급&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Stack of official tax documents and sealed envelopes on a wooden government office desk, warm autumn light through frosted window glass, administrative setting with a filing cabinet in soft focus behind, documentary photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "안보",
+      "kicker": "北 탄도미사일",
+      "title": "북한, 23일 만에 동해상 탄도미사일 발사",
+      "summary": "북한이 23일 만에 동해상으로 탄도미사일을 다시 발사했습니다. 청와대는 긴급안보상황점검회의를 소집해 북한 도발에 대한 대응 태세를 점검했습니다.",
+      "sourceTitle": "北, 23일 만에 또 탄도미사일 발사…\"250km 비행\"(종합)",
+      "sourceDesc": "북한이 원산 일대에서 동해상으로 단거리 탄도미사일 수발을 발사했다. 청와대는 긴급안보상황점검회의를 즉각 소집해 대응 상황을 점검하고, 북한의 탄도미사일 발사는 유엔 안보리 결의를 위반하는 엄중한 행위라며 즉각 중단을 촉구했다.",
+      "sourceLink": "https://news.google.com/search?q=북한+탄도미사일+발사+동해&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Dramatic pre-dawn seascape with dark ocean horizon, faint orange light reflected on calm water, ominous overcast sky, distant coastal radar installation silhouette on a cliff, long exposure atmospheric documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "대입 구제",
+      "title": "교육부, 수시 먹통 수험생 구제 방안 발표",
+      "summary": "후속: 교육부가 수시 원서접수 시스템 장애로 접수를 마치지 못한 수험생들의 구제 방안을 발표했습니다. 접수를 완료하지 못한 수험생이 불이익을 받지 않도록 절차를 안내했습니다.",
+      "sourceTitle": "수시 원서접수 '먹통'…교육부 \"구제방안 마련해 오늘 발표\"",
+      "sourceDesc": "교육부가 수시 원서접수 시스템 장애로 접수를 완료하지 못한 수험생들을 위한 구제 방안을 13일 발표했다. 장애 발생으로 접수를 마치지 못한 수험생이 불이익을 받지 않도록 구제 절차와 방법을 안내한다.",
+      "sourceLink": "https://news.google.com/search?q=교육부+수시원서+먹통+구제방안&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a laptop keyboard showing a frozen error screen in cold blue light on a study desk surrounded by textbooks and application forms, late evening desk lamp glow contrasting with blue screen, academic home study environment, documentary photojournalism style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-13 저녁 브리핑\n\n1. 이창동 '가능한 사랑', 14년 만에 베니스 심사위원대상\n2. 용혜인 후보, 지명 14일 만에 자진 사퇴\n3. 국세청, 부부 공동명의 종부세 직권 환급 첫 시행\n4. 북한, 23일 만에 동해상 탄도미사일 발사\n5. 교육부, 수시 먹통 수험생 구제 방안 발표\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #베니스영화제 #이창동 #북한 #종부세\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
