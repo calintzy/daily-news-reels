@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-14",
+  "slot": "am",
+  "hookLine": "유가 100달러 돌파, 최고가격제로 방어합니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제·국제",
+      "kicker": "유가 100달러",
+      "title": "국제유가 100달러 돌파, 정부 최고가격제 가동",
+      "summary": "중동 지역 긴장으로 국제유가가 100달러를 돌파했습니다. 정부는 석유 최고가격제를 통해 국내 가격 충격을 완충하고 있습니다.",
+      "sourceTitle": "국제유가 100달러 재돌파 위기… 석유 최고가격제·도입선 다변화로 국내 충격 완충",
+      "sourceDesc": "호르무즈해협과 홍해를 둘러싼 긴장이 고조되면서 중동 지역의 공급차질 우려가 커진 영향으로 국제유가가 100달러를 돌파했다. 정부는 지난 3월부터 시행 중인 석유 최고가격제와 원유 도입선 다변화로 국내 충격을 완충하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=국제유가+100달러+최고가격제",
+      "imagePrompt": "Documentary-style close-up of a gasoline station price sign showing high fuel costs, dramatic side lighting, no people, no text, shallow depth of field, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 2,
+      "category": "사회·교육",
+      "kicker": "대입 수시 혼란",
+      "title": "수시 원서접수 전산장애, 1200명 구제 결정",
+      "summary": "수시 원서접수 마지막 날 유웨이어플라이 시스템 오류로 최대 1200명이 접수를 완료하지 못했습니다. 교육부는 16일까지 추가 접수 기회를 주기로 했습니다.",
+      "sourceTitle": "유웨이 전산장애 피해 최대 1200명…16일까지 추가 원서접수",
+      "sourceDesc": "2027학년도 대입 수시모집 원서접수 마지막 날인 지난 11일 오후 5시50분부터 6시20분쯤까지 유웨이어플라이 원서접수 시스템에 장애가 발생했다. 연장 안내를 확인하지 못하는 등의 이유로 접수를 완료하지 못한 학생은 최대 1200명에 이르는 것으로 추산됐다. 교육부와 한국대학교육협의회(대교협)는 전산기록을 통해 피해 사실이 확인된 수험생에게 오는 16일까지 원서를 접수할 기회를 주기로 했다.",
+      "sourceLink": "https://news.google.com/search?q=유웨이+전산장애+수시+원서",
+      "imagePrompt": "Empty computer lab with glowing monitors and dark atmosphere, tangled network cables on desk, no people, no text, blue ambient light, vertical 9:16 composition, documentary photography style"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "장관 후보 사퇴",
+      "title": "용혜인, 여성가족부 장관 후보 자진사퇴",
+      "summary": "용혜인 의원이 여성가족부 장관 후보직에서 자진 사퇴했습니다. 여당의 우려를 전달받아 장관직 수행이 어렵다고 판단했다고 밝혔습니다.",
+      "sourceTitle": "용혜인, 장관 후보직 자진사퇴…\"與우려 속 수행 어려워\"",
+      "sourceDesc": "용혜인이 여성가족부 장관 후보직에서 자진 사퇴했다. 용혜인은 13일 국회에서 기자회견을 열고 오늘부로 장관 후보직에서 물러나겠다고 밝혔다. 임명된 지 14일 만이다. 비례대표 의원직을 유지하면서 장관직을 겸직하려 했다는 논란 속에 여당에서 결단해달라는 전달을 받았다고 했다.",
+      "sourceLink": "https://news.google.com/search?q=용혜인+장관+후보+자진사퇴",
+      "imagePrompt": "Empty podium at a government press briefing room with row of microphones, vacant chairs in background, no people, no text, formal indoor lighting, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 4,
+      "category": "사회·미디어",
+      "kicker": "MBC 새 수장",
+      "title": "MBC 신임 사장 이성주 내정, 14일 주총서 확정",
+      "summary": "방송문화진흥회 이사회가 이성주 iMBC 이사를 MBC 신임 사장으로 내정했습니다. 14일 MBC 주주총회에서 공식 선임될 예정이며 임기는 3년입니다.",
+      "sourceTitle": "MBC 신임 사장에 이성주 iMBC 이사 내정",
+      "sourceDesc": "MBC 대주주인 방송문화진흥회 이사회는 13일 오후 임시 이사회에서 사장 최종 후보자 2명을 공개 면접하고 투표한 결과, 이성주 이사를 신임 사장 내정자로 선정했다. 이 내정자는 14일 열리는 MBC 주주총회에서 사장으로 공식 선임될 예정으로 임기는 3년이다.",
+      "sourceLink": "https://news.google.com/search?q=MBC+신임+사장+이성주+내정",
+      "imagePrompt": "Broadcast television studio with empty anchor desk and illuminated background set, cameras on tripods facing empty seats, no people, no text, professional studio lighting, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "생활·경제",
+      "kicker": "추석 민생 대책",
+      "title": "추석 연휴 민생 대책, 고속도로 무료·KTX 할인",
+      "summary": "정부가 추석 연휴 민생안정대책으로 고속도로 통행료 면제와 농축수산물 최대 50% 할인 등을 추진합니다. 전통시장에서도 구매액의 30%를 환급해주는 혜택이 제공됩니다.",
+      "sourceTitle": "2026 추석 할인 어디서 받을까…장보기 최대 50%·전통시장 환급·고속도로 통행료 면제",
+      "sourceDesc": "추석 연휴(9월 24~27일) 동안 고속도로 통행료가 전면 면제된다. 정부 추석 민생안정대책에는 KTX 요금 10% 인하, 농축수산물 최대 50% 할인, 전통시장 구매액 30% 환급(최대 2만 원), 온누리상품권 특별혜택 등이 포함됐다.",
+      "sourceLink": "https://news.google.com/search?q=추석+민생안정대책+2026",
+      "imagePrompt": "Colorful autumn harvest display at a traditional Korean market with persimmons and Korean pears arranged on wooden tables, no people, no text, warm golden-hour light, vertical 9:16 composition, documentary photography"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-14 아침 브리핑\n\n1. 국제유가 100달러 돌파, 정부 최고가격제 가동\n2. 수시 원서접수 전산장애, 1200명 구제 결정\n3. 용혜인, 여성가족부 장관 후보 자진사퇴\n4. MBC 신임 사장 이성주 내정, 14일 주총서 확정\n5. 추석 연휴 민생 대책, 고속도로 무료·KTX 할인\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #경제 #정치 #추석\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
