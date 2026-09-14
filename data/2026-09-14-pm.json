@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-14",
+  "slot": "pm",
+  "hookLine": "파주 냉동창고 살인, 오늘 구속 송치됩니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·범죄",
+      "kicker": "냉동창고 살인",
+      "title": "파주 냉동창고 살인, 경찰 계획범죄로 판단",
+      "summary": "경기북부경찰청이 파주 냉동창고 살인 카페 업주 남성을 구속 송치했습니다. 경찰은 피해 여성을 유인해 냉동창고에 가둔 과정에 계획성이 있다고 판단했습니다.",
+      "sourceTitle": "파주 냉동창고 살인 30대 남성…14일 구속 송치",
+      "sourceDesc": "경기북부경찰청은 14일 피유인자 살해 및 유가증권 위조·행사 등의 혐의를 받는 카페 업주 30대 남성 A씨를 구속 송치했다. 경찰은 이날 수사 결과 브리핑에서 카페 업주 A씨가 피해 여성을 카페로 유인해 냉동창고에 가둔 과정에 계획성이 있다고 판단했다고 밝혔다. 냉동창고에서는 액면가 기준 500억 원 상당의 위조 백화점 상품권이 발견됐다.",
+      "sourceLink": "https://news.google.com/search?q=파주+냉동창고+살인+구속+송치",
+      "imagePrompt": "Dark empty industrial walk-in freezer room with frosted metal walls and heavy door handle, cold blue-white lighting casting long shadows, condensation on metal surfaces, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 2,
+      "category": "경제·금융",
+      "kicker": "주식 저녁 거래",
+      "title": "퇴근 후 주식 거래, 애프터마켓 오늘 개장",
+      "summary": "한국거래소가 오늘부터 오후 4시부터 8시까지 주식 실시간 거래가 가능한 애프터마켓을 개장했습니다. 코스피·코스닥 상장 주식이 대상이며 정규장과 같은 접속매매 방식으로 운영됩니다.",
+      "sourceTitle": "한국거래소 애프터마켓 오늘 개장…오후 4시부터 8시까지 주식 거래 가능",
+      "sourceDesc": "한국거래소는 14일부터 오후 4시부터 8시까지 코스피·코스닥 상장 주식과 주식예탁증서(DR)를 실시간으로 거래할 수 있는 애프터마켓을 개장했다. 기존에는 오후 4~6시 10분 단위 단일가 방식으로 시간외 거래가 이뤄졌지만, 앞으로는 정규장과 마찬가지로 매수·매도 호가가 맞으면 실시간으로 체결되는 접속매매 방식으로 바뀐다. ETF·ETN 등은 거래 대상에서 제외된다.",
+      "sourceLink": "https://news.google.com/search?q=한국거래소+애프터마켓+개장+2026",
+      "imagePrompt": "Illuminated digital stock exchange ticker board with glowing screens reflecting on polished floor in an empty trading hall at dusk, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 3,
+      "category": "정치·외교",
+      "kicker": "핵심광물 외교",
+      "title": "이 대통령, 중앙아 5개국과 릴레이 정상회담",
+      "summary": "이재명 대통령이 중앙아시아 5개국 정상과 사흘간 연쇄 정상회담을 시작했습니다. 핵심광물·에너지 공급망 다변화가 핵심 의제이며 16일에는 첫 한-중앙아시아 정상회의를 주재합니다.",
+      "sourceTitle": "李대통령, 14~16일 첫 한-중앙아 정상회의…핵심광물 공급망 넓힌다",
+      "sourceDesc": "이재명 대통령이 14일부터 사흘간 중앙아시아 5개국 정상과 양자 정상회담을 갖고 릴레이 정상외교에 돌입했다. 이 대통령은 오는 16일 '제1차 한-중앙아시아 정상회의'를 주재한다. 핵심광물·에너지를 중심으로 공급망을 다변화하는 것이 핵심 의제이다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+중앙아시아+정상회의+핵심광물",
+      "imagePrompt": "Diplomatic conference room with mineral ore samples and crystal specimens arranged on a table next to a globe, cool formal lighting, polished wood surface, no people, no text, vertical 9:16 composition, documentary photography style"
+    },
+    {
+      "rank": 4,
+      "category": "사회·재난",
+      "kicker": "부안 화재 사망",
+      "title": "전북 부안 아파트 화재, 모자 사상",
+      "summary": "전북 부안군 아파트에서 불이 나 40대 여성이 숨지고 7세 아들이 중상을 입었습니다. 아이는 베란다 밖으로 뛰어내려 화단에서 구조됐으며 병원에서 치료받고 있습니다.",
+      "sourceTitle": "부안 아파트 새벽 화재…40대 여성 숨지고 7세 아들 중상",
+      "sourceDesc": "9월 13일 오전 0시 56분쯤 전북 부안군 부안읍의 한 아파트 3층에서 화재가 발생했다. 40대 여성 A씨가 세대 베란다에서 숨진 채 발견됐고, 7세 아들 B군은 아파트 화단에서 구조됐다. 불길을 피해 베란다 밖으로 뛰어내린 B군은 몸 곳곳에 찰과상과 2도 화상을 입고 병원으로 이송돼 치료받고 있다.",
+      "sourceLink": "https://news.google.com/search?q=부안+아파트+화재+40대+사망",
+      "imagePrompt": "Scorched apartment balcony railing with burn marks in an urban residential block at night, emergency lighting in background, dark soot-streaked facade, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 5,
+      "category": "생활·사회",
+      "kicker": "지하철 부정승차",
+      "title": "서울 지하철 부정승차 3년간 95억, 18억 미환수",
+      "summary": "국회 국정감사 자료에 따르면 서울 지하철 부정승차 부가운임이 최근 3년간 95억 원에 달했습니다. 이 중 18억 원이 미환수 상태이며 징수율도 낮아지고 있어 대책 마련이 필요합니다.",
+      "sourceTitle": "서울 지하철 부정승차 3년간 '95억원'…18억원 못 걷어",
+      "sourceDesc": "국회 국토교통위원회 소속 더불어민주당 염태영 의원이 서울교통공사로부터 받은 국정감사 자료에 따르면, 2023년부터 2025년까지 3년간 서울 지하철 부정승차 부가운임 부과액은 95억 원에 달한다. 실제 징수는 77억여 원에 그쳐 18억여 원이 미환수 상태다. 건수 기준 징수율도 2023년 85%에서 2025년 76%로 하락했다.",
+      "sourceLink": "https://news.google.com/search?q=서울+지하철+부정승차+95억+미환수",
+      "imagePrompt": "Seoul subway station platform at night with empty turnstile barriers and illuminated fare gates casting blue light on tiled floor, no people, no text, vertical 9:16 composition, documentary photography"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-14 저녁 브리핑\n\n1. 파주 냉동창고 살인, 경찰 계획범죄로 판단\n2. 퇴근 후 주식 거래, 애프터마켓 오늘 개장\n3. 이 대통령, 중앙아 5개국과 릴레이 정상회담\n4. 전북 부안 아파트 화재, 모자 사상\n5. 서울 지하철 부정승차 3년간 95억, 18억 미환수\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #사건 #경제 #교통\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail", "google_news": "fail" },
+    "signalHits": []
+  }
+}
