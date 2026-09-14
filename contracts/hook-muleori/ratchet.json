@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "target": {
+    "config": "promptfooconfig.yaml",
+    "prompts": [
+      "prompt.txt"
+    ],
+    "probes": [
+      "asserts.js"
+    ],
+    "tests": "tests.yaml"
+  },
+  "activePrompt": "prompt.txt",
+  "current": {
+    "prompts": {
+      "prompt.txt": "sha256:efd627b5053af6febeaef68367aedfa1fc06931639385cc86eac8f88d1ad5329"
+    },
+    "probes": {
+      "asserts.js": "sha256:4eaec21a8db97fd40b818810a0a8374da5697aab9e773877bf7c633a5c516136"
+    },
+    "probeDeps": {
+      "../../scripts/rewrite-probes.cjs": "sha256:756607693158db784cdc667a990c071e0900bc5bffdfc95b8ddf1d36cfd20986"
+    }
+  },
+  "frozen": [
+    {
+      "id": "2026-09-14T12-55-15Z",
+      "promptId": "prompt.txt",
+      "note": "물어오리 전용 훅 v2 초기 동결 4건(미완결·당사자·수치대비 3형태 + dupWithTitle 프로브)",
+      "promptHash": "sha256:efd627b5053af6febeaef68367aedfa1fc06931639385cc86eac8f88d1ad5329",
+      "probeHash": "sha256:0a80ed19407b706d7a0cde8e51ab668fdd83d61730b0a8b99774ff602febeb14",
+      "depsHash": "sha256:a37a2216e0ef7d9ea93885f897cc910e363e3e5619ce2f005fa09c0895bc294d",
+      "cases": {
+        "08-08 pm 폭염 사망 23명 (누적 수치)": {
+          "pass": true,
+          "score": 1,
+          "output": "사망자가 23명 나온 뒤, 정부가 움직였습니다."
+        },
+        "08-09 am 여수 모터보트 전복 (사건·사망 수치)": {
+          "pass": true,
+          "score": 1,
+          "output": "여수 앞바다서 모터보트 전복, 2명이 숨졌습니다."
+        },
+        "08-09 pm 폭염 지속 (수치 2건·절기)": {
+          "pass": true,
+          "score": 1,
+          "output": "온열질환자 2872명, 아직 안 끝났습니다"
+        },
+        "08-10 am 인천 존속살해 (강력사건)": {
+          "pass": true,
+          "score": 1,
+          "output": "인천 10대, 어머니와 다투다 벌인 일입니다."
+        }
+      }
+    }
+  ],
+  "failCases": []
+}

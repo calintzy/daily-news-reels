@@ -95,8 +95,10 @@
 
 각 기사의 title·summary는 반드시 `contracts/rewrite/prompt.txt`를 읽고 그 규칙을 그대로 적용해 작성한다.
 (이미지를 쓰지 않으므로 imagePrompt 관련 지시는 적용하지 않는다.)
-hookLine은 `contracts/hook/prompt.txt`가 정본이다. **두 정본은 물어오리와 공유한다**(ratchetlock 계약으로 회귀 관리).
-AI 트랙 전용 프롬프트를 따로 만들지 않는다.
+재작성 정본(`contracts/rewrite/prompt.txt`)은 물어오리와 공유한다(ratchetlock 계약으로 회귀 관리).
+hookLine 정본은 `contracts/hook/prompt.txt`이며 **2026-09-14부터 오리 기자 전용이다** — 물어오리는 별도 계약
+`contracts/hook-muleori/prompt.txt`(미완결형 훅 v2)를 쓴다. 물어오리 쪽 훅 규칙이 바뀌어도 이 정본은 건드리지 않는다.
+AI 트랙이 새로 만드는 전용 프롬프트는 없다 — 위 두 정본만 쓴다.
 
 AI 트랙 추가 조항:
 
