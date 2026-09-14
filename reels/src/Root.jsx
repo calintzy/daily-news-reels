@@ -2,7 +2,9 @@ import React from 'react';
 import {Composition} from 'remotion';
 import {HotIssueReelPhoto} from './HotIssueReelPhoto.jsx';
 import {CardNewsReel} from './CardNewsReel.jsx';
+import {SingleIssueReel} from './SingleIssueReel.jsx';
 import {totalFrames} from './timing.js';
+import {singleTotalFrames} from './singleFormat.js';
 import {defaultInputProps} from './defaultProps.js';
 
 export const Root = () => {
@@ -31,6 +33,16 @@ export const Root = () => {
         calculateMetadata={({props}) => ({
           durationInFrames: totalFrames((props.issues || []).length),
         })}
+      />
+      {/* 물어오리 단일 이슈 18초 포맷(실험) — props 계약은 HotIssueReelPhoto와 동일(rank1만 사용). */}
+      <Composition
+        id="SingleIssueReel"
+        component={SingleIssueReel}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={singleTotalFrames}
+        defaultProps={defaultInputProps}
       />
     </>
   );

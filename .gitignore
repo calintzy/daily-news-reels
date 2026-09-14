@@ -4,3 +4,4 @@ reels/out/
 reels/public/img/current/
 *.log
 .DS_Store
+.claude/

@@ -12,7 +12,7 @@ import {
 import {issueDuration, hookDuration} from './timing.js';
 import {nowrapNumbers} from './nowrapNumbers.jsx';
 
-const fontFamily =
+export const fontFamily =
   '"Noto Sans CJK KR","Apple SD Gothic Neo","SF Pro Display","Helvetica Neue",sans-serif';
 
 // 이미지 경로: 렌더 전에 스크립트가 reels/public/img/current/ 로 복사한다.
@@ -21,7 +21,7 @@ const imgSrc = (imageDir, name) => staticFile(`${imageDir}/${name}.png`);
 
 // 브랜드 기본값 = 물어오리(기존 하드코딩 값 그대로).
 // brand prop을 주지 않으면 렌더 결과가 멀티 계정화 이전과 완전히 동일해야 한다(하위 호환).
-const DEFAULT_BRAND = {
+export const DEFAULT_BRAND = {
   name: '물어오리',
   handle: '@muleori.news',
   logo: 'brand/duck.png',
@@ -55,14 +55,14 @@ const titleFontSize = (title) => ([...String(title)].length > 24 ? 72 : 88);
 // 임시 치환해 분리 대상에서 제외한 뒤 복원한다(2026-09-13: "100.01달러"가 "100."/"01달러"로
 // 서로 다른 <div>에 쪼개져 줄바꿈되는 버그의 root cause).
 const DECIMAL_POINT_PLACEHOLDER = '';
-const splitSentences = (text) => {
+export const splitSentences = (text) => {
   const masked = String(text).replace(/(\d)\.(?=\d)/g, `$1${DECIMAL_POINT_PLACEHOLDER}`);
   const matches = masked.match(/[^.!?]+[.!?]+|[^.!?]+$/g);
   const restore = (part) => part.replace(new RegExp(DECIMAL_POINT_PLACEHOLDER, 'g'), '.');
   return matches ? matches.map((part) => restore(part.trim())) : [text];
 };
 
-const PhotoBackground = ({src, frame, startFrame, panBias = 0}) => {
+export const PhotoBackground = ({src, frame, startFrame, panBias = 0}) => {
   const localFrame = frame - startFrame;
   const zoom = interpolate(localFrame, [0, issueDuration], [1.02, 1.12], {
     extrapolateLeft: 'clamp',

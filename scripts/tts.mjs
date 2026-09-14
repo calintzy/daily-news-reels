@@ -9,6 +9,7 @@ import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import { pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
+import { SINGLE_CTA, BEAT_TAIL_SEC } from "../reels/src/singleFormat.js";
 
 // 2026-08-17 보이스 비교 청취(후보 5종)에서 선정 — SunHi는 AI 티 과다로 교체
 const VOICE = "ko-KR-HyunsuMultilingualNeural";
@@ -16,6 +17,7 @@ const SLIDE_MS = 5300; // 이슈 슬라이드 1장 = 159f/30fps
 const BUDGET_SEC = 5.0; // 세그먼트 1개에 허용하는 낭독 예산
 const ATEMPO_MAX = 1.4;
 const MIN_SEC = 0.5; // 이보다 짧으면 무음 의심
+const FPS = 30; // 비트 모드에서 프레임→초 변환용
 
 function run(cmd, args, opts = {}) {
   const out = execFileSync(cmd, args, { stdio: ["ignore", "pipe", "pipe"], ...opts });
@@ -36,27 +38,54 @@ export function normalizeForSpeech(text) {
     .trim();
 }
 
-export async function generateNarration(data, outDir) {
-  mkdirSync(outDir, { recursive: true });
-  const issues = [...(data.issues || [])].sort((a, b) => a.rank - b.rank);
-
-  // 대본 구성: 1번은 hookLine(= rank1 결론이라 이슈1 title은 낭독하지 않는다).
-  // 2번 이후는 issue.narration(구어체 나레이션 문장)이며 title 폴백을 두지 않는다 —
-  // 화면 자막을 그대로 읽는 약한 대본으로 A/B 실험이 오염되는 것을 원천 차단하려는 의도다.
-  // narration이 없으면 예외를 던져 render.mjs의 기존 catch가 control-fallback + 텔레그램 경고로 처리한다.
-  const scripts = issues.map((issue, idx) => {
-    if (idx === 0) return data.hookLine;
+// 슬라이드 모드(기본) 대본: 1번은 hookLine(= rank1 결론이라 이슈1 title은 낭독하지 않는다).
+// 2번 이후는 issue.narration(구어체 나레이션 문장)이며 title 폴백을 두지 않는다 —
+// 화면 자막을 그대로 읽는 약한 대본으로 A/B 실험이 오염되는 것을 원천 차단하려는 의도다.
+// narration이 없으면 예외를 던져 render.mjs의 기존 catch가 control-fallback + 텔레그램 경고로 처리한다.
+function buildSlidePlan(data, issues) {
+  return issues.map((issue, idx) => {
+    if (idx === 0) {
+      return { text: data.hookLine, delayMs: 0, budgetSec: BUDGET_SEC };
+    }
     const narration = typeof issue.narration === "string" ? issue.narration.trim() : "";
     if (!narration) {
       throw new Error(`narration 없음(rank ${issue.rank ?? idx + 1}) — TTS 대본 불가`);
     }
-    return narration;
+    return { text: narration, delayMs: idx * SLIDE_MS, budgetSec: BUDGET_SEC };
   });
+}
+
+// 비트 모드(단일 이슈 18초 포맷) 대본: B1 hookLine / B2 rank1 narration / B4 CTA 고정문.
+// B3(summary 구간)는 무낭독이다 — 화면 문장은 평균 44자라 4.7초 예산에 들어가지 않는다.
+// narration이 없으면 B2만 건너뛴다(전체 폴백이 아니다 — 훅과 CTA는 그대로 낭독한다).
+function buildBeatPlan(data, issues, beats) {
+  const startMs = (i) => (beats[i] / FPS) * 1000;
+  const budgetSec = (i) => (beats[i + 1] - beats[i]) / FPS - BEAT_TAIL_SEC;
+
+  const plan = [{ text: data.hookLine, delayMs: startMs(0), budgetSec: budgetSec(0) }];
+  const rank1 = issues[0] || {};
+  const narration = typeof rank1.narration === "string" ? rank1.narration.trim() : "";
+  if (narration) {
+    plan.push({ text: narration, delayMs: startMs(1), budgetSec: budgetSec(1) });
+  } else {
+    console.warn("경고: rank1 narration 없음 — B2 무낭독으로 진행(훅·CTA만 낭독)");
+  }
+  plan.push({ text: SINGLE_CTA, delayMs: startMs(3), budgetSec: budgetSec(3) });
+  return plan;
+}
+
+// opts.beats(프레임 경계 배열)가 있으면 비트 모드, 없으면 기존 5.3초 슬라이드 모드.
+export async function generateNarration(data, outDir, opts = {}) {
+  mkdirSync(outDir, { recursive: true });
+  const issues = [...(data.issues || [])].sort((a, b) => a.rank - b.rank);
+  const beats = Array.isArray(opts.beats) && opts.beats.length > 1 ? opts.beats : null;
+
+  const plan = beats ? buildBeatPlan(data, issues, beats) : buildSlidePlan(data, issues);
 
   const segments = [];
-  for (let idx = 0; idx < scripts.length; idx++) {
+  for (let idx = 0; idx < plan.length; idx++) {
     const k = idx + 1;
-    const spoken = normalizeForSpeech(scripts[idx]);
+    const spoken = normalizeForSpeech(plan[idx].text);
     console.log(`정규화 seg-${k}: ${spoken}`);
 
     // 인자 파싱 사고 방지 — 텍스트는 파일로 넘긴다
@@ -77,10 +106,17 @@ export async function generateNarration(data, outDir) {
       throw new Error(`seg-${k} 길이 이상(${durSec}s) — 무음 의심`);
     }
 
+    const budget = plan[idx].budgetSec;
     let atempo = 1;
-    if (durSec > BUDGET_SEC) {
-      const need = durSec / BUDGET_SEC;
+    if (durSec > budget) {
+      const need = durSec / budget;
       if (need > ATEMPO_MAX) {
+        // 비트 모드는 넘침을 허용하지 않는다 — 다음 비트 화면과 낭독이 어긋나면 포맷이 무너진다.
+        if (beats) {
+          throw new Error(
+            `seg-${k} ${durSec.toFixed(2)}s — 필요 atempo ${need.toFixed(2)}가 상한 ${ATEMPO_MAX} 초과(비트 예산 ${budget.toFixed(2)}s)`
+          );
+        }
         console.warn(
           `경고: seg-${k} ${durSec.toFixed(2)}s — 필요 atempo ${need.toFixed(2)}가 상한 ${ATEMPO_MAX} 초과, ${ATEMPO_MAX} 적용(넘침 허용)`
         );
@@ -89,9 +125,10 @@ export async function generateNarration(data, outDir) {
         atempo = need;
       }
     }
-    // ponytail: 상한 1.4 초과분은 넘침 허용 — 실데이터 최악 6.85s도 1.4 내 수용, 문제 생기면 절단으로
+    // ponytail: 슬라이드 모드 한정으로 상한 1.4 초과분은 넘침 허용 — 실데이터 최악 6.85s도
+    // 1.4 내 수용, 문제 생기면 절단으로. 비트 모드는 위에서 throw하므로 이 완화가 적용되지 않는다.
 
-    segments.push({ file: mp3Path, delayMs: idx * SLIDE_MS, durSec, atempo });
+    segments.push({ file: mp3Path, delayMs: plan[idx].delayMs, durSec, atempo });
   }
 
   return segments;

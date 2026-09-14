@@ -14,9 +14,10 @@ import {
   readdirSync,
 } from "node:fs";
 import { dirname, join, basename } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync, spawnSync } from "node:child_process";
 import { generateNarration } from "./tts.mjs";
+import { SINGLE_BEATS, singleTotalFrames, BEAT_TAIL_SEC } from "../reels/src/singleFormat.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -79,6 +80,80 @@ function resolveArm(stem, slot, account) {
   return even ? "tts" : "control";
 }
 
+// 포맷 결정: 'single'(단일 이슈 18초 실험) | 'digest'(기존 5이슈 28초).
+// REEL_FORMAT_MULEORI는 물어오리 전용 레버다 — 오리 기자(aibrief)는 값이 켜져 있어도 무시한다.
+export function resolveFormat(account) {
+  const raw = process.env.REEL_FORMAT_MULEORI;
+  if (!raw) return "digest";
+  if (raw !== "single") {
+    console.warn(`경고: REEL_FORMAT_MULEORI="${raw}" 알 수 없는 값 — digest 유지`);
+    return "digest";
+  }
+  if (account !== "muleori") {
+    console.warn("경고: REEL_FORMAT_MULEORI=single은 물어오리 전용 — 오리 기자는 digest 유지");
+    return "digest";
+  }
+  return "single";
+}
+
+// single 포맷의 팔 결정 — 짝홀 카운터밸런싱 없이 킬스위치만 본다(포맷 실험과 나레이션은 별개 레버).
+function resolveSingleArm() {
+  const forced = process.env.REELS_ARM;
+  if (forced === "tts" || forced === "control") return forced;
+  return process.env.TTS_ENABLED === "1" ? "tts" : "control";
+}
+
+// 비트 예산 드리프트 감지 단언.
+// 실방어선은 tts.mjs의 ATEMPO_MAX throw다 — tts는 atempo=durSec/budget로 예산에 정확히 맞추므로
+// 정상 경로에서 이 단언은 절대 걸리지 않는다. 이 함수의 목적은 두 파일의 예산 공식(비트 경계·
+// BEAT_TAIL_SEC·fps)이 갈라졌을 때를 잡는 것이다. 위반이면 throw → 호출부(generateNarration
+// try 블록)에서 control 폴백으로 떨어진다.
+export function assertSegmentBudgets(segments, beatsFrames, fps = 30) {
+  for (let i = 0; i < segments.length; i++) {
+    const s = segments[i];
+    // 이 세그먼트가 시작하는 비트의 다음 경계를 찾는다(delayMs 기준).
+    const startSec = s.delayMs / 1000;
+    const nextBoundary = beatsFrames.map((f) => f / fps).find((sec) => sec > startSec + 1e-6);
+    if (nextBoundary === undefined) {
+      throw new Error(`seg-${i + 1} 시작 ${startSec.toFixed(2)}s가 비트 경계 밖`);
+    }
+    const budget = nextBoundary - startSec - BEAT_TAIL_SEC;
+    const played = s.durSec / (s.atempo || 1);
+    if (played > budget + 1e-6) {
+      throw new Error(
+        `seg-${i + 1} 실재생 ${played.toFixed(2)}s > 비트 예산 ${budget.toFixed(2)}s (시작 ${startSec.toFixed(2)}s)`
+      );
+    }
+  }
+  return true;
+}
+
+// 나레이션 창 검사 — 세그먼트 시작 1초 구간의 평균 음량으로 낭독 존재를 확인한다.
+// 판정 줄은 그대로 stdout에 남기고 전체 통과 여부만 boolean으로 돌려준다.
+export function checkNarrationWindows(mp4, segments) {
+  let narOk = true;
+  for (let i = 0; i < segments.length; i++) {
+    const t = (segments[i].delayMs / 1000).toFixed(2);
+    const err = runStderr("ffmpeg", [
+      "-hide_banner",
+      "-nostats",
+      "-ss", t,
+      "-t", "1",
+      "-i", mp4,
+      "-map", "a:0",
+      "-af", "volumedetect",
+      "-f", "null",
+      "-",
+    ]);
+    const m = /mean_volume:\s*(-?[\d.]+) dB/.exec(err);
+    const mean = m ? Number(m[1]) : -Infinity;
+    const ok = mean >= -28;
+    if (!ok) narOk = false;
+    console.log(`창${i + 1}: ${m ? mean.toFixed(1) : "-inf"}dB ${ok ? "OK" : "FAIL"}`);
+  }
+  return narOk;
+}
+
 // TTS 필터 그래프 — 입력 0=무음영상, 1=음악, 2..=세그먼트 mp3
 // 스트림은 전부 [N:a]로 명시한다(음악 mp3에 커버아트 스트림이 있어 자동 선택 금지).
 function buildTtsFilter(segments, expectedSec, fadeStart) {
@@ -117,7 +192,10 @@ async function main() {
   // 계정: account 없거나 "muleori"면 물어오리(하위 호환). "aibrief"만 오리 기자로 분기한다.
   const account = data.account === "aibrief" ? "aibrief" : "muleori";
   const issues = data.issues || [];
-  const totalFrames = COVER_D + ISSUE_D * issues.length + OUTRO_D;
+  // 포맷: single(단일 이슈 18초 실험, 물어오리 전용) | digest(기존). 플래그 미설정이면 digest.
+  const format = resolveFormat(account);
+  const totalFrames =
+    format === "single" ? singleTotalFrames : COVER_D + ISSUE_D * issues.length + OUTRO_D;
   const expectedSec = totalFrames / FPS;
 
   // 1) 이슈 이미지 확인 (커버 폐지 — 이슈 5장만)
@@ -163,7 +241,12 @@ async function main() {
   };
   // 계정별 컴포지션: 오리 기자(aibrief)는 신문 에디토리얼 스타일(CardNewsReel),
   // 물어오리는 기존 사진 풀블리드 스타일(HotIssueReelPhoto) 그대로 유지.
-  const compositionId = account === "aibrief" ? "CardNewsReel" : "HotIssueReelPhoto";
+  const compositionId =
+    format === "single"
+      ? "SingleIssueReel"
+      : account === "aibrief"
+        ? "CardNewsReel"
+        : "HotIssueReelPhoto";
   console.log(`Remotion 렌더 시작… (${compositionId})`);
   run(
     "node",
@@ -186,12 +269,20 @@ async function main() {
   const fadeStart = Math.max(0, expectedSec - 2).toFixed(2);
 
   // TTS 나레이션 A/B — 팔 결정 후, tts 팔이면 세그먼트 생성(실패 시 control 폴백)
-  const arm = resolveArm(stem, slot, account);
+  const arm = format === "single" ? resolveSingleArm() : resolveArm(stem, slot, account);
   let armRecord = arm;
   let segments = null;
   if (arm === "tts") {
     try {
-      segments = await generateNarration(data, join(REELS, "out", `tts-${stem}`));
+      segments = await generateNarration(
+        data,
+        join(REELS, "out", `tts-${stem}`),
+        format === "single" ? { beats: SINGLE_BEATS } : {}
+      );
+      if (format === "single") {
+        assertSegmentBudgets(segments, SINGLE_BEATS, FPS);
+        console.log(`비트 예산 단언: 세그먼트 ${segments.length}개 OK`);
+      }
     } catch (e) {
       segments = null;
       armRecord = "control-fallback";
@@ -239,17 +330,32 @@ async function main() {
   writeFileSync(join(armsDir, `${stem}.txt`), `${armRecord}\n`, "utf-8");
   console.log(`팔: ${armRecord}`);
 
+  // 포맷 기록물 — 18초 실험 평가의 진실원. 두 계정 모두 한 디렉토리에 기록한다
+  // (스템에 ai- 접두사가 있어 계정 구분이 가능하다). arms와 동일하게 무한 누적·보존.
+  const formatsDir = join(ROOT, "docs", "formats");
+  mkdirSync(formatsDir, { recursive: true });
+  writeFileSync(join(formatsDir, `${stem}.txt`), `${format}\n`, "utf-8");
+  console.log(`포맷: ${format}`);
+
   // 4) 프레임 캡처 (hook / issue1 / outro)
   const prevDir = join(ROOT, "docs", "previews");
   mkdirSync(prevDir, { recursive: true });
   const hookT = (HOOK_D / 2) / FPS; // 훅 오버레이 중반
   const issue1T = (HOOK_D + (ISSUE_D - HOOK_D) / 2) / FPS; // 훅 걷힌 뒤 이슈1
   const outroT = (ISSUE_D * issues.length + OUTRO_D / 2) / FPS;
-  const shots = [
-    ["hook", hookT.toFixed(2)],
-    ["issue1", issue1T.toFixed(2)],
-    ["outro", outroT.toFixed(2)],
-  ];
+  // single 포맷은 비트 구조가 달라 캡처 시점을 고정한다: 훅(B1) / 제목(B2) / CTA(B4).
+  const shots =
+    format === "single"
+      ? [
+          ["hook", "2.00"],
+          ["issue1", "6.50"],
+          ["outro", "16.00"],
+        ]
+      : [
+          ["hook", hookT.toFixed(2)],
+          ["issue1", issue1T.toFixed(2)],
+          ["outro", outroT.toFixed(2)],
+        ];
   for (const [name, t] of shots) {
     run("ffmpeg", [
       "-y",
@@ -313,27 +419,7 @@ async function main() {
 
   // 5-2) tts 팔(폴백 아님)이면 세그먼트 시작 창의 음량으로 나레이션 존재를 확인
   if (armRecord === "tts" && segments) {
-    let narOk = true;
-    for (let i = 0; i < segments.length; i++) {
-      const t = (segments[i].delayMs / 1000).toFixed(2);
-      const err = runStderr("ffmpeg", [
-        "-hide_banner",
-        "-nostats",
-        "-ss", t,
-        "-t", "1",
-        "-i", finalMp4,
-        "-map", "a:0",
-        "-af", "volumedetect",
-        "-f", "null",
-        "-",
-      ]);
-      const m = /mean_volume:\s*(-?[\d.]+) dB/.exec(err);
-      const mean = m ? Number(m[1]) : -Infinity;
-      const ok = mean >= -28;
-      if (!ok) narOk = false;
-      console.log(`창${i + 1}: ${m ? mean.toFixed(1) : "-inf"}dB ${ok ? "OK" : "FAIL"}`);
-    }
-    if (!narOk) {
+    if (!checkNarrationWindows(finalMp4, segments)) {
       console.error("나레이션 검증 실패");
       process.exit(1);
     }
@@ -342,4 +428,7 @@ async function main() {
   console.log("render: PASS");
 }
 
-main();
+// 단독 CLI로 실행할 때만 main 실행 (export한 함수를 import해 프로브할 때는 실행하지 않는다)
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main();
+}

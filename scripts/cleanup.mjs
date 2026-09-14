@@ -6,7 +6,8 @@
 //
 // 배경: 영상은 발행 순간 인스타가 한 번 가져가면 이후 불필요 — docs/videos·assets/img
 // 누적이 GitHub Pages 배포를 지연시켜 발행 프리플라이트를 타임아웃시킨다(2026-08-19 실장애).
-// data/, published/ 마커 자체, docs/arms/, contracts/, metrics/, reports/는 건드리지 않는다.
+// data/, published/ 마커 자체, docs/arms/, docs/formats/, contracts/, metrics/, reports/는 건드리지 않는다.
+// (docs/formats/는 arms와 동일 정책 — 포맷 실험 평가의 진실원이라 무한 누적·보존한다.)
 
 import { readdirSync, readFileSync, statSync, existsSync, unlinkSync, rmSync } from "node:fs";
 import { dirname, join } from "node:path";
