@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-14",
+  "account": "aibrief",
+  "hookLine": "오픈AI IPO, 내년으로 미뤄졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 기업",
+      "kicker": "상장 연기",
+      "title": "오픈AI, IPO 2027년으로 전격 연기",
+      "summary": "오픈AI가 기업공개(IPO) 시기를 2027년으로 미뤘습니다. 샘 올트먼 CEO는 AI 안전 정렬 요건을 충족하는 작업이 남아 지금 상장은 시기상조라고 밝혔습니다.",
+      "sourceTitle": "OpenAI CEO Sam Altman Says IPO Won't Be Until 2027 Due to AI Safety Concerns",
+      "sourceDesc": "OpenAI will not go public in 2026 given the safety work it needs to do, Sam Altman told Fortune. He said right now would be an ill-advised moment to go public, and the company has a lot of work to do, including meeting the safety and alignment requirements of this moment.",
+      "sourceLink": "https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune"
+    },
+    {
+      "rank": 2,
+      "category": "AI 안전",
+      "kicker": "연쇄 사임",
+      "title": "앤트로픽·구글 AI 안전 연구원 잇단 사임",
+      "summary": "앤트로픽과 구글 딥마인드 AI 안전 연구원 여러 명이 독립 연구 기관으로 자리를 옮겼습니다. AI 역량 발전이 안전 조치보다 빠르게 진행되고 있다는 우려가 확산되고 있습니다.",
+      "narration": "앤트로픽과 구글 연구원들이 잇달아 사임했습니다.",
+      "sourceTitle": "More Researchers Are Quitting Anthropic And Google. Warning About Where AI Is Headed Escalate.",
+      "sourceDesc": "Two AI safety researchers left Anthropic and Google DeepMind for METR, citing concerns about increasingly capable AI systems developing faster than safeguards and public oversight. Anthropic's AI safety lead has also resigned, saying his final day was Monday.",
+      "sourceLink": "https://www.ibtimes.com/more-researchers-are-quitting-anthropic-google-warning-about-where-ai-is-headed-escalate-3807369"
+    },
+    {
+      "rank": 3,
+      "category": "규제·정책",
+      "kicker": "행동규범 발표",
+      "title": "마이크로소프트 CEO, AI 속도 조절 표명",
+      "summary": "마이크로소프트 나델라가 AI 개발 속도 조절을 지지하며 자사 MAI 모델 행동규범을 공개했습니다. 나델라는 초지능 AI가 인류에 도움이 안 되면 추구할 가치가 없다고 밝혔습니다.",
+      "narration": "마이크로소프트가 AI 행동규범을 오늘 발표했습니다.",
+      "sourceTitle": "Microsoft chief backs pacing AI, independent evaluators for superintelligence",
+      "sourceDesc": "Microsoft CEO Satya Nadella welcomed deliberate pacing needed to get alignment right and announced a Code of Conduct for Microsoft's MAI models for public consultation. He said any pursuit of superintelligence that is not helping humanity and under human control is not worth pursuing.",
+      "sourceLink": "https://www.anews.com.tr/tech/2026/09/14/microsoft-chief-backs-pacing-ai-independent-evaluators-for-superintelligence"
+    },
+    {
+      "rank": 4,
+      "category": "AI 기업",
+      "kicker": "첫 흑자",
+      "title": "앤트로픽 분기 첫 흑자, 매출 14배 급등",
+      "summary": "앤트로픽이 창사 이래 처음으로 분기 흑자를 달성했습니다. 2026년 2분기 매출이 전년 동기 대비 14배 이상 늘었으며, 조정 영업이익도 처음으로 플러스를 기록했습니다.",
+      "narration": "앤트로픽이 창사 이래 처음으로 분기 흑자를 냈습니다.",
+      "sourceTitle": "Anthropic's quarterly revenue passed $11.5bn, up more than 14-fold",
+      "sourceDesc": "Anthropic reported preliminary revenue of more than $11.5 billion for Q2 2026, up from $787 million in Q2 2025 and $4.73 billion in Q1 2026. The company posted positive adjusted operating income in the second quarter, marking the first profitable quarter.",
+      "sourceLink": "https://cryptobriefing.com/anthropic-profitable-second-quarter-revenue-11-billion/"
+    },
+    {
+      "rank": 5,
+      "category": "사회 영향",
+      "kicker": "역대 최다",
+      "title": "글로벌 테크 감원 역대급, 2026년 이미 최다",
+      "summary": "올 들어 전 세계 기술 기업 감원이 역대급 속도로 이어지고 있습니다. 9월 10일까지 128,536명이 직장을 잃었으며, 이는 2025년 한 해 전체 감원 규모를 이미 넘어선 수치입니다.",
+      "narration": "올해 테크 감원이 벌써 역대 최고를 넘었습니다.",
+      "sourceTitle": "From Oracle to Amazon: Tech giants drive global wave of layoffs in 2026",
+      "sourceDesc": "More than 6,300 tech jobs were eliminated in the first 10 days of September. Data from tracking platform Layoffs.fyi showed that 128,536 technology employees across 299 companies were laid off globally by September 10, already above the 122,606 job cuts reported across 278 companies throughout 2025. Oracle leads with 21,000 workforce reductions.",
+      "sourceLink": "https://www.business-standard.com/industry/news/global-tech-layoffs-2026-oracle-amazon-dell-uber-paypal-it-sector-job-cuts-126091100188_1.html"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-14 AI 뉴스 브리핑\n\n1. 오픈AI, IPO 2027년으로 전격 연기\n2. 앤트로픽·구글 AI 안전 연구원 잇단 사임\n3. MS 나델라, 초지능 AI 속도 조절 지지\n4. 앤트로픽 분기 첫 흑자, 매출 14배 급등\n5. 글로벌 테크 감원 역대급, 2026년 이미 최다\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #오픈AI #앤트로픽 #마이크로소프트 #감원\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
