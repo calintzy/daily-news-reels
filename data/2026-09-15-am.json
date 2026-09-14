@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-15",
+  "slot": "am",
+  "hookLine": "AI 쇼크에 코스피 3%대 급락했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "AI 쇼크",
+      "title": "코스피 3.26% 급락, 반도체 투탑 동반 하락",
+      "summary": "코스피가 전일 대비 3.26% 하락한 6684선에 마감했습니다. AI 속도조절론에 삼성전자와 SK하이닉스가 각각 4%, 6%대 급락했습니다.",
+      "sourceTitle": "코스피 3.26% 내려 6684선…삼성전자 4%·SK하이닉스 6%↓",
+      "sourceDesc": "14일 코스피 지수는 전 거래일 대비 225.54포인트(3.26%) 내린 6684.37에 마감했다. AI 속도조절론이 부각되면서 삼성전자(-4.05%)와 SK하이닉스(-6.35%)가 크게 하락하며, 외국인·기관이 동반 순매도세를 이어갔다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+AI+속도조절론+급락&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty Korean stock exchange trading floor, rows of black computer terminals showing red downward charts, dramatic overhead lighting casting long shadows across idle keyboards and screens, dark atmospheric mood, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "법무장관 청문회",
+      "title": "신약 청탁·판사 자녀 특혜 의혹 김승원 청문회",
+      "summary": "법무장관 후보자 인사청문회가 15일 열렸습니다. 신약 임상시험 청탁, 판사 자녀 채용 특혜 등 의혹에 대한 공방이 펼쳐졌습니다.",
+      "sourceTitle": "김승원, 15일 청문회 검증대…제넨셀·음주운전·위장전입 '첩첩산중'",
+      "sourceDesc": "신약 임상시험 승인 청탁, 판사 자녀 채용 특혜, 음주운전 전력, 위장전입 이력 등 김승원 후보자를 둘러싼 각종 의혹이 15일 청문회에서 검증대에 오른다. 여야는 이날 각종 의혹을 놓고 공방을 펼쳤다.",
+      "sourceLink": "https://news.google.com/search?q=김승원+법무장관+청문회&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty semicircular parliamentary committee hearing chamber, rows of oak desks in a curved arc facing a single testimony podium, morning sunlight streaming through high windows, formal institutional atmosphere, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "안보",
+      "kicker": "북한 도발",
+      "title": "北, 미사일·드론 4종 혼합훈련 공개…김정은 불참",
+      "summary": "북한이 12일 실시한 미사일·드론·방사포 혼합 타격훈련을 이틀 만에 공개했습니다. 4종의 무기를 동시에 발사하는 방식으로, 김정은은 현장에 불참했습니다.",
+      "sourceTitle": "北, 드론 포함 4종 '섞어쏘기' 훈련 뒤늦게 공개…열압력탄 시험까지",
+      "sourceDesc": "조선인민군 장거리포병·미사일 부대들이 12일 합동타격 훈련을 실시했다고 14일 공개했다. 순항미사일·탄도미사일·방사포·드론 등 4종의 타격 무기를 동시에 발사했으며 모든 표적을 100% 명중시켰다고 발표했다.",
+      "sourceLink": "https://news.google.com/search?q=북한+미사일+드론+방사포+훈련+공개&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Multiple light trails streaking upward at different angles across a dark overcast sky above an open ocean horizon at night, long-exposure photography effect, ominous military exercise atmosphere, documentary photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "정상외교",
+      "title": "한-우즈베키스탄 13건 협정, 고속철·방산 협력",
+      "summary": "이재명 대통령과 미르지요예프 우즈베키스탄 대통령이 정상회담을 열어 13건의 협정·MOU를 체결했습니다. 고속철·AI·방산·핵심광물 등 전방위 협력 확대에 합의했습니다.",
+      "sourceTitle": "한·우즈벡, 고속철·AI·방산까지 협력 확대…13건 협정·MOU",
+      "sourceDesc": "이재명 대통령과 샤브카트 미르지요예프 우즈베키스탄 대통령이 14일 정상회담을 열고, 두 정상 임석 아래 총 13건의 협정·MOU를 체결했다. 고속철 8편성 수출, AI·방산·핵심광물 등 6대 전략 산업 분야 협력을 확대하기로 했다.",
+      "sourceLink": "https://news.google.com/search?q=한국+우즈베키스탄+정상회담+13건+협정&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Sleek modern high-speed train emerging from a tunnel against a backdrop of mountain ranges transitioning to arid Central Asian steppe landscape, dawn golden light illuminating the railhead, infrastructure and diplomacy symbolism, documentary photography style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "AI 외교",
+      "title": "한-중앙아시아 AI·과기 파트너십 장관회의 개최",
+      "summary": "과학기술정보통신부가 한-중앙아시아 5개국과 AI·과학기술 파트너십 장관회의를 처음으로 개최했습니다. 양측은 AI 분야 미래 협력 방향을 논의하고 협력 기반을 마련했습니다.",
+      "sourceTitle": "韓·중앙아시아 AI·과학기술 파트너십 장관회의…미래 협력 방안 논의",
+      "sourceDesc": "과학기술정보통신부는 14일 서울에서 한국과 중앙아시아 5개국 AI·과학기술 장관들이 처음으로 모인 파트너십 장관회의를 개최했다. 카자흐스탄·키르기스스탄·타지키스탄·투르크메니스탄·우즈베키스탄이 참여해 미래 AI 협력 방향을 논의했다.",
+      "sourceLink": "https://news.google.com/search?q=한중앙아시아+AI+과학기술+파트너십+장관회의&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Modern conference hall with a round table arrangement, multiple national flag stands arranged in a circle, blue holographic light emanating from a central digital display podium, high ceilings with contemporary architecture, diplomatic meeting atmosphere, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-15 아침 브리핑\n\n1. 코스피 3.26% 급락, 반도체 투탑 동반 하락\n2. 신약 청탁·판사 자녀 특혜 의혹 김승원 청문회\n3. 北, 미사일·드론 4종 혼합훈련 공개…김정은 불참\n4. 한-우즈베키스탄 13건 협정, 고속철·방산 협력\n5. 한-중앙아시아 AI·과기 파트너십 장관회의 개최\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #코스피 #AI #주식 #북한 #한우즈베키스탄 #청문회\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
