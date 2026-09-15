@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-16",
+  "slot": "am",
+  "hookLine": "서울 시내버스, 오늘 새벽부터 총파업입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "출근길 비상",
+      "title": "서울 버스 파업, 출근길 비상",
+      "summary": "서울 시내버스 노사 협상이 결렬돼 오늘 첫차부터 총파업이 시작됐습니다. 서울시는 무료 셔틀버스와 지하철 증편으로 대체 교통을 운영하고 있습니다.",
+      "sourceTitle": "[속보]서울 시내버스 내일 첫 차부터 파업… 노사조정 결렬",
+      "sourceDesc": "서울 시내버스 노동조합이 16일 새벽 첫차부터 전면 파업에 돌입했다. 노사는 15일 오후 2시부터 서울지방노동위원회에서 2차 조정 회의를 열었지만 합의점을 찾지 못해 오후 10시께 조정이 최종 결렬됐다. 서울시는 무료 셔틀버스 최대 1500대와 지하철 출퇴근 시간대 증편 운행으로 대체 교통을 운영한다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%84%9C%EC%9A%B8+%EC%8B%9C%EB%82%B4%EB%B2%84%EC%8A%A4+%ED%8C%8C%EC%97%85+%EB%85%B8%EC%82%AC%EC%A1%B0%EC%A0%95+%EA%B2%B0%EB%A0%AC&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "A row of empty city buses parked at a Seoul bus depot at dawn, gray overcast sky, deserted terminal with overhead lights still on, no people, no text. Vertical 9:16 composition. Photojournalism documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "공소취소·개헌 주목",
+      "title": "이 대통령, 18일 기자회견 예고",
+      "summary": "이재명 대통령이 오는 18일 청와대에서 기자회견을 열고 공소취소·파병·개헌 등 주요 현안에 분명한 입장을 밝힐 예정입니다. 취임 후 7번째 회견으로, 지지율 반등을 위한 자리로 주목됩니다.",
+      "sourceTitle": "李대통령, 18일 기자회견… 공소취소·파병·개헌 입장 밝힌다",
+      "sourceDesc": "이재명 대통령이 18일 오전 청와대 영빈관에서 취임 후 7번째 기자회견을 개최한다. 내외신 기자 150여명이 참석한 가운데 약 90분간 진행되며, 공소취소·파병·개헌 등 주요 현안에 대한 분명한 입장을 밝힌다. 지지율 반등을 위한 자리로 주목된다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9D%B4%EC%9E%AC%EB%AA%85+%EB%8C%80%ED%86%B5%EB%A0%B9+18%EC%9D%BC+%EA%B8%B0%EC%9E%90%ED%9A%8C%EA%B2%AC&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "Empty rows of chairs facing a government podium with national flags displayed in a formal reception hall, warm overhead spotlights, no people, no text. Vertical 9:16 composition. Photojournalism documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "중동 전쟁 확산",
+      "title": "국제유가 100달러 돌파, 중동 전쟁",
+      "summary": "친이란 후티 반군의 사우디 공격으로 중동 원유 공급 우려가 커지며 국제유가가 100달러를 돌파했습니다. 고유가 충격이 국내 물가와 에너지 비용에 직접 영향을 줄 것으로 우려됩니다.",
+      "sourceTitle": "국제유가 결국 100달러 뚫었다…사우디까지 번진 중동전쟁",
+      "sourceDesc": "친이란 성향의 예멘 후티 반군이 사우디아라비아 에너지 시설과 홍해 인근 해협을 공격하면서 중동 원유 공급 차질 우려가 커졌다. 브렌트유 선물은 배럴당 100달러를 돌파했으며, 고유가 충격이 물가와 경제 전반에 영향을 미칠 것으로 우려된다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%B5%AD%EC%A0%9C%EC%9C%A0%EA%B0%80+100%EB%8B%AC%EB%9F%AC+%EC%A4%91%EB%8F%99%EC%A0%84%EC%9F%81&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "Wide aerial view of an oil refinery with tall flare stacks at twilight, smoke plumes rising into an orange sky, industrial pipelines in the foreground, no people, no text. Vertical 9:16 composition. Documentary photojournalism style."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "반도체 전망 먹구름",
+      "title": "삼성전자 목표가 27만원, AI 경고",
+      "summary": "BNK투자증권이 삼성전자 목표주가를 27만원으로 낮추고 AI 속도 조절 우려를 들어 투자 의견을 보유로 하향 조정했습니다. 메모리 수요 둔화가 겹치며 반도체 대형주 전망이 어두워졌습니다.",
+      "sourceTitle": "「반토막 충격」 삼성전자 27만원?…BNK, 'AI 속도 조절론' 경고등",
+      "sourceDesc": "BNK투자증권이 삼성전자 목표주가를 30만원에서 27만원으로 낮추고 투자의견을 매수에서 보유로 하향 조정했다. AI 속도 조절론과 메모리 수요 둔화로 주가 상단이 제한적이라는 분석이다. SK하이닉스도 보유로 하향 조정됐다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90+%EB%AA%A9%ED%91%9C%EC%A3%BC%EA%B0%80+BNK+%ED%95%98%ED%96%A5&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "Close-up of a semiconductor wafer with circuit patterns under cool blue industrial lighting, soft bokeh of a dark trading floor in the background, no people, no text. Vertical 9:16 composition. Photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "고성·눈물 난무",
+      "title": "고성 난무한 김승원 청문회",
+      "summary": "김승원 법무부 장관 후보자 청문회에서 신약 청탁과 가족 특혜 의혹을 둘러싸고 여야가 격렬히 충돌했습니다. 후보자가 가족 해명 과정에서 눈시울을 붉히자 여당 의원이 '악어의 눈물'이라고 비난했습니다.",
+      "sourceTitle": "\"악마\" \"악어의 눈물\"…고성 난무한 김승원 청문회",
+      "sourceDesc": "김승원 법무부 장관 후보자 인사청문회에서 신약 청탁·가족 특혜 의혹을 두고 여야가 충돌하며 고성이 오갔다. 후보자는 배우자 관련 의혹을 해명하다 눈시울을 붉혔고, 여당 의원은 '악어의 눈물'이라고 비난했다. '악마'라는 표현까지 등장하는 등 청문회 전반에서 고성이 난무했다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%B9%80%EC%8A%B9%EC%9B%90+%EC%B2%AD%EB%AC%B8%ED%9A%8C+%EC%95%85%EC%96%B4%EC%9D%98+%EB%88%88%EB%AC%BC&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "Empty legislative hearing room with a long table lined with microphones, a wooden gavel resting on the central desk, overhead fluorescent lights casting sharp shadows, no people, no text. Vertical 9:16 composition. Photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-16 아침 브리핑\n\n1. 서울 버스 파업, 출근길 비상\n2. 이 대통령, 18일 기자회견 예고\n3. 국제유가 100달러 돌파, 중동 전쟁\n4. 삼성전자 목표가 27만원, AI 경고\n5. 고성 난무한 김승원 청문회\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #서울버스파업 #이재명 #국제유가 #삼성전자 #청문회\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
