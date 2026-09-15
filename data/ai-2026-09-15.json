@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-15",
+  "account": "aibrief",
+  "hookLine": "AI 개발 속도 늦추자는 데 라이벌도 동의했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "규제·정책",
+      "kicker": "이례적 합의",
+      "title": "AI CEO들, 개발 속도 늦추자 한목소리",
+      "summary": "앤트로픽 CEO 아모데이가 AI 개발 속도를 늦춰야 한다는 에세이를 발표했습니다. 경쟁사 OpenAI CEO 올트먼과 xAI 일론 머스크도 이에 동의하며 공동 안전 기준 마련에 한목소리를 냈습니다.",
+      "sourceTitle": "Anthropic, OpenAI CEOs call for slowdown in AI development",
+      "sourceDesc": "Anthropic CEO Dario Amodei published an essay titled 'We Must Pace the Frontier,' calling for deliberately slowing AI development. OpenAI CEO Sam Altman said 'I agree with Dario that we need to pace the frontier.' Elon Musk of xAI replied 'Dario is right.' Amodei proposed independent evaluators inside leading AI labs and common safety standards among democratic countries.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+OpenAI+AI+slowdown+Amodei+Altman&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "빅테크 사업",
+      "kicker": "유럽 최대",
+      "title": "삼성전자, 미스트랄 AI에 4.7조 투자 주도",
+      "summary": "삼성전자가 주도한 투자 라운드에서 유럽 AI 기업 미스트랄이 4조7000억원을 조달했습니다. 유럽 테크기업 역대 최대로, 양사는 반도체 특화 AI 모델 공동 개발 파트너십도 체결했습니다.",
+      "narration": "삼성이 미스트랄 4.7조 투자를 이끌었습니다.",
+      "sourceTitle": "삼성, '佛AI 기업' 미스트랄 4.7조 투자 주도…반도체 특화 AI 개발(종합)",
+      "sourceDesc": "삼성전자가 프랑스 인공지능(AI) 스타트업 미스트랄(Mistral)의 시리즈D 투자 라운드를 주도하며 총 30억유로(약 4조7000억원)를 조달했다. 유럽 테크기업 역대 최대 규모로, 미스트랄의 기업가치는 210억유로를 넘었다. 양사는 반도체 공정 특화 AI 모델을 공동 개발하는 전략적 파트너십도 체결했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90+%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%9E%84+4.7%EC%A1%B0+AI&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 서비스",
+      "kicker": "Siri 대체",
+      "title": "애플 Siri, Claude·ChatGPT로 대체 가능",
+      "summary": "iOS 27 코드에서 Siri AI를 ChatGPT나 Claude로 교체하는 설계가 발견됐습니다. 외부 AI 모델이 Siri를 대체하도록 설계됐지만 아직 사용자에게 공개되지 않았습니다.",
+      "narration": "Siri를 Claude로 바꿀 코드가 발견됐습니다.",
+      "sourceTitle": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "sourceDesc": "Hidden iOS 27 and macOS Golden Gate code reveals private hooks that let third-party AI models like ChatGPT and Claude replace Apple's Siri. Apple designed its Siri AI architecture to let users swap out Apple's server-side model through a mechanism called Model Delegation.",
+      "sourceLink": "https://news.google.com/search?q=Siri+AI+Claude+ChatGPT+iOS+27+replace&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "사회 영향",
+      "kicker": "고용 충격",
+      "title": "2026년 테크 해고 54%, AI가 원인으로 지목",
+      "summary": "2026년 테크 해고의 54%가 AI·자동화를 원인으로 지목되며, 17만 명 이상이 영향을 받았습니다. 2025년에 AI 관련 해고 비율이 매우 낮았던 것과 비교해 급격한 변화입니다.",
+      "narration": "올해 테크 해고 절반 이상이 AI 자동화 때문입니다.",
+      "sourceTitle": "More Than Half of Layoff Events Tracked in 2026 Cited AI or Automation, Report Says",
+      "sourceDesc": "More than half of all layoff events tracked in 2026 cited AI or automation as a contributing factor. In 2026, 54% of layoffs are linked to AI, automation, or machine learning, affecting over 170,000 workers. In 2025, AI was cited as a factor in fewer than eight percent of layoff announcements.",
+      "sourceLink": "https://news.google.com/search?q=AI+layoffs+2026+automation+54+percent&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "AI 모델",
+      "kicker": "컴퓨터 조작",
+      "title": "OpenAI, 최신 AI 'GPT-6 Astra' 공개",
+      "summary": "OpenAI가 최신 AI 모델 GPT-6 Astra를 공개했습니다. 이 모델은 마치 사람처럼 컴퓨터를 조작하는 기능을 갖췄습니다.",
+      "narration": "OpenAI 신형 AI, 컴퓨터를 사람처럼 씁니다.",
+      "sourceTitle": "OpenAI launches GPT-6 Astra, its most powerful model yet, and touts its ability to use your computer",
+      "sourceDesc": "OpenAI launched GPT-6 Astra, its most powerful model yet, on September 3, 2026. Its hallmark feature is 'computer use,' allowing the model to navigate a computer as a human would — zipping through spreadsheets, filling out forms, and navigating across web pages often at superhuman speed.",
+      "sourceLink": "https://news.google.com/search?q=GPT-6+Astra+OpenAI+launch+computer+use&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-15 AI 뉴스 브리핑\n\n1. AI CEO들, 개발 속도 늦추자 한목소리\n2. 삼성전자, 미스트랄 AI에 4.7조 투자 주도\n3. 애플 Siri, Claude·ChatGPT로 대체 가능\n4. 2026년 테크 해고 54%, AI가 원인으로 지목\n5. OpenAI, 최신 AI 'GPT-6 Astra' 공개\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #AIbrief #OpenAI #Anthropic #삼성전자 #애플 #GPT6\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
