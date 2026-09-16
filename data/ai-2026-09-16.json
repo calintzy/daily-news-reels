@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-16",
+  "account": "aibrief",
+  "hookLine": "중국이 AI 개발자 출국을 막기 시작했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "규제·정책",
+      "kicker": "출국 금지",
+      "title": "중국, AI 인재 해외 출국 금지 발효",
+      "summary": "중국이 AI 기술자의 출국을 제한하는 새 법령이 15일 발효됐습니다. 수출 규제를 위반한 AI 개발자가 출국을 거부당할 수 있어 글로벌 AI 인재 이동에 변화가 예상됩니다.",
+      "sourceTitle": "Beijing further tightens exit-and-entry rules",
+      "sourceDesc": "Changes take effect Sept. 15 and include exit bans on those suspected of 'violating export control or technology trade rules'. Beijing has already reportedly prevented senior AI engineers from travelling abroad amid fears Western companies are poaching top talent.",
+      "sourceLink": "https://news.google.com/search?q=China+AI+engineers+exit+ban+September+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "반도체·인프라",
+      "kicker": "NVIDIA 대항마",
+      "title": "삼성, 엔비디아 경쟁 AI칩 스타트업 투자",
+      "summary": "삼성전자가 엔비디아 GPU 대신 사용할 수 있는 AI 추론 칩을 개발 중인 네덜란드 스타트업 유클리드의 투자를 주도했습니다. 2024년 설립된 유클리드는 GPU와 다른 구조의 AI 칩 시스템을 개발하고 있습니다.",
+      "narration": "삼성이 엔비디아 대항 AI 칩에 투자했습니다.",
+      "sourceTitle": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
+      "sourceDesc": "Dutch startup Euclyd, which is building a chip for AI inference that seeks to rival Nvidia, has raised a $230 million funding round co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund and Innovation Industries. The startup, founded in 2024, is designing an AI chip system, with different architecture to GPUs, for inference.",
+      "sourceLink": "https://news.google.com/search?q=Samsung+Euclyd+AI+chip+Nvidia+rival+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크 사업",
+      "kicker": "상장 연기",
+      "title": "OpenAI 올해 상장 없다, 안전이 먼저",
+      "summary": "OpenAI CEO 샘 올트먼이 2026년 상장은 신중하지 못한 시점이라며 올해 상장 계획이 없다고 밝혔습니다. AI 안전 문제를 먼저 해결해야 한다는 이유로 2027년을 더 현실적 시점으로 언급했습니다.",
+      "narration": "OpenAI가 올해 상장 계획이 없다고 밝혔습니다.",
+      "sourceTitle": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "sourceDesc": "OpenAI CEO Sam Altman said that given everything happening with safety, right now would be an ill-advised moment to go public. When asked about the timing, Altman stated not 2026, and pointed to 2027 as a more plausible window. Altman said OpenAI has discussed pausing development as it reaches new levels of AI capability.",
+      "sourceLink": "https://news.google.com/search?q=OpenAI+Sam+Altman+IPO+2026+ill-advised&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "사회 영향",
+      "kicker": "음악 저작권",
+      "title": "소니·워너, Anthropic 음악 저작권 소송",
+      "summary": "소니 뮤직과 워너 채플이 Anthropic의 Claude 학습에 수만 곡의 저작물을 무단 사용했다며 소송을 제기했습니다. 법원에 학습 중단과 작품당 최대 150,000달러의 손해배상을 청구했습니다.",
+      "narration": "소니·워너가 Anthropic에 소송을 냈습니다.",
+      "sourceTitle": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar copyright lawsuit",
+      "sourceDesc": "Sony Music Publishing and Warner Chappell Music filed a federal lawsuit against Anthropic, alleging the company used tens of thousands of copyrighted songs to train its Claude chatbot in blatant violation of copyright law. The suit seeks up to $150,000 per infringing work and calls for Anthropic to halt the training.",
+      "sourceLink": "https://news.google.com/search?q=Sony+Warner+Anthropic+copyright+lawsuit+music+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "대통령이 감시",
+      "title": "트럼프, AI 안전 가드레일 거부 선언",
+      "summary": "트럼프 대통령이 AI 개발 안전 규제를 거부하며 Anthropic CEO 아모데이의 속도 조절 주장을 정면 반박했습니다. AI에 필요한 유일한 통제 장치는 강력한 대통령이라며 새 가드레일 도입에 반대했습니다.",
+      "narration": "트럼프가 AI 안전 규제는 필요없다고 선언했습니다.",
+      "sourceTitle": "Trump Rejects AI Guardrails, Criticizes Anthropic CEO Amodei's Call for Slowdown",
+      "sourceDesc": "President Donald Trump attacked Anthropic PBC Chief Executive Officer Dario Amodei for urging a slowdown in artificial intelligence development, intensifying his opposition to new guardrails for the technology. Trump said the only guardrail AI needs is a strong, smart president.",
+      "sourceLink": "https://news.google.com/search?q=Trump+AI+guardrails+Anthropic+Amodei+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-16 AI 뉴스 브리핑\n\n1. 중국, AI 인재 해외 출국 금지 발효\n2. 삼성, 엔비디아 경쟁 AI칩 스타트업 투자\n3. OpenAI 올해 상장 없다, 안전이 먼저\n4. 소니·워너, Anthropic 음악 저작권 소송\n5. 트럼프, AI 안전 가드레일 거부 선언\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #AIbrief #중국 #OpenAI #Anthropic #삼성전자 #트럼프\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
