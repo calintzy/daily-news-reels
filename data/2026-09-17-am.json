@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-17",
+  "slot": "am",
+  "hookLine": "대왕고래 가스전, 43억 낭비됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치·경제",
+      "kicker": "국고 낭비",
+      "title": "대왕고래 가스전, 감사원 위법 7건 적발",
+      "summary": "감사원이 동해 심해 가스전 사업에서 위법·부당 사항 7건을 적발했습니다. 졸속 검증으로 43억 원의 국고가 낭비됐다는 판단도 나왔습니다.",
+      "sourceTitle": "감사원, '대왕고래' 동해 심해 가스전 위법·부당 7건 적발… 졸속 검증에 43억 국고 낭비까지",
+      "sourceDesc": "감사원은 동해 심해 가스전 사업 관련 감사 결과를 공개하고 위법·부당 사항 7건을 적발했다. 졸속 검증으로 약 43억원의 용선료를 절감할 수 있었다고 판단했으며, 전 대통령은 임기 내 시추 일정을 재촉했던 것으로 나타났다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%8C%80%EC%99%95%EA%B3%A0%EB%9E%98+%EA%B0%90%EC%82%AC%EC%9B%90+%EC%9C%84%EB%B2%95+%EC%A0%81%EB%B0%9C+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, empty government audit chamber with a long conference table covered in official documents and report binders, dramatic overhead lighting, muted institutional tones, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "사회·보건",
+      "kicker": "환절기 경보",
+      "title": "독감+코로나 동시 유행, 트윈데믹 경보",
+      "summary": "독감 유행주의보가 예년보다 한 달 이상 일찍 발령되며 조기 유행이 시작됐습니다. 코로나19와 동시 증가하는 트윈데믹 우려로 방역 당국이 예방접종을 당부했습니다.",
+      "sourceTitle": "'독감 유행주의보' 발령, 한 달 이상 빨라져…'코로나19 동시 유행 조짐'",
+      "sourceDesc": "질병관리청은 이번 절기 인플루엔자 유행주의보를 전년보다 한 달 이상 일찍 발령했다. 코로나19 환자도 동시에 증가세를 보여 두 감염병이 함께 유행하는 트윈데믹 우려가 커지고 있으며, 방역 당국은 예방접종을 당부했다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%8F%85%EA%B0%90+%EC%BD%94%EB%A1%9C%EB%82%9819+%ED%8A%B8%EC%9C%88%EB%8D%B0%EB%AF%B9+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, rows of empty hospital waiting chairs with a box of face masks on one seat, clinical corridor in background, soft overhead fluorescent lighting, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사건",
+      "kicker": "하루만 석방",
+      "title": "신천지 이만희 총회장, 17일 일시 석방",
+      "summary": "법원이 신천지 이만희 총회장의 구속집행정지를 결정해 17일 하루 일시 석방됩니다. 신도를 정당에 집단 입당시킨 혐의 등으로 구속기소된 상태에서 건강 이유로 신청한 것으로 알려졌습니다.",
+      "sourceTitle": "법원, 이만희 구속집행정지 결정…17일 하루 일시 석방",
+      "sourceDesc": "서울중앙지법은 이만희 총회장 측의 구속집행정지 신청을 받아들였다. 이 총회장은 17일 하루 일시 석방되며, 신도를 정당에 집단 입당시킨 혐의와 탈세 혐의로 구속기소된 상태다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9D%B4%EB%A7%8C%ED%9D%AC+%EA%B5%AC%EC%86%8D%EC%A7%91%ED%96%89%EC%A0%95%EC%A7%80+%EC%84%9D%EB%B0%A9+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, wide shot of a formal courtroom entrance with heavy wooden doors and long institutional hallway, neutral tones, soft diffused lighting, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회·교통",
+      "kicker": "연말 개통 임박",
+      "title": "인천발 KTX, 오늘부터 최종 시험운행",
+      "summary": "17일부터 인천발 KTX 직결 사업의 종합시험운행이 본격 착수됐습니다. 전체 공정률 86%를 기록하며 연말 개통을 목표로 순항 중입니다.",
+      "sourceTitle": "인천발 KTX, 드디어 마지막 관문…17일부터 종합시험운행",
+      "sourceDesc": "17일부터 인천발 KTX 직결사업의 종합시험운행이 시작된다. 전체 공정률은 약 86%를 기록 중이며, 연말 완공을 목표로 순항하고 있다. 인천에서 부산·목포까지 직행이 가능해질 전망이다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9D%B8%EC%B2%9C%EB%B0%9C+KTX+%EC%A2%85%ED%95%A9%EC%8B%9C%ED%97%98%EC%9A%B4%ED%96%89+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, empty KTX high-speed railway track stretching to the horizon at dawn, golden morning light gleaming on polished rails, misty distant background, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "청문 후폭풍",
+      "title": "김승원 법무장관 후보자, 청문회 논란 지속",
+      "summary": "인사청문회에서 신약 로비 의혹과 가족 관련 특혜 논란이 제기됐습니다. 청문회가 끝난 뒤에도 야당의 반발이 이어지며 법무장관 임명 절차가 주목받고 있습니다.",
+      "sourceTitle": "맹탕 청문회 끝났지만 김승원 법무장관 후보자 논란 '후폭풍'",
+      "sourceDesc": "김승원 법무부 장관 후보자 인사청문회에서 신약 로비 의혹과 가족 인건비 특혜 논란이 제기됐다. 청문회가 끝난 후에도 야당이 반발하며 보고서 채택을 거부해 논란이 이어지고 있다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%B9%80%EC%8A%B9%EC%9B%90+%EB%B2%95%EB%AC%B4%EC%9E%A5%EA%B4%80+%EC%B2%AD%EB%AC%B8%ED%9A%8C+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "photojournalism, long empty legislative hearing room table with name placards and water glasses, formal institutional interior, even overhead lighting, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-17 아침 브리핑\n\n1. 대왕고래 가스전, 감사원 위법 7건 적발\n2. 독감+코로나 동시 유행, 트윈데믹 경보\n3. 신천지 이만희 총회장, 17일 일시 석방\n4. 인천발 KTX, 오늘부터 최종 시험운행\n5. 김승원 법무장관 후보자, 청문회 논란 지속\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #대왕고래 #감사원 #독감 #트윈데믹 #이만희 #신천지 #인천KTX #김승원 #법무장관\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "news_google_rss": "fail",
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
