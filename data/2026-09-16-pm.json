@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-16",
+  "slot": "pm",
+  "hookLine": "서울 버스 파업, 극적 타결로 정상 운행합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "파업 극적 철회",
+      "title": "서울 버스 파업, 극적 타결로 정상 운행",
+      "summary": "서울 시내버스 파업 후속으로, 노사가 오늘 새벽 임금 3.2% 인상에 합의해 파업을 철회했습니다. 오전 1시 50분쯤 타결로 오늘 첫차부터 전 노선이 정상 운행됩니다.",
+      "sourceTitle": "서울 버스 파업 극적 철회…노사 '임금 3.2% 인상' 합의(종합)",
+      "sourceDesc": "서울 시내버스 노사가 16일 새벽 임금·단체협상을 극적으로 타결해 오늘 버스는 평소처럼 정상 운행한다. 서울시버스운송사업조합과 전국자동차노동조합연맹 서울시버스노동조합(버스노조)는 16일 오전 1시 50분쯤 서울지방노동위원회가 제시한 조정안에 합의했다. 이날 양측은 2026년 임금을 3.2% 인상하는 안에 동의했다. 서울시 내 7000여 대 버스는 16일 첫차부터 평상시와 같이 정상 운행한다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%84%9C%EC%9A%B8+%EB%B2%84%EC%8A%A4+%ED%8C%8C%EC%97%85+%ED%83%80%EA%B2%B0+%EC%A0%95%EC%83%81%EC%9A%B4%ED%96%89+16%EC%9D%BC&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "Empty Seoul city bus depot at early dawn, rows of buses parked neatly under bright overhead depot lights, pale morning sky visible through open garage gates, no people, no text. Vertical 9:16 composition. Photojournalism documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "7년 표류 끝 결정",
+      "title": "임신중지약 '미프진', 내년 도입 확정",
+      "summary": "정부가 오늘 먹는 임신중지약 '미프진' 도입 방안을 공식 발표했습니다. 이르면 내년 1분기 도입을 목표로 하며, 임신 9주 이내 사용을 허용하는 방향입니다.",
+      "sourceTitle": "임신중지약 '미프진' 이르면 내년 1분기 도입...임신 9주 이내 허용",
+      "sourceDesc": "정부는 먹는 임신중지약을 이르면 내년 1분기 국내에 도입한다. 도입이 추진되는 약물은 흔히 '미프진'으로 알려진 미프지미소정이다. 이번 조치는 이재명 대통령이 임신중지 약물의 허용 가능성을 검토하라고 지시한 데 따른 후속 조치다. 정부는 그동안 음성적으로 유통돼온 임신중지약을 국가 의료체계 안에서 관리해 여성의 안전권과 건강권을 보장한다는 방침이다. 첫 2년은 의사가 처방한 뒤 의료기관 안에서 직접 조제하는 원내 조제 방식으로 운영한다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%AF%B8%ED%94%84%EC%A7%84+%EB%8F%84%EC%9E%85+%EB%B0%A9%EC%95%88+%EC%9E%84%EC%8B%A0+9%EC%A3%BC+2026%EB%85%84+9%EC%9B%94&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "White oval pills resting on a clean clinical white surface under soft diffused overhead lighting, a blurred medical clipboard visible in the background, no people, no text. Vertical 9:16 composition. Documentary photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "오늘이 마감",
+      "title": "수시 먹통 피해, 오늘 구제 신청 마감",
+      "summary": "대입 수시 원서접수 시스템 먹통으로 최대 1200여명이 피해를 입었으며 오늘 오후 6시 구제 신청이 마감됩니다. 교육부 장관은 실제 구제 대상은 크게 줄어들 것이라고 국회에서 밝혔습니다.",
+      "sourceTitle": "'수시 먹통'에 접수 못한 수험생 1200여명… 16일까지 구제한다",
+      "sourceDesc": "대입 수시모집 원서접수 시스템 장애로 접수를 마치지 못한 수험생이 최대 1200여명으로 추정되는 가운데 교육당국이 14일부터 사흘간 구제 신청을 받는다. 구제 신청은 14일 오전 9시부터 16일 오후 6시까지 원서접수 대행사 유웨이어플라이 홈페이지에 마련되는 구제 신청 게시판에서 할 수 있다. 구제 대상은 유웨이어플라이 전산장애 발생 시간 내 로그인하고 지원대학의 원서 작성·저장 등 접수 진행기록이 있는 학생이다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%88%98%EC%8B%9C+%EB%A8%B9%ED%86%B5+%EA%B5%AC%EC%A0%9C+%EC%8B%A0%EC%B2%AD+%EB%A7%88%EA%B0%90+16%EC%9D%BC&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "Close-up of a blank university admissions application form on a wooden desk next to a computer mouse, soft natural window light from the side, empty fields on the form, no people, no text. Vertical 9:16 composition. Photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "한미 투자 협력",
+      "title": "대미투자 1호, 30조 텍사스 발전소 국회 보고",
+      "summary": "정부가 오늘 국회에 대미투자 1호 사업비를 27조원에서 30조원으로 증액한 텍사스 가스발전소 계획을 보고했습니다. 한미 양국은 이르면 18일 정식 합의서에 서명할 것으로 알려졌습니다.",
+      "sourceTitle": "[단독]'대미투자 1호' 사업비 27조→30조원 증액…오늘 국회 보고",
+      "sourceDesc": "정부가 미국 텍사스 엔시날 가스복합화력발전소 건설을 대미투자 1호 사업으로 확정하고 오늘 국회에 보고했다. 총사업비는 당초 27조원에서 협상 끝에 30조원(223억 달러)으로 증액됐다. 미국 측이 250억달러를 요구했으나 양국은 최종 223억달러 수준에서 합의했다. 한미 양국은 이르면 18일 관련 합의 내용을 발표할 것으로 보인다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%8C%80%EB%AF%B8%ED%88%AC%EC%9E%90+1%ED%98%B8+%ED%85%8D%EC%82%AC%EC%8A%A4+%EB%B0%9C%EC%A0%84%EC%86%8C+30%EC%A1%B0+%EA%B5%AD%ED%9A%8C+%EB%B3%B4%EA%B3%A0&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "Wide aerial view of a large industrial gas power plant complex with tall cooling towers and metal pipe networks against a flat plains landscape under an overcast sky, no people, no text. Vertical 9:16 composition. Documentary photojournalism style."
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "운전대 없는 로보택시",
+      "title": "운전대 없는 테슬라 사이버캡, 美정부 조사",
+      "summary": "테슬라가 운전대와 페달이 없는 로보택시 '사이버캡'을 미국에서 상용 서비스로 출시했습니다. 출시 직후 미국 도로교통안전국이 안전기준 준수 여부에 대한 조사에 착수했습니다.",
+      "sourceTitle": "운전대·페달 없는 테슬라 '사이버캡'…출시 몇 시간 만에 美정부 조사",
+      "sourceDesc": "테슬라는 미국 텍사스 오스틴에서 운전대와 페달을 완전히 없앤 로보택시 사이버캡의 유료 상용 서비스를 개시했다. 테슬라는 미국 도로교통안전국(NHTSA)의 무인차 예외 승인 절차를 밟지 않고 자기인증 방식으로 상용화에 나섰다. NHTSA는 사이버캡의 자기인증 적합성에 대한 공식 감사에 착수했다. 기존 연방 자동차 안전기준을 스스로 충족한다고 선언하는 방식을 택했으나, 당국은 이에 대한 조사를 개시했다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%85%8C%EC%8A%AC%EB%9D%BC+%EC%82%AC%EC%9D%B4%EB%B2%84%EC%BA%A1+%EB%AF%B8%EA%B5%AD+%EC%A0%95%EB%B6%80+%EC%A1%B0%EC%82%AC+%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89&hl=ko&gl=KR&ceid=KR%3Ako",
+      "imagePrompt": "Sleek autonomous robotaxi on an urban road at night, empty front seat area visible through the window with no steering wheel, city streetlights reflected on the dark vehicle surface, no people, no text. Vertical 9:16 composition. Photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-16 저녁 브리핑\n\n1. 서울 버스 파업, 극적 타결로 정상 운행\n2. 임신중지약 '미프진', 내년 도입 확정\n3. 수시 먹통 피해, 오늘 구제 신청 마감\n4. 대미투자 1호, 30조 텍사스 발전소 국회 보고\n5. 운전대 없는 테슬라 사이버캡, 美정부 조사\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #서울버스파업 #미프진 #수시먹통 #대미투자 #테슬라\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
