@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-17",
+  "slot": "pm",
+  "hookLine": "미 연준, 3년 2개월 만에 기준금리 올렸습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제·국제",
+      "kicker": "3년 만의 인상",
+      "title": "미 연준, 기준금리 0.25%p 인상",
+      "summary": "미국 연준이 3년 2개월 만에 기준금리를 0.25%포인트 올려 연 3.75~4.00%로 결정했습니다. 물가 안정을 이유로 트럼프 대통령의 인하 요구에도 연내 추가 인상 가능성도 열어뒀습니다.",
+      "sourceTitle": "美, 3년 2개월만에 금리 인상...연내 추가 상향 예고",
+      "sourceDesc": "미국 연방준비제도(연준·Fed)는 16일(현지시간) 기준금리를 0.25%포인트 올려 연 3.75~4.00%로 결정했다. 2023년 7월 이후 3년 2개월 만에 처음 금리를 올린 것으로, 트럼프 대통령의 인하 요구에도 연준은 물가 안정을 최우선으로 연내 추가 상향 가능성도 예고했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/international/2026/09/17/20260917500005",
+      "imagePrompt": "photojournalism, exterior of a grand classical stone financial institution building at dusk with tall columns and heavy bronze doors, warm amber streetlights, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제·부동산",
+      "kicker": "역대 최장 목전",
+      "title": "서울 아파트값, 역대 최장 83주 연속 상승",
+      "summary": "서울 아파트 매매가격이 83주 연속 오름세를 기록하며 역대 최장 기록인 85주에 2주 앞으로 다가섰습니다. 외곽 중저가 지역이 상승을 이끌고 있으며, 가격 안정 대책의 실효성이 주목받고 있습니다.",
+      "sourceTitle": "서울 아파트값 83주 연속 상승…역대 최장 기록 눈앞",
+      "sourceDesc": "한국부동산원에 따르면 9월 7일 기준 서울 아파트 매매가격이 83주 연속 상승했다. 2020년부터 2022년까지 이어진 최장 기록 85주에 2주 앞으로 다가선 것으로, 외곽 중저가 지역이 상승을 주도하고 있다.",
+      "sourceLink": "https://www.epeopletoday.com/news/articleView.html?idxno=22178",
+      "imagePrompt": "photojournalism, dense Seoul high-rise apartment complex skyline at golden hour, rows of identical residential towers stretching to the horizon, warm amber light reflecting on concrete facades, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회·보건",
+      "kicker": "짝퉁 마운자로",
+      "title": "비만치료제 밀수 5030건…짝퉁 마운자로 적발",
+      "summary": "올해 1월부터 8월까지 비만치료제 불법 반입 적발이 5030건을 넘어 지난해의 4.2배에 달했습니다. 인도에서 들어온 마운자로 일부는 위조품으로 확인돼 건강 위험이 우려됩니다.",
+      "sourceTitle": "비만치료제 반입 적발 8개월 새 5030건…인도발 마운자로는 위조품",
+      "sourceDesc": "관세청은 올해 1월부터 8월까지 비만치료제 불법 반입 적발 건수가 5030건으로 지난해의 4.2배에 달했다고 밝혔다. 인도에서 반입된 마운자로 제품은 감정 결과 위조품으로 확인됐으며, 유효성분 함량이 일정하지 않고 미확인 불순물도 검출됐다. 관세청은 통관검사를 강화할 방침이다.",
+      "sourceLink": "https://www.dailian.co.kr/news/view/1691537",
+      "imagePrompt": "photojournalism, close-up of seized medication packages and vials arrayed on a customs inspection table under harsh fluorescent light, blurred inspection equipment in background, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회·교육",
+      "kicker": "먹통 구제 확정",
+      "title": "수시 원서접수 먹통, 구제 대상 388명 확정",
+      "summary": "수시 원서접수 시스템 장애로 구제를 신청한 1588건 중 388건이 최종 구제 대상으로 확인됐습니다. 교육부는 17일부터 특별조사반을 가동해 장애 원인과 업체 대응의 적절성을 점검합니다.",
+      "sourceTitle": "'수시 먹통' 구제 대상 388명…경쟁률 공개 뒤 낸 원서, 취소 검토",
+      "sourceDesc": "2027학년도 대학 수시모집 원서접수 시스템 장애로 구제 신청 1588건 중 388건이 구제 대상으로 확인됐다. 교육부는 9월 17일부터 특별조사반을 가동해 장애 발생 원인과 원서접수 대행업체 유웨이의 사전 대비·사후 대응 적절성을 점검한다.",
+      "sourceLink": "https://www.khan.co.kr/article/202609162120005",
+      "imagePrompt": "photojournalism, empty university admissions office with application forms scattered on a dark wooden counter and a blank monitor screen, institutional corridor softly lit in background, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "국제·외교",
+      "kicker": "협상 막판 진통",
+      "title": "대미투자 국회 보고 연기, 한미 막판 진통",
+      "summary": "정부가 17일로 예정된 대미투자 국회 보고를 연기하며 한미 협상 막판 진통이 이어지고 있습니다. 텍사스 엔시날 가스복합화력발전소 관련 투자 규모·조건 타결이 마무리되지 않은 것으로 알려졌습니다.",
+      "sourceTitle": "오늘 대미투자 국회 보고 연기… 한미, 규모·조건 등 '막판 진통'",
+      "sourceDesc": "정부가 17일로 예정된 대미투자 관련 국회 보고를 연기했다. 1호 프로젝트로 유력한 텍사스 엔시날 가스복합화력발전소 건설 사업의 투자 규모와 조건을 놓고 한미 양국이 막판 협상을 마무리하지 못한 것으로 알려졌다. 18일로 예상된 양해각서(MOU) 서명도 지연될 전망이다.",
+      "sourceLink": "https://www.seoul.co.kr/news/politics/diplomacy/2026/09/17/20260917005002",
+      "imagePrompt": "photojournalism, empty formal government briefing room with a long polished conference table, empty chairs and national flags standing at the far end, soft natural light through tall windows, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-17 저녁 브리핑\n\n1. 미 연준, 기준금리 0.25%p 인상\n2. 서울 아파트값, 역대 최장 83주 연속 상승\n3. 비만치료제 밀수 5030건…짝퉁 마운자로 적발\n4. 수시 원서접수 먹통, 구제 대상 388명 확정\n5. 대미투자 국회 보고 연기, 한미 막판 진통\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #연준 #금리인상 #아파트값 #부동산 #비만치료제 #마운자로 #수시 #대미투자 #한미관계\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "news_google_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
