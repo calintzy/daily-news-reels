@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-18",
+  "slot": "am",
+  "hookLine": "74명 사상 화재 책임자, 검찰에 넘겨졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "화재 참사",
+      "title": "74명 사상 화재 책임자 검찰 송치",
+      "summary": "대전 안전공업 화재로 74명이 숨지거나 다친 참사 책임자 13명이 검찰에 넘겨졌습니다. 경찰은 안전관리 부실이 부른 명백한 인재라고 결론 지었습니다.",
+      "sourceTitle": "'74명 사상' 안전공업 대표 등 13명 검찰 송치…'명백한 인재'(종합)",
+      "sourceDesc": "경찰이 대전 대덕구 안전공업 공장에서 발생한 화재로 14명이 숨지고 60명이 다친 사고와 관련해 대표 등 13명을 검찰에 불구속 송치했다. 경찰은 먼지 집진기 가연성 물질 축적, 화재경보기 임의 차단 등 안전관리 부실이 대규모 인명피해를 낳은 명백한 인재로 결론지었다.",
+      "sourceLink": "https://news.google.com/search?q=안전공업+화재+검찰+송치+74명",
+      "imagePrompt": "Charred and collapsed industrial factory interior, burned metal beams and machinery debris, smoke-stained concrete walls, aftermath of a severe fire disaster, somber documentary lighting, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "대통령 기자회견",
+      "title": "이재명 대통령 오늘 기자회견 개최",
+      "summary": "이재명 대통령이 오늘 오전 청와대에서 연임 개헌, 공소 취소, 파병 등 주요 현안 입장을 발표합니다. 국정 지지율이 30%대로 떨어진 상황에서 이번 기자회견에 관심이 쏠립니다.",
+      "sourceTitle": "李대통령, 오늘 기자회견…연임개헌·공소취소·파병 입장 주목",
+      "sourceDesc": "이재명 대통령이 18일 오전 청와대 영빈관에서 취임 후 7번째 기자회견을 연다. 연임 개헌, 공소 취소, 호르무즈해협 파병 등 주요 현안에 대한 입장을 밝힌다. 국정 지지율이 30%대로 하락한 가운데 이번 회견에 시선이 쏠리고 있다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+기자회견+2026년+9월+18일",
+      "imagePrompt": "Empty presidential press conference hall with rows of unoccupied chairs facing a podium with multiple microphones, grand ceremonial interior, dramatic formal lighting, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "육아·노동",
+      "title": "남성 육아휴직·유산휴가 오늘부터 확대",
+      "summary": "오늘부터 남성도 배우자 임신 중 육아휴직을 쓸 수 있고, 유산·사산 시 최대 5일 휴가를 받을 수 있습니다. 고용노동부가 배우자 지원 3종 세트를 본격 시행합니다.",
+      "sourceTitle": "고용노동부, 임신부터 출산까지, 남편이 함께한다 「배우자 지원 3종 세트」 9.18.부터 본격 시행",
+      "sourceDesc": "고용노동부는 오늘부터 배우자 유산·사산 시 최대 5일 휴가 신설, 출산전후 휴가 사용 시기 확대, 임신 중 배우자 육아휴직 허용을 담은 배우자 지원 3종 세트를 본격 시행한다고 밝혔다. 남성 노동자가 배우자의 임신 중에도 육아휴직을 신청할 수 있게 됐다.",
+      "sourceLink": "https://news.google.com/search?q=배우자+지원+3종+세트+9월+18일+시행",
+      "imagePrompt": "Baby crib with soft blanket and tiny infant shoes placed beside an adult work boot on a wooden floor, warm morning light through a window, symbolic family scene, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "반도체 기업",
+      "title": "SK하이닉스 성과급, 현금 50%로 조정",
+      "summary": "SK하이닉스 노사가 성과급 지급 방식을 현금과 주식 각 50%씩으로 조정하는 임단협을 최종 타결했습니다. 기존보다 현금 비중이 높아져 임금 안정성이 강화됩니다.",
+      "sourceTitle": "SK하이닉스 임단협 타결…PS 현금·주식 50%씩",
+      "sourceDesc": "SK하이닉스 노사가 성과급(PS) 지급 방식을 현금 50%, 자사주 50%로 조정하는 2026년 임금 및 단체협약 수정 합의안을 가결했다. 기존 현금 40%, 자사주 60% 구조에서 현금 비중이 높아졌다.",
+      "sourceLink": "https://news.google.com/search?q=SK하이닉스+임단협+성과급+현금+50",
+      "imagePrompt": "Close-up of a semiconductor wafer with intricate circuit patterns glowing under clean room lighting, blue and purple hues, industrial precision photography style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "증시",
+      "title": "코스피 7000선 지켜…반도체 대형주 강세",
+      "summary": "코스피가 7000선을 수성하며 SK하이닉스가 3%대 강세를 보이고 있습니다. 삼성전자도 함께 오르며 반도체주가 증시 상승을 이끌고 있습니다.",
+      "sourceTitle": "코스피, 7000선 수성…SK하이닉스 3%대 강세",
+      "sourceDesc": "코스피가 7000선을 지키며 SK하이닉스가 3%대 강세를 보이고 있다. 삼성전자도 동반 상승세를 나타내며 반도체 대형주가 지수 상승을 이끌고 있다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+7000선+SK하이닉스+삼성전자+강세",
+      "imagePrompt": "Stock exchange trading board with upward trend arrows and glowing financial data displays, dramatic blue lighting, close-up of electronic display screens, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-18 아침 브리핑\n\n1. 74명 사상 화재 책임자 검찰 송치\n2. 이재명 대통령 오늘 기자회견 개최\n3. 남성 육아휴직·유산휴가 오늘부터 확대\n4. SK하이닉스 성과급, 현금 50%로 조정\n5. 코스피 7000선 지켜…반도체 대형주 강세\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
