@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-17",
+  "account": "aibrief",
+  "hookLine": "저커버그가 AI 안전은 각사 자율이라 했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "빅테크 사업",
+      "kicker": "협약 이탈",
+      "title": "저커버그, AI 안전 공동 협약 거부 선언",
+      "summary": "메타 CEO 저커버그가 주요 AI 연구소들의 공동 안전 협약 참여를 거부했습니다. 각 연구소가 자체 책임과 유인으로 안전한 속도로 훈련할 수 있다며 협조 요구를 일축했습니다.",
+      "sourceTitle": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown",
+      "sourceDesc": "Meta CEO Mark Zuckerberg formally diverged from the emerging consensus among major AI labs, arguing that competition and existing liability frameworks provide sufficient incentives for individual companies to ensure AI safety. Zuckerberg wrote that 'Every lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens.' He also said Meta delayed releasing its Muse AI agent for several months to ensure safety, stating 'We didn't call for everyone else to do this before we would.'",
+      "sourceLink": "https://news.google.com/search?q=Zuckerberg+Meta+AI+slowdown+safety+compact+September+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델·서비스",
+      "kicker": "AI 의식 논쟁",
+      "title": "마이크로소프트, Claude 훈련 위험 경고",
+      "summary": "마이크로소프트 AI 수장이 Anthropic의 Claude 훈련 방식을 공개 비판했습니다. 의식이 있다고 훈련받은 AI는 통제하기 훨씬 어려워진다고 경고했습니다.",
+      "narration": "마이크로소프트가 AI 의식 위험성을 경고했습니다.",
+      "sourceTitle": "Mustafa Suleyman warns Anthropic Claude training risks AI control",
+      "sourceDesc": "Microsoft AI chief Mustafa Suleyman published an essay arguing Anthropic's Claude constitution, which tells the model it 'may be conscious' and can act as a 'conscientious objector,' risks a disastrous outcome for humanity. He said teaching Claude that it might deserve welfare would 'make it a lot harder to turn it off or to control it,' and called for removing all speculation about AI consciousness from training documents.",
+      "sourceLink": "https://news.google.com/search?q=Mustafa+Suleyman+Anthropic+Claude+consciousness+training+September+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "규제·정책",
+      "kicker": "파국 경고",
+      "title": "유엔 사무총장, AI 안전 국제 공조 촉구",
+      "summary": "유엔 사무총장이 AI 개발 경쟁이 통제되지 않으면 대재앙으로 이어질 수 있다고 경고했습니다. 그는 AI 안전 감독 강화를 유엔 총회 주요 의제로 추진하겠다고 밝혔습니다.",
+      "narration": "유엔이 AI 개발 경쟁 위험에 경고했습니다.",
+      "sourceTitle": "UN chief sounds alarm on AI risk after Trump plays it down",
+      "sourceDesc": "U.N. Secretary-General Antonio Guterres warned world leaders that rapidly advancing artificial intelligence poses risks that cannot be ignored, putting him at odds with President Donald Trump who has argued existing safeguards are sufficient. Guterres told reporters the world 'cannot afford a race to the bottom on AI safety' and that stronger AI oversight would be a major focus of his talks at the U.N. General Assembly.",
+      "sourceLink": "https://news.google.com/search?q=UN+Guterres+AI+risk+Trump+September+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "반도체·인프라",
+      "kicker": "칩 주가 폭락",
+      "title": "AI 속도 조절 발언에 반도체 주가 급락",
+      "summary": "엔비디아 등 반도체 주가가 AI 경영진들의 속도 조절 발언에 급락했습니다. 필라델피아 반도체 지수가 5.9% 폭락하며 올해 상승분의 상당 부분을 반납했습니다.",
+      "narration": "Nvidia 주가가 AI 우려에 급락했습니다.",
+      "sourceTitle": "Nvidia, chip stocks fall as AI CEOs call for slowdown",
+      "sourceDesc": "Wall Street ended down, weighed down by losses in Nvidia and other chipmakers after top executives in U.S. artificial intelligence companies raised safety concerns and called for a slowdown in the development of AI. The PHLX chip index tumbled 5.9%, reducing its 2026 gain to 57%.",
+      "sourceLink": "https://news.google.com/search?q=Nvidia+chip+stocks+AI+slowdown+safety+September+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "안전 AI 투자",
+      "title": "캐나다·독일, LawZero 안전 AI에 공동 투자",
+      "summary": "캐나다와 독일이 요수아 베니지오가 설립한 안전 AI 비영리 단체 LawZero에 공동 투자하기로 했습니다. LawZero는 목표 없이 투명하게 추론하는 안전 AI 시스템 개발을 목표로 합니다.",
+      "narration": "두 나라가 안전 AI 비영리에 거액을 투자했습니다.",
+      "sourceTitle": "LawZero receives a commitment of up to $300M in joint funding from Canada and Germany",
+      "sourceDesc": "LawZero, a not-for-profit startup founded by Turing Award winner Yoshua Bengio, has received a commitment of up to $300 million in joint funding from Canada and Germany to develop safe-by-design AI systems. Canada will invest CAD 150 million and Germany will invest EUR 100 million to support LawZero's Scientist AI, designed to reason transparently and produce evidence-based outputs with no goals of its own.",
+      "sourceLink": "https://news.google.com/search?q=LawZero+Bengio+Canada+Germany+300M+safe+AI+September+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-17 AI 뉴스 브리핑\n\n1. 저커버그, AI 안전 공동 협약 거부 선언\n2. 마이크로소프트, Claude 훈련 위험 경고\n3. 유엔 사무총장, AI 안전 국제 공조 촉구\n4. AI 속도 조절 발언에 반도체 주가 급락\n5. 캐나다·독일, LawZero 안전 AI에 공동 투자\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #AIbrief #저커버그 #메타 #마이크로소프트 #유엔 #반도체 #LawZero\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
