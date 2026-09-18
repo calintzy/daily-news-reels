@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-18",
+  "slot": "pm",
+  "hookLine": "구미 교사가 전기충격기 들고 학생들을 위협했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "학교 위협",
+      "title": "등굣길 구미 교사, 전기충격기로 학생 위협",
+      "summary": "경북 구미 중학교에서 30대 교사가 전기충격기 들고 등교생 위협해 경찰에 붙잡혔습니다. '같이 죽자' 등을 외쳤으나 다친 학생은 없으며, 교사는 병원에 긴급입원됐습니다.",
+      "sourceTitle": "등교생에 전기충격기 들고 \"같이 죽자\"…30대 교사가 벌인 짓",
+      "sourceDesc": "18일 오전 8시 14분쯤 경북 구미시의 한 중학교 교문에서 30대 교사 A씨가 전기충격기를 들고 학생들을 위협한다는 신고가 접수됐다. A씨는 등교하는 학생들을 향해 '오늘 죽을 거다', '같이 죽자' 등의 말을 한 것으로 알려졌다. 출동한 경찰이 현장에서 A씨를 붙잡아 병원에 긴급입원 조치했으며, 이 과정에서 다친 학생이나 교사는 없는 것으로 전해졌다.",
+      "sourceLink": "https://news.google.com/search?q=구미+중학교+교사+전기충격기+위협+2026",
+      "imagePrompt": "Taser stun gun device lying on asphalt near a school gate entrance, yellow caution tape in soft background, early morning light, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "기자회견 후속",
+      "title": "이재명 대통령 기자회견 결과: 연임·파병 없다",
+      "summary": "이재명 대통령 기자회견 후속으로, 연임할 생각이 전혀 없으며 헌법상 불가능하다고 밝혔습니다. 호르무즈해협 파병도 없다는 입장을 분명히 했습니다.",
+      "sourceTitle": "李대통령 \"연임 생각 전혀 없어, 전쟁 관여·개입 파병 없다\"(종합)",
+      "sourceDesc": "이재명 대통령이 18일 청와대 영빈관에서 기자회견을 열고 연임할 생각이 전혀 없으며, 개헌을 통한 연임은 헌법상 불가능하다고 밝혔다. 호르무즈해협 파병과 관련해서는 전쟁 관여·개입 파병은 없다는 입장을 분명히 했으며, 공소취소 조항 삭제를 국회에 요청했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+기자회견+연임+파병+2026년+9월+18일",
+      "imagePrompt": "Empty presidential press conference hall with rows of unoccupied press chairs facing a podium with multiple microphones, dramatic formal ceremonial lighting, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "유류비 인하",
+      "title": "유류세 인하 11월까지 2개월 추가 연장",
+      "summary": "정부가 오늘 유류세 인하 조치를 11월 말까지 2개월 연장한다고 밝혔습니다. 휘발유 15%, 경유 25% 인하율이 유지되어 국민 유류비 부담이 완화됩니다.",
+      "sourceTitle": "유류세 인하 11월 말까지 두 달 연장…\"국민 유류비 부담 경감\"",
+      "sourceDesc": "정부가 18일 중동 정세 불안이 이어지는 상황에서 국민의 유류비 부담을 줄이기 위해 유류세 한시적 인하 조치를 11월 말까지 2개월 연장한다고 밝혔다. 현재와 마찬가지로 유종별로 휘발유 15%, 경유 25%, 부탄 25%의 인하율이 유지된다.",
+      "sourceLink": "https://news.google.com/search?q=유류세+인하+11월+연장+2026년+9월",
+      "imagePrompt": "Close-up of a gasoline pump nozzle at a fuel station with price display board, warm afternoon sunlight, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사건",
+      "kicker": "해상 수색",
+      "title": "부산 침몰 예인선, 실종자 5명 수색 계속",
+      "summary": "부산 앞바다에서 침몰한 예인선의 실종자 5명을 찾기 위한 수색이 계속 이어지고 있습니다. 해경이 함선을 투입해 야간 수색을 진행했으나 아직 실종자를 발견하지 못하고 있습니다.",
+      "sourceTitle": "부산 침몰 예인선 보름째 야간수색…함선 16척, 해경·군 병력 투입",
+      "sourceDesc": "부산 앞바다에서 침몰한 예인선 티엔에스캐처호 실종자 수색이 보름째 이어지고 있다. 해경은 함선 16척과 항공기를 투입해 야간 수색을 진행하고 있으며, 실종자 5명은 아직 발견되지 않은 상태다. 수심 87m에 침몰한 선체 주변에서 민간 잠수사들도 수색에 참여하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=부산+예인선+침몰+실종자+수색+2026",
+      "imagePrompt": "Coast Guard search vessels on dark gray ocean waters with searchlights scanning the surface at night, dramatic overcast sky, maritime emergency documentary photography, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "국산 비만신약",
+      "title": "한미약품 에페, 연내 출시 임박",
+      "summary": "한미약품이 국내 독자 개발 비만치료제 '에페'의 연내 출시를 추진합니다. 이르면 10월 식약처 허가를 받는 국내 첫 GLP-1 비만약으로, 임상에서 평균 9.75% 체중 감량 효과를 확인했습니다.",
+      "sourceTitle": "한미약품 비만치료제 '에페' 출시 임박",
+      "sourceDesc": "한미약품이 국내 독자 기술로 개발한 GLP-1 비만치료제 '에페글레나타이드'(제품명 에페)를 이르면 10월 식품의약품안전처 품목 허가를 받아 연내 출시할 계획이다. 임상 3상에서 한국인 비만 환자를 대상으로 한 시험에서 평균 9.75%의 체중감소율을 확인했으며 우수한 안전성이 입증됐다.",
+      "sourceLink": "https://news.google.com/search?q=한미약품+에페+비만치료제+출시+임박",
+      "imagePrompt": "Close-up of a medical injection pen placed on a clean white laboratory surface, abstract pharmaceutical equipment in soft-focus background, clinical documentary lighting, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-18 저녁 브리핑\n\n1. 등굣길 구미 교사, 전기충격기로 학생 위협\n2. 이재명 대통령 기자회견 결과: 연임·파병 없다\n3. 유류세 인하 11월까지 2개월 추가 연장\n4. 부산 침몰 예인선, 실종자 5명 수색 계속\n5. 한미약품 에페, 연내 출시 임박\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail", "googlenews": "fail" },
+    "signalHits": []
+  }
+}
