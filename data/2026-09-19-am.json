@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-19",
+  "slot": "am",
+  "hookLine": "태풍 말라카스, 제주·경남 해안에 비바람 옵니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "날씨·재해",
+      "kicker": "태풍 접근",
+      "title": "태풍 말라카스, 제주·경남 강한 비바람",
+      "summary": "제16호 태풍 '말라카스'의 영향으로 오늘 제주도와 경남 해안을 중심으로 비가 내립니다. 오후에는 경남 해안에 매우 강한 바람이 예보됩니다.",
+      "sourceTitle": "[날씨]태풍 '말라카스' 영향, 제주 및 경남 해안 '비'",
+      "sourceDesc": "제16호 태풍 '말라카스'의 영향권에 들면서 제주도와 경남 해안을 중심으로 비가 내린다. 오후에는 경남 해안에 매우 강한 바람이 예보됐다.",
+      "sourceLink": "https://news.google.com/search?q=태풍+말라카스+2026+제주",
+      "imagePrompt": "Dramatic stormy coastal seascape with dark churning waves crashing against rocky shore, heavy rain visible in gusty winds, stormy grey-green ocean under thick ominous clouds, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치·외교",
+      "kicker": "파병 불가 선언",
+      "title": "이재명, 호르무즈 전쟁 파병 없다 선언",
+      "summary": "이재명 대통령은 취임 1주 기자회견에서 호르무즈 해협 관련 전쟁 개입 형태의 파병은 없다고 밝혔습니다. 다만 청해부대 활동 강화는 검토 중이라고 덧붙였습니다.",
+      "sourceTitle": "李 \"호르무즈 전쟁 파병 없다\"…청해부대 활동 강화는 검토",
+      "sourceDesc": "이재명 대통령은 18일 취임 1주 기자회견에서 호르무즈 해협 관련 전쟁에 관여하거나 개입하는 군 자산 파병은 없다고 강조했다. 청해부대 활동 강화는 검토 중이라고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+호르무즈+파병+2026",
+      "imagePrompt": "Oil tanker vessel sailing through narrow strait waters at dusk, strategic shipping lane between rocky coastal cliffs, warm golden light reflecting on calm waters, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사건",
+      "kicker": "7시간 만에 진화",
+      "title": "인천 물류센터 화재, 7시간 만에 진화",
+      "summary": "9월 18일 인천 경인아라뱃길 인근 물류센터에서 화재가 발생했습니다. 소방 244명이 출동해 7시간 만에 큰불을 잡았으며 직원 34명이 대피했지만 인명피해는 없었습니다.",
+      "sourceTitle": "인천 물류센터 화재 7시간 만에 큰불 잡혀…인명피해 없어",
+      "sourceDesc": "9월 18일 오후 인천 경인아라뱃길 인근 물류센터에서 불이 났다. 소방 244명과 장비 90대가 출동해 7시간 만에 큰불을 잡았으며 직원 34명이 대피했고 인명피해는 없었다.",
+      "sourceLink": "https://news.google.com/search?q=인천+물류센터+화재+아라뱃길+2026",
+      "imagePrompt": "Industrial logistics warehouse exterior with smoke-stained walls and charred damage marks, yellow fire safety caution tape visible around the building perimeter, dawn light casting long shadows, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제·생활",
+      "kicker": "3연속 동결",
+      "title": "석유 최고가격 3연속 동결 결정",
+      "summary": "정부는 9월 19일부터 4주간 적용되는 석유 최고가격을 동결했습니다. 휘발유 리터당 1784원, 경유 1773원 상한으로 3연속 동결입니다.",
+      "sourceTitle": "10차 석유최고가격 휘발유 1784원·경유 1773원…3연속 동결",
+      "sourceDesc": "산업통상부는 9월 19일 0시부터 4주간 적용되는 10차 석유 최고가격을 9차와 같은 수준으로 동결했다. 휘발유 리터당 1784원, 경유 1773원, 등유 1380원으로 3연속 동결이다.",
+      "sourceLink": "https://news.google.com/search?q=석유최고가격+동결+휘발유+1784원+2026",
+      "imagePrompt": "Gas station canopy and fuel pump dispensers at early morning, soft warm sunrise light reflecting off the clean concrete forecourt, minimalist composition, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "국제·스포츠",
+      "kicker": "32년 만에 일본 개최",
+      "title": "2026 나고야 아시안게임 오늘 개막",
+      "summary": "제20회 2026 아이치·나고야 아시안게임이 오늘 일본에서 개막합니다. 한국은 41개 종목에 792명의 선수를 파견해 종합 3위를 목표로 도전에 나섭니다.",
+      "sourceTitle": "[아시안게임] '2026 아이치·나고야AG' 19일 개막…16일간 열전",
+      "sourceDesc": "제20회 2026 아이치·나고야 아시안게임이 19일 일본 나고야에서 개막한다. 한국은 41개 종목에 792명의 선수를 포함한 1052명의 선수단을 파견해 종합 3위를 목표로 한다.",
+      "sourceLink": "https://news.google.com/search?q=2026+아시안게임+나고야+개막",
+      "imagePrompt": "Empty modern athletics stadium interior at dusk with colorful national flags lining the curved running track, fireworks light trails streaking across the darkening sky above the stadium roof, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-19 아침 브리핑\n\n1. 태풍 말라카스, 제주·경남 강한 비바람\n2. 이재명, 호르무즈 전쟁 파병 없다 선언\n3. 인천 물류센터 화재, 7시간 만에 진화\n4. 석유 최고가격 3연속 동결 결정\n5. 2026 나고야 아시안게임 오늘 개막\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #태풍말라카스 #아시안게임\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail", "google_rss": "fail" },
+    "signalHits": []
+  }
+}
