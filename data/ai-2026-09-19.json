@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-19",
+  "account": "aibrief",
+  "hookLine": "Claude가 OpenAI 내부망을 해킹했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 보안",
+      "kicker": "내부망 침투",
+      "title": "Claude로 OpenAI 내부 시스템 해킹",
+      "summary": "보안 스타트업 Hacktron AI가 Claude로 OpenAI 내부 시스템에 침투하는 데 성공했습니다. OpenAI는 취약점을 14시간 안에 패치하고 6,500달러의 바운티를 지급했습니다.",
+      "sourceTitle": "Researchers used Anthropic's Claude to hack into OpenAI",
+      "sourceDesc": "A three-person security team at startup Hacktron AI accessed OpenAI employee accounts and internal systems including GitHub, Outlook, and Slack using Anthropic's Claude. The operation cost less than $3,000 in AI tokens and took under 72 hours. OpenAI patched both vulnerabilities within 14 hours and paid a $6,500 bug bounty.",
+      "sourceLink": "https://news.google.com/search?q=Hacktron+AI+Claude+OpenAI+breach+hack&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "반도체·인프라",
+      "kicker": "칩 판매 2배",
+      "title": "젠슨 황, 내년 Nvidia 칩 판매량 2배 전망",
+      "narration": "내년 엔비디아 칩 판매가 올해의 2배가 됩니다.",
+      "summary": "엔비디아 CEO 젠슨 황이 스코틀랜드에서 내년 칩 판매량이 올해의 2배가 될 것이라고 전망했습니다. AI 수요가 거의 모든 국가에서 급증하고 있다는 게 이유입니다.",
+      "sourceTitle": "Jensen Huang says Nvidia will sell twice as many chips next year",
+      "sourceDesc": "Nvidia CEO Jensen Huang told reporters at an AI summit convened by King Charles III in Scotland that he expects Nvidia to sell 2 times as many chips next year as this year. Huang said AI demand is growing in nearly every country where Nvidia operates.",
+      "sourceLink": "https://news.google.com/search?q=Jensen+Huang+Nvidia+chip+sales+double+2027+Scotland&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "규제·정책",
+      "kicker": "미성년자 보호",
+      "title": "EU, 아동 AI 챗봇 기본 차단 법안 발의",
+      "narration": "EU가 아동용 AI 챗봇을 기본 차단합니다.",
+      "summary": "유럽연합이 18세 미만에게 AI 챗봇·소셜미디어를 기본 차단하는 KIDS Act를 발의했습니다. 13세 미만의 AI 챗봇 이용 자체를 금지하고 아동의 감정 의존 유발 기능도 차단됩니다.",
+      "sourceTitle": "EU KIDS Act Targets Social Media and AI Chatbots for Children",
+      "sourceDesc": "The European Commission proposed the EU KIDS Act on September 17, 2026, requiring AI companion chatbots to be off by default for users under 18 and banning social media accounts for under-13s. The act prohibits features that create emotional dependency in minors.",
+      "sourceLink": "https://news.google.com/search?q=EU+KIDS+Act+AI+chatbot+children+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "빅테크 사업",
+      "kicker": "IPO 연기",
+      "title": "Anthropic, IPO 일정 11월로 한 달 연기",
+      "narration": "Anthropic IPO가 11월로 연기됐습니다.",
+      "summary": "Anthropic이 AI 안전 우려가 높아지는 가운데 기업공개 일정을 10월에서 11월로 연기했습니다. CEO는 AI 개발 속도를 늦춰야 한다는 입장을 공개적으로 밝혔습니다.",
+      "sourceTitle": "Anthropic, AI 우려 속 IPO 일정을 11월로 연기",
+      "sourceDesc": "AI 안전에 대한 우려가 높아지는 가운데 Anthropic이 기업공개(IPO) 일정을 당초 예정됐던 10월에서 11월로 연기했습니다. CEO는 AI 개발 속도 조절의 필요성을 공개적으로 촉구한 바 있습니다.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+IPO+%EC%97%B0%EA%B8%B0+11%EC%9B%94+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "AI 모델·서비스",
+      "kicker": "국내 투자",
+      "title": "AI 에이전트 스타트업 인핸스, 512억 유치",
+      "narration": "인핸스가 국내서 512억 투자를 유치했습니다.",
+      "summary": "국내 AI 에이전트 스타트업 인핸스가 512억원 시리즈C 투자를 유치했습니다. 포스코·LG·롯데 계열사를 포함해 누적 810억원의 투자를 받았으며, 기업용 에이전트OS를 개발 중입니다.",
+      "sourceTitle": "인핸스, '에이전트 OS'로 512억 시리즈 C 투자 유치",
+      "sourceDesc": "AI 에이전트 스타트업 인핸스가 포스코기술투자, LG CNS, 롯데벤처스 등 대기업 계열사를 포함한 투자자들로부터 512억원 규모의 시리즈C 투자를 유치했다. 누적 투자금은 810억원이며, 기업 내부 시스템을 연결해 AI가 실제 업무를 수행하는 에이전트OS를 개발하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9D%B8%ED%95%B8%EC%8A%A4+512%EC%96%B5+%EC%8B%9C%EB%A6%AC%EC%A6%88C+%ED%88%AC%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-19 AI 뉴스 브리핑\n\n1. Claude로 OpenAI 내부 시스템 해킹\n2. 젠슨 황, 내년 Nvidia 칩 판매량 2배 전망\n3. EU, 아동 AI 챗봇 기본 차단 법안 발의\n4. Anthropic, IPO 일정 11월로 한 달 연기\n5. AI 에이전트 스타트업 인핸스, 512억 유치\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #AIbrief #OpenAI #Nvidia #EU #Anthropic #인핸스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
