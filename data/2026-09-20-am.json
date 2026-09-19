@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-20",
+  "slot": "am",
+  "hookLine": "태풍 말라카스, 일본 규슈에 기록적 폭우입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "날씨·재해",
+      "kicker": "일본 상륙",
+      "title": "태풍 말라카스 일본 상륙, 규슈 기록적 폭우",
+      "summary": "태풍 말라카스가 20일 일본 가고시마현에 상륙하며 규슈 지역에 기록적인 폭우를 쏟아냈습니다. 67만명 이상에게 대피령이 내려졌으며 일부 지역에서는 600㎜를 넘는 비가 쏟아졌습니다.",
+      "sourceTitle": "태풍 '말라카스' 日 상륙…규슈지역 기록적 폭우",
+      "sourceDesc": "태풍 말라카스가 20일 새벽 일본 가고시마현 오스미 반도에 상륙한 뒤 규슈 지역에 기록적인 폭우를 내렸다. 미야자키현 휴가시에 600㎜ 가량의 비가 내리는 등 규슈와 시코쿠 주민 67만명 이상에게 대피령이 내려졌다.",
+      "sourceLink": "https://news.google.com/search?q=태풍+말라카스+일본+상륙+규슈+2026",
+      "imagePrompt": "Dramatic wide-angle view of stormy coastline with powerful waves crashing against a concrete seawall, dark churning ocean under thick black storm clouds, heavy horizontal rain streaks in gusty wind, no people, no text, vertical 9:16 composition, photojournalistic documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "20일 만에 낙마",
+      "title": "김승원, 지명 20일 만에 법무장관 후보 사퇴",
+      "summary": "김승원 법무부 장관 후보자가 이재명 대통령의 기자회견 다음 날 자진 사퇴했습니다. 지명 20일 만의 사퇴로, 후보자는 정부에 부담을 더해서는 안 된다고 밝혔습니다.",
+      "sourceTitle": "김승원 법무장관 후보자 자진 사퇴…'어제 대통령 회견보며 결심 굳혀'",
+      "sourceDesc": "김승원 법무부 장관 후보자가 19일 자진 사퇴했다. 이재명 대통령이 지난달 30일 지명한 지 20일 만으로, 김 후보자는 이날 기자회견에서 '어제 대통령 기자회견을 보며 결심을 굳혔다'며 '정부에 부담을 더해서는 안 된다'고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=김승원+법무장관+후보자+사퇴+2026",
+      "imagePrompt": "Empty government press conference podium with multiple microphones under formal institutional lighting, rows of vacant chairs receding into the background, Korean government building interior aesthetic, no people, no text, vertical 9:16 composition, photojournalistic documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "사건·안보",
+      "kicker": "대법원 확정",
+      "title": "군 병사, 중국에 군사기밀 팔아 징역 4년",
+      "summary": "육군 병사가 소셜미디어로 알게 된 중국인에게 군사기밀을 7차례 넘기고 약 1726만원을 받은 혐의로 재판을 받았습니다. 대법원은 징역 4년과 벌금 2000만원을 선고한 원심을 확정했습니다.",
+      "sourceTitle": "중국에 1700만원 받고 한미연합연습 등 군사기밀 넘긴 육군 병사…징역 4년 확정",
+      "sourceDesc": "A씨는 소셜미디어를 통해 알게 된 중국인의 제안을 받고 7차례에 걸쳐 약 1726만원을 받고 한미연합연습, 유엔사 관련 자료 등 군사상 기밀을 유출했다. 대법원은 징역 4년과 벌금 2000만원, 추징금 1907만원을 선고한 원심판결을 확정했다.",
+      "sourceLink": "https://news.google.com/search?q=군사기밀+중국+유출+징역+4년+확정+2026",
+      "imagePrompt": "Dramatic close-up of a sealed classified document folder on a dark desk under a single spotlight casting sharp shadows, a small wristwatch-style covert camera device placed beside it, no people, no text, vertical 9:16 composition, photojournalistic documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "NYT 보도 반박",
+      "title": "청와대, 뉴욕타임스 이란 파병 거부 보도 반박",
+      "summary": "뉴욕타임스가 이재명 대통령이 이란 파병 요청을 거부했다고 보도하자 청와대가 정면 반박에 나섰습니다. 청와대는 전쟁·전투에 개입하지 않는 원칙 아래 미국과 구체적 기여 방안을 검토 중이라고 밝혔습니다.",
+      "sourceTitle": "청와대 '이 대통령, 트럼프 중동 관련 협조 요청 거절 아냐'…뉴욕타임스 보도 반박",
+      "sourceDesc": "뉴욕타임스가 이재명 대통령이 이란에 군대를 파병하지 않겠다고 밝혔다고 보도하자 청와대가 사실이 아니라고 반박했다. 청와대는 전쟁·전투에 개입하지 않는다는 원칙 하에 미국을 비롯한 국제사회와 소통하며 구체적 기여 방안을 검토 중이라고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=청와대+뉴욕타임스+파병+이란+반박+2026",
+      "imagePrompt": "Government press briefing room interior with large national emblem backdrop and empty podium with microphone stand, formal diplomatic atmosphere under warm overhead lighting, no people, no text, vertical 9:16 composition, photojournalistic documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "인권위 조사에 공지 삭제",
+      "title": "성수동 노차이나존 카페, 인권위 조사 받다",
+      "summary": "서울 성수동의 한 카페가 중국인 손님을 받지 않겠다는 문구를 올려 인종차별 논란이 일었습니다. 국가인권위원회가 조사에 나서자 업주가 공지를 내리겠다고 밝혀 일단락됐습니다.",
+      "sourceTitle": "\"중국인 손님 안 받는다\" 대놓고 공지한 성수동 카페…\"인종차별\" 인권위 조사에 결국",
+      "sourceDesc": "서울 성수동의 한 카페가 소셜네트워크서비스에 중국인 손님을 받지 않겠다는 문구를 올려 인종차별 논란이 일었다. 국가인권위원회가 조사에 나서자 업주는 공지를 내리겠다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=성수동+노차이나존+카페+인권위+2026",
+      "imagePrompt": "Close-up of a modern urban coffee shop exterior with empty outdoor seating on a quiet Seongsu-district street, autumn morning light casting soft shadows across the storefront, traces where a window notice was removed visible on the glass, no people, no text, vertical 9:16 composition, photojournalistic documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-20 아침 브리핑\n\n1. 태풍 말라카스 일본 상륙, 규슈 기록적 폭우\n2. 김승원, 지명 20일 만에 법무장관 후보 사퇴\n3. 군 병사, 중국에 군사기밀 팔아 징역 4년\n4. 청와대, 뉴욕타임스 이란 파병 거부 보도 반박\n5. 성수동 노차이나존 카페, 인권위 조사 받다\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #태풍말라카스 #법무부 #군기밀 #파병 #노차이나존\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail", "google_rss": "fail" },
+    "signalHits": []
+  }
+}
