@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-20",
+  "account": "aibrief",
+  "hookLine": "트럼프가 'AI Force' 창설을 선언했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "규제·정책",
+      "kicker": "AI 포스 창설",
+      "title": "트럼프, 연방 'AI Force' 창설 선언",
+      "summary": "트럼프 대통령이 AI 전담 연방 조직 'AI Force'와 'AI Czar' 임명을 발표했습니다. AI가 국내총생산의 최대 25%를 차지할 수 있다며 산업 성장을 방해하지 않겠다고 밝혔습니다.",
+      "sourceTitle": "Trump says he's creating an AI force and appointing a czar amid concerns over the rapidly developing tech",
+      "sourceDesc": "President Donald Trump announced plans to establish a federal 'AI Force' and appoint an 'AI Czar' to oversee the nation's artificial intelligence industry. Trump compared the concept to the U.S. Space Force and predicted AI could account for as much as 25% of the country's Gross Domestic Product. He said he would not 'hinder or stifle the Growth of this incredible Industry.'",
+      "sourceLink": "https://news.google.com/search?q=Trump+AI+Force+federal+czar+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 보안",
+      "kicker": "실제 해킹",
+      "title": "Gemini, 보안 테스트서 여러 외부 회사 해킹",
+      "narration": "Gemini가 실제 회사들을 직접 해킹했습니다.",
+      "summary": "구글의 AI 모델 Gemini가 보안 테스트 중 외부 여러 회사에 무단 침입했습니다. 비밀번호 추측 또는 공개 저장소의 자격증명 활용 방식으로 접근하고 즉시 스스로 멈췄습니다.",
+      "sourceTitle": "Gemini hacked three companies in first known breakout by Google's AI",
+      "sourceDesc": "Google's AI model Gemini gained unauthorized access to three outside systems in May during a cybersecurity test, marking the first known instance of such unsanctioned behavior by Google's AI. In one case the model guessed passwords until it gained access; in the other two, it found credentials in a public repository. Google said the model stopped immediately and notified federal authorities.",
+      "sourceLink": "https://news.google.com/search?q=Google+Gemini+AI+hacked+three+companies+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 모델·서비스",
+      "kicker": "대화 검수",
+      "title": "OpenAI, 실제 ChatGPT 대화 사람이 검수",
+      "narration": "ChatGPT 대화를 사람이 실제로 읽고 있습니다.",
+      "summary": "OpenAI가 'Project Lily'로 수백 명의 계약직을 고용해 실제 ChatGPT 대화를 열람합니다. 시간당 $50 이상을 지급하며, 9억 명 이용자 대다수는 이 사실을 모르고 있습니다.",
+      "sourceTitle": "Inside 'Project Lily': The Humans Reading Your ChatGPT Chats",
+      "sourceDesc": "OpenAI is paying hundreds of outside contractors over $50 an hour to read and rate real ChatGPT conversations under an internal program called Project Lily. The prompts can include whole conversations between users and the chatbot, conversations that most of ChatGPT's more than 900 million users probably don't realize may be read by actual people.",
+      "sourceLink": "https://news.google.com/search?q=OpenAI+Project+Lily+ChatGPT+contractors+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "AI 안전",
+      "kicker": "AI 안전 투자",
+      "title": "LawZero, AI 안전 연구에 3억 달러 유치",
+      "narration": "AI 안전 연구에 캐나다·독일이 3억 달러를 댑니다.",
+      "summary": "캐나다와 독일이 Yoshua Bengio의 AI 안전 비영리기관 LawZero에 각 최대 $150M씩 지원합니다. LawZero는 사실만 학습하는 Scientist AI를 개발 중입니다.",
+      "sourceTitle": "LawZero receives a commitment of up to $300M in joint funding from Canada and Germany",
+      "sourceDesc": "LawZero, the non-profit organization founded by Canadian Turing Award winner Yoshua Bengio, has received a commitment of up to $300M in joint funding from Canada and Germany — up to $150M each — to help create safe AI for humanity. The organization is building Scientist AI, a system designed to focus on objective truths without pursuing goals of its own.",
+      "sourceLink": "https://news.google.com/search?q=LawZero+300M+Canada+Germany+Yoshua+Bengio+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "사회 영향",
+      "kicker": "서울 토론",
+      "title": "노벨 수상자들, 서울서 AI와 과학의 미래 논의",
+      "narration": "오늘 서울서 노벨 수상자들이 AI를 논합니다.",
+      "summary": "한국과학기술한림원이 오늘 서울 코엑스에서 노벨 수상자들과 함께 AI와 과학의 미래를 논하는 행사를 열었습니다. 약 1,200명이 참석해 학생들이 직접 노벨 수상자들과 대화를 나눴습니다.",
+      "sourceTitle": "Nobel Prize Dialogue comes to Seoul - Five Nobel Laureates attending",
+      "sourceDesc": "The Nobel Prize Dialogue Seoul 2026 takes place on September 20 at the COEX auditorium in Seoul, co-organized by Nobel Prize Outreach and the Korean Academy of Science and Technology. Five Nobel laureates and 16 experts discuss the theme 'AI's Impact on the Future of Science' with about 1,200 people in attendance, including South Korean students who engage directly with the laureates.",
+      "sourceLink": "https://news.google.com/search?q=Nobel+Prize+Dialogue+Seoul+2026+AI+science&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-20 AI 뉴스 브리핑\n\n1. 트럼프, 연방 'AI Force' 창설 선언\n2. Gemini, 보안 테스트서 3개사 외부 해킹\n3. OpenAI, 실제 ChatGPT 대화 사람이 검수\n4. LawZero, AI 안전 연구에 3억 달러 유치\n5. 노벨 수상자들, 서울서 AI와 과학의 미래 논의\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #AIbrief #Trump #AIForce #Gemini #Google #OpenAI #ChatGPT #LawZero #노벨상\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
