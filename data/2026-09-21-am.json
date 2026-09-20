@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-21",
+  "slot": "am",
+  "hookLine": "북한이 SRBM 2발을 3시간 간격으로 발사했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "북한 도발",
+      "title": "北 SRBM 2발 연속 도발, 450km 비행",
+      "summary": "북한이 어제 원산에서 SRBM 2발을 3시간 간격으로 발사했습니다. 각각 450km와 600km 이상 비행했으며 유엔총회를 앞두고 한 도발입니다.",
+      "sourceTitle": "북한, 3시간 간격 SRBM 2발 발사…각 450km·600km 이상 비행",
+      "sourceDesc": "북한이 20일 오후 원산 일대에서 동해상으로 단거리탄도미사일(SRBM) 2발을 약 3시간 간격으로 잇달아 발사했다. 각각 450km, 600km 이상 비행했으며 유엔총회를 앞두고 한 도발로 미국 주도 군사훈련에 대한 반응이다.",
+      "sourceLink": "https://news.google.com/search?q=북한+SRBM+2발+발사+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Radar screen display showing a missile trajectory arc, control room monitoring equipment with alert indicators, dark room with glowing screens, no people, no text, vertical 9:16 composition, documentary style, dramatic lighting"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "집값 고공행진",
+      "title": "서울 집값 83주 연속 상승, 역대 최장 눈앞",
+      "summary": "서울 아파트 매매가격이 83주째 연속 상승해 역대 최장 기록에 다가서고 있습니다. 집값 규제에도 불구하고 상승세가 꺾이지 않고 있습니다.",
+      "sourceTitle": "서울 아파트값 83주째 상승… 역대 최장 눈앞",
+      "sourceDesc": "서울 아파트 매매가격이 83주째 상승세를 이어가며 역대 최장 기록인 85주에 근접했다. 한국부동산원에 따르면 지난해 2월부터 집값이 멈추지 않고 있으며 이달 첫째 주에도 전주 대비 0.20% 올랐다.",
+      "sourceLink": "https://news.google.com/search?q=서울+아파트+83주+상승&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Wide angle view of dense high-rise apartment buildings against a hazy sky, construction cranes visible on the horizon, no people, no text, vertical 9:16 composition, photojournalism style, muted urban tones"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "대통령 지지율",
+      "title": "이 대통령 지지율 37% 또 최저치 경신",
+      "summary": "한국갤럽 조사에서 이 대통령의 국정 지지율이 37%로 취임 후 최저치를 기록했습니다. 부정평가는 56%로 취임 후 최고치를 동시에 경신했습니다.",
+      "sourceTitle": "이 대통령 지지율 37%, 또 최저치 경신…부정평가 전주 대비 5%↑[한국갤럽]",
+      "sourceDesc": "한국갤럽이 9월 15~17일 전국 성인 남녀를 대상으로 조사한 결과 이 대통령 직무 긍정평가는 37%로 전주 대비 1%포인트 하락했다. 부정평가는 56%로 취임 후 최고치를 기록했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+지지율+37+갤럽&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty government briefing room with microphone stand and flags, rows of unoccupied chairs, dramatic side lighting through windows, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "국산 비만신약",
+      "title": "한미약품 에페, 국산 GLP-1 비만신약 연내 출시",
+      "summary": "국내 비만치료제 시장의 86%를 위고비·마운자로가 장악한 가운데, 국산 GLP-1 신약 에페가 연내 출시를 앞두고 있습니다. 한미약품은 가격 경쟁력으로 시장 틈새를 공략할 계획입니다.",
+      "sourceTitle": "위고비·마운자로 86% 장악…한미약품 '에페' 가격으로 틈새 공략",
+      "sourceDesc": "국내 비만치료제 시장의 86%를 점유한 위고비·마운자로에 국산 GLP-1 신약 에페(에페글레나타이드)가 연내 출시를 목표로 도전장을 냈다. 한미약품은 가격 경쟁력을 앞세운 틈새 공략을 통해 연매출 1000억원 이상을 목표로 한다.",
+      "sourceLink": "https://news.google.com/search?q=한미약품+에페+비만신약+출시&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a medical injection pen placed on a clean white surface with soft pharmaceutical laboratory lighting, blurred medicine bottles in background, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "추석 귀성길",
+      "title": "추석 귀성 24일 오전 최대 혼잡 예보",
+      "summary": "올 추석 귀성은 24일 오전, 귀경은 25일 오후가 가장 붐빌 것으로 예상됩니다. 서울에서 부산까지 10시간반 이상 걸릴 전망이니 미리 출발하시는 것이 좋겠습니다.",
+      "sourceTitle": "귀성 24일 오전·귀경 25일 오후 혼잡…서울→부산 10시간반",
+      "sourceDesc": "추석 연휴 귀성은 24일 오전, 귀경은 25일 오후가 가장 혼잡할 전망이다. 서울에서 부산까지 10시간30분이 예상되며 24일부터 27일까지 고속도로 통행료가 전면 면제된다.",
+      "sourceLink": "https://news.google.com/search?q=추석+귀성+24일+혼잡+고속도로&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial drone view of a wide multi-lane highway filled with vehicle tail lights stretching into the distance at dusk, rolling green hills on both sides, no people, no text, vertical 9:16 composition, long exposure photography"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-21 아침 브리핑\n\n1. 北 SRBM 2발 연속 도발, 450km 비행\n2. 서울 집값 83주 연속 상승, 역대 최장 눈앞\n3. 이 대통령 지지율 37% 또 최저치 경신\n4. 한미약품 에페, 국산 GLP-1 비만신약 연내 출시\n5. 추석 귀성 24일 오전 최대 혼잡 예보\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침뉴스 #국내뉴스 #추석 #북한\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
