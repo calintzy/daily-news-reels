@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-21",
+  "slot": "pm",
+  "hookLine": "나눔장터에 트럭이 돌진해 7명이 사상했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "나눔장터 참변",
+      "title": "안성 나눔장터 트럭 돌진, 모자 등 7명 사상",
+      "summary": "안성 나눔장터 행사장에 트럭이 돌진해 봉사하던 모자가 사망하는 등 7명이 사상했습니다. 급발진을 주장하는 운전자는 오늘 영장심사에서 구속 여부가 결정됩니다.",
+      "sourceTitle": "'7명 사상' 안성 나눔장터 돌진 운전자 \"죽을 죄 지었다\"",
+      "sourceDesc": "안성 나눔장터에서 트럭이 돌진해 봉사하던 40대 여성과 중학생 아들 등 모자 2명이 숨지고 5명이 다쳤다. 급발진을 주장하던 60대 운전자는 21일 영장심사에서 '죽을 죄를 지었다'고 했다.",
+      "sourceLink": "https://news.google.com/search?q=안성+나눔장터+돌진+영장심사&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of police caution tape strung across a quiet community park with scattered flowers placed on the ground as a memorial, overcast sky, soft somber atmosphere, no people, no text, vertical 9:16 composition, documentary style, muted natural tones"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "유엔총회 외교",
+      "title": "이재명 대통령 유엔총회 출국, 트럼프 접촉 주목",
+      "summary": "이재명 대통령이 21~27일 미국·멕시코 순방에 나서며 오늘 출국했습니다. 유엔총회 기조연설과 트럼프 대통령과의 만남이 예정돼 있습니다.",
+      "sourceTitle": "李대통령, 오늘부터 美유엔총회·멕시코 순방…트럼프 만남 '주목'",
+      "sourceDesc": "이재명 대통령이 21일 미국 유엔총회 참석과 멕시코 국빈방문을 위해 출국했다. 21~27일 일정으로 뉴욕에서 기조연설을 하며 트럼프 대통령과의 별도 접촉이 예정됐다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+유엔총회+출국+트럼프&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "The United Nations headquarters building facade with a row of international flags waving in the breeze, dramatic cloudy sky overhead, glass tower reflection visible, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "삼성 주주 호재",
+      "title": "삼성전자 3분기 30조 배당 기준일 코앞",
+      "summary": "삼성전자 3분기 현금배당 기준일이 9월 30일로 다가왔습니다. 올해 배당소득 분리과세 적용으로 은퇴 투자자들의 건보료 부담도 덜어질 전망입니다.",
+      "sourceTitle": "삼전 30조 배당 코앞…건보료 부담도 덜었다",
+      "sourceDesc": "삼성전자의 3분기 현금배당 기준일이 9월 30일로 다가왔다. 고배당 기업 배당소득 분리과세 적용으로 배당금을 받는 은퇴 투자자들의 건강보험료 부담도 덜어질 전망이다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+30조+배당+기준일+건보료&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Stack of Korean won banknotes neatly arranged next to a sleek smartphone on a polished wooden desk with soft window light, no people, no text, vertical 9:16 composition, photojournalism style, clean financial aesthetic"
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "AI 반도체 투자",
+      "title": "SK하이닉스 美 인디애나 HBM 공장 건설",
+      "summary": "SK하이닉스가 미국 인디애나에 40억 달러를 투입해 HBM 패키징 공장을 짓고 있습니다. 한국 건설사업관리 기업이 미국 내 첫 AI 메모리 생산거점 건설을 맡았습니다.",
+      "sourceTitle": "'40억불 투입' SK하이닉스 美 HBM 패키징 공장 건설…한미글로벌이 관리한다",
+      "sourceDesc": "한미글로벌이 SK하이닉스가 미국 인디애나주에 건설 중인 HBM 패키징 공장의 건설사업관리를 수행한다. 총 40억 달러 이상이 투입되는 미국 내 첫 AI 메모리 생산거점이다.",
+      "sourceLink": "https://news.google.com/search?q=SK하이닉스+인디애나+HBM+공장+한미글로벌&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial view of a massive semiconductor factory construction site with steel beams, cranes, and industrial framework against a clear Midwestern sky, no people, no text, vertical 9:16 composition, photojournalism style, industrial documentary"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "귀성길 안전",
+      "title": "추석 전날 교통사고 평소 1.4배, 오후 집중",
+      "summary": "추석 귀성길 후속으로, 연휴 전날 교통사고가 평소보다 1.4배 증가합니다. 오후 4~6시에 사고가 집중되므로 귀성 운전 시 각별한 주의가 필요합니다.",
+      "sourceTitle": "추석 연휴 전날 교통사고 평소 1.4배…오후 4~6시 몰렸다",
+      "sourceDesc": "추석 연휴 전날 교통사고가 평소보다 1.4배 많이 발생하며 오후 4~6시에 집중되는 것으로 나타났다. 정부는 AI 빅데이터로 고위험 도로 50곳을 지정해 내비게이션으로 운전자에게 경고한다.",
+      "sourceLink": "https://news.google.com/search?q=추석+연휴+전날+교통사고+1.4배&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Long-exposure night photograph of a Korean expressway with blurred headlights and tail lights creating light trails, orange highway safety cones lined along the shoulder, no people, no text, vertical 9:16 composition, photojournalism style"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-21 저녁 브리핑\n\n1. 안성 나눔장터 트럭 돌진, 모자 등 7명 사상\n2. 이재명 대통령 유엔총회 출국, 트럼프 접촉 주목\n3. 삼성전자 3분기 30조 배당 기준일 코앞\n4. SK하이닉스 美 인디애나 HBM 공장 건설\n5. 추석 전날 교통사고 평소 1.4배, 오후 집중\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁뉴스 #추석 #삼성전자 #SK하이닉스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
