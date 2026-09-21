@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-22",
+  "slot": "am",
+  "hookLine": "DMZ서 지뢰 폭발, 발목 절단 부상자 나왔습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·안보",
+      "kicker": "서부전선 DMZ",
+      "title": "DMZ 지뢰 폭발, 군간부 3명 부상",
+      "summary": "서부전선 비무장지대에서 육군 25사단 수색 작전 중 지뢰 추정 폭발이 발생해 군 간부 3명이 부상했습니다. 간부 1명은 발목이 절단돼 수술 중이며, 북한 지뢰 가능성이 제기됩니다.",
+      "sourceTitle": "[종합] DMZ 수색작전 중 폭발…간부 3명 부상, 北지뢰 가능성 '촉각'",
+      "sourceDesc": "9월 21일 오전 서부전선 비무장지대(DMZ)에서 육군 25사단 소속 장병들이 수색로 개척 작전 중 미상의 폭발이 발생해 군 간부 3명이 부상했다. 간부 1명은 발목이 절단돼 헬기로 국군수도병원에 이송돼 수술 중이며 2명은 중상이다. 합참은 모든 가능성을 열고 조사 중이며 북한 지뢰 가능성에 무게가 실린다.",
+      "sourceLink": "https://news.google.com/search?q=DMZ+지뢰+폭발+군간부+부상+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A desolate demilitarized zone landscape at dawn with rusted barbed wire fences and overgrown terrain, thick morning fog hanging low over a military patrol path near the border, vertical 9:16 composition, photojournalism style, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "정치·외교",
+      "kicker": "유엔총회 연설",
+      "title": "이 대통령, 유엔서 한반도 평화공존 청사진 제시",
+      "summary": "이재명 대통령이 유엔총회 기조연설에서 한반도 평화공존 청사진과 유엔 개혁 방향을 제시했습니다. 트럼프 미국 대통령과의 별도 접촉도 예정됩니다.",
+      "sourceTitle": "이재명 대통령, 22일 유엔총회 기조연설에서 한반도 평화 공존 청사진 설명",
+      "sourceDesc": "이재명 대통령이 22일(현지시간) 유엔총회에서 기조연설을 통해 글로벌 문제 해결을 위한 유엔 개혁 방향과 한반도 평화공존의 청사진을 설명했다. 트럼프 미국 대통령과의 별도 접촉도 예정돼 있다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+유엔총회+기조연설+한반도+평화공존+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Wide angle view of the United Nations General Assembly hall interior with empty seats and rows of national nameplates, a lone podium with a microphone at the front, curved walls and high ceiling with international flags, vertical 9:16 composition, documentary style, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "의료 범죄",
+      "title": "강남 피부과 원장 프로포폴 불법 투약 구속",
+      "summary": "강남 논현동 피부과 원장이 환자 20여 명에게 프로포폴을 360여 차례 불법 투약한 혐의로 구속됐습니다. 약 기운에 취한 환자에게 시술 동의서를 받아 추가 결제를 유도한 혐의도 있습니다.",
+      "sourceTitle": "프로포폴 20여명에 '불법 투약' 혐의 논현동 피부과 원장 구속",
+      "sourceDesc": "강남구 논현동에서 피부과를 운영하는 30대 의사가 2025년 1월부터 올해 8월까지 약 20명의 환자를 대상으로 총 360여 차례에 걸쳐 프로포폴을 불법 투약한 혐의로 구속됐다. 환자들이 약 기운에 취한 상태에서 시술 동의서를 받아 추가 결제를 유도했다는 의혹도 있다.",
+      "sourceLink": "https://news.google.com/search?q=논현동+피부과+프로포폴+불법+투약+구속+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of an empty clinical examination chair in a sterile medical office, stainless steel tray with medical instruments visible nearby, soft overhead lighting, vertical 9:16 composition, documentary photography style, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "추석 민생 대책",
+      "title": "유류세 인하 11월까지 연장, 고속도로 기름값도 100원↓",
+      "summary": "정부가 휘발유 15%·경유 25% 유류세 인하를 11월 말까지 두 달 연장했습니다. 추석 연휴 고속도로 주유소에서는 리터당 100원 추가 할인이 적용됩니다.",
+      "sourceTitle": "추석 연휴 고속도로 주유소 ℓ당 100원 할인…유류세 인하 11월까지 연장(종합)",
+      "sourceDesc": "정부가 휘발유 15%, 경유 25%의 유류세 인하를 11월 말까지 두 달 연장한다고 밝혔다. 추석 연휴 고속도로 주유소에서는 리터(ℓ)당 100원 추가 할인이 적용되며, 전기차 충전요금도 연휴 중 낮 시간대에 할인된다.",
+      "sourceLink": "https://news.google.com/search?q=유류세+인하+11월+연장+추석+고속도로+100원+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Highway fuel station at night with gleaming pump stations bathed in bright overhead canopy lighting, empty lanes stretching under the lights, dark road visible beyond the station, vertical 9:16 composition, photojournalism style, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "재난·사회",
+      "kicker": "집중호우 피해",
+      "title": "영광군 백수읍 특별재난지역 선포",
+      "summary": "이재명 대통령이 집중호우로 피해를 입은 전남 영광군 백수읍을 특별재난지역으로 선포했습니다. 시간당 최대 107.5㎜의 폭우로 큰 피해가 발생했습니다.",
+      "sourceTitle": "전남광주 영광군 백수읍 특별재난지역 선포…시간당 107.5㎜ 폭우 피해",
+      "sourceDesc": "이재명 대통령이 8월 28일부터 9월 1일 사이 집중호우로 피해를 입은 전남 영광군 백수읍을 특별재난지역으로 선포했다. 이 지역은 시간당 최대 107.5㎜, 누적 579.5㎜의 폭우가 내려 약 47억6700만원의 피해가 발생했다.",
+      "sourceLink": "https://news.google.com/search?q=영광군+백수읍+특별재난지역+선포+폭우+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Flooded rural farmland with muddy brown water covering roads and fields, submerged structures and tree lines barely visible above the waterline after extreme rainfall, overcast sky, vertical 9:16 composition, documentary photojournalism, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-22 아침 브리핑\n\n1. DMZ 지뢰 폭발, 군간부 3명 부상\n2. 이 대통령, 유엔서 한반도 평화공존 청사진 제시\n3. 강남 피부과 원장 프로포폴 불법 투약 구속\n4. 유류세 인하 11월까지 연장, 고속도로 기름값도 100원↓\n5. 영광군 백수읍 특별재난지역 선포\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #DMZ #지뢰 #추석 #유류세 #재난\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
