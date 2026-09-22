@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-23",
+  "slot": "am",
+  "hookLine": "오늘 귀성길, 교통사고 45% 급증합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회·안전",
+      "kicker": "추석 귀성 주의",
+      "title": "추석 귀성길 오늘이 가장 위험합니다",
+      "summary": "추석 연휴 전날인 오늘 귀성길에 교통사고가 평소보다 45% 급증합니다. 오후 4~6시에 피해자가 집중되니 각별히 주의하세요.",
+      "sourceTitle": "추석 귀성길 23일 사고위험 최고…평소보다 45% 급증",
+      "sourceDesc": "추석 연휴 전날인 23일 귀성 차량이 몰려 교통사고가 평소보다 45% 급증한다는 분석이 나왔다. 시간대별로는 오후 4~6시에 피해자가 집중되며, 추석 당일에는 사고 건수가 줄어도 사고당 피해 규모가 크게 늘어 각별한 주의가 필요하다.",
+      "sourceLink": "https://news.google.com/search?q=추석+귀성길+사고위험+23일+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty Korean expressway at dusk with road signs and safety barriers, golden hour light casting long shadows across asphalt, no vehicles visible, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "반도체 수출 폭증",
+      "title": "이달 수출 714억달러, 역대 최대",
+      "summary": "이달 1~20일 수출이 714억달러로 역대 최대를 기록했습니다. 반도체가 259.4% 급증하며 전체 수출의 47.8%를 차지했습니다.",
+      "sourceTitle": "9월 1~20일 수출 714억달러로 '역대 최대'…반도체 비중 47.8%",
+      "sourceDesc": "9월 1~20일 수출이 전년 동기 대비 78.3% 증가한 714억달러로 역대 최대를 기록했다. 반도체 수출이 259.4% 급증하며 전체 수출의 47.8%를 차지했다.",
+      "sourceLink": "https://news.google.com/search?q=수출+714억달러+역대최대+반도체+2026년+9월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Macro close-up of a semiconductor silicon wafer with intricate circuit patterns under clean room blue-white lighting, reflective surface with geometric microchip layouts, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "사회·물가",
+      "kicker": "추석 장바구니",
+      "title": "추석 장바구니 물가 급등, 호박 53%↑",
+      "summary": "추석을 앞두고 장바구니 물가가 들썩이고 있습니다. 호박이 53%, 배추가 20% 오르는 등 채소류 가격이 크게 뛰었습니다.",
+      "sourceTitle": "추석 앞두고 장바구니 물가 '들썩'…호박 53%·배추 20%↑",
+      "sourceDesc": "추석을 앞두고 채소류를 중심으로 장바구니 물가가 급등하고 있다. 호박이 지난해 같은 기간보다 53% 올랐으며 배추도 20% 올라 추석 장보기 비용 부담이 커지고 있다. 오징어 등 수산물 가격도 함께 뛰었다.",
+      "sourceLink": "https://news.google.com/search?q=추석+장바구니+물가+호박+배추+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Traditional Korean market stall with fresh vegetables and produce in wooden crates, vibrant colors of green cabbage and orange pumpkins, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "경제·부동산",
+      "kicker": "집값 최장 기록 코앞",
+      "title": "서울 집값 84주 연속 상승, 최장 기록 코앞",
+      "summary": "서울 아파트값이 84주 연속 올라 역대 최장 상승 기록까지 1주 남았습니다. 문재인 정부 시절 85주 기록 갱신이 목전에 왔습니다.",
+      "sourceTitle": "서울 집값 84주 연속 올랐다…문재인 정부 85주 기록 임박",
+      "sourceDesc": "서울 아파트 매매가격이 84주 연속 오르며 역대 최장 기록인 문재인 정부 시절 85주에 1주 앞으로 다가섰다. 상승 폭은 소폭 둔화됐지만 오름세는 계속됐다.",
+      "sourceLink": "https://news.google.com/search?q=서울+집값+84주+연속+상승+최장기록+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Seoul cityscape with rows of high-rise apartment towers stretching to the horizon under a misty dawn sky, urban density photography, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "대통령 지지율",
+      "title": "이 대통령 지지율 37% 취임 후 최저",
+      "summary": "이재명 대통령 지지율이 37%로 취임 후 최저치를 기록했습니다. 부정 평가는 56%로 최고치이며 9주 연속 하락세입니다.",
+      "sourceTitle": "이 대통령 지지율 37% '최저치'...부정 평가 최고치",
+      "sourceDesc": "이재명 대통령의 직무수행 긍정 평가가 37%로 취임 후 최저치를 기록했다. 부정 평가는 56%로 최고치를 나타냈으며 9주 연속 하락했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+지지율+최저+37+2026년+9월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty government press conference podium with South Korean national flag standing to one side in a formal interior room, dramatic side lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-23 아침 브리핑\n\n1. 추석 귀성길 오늘이 가장 위험합니다\n2. 이달 수출 714억달러, 역대 최대\n3. 추석 장바구니 물가 급등, 호박 53%↑\n4. 서울 집값 84주 연속 상승, 최장 기록 코앞\n5. 이 대통령 지지율 37% 취임 후 최저\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #추석 #귀성길 #수출 #물가 #집값 #지지율\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
