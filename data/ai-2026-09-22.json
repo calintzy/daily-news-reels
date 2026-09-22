@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-22",
+  "account": "aibrief",
+  "hookLine": "오픈AI가 2030년까지 386조원 소진 전망입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "빅테크 사업",
+      "kicker": "현금 소진 전망",
+      "title": "오픈AI, 2030년까지 현금 386조원 소진 예고",
+      "summary": "오픈AI가 2030년 말까지 잉여현금흐름이 386조원 적자를 기록할 것으로 전망됩니다. 이 기간 컴퓨팅 인프라에만 1천조원대를 투입하고, 매출은 10배 성장할 것으로 예상됩니다.",
+      "sourceTitle": "오픈AI, 2030년까지 386조원 현금 소진 전망…인프라에 1천조원대",
+      "sourceDesc": "파이낸셜타임스가 입수한 오픈AI 투자자 자료에 따르면, 오픈AI는 2030년 말까지 잉여현금흐름이 2780억달러(약 386조원) 적자를 기록할 것으로 전망했다. 컴퓨팅 인프라에만 8560억달러(약 1천조원대)를 투입할 계획이며, 매출은 올해 360억달러에서 2030년 3500억달러로 10배 성장을 예상했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%98%A4%ED%94%88AI+386%EC%A1%B0%EC%9B%90+%ED%98%84%EA%B8%88+%EC%86%8C%EC%A7%84+2030%EB%85%84"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델",
+      "kicker": "자동화 지표",
+      "title": "앤트로픽, Claude가 AI 연구개발의 26% 주도",
+      "summary": "앤트로픽이 Claude의 AI 연구개발 주도 비율이 26%에 달한다고 공개했습니다. 1% 미만이었던 비율이 현재 26%로 올랐으며, 내부 플랫폼엔 30,000개 에이전트가 동시 가동 중입니다.",
+      "narration": "앤트로픽, AI 스스로 연구개발 26% 담당합니다.",
+      "sourceTitle": "Anthropic Says Claude Leads 26% of Its AI Research and Development",
+      "sourceDesc": "Anthropic said its Claude models lead 26% of the company's AI research and development work as of August 2026, up from under 1% in February. About 30,000 AI agents run concurrently on its internal platform performing research and engineering work.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+Claude+leads+26+percent+AI+research+development"
+    },
+    {
+      "rank": 3,
+      "category": "사회 영향",
+      "kicker": "보안 취약점",
+      "title": "AI 코딩 도구 4종서 제로클릭 취약점 발견",
+      "summary": "주요 AI 코딩 에이전트 4종에서 사용자 행동 없이 원격 코드 실행이 가능한 취약점이 발견됐습니다. 앤트로픽과 오픈AI는 패치를 완료했지만, 구글은 제미나이 CLI 서비스를 종료하고 패치를 내놓지 않았습니다.",
+      "narration": "AI 코딩 도구 4종에 제로클릭 취약점 발견됐습니다.",
+      "sourceTitle": "'플러그인4셸'…AI 코딩 에이전트 플러그인 검증 허점에 제로클릭 원격코드실행 위험",
+      "sourceDesc": "클로드 코드, 코덱스, 깃허브 코파일럿, 제미나이 CLI 등 주요 AI 코딩 에이전트 4종에서 사용자의 별도 행동 없이 원격 코드 실행이 가능한 '플러그인4셸' 취약점이 발견됐다. 앤트로픽과 오픈AI는 패치를 완료했으나 구글은 제미나이 CLI 서비스를 종료하고 패치를 배포하지 않기로 했다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%94%8C%EB%9F%AC%EA%B7%B84%EC%85%B8+AI+%EC%BD%94%EB%94%A9+%EC%B7%A8%EC%95%BD%EC%A0%90"
+    },
+    {
+      "rank": 4,
+      "category": "반도체·인프라",
+      "kicker": "엔비디아 파트너",
+      "title": "LG에너지솔루션, 엔비디아 AI 팩토리 합류",
+      "summary": "LG에너지솔루션이 엔비디아 AI 팩토리 생태계에 국내 배터리사 중 유일하게 합류했습니다. 전 세계 3개사 중 하나로 선정되며 AI 인프라 분야에 진출했습니다.",
+      "narration": "LG에너지솔루션, 엔비디아 AI 팩토리 합류했습니다.",
+      "sourceTitle": "LG엔솔, 엔비디아 AI 팩토리 생태계 합류…국내 배터리사 유일",
+      "sourceDesc": "LG에너지솔루션이 엔비디아의 AI 팩토리 구축 프로그램에 에너지저장 파트너로 합류했다. 테슬라, 히타치에너지와 함께 전 세계 3개사 중 하나로 선정됐으며, 국내 배터리 기업 중에서는 유일하다.",
+      "sourceLink": "https://news.google.com/search?q=LG%EC%97%94%EC%86%94+%EC%97%94%EB%B9%84%EB%94%94%EC%95%84+AI+%ED%8C%A9%ED%86%A0%EB%A6%AC+%EC%83%9D%ED%83%9C%EA%B3%84"
+    },
+    {
+      "rank": 5,
+      "category": "AI 서비스",
+      "kicker": "생활 밀착",
+      "title": "네이버 플리마켓, AI로 중고 적정 시세 추천",
+      "summary": "네이버 플리마켓에 AI가 중고 상품의 적정 시세를 추천하는 기능이 도입됩니다. 판매자가 상태를 선택하면 AI가 유사 상품 데이터를 분석해 시세 정보를 제공합니다.",
+      "narration": "네이버, AI로 중고 상품 시세 추천 시작됩니다.",
+      "sourceTitle": "네이버 플리마켓, AI로 중고상품 '적정 시세' 알려준다",
+      "sourceDesc": "네이버 플리마켓이 AI를 활용해 중고 상품의 적정 시세를 추천하는 'AI 시세 추천' 기능을 도입한다. 판매자가 상품 상태를 선택하면 AI가 유사 상품 데이터를 분석해 시세 정보를 제공하며, 9월 30일부터는 구매자도 상품 상세 화면에서 AI 시세를 확인할 수 있다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%84%A4%EC%9D%B4%EB%B2%84+%ED%94%8C%EB%A6%AC%EB%A7%88%EC%BC%93+AI+%EC%8B%9C%EC%84%B8+%EC%B6%94%EC%B2%9C"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-22 AI 뉴스 브리핑\n\n1. 오픈AI, 2030년까지 현금 386조원 소진 예고\n2. 앤트로픽, Claude가 AI 연구개발의 26% 주도\n3. AI 코딩 도구 4종서 제로클릭 취약점 발견\n4. LG에너지솔루션, 엔비디아 AI 팩토리 합류\n5. 네이버 플리마켓, AI로 중고 적정 시세 추천\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #오픈AI #앤트로픽 #보안취약점 #엔비디아 #네이버\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
