@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-23",
+  "slot": "pm",
+  "hookLine": "이 대통령, 트럼프와 북한 대화의지 재확인했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·외교",
+      "kicker": "한미 정상회담",
+      "title": "이 대통령, 트럼프와 회담…북한 대화의지 재확인",
+      "summary": "이재명 대통령이 유엔총회를 계기로 트럼프 대통령과 정상회담을 가졌습니다. 트럼프 대통령은 북한과의 대화 의지를 재확인했습니다.",
+      "sourceTitle": "[속보] 李 대통령, 유엔총회서 트럼프와 정상회담…\"트럼프, 북한과 대화의지 재확인\"",
+      "sourceDesc": "이재명 대통령이 유엔총회를 계기로 트럼프 미국 대통령과 정상회담을 가졌다. 트럼프 대통령은 북한과의 대화 의지를 재확인했으며, 양 정상은 한반도 평화를 위해 긴밀히 소통해 나가기로 했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+트럼프+정상회담+유엔총회+북한+대화의지+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty United Nations General Assembly hall with rows of delegate seats under institutional lighting, wide-angle view of the curved chamber, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "정치·사법",
+      "kicker": "대법원-청와대 충돌",
+      "title": "조희대, 재제청 거부…청와대 '임명권 무력화'",
+      "summary": "조희대 대법원장이 청와대의 대법관 재제청 요청을 거부했습니다. 청와대는 대통령 임명권을 무력화한다며 깊은 유감을 표명했습니다.",
+      "sourceTitle": "조희대, 대법관 재제청 거부… 靑 '대통령 임명권 무력화'",
+      "sourceDesc": "조희대 대법원장이 청와대의 대법관 재제청 요청에 헌법적 근거가 없다며 응할 수 없다고 밝혔다. 청와대는 이에 대해 대통령 임명권을 무력화한다며 깊은 유감을 나타냈다.",
+      "sourceLink": "https://news.google.com/search?q=조희대+대법관+재제청+거부+청와대+임명권+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Grand stone entrance of a supreme court building with classical columns and judicial architecture against an overcast sky, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "소비심리 반등",
+      "title": "9월 소비심리 한 달 만에 반등, CCSI 106.6",
+      "summary": "한국은행이 발표한 9월 소비자심리지수(CCSI)는 106.6으로 한 달 만에 반등했습니다. 수출 호조와 증시 안정에 힘입어 소득여건 개선 기대감이 높아졌습니다.",
+      "sourceTitle": "소비심리 한 달 만에 반등···9월 CCSI 106.6",
+      "sourceDesc": "한국은행이 발표한 9월 소비자동향조사 결과 소비자심리지수(CCSI)는 106.6으로 전월보다 2.1포인트 올랐다. 국내 증시 변동 폭이 축소되고 수출 호조 등 양호한 실물경제 흐름에 힘입어 소득여건 개선 기대감이 높아졌다.",
+      "sourceLink": "https://news.google.com/search?q=소비심리+CCSI+106.6+한국은행+2026년+9월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of stacked South Korean won banknotes and coins arranged on a wooden surface under warm studio lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "사회·법무",
+      "kicker": "공소청 출범",
+      "title": "공소청, 검사 정원 80~85% 수준으로 출범",
+      "summary": "법무부가 검사 정원을 현 수준의 80~85%로 감축해 공소청을 출범할 계획입니다. 출범 이후 외부 진단을 통해 최종 감축 규모를 결정합니다.",
+      "sourceTitle": "법무부, 검사 정원 축소 추진…공소청, 현 정원 80~85%로 출범",
+      "sourceDesc": "법무부가 공소청 출범에 맞춰 검사 정원 감축을 추진한다. 공소청은 현 검사 정원의 80~85% 수준으로 출범한 뒤 외부 컨설팅과 업무분석·조직진단을 거쳐 최종 감축 규모를 결정할 계획이다.",
+      "sourceLink": "https://news.google.com/search?q=법무부+검사정원+감축+공소청+출범+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty formal courtroom interior with wooden benches, judicial podium, and national emblem on the wall under institutional overhead lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "안전·사회",
+      "kicker": "추석 화재 대비",
+      "title": "소방청, 추석 연휴 특별경계근무 발령",
+      "summary": "소방청이 추석 연휴를 맞아 특별경계근무 1호를 발령했습니다. 최근 5년간 추석 연휴 기간 화재가 2천412건 발생해 123명의 인명피해가 났습니다.",
+      "sourceTitle": "최근 5년간 추석 연휴 화재 2천412건…소방 특별경계근무 발령",
+      "sourceDesc": "소방청은 추석 연휴를 맞아 특별경계근무 1호를 발령했다. 최근 5년간 추석 연휴 화재는 총 2천412건이 발생해 123명의 인명피해가 났으며 재산피해는 약 283억8000만원에 달했다.",
+      "sourceLink": "https://news.google.com/search?q=소방청+추석연휴+화재+특별경계근무+2026&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Red fire engine parked inside a fire station garage with polished chrome equipment and folded hoses visible, dramatic overhead industrial lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-23 저녁 브리핑\n\n1. 이 대통령, 트럼프와 회담…북한 대화의지 재확인\n2. 조희대, 재제청 거부…청와대 '임명권 무력화'\n3. 9월 소비심리 한 달 만에 반등, CCSI 106.6\n4. 공소청, 검사 정원 80~85% 수준으로 출범\n5. 소방청, 추석 연휴 특별경계근무 발령\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #한미정상회담 #트럼프 #대법원 #공소청 #소비심리 #추석\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
