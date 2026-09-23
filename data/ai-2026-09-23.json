@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-23",
+  "account": "aibrief",
+  "hookLine": "트럼프가 AI 공식 명칭을 바꾼다고 선언했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "규제·정책",
+      "kicker": "명칭 변경",
+      "title": "트럼프, AI 명칭 공식 변경 선언",
+      "summary": "트럼프 미국 대통령이 유엔 총회 연설에서 인공지능(AI)을 'Super Intelligence'로 부르겠다고 선언했습니다. AI 성장을 억제하지 않겠다는 의지도 함께 밝혔습니다.",
+      "sourceTitle": "[속보] 트럼프 \"AI 이제부터 'Super Intelligence'로 부를 것\"",
+      "sourceDesc": "도널드 트럼프 미국 대통령이 유엔 총회 연설에서 인공지능(AI)을 앞으로 'Super Intelligence'로 부를 것이라고 선언했다. 미국 정부 문서에서 해당 명칭을 사용하며, AI 성장을 억제하지 않겠다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%8A%B8%EB%9F%BC%ED%94%84+AI+Super+Intelligence+%EC%9C%A0%EC%97%94+%EB%AA%85%EC%B9%AD"
+    },
+    {
+      "rank": 2,
+      "category": "AI 서비스",
+      "kicker": "다운로드 1위",
+      "title": "메타 뮤즈, 2주 만에 챗GPT 제쳐",
+      "summary": "메타 AI 에이전트 '뮤즈'가 출시 2주 만에 챗GPT(ChatGPT) 초기 다운로드 기록을 뛰어넘었습니다. iOS 기준 미국에서 뮤즈는 180만건, 챗GPT는 130만건 다운로드됐습니다.",
+      "narration": "메타 뮤즈, 2주 만에 챗GPT 제쳤습니다.",
+      "sourceTitle": "메타 AI 에이전트 '뮤즈', 출시 2주 만에 1위…챗GPT 제친 비결은 뭘까?",
+      "sourceDesc": "메타 플랫폼스의 AI 에이전트 '뮤즈'가 출시 2주 만에 챗GPT(ChatGPT) 초기 기록을 뛰어넘었다. iOS 기준 미국·캐나다에서 다운로드는 뮤즈 180만건, 챗GPT 130만건으로 집계됐다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%A9%94%ED%83%80+%EB%AE%A4%EC%A6%88+%EC%B1%97GPT+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C+1%EC%9C%84"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크 사업",
+      "kicker": "AI 안경 공개",
+      "title": "메타 커넥트서 카메라 없는 AI 안경 '루나' 공개",
+      "summary": "메타가 연례 행사 '메타 커넥트 2026'에서 카메라 없는 스마트안경 '루나'를 공개했습니다. 루나는 마이크 6개를 내장해 음성으로 AI와 대화하는 기능에 집중한 제품입니다.",
+      "narration": "메타, 카메라 없는 AI 안경 '루나' 공개합니다.",
+      "sourceTitle": "메타, 카메라 뺀 스마트글래스 '루나' 개발…이르면 10월 출시",
+      "sourceDesc": "메타가 카메라를 탑재하지 않은 스마트글래스 '루나'를 개발하고 있으며 이르면 10월 출시할 것으로 알려졌다. 루나는 내장 마이크 6개를 통해 AI와 음성 상호작용하도록 설계됐으며, '메타 커넥트 2026' 행사에서 공개될 전망이다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%A9%94%ED%83%80+%EB%A3%A8%EB%82%98+%EC%B9%B4%EB%A9%94%EB%9D%BC+%EC%97%86%EB%8A%94+AI+%EC%95%88%EA%B2%BD+%EC%BB%A4%EB%84%A5%ED%8A%B8"
+    },
+    {
+      "rank": 4,
+      "category": "AI 서비스",
+      "kicker": "국내 컨소시엄",
+      "title": "KT, 16개사와 '모두의 AI' 컨소시엄 출범",
+      "summary": "KT가 16개 기업과 '모두의 AI' 컨소시엄을 출범해 다음달 베타 서비스를 시작합니다. AI 모델과 플랫폼을 연계해 정보검색·교육·금융 등 일상에서 누구나 AI를 쓸 수 있게 합니다.",
+      "narration": "KT, 16개사와 AI 서비스 컨소시엄 출범합니다.",
+      "sourceTitle": "KT '모두의 AI' 컨소시엄 본격 가동…16개사 뭉쳐 내달 베타 출시",
+      "sourceDesc": "KT가 16개 기업과 손잡고 '모두의 AI' 컨소시엄을 출범해 다음달 베타 서비스를 시작한다. 각 기업의 AI 모델·플랫폼·서비스를 연계해 정보검색·공공서비스·교육·금융·생활 편의 등 다양한 분야에서 누구나 쉽게 AI를 사용할 수 있는 통합 서비스를 목표로 한다.",
+      "sourceLink": "https://news.google.com/search?q=KT+%EB%AA%A8%EB%91%90%EC%9D%98+AI+%EC%BB%A8%EC%86%8C%EC%8B%9C%EC%97%84+16%EA%B0%9C%EC%82%AC"
+    },
+    {
+      "rank": 5,
+      "category": "사회 영향",
+      "kicker": "일자리 대응",
+      "title": "정부, AI 시대 청년 일자리 해법 논의",
+      "summary": "고용노동부와 대한상공회의소가 서울 코엑스에서 'AI 시대, 청년 일자리 포럼'을 개최했습니다. AI 확산 속 청년 일자리 문제를 진단하고 정부·기업·청년이 함께 해법을 모색했습니다.",
+      "narration": "정부·기업·청년, AI 일자리 포럼 함께 열었습니다.",
+      "sourceTitle": "고용노동부, 인공지능(AI) 시대 청년 일자리, 새로운 해법을 함께 찾는다",
+      "sourceDesc": "고용노동부와 대한상공회의소가 9월 22일 서울 코엑스에서 'AI 시대, 청년 일자리 포럼'을 공동 개최했다. AI 확산 등 급격한 노동시장 변화 속 청년의 일자리 진입과 경력 개발 어려움을 진단하고, 정부·기업·청년이 함께 새로운 해법을 모색했다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%B3%A0%EC%9A%A9%EB%85%B8%EB%8F%99%EB%B6%80+AI+%EC%8B%9C%EB%8C%80+%EC%B2%AD%EB%85%84+%EC%9D%BC%EC%9E%90%EB%A6%AC+%ED%8F%AC%EB%9F%BC"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-23 AI 뉴스 브리핑\n\n1. 트럼프, AI 명칭 공식 변경 선언\n2. 메타 뮤즈, 2주 만에 챗GPT 제쳐\n3. 메타 커넥트서 카메라 없는 AI 안경 '루나' 공개\n4. KT, 16개사와 '모두의 AI' 컨소시엄 출범\n5. 정부, AI 시대 청년 일자리 해법 논의\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #트럼프 #메타뮤즈 #챗GPT #KT #청년일자리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
