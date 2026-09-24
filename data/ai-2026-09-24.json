@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-24",
+  "account": "aibrief",
+  "hookLine": "오픈AI GPT-6 솔·루나, 가격 절반 낮췄습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 모델",
+      "kicker": "가격 절반",
+      "title": "오픈AI, GPT-6 솔·루나 출시…가격 절반",
+      "summary": "오픈AI가 GPT-6 솔과 루나를 출시했습니다. 두 모델은 성능을 높이면서 가격은 절반으로 낮춘 것이 특징입니다.",
+      "sourceTitle": "오픈AI, GPT-6 솔·루나 출시 … 성능 높이고 가격 절반 낮췄다",
+      "sourceDesc": "오픈AI가 GPT-6 솔과 GPT-6 루나를 출시하며 AI 모델 라인업을 확대했다. 솔과 루나는 성능과 비용 효율을 함께 높여 GPT-6 활용 범위를 넓히는 데 초점을 맞췄으며, 가격은 절반으로 낮췄다.",
+      "sourceLink": "https://news.google.com/search?q=오픈AI+GPT-6+솔+루나+출시+가격+절반&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 에이전트",
+      "kicker": "플랫폼 충돌",
+      "title": "아마존, 메타 AI 에이전트 뮤즈 쇼핑 차단",
+      "summary": "아마존이 메타의 AI 에이전트 뮤즈가 자사 쇼핑 사이트에 접근하는 것을 차단했습니다. 아마존은 승인받지 않은 AI 에이전트의 지속적인 접근은 이용약관 위반이라는 입장입니다.",
+      "narration": "아마존이 뮤즈의 쇼핑 사이트 접근을 차단했습니다.",
+      "sourceTitle": "[미국 특징주] 아마존, 쇼핑 사이트서 메타 AI 에이전트 뮤즈 '차단'",
+      "sourceDesc": "아마존은 승인받지 않은 AI 에이전트가 자사 쇼핑 사이트에 지속적으로 접근하는 것은 이용약관 위반이라는 입장을 밝혔다. 메타가 뮤즈를 통해 아마존에 접근하면서 사전 승인 없이 이용약관을 위반했다는 것이다.",
+      "sourceLink": "https://news.google.com/search?q=아마존+메타+AI+에이전트+뮤즈+쇼핑+차단&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 투자",
+      "kicker": "역대 최대",
+      "title": "소프트뱅크, 오픈AI 투자 위해 정크본드 발행",
+      "summary": "소프트뱅크가 오픈AI 투자 자금 마련을 위해 역대 최대 규모 정크본드 발행에 나섰습니다. 조달 규모는 110억 달러를 웃도는 것으로 전해졌습니다.",
+      "narration": "소프트뱅크가 역대 최대 정크본드 발행에 나섰습니다.",
+      "sourceTitle": "[일본 특징주] 소프트뱅크, 역대 최대 규모 정크본드 발행 착수",
+      "sourceDesc": "소프트뱅크그룹이 오픈AI 투자 자금 마련을 위해 역대 최대 규모 정크본드 발행에 나섰다. 조달 규모는 110억 달러를 웃도는 것으로 전해졌다.",
+      "sourceLink": "https://news.google.com/search?q=소프트뱅크+역대+최대+정크본드+발행+오픈AI&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "AI 기기",
+      "kicker": "12월 출시 예고",
+      "title": "메타, '뮤즈' 전용 AI 기기 공개",
+      "summary": "메타가 연례 개발자 행사 '메타 커넥트'에서 '뮤즈' 전용 AI 기기를 공개했습니다. 소형 화면과 5G 연결 기능을 갖춘 이 기기는 12월 출시될 예정입니다.",
+      "narration": "메타가 뮤즈 전용 AI 기기를 12월 출시합니다.",
+      "sourceTitle": "[미국 특징주] 메타, '뮤즈' 전용 기기 공개…VR 안경까지 AI 생태계 확장",
+      "sourceDesc": "메타 저커버그 CEO가 연례 개발자 행사 '메타 커넥트'에서 '뮤즈' 전용 AI 기기를 공개했다. 소형 화면과 5G 연결 기능을 갖춘 기기로, 12월 출시될 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=메타+뮤즈+전용+기기+공개+AI+생태계&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "자율주행",
+      "kicker": "규제 상한 만료",
+      "title": "죽스 로보택시 100대 상한, 9월 25일 만료",
+      "summary": "아마존 죽스의 네바다 로보택시 100대 제한 규제 상한이 9월 25일 만료됩니다. 죽스 대변인은 앞으로 몇 달에 걸쳐 차량을 점진적으로 확대하겠다고 밝혔습니다.",
+      "narration": "죽스 로보택시 100대 제한이 만료됩니다.",
+      "sourceTitle": "아마존 죽스, 네바다 로보택시 100대 상한 9월 25일 만료…라스베이거스 경쟁 본격화",
+      "sourceDesc": "죽스를 네바다에서 로보택시 100대로 제한해 온 규제 상한이 9월 25일 만료된다. 죽스 대변인은 앞으로 몇 달에 걸쳐 차량을 점진적으로 확대하겠다고 말했다.",
+      "sourceLink": "https://news.google.com/search?q=아마존+죽스+네바다+로보택시+100대+규제+만료&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-24 AI 뉴스 브리핑\n\n1. 오픈AI, GPT-6 솔·루나 출시…가격 절반\n2. 아마존, 메타 AI 에이전트 뮤즈 쇼핑 차단\n3. 소프트뱅크, 오픈AI 투자 위해 정크본드 발행\n4. 메타, '뮤즈' 전용 AI 기기 공개\n5. 죽스 로보택시 100대 상한, 9월 25일 만료\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #오픈AI #메타 #소프트뱅크 #로보택시 #GPT6\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
