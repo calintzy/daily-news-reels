@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-26",
+  "slot": "am",
+  "hookLine": "북한군 포로 2명의 한국 송환이 공개돼 파문입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "외교 파문",
+      "title": "젤렌스키 北포로 2명 송환 유엔 공개 파문",
+      "summary": "젤렌스키 대통령이 유엔 총회에서 북한군 포로 2명을 한국으로 송환했다고 공개해 파문이 일고 있습니다. 한국 정부는 비공개 합의를 어긴 데 유감을 표했습니다.",
+      "sourceTitle": "젤렌스키 \"생포 북한군 포로 2명 한국 송환\"…정부 \"소통·협의 진행\"",
+      "sourceDesc": "젤렌스키 우크라이나 대통령이 유엔 총회에서 생포 북한군 포로 2명을 한국에 송환했다고 공개했다. 정부는 소통·협의 중이라고 밝혔으나 비공개 합의가 어긋났다는 파문이 일고 있다.",
+      "sourceLink": "https://news.google.com/search?q=젤렌스키+북한군+포로+한국+송환&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Wide-angle view of the United Nations General Assembly hall podium under dramatic stage lighting, empty green delegate seats stretching into the darkness, international flags lining the walls, no people, no text, vertical 9:16 composition, photojournalism documentary style, high contrast shadows"
+    },
+    {
+      "rank": 2,
+      "category": "사건·사고",
+      "kicker": "DMZ 사고",
+      "title": "DMZ 폭발 부대서 대위 숨진 채 발견",
+      "summary": "DMZ 지뢰 폭발로 대대장 발목이 절단된 부대에서 다음 날 대위가 숙소에서 숨진 채 발견됐습니다. 폭발과의 직접 연관성은 아직 조사 중입니다.",
+      "sourceTitle": "'DMZ 폭발'로 대대장 발목 절단된 부대, 이번엔 대위 숨진 채 발견 '충격'",
+      "sourceDesc": "DMZ 지뢰 폭발로 대대장 발목이 절단된 육군 부대에서 하루 만에 대위가 숙소에서 숨진 채 발견됐다. 폭발과의 직접 연관성은 조사 중이다.",
+      "sourceLink": "https://news.google.com/search?q=DMZ+지뢰+폭발+25사단+대위+숨진&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of weathered barbed-wire fence post along a demilitarized zone boundary, overgrown vegetation at the base, faded landmine warning sign, dense misty forest in background, no people, no text, vertical 9:16 composition, photojournalism documentary style, muted green tones"
+    },
+    {
+      "rank": 3,
+      "category": "안보",
+      "kicker": "안보 긴장",
+      "title": "北전투기 백령도 전술조치선 침범",
+      "summary": "북한 전투기가 백령도 인근 전술조치선을 넘어 남하했습니다. 공군 전투기가 긴급 발진했으며 인근 어선은 대피 문자를 받았습니다.",
+      "sourceTitle": "북한 전투기, 한때 백령도 전술조치선 넘어 대응‥NLL 침범은 아냐",
+      "sourceDesc": "북한 전투기가 백령도 인근에서 전술조치선을 침범해 공군 전투기가 긴급 발진했다. NLL 침범은 아니지만 어선은 대피 조치를 받았다.",
+      "sourceLink": "https://news.google.com/search?q=북한+전투기+백령도+전술조치선&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "South Korean military radar installation on a coastal hilltop overlooking the Yellow Sea, amber alert indicator lights glowing on equipment housing, overcast grey sky, distant grey water visible below, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "임기 재확인",
+      "title": "이 대통령, 9월만 세 번 임기 언급",
+      "summary": "이재명 대통령이 9월에만 세 번째로 임기 만료 시점을 언급했습니다. 재선 추진 의혹을 차단하려는 반복 표명으로 풀이됩니다.",
+      "sourceTitle": "이 대통령, 9월만 세 번째 '임기' 언급... \"2030년 6월 2일 넘지 않아\"",
+      "sourceDesc": "이재명 대통령이 '2030년 6월 2일을 절대 넘기지 않겠다'며 재선 없음을 재확인했다. 9월에만 세 번째 임기 관련 발언으로, 야권의 개헌 추진 의혹에 대한 선제 대응 성격이다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+임기+2030년+언급&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "South Korean presidential Blue House stone gate and traditional pine tree against a pale autumn sky, empty stone-paved pathway leading to the entrance, soft morning light, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "주거 부담",
+      "title": "전셋값 역대 최고·주담대 8% 눈앞",
+      "summary": "서울 아파트 전셋값 상승이 이어지는 가운데 주담대 금리도 8% 눈앞까지 올라왔습니다. 전세와 대출 부담이 동시에 커져 실수요자의 선택지가 줄고 있습니다.",
+      "sourceTitle": "전세 감소 '정상화'라던 李 … 주담대 8% 눈앞·전세난에 퇴로 막힌 실수요자",
+      "sourceDesc": "서울 아파트 전셋값이 상승을 이어가고 주담대 금리도 8% 눈앞까지 치솟았다. 전세 감소를 정상화로 봤던 기조와 달리 실수요자의 퇴로가 막히고 있다는 지적이 나온다.",
+      "sourceLink": "https://news.google.com/search?q=전셋값+주담대금리+실수요자&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Row of identical Seoul apartment tower facades at dusk, small balconies glowing from within, street-level real estate agency storefront visible below, no people, no text, vertical 9:16 composition, photojournalism documentary style, warm urban electric glow"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-26 아침 브리핑\n\n1. 젤렌스키 北포로 2명 송환 유엔 공개 파문\n2. DMZ 폭발 부대서 대위 숨진 채 발견\n3. 北전투기 백령도 전술조치선 침범\n4. 이 대통령, 9월만 세 번 임기 언급\n5. 전셋값 역대 최고·주담대 8% 눈앞\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #외교 #안보 #추석 #부동산\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail",
+      "websearch": "ok"
+    },
+    "signalHits": []
+  }
+}
