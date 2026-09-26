@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-26",
+  "slot": "pm",
+  "hookLine": "별장서 70대 여성이 운전기사에게 흉기로 찔렸습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "연휴 충격",
+      "title": "남양주 별장 70대 여성 흉기 피습, 운전기사 체포",
+      "summary": "남양주 수동면 별장에서 70대 여성이 흉기에 찔린 채 발견됐습니다. 경찰은 현장에 있던 50대 운전기사를 살인미수 혐의로 현행범 체포했습니다.",
+      "sourceTitle": "남양주 별장서 70대 여성 흉기에…50대 운전기사 살인미수 혐의로 체포",
+      "sourceDesc": "26일 오전 11시쯤 남양주시 수동면의 한 별장에서 70대 여성이 흉기에 찔린 채 발견됐다. 비명을 들은 남편이 내려왔다가 쓰러진 아내를 발견해 신고했으며, 경찰은 현장에 있던 50대 운전기사를 살인미수 혐의로 현행범 체포했다.",
+      "sourceLink": "https://news.google.com/search?q=남양주+별장+70대+여성+흉기+운전기사+체포&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Yellow police crime scene tape stretching across a forest villa entrance path in autumn, fallen maple leaves scattered on stone steps, soft amber emergency light glow through pine trees, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "기상·재난",
+      "kicker": "태풍 경보",
+      "title": "태풍 수리개 북상, 27~28일 강도 3 발달 전망",
+      "summary": "제26호 태풍 수리개가 오키나와 남쪽 해상에서 세력을 키우며 북상하고 있습니다. 27~28일 강도 3 태풍으로 발달할 전망이며, 한반도 직접 영향 가능성은 낮습니다.",
+      "sourceTitle": "제26호 태풍 '수리개' 북상…27~28일 강한 태풍 발달 전망",
+      "sourceDesc": "제26호 태풍 수리개가 오키나와 남쪽 해상에서 북상 중이며, 27~28일 최대풍속 초속 37m의 강도 3 태풍으로 발달할 전망이다. 현재까지 한반도 직접 영향 가능성은 낮지만 진로 변동성이 남아 있다.",
+      "sourceLink": "https://news.google.com/search?q=제26호+태풍+수리개+북상+강도+한반도&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Dark spiraling storm clouds viewed from a rocky coastal shore, grey choppy ocean waves stretching to the horizon, dramatic overcast sky with circular cloud formation, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "외교",
+      "kicker": "K외교 성과",
+      "title": "이 대통령 멕시코 K엑스포 방문 후 귀국",
+      "summary": "이재명 대통령이 멕시코시티 K엑스포를 방문해 '한강라면'을 시식하며 현지 진출 기업들을 격려했습니다. 26일 귀국길에 올라 3박4일 멕시코 국빈방문 일정을 마쳤습니다.",
+      "sourceTitle": "멕시코시티에 뜬 한강라면…李 대통령 부부, K-엑스포 격려 방문",
+      "sourceDesc": "이재명 대통령과 김혜경 여사가 25일(현지시간) 멕시코시티 월드트레이드센터에서 열린 K엑스포 현장을 방문해 '한강라면'을 시식했다. 이 대통령은 26일 귀국길에 올라 3박4일 국빈방문 일정을 마쳤다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+멕시코+K엑스포+귀국+국빈방문&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Steaming instant ramen noodles bowl on a polished exhibition hall table, blurred vibrant promotional banners in background, warm convention center overhead lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "원전 투자",
+      "title": "정부, 웨스팅하우스 지분투자 추진 韓 원전 주목",
+      "summary": "정부가 미국 원전 기업 웨스팅하우스 지분투자를 대미 전략사업으로 추진하고 있습니다. 국내 원전기업이 구체적인 사업권을 확보하는지가 향후 수주를 가를 핵심 변수로 꼽힙니다.",
+      "sourceTitle": "정부, 웨스팅하우스 지분투자 추진…韓 원전기업 '사업권 확보' 주목",
+      "sourceDesc": "정부가 미국 원전 원천기술 기업 웨스팅하우스 지분 투자를 대미 전략투자 후속 사업으로 추진하고 있다. 웨스팅하우스 지분율과 신규 원전 노형이 확정되지 않은 가운데 국내 원전기업이 얼마나 구체적인 사업권을 확보하는지가 향후 수주를 가를 변수로 꼽힌다.",
+      "sourceLink": "https://news.google.com/search?q=웨스팅하우스+지분투자+원전기업+사업권&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Nuclear power plant cooling towers at dusk with dramatic orange and purple sky, electricity transmission pylons silhouetted in the foreground, calm water reflecting tower lights, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "사건·사고",
+      "kicker": "추석 참사",
+      "title": "추석날 양주 빌라 폭발, 1명 사망 6명 부상",
+      "summary": "추석 당일 경기 양주시 한 빌라에서 방화로 추정되는 폭발이 발생해 주민 1명이 숨졌습니다. 출동한 경찰관이 3층을 확인하던 중 폭발음과 함께 불길이 치솟아 6명도 다쳤습니다.",
+      "sourceTitle": "\"휘발유 뿌린다\" 신고에 출동…추석날 폭발사고, 1명 사망·6명 부상",
+      "sourceDesc": "추석 당일인 25일 오전 경기 양주시 한 빌라에서 방화로 추정되는 불이 나 주민 1명이 숨지고 경찰관·소방대원 등 6명이 다쳤다. 신고를 받고 출동한 경찰관이 3층 세대를 확인하려던 순간 폭발음과 함께 불길이 치솟아 건물 전체로 번졌다.",
+      "sourceLink": "https://news.google.com/search?q=양주+빌라+폭발사고+추석날+화재+사망&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Scorched apartment building exterior wall at night with emergency fire hose lying on wet asphalt, yellow caution tape across building entrance, amber street lighting on damaged facade brickwork, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-26 저녁 브리핑\n\n1. 남양주 별장 70대 여성 흉기 피습, 운전기사 체포\n2. 태풍 수리개 북상, 27~28일 강도 3 발달 전망\n3. 이 대통령 멕시코 K엑스포 방문 후 귀국\n4. 정부, 웨스팅하우스 지분투자 추진 韓 원전 주목\n5. 추석날 양주 빌라 폭발, 1명 사망 6명 부상\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #추석 #태풍 #원전 #멕시코\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail",
+      "websearch": "ok"
+    },
+    "signalHits": []
+  }
+}
