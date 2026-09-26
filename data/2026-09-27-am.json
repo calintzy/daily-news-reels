@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-27",
+  "slot": "am",
+  "hookLine": "유엔사 DMZ 조사 요구, 군이 거부했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "안보",
+      "kicker": "안보 후속",
+      "title": "DMZ 합동조사 오늘, 유엔사 거부 논란",
+      "summary": "DMZ 지뢰 사고 후속으로 군이 오늘 27일 합동 현장 조사를 실시합니다. 유엔사의 신속 조사요구를 군이 거부했다는 주장이 논란이 되고 있습니다.",
+      "sourceTitle": "한동훈 \"軍, 27일 DMZ 합동조사…유엔사의 신속 조사요구 거부\"",
+      "sourceDesc": "한동훈 의원이 군이 27일 DMZ 합동 현장 조사를 실시한다고 밝히며, 유엔사의 신속 조사요구를 한국군이 거부했다고 주장했다. 합동조사는 당초 29일로 합의됐다가 국민적 비판 여론으로 27일로 앞당겨진 것으로 알려졌다.",
+      "sourceLink": "https://news.google.com/search?q=한동훈+DMZ+합동조사+유엔사+조사요구+거부&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Barbed wire fence stretching across misty wooded terrain at dawn, symbolic demilitarized boundary, watchtower silhouette in background fog, no people, no text, vertical 9:16 composition, photojournalism documentary style, muted green and grey tones"
+    },
+    {
+      "rank": 2,
+      "category": "기상·재난",
+      "kicker": "태풍 경보",
+      "title": "태풍 수리개, 27~28일 강한 태풍 발달 전망",
+      "summary": "태풍 수리개가 27~28일 강한 태풍으로 발달할 전망입니다. 한반도 직접 영향 가능성은 낮지만 경로에 따라 달라질 수 있어 최신 기상 정보를 확인하세요.",
+      "sourceTitle": "제26호 태풍 '수리개' 북상…27~28일 강한 태풍 발달 전망",
+      "sourceDesc": "제26호 태풍 수리개가 북상하며 27~28일 강한 태풍으로 발달할 전망이다. 현재까지 한반도 직접 영향 가능성은 낮지만 진로 변동성이 있어 최신 기상 정보를 확인해야 한다.",
+      "sourceLink": "https://news.google.com/search?q=제26호+태풍+수리개+북상+27일+강한+태풍&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Dark spiraling storm clouds over open ocean viewed from rocky coastline, grey choppy waves crashing on shore, dramatic overcast sky with circular cloud formation, no people, no text, vertical 9:16 composition, photojournalism documentary style, dark blue tones"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "추석 귀경",
+      "title": "추석 마지막 귀경길 오늘 정체 집중",
+      "summary": "추석 연휴 마지막 날인 오늘 귀경 방향 정체가 오후 5시 절정에 달할 전망입니다. 전국 고속도로 교통량은 590만대로 예상되며 부산에서 서울까지 7시간 50분이 걸릴 전망입니다.",
+      "sourceTitle": "추석 연휴 귀경길 정체 오후 5시 '절정'⋯부산→서울 7시간 50분",
+      "sourceDesc": "추석 연휴 마지막 날인 27일 귀경 방향 정체가 오전부터 집중되고 있다. 전국 고속도로 교통량은 590만대로 예상되며, 부산에서 서울까지 7시간 50분이 소요될 전망이다. 귀경 방향 정체는 오후 5시쯤 절정에 달할 예정이다.",
+      "sourceLink": "https://news.google.com/search?q=추석+연휴+귀경길+정체+오후5시+절정+부산+서울&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Long winding highway packed with red tail lights at dusk, overpass visible in distance against golden autumn sky, blurred car streams on multiple lanes, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "사건·사고",
+      "kicker": "기술 유출",
+      "title": "반도체 영업비밀 유출 50대, 징역 1년",
+      "summary": "반도체 핵심 기술을 이직한 회사에 유출한 50대가 법원에서 징역 1년을 선고받았습니다. CVD 챔버, PLC 프로그램 등 핵심 영업비밀을 빼돌린 혐의로 기소됐습니다.",
+      "sourceTitle": "반도체 핵심 영업비밀 들고 이직한 50대…법원, 실형 선고",
+      "sourceDesc": "수원지법은 업무상 배임, 영업비밀누설 혐의로 기소된 50대 A씨에게 징역 1년을 선고했다. A씨는 반도체 핵심 기술인 CVD 챔버 및 PLC 프로그램 영업비밀을 이직한 회사에 유출한 혐의를 받는다. 이직한 회사 대표 B씨에게는 징역 8개월, 법인에는 벌금 7500만원이 선고됐다.",
+      "sourceLink": "https://news.google.com/search?q=반도체+핵심+영업비밀+이직+50대+징역+실형+선고&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a semiconductor silicon wafer on a clean room inspection table, reflecting blue and purple iridescence under lab lighting, sterile white environment visible, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "미중 결산",
+      "title": "미중 무역협상 결과 내일 발표",
+      "summary": "시진핑 주석이 미국 방문을 마치고 귀국했으며 미중 무역협상의 세부 결과가 28일 발표됩니다. 양국은 정상회담에서 무역 휴전 기한을 2개월 연장하기로 합의한 바 있습니다.",
+      "sourceTitle": "시진핑 美 방문 마치고 귀국...28일 미중 무역협상 결과 발표",
+      "sourceDesc": "시진핑 중국 국가주석이 미국 방문 일정을 마치고 귀국했다. 미중 정상회담에서 합의한 무역 협상의 세부 결과는 28일 공식 발표될 예정이다. 양국은 정상회담에서 무역 휴전 기한을 2개월 연장하기로 합의했다.",
+      "sourceLink": "https://news.google.com/search?q=시진핑+귀국+미중+무역협상+28일+발표&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Empty formal diplomatic conference table with two opposing national flag holders in a grand hall, soft overhead spotlights casting shadows on polished surface, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-27 아침 브리핑\n\n1. DMZ 합동조사 오늘, 유엔사 거부 논란\n2. 태풍 수리개, 27~28일 강한 태풍 발달 전망\n3. 추석 마지막 귀경길 오늘 정체 집중\n4. 반도체 영업비밀 유출 50대, 징역 1년\n5. 미중 무역협상 결과 내일 발표\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #추석 #태풍 #DMZ #반도체\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail",
+      "websearch": "ok"
+    },
+    "signalHits": []
+  }
+}
