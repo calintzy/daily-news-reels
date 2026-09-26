@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-24",
+  "slot": "am",
+  "hookLine": "DMZ 부대서 장교가 또 숨진 채 발견됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·군사",
+      "kicker": "DMZ 또 충격",
+      "title": "DMZ 사고 부대서 대위 숙소서 숨진 채 발견",
+      "summary": "DMZ 지뢰 사고로 대대장이 다친 육군 25사단에서 하루 만에 대위가 숙소에서 숨진 채 발견됐습니다. 군과 경찰은 두 사건의 직접적 연관성은 현재까지 확인되지 않았다고 밝혔습니다.",
+      "sourceTitle": "DMZ 지뢰 사고 하루 만에…25사단 대위, 숙소서 숨진 채 발견",
+      "sourceDesc": "DMZ 지뢰 추정 폭발 사고로 대대장이 발목 부상을 입은 육군 25사단에서 하루 만에 사단 본부 소속 장교가 부대 숙소에서 숨진 채 발견됐다. 군과 경찰은 DMZ 폭발사고와의 직접적 연관성은 현재까지 확인되지 않았다고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=DMZ+25사단+대위+숙소+숨진+채+발견&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary-style photograph of a dim empty military barracks hallway at dawn, closed dormitory doors lining the corridor, a single fluorescent light casting pale shadows, heavy silence. No people. No text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "외교·안보",
+      "kicker": "한미 회담",
+      "title": "이재명·트럼프 30분 회담, 핵잠·전작권 합의",
+      "summary": "이재명 대통령과 트럼프 대통령이 뉴욕에서 30분간 정상회담을 열고 핵잠수함 협력과 전작권 전환 등을 논의했습니다. 양 정상은 후속 협의를 이어가기로 합의했습니다.",
+      "sourceTitle": "李대통령·트럼프 30분 회담…핵잠·농축·전작권 후속 협의키로(종합)",
+      "sourceDesc": "이재명 대통령과 트럼프 대통령이 뉴욕에서 30분 정상회담을 열고 핵잠수함 협력, 우라늄 농축, 전작권 전환 등 후속 협의를 이어가기로 했다. 이 대통령은 방위비 증액과 함께 핵잠 논의 가속화를 제안했다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+트럼프+30분+정상회담+핵잠+전작권&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photograph of two national flags placed side by side in a formal diplomatic meeting room, an empty long conference table with water glasses, soft overhead lighting. No people. No text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "부동산·경제",
+      "kicker": "집값 최장 신기록",
+      "title": "서울 아파트값 84주째 상승…역대 최장 1주 앞",
+      "summary": "서울 아파트값이 84주 연속 오르며 역대 최장 기록인 85주에 단 한 주 앞으로 다가섰습니다. 강남권을 중심으로 상승세가 이어지고 있습니다.",
+      "sourceTitle": "서울 아파트값 84주 연속 상승…역대 최장 기록 눈앞",
+      "sourceDesc": "서울 아파트 매매가격이 84주 연속 상승하며 역대 최장 기록인 85주에 단 1주 앞으로 다가섰다. 전국 주택 가격도 상승세를 이어가고 있다.",
+      "sourceLink": "https://news.google.com/search?q=서울+아파트값+84주+연속+상승+역대+최장&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Aerial documentary photograph of a Seoul residential district densely packed with high-rise apartment towers at golden hour, city skyline stretching to the horizon, warm light on rooftops. No people. No text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "경제·산업",
+      "kicker": "수출 역대 최대",
+      "title": "9월 수출 714억달러 역대 최대, 반도체 이끌다",
+      "summary": "9월 1~20일 수출액이 714억달러로 역대 최대치를 기록했습니다. 반도체 수출이 크게 늘며 전체 수출을 주도하고 있습니다.",
+      "sourceTitle": "반도체 수출 '259.4%' 늘었다…9월 1~20일 수출 714억달러↑",
+      "sourceDesc": "9월 1~20일 수출액은 714억달러로 역대 최대치를 기록했다. 반도체가 수출을 이끌며 전체 수출에서 차지하는 비중이 47.8%에 달했다.",
+      "sourceLink": "https://news.google.com/search?q=반도체+수출+714억달러+역대최대+9월&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up documentary photograph of silicon semiconductor wafers arranged neatly on a polished stainless steel surface under clean-room lighting, futuristic metallic reflection. No people. No text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "개헌 여론",
+      "title": "연임 개헌 반대 69%, 여론 냉각",
+      "summary": "현직 대통령 연임을 위한 개헌에 반대한다는 응답이 69%에 달한다는 여론조사가 나왔습니다. 찬성은 크게 적어 부정 여론이 높게 형성됐습니다.",
+      "sourceTitle": "\"대통령 연임개헌 반대\" 69%, \"장동혁 지도부 못해\" 65%…여권 교체론만 '뚝'",
+      "sourceDesc": "현직 대통령 연임을 위한 개헌에 반대한다는 응답이 69%에 달한다는 여론조사 결과가 나왔다. 연임 개헌에 찬성한다는 응답은 24.7%였다.",
+      "sourceLink": "https://news.google.com/search?q=대통령+연임개헌+반대+69+여론조사&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Documentary photograph of an empty ballot box on a plain table inside a sparse polling station, diffuse natural light from a window, administrative papers neatly stacked. No people. No text. Vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-24 아침 브리핑\n\n1. DMZ 사고 부대서 대위 숙소서 숨진 채 발견\n2. 이재명·트럼프 30분 회담, 핵잠·전작권 합의\n3. 서울 아파트값 84주째 상승…역대 최장 1주 앞\n4. 9월 수출 714억달러 역대 최대, 반도체 이끌다\n5. 연임 개헌 반대 69%, 여론 냉각\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #DMZ #부동산 #반도체 #한미정상회담 #개헌\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}

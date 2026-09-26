@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-25",
+  "slot": "am",
+  "hookLine": "서울 아파트 85주째 올라, 역대 최장 타이입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "집값 최장 기록",
+      "title": "서울 아파트 85주 연속 상승",
+      "summary": "서울 아파트 매매가격이 85주째 오르며 역대 최장 상승 기간과 동률을 기록했습니다. 강남권이 약세를 보이는 가운데 중하위권 지역이 상승을 이끌었습니다.",
+      "sourceTitle": "서울 아파트값 85주 연속 상승…역대 최장 기록과 타이",
+      "sourceDesc": "서울 아파트 매매가격이 85주째 상승하며 역대 최장 상승 기간 기록과 동률을 기록했다. 강남권 약세에도 중하위권 지역이 상승을 견인했다.",
+      "sourceLink": "https://news.google.com/search?q=서울+아파트+85주+연속+상승",
+      "imagePrompt": "Wide-angle shot of Seoul urban skyline with dense high-rise apartment buildings stretching across the horizon, overcast sky, photojournalistic documentary style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "사건",
+      "kicker": "연휴 화재 참변",
+      "title": "추석 첫날 강서구 화재…60대 사망",
+      "summary": "추석 연휴 첫날 새벽 서울 강서구 마곡동 주택 옥탑방에서 불이 나 60대 남성이 숨졌습니다. 소방당국이 약 23분 만에 화재를 진압했으며 다른 부상자는 없었습니다.",
+      "sourceTitle": "[속보] 옥탑방서 60대 남성 숨진 채 발견… 연휴 첫날 새벽 화재 발생",
+      "sourceDesc": "추석 연휴 첫날인 24일 새벽 서울 강서구 마곡동 주택 옥탑방에서 화재가 발생해 거주하던 60대 남성이 숨진 채 발견됐다. 소방당국은 인원 58명과 차량 17대를 투입해 화재 발생 약 23분 만에 불을 완전히 진압했다. 사망한 남성 외 부상자는 없었다.",
+      "sourceLink": "https://news.google.com/search?q=서울+강서구+마곡동+화재+60대+사망+2026",
+      "imagePrompt": "Fire truck parked in a narrow urban alleyway at night, emergency lights casting red and blue reflections on surrounding buildings, smoke haze visible in the air, photojournalistic documentary style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "16년 만의 한·멕 정상회담",
+      "title": "이 대통령, 16년 만에 멕시코 국빈방문",
+      "summary": "이재명 대통령이 멕시코에 도착해 16년 만의 국빈방문 일정에 돌입했습니다. 셰인바움 대통령과의 정상회담을 통해 에너지·방산 분야 협력을 논의합니다.",
+      "sourceTitle": "李대통령, 멕시코 도착…16년 만의 국빈방문 일정 돌입",
+      "sourceDesc": "이재명 대통령이 멕시코시티에 도착해 16년 만의 국빈방문 일정에 돌입했다. 셰인바움 대통령과 단독·확대 정상회담을 갖고 에너지·AI·방산 등 양국 협력을 논의한다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+멕시코+국빈방문+16년",
+      "imagePrompt": "Two national flags on tall flagpoles against a clear blue sky, one with a red and blue circular emblem on white background and one with a green white red tricolor featuring an eagle emblem, photojournalistic documentary style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "AI폰 메모리 초격차",
+      "title": "삼성 LPDDR6, 퀄컴서 업계 첫 검증",
+      "summary": "삼성전자가 차세대 저전력 메모리 LPDDR6를 퀄컴 스냅드래곤에서 업계 최초로 검증했습니다. 고성능 저전력 메모리를 필요로 하는 AI 스마트폰 경쟁에서 우위를 확보했습니다.",
+      "sourceTitle": "삼성전자 LPDDR6, 퀄컴 최신 스냅드래곤서 '업계 최초' 검증",
+      "sourceDesc": "삼성전자가 차세대 저전력 D램 LPDDR6를 퀄컴 차세대 스냅드래곤 AP에서 업계 최초로 검증하는 데 성공했다. AI 스마트폰 확대에 따른 고성능 저전력 메모리 수요 증가에 발맞춰 공급 경쟁에서 우위를 확보했다.",
+      "sourceLink": "https://news.google.com/search?q=삼성전자+LPDDR6+퀄컴+업계최초+검증",
+      "imagePrompt": "Close-up macro photograph of a semiconductor memory chip on a green circuit board, microscopic gold traces and solder points, blue-toned technical lighting, photojournalistic documentary style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "연휴 연안사고 경고",
+      "title": "추석 연안사고 평소의 3배, 5년 640명",
+      "summary": "최근 5년간 연안 사고로 640명이 사망·실종됐으며, 추석 연휴 기간은 평소보다 최대 3배 위험합니다. 연안 활동 시 각별한 주의가 요구됩니다.",
+      "sourceTitle": "최근 5년간 연안 사고로 640명 사망, 추석 연휴 일평균 사고 평소의 최대 3배 달해",
+      "sourceDesc": "국회 강승규 의원이 공개한 자료에 따르면 최근 5년간 연안 사고로 640명이 사망·실종됐다. 추석 연휴 기간 연안사고 일평균 발생 건수는 평소의 최대 3배에 달해 연안 활동 시 각별한 주의가 당부됐다.",
+      "sourceLink": "https://news.google.com/search?q=추석+연안사고+640명+3배+2026",
+      "imagePrompt": "Rocky coastal shoreline with crashing waves against concrete tetrapod sea walls, warning buoys visible in the water, dramatic overcast sky, photojournalistic documentary style, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-25 아침 브리핑\n\n1. 서울 아파트 85주 연속 상승\n2. 추석 첫날 강서구 화재…60대 사망\n3. 이 대통령, 16년 만에 멕시코 국빈방문\n4. 삼성 LPDDR6, 퀄컴서 업계 첫 검증\n5. 추석 연안사고 평소의 3배, 5년 640명\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #추석 #부동산 #삼성전자\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail",
+      "websearch": "ok"
+    },
+    "signalHits": []
+  }
+}
