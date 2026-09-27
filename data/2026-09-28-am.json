@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-28",
+  "slot": "am",
+  "hookLine": "DMZ 조사단, 폭발 지점에 도달하지 못했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "안보",
+      "kicker": "DMZ 지뢰 현장 조사",
+      "title": "DMZ 조사단, 폭발 지점 도달 못 해",
+      "summary": "군과 유엔사가 DMZ 지뢰 폭발 현장 조사에 나섰지만 폭발 추정 지점에는 도달하지 못했습니다. 사고 원인 규명을 위한 추가 조사가 이어질 예정입니다.",
+      "sourceTitle": "군·유엔사, DMZ폭발 현장조사 나갔지만 사고지점 도달 못해…\"추후 재조사\"(종합)",
+      "sourceDesc": "지뢰 추정 폭발로 군 간부 3명이 중경상을 입은 지 6일 만에 군과 유엔사가 서부전선 비무장지대(DMZ) 폭발 현장 조사에 나섰으나, 폭발 추정 지점에 끝내 도달하지 못하고 추후 재조사하기로 했다.",
+      "sourceLink": "https://news.google.com/search?q=DMZ+지뢰+폭발+현장조사+유엔사",
+      "imagePrompt": "Forested demilitarized zone landscape with warning signs and barbed wire fences stretching into misty hills, overcast sky, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "사건",
+      "kicker": "분당 중식당 테러",
+      "title": "중식당 테러 중국인 4명, 범행 당일 출국",
+      "summary": "분당의 한 중식당에 중국 국적 남성 4명이 래커와 농약 추정 물질을 뿌리는 테러를 저질렀습니다. 용의자들은 범행 당일 중국으로 출국했고 경찰이 국제 공조로 추적 중입니다.",
+      "sourceTitle": "'중식당 테러' 용의자 4명 모두 중국 국적 남성‥범행 당일 출국",
+      "sourceDesc": "경기 분당 소재 중식당에 중국 국적 남성 4명이 침입해 래커와 페인트, 농약으로 추정되는 물질을 뿌리는 테러를 저질렀다. 용의자들은 범행 당일 인천공항을 통해 중국으로 출국한 것으로 확인됐으며, 경찰은 국제 사법 공조를 통해 추적하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=분당+중식당+테러+중국인+출국",
+      "imagePrompt": "Dark empty restaurant interior after vandalism, overturned chairs and paint-splattered walls, forensic yellow tape, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "외교",
+      "kicker": "북한군 포로 공개 파장",
+      "title": "정부, 北포로 공개에 유감…우크라 내부도 비판",
+      "summary": "한국 정부가 우크라이나의 북한군 포로 한국 이송 공개에 유감을 표명했습니다. 우크라이나 내부에서도 비공개 합의를 어겼다며 비판이 나오고 있습니다.",
+      "sourceTitle": "정부, 北포로 송환 공개에 유감 표명… 우크라 내부도 \"정치쇼\"",
+      "sourceDesc": "젤렌스키 우크라이나 대통령이 유엔총회 연설에서 북한군 포로 2명을 한국으로 보냈다고 공개하자 한국 정부는 비공개 합의를 어겼다며 유감을 표명했다. 우크라이나 내부에서도 이를 정치쇼라고 비판하는 목소리가 나왔다.",
+      "sourceLink": "https://news.google.com/search?q=북한군+포로+우크라이나+한국+송환+유감",
+      "imagePrompt": "Empty international conference table with scattered papers and national flag placards, cold fluorescent lighting, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "안보",
+      "kicker": "북한 전투기 영공 접근",
+      "title": "북한 전투기 전술조치선 남하, 공군 긴급 발진",
+      "summary": "북한 전투기가 백령도 인근 전술조치선을 넘어 남하하자 한국 공군이 긴급 발진했습니다. 북한 전투기는 NLL을 침범하지 않고 돌아갔으며, 인근 선박에 긴급 대피 통보가 내려졌습니다.",
+      "sourceTitle": "북한 전투기, 한때 백령도 전술조치선 넘어 대응‥NLL 침범은 아냐",
+      "sourceDesc": "북한 전투기가 백령도 인근에서 전술조치선을 남하해 한국 공군이 긴급 발진하고 인근 어선 79척에 대피 통보가 내려졌다. 북한 전투기는 NLL을 침범하지 않고 북쪽으로 돌아갔다.",
+      "sourceLink": "https://news.google.com/search?q=북한+전투기+전술조치선+백령도",
+      "imagePrompt": "Military jet silhouette parked on a coastal airbase runway at dawn with grey ocean in the background, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "자본시장 IR 행사",
+      "title": "코리아 프리미엄 위크 2026 개막",
+      "summary": "금융위원회와 한국거래소가 한국 자본시장을 세계에 알리는 코리아 프리미엄 위크 2026을 개막했습니다. 외국인 투자자와 글로벌 기관투자자를 대상으로 다양한 행사가 이어집니다.",
+      "sourceTitle": "K자본시장 매력 전 세계에 알린다…코리아 프리미엄 위크 2026 열린다",
+      "sourceDesc": "금융위원회와 한국거래소가 한국 자본시장의 매력을 해외 투자자에게 알리는 코리아 프리미엄 위크 2026을 공동 개최한다. 외국인 투자자와 글로벌 기관투자자, 국내 상장기업이 참여하는 자본시장 IR 행사가 3주간 이어진다.",
+      "sourceLink": "https://news.google.com/search?q=코리아+프리미엄+위크+2026",
+      "imagePrompt": "Modern financial district skyline at dusk with illuminated skyscrapers reflected in a river, long-exposure city lights, documentary style, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-28 아침 브리핑\n\n1. DMZ 조사단, 폭발 지점 도달 못 해\n2. 중식당 테러 중국인 4명, 범행 당일 출국\n3. 정부, 北포로 공개에 유감…우크라 내부도 비판\n4. 북한 전투기 전술조치선 남하, 공군 긴급 발진\n5. 코리아 프리미엄 위크 2026 개막\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #DMZ #안보 #사건 #경제\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail", "googleNews": "fail" },
+    "signalHits": []
+  }
+}
