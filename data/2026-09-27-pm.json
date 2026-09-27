@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-27",
+  "slot": "pm",
+  "hookLine": "추석 연휴, 옥천서 일가족이 숨진 채 발견됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "추석 비극",
+      "title": "추석 마지막 날 옥천 아파트서 일가족 3명 사망",
+      "summary": "추석 연휴 마지막 날 충북 옥천군 아파트에서 일가족 3명이 숨진 채 발견됐습니다. 경찰은 외부 침입 정황이 없다고 밝혔으며 정확한 사망 경위를 수사 중입니다.",
+      "sourceTitle": "옥천서 일가족 3명 숨진 채 발견…경찰 '외부 침입 정황 없어'",
+      "sourceDesc": "27일 오전 충북 옥천군 옥천읍 한 아파트 화단에서 40대 남성 A씨가 숨진 채 발견됐으며, 이후 아파트 안에서 아내와 10대 자녀가 피를 흘린 상태로 추가 발견됐다. 일가족 3명 모두 숨진 것으로 확인됐으며, 경찰은 외부 침입 정황이 없다고 밝히고 정확한 사망 경위를 수사 중이다.",
+      "sourceLink": "https://news.google.com/search?q=옥천+일가족+3명+숨진+채+발견+외부+침입+정황&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "A quiet residential apartment complex courtyard at dawn, empty flower bed near building entrance, autumn leaves scattered on concrete pavement, somber overcast sky, no people, no text, vertical 9:16 composition, photojournalism documentary style, muted grey and brown tones"
+    },
+    {
+      "rank": 2,
+      "category": "사건·국제",
+      "kicker": "중식당 테러",
+      "title": "분당 중식당 테러 중국인 4명, 범행 당일 출국",
+      "summary": "분당 중식당에 래커와 페인트를 뿌리고 식재료를 훼손한 용의자 4명이 모두 중국 국적으로 확인됐습니다. 이들은 범행 당일 인천국제공항을 통해 중국으로 출국했으며 경찰이 추적 중입니다.",
+      "sourceTitle": "분당 중식당 테러 용의자 4명 모두 중국인…범행 당일 출국",
+      "sourceDesc": "추석 연휴 첫날인 지난 24일 경기 성남시 분당구 한 중식당에 침입해 래커와 페인트를 뿌리고 식재료에 농약 추정 물질을 훼손한 용의자 4명이 모두 중국 국적 남성으로 확인됐다. 이들은 범행 당일 인천국제공항을 통해 중국으로 출국했으며, 경찰은 국제사법공조를 통해 추적에 나섰다.",
+      "sourceLink": "https://news.google.com/search?q=분당+중식당+테러+용의자+중국인+범행+당일+출국&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Interior of a vandalized restaurant showing paint-splattered walls and overturned furniture, broken dishes and scattered food ingredients on kitchen floor, emergency scene under fluorescent lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "기상·재난",
+      "kicker": "에너지시설 화재",
+      "title": "당진 에너지공장서 폭발 화재, 우드칩 800톤 난항",
+      "summary": "27일 오전 충남 당진시 석문에너지에서 폭발과 함께 화재가 발생해 대응 1단계가 발령됐습니다. 우드칩 800톤으로 완진에 어려움이 있었으나 인명 피해는 없는 것으로 파악됐습니다.",
+      "sourceTitle": "당진 에너지시설 화재…대응 1단계 발령",
+      "sourceDesc": "27일 오전 충남 당진시 석문면 삼봉리 석문에너지에서 폭발과 함께 화재가 발생했다. 소방당국은 대응 1단계를 발령하고 인력 120여명과 소방차 40여대를 투입해 진화 작업을 벌였다. 내부에 우드칩 800톤이 보관돼 있어 완전 진화에 어려움이 있었으며 현장 근무자 8명은 자체 대피해 인명 피해는 없는 것으로 파악됐다.",
+      "sourceLink": "https://news.google.com/search?q=당진+석문에너지+화재+대응+1단계&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Industrial factory building engulfed in billowing dark smoke against grey sky, fire trucks and emergency response equipment visible in foreground, industrial zone landscape with storage silos in background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "위장수사 성과",
+      "title": "디지털 성범죄 위장수사 6년, 2873명 검거",
+      "summary": "경찰청이 디지털 성범죄 위장수사 이후 총 2873명을 검거하고 이 중 164명을 구속했다고 27일 밝혔습니다. 위장수사는 지난해 성인 범죄까지 확대돼 검거 건수가 급증했습니다.",
+      "sourceTitle": "디지털 성범죄 파고든 '위장경찰'…6년간 2873명 검거",
+      "sourceDesc": "경찰청 국가수사본부는 디지털 성범죄 위장수사 제도를 시행한 2021년 9월 24일부터 지난달까지 총 1503건의 위장수사를 벌여 2873명을 검거하고, 이 중 164명을 구속했다고 27일 밝혔다. 올해 1~8월 실시된 위장수사는 598건으로 지난해 같은 기간보다 234% 늘었다.",
+      "sourceLink": "https://news.google.com/search?q=디지털+성범죄+위장수사+2873명+검거&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Close-up of a smartphone screen with a chat application open on a dark desk, digital surveillance concept with blurred glow replacing screen content, moody low-key lighting in an office environment, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "귀경 후속",
+      "title": "추석 귀경 정체 저녁 완화, 곳곳 사고·빗길 주의",
+      "summary": "아침 예보 후속으로, 추석 귀경 정체가 저녁에 점차 완화되고 있습니다. 고속도로 곳곳에서 사고와 빗길로 주의가 요구되며 오후 10~11시께 해소 전망입니다.",
+      "sourceTitle": "추석 연휴 마지막날 저녁 귀경길 정체 계속…곳곳 사고·빗길 '주의'",
+      "sourceDesc": "추석 연휴 마지막날인 27일 저녁 귀경 방향 정체가 오후 5시 절정 이후 점차 완화되고 있다. 오후 10~11시께 정체가 풀릴 전망이며 고속도로 곳곳에서 사고와 빗길로 주의가 요구된다.",
+      "sourceLink": "https://news.google.com/search?q=추석+귀경길+정체+저녁+완화+빗길+주의&hl=ko&gl=KR&ceid=KR:ko",
+      "imagePrompt": "Nighttime aerial view of flowing highway traffic with red tail lights creating long streaks through a city overpass, wet road surface reflecting yellow and white lights, rainy autumn evening atmosphere, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-27 저녁 브리핑\n\n1. 추석 마지막 날 옥천 아파트서 일가족 3명 사망\n2. 분당 중식당 테러 중국인 4명, 범행 당일 출국\n3. 당진 에너지공장서 폭발 화재, 우드칩 800톤 난항\n4. 디지털 성범죄 위장수사 6년, 2873명 검거\n5. 추석 귀경 정체 저녁 완화, 곳곳 사고·빗길 주의\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #추석 #분당테러 #당진화재 #디지털성범죄\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_rss": "fail",
+      "websearch": "ok"
+    },
+    "signalHits": []
+  }
+}
