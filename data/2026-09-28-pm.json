@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-28",
+  "slot": "pm",
+  "hookLine": "코스피, 추석 뒤 7000선 아래로 급락했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "증시 급락",
+      "title": "코스피, 연휴 뒤 2.70% 급락…7000선 이탈",
+      "summary": "추석 연휴 후 첫 거래일, 코스피가 2.70% 급락해 7000선을 내줬습니다. 외국인·기관이 4조원 넘게 순매도했고 삼성전자·SK하이닉스도 5%대 급락했습니다.",
+      "sourceTitle": "코스피 2.70% 급락 6889… 외국인·기관 4조원 넘게 팔았다",
+      "sourceDesc": "추석 연휴 동안 쌓인 악재들이 반영되면서 코스피가 외국인과 기관의 동반 매도 공세 속에 2.70% 급락해 6889.74로 마감하며 7000선을 내줬다. 미국 국채 금리 급등 등의 영향으로 삼성전자와 SK하이닉스 등 반도체 대형주가 5%대 급락했고, 외국인·기관이 4조원 넘게 순매도했다.",
+      "sourceLink": "https://news.google.com/search?q=코스피+2.70%+급락+외국인+기관+4조원",
+      "imagePrompt": "Illuminated stock market display board showing red downward arrows on a city building exterior at dusk, urban financial district background, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "전세 역대 최고",
+      "title": "서울 아파트 전세, 2년 새 8268만원 상승",
+      "summary": "서울 아파트 평균 전세보증금이 2년 새 8268만원 올라 6억3663만원으로 역대 최고치를 기록했습니다. 84주 연속 상승세로 전세난이 심화하고 있습니다.",
+      "sourceTitle": "서울 아파트 전세 8268만원 상승… 강남 집값은 '추풍낙엽'",
+      "sourceDesc": "서울 아파트 평균 전세보증금이 2년 새 8268만원 올라 6억3663만원으로 역대 최고치를 찍었다. 전셋값이 84주 연속 상승한 가운데 입주 물량 감소로 전세난이 심화하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=서울+아파트+전세+8268만원+역대최고",
+      "imagePrompt": "Row of apartment high-rise buildings in Seoul at twilight, warm lit windows across a densely built urban skyline, documentary style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "사건",
+      "kicker": "중식당 테러 후속",
+      "title": "분당 중식당 테러범 인터폴 수배 추진…후속",
+      "summary": "후속 — 분당 중식당 테러 중국인 4명에 대해 경찰이 체포영장을 신청하고 인터폴 적색수배 요청을 추진합니다. 피의자들은 범행 당일 중국으로 출국한 상태입니다.",
+      "sourceTitle": "경찰, '중식당 시진핑 테러' 중국인 일당에 체포영장…인터폴 수배도 추진",
+      "sourceDesc": "경찰청 국가수사본부가 분당 중식당 훼손 사건 피의자 중국인 4명에 대해 체포영장을 신청하고 영장 발부 시 인터폴 적색수배를 요청할 계획이라고 밝혔다. 피의자들은 범행 당일 인천국제공항을 통해 중국으로 출국했다.",
+      "sourceLink": "https://news.google.com/search?q=분당+중식당+테러+인터폴+수배+체포영장",
+      "imagePrompt": "Police forensic evidence table with sealed plastic bags and investigation files under bright laboratory lighting, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "대법원·청와대 갈등",
+      "title": "조희대 '재제청 거부' 국감서 입장 표명",
+      "summary": "조희대 대법원장이 대법관 재제청 거부 논란에 대해 국정감사를 통해 입장을 전달하겠다고 밝혔습니다. 더불어민주당은 국회 법사위에서 긴급 현안질의를 진행하며 갈등이 이어지고 있습니다.",
+      "sourceTitle": "조희대, 대법관 재제청 거부 논란에 \"국정감사 통해 입장 전달하겠다\"",
+      "sourceDesc": "조희대 대법원장이 대법관 후보 재제청 거부 논란과 관련해 국정감사를 통해 입장을 전달하겠다고 밝혔다. 더불어민주당은 28일 국회 법제사법위원회 전체회의에서 법원행정처를 대상으로 긴급 현안질의를 진행했다.",
+      "sourceLink": "https://news.google.com/search?q=조희대+대법관+재제청+거부+국정감사",
+      "imagePrompt": "Empty courtroom with polished wooden judge bench and gavel under dramatic natural light streaming through tall windows, photojournalism style, vertical 9:16 composition, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "대통령 귀국·인선",
+      "title": "이 대통령, 순방 복귀…비서실장 인선 주목",
+      "summary": "이재명 대통령이 5박 7일간의 북중미 순방을 마치고 28일 귀국해 내치에 복귀했습니다. 사의를 표명한 강훈식 비서실장의 사표 수리와 후임 인선이 주목됩니다.",
+      "sourceTitle": "李대통령, 순방 끝 내치 복귀…강훈식 사표 수리·후임 인선 '주목'",
+      "sourceDesc": "이재명 대통령이 5박 7일간의 북중미 순방을 마치고 28일 귀국해 내치에 복귀했다. 순방 전 사의를 표명한 강훈식 대통령비서실장의 사표 수리 여부와 후임 인선에 관심이 쏠린다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+대통령+순방+귀국+강훈식+비서실장",
+      "imagePrompt": "Presidential Blue House gate and traditional architecture at dawn with Korean national flag against a soft morning sky, photojournalism style, vertical 9:16 composition, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-28 저녁 브리핑\n\n1. 코스피, 연휴 뒤 2.70% 급락…7000선 이탈\n2. 서울 아파트 전세, 2년 새 8268만원 상승\n3. 분당 중식당 테러범 인터폴 수배 추진…후속\n4. 조희대 '재제청 거부' 국감서 입장 표명\n5. 이 대통령, 순방 복귀…비서실장 인선 주목\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #코스피 #부동산 #전세 #정치\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail", "googleNews": "fail" },
+    "signalHits": []
+  }
+}
