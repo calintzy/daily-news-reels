@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-28",
+  "account": "aibrief",
+  "hookLine": "구글이 AI 칩 위성을 10월 1일 우주에 쏩니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "빅테크 사업",
+      "kicker": "우주 AI 데이터센터",
+      "title": "구글, AI 칩 탑재 위성 10월 1일 우주 발사",
+      "summary": "구글이 우주 AI 데이터센터 연구 프로젝트의 첫 실험 위성을 10월 1일 발사합니다. 위성에는 구글의 TPU 4개가 탑재되어 우주 환경에서 AI 연산 실험을 수행할 예정입니다.",
+      "sourceTitle": "구글 '우주 AI 데이터센터' 첫발… TPU 4개 실은 위성 띄운다",
+      "sourceDesc": "구글이 우주 AI 데이터센터 연구 프로젝트 '선캐처'의 첫 실험 위성을 10월 1일 스페이스X 로켓으로 발사한다. 위성에는 AI 칩인 TPU 4개가 탑재되어 우주 환경에서 AI 연산 실험을 수행한다.",
+      "sourceLink": "https://news.google.com/search?q=구글+우주+AI+위성+TPU+선캐처&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "빅테크 사업",
+      "kicker": "개발자 행사",
+      "title": "오픈AI 데브데이 2026, 내일 서울서도 개막",
+      "summary": "오픈AI 데브데이 2026이 9월 29일 샌프란시스코에서 개막하고 서울 포함 8개 도시에서 위성 행사도 동시에 열립니다. 새로운 AI 기술 공개가 예정된 연례 개발자 행사입니다.",
+      "narration": "오픈AI 데브데이, 내일 8개 도시서 개막합니다.",
+      "sourceTitle": "오픈AI(OpenAI GPT) 데브데이 2026 키노트 시간과 볼 것, 서울 일정 정리",
+      "sourceDesc": "오픈AI 데브데이 2026이 9월 29일 샌프란시스코에서 개막한다. 서울을 포함한 8개 도시에서 위성 행사가 동시에 진행되며, AI 신기술 발표가 예정된다.",
+      "sourceLink": "https://news.google.com/search?q=오픈AI+데브데이+2026+서울&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 서비스",
+      "kicker": "가격 파괴",
+      "title": "알리바바, 음성 AI 가격 최대 95% 인하",
+      "summary": "알리바바가 음성 AI 모델을 공개하며 음성인식 최대 95%, 실시간 음성대화 약 85% 등 가격을 대폭 인하했습니다. AI 가격 전쟁이 중국으로 확전되는 신호탄이라는 평가가 나옵니다.",
+      "narration": "알리바바, 음성 AI 가격 최대 95% 낮췄습니다.",
+      "sourceTitle": "알리바바, 음성 AI 가격 최대 95% 인하…AI 가격 전쟁 中으로 확전",
+      "sourceDesc": "알리바바 큐원 팀이 음성 모델 시리즈 '큐원-오디오-3.1'을 공개하며 음성합성 약 70%, 실시간 음성대화 약 85%, 음성인식 최대 95%의 가격을 인하했다. AI 가격 전쟁이 중국으로 확전되는 신호탄이라는 평가가 나온다.",
+      "sourceLink": "https://news.google.com/search?q=알리바바+음성+AI+가격+인하+95&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "규제·정책",
+      "kicker": "AI 안전 합의",
+      "title": "미·중, AI 대화 신설·소통 채널 구축 합의",
+      "summary": "트럼프·시진핑 정상회담에서 미중 AI 대화를 신설해 11월 첫 회의를 열기로 합의했습니다. AI 사고에 대비한 소통 채널 구축에도 뜻을 모았습니다.",
+      "narration": "미·중 정상회담에서 AI 소통 채널 만들었습니다.",
+      "sourceTitle": "막 내린 美中 회담...'친분' 과시했지만 AI·희토류 등 '동상이몽'",
+      "sourceDesc": "트럼프·시진핑 정상회담이 마무리됐다. AI 분야에서는 미중 AI 대화를 신설해 11월 첫 회의를 열기로 했으며 AI 사고에 대비한 소통 채널 구축에도 합의했다.",
+      "sourceLink": "https://news.google.com/search?q=미중+AI+대화+정상회담+소통채널&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "반도체·인프라",
+      "kicker": "엔비디아 추격",
+      "title": "화웨이, AI칩 출시 최대 9개월 앞당겨",
+      "summary": "화웨이가 차세대 AI칩 어센드 960 시리즈 출시 일정을 최대 9개월 앞당기기로 했습니다. 어센드 960 칩은 기존 제품 대비 성능 2배를 실현했다고 화웨이는 밝혔습니다.",
+      "narration": "화웨이, AI칩 출시를 9개월 앞당겼습니다.",
+      "sourceTitle": "화웨이, AI칩 출시 최대 9개월 앞당겨 엔비디아 추격",
+      "sourceDesc": "화웨이가 차세대 AI칩 어센드 960 시리즈 출시 일정을 최대 9개월 앞당기기로 했다. 어센드 960 칩은 기존 제품 대비 성능 2배를 실현했다고 화웨이는 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=화웨이+AI칩+출시+앞당겨+엔비디아&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-09-28 AI 뉴스 브리핑\n\n1. 구글, AI 칩 탑재 위성 10월 1일 우주 발사\n2. 오픈AI 데브데이 2026, 내일 서울서도 개막\n3. 알리바바, 음성 AI 가격 최대 95% 인하\n4. 미·중, AI 대화 신설·소통 채널 구축 합의\n5. 화웨이, AI칩 출시 최대 9개월 앞당겨\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #구글 #우주AI #오픈AI #알리바바 #화웨이\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
