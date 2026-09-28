@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-29",
+  "slot": "am",
+  "hookLine": "DMZ 폭발, 북한 지뢰 가능성 높습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국방·안보",
+      "kicker": "北 지뢰 확인",
+      "title": "서부전선 DMZ, 北 지뢰 가능성 확인",
+      "summary": "서부전선 DMZ에서 발생한 폭발사고 원인이 북한 지뢰일 가능성이 높다는 군의 중간조사 결과가 나왔습니다. 합참은 최종 판정 시 상응한 조치를 하겠다고 밝혔습니다.",
+      "sourceTitle": "軍 'DMZ 폭발, 北 지뢰 가능성 높아'",
+      "sourceDesc": "서부전선 비무장지대(DMZ)에서 발생한 폭발사고 원인이 북한 지뢰일 가능성이 높다는 군의 중간조사 결과가 나왔다. 합참은 최종 판정 시 상응한 조치를 하겠다고 밝혔다.",
+      "sourceLink": "https://www.seoul.co.kr/news/politics/2026/09/29/20260929001004",
+      "imagePrompt": "Barren DMZ landscape, coils of rusty barbed wire stretching across desolate terrain, military demarcation line marker signs, foggy overcast sky casting grey light over no man's land, no people, no text, photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "스포츠",
+      "kicker": "야구 5연패",
+      "title": "야구 대표팀, 아시안게임 5연패 달성",
+      "summary": "한국 야구 대표팀이 아시안게임 결승에서 일본을 3-1로 꺾고 금메달을 획득했습니다. 대회 5회 연속 우승이라는 쾌거를 달성했습니다.",
+      "sourceTitle": "아시안게임 야구: 한국, 일본 3-1로 꺾고 금메달 획득",
+      "sourceDesc": "류지현 감독이 이끄는 한국 야구 대표팀이 2026 아시안게임 야구 결승전에서 일본에 3-1 승리를 거두고 대회 5회 연속 우승을 차지했습니다.",
+      "sourceLink": "https://www.olympics.com/ko/news/baseball-korea-japan-final-asian-games-aichi-nagoya-2026",
+      "imagePrompt": "Gold baseball championship medal resting on red velvet cloth, gleaming trophy under stadium floodlights, empty dugout blurred in background, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "핵보유국 선언",
+      "title": "북한, 유엔서 핵보유국 지위 불가역 선언",
+      "summary": "북한 외무성 부상이 유엔총회 연설에서 핵보유국 지위는 되돌릴 수 없다고 선언했습니다. 비핵화 협상을 사실상 거부한 것으로 해석됩니다.",
+      "sourceTitle": "北, 유엔서 '핵보유국 지위 되돌릴 수 없다'…비핵화 거부 의사",
+      "sourceDesc": "북한 외무성 부상이 유엔총회 연설에서 핵보유국 지위는 그 무엇으로도 되돌릴 수 없다고 밝히며 비핵화 거부 의사를 사실상 표명했습니다.",
+      "sourceLink": "https://www.fnnews.com/news/202609290308493226",
+      "imagePrompt": "Empty United Nations General Assembly hall, curved rows of empty delegate chairs under blue overhead lighting, glowing UN emblem on the curved stage wall, no people, no text, photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "사법 독립 논란",
+      "title": "조희대 대법원장 국감 일반 증인 채택",
+      "summary": "국회 법사위가 조희대 대법원장을 국정감사 일반 증인으로 채택했습니다. 여당이 주도한 의결에 야당은 반발했습니다.",
+      "sourceTitle": "조희대 대법원장, 국감 증인 채택…여당 주도로 의결",
+      "sourceDesc": "국회 법제사법위원회가 조희대 대법원장을 국정감사 일반 증인으로 채택했습니다. 여당이 주도한 채택에 야당이 반발했습니다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026092818491206250",
+      "imagePrompt": "Korean Supreme Court building exterior, wide stone steps leading to neoclassical columns, judicial scales carved on stone facade, grey overcast sky, no people, no text, photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "제조업 부진",
+      "title": "9월 기업심리 석 달 만에 하락",
+      "summary": "9월 기업심리지수가 전월보다 하락해 석 달 만에 하락세로 돌아섰습니다. 파업과 중동 여파로 제조업이 부진한 것이 주요 원인으로 분석됩니다.",
+      "sourceTitle": "9월 기업심리 석 달 만에 하락, 파업·중동 여파에 제조업 부진",
+      "sourceDesc": "9월 전산업 기업심리지수가 전월보다 하락했습니다. 파업과 중동 갈등 여파로 제조업이 부진하면서 기업 체감경기가 석 달 만에 꺾였습니다.",
+      "sourceLink": "https://www.newspim.com/news/view/20260928000931",
+      "imagePrompt": "Industrial factory floor with idle assembly line machinery, empty conveyor belts and dim warehouse lighting casting long shadows over vacant workstations, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-29 아침 브리핑\n\n1. 서부전선 DMZ, 北 지뢰 가능성 확인\n2. 야구 대표팀, 아시안게임 5연패 달성\n3. 북한, 유엔서 핵보유국 지위 불가역 선언\n4. 조희대 대법원장 국감 일반 증인 채택\n5. 9월 기업심리 석 달 만에 하락\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침뉴스 #아침브리핑 #DMZ #아시안게임 #야구금메달\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
