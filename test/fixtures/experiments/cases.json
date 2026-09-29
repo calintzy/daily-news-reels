@@ -87,7 +87,7 @@
     "name": "pending-reject-apply-next-draft",
     "now": "2026-10-09T07:30:00+09:00",
     "state": { "muleori": { "pending": { "verdict": "reject", "decidedAt": "2026-10-08T07:30:00+09:00", "file": "experiments/verdicts/single-issue-v1.md", "veto": false } } },
-    "expect": { "action": "next-not-ready", "active": null, "flags": { "REEL_FORMAT_MULEORI": "", "TTS_ENABLED": "0" }, "historyLast": { "id": "single-issue-v1", "verdict": "reject" } }
+    "expect": { "action": "next-not-ready", "active": null, "waitingFor": "d-plan-character", "flags": { "REEL_FORMAT_MULEORI": "", "TTS_ENABLED": "0" }, "historyLast": { "id": "single-issue-v1", "verdict": "reject" } }
   },
   {
     "name": "pending-adopt-next-ready",
@@ -114,7 +114,7 @@
     "name": "veto",
     "now": "2026-10-09T07:30:00+09:00",
     "state": { "muleori": { "pending": { "verdict": "reject", "decidedAt": "2026-10-08T07:30:00+09:00", "file": "experiments/verdicts/single-issue-v1.md", "veto": true } } },
-    "expect": { "action": "vetoed", "active": null, "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" }, "historyLast": { "id": "single-issue-v1", "verdict": "reject", "vetoed": true } }
+    "expect": { "action": "vetoed", "active": null, "hold": true, "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" }, "historyLast": { "id": "single-issue-v1", "verdict": "reject", "vetoed": true } }
   },
   {
     "name": "idle-pickup",
@@ -142,5 +142,65 @@
     "now": "2026-10-08T07:30:00+09:00",
     "itemPatch": { "flags": { "REEL_FORMAT_MULEORI": "single", "PUBLISH_LIVE": "0" } },
     "expect": { "lint": false }
+  },
+  {
+    "name": "reject-next-draft-no-bypass",
+    "desc": "리뷰 R1 — next가 draft면 큐의 다른 ready 항목이 롤백한 그 실행에서 활성화되면 안 된다",
+    "now": "2026-10-09T07:30:00+09:00",
+    "queueExtra": [
+      { "id": "other", "account": "muleori", "status": "ready", "hypothesis": "우회 모형", "flags": { "TTS_ENABLED": "1" }, "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "digest" }], "samples": 14, "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5 }], "reject": [] }
+    ],
+    "state": { "muleori": { "pending": { "verdict": "reject", "decidedAt": "2026-10-08T07:30:00+09:00", "file": null, "veto": false } } },
+    "expect": { "active": null, "waitingFor": "d-plan-character", "flags": { "REEL_FORMAT_MULEORI": "", "TTS_ENABLED": "0" } }
+  },
+  {
+    "name": "veto-hold-next-day",
+    "desc": "리뷰 R2 — veto 다음 날에도 hold가 유지되어 다른 ready 항목이 자동 활성화되지 않는다",
+    "now": "2026-10-10T07:30:00+09:00",
+    "queueExtra": [
+      { "id": "other", "account": "muleori", "status": "ready", "hypothesis": "우회 모형", "flags": { "TTS_ENABLED": "1" }, "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "digest" }], "samples": 14, "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5 }], "reject": [] }
+    ],
+    "state": {
+      "muleori": { "active": null, "pending": null, "hold": true },
+      "history": [{ "id": "single-issue-v1", "account": "muleori", "verdict": "reject", "vetoed": true, "decidedAt": "2026-10-08T07:30:00+09:00", "appliedAt": "2026-10-09T07:30:00+09:00", "file": null }]
+    },
+    "expect": { "action": "hold", "active": null, "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" } }
+  },
+  {
+    "name": "waiting-for-only-named-next",
+    "desc": "waitingFor가 있으면 큐 순서상 앞의 다른 ready 항목이 아니라 그 항목만 활성화한다",
+    "now": "2026-10-10T07:30:00+09:00",
+    "queueExtra": [
+      { "id": "other", "account": "muleori", "status": "ready", "hypothesis": "우회 모형", "flags": { "TTS_ENABLED": "1" }, "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "digest" }], "samples": 14, "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5 }], "reject": [] },
+      { "id": "next-demo", "account": "muleori", "status": "ready", "hypothesis": "지명된 다음 실험", "flags": { "TTS_ENABLED": "0" }, "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "single" }], "samples": 14, "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5 }], "reject": [] }
+    ],
+    "state": {
+      "muleori": { "active": null, "pending": null, "waitingFor": "next-demo" },
+      "history": [{ "id": "single-issue-v1", "account": "muleori", "verdict": "adopt", "decidedAt": "2026-10-08T07:30:00+09:00", "appliedAt": "2026-10-09T07:30:00+09:00", "file": null }]
+    },
+    "expect": { "action": "activate", "active": "next-demo" }
+  },
+  {
+    "name": "lint-veto-string",
+    "desc": "리뷰 R3 — veto를 문자열 \"true\"로 적으면 lint가 거부한다(그대로 적용되는 사고 방지)",
+    "now": "2026-10-09T07:30:00+09:00",
+    "state": { "muleori": { "pending": { "verdict": "reject", "decidedAt": "2026-10-08T07:30:00+09:00", "file": null, "veto": "true" } } },
+    "expect": { "lint": false }
+  },
+  {
+    "name": "metrics-error-waits",
+    "desc": "리뷰 R4 — 발행 후 72시간 안의 지표 오류는 제외하지 않고 기다린다(창 고정)",
+    "now": "2026-10-09T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 15, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "overrides": { "2026-10-06-pm": { "error": "인사이트 실패: 일시 오류" } },
+    "expect": { "action": "wait", "valid": 13, "pendingVerdict": null }
+  },
+  {
+    "name": "metrics-error-old-excluded",
+    "desc": "72시간이 지난 지표 오류는 metrics-error로 제외한다",
+    "now": "2026-10-09T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 15, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "overrides": { "2026-09-30-pm": { "error": "인사이트 실패: 미디어 삭제" } },
+    "expect": { "valid": 14, "excluded": { "metrics-error": 1 }, "verdict": "adopt" }
   }
 ]

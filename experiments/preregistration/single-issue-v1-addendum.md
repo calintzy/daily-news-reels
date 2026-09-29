@@ -37,15 +37,17 @@ original: RyanVault 02-CONTENT/ideas/2026-09-14-daily-news-reels-single-issue-pr
 | evidence-missing | 위 기록 파일 없음 |
 | data | `data/<stem>.json`의 `issues[0].narration`이 비었음(나레이션은 처치의 일부) |
 | rebuild | 발행 마커 커밋 이후 그 회차의 formats/arms 기록을 바꾼 커밋이 있음(수동 재빌드가 기록을 덮어씀) |
-| unpublished | 발행 마커가 없거나 pending이고 예상 발행 후 24시간이 지남 |
-| no-metrics / metrics-error | 스냅샷에 행이 없거나 오류 행 |
+| unpublished | 발행 마커가 없거나 pending이고 예상 발행 후 72시간이 지남 |
+| no-metrics / metrics-error | 스냅샷에 행이 없거나 오류 행이고 예상 발행 후 72시간이 지남(발행 시각이 없거나 파싱 불가면 즉시) |
+
+미발행·미수집·지표 오류는 시간이 지나면 풀릴 수 있으므로 72시간까지는 제외하지 않고 기다린다. 판정 당일의 일시 오류 하나로 창 구성이 바뀌지 않게 하기 위해서다.
 
 고려 회차 중 제외 비율이 30%를 넘으면 판정 문서에 오염 경고를 싣고 health가 WARN contamination을 낸다. 판정 자체는 막지 않는다.
 
 ## 5. 적용과 거부권
 
 - 판정한 실행에서는 판정(verdict)만 기록한다(`experiments/verdicts/single-issue-v1.md`, state의 pending). flags 변경과 다음 실험 활성화는 **다음 insights 실행**(판정 후 20시간 이상 경과)에서 적용한다.
-- 그 사이 사람이 `experiments/state.json`의 `muleori.pending.veto`를 true로 바꾸는 커밋을 main에 올리면, 적용 시 flags를 유지하고 실험을 거부(vetoed)로 닫으며 다음 실험을 활성화하지 않는다.
+- 그 사이 사람이 `experiments/state.json`의 `muleori.pending.veto`를 true(따옴표 없는 불리언)로 바꾸는 커밋을 main에 올리면, 적용 시 flags를 유지하고 실험을 거부(vetoed)로 닫으며 다음 실험을 활성화하지 않는다(state `hold: true` — 사람이 지울 때까지 자동 활성화 정지). insights 실행 시간대(07:00~09:30 KST)는 피해서 커밋한다.
 - 기각 적용 시 flags는 실험 시작 직전 값(`flagsBefore`: 포맷 digest, TTS 0)으로 돌아간다. 두 값을 함께 되돌리므로 짝홀 A/B는 재개되지 않는다.
 
 ## 6. 외생 충격 (동시 대조군)

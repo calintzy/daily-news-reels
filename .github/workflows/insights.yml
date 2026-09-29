@@ -28,6 +28,7 @@ jobs:
       contents: write
       issues: write
     outputs:
+      insights: ${{ steps.insights.outcome }}
       experiment: ${{ steps.experiment.outcome }}
     env:
       DRY: ${{ github.event.inputs.mode == 'dry' && '1' || '0' }}
@@ -41,8 +42,11 @@ jobs:
         with:
           node-version: "20"
 
+      # 수집이 실패해도(토큰 만료 등) 판정기의 pending 적용은 돌아야 한다 — outcome은 health가 ALERT collect로 올린다.
       - name: 인사이트 수집
+        id: insights
         if: env.DRY != '1'
+        continue-on-error: true
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_ACCESS_TOKEN_AIBRIEF: ${{ secrets.IG_ACCESS_TOKEN_AIBRIEF }}
@@ -54,6 +58,9 @@ jobs:
         run: |
           if [ "$DRY" = "1" ]; then
             SNAP=$(ls metrics/????-??-??.json | sort | tail -1)
+          elif [ "${{ steps.insights.outcome }}" != "success" ] || [ ! -f insights.json ]; then
+            # 수집 실패 — 당일 스냅샷을 만들지 않는다(판정기는 판정을 건너뛰고 pending 적용만 한다)
+            SNAP=""
           else
             DATE=$(TZ=Asia/Seoul date +%F)
             mkdir -p metrics
@@ -63,6 +70,7 @@ jobs:
           echo "path=$SNAP" >> "$GITHUB_OUTPUT"
 
       - name: KPI 집계
+        if: steps.snap.outputs.path != ''
         run: node scripts/kpi.mjs "${{ steps.snap.outputs.path }}" > metrics/kpi-latest.md && cat metrics/kpi-latest.md >> "$GITHUB_STEP_SUMMARY"
 
       # 판정기가 죽어도 metrics 커밋은 막지 않는다 — outcome은 health 잡이 ALERT로 올린다.
@@ -100,7 +108,7 @@ jobs:
           done
 
       - uses: actions/upload-artifact@v4
-        if: env.DRY != '1'
+        if: env.DRY != '1' && steps.insights.outcome == 'success'
         with:
           name: insights
           path: insights.json
@@ -131,7 +139,8 @@ jobs:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           PUBLISH_LIVE: ${{ vars.PUBLISH_LIVE }}
           PUBLISH_LIVE_AIBRIEF: ${{ vars.PUBLISH_LIVE_AIBRIEF }}
-          COLLECT_RESULT: ${{ needs.collect.result }}
+          # 수집 스텝은 continue-on-error라 잡 결과만으로는 실패가 안 보인다 — 스텝 outcome을 우선한다.
+          COLLECT_RESULT: ${{ needs.collect.outputs.insights == 'failure' && 'failure' || needs.collect.result }}
           EXPERIMENT_OUTCOME: ${{ needs.collect.outputs.experiment }}
         run: |
           if [ "${{ github.event.inputs.mode }}" = "dry" ]; then

@@ -327,7 +327,9 @@ function syncIssue(results, root, nowMs) {
   const gh = (args) => execFileSync("gh", args, { encoding: "utf-8", stdio: ["ignore", "pipe", "pipe"] }).trim();
   const sig = signature(results);
   const body = renderBody(results, root, nowMs);
-  const open = JSON.parse(gh(["issue", "list", "--label", "health", "--state", "open", "--json", "number,body", "--limit", "10"]) || "[]");
+  // 이 스크립트가 만든 이슈(본문에 health-sig 마커)만 대상으로 한다 — 같은 라벨의 무관한 이슈를 덮어쓰지 않는다.
+  const open = JSON.parse(gh(["issue", "list", "--label", "health", "--state", "open", "--json", "number,body", "--limit", "20"]) || "[]")
+    .filter((i) => i.body?.includes("<!-- health-sig:"));
   open.sort((a, b) => a.number - b.number);
   const cur = open[0]; // 중복이 있어도 가장 오래된 하나만 쓴다
   if (!cur) {

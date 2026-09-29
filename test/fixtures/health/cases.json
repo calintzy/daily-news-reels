@@ -58,7 +58,7 @@
     "root": "all-green",
     "now": "2026-10-03T09:00:00+09:00",
     "remove": ["published/2026-10-01-am", "published/2026-10-01-pm"],
-    "expect": { "alerts": ["missed"], "warns": ["contamination", "freshness"] }
+    "expect": { "alerts": ["missed"], "warns": ["freshness"] }
   },
   {
     "name": "freshness-reject",

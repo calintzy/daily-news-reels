@@ -28,6 +28,9 @@ const REPO_ROOT = join(__dirname, "..");
 const HOUR_MS = 3600 * 1000;
 const KST_OFFSET_MS = 9 * HOUR_MS;
 const MATURITY_HOURS = 24; // kpi.mjs와 같은 성숙 기준
+// 시간이 지나면 뒤집힐 수 있는 사유(미발행·미수집·지표 오류)는 예상 발행 후 이 시간까지 제외하지 않고 기다린다.
+// 판정 당일 일시 오류 하나로 "앞에서 window개" 창 구성이 바뀌는 것을 막는다.
+const GRACE_HOURS = 72;
 const VETO_HOURS = 20; // 판정 후 적용까지 최소 간격 — 매일 1회 실행(실측 07:00~09:15 시작) 기준 다음 실행
 const CONTAMINATION_RATIO = 0.3; // 고려 회차 중 제외 비율 경고선
 const CO_DROP_RATIO = 0.7; // 동시 대조군(aibrief) avg_watch가 직전 대비 이 비율 미만이면 동반 급락 기록
@@ -186,6 +189,8 @@ export function lint({ queue, state, flags }) {
         errors.push(`state.${acct}: 객체 필요`);
         continue;
       }
+      if (run.hold != null && typeof run.hold !== "boolean") errors.push(`state.${acct}.hold는 true/false`);
+      if (run.waitingFor != null && !byId.has(run.waitingFor)) errors.push(`state.${acct}.waitingFor "${run.waitingFor}"가 큐에 없다`);
       if (run.active == null) {
         if (run.pending) errors.push(`state.${acct}: 활성 실험 없이 pending이 있다`);
         continue;
@@ -209,6 +214,10 @@ export function lint({ queue, state, flags }) {
       if (run.pending != null) {
         if (!VERDICTS.includes(run.pending.verdict)) errors.push(`state.${acct}.pending.verdict 오류`);
         if (Number.isNaN(Date.parse(run.pending.decidedAt))) errors.push(`state.${acct}.pending.decidedAt 오류`);
+        // veto는 사람이 손으로 쓰는 안전장치 — "true" 같은 문자열 오타가 그대로 적용되지 않게 막는다.
+        if ("veto" in run.pending && typeof run.pending.veto !== "boolean") {
+          errors.push(`state.${acct}.pending.veto는 true/false(따옴표 없이)`);
+        }
       }
     }
     for (const [acct, n] of Object.entries(activeCount)) {
@@ -240,7 +249,7 @@ export function collectSamples({ root, item, run, rows, entries, snapshotTime, i
     excluded[reason] = (excluded[reason] ?? 0) + 1;
     details.push({ stem, status: `제외:${reason}`, note });
   };
-  const tooRecent = (stem) => stemPublishMs(stem) + MATURITY_HOURS * HOUR_MS > snapshotTime.getTime();
+  const tooRecent = (stem) => stemPublishMs(stem) + GRACE_HOURS * HOUR_MS > snapshotTime.getTime();
 
   for (const stem of stems) {
     if (valid.length >= run.window) break;
@@ -289,13 +298,17 @@ export function collectSamples({ root, item, run, rows, entries, snapshotTime, i
       continue;
     }
     if (row.error) {
+      if (tooRecent(stem)) {
+        waiting = stem;
+        break;
+      }
       exclude(stem, "metrics-error", String(row.error).slice(0, 60));
       continue;
     }
     const entry = entryByStem.get(stem);
     if (!entry) {
-      if (!row.timestamp) {
-        exclude(stem, "no-metrics", "발행 시각 없음");
+      if (!row.timestamp || Number.isNaN(Date.parse(row.timestamp))) {
+        exclude(stem, "no-metrics", "발행 시각 없음·파싱 불가");
         continue;
       }
       waiting = stem; // 발행 24시간 미만
@@ -408,9 +421,14 @@ export function runEngine({ root, nowMs, snapshotPath, isRebuilt = () => false }
   if (snapshotPath && existsSync(snapshotPath)) {
     const date = basename(snapshotPath, ".json");
     if (date === kstDate(nowMs)) {
-      const snapshotTime = snapshotTimeFromPath(snapshotPath);
-      const rows = readJson(snapshotPath);
-      snap = { rows, snapshotTime, entries: loadEntries(snapshotPath, snapshotTime).entries };
+      // 손상된 스냅샷이 pending 적용(1단계)까지 막지 않도록 로드 실패는 "판정 생략"으로 처리한다.
+      try {
+        const snapshotTime = snapshotTimeFromPath(snapshotPath);
+        const rows = readJson(snapshotPath).filter((r) => r && typeof r.stem === "string");
+        snap = { rows, snapshotTime, entries: loadEntries(snapshotPath, snapshotTime).entries };
+      } catch (e) {
+        log.push(`스냅샷 로드 실패(${e.message.split("\n")[0]}) — 판정 생략`);
+      }
     } else {
       log.push(`스냅샷 ${basename(snapshotPath)}이 당일(${kstDate(nowMs)})이 아니다 — 판정 생략`);
     }
@@ -494,10 +512,14 @@ export function runEngine({ root, nowMs, snapshotPath, isRebuilt = () => false }
           if (run.issue) ops.push({ type: "close", issue: run.issue, body: `판정 ${p.verdict} 적용 (${nowIso}) — ${tail}` });
           R.actions.push(vetoed ? "vetoed" : "apply");
           log.push(`${item.id}: ${p.verdict} 적용 — ${tail}`);
+          // 유휴 전환 시 자동 활성화 제한: veto·next 없음이면 hold(사람이 state에서 풀 때까지 멈춤),
+          // next가 draft면 waitingFor(그 항목이 ready가 될 때만 활성화). 큐의 다른 ready 항목이 next 라우팅을 우회하지 못하게 한다.
+          const idleGuard = vetoed || !nextId ? { hold: true } : nextReady ? {} : { waitingFor: nextId };
           state[acct] = {
             active: null,
             flagsSince: flagsChanged ? nextStem(root, acct, nowMs) : (run.flagsSince ?? null),
             pending: null,
+            ...idleGuard,
           };
           if (nextReady) activate(acct, nextItem);
           else if (!vetoed) {
@@ -508,9 +530,23 @@ export function runEngine({ root, nowMs, snapshotPath, isRebuilt = () => false }
       }
     }
 
-    // 2) 유휴 계정: 이력에 없는 첫 ready 항목을 활성화(큐에 PR로 넣기만 하면 시작된다)
-    if (!state[acct]?.active && !R.actions.includes("vetoed")) {
-      const cand = queue.items.find((it) => it.account === acct && it.status === "ready" && !historyIds().has(it.id));
+    // 2) 유휴 계정: hold면 멈춤, waitingFor면 그 항목만, 둘 다 없으면 이력에 없는 첫 ready 항목을 활성화
+    //    (큐에 PR로 넣기만 하면 시작된다)
+    const idle = state[acct];
+    if (!idle?.active && idle?.hold === true) {
+      if (!R.actions.length) {
+        R.actions.push("hold");
+        log.push(`${acct}: hold — 자동 활성화 정지(state.${acct}.hold를 지우면 재개)`);
+      }
+    } else if (!idle?.active) {
+      const isCand = (it) => it.account === acct && it.status === "ready" && !historyIds().has(it.id);
+      const cand = idle?.waitingFor
+        ? queue.items.find((it) => it.id === idle.waitingFor && isCand(it))
+        : queue.items.find(isCand);
+      if (!cand && idle?.waitingFor && !R.actions.length) {
+        R.actions.push("waiting-for");
+        log.push(`${acct}: ${idle.waitingFor}가 ready가 되기를 대기`);
+      }
       if (cand) {
         const blocked = gateBlocked([cand]);
         if (blocked) {
@@ -625,9 +661,26 @@ function applyIssueOps({ state, ops, byId, dryRun }) {
     const run = state[acct];
     if (!run?.active || run.issue) continue;
     const item = byId.get(run.active);
+    const title = `[실험] ${item.id} (${acct})`;
+    // 이전 실행이 이슈를 만든 뒤 state push에 실패했을 수 있다 — 같은 제목의 열린 이슈가 있으면 재사용한다.
+    const listed = tryGh(
+      ["issue", "list", "--label", "experiment", "--state", "open", "--json", "number,title", "--limit", "50"],
+      "issue list experiment",
+    );
+    let existing = null;
+    try {
+      existing = JSON.parse(listed || "[]").find((i) => i.title === title) ?? null;
+    } catch {
+      existing = null;
+    }
+    if (existing) {
+      run.issue = existing.number;
+      out.push(`${item.id}: 기존 이슈 #${existing.number} 재사용`);
+      continue;
+    }
     tryGh(["label", "create", "experiment", "--color", "1D76DB", "--force"], "label create experiment");
     const url = tryGh(
-      ["issue", "create", "--title", `[실험] ${item.id} (${acct})`, "--label", "experiment", "--body", issueBody(item, run)],
+      ["issue", "create", "--title", title, "--label", "experiment", "--body", issueBody(item, run)],
       `issue create ${item.id}`,
     );
     const num = url?.match(/\/issues\/(\d+)/)?.[1];
@@ -838,6 +891,8 @@ function checkCase(c, fixtureBase) {
     window: st?.window ?? null,
     startStem: st?.startStem ?? null,
     flagsBefore: st?.flagsBefore ?? null,
+    hold: st?.hold ?? null,
+    waitingFor: st?.waitingFor ?? null,
     historyLast: res.state.history[res.state.history.length - 1] ?? null,
   };
   for (const [k, want] of Object.entries(e)) {

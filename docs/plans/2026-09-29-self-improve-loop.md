@@ -8,6 +8,7 @@
 |---|---|---|
 | 2026-09-29 | 초안 | — |
 | 2026-09-29 | critic 1차 반영: 07:00 벽시계 가드 제거 → 24시간 거부권 창 + 항목별 `applyBefore`, 스냅샷을 KPI·판정기 전에 복사하고 경로를 명시 인자로, vars 폴백 제거(flags.json 단일 진실원), evidence에 data 필드 검사, 판정기·health self-test 음성 대조군과 flags 런타임 화이트리스트 프로브, contract-check에 experiments 잡, health의 물어오리 한정·신선도 게이트 이전 회차 제외·health-ack, 플래그 해석 스텝 continue-on-error, 수동 실행 ISC를 dry 모드로 교체, flags 합성 규칙, 당일 스냅샷 없으면 판정 생략, 재빌드 오염 제외, startStem은 적용 시점 결정, adopt AND 명시, Anti-ISC-5·7 교체, file:line 오차 수정, Open Questions 확정 | critic 필수 수정 8건 + 기타 지적 |
+| 2026-09-29 | 구현 후 코드 리뷰 반영: 유휴 전환 가드(`hold`·`waitingFor`)로 veto·next 라우팅 우회 차단, `pending.veto` 타입 lint, 시간에 따라 뒤집히는 제외 사유(미발행·미수집·지표 오류)는 발행 후 72시간까지 대기, 수집 실패 시에도 pending 적용(수집 스텝 continue-on-error + 스냅샷 로드 실패 격리), experiment 이슈 생성 전 같은 제목 조회, health는 마커 있는 이슈만 대상 | code-reviewer MEDIUM 5건 + LOW 2건 |
 
 ## Intent
 
@@ -110,7 +111,9 @@
                "window": 14, "extended": false, "issue": null,
                "flagsBefore": { "REEL_FORMAT_MULEORI": "", "TTS_ENABLED": "0" },   // rollback 기준(실험 시작 직전 flags)
                "flagsSince": "2026-09-30-am",                                      // 현재 flags가 반영되기 시작한 회차(health 대조 기준)
-               "pending": null },       // 판정 후 적용 대기: { verdict, decidedAt, file, stats, veto:false }
+               "pending": null },       // 판정 후 적용 대기: { verdict, decidedAt, file, stats, veto:false } — veto는 boolean만(lint)
+  // 유휴 상태에서만: "hold": true(veto 또는 next 없음 — 사람이 지울 때까지 자동 활성화 정지),
+  //                  "waitingFor": "<id>"(next가 draft — 그 항목이 ready가 될 때만 활성화)
   "aibrief": { "active": null, "flagsSince": null, "pending": null },
   "history": [ { "id": "...", "account": "...", "verdict": "adopt|reject|inconclusive", "vetoed": true?,
                  "decidedAt": "...", "appliedAt": "...", "file": "experiments/verdicts/<id>.md" } ] }
@@ -142,11 +145,12 @@ pending --(다음 실행, 판정 후 20h 이상, veto 아님, applyBefore 통과
     reject       → flags = flagsBefore, next.reject 활성화
     adopt        → flags 유지, next.adopt 활성화
     inconclusive → flags 유지, next.inconclusive 활성화 (무결론 verdict 기록)
-pending(veto=true) --(다음 실행)--> vetoed : flags 유지, 다음 실험 활성화 안 함
-다음 항목이 draft이거나 없으면 활성화하지 않는다 → 계정 유휴, health WARN queue
+pending(veto=true) --(다음 실행)--> vetoed : flags 유지, 다음 실험 활성화 안 함, state.hold=true
+다음 항목이 draft면 활성화하지 않는다 → 계정 유휴 + state.waitingFor=next(그 항목이 ready가 되면 활성화), 없으면 hold
+유휴 계정 자동 활성화: hold면 정지, waitingFor면 그 항목만, 둘 다 없으면 큐 순서상 첫 ready(이력에 없는 것)
 ```
 
-- 유효 표본: 해당 account의 스템 중 `startStem` 이후를 스템 순으로 보며, 발행 마커가 media id이고, evidence(파일 기록·data 필드) 전부 일치하고, 재빌드 오염이 없고, 당일 스냅샷에 오류 없는 행이 있으며 발행 후 24시간이 지난 회차. 앞에서 window개만 쓴다(창 고정: 날마다 재판정해도 결과가 바뀌지 않게 하여 엿보기 편향을 막는다). 미성숙이거나 아직 스냅샷에 없는 회차를 만나면 거기서 멈춘다(뒤 회차로 건너뛰면 창이 흔들린다).
+- 유효 표본: 해당 account의 스템 중 `startStem` 이후를 스템 순으로 보며, 발행 마커가 media id이고, evidence(파일 기록·data 필드) 전부 일치하고, 재빌드 오염이 없고, 당일 스냅샷에 오류 없는 행이 있으며 발행 후 24시간이 지난 회차. 앞에서 window개만 쓴다(창 고정: 날마다 재판정해도 결과가 바뀌지 않게 하여 엿보기 편향을 막는다). 미성숙이거나 아직 스냅샷에 없는 회차를 만나면 거기서 멈춘다(뒤 회차로 건너뛰면 창이 흔들린다). 시간이 지나면 뒤집힐 수 있는 사유(미발행·스냅샷 행 없음·지표 오류)는 예상 발행 후 72시간까지 제외하지 않고 기다린다(판정 당일 일시 오류 하나로 창 구성이 바뀌지 않게).
 - 오염 제외 사유: `evidence`(예: `control-fallback`, 플래그 반영 전에 빌드된 회차), `evidence-missing`, `data`(narration 비었음), `rebuild`, `unpublished`(마커 없음·pending이고 예상 발행 후 24시간 경과), `no-metrics`, `metrics-error`. 사유별로 세어 판정 문서에 기록한다. 고려 회차 중 제외 비율이 30%를 넘으면 판정 문서에 "오염 경고", health에 WARN contamination.
 - 재빌드 감지: 그 회차의 `published/<stem>`를 처음 커밋한 커밋 이후(`<marker>..HEAD`)에 `docs/formats/<stem>.txt`·`docs/arms/<stem>.txt`를 바꾼 커밋이 있으면 `rebuild`로 제외한다. 발행 전 재빌드(watchdog 재dispatch)는 발행 영상과 기록이 같으므로 제외하지 않는다. insights 체크아웃은 `fetch-depth: 0`. git을 못 쓰면 제외하지 않는다.
 - 조건 평가: adopt·reject 목록은 각각 AND(전부 충족)다. 값이 null(reach 합 0 등)이면 거짓. reject를 먼저 본다. 공식은 kpi.mjs `aggregate`와 같다.
@@ -160,7 +164,7 @@ pending(veto=true) --(다음 실행)--> vetoed : flags 유지, 다음 실험 활
 - 사전등록에 없던 규칙(1회 연장 28회차, 무결론 처리, 고정 14회차 목록 집계, 당일 스냅샷 선복사, 오염 제외, 거부권)은 `experiments/preregistration/single-issue-v1-addendum.md`로 첫 판정 전에 고정한다. 볼트 원본은 수정하지 않고 부록 문안을 리포에 둔다.
 
 ### 결정: 알림은 GitHub 이슈, 텔레그램은 보조
-- 실험마다 이슈 1개(라벨 `experiment`)를 활성화 뒤 첫 실행에서 만들고(state.issue에 번호 기록), 연장·판정 시 코멘트, 적용 시 코멘트 후 닫는다. 입력 건강은 이슈 1개(라벨 `health`)를 열린 동안 본문 갱신으로 재사용하고, 상태 서명(ALERT·WARN 항목 목록, 본문 HTML 주석에 저장)이 바뀔 때만 코멘트하며, 전부 정상이면 코멘트 후 닫는다. 열린 health 이슈가 여럿이면 가장 오래된 것만 쓴다. 기본 `GITHUB_TOKEN`에 `issues: write` 권한을 준다. gh 호출 실패는 경고만 남기고 판정·커밋을 막지 않는다.
+- 실험마다 이슈 1개(라벨 `experiment`)를 활성화 뒤 첫 실행에서 만들고(state.issue에 번호 기록), 연장·판정 시 코멘트, 적용 시 코멘트 후 닫는다. 입력 건강은 이슈 1개(라벨 `health`)를 열린 동안 본문 갱신으로 재사용하고, 상태 서명(ALERT·WARN 항목 목록, 본문 HTML 주석에 저장)이 바뀔 때만 코멘트하며, 전부 정상이면 코멘트 후 닫는다. 열린 health 이슈가 여럿이면 가장 오래된 것만 쓴다. 기본 `GITHUB_TOKEN`에 `issues: write` 권한을 준다. gh 호출 실패는 경고만 남기고 판정·커밋을 막지 않는다. experiment 이슈는 만들기 전에 같은 제목의 열린 이슈를 조회해 재사용한다(이전 실행이 이슈 생성 후 state push에 실패한 경우의 중복 방지). health는 본문에 `health-sig` 마커가 있는 이슈만 대상으로 한다.
 
 ### 기존 워크플로와의 역할 정리
 - watchdog.yml: 슬롯 단위 실시간 감지와 자가 복구(재dispatch)를 하므로 하루 1회인 health로 대체할 수 없다. 유지하고 수정하지 않는다(Open Question 3 초안대로). health는 같은 판정 기준(`published/<stem>`이 있고 pending이 아님)으로 최근 7일 결방을 집계만 한다.
@@ -197,11 +201,11 @@ pending(veto=true) --(다음 실행)--> vetoed : flags 유지, 다음 실험 활
 
 ### Step 2. 판정기 코어 (kpi.mjs 집계 분리 + experiment.mjs + 픽스처)
 - 변경 파일: `scripts/kpi.mjs`(항목에 stem 추가, 집계부 `aggregate` 분리·export, `loadEntries`·`snapshotTimeFromPath` export. 출력은 골든과 바이트 단위 동일), 신규 `scripts/experiment.mjs`(`--lint`, `--self-test [--only] [--cases]`, `--dry-run`, `--now`, `--root`, `--snapshot`), 신규 `test/fixtures/experiments/`(base 큐·상태·플래그, `cases.json`, `negative-cases.json`, `two-active/`, `flags-publish-live.json`), 신규 `test/fixtures/kpi-2026-09-29.golden.md`(리팩토링 전에 먼저 동결), `.github/workflows/contract-check.yml`(push·PR paths에 experiments/**·관련 스크립트·픽스처 추가, 별도 `experiments` 잡: lint, flags 계약, 판정기·health self-test와 음성 대조군, KPI 골든).
-- self-test 필수 케이스: adopt, verdict-no-apply, reject-avgwatch-2.0, middle-extend, extended-inconclusive, fallback-excluded, narration-missing-excluded, rebuild-excluded, unpublished-excluded, immature-wait, samples-13-wait, no-same-day-snapshot-skip, pending-too-early, pending-reject-apply-next-draft, pending-adopt-next-ready(합성 규칙·startStem), applyBefore-defer, veto, idle-pickup, lint-two-active, lint-publish-live-flag.
+- self-test 필수 케이스: adopt, verdict-no-apply, reject-avgwatch-2.0, middle-extend, extended-inconclusive, fallback-excluded, narration-missing-excluded, rebuild-excluded, unpublished-excluded, immature-wait, samples-13-wait, no-same-day-snapshot-skip, pending-too-early, pending-reject-apply-next-draft, pending-adopt-next-ready(합성 규칙·startStem), applyBefore-defer, veto, idle-pickup, lint-two-active, lint-publish-live-flag, reject-next-draft-no-bypass, veto-hold-next-day, waiting-for-only-named-next, lint-veto-string, metrics-error-waits, metrics-error-old-excluded(코드 리뷰 재현 R1~R4 동결).
 - 롤백: 워크플로에 아직 연결되지 않으므로 파일 삭제와 kpi.mjs revert로 끝난다.
 
 ### Step 3. insights.yml 연결 + 실험 이슈 알림
-- 변경 파일: `.github/workflows/insights.yml`(`mode` 입력, concurrency 그룹, collect 잡에 `issues: write`·`fetch-depth: 0`, 스냅샷 복사 스텝을 KPI 앞으로, KPI·판정기에 스냅샷 경로 인자, 판정기 스텝 `continue-on-error`와 outcome을 잡 출력으로, 통합 커밋과 재시도 push), 신규 `experiments/verdicts/`(판정 시 생성).
+- 변경 파일: `.github/workflows/insights.yml`(`mode` 입력, concurrency 그룹, collect 잡에 `issues: write`·`fetch-depth: 0`, 수집 스텝 `continue-on-error`(실패하면 당일 스냅샷을 만들지 않고 판정기는 pending 적용만 한다, outcome은 health가 ALERT collect로), 스냅샷 복사 스텝을 KPI 앞으로, KPI·판정기에 스냅샷 경로 인자, 판정기 스텝 `continue-on-error`와 outcome을 잡 출력으로, 통합 커밋과 재시도 push), 신규 `experiments/verdicts/`(판정 시 생성).
 - 첫 full 실행에서 single-issue-v1용 `experiment` 이슈가 없으면 만들고 state에 번호를 기록한다. 라벨이 없으면 만든다.
 - 목표 시점: 첫 판정 예상 실행(2026-10-08 insights, 실측 07:00~09:15) 전날까지 배포. 늦어져도 창이 고정이라 결과는 같다.
 - 롤백: 판정 스텝 제거 커밋. state·flags는 마지막 값으로 남으므로 reels는 그대로 돈다. 판정 적용 전이면 pending.veto로, 적용 후면 flags.json과 state.json을 이전 커밋 값으로 되돌리는 커밋 하나로 처리한다(판정 문서는 남기고 "무효" 표기).
@@ -326,7 +330,11 @@ pending(veto=true) --(다음 실행)--> vetoed : flags 유지, 다음 실험 활
 5. flags.json 손상: flags.mjs가 기본값으로 폴백해 발행은 계속되고(처치는 꺼짐), health의 flags-applied 점검이 불일치를 ALERT로 잡으며, 해당 회차는 evidence로 표본에서 빠진다. lint가 contract-check에서 PR 단계에 손상을 막는다.
 6. 판정기 버그로 잘못된 값 기록: 키 화이트리스트와 contract-check의 lint가 막고, 음성 대조군 self-test가 판정기·비교기 고장을 잡는다. 판정기가 죽어도(`continue-on-error`) metrics 커밋은 진행되고 health가 ALERT experiment-run을 낸다.
 7. 재빌드 감지는 git 이력에 의존한다. 얕은 클론이나 git 오류면 제외하지 않는 쪽으로 실패한다(표본 오염 가능). insights는 `fetch-depth: 0`으로 체크아웃한다.
-8. 큐 고갈: single-issue-v1의 next가 전부 draft라 판정 적용 후 물어오리는 유휴가 된다. health가 첫날부터 WARN queue로 알리며, 알려진 상태이면 health-ack로 인지 처리한다.
+8. 큐 고갈: single-issue-v1의 next가 전부 draft라 판정 적용 후 물어오리는 유휴(`waitingFor`)가 된다. health가 첫날부터 WARN queue로 알리며, 알려진 상태이면 health-ack로 인지 처리한다.
+9. (코드 리뷰 LOW, 미수정) insights 체크아웃 뒤 사람이 `pending.veto`를 push하면 봇의 state.json 변경과 rebase 충돌이 나서 그날 커밋 push가 3회 실패한다. veto는 보존되는 안전한 실패지만 그날 metrics 스냅샷 커밋이 유실되고 이슈에는 "적용" 코멘트가 먼저 달린다. 대응: veto는 insights 실행 시간대(07:00~09:30 KST)를 피해 커밋한다.
+10. (코드 리뷰 LOW, 미수정) flags 적용 직후 경합 회차(적용 커밋 전에 data가 커밋된 회차)는 판정기에서는 evidence로 제외되지만 health flags-applied가 한 번 거짓 ALERT를 낼 수 있다.
+11. (코드 리뷰 LOW, 미수정) push 재시도 루프에서는 예전 `|| true`가 가리던 `git pull --rebase` 실패가 3회 후 exit 1이 된다. 현재 build가 쓰는 경로는 전부 add되거나 무시 대상이라 걸리는 경로는 없다.
+12. (코드 리뷰, 미수정) 판정기가 이슈 코멘트·종료를 state push보다 먼저 한다. push가 3회 모두 실패하면 이슈에는 적용 코멘트가 남았는데 state는 적용 전이라 다음 실행이 같은 코멘트를 다시 단다(이슈 생성 중복은 제목 조회로 막았다).
 
 ## Open Questions (확정)
 
