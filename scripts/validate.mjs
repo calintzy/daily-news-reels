@@ -88,6 +88,23 @@ function urlDateMs(url) {
 
 // 신선도 게이트: 기준은 현재 시각이 아니라 json.date라서 옛 회차 재빌드에도 결정론적이다.
 function checkFreshness(issue, label, json, violations) {
+  // 날짜만(YYYY-MM-DD): 클라우드 루틴은 기사 페이지를 거의 못 연다(2026-09-29 실측 — 뉴스 도메인 전부 EGRESS_BLOCKED).
+  // 이때는 URL에 박힌 날짜가 sourceDate와 같을 때만 인정하고 날짜 단위로 판정한다(am=D-1·D, pm=D).
+  if (typeof issue.sourceDate === "string" && /^\d{4}-\d{2}-\d{2}$/.test(issue.sourceDate)) {
+    const u = urlDateMs(issue.sourceLink);
+    const ud = u == null ? null : new Date(u).toISOString().slice(0, 10);
+    if (ud !== issue.sourceDate) {
+      violations.push(
+        `[신선도] ${label} sourceDate ${issue.sourceDate}(날짜만) — sourceLink URL 날짜(${ud ?? "없음"})와 일치해야 날짜만 허용`
+      );
+      return;
+    }
+    const allowed = json.slot === "am" ? [kstDateStr(Date.parse(`${json.date}T00:00:00+09:00`) - DAY_MS), json.date] : [json.date];
+    if (!allowed.includes(issue.sourceDate)) {
+      violations.push(`[신선도] ${label} sourceDate ${issue.sourceDate}(날짜만) — ${json.slot} 허용 날짜 ${allowed.join("·")} 밖`);
+    }
+    return;
+  }
   const t = parseSourceDate(issue.sourceDate);
   if (t == null) {
     violations.push(
@@ -342,6 +359,23 @@ function buildBadFixtures(sample) {
   freshNoOffset.slot = "am";
   setSourceDate(freshNoOffset, "2026-07-20T21:30:00");
 
+  // 날짜만 sourceDate(2026-09-29 — 루틴이 기사 페이지를 못 여는 환경): URL 날짜와 일치할 때만 날짜 단위 판정
+  const dateOnly = (slot, dates) => {
+    const j = clone();
+    j.slot = slot;
+    j.issues.forEach((it, i) => {
+      const d = dates[i] ?? dates[0];
+      it.sourceDate = d;
+      it.sourceLink = `https://www.example.com/news/${d.replace(/-/g, "")}000123`;
+    });
+    return j;
+  };
+  const freshDateOnly = dateOnly("am", ["2026-07-21", "2026-07-20"]);
+  const freshDateOnlyNoUrl = dateOnly("am", ["2026-07-21"]);
+  freshDateOnlyNoUrl.issues[0].sourceLink = "https://www.example.com/sports/final-match";
+  const freshDateOnlyOld = dateOnly("am", ["2026-07-21", "2026-07-19"]);
+  const freshDateOnlyPmPrev = dateOnly("pm", ["2026-07-21", "2026-07-20"]);
+
   // bad-slot: slot 필드 잘못된 값 → 구조 FAIL
   const badSlot = clone();
   badSlot.slot = "morning";
@@ -405,6 +439,10 @@ function buildBadFixtures(sample) {
     freshOut,
     freshUrl,
     freshNoOffset,
+    freshDateOnly,
+    freshDateOnlyNoUrl,
+    freshDateOnlyOld,
+    freshDateOnlyPmPrev,
   };
 }
 
@@ -474,6 +512,10 @@ function runSelfTest() {
     { name: "FAIL — fresh-out-of-window(9/29-am에 9/27 22:06 기사)", fixture: bad.freshOut, expectPass: false },
     { name: "FAIL — fresh-url-mismatch(URL 날짜와 sourceDate 불일치)", fixture: bad.freshUrl, expectPass: false },
     { name: "FAIL — fresh-no-offset(오프셋 없는 sourceDate)", fixture: bad.freshNoOffset, expectPass: false },
+    { name: "PASS — fresh-date-only(URL 날짜와 일치하는 날짜만, am D-1·D)", fixture: bad.freshDateOnly, expectPass: true },
+    { name: "FAIL — fresh-date-only-no-url(URL에 날짜 없는데 날짜만)", fixture: bad.freshDateOnlyNoUrl, expectPass: false },
+    { name: "FAIL — fresh-date-only-old(am에 D-2 날짜)", fixture: bad.freshDateOnlyOld, expectPass: false },
+    { name: "FAIL — fresh-date-only-pm-prev(pm에 D-1 날짜)", fixture: bad.freshDateOnlyPmPrev, expectPass: false },
     // 시행일 이전 회차는 sourceDate 없이 통과(재빌드 보호) — 이 케이스만 기본 시행일로 판정한다.
     { name: "PASS — fresh-before-since(시행일 이전 회차 면제)", fixture: bad.freshMissing, expectPass: true, since: FRESHNESS_SINCE },
   ];
