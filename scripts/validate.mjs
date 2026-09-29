@@ -46,6 +46,23 @@ function checkFactuality(issue, label, violations) {
 }
 
 // ─── 핵심 검증 ───────────────────────────────────────────────────
+// 제목 중복 판정용 정규화 — 공백·문장부호·따옴표를 모두 제거해 표기 차이를 무시한다.
+// (contracts/hook-muleori/asserts.js의 normalizeForDup과 동일 규칙. 규칙이 세 줄이라 각자 둔다.)
+function normalizeForDup(s) {
+  return String(s)
+    .replace(/\s+/g, "")
+    .replace(/["'`“”‘’「」『』《》〈〉]/g, "")
+    .replace(/[.,!?…·、。，！？:;~\-–—()[\]{}]/g, "");
+}
+
+// 정규화 후 동일하거나 한쪽이 다른 쪽을 포함하면 중복으로 본다. 한쪽이 비면 판정하지 않는다.
+function isDupWithTitle(hookLine, title) {
+  const a = normalizeForDup(hookLine || "");
+  const b = normalizeForDup(title || "");
+  if (!a || !b) return false;
+  return a === b || a.includes(b) || b.includes(a);
+}
+
 // warnings: FAIL이 아닌 경고를 담는 배열(호출부가 출력). 도입기 필드(narration)의 부재 알림용.
 // stem: 파일명 stem(예: "2026-08-18-am", "ai-2026-08-18"). 파일 경로로 실행할 때만 주어지며,
 //       계정(account)과 파일명 접두의 정합을 교차 검증하는 데 쓴다(없으면 그 검사만 생략).
@@ -102,6 +119,13 @@ function validate(json, warnings = [], stem = null) {
     if (Array.isArray(json.issues) && json.issues[0]) {
       const src1 = `${json.issues[0].sourceTitle || ""} ${json.issues[0].sourceDesc || ""}`;
       sharedCheckFactuality(json.hookLine, "", src1, v, "[사실성] hookLine(rank1 대조)");
+
+      // 제목 중복(2026-09-14 훅 v2): rank1 title은 화면에 따로 뜨므로 훅이 그 축약이면 같은 정보가 두 번 나간다.
+      // 계약 프로브는 contracts/hook-muleori/asserts.js의 dupWithTitle(동일 규칙, FAIL 판정).
+      // 여기서는 warnings로만 남긴다 — 과거 72회차 중 8.3% 발생이라 FAIL로 올리면 결방이 난다.
+      if (isDupWithTitle(json.hookLine, json.issues[0].title)) {
+        warnings.push("[훅] hookLine이 rank1 제목과 중복 — 미완결형으로 재작성 권장");
+      }
     }
   }
 
@@ -230,10 +254,38 @@ function buildBadFixtures(sample) {
   aibriefNoImagePrompt.account = "aibrief";
   for (const issue of aibriefNoImagePrompt.issues) delete issue.imagePrompt;
 
+  // 훅 v2 제목 중복 게이트(2026-09-14). 두 픽스처 모두 위반 0건(PASS)이고 warnings로만 갈린다.
+  // narration을 전 이슈에 채워 "narration 없음" 경고를 없앤다 — 훅 경고만 남겨 대조를 선명하게 한다
+  // (동시에 rank 1 narration 선택 필드가 기존 30자·1문장·존댓말 규칙으로 그대로 채점되는지 확인한다).
+  const withNarration = () => {
+    const c = clone();
+    const scripts = [
+      "신진서 9단이 바둑 AI를 이겼습니다.",
+      "로봇청소기에서 불이 났습니다.",
+      "후티 반군이 해상봉쇄를 선언했습니다.",
+      "대통령이 부동산 불로소득을 비판했습니다.",
+      "오세훈 시장직 선고가 생중계됩니다.",
+    ];
+    c.issues.forEach((issue, i) => {
+      if (scripts[i]) issue.narration = scripts[i];
+    });
+    return c;
+  };
+
+  // hook-dup-title: hookLine이 rank1 title과 정규화 후 동일 → PASS + 훅 경고 1건
+  const hookDupTitle = withNarration();
+  hookDupTitle.issues[0].title = hookDupTitle.hookLine;
+
+  // hook-no-dup: hookLine이 rank1 title과 겹치지 않음 → PASS + 경고 0건
+  const hookNoDup = withNarration();
+  hookNoDup.hookLine = "바둑 AI가 사람에게 졌습니다";
+
   return {
     katago,
     number,
     hangulPrompt,
+    hookDupTitle,
+    hookNoDup,
     slotAm,
     slotPm,
     badSlot,
@@ -257,6 +309,12 @@ function runSelfTest() {
     join(FIXTURE_DIR, "bad-hangul-prompt.json"),
     JSON.stringify(bad.hangulPrompt, null, 2) + "\n"
   );
+  // 훅 v2 경고 게이트는 단독 실행으로도 확인할 수 있게 파일로 남긴다(ISC-2.1).
+  writeFileSync(
+    join(FIXTURE_DIR, "hook-dup-title.json"),
+    JSON.stringify(bad.hookDupTitle, null, 2) + "\n"
+  );
+  writeFileSync(join(FIXTURE_DIR, "hook-no-dup.json"), JSON.stringify(bad.hookNoDup, null, 2) + "\n");
 
   const cases = [
     { name: "PASS — data/sample.json", fixture: sample, expectPass: true },
@@ -286,17 +344,35 @@ function runSelfTest() {
       stem: "ai-2026-08-18",
       expectPass: true,
     },
+    // 훅 v2 제목 중복 경고 게이트 (2026-09-14) — 위반이 아니라 warnings로만 갈린다.
+    {
+      name: "PASS+경고 — hook-dup-title(hookLine이 rank1 제목과 중복)",
+      fixture: bad.hookDupTitle,
+      expectPass: true,
+      expectWarnings: 1,
+    },
+    {
+      name: "PASS — hook-no-dup(훅과 rank1 제목이 다름)",
+      fixture: bad.hookNoDup,
+      expectPass: true,
+      expectWarnings: 0,
+    },
   ];
 
   let allOk = true;
-  for (const { name, fixture, expectPass, stem = null } of cases) {
-    const violations = validate(fixture, [], stem);
+  for (const { name, fixture, expectPass, stem = null, expectWarnings = null } of cases) {
+    const warnings = [];
+    const violations = validate(fixture, warnings, stem);
     const passed = violations.length === 0;
-    const ok = passed === expectPass;
+    // expectWarnings가 지정된 케이스만 경고 건수를 함께 채점한다(기존 케이스 판정은 불변).
+    const warnOk = expectWarnings === null || warnings.length === expectWarnings;
+    const ok = passed === expectPass && warnOk;
     console.error(`${ok ? "✓" : "✗"} ${name}`);
     if (!ok) {
       console.error(`  기대: ${expectPass ? "PASS" : "FAIL"}, 실제: ${passed ? "PASS" : "FAIL"}`);
+      if (!warnOk) console.error(`  기대 경고: ${expectWarnings}건, 실제: ${warnings.length}건`);
       for (const x of violations) console.error(`    ${x}`);
+      for (const w of warnings) console.error(`    ${w}`);
       allOk = false;
     } else if (!passed) {
       for (const x of violations) console.error(`    ${x}`);

@@ -1,0 +1,26 @@
+# hookLine 프롬프트 계약(물어오리 전용 v2) — ratchetlock으로 회귀 관리한다.
+# 규칙 정본은 prompt.txt. 프로브(asserts.js)는 scripts/validate.mjs의 hookLine 규칙을 이식한 것.
+# contracts/hook(오리 기자 전용)과 분리된 별도 계약이다 — 훅 형태 규칙이 다르므로 함께 얼리지 않는다.
+#
+# 게이트 음성 대조군(동결): negative-title-copy.txt + negative-title-copy.vars.json.
+# "카드 제목을 그대로 옮긴 훅" 표본으로, 반드시 잡혀야 한다. 확인 명령:
+#   node <ratchetlock>/dist/cli.js lint --output negative-title-copy.txt --vars negative-title-copy.vars.json
+#   → [위반] 제목 중복 / exit 1  (exit 0이면 dupWithTitle 프로브가 고장 난 것)
+# ratchetlock의 add-fail은 expectedPass:true인 "통과해야 할 케이스"를 등록하는 통로라
+# "실패해야 할 표본"에는 쓸 수 없다. 그래서 음성 대조군은 lint로 동결한다.
+description: reels-hook-muleori
+prompts:
+  - file://prompt.txt
+providers:
+  # 라이브(--live) 평가용 — 구독 claude CLI 헤드리스 호출(API 키 불필요).
+  # 결정적 check는 이 프로바이더를 replay-provider.js로 자동 치환한다.
+  - id: 'exec: bash provider.sh'
+    config:
+      timeout: 180000
+defaultTest:
+  assert:
+    - type: javascript
+      value: file://asserts.js
+tests: file://tests.yaml
+evaluateOptions:
+  maxConcurrency: 2

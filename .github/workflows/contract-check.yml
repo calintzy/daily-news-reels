@@ -37,6 +37,10 @@ jobs:
       - name: 결정적 check (hook)
         run: cd contracts/hook && npx ratchetlock check --probe-locked
 
+      # 물어오리 전용 훅 v2 계약(2026-09-14) — contracts/hook(오리 기자)과 별도 기준선이다.
+      - name: 결정적 check (hook-muleori)
+        run: cd contracts/hook-muleori && npx ratchetlock check --probe-locked
+
       - name: 실패 시 텔레그램 알림
         if: failure()
         env:
