@@ -29,7 +29,7 @@
       "id": "signals-actions",
       "account": "muleori",
       "status": "draft",
-      "hypothesis": "선정 기준 변경(신호 수집 복구 후 행동 신호 반영) — 구현 계획 별도. 루틴이 flags.json을 읽게 되면 applyBefore \"07:00\"과 함께 ready로 바꾼다"
+      "hypothesis": "선정 기준 변경(신호 수집 복구 후 행동 신호 반영) — 구현 계획 별도. applyBefore는 두지 않는다(docs/plans/2026-09-29-signals-actions.md critic 1차 — 07:00 전 insights 시작은 34회 중 3회뿐이라 활성화가 멈춤, 루틴은 clone 스냅샷의 flags를 읽어 실행 중 전환도 없음)"
     },
     {
       "id": "d-plan-character",

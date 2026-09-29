@@ -156,7 +156,7 @@ pending(veto=true) --(다음 실행)--> vetoed : flags 유지, 다음 실험 활
 - 조건 평가: adopt·reject 목록은 각각 AND(전부 충족)다. 값이 null(reach 합 0 등)이면 거짓. reject를 먼저 본다. 공식은 kpi.mjs `aggregate`와 같다.
 - reject를 avg_watch 하나로만 거는 이유: shares는 회차당 reach ~100 규모에서 0이 대부분이라 노이즈가 커서 오판정 롤백의 주원인이 된다. 연속값 중앙값인 avg_watch가 더 안정적이다(사전등록과 동일).
 - 24시간 거부권 창(07:00 벽시계 가드 대체): 판정한 실행에서는 verdict·판정 문서·pending만 기록하고 flags는 바꾸지 않는다. flags 적용과 다음 실험 활성화는 판정 후 20시간 이상 지난 다음 insights 실행에서 한다(매일 1회 실행이므로 사실상 다음 날). 그 사이 사람은 `state.json`의 `<account>.pending.veto`를 true로 커밋해 거부할 수 있다. 벽시계 가드는 cron 실측(07:00~09:15 시작)상 거의 매번 연기만 만들었으므로 버린다.
-- `applyBefore`(항목 필드, 선택): 루틴의 선정 기준을 바꾸는 실험(signals-actions 등)은 am 루틴(07:10) 도중 flags가 바뀌면 안 된다. 이런 항목은 `applyBefore: "07:00"`을 두고, 그 항목의 활성화 또는 rollback이 걸린 적용은 KST가 그 시각 이후인 실행에서 연기한다. 렌더 전용 플래그(single-issue-v1)는 데이터 커밋 트리에서 읽히므로 시각 제약이 필요 없어 두지 않는다.
+- `applyBefore`(항목 필드, 선택): 루틴의 선정 기준을 바꾸는 실험(signals-actions 등)은 am 루틴(07:10) 도중 flags가 바뀌면 안 된다. 이런 항목은 `applyBefore: "07:00"`을 두고, 그 항목의 활성화 또는 rollback이 걸린 적용은 KST가 그 시각 이후인 실행에서 연기한다. 렌더 전용 플래그(single-issue-v1)는 데이터 커밋 트리에서 읽히므로 시각 제약이 필요 없어 두지 않는다. **(2026-09-29 signals-actions 계획 critic 정정: 이 필드는 쓰지 않는다. insights가 07:00 전에 시작한 실행은 8/27 이후 34회 중 3회뿐이라 `applyBefore: "07:00"`을 두면 활성화가 사실상 멈추고 health가 정체 경보를 낸다. 루틴은 시작 시 clone한 스냅샷의 flags.json을 읽으므로 실행 중 전환도 일어나지 않는다. 기능은 남겨 두되 queue 항목에 설정하지 않는다.)**
 - flags 합성: 활성화 시 `flagsBefore = 현재 flags[account]`를 state에 저장하고 `flags[account] = { ...현재, ...item.flags }`로 병합한다(adopt로 유지된 값이 다음 실험에도 남는다). rollback은 항상 그 실험의 `flagsBefore`로 되돌린다.
 - startStem은 flags 적용 시점에 정한다: 그 계정의 가장 최근 `data/<stem>.json` 다음 회차(am→같은 날 pm, pm→다음 날 am, ai-D→ai-D+1). 이미 데이터가 커밋된 회차는 이전 flags 트리에서 빌드됐기 때문이다. 경합으로 그 회차가 이전 값으로 빌드되면 evidence 불일치로 제외된다.
 - 당일 스냅샷: 판정은 `--snapshot`으로 받은 파일 이름이 실행일(KST)과 같을 때만 한다. 없거나 다르면 판정을 건너뛴다(pending 적용은 스냅샷과 무관하게 진행).
@@ -341,7 +341,7 @@ pending(veto=true) --(다음 실행)--> vetoed : flags 유지, 다음 실험 활
 1. 무결론(연장 28회차 후에도 중간 구간): **flags 유지 + 무결론 verdict 기록 + next.inconclusive가 ready면 활성화.** draft면 계정 유휴 + health WARN.
 2. 두 계정 동반 급락 시 자동 강등: **하지 않는다. 판정 문서에 기록만.** 판단은 거부권으로 사람이 한다.
 3. watchdog 경보를 health 이슈에도 남길지: 초안대로 하지 않는다(watchdog 무수정).
-4. signals-actions: **draft 유지.** 루틴이 flags.json을 읽게 되는 구현 계획은 별도이며, ready로 바꿀 때 `applyBefore: "07:00"`을 함께 둔다.
+4. signals-actions: **draft 유지.** 루틴이 flags.json을 읽게 되는 구현 계획은 별도이며, ready로 바꿀 때 `applyBefore`는 두지 않는다(위 설계 결정의 2026-09-29 정정 참조).
 5. 9/19 음악 실험 판정 소급: 범위 밖(소급하지 않는다).
 6. startStem: `2026-09-30-am`(오늘 밤 변수 전환 뒤 첫 회차). 이후 실험은 flags 적용 시점에 판정기가 정한다.
 7. 보류·연장 규칙, 고정 14회차 목록 집계, 당일 스냅샷 선복사: **사전등록 부록**(`experiments/preregistration/single-issue-v1-addendum.md`)으로 고정.
