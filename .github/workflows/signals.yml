@@ -19,14 +19,14 @@ on:
         description: "1이면 수집·요약만 하고 커밋하지 않는다"
         required: false
         default: "1"
-  # 2c 이후 활성화(KST 예약 → UTC). 정시(:00)는 GitHub 부하가 몰려 피한다.
-  # schedule:
-  #   - cron: "7 16 * * *"   # am 01:07 KST
-  #   - cron: "37 17 * * *"  # am 02:37 KST
-  #   - cron: "7 19 * * *"   # am 04:07 KST
-  #   - cron: "37 0 * * *"   # pm 09:37 KST
-  #   - cron: "37 1 * * *"   # pm 10:37 KST
-  #   - cron: "37 2 * * *"   # pm 11:37 KST
+  # 2c 확인 후 활성화(2026-09-29, KST 예약 → UTC). 정시(:00)는 GitHub 부하가 몰려 피한다.
+  schedule:
+    - cron: "7 16 * * *"   # am 01:07 KST
+    - cron: "37 17 * * *"  # am 02:37 KST
+    - cron: "7 19 * * *"   # am 04:07 KST
+    - cron: "37 0 * * *"   # pm 09:37 KST
+    - cron: "37 1 * * *"   # pm 10:37 KST
+    - cron: "37 2 * * *"   # pm 11:37 KST
 
 # 지연된 예약이 겹쳐도 직렬 실행한다. reels 그룹에는 넣지 않는다(빌드 대기 중 컷오프를 넘길 수 있다).
 concurrency:
