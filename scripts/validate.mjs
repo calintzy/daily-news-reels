@@ -35,6 +35,8 @@ const MAX_CAPTION_LEN = 2200;
 const MAX_NARRATION_LEN = 30; // TTS 낭독 대본 상한 — hookLine 30자 게이트와 동일 기준
 const MIN_ISSUES = 4;
 const MAX_ISSUES = 6;
+// 신선도 게이트 시행일 — 이전 회차(sourceDate 없음)를 재빌드해도 반려되지 않게 한다.
+const FRESHNESS_SINCE = "2026-09-30";
 const MUSIC_CREDIT = "Music: Kevin MacLeod (incompetech.com), CC BY 4.0";
 // 계정(account) 허용값 — 없으면 "muleori"(물어오리)로 간주한다(하위 호환).
 const ACCOUNTS = ["muleori", "aibrief"];
@@ -141,7 +143,7 @@ function isDupWithTitle(hookLine, title) {
 // warnings: FAIL이 아닌 경고를 담는 배열(호출부가 출력). 도입기 필드(narration)의 부재 알림용.
 // stem: 파일명 stem(예: "2026-08-18-am", "ai-2026-08-18"). 파일 경로로 실행할 때만 주어지며,
 //       계정(account)과 파일명 접두의 정합을 교차 검증하는 데 쓴다(없으면 그 검사만 생략).
-function validate(json, warnings = [], stem = null) {
+function validate(json, warnings = [], stem = null, { freshnessSince = FRESHNESS_SINCE } = {}) {
   const v = [];
 
   // (1) 구조: account(계정)는 선택 — 없으면 "muleori"(물어오리). 기존 데이터는 전부 무경고 통과한다.
@@ -204,7 +206,8 @@ function validate(json, warnings = [], stem = null) {
     }
   }
 
-  const isMuleoriSlot = (json.slot === "am" || json.slot === "pm") && account !== "aibrief";
+  const isMuleoriSlot =
+    (json.slot === "am" || json.slot === "pm") && account !== "aibrief" && String(json.date ?? "") >= freshnessSince;
 
   json.issues.forEach((issue, i) => {
     const label = `issue[${i + 1}]`;
@@ -471,12 +474,15 @@ function runSelfTest() {
     { name: "FAIL — fresh-out-of-window(9/29-am에 9/27 22:06 기사)", fixture: bad.freshOut, expectPass: false },
     { name: "FAIL — fresh-url-mismatch(URL 날짜와 sourceDate 불일치)", fixture: bad.freshUrl, expectPass: false },
     { name: "FAIL — fresh-no-offset(오프셋 없는 sourceDate)", fixture: bad.freshNoOffset, expectPass: false },
+    // 시행일 이전 회차는 sourceDate 없이 통과(재빌드 보호) — 이 케이스만 기본 시행일로 판정한다.
+    { name: "PASS — fresh-before-since(시행일 이전 회차 면제)", fixture: bad.freshMissing, expectPass: true, since: FRESHNESS_SINCE },
   ];
 
   let allOk = true;
-  for (const { name, fixture, expectPass, stem = null, expectWarnings = null } of cases) {
+  for (const { name, fixture, expectPass, stem = null, expectWarnings = null, since = "0000" } of cases) {
     const warnings = [];
-    const violations = validate(fixture, warnings, stem);
+    // 픽스처는 7월 날짜라 시행일을 해제("0000")하고 판정한다.
+    const violations = validate(fixture, warnings, stem, { freshnessSince: since });
     const passed = violations.length === 0;
     // expectWarnings가 지정된 케이스만 경고 건수를 함께 채점한다(기존 케이스 판정은 불변).
     const warnOk = expectWarnings === null || warnings.length === expectWarnings;
