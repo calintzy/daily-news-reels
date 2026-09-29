@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-29",
+  "slot": "pm",
+  "hookLine": "국힘 397억 반환, 결심 또 연기됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "397억 기로",
+      "title": "尹 선거법 결심 10월 13일로 또 연기",
+      "summary": "윤석열 전 대통령 공직선거법 항소심 결심 공판이 10월 13일로 또 연기됐습니다. 형이 확정되면 국민의힘은 대선 선거비용 397억원을 반환해야 합니다.",
+      "sourceTitle": "'국힘 397억 반환' 달린 尹 항소심 결심 연기…내달 13일 마무리",
+      "sourceDesc": "서울고법 형사2-1부는 29일 윤석열 전 대통령의 공직선거법 위반 항소심 공판을 열고 결심을 10월 13일로 미뤘다. 특검팀 추가 증거 제출과 피고인 신문 등이 이유다. 이 형이 확정되면 국민의힘은 선거비용 397억원을 반환해야 한다.",
+      "sourceLink": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03722806645585040",
+      "imagePrompt": "Empty courtroom interior with rows of wooden benches facing an elevated judge's bench, scales of justice figurine on clerk's desk, tall windows casting pale morning light across polished floor, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "미중 관세 완화",
+      "title": "미중, 총 600억달러 관세 인하 품목 공개",
+      "summary": "미국과 중국이 각각 300억달러씩 총 600억달러 품목의 상호관세 인하 목록을 공개했습니다. 대두는 제외됐으며 양국은 무역휴전을 2개월 연장하기로 했습니다.",
+      "sourceTitle": "미중, 81조5760억원 상호관세 인하…대두 제외·무역휴전 2개월 연장",
+      "sourceDesc": "미국과 중국이 각각 300억달러씩 총 600억달러 규모 비민감 품목의 상호관세 인하 명단을 공개했다. 대두는 중국의 인하 목록에서 제외됐으며 양국은 무역휴전을 2개월 연장하기로 했다.",
+      "sourceLink": "https://www.asiatoday.co.kr/kn/view.php?key=20260929010009892",
+      "imagePrompt": "Row of colorful shipping containers stacked high in a busy port terminal at dusk, giant cranes silhouetted against orange and purple sky, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제·산업",
+      "kicker": "반도체·AI 점검",
+      "title": "이 대통령, AI·반도체 메가 3차 점검회의 주재",
+      "summary": "이재명 대통령이 청와대에서 메가프로젝트 3차 민관합동 점검회의를 주재했습니다. 반도체·AI·데이터센터 현황을 점검하고 삼성전자·SK 사장급이 참석했습니다.",
+      "sourceTitle": "이대통령, 오늘 메가프로젝트 점검회의… 반도체·피지컬AI 집중",
+      "sourceDesc": "이재명 대통령이 29일 청와대에서 메가프로젝트 제3차 민관합동 점검회의를 주재했다. 반도체, AI, 데이터센터 등 주요 사업의 추진 현황을 점검하고 삼성전자·SK 사장급 인사가 참석했다.",
+      "sourceLink": "https://www.newscj.com/news/articleView.html?idxno=3436266",
+      "imagePrompt": "Semiconductor wafer cleanroom interior, gleaming silicon processing equipment inside sterile white chamber, blue UV lighting reflecting on polished surfaces, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "주가 이틀 하락",
+      "title": "외국인 2.9조 매도, 코스피 6870선 마감",
+      "summary": "외국인이 코스피에서 2.9조원을 순매도해 지수가 6870선에 마감했습니다. 삼성전자 배당락과 미국 금리 상승 여파로 이틀 연속 하락했습니다.",
+      "sourceTitle": "외국인 2.9조 '팔자'…코스피, 6870선 약보합 마감",
+      "sourceDesc": "외국인이 코스피에서 2조9033억원을 순매도하면서 지수가 6870선에 마감했다. 삼성전자 배당락과 미국 금리 상승이 겹쳐 2거래일 연속 하락했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026092916072809042",
+      "imagePrompt": "Close-up of stock market ticker board with red downward arrows on large electronic screen in empty trading floor, fluorescent overhead lighting casting harsh shadows, no people, no text, photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "박람회 부실 논란",
+      "title": "여수세계섬박람회, 부실 논란에 국감 도마 위",
+      "summary": "개막 초 관람객 부진과 음식·공연 부실 논란을 겪은 여수세계섬박람회가 국정감사 쟁점으로 부상했습니다. 목표 관람객 300만명 산정 근거와 예산 사용이 적절했는지 집중 따질 예정입니다.",
+      "sourceTitle": "관람객 목표·예산 사용 적절했나···'부실 논란' 여수섬박람회 국감 시험대",
+      "sourceDesc": "개막 초 관람객 부진과 음식·공연 부실 논란을 겪은 2026여수세계섬박람회가 국정감사 시험대에 오를 전망이다. 목표 관람객 300만명 산정 근거와 예산 사용내역 등에 관한 자료를 국회의원들이 잇달아 요구하고 있다.",
+      "sourceLink": "https://www.khan.co.kr/article/202609291144001/",
+      "imagePrompt": "Quiet expo pavilion exterior with empty walkways, colorful event banners hanging still along empty pathway, distant ocean visible at horizon under grey overcast sky, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-09-29 저녁 브리핑\n\n1. 尹 선거법 결심 10월 13일로 또 연기\n2. 미중, 총 600억달러 관세 인하 품목 공개\n3. 이 대통령, AI·반도체 메가 3차 점검회의 주재\n4. 외국인 2.9조 매도, 코스피 6870선 마감\n5. 여수세계섬박람회, 부실 논란에 국감 도마 위\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁뉴스 #저녁브리핑 #윤석열선거법 #미중무역 #코스피\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
