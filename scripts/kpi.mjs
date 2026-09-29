@@ -33,7 +33,7 @@ function findLatestSnapshot() {
 }
 
 // 파일명(YYYY-MM-DD)에서 스냅샷 기준 시각(해당 날짜 05:00 KST)을 구한다.
-function snapshotTimeFromPath(path) {
+export function snapshotTimeFromPath(path) {
   const stem = basename(path, ".json");
   if (!/^\d{4}-\d{2}-\d{2}$/.test(stem)) {
     throw new Error(`스냅샷 파일명이 YYYY-MM-DD.json 형식이 아니다: ${basename(path)}`);
@@ -53,7 +53,8 @@ function sum(values) {
 }
 
 // 스냅샷 로드 + 계정 판정 + 성숙도(24h) 필터. {entries, excludedByAccount}를 반환.
-function loadEntries(path, snapshotTime) {
+// 판정기(experiment.mjs)가 회차 목록 기준으로 집계하므로 항목에 stem을 싣는다.
+export function loadEntries(path, snapshotTime) {
   const raw = readFileSync(path, "utf-8");
   const data = JSON.parse(raw);
 
@@ -72,7 +73,7 @@ function loadEntries(path, snapshotTime) {
       continue; // 발행 24시간 미만 — 미성숙 제외
     }
 
-    entries.push({ account, timestamp: ts, metrics: r.metrics ?? {} });
+    entries.push({ stem: r.stem, account, timestamp: ts, metrics: r.metrics ?? {} });
   }
 
   return { entries, excludedByAccount };
@@ -86,7 +87,12 @@ function computeStats(entries, account, windowDays, snapshotTime) {
     if (windowDays === Infinity) return true;
     return snapshotTime.getTime() - e.timestamp.getTime() <= cutoffMs;
   });
+  return aggregate(filtered);
+}
 
+// 항목 목록 → 통계. kpi-latest.md와 판정기가 같은 공식을 쓰도록 집계부만 분리해 export한다.
+// (shares 합/reach 합×1000, avg_watch ms 중앙값/1000)
+export function aggregate(filtered) {
   const n = filtered.length;
   const views = filtered.map((e) => e.metrics.views).filter((v) => typeof v === "number");
   const reach = filtered.map((e) => e.metrics.reach).filter((v) => typeof v === "number");
