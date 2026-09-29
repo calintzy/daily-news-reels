@@ -6,8 +6,11 @@
     "startStem": "2026-09-30-am",
     "window": 14,
     "extended": false,
-    "issue": null,
-    "flagsBefore": { "REEL_FORMAT_MULEORI": "", "TTS_ENABLED": "0" },
+    "issue": 1,
+    "flagsBefore": {
+      "REEL_FORMAT_MULEORI": "",
+      "TTS_ENABLED": "0"
+    },
     "flagsSince": "2026-09-30-am",
     "pending": null
   },
