@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-02",
+  "account": "aibrief",
+  "issues": [
+    {
+      "rank": 1
+    }
+  ],
+  "selection": {
+    "signalSources": {
+      "x": "fail"
+    }
+  }
+}

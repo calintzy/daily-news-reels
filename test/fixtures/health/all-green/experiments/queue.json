@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "single-issue-v1",
+      "account": "muleori",
+      "status": "ready",
+      "hypothesis": "단일 이슈 18초 + 나레이션이 시청·공유를 올린다",
+      "flags": {
+        "REEL_FORMAT_MULEORI": "single",
+        "TTS_ENABLED": "1"
+      },
+      "evidence": [
+        {
+          "path": "docs/formats/{stem}.txt",
+          "equals": "single"
+        },
+        {
+          "path": "docs/arms/{stem}.txt",
+          "equals": "tts"
+        },
+        {
+          "data": "issues.0.narration",
+          "nonEmpty": true
+        }
+      ],
+      "samples": 14,
+      "extendTo": 28,
+      "adopt": [
+        {
+          "kpi": "sharesPer1000Reach",
+          "op": ">=",
+          "value": 5
+        },
+        {
+          "kpi": "avgWatchMedian",
+          "op": ">=",
+          "value": 5.4
+        }
+      ],
+      "reject": [
+        {
+          "kpi": "avgWatchMedian",
+          "op": "<",
+          "value": 3.6
+        }
+      ],
+      "next": {
+        "adopt": "next-ready",
+        "reject": "next-ready",
+        "inconclusive": "next-ready"
+      },
+      "prereg": "RyanVault 02-CONTENT/ideas/2026-09-14-daily-news-reels-single-issue-preregistration.md",
+      "addendum": "experiments/preregistration/single-issue-v1-addendum.md"
+    },
+    {
+      "id": "signals-actions",
+      "account": "muleori",
+      "status": "draft",
+      "hypothesis": "선정 기준 변경(신호 수집 복구 후 행동 신호 반영) — 구현 계획 별도. 루틴이 flags.json을 읽게 되면 applyBefore \"07:00\"과 함께 ready로 바꾼다"
+    },
+    {
+      "id": "d-plan-character",
+      "account": "muleori",
+      "status": "draft",
+      "hypothesis": "기각 시 D안(사람/캐릭터 등장) placeholder — 구현 계획 별도"
+    },
+    {
+      "id": "next-ready",
+      "account": "muleori",
+      "status": "ready",
+      "hypothesis": "픽스처용 다음 실험",
+      "flags": {
+        "TTS_ENABLED": "0"
+      },
+      "evidence": [
+        {
+          "path": "docs/formats/{stem}.txt",
+          "equals": "single"
+        }
+      ],
+      "samples": 14,
+      "adopt": [
+        {
+          "kpi": "avgWatchMedian",
+          "op": ">=",
+          "value": 5
+        }
+      ],
+      "reject": []
+    }
+  ]
+}

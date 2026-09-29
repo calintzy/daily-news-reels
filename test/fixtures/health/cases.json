@@ -1,0 +1,155 @@
+[
+  {
+    "name": "all-green",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "env": { "COLLECT_RESULT": "success", "EXPERIMENT_OUTCOME": "success" },
+    "expect": { "alerts": [], "warns": [], "acks": [] }
+  },
+  {
+    "name": "flag-not-applied",
+    "root": "flag-not-applied",
+    "now": "2026-10-03T09:00:00+09:00",
+    "expect": { "alerts": ["flags-applied"], "warns": ["contamination"] }
+  },
+  {
+    "name": "signals-fail",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "write": {
+      "data/2026-09-30-am.json": { "date": "2026-09-30", "slot": "am", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail", "nate": "ok" } } },
+      "data/2026-09-30-pm.json": { "date": "2026-09-30", "slot": "pm", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail", "nate": "ok" } } },
+      "data/2026-10-01-am.json": { "date": "2026-10-01", "slot": "am", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail", "nate": "ok" } } },
+      "data/2026-10-01-pm.json": { "date": "2026-10-01", "slot": "pm", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail", "nate": "ok" } } },
+      "data/2026-10-02-am.json": { "date": "2026-10-02", "slot": "am", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail", "nate": "fail" } } }
+    },
+    "expect": { "alerts": ["signals"], "warns": [] }
+  },
+  {
+    "name": "ack-active",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "write": {
+      "data/2026-09-30-am.json": { "date": "2026-09-30", "slot": "am", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "data/2026-09-30-pm.json": { "date": "2026-09-30", "slot": "pm", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "data/2026-10-01-am.json": { "date": "2026-10-01", "slot": "am", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "data/2026-10-01-pm.json": { "date": "2026-10-01", "slot": "pm", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "data/2026-10-02-am.json": { "date": "2026-10-02", "slot": "am", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "experiments/health-ack.json": { "acks": [{ "check": "signals", "until": "2026-10-10", "note": "신호 수집 복구 작업 중" }] }
+    },
+    "expect": { "alerts": [], "warns": [], "acks": ["signals"] }
+  },
+  {
+    "name": "ack-expired",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "write": {
+      "data/2026-09-30-am.json": { "date": "2026-09-30", "slot": "am", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "data/2026-09-30-pm.json": { "date": "2026-09-30", "slot": "pm", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "data/2026-10-01-am.json": { "date": "2026-10-01", "slot": "am", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "data/2026-10-01-pm.json": { "date": "2026-10-01", "slot": "pm", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "data/2026-10-02-am.json": { "date": "2026-10-02", "slot": "am", "issues": [{ "rank": 1, "narration": "오늘 가장 큰 소식입니다." }], "selection": { "signalSources": { "trends": "fail" } } },
+      "experiments/health-ack.json": { "acks": [{ "check": "signals", "until": "2026-10-01", "note": "만료된 인지" }] }
+    },
+    "expect": { "alerts": ["signals"], "acks": [] }
+  },
+  {
+    "name": "missed-two",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "remove": ["published/2026-10-01-am", "published/2026-10-01-pm"],
+    "expect": { "alerts": ["missed"], "warns": ["contamination", "freshness"] }
+  },
+  {
+    "name": "freshness-reject",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "remove": ["published/2026-10-02-am"],
+    "write": {
+      "data/2026-10-02-am.json": { "date": "2026-10-02", "slot": "am", "hookLine": "오늘 소식입니다.", "caption": "c", "issues": [{ "rank": 1, "category": "경제", "kicker": "k", "title": "제목", "summary": "요약입니다.", "sourceTitle": "제목 요약", "sourceDesc": "요약", "sourceLink": "https://example.com/a", "imagePrompt": "a duck", "narration": "오늘 가장 큰 소식입니다." }] }
+    },
+    "expect": { "alerts": [], "warns": ["freshness", "missed"] }
+  },
+  {
+    "name": "pre-gate-no-freshness",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "remove": ["published/2026-09-29-pm"],
+    "write": {
+      "data/2026-09-29-pm.json": { "date": "2026-09-29", "slot": "pm", "hookLine": "오늘 소식입니다.", "caption": "c", "issues": [{ "rank": 1, "category": "경제", "kicker": "k", "title": "제목", "summary": "요약입니다.", "sourceTitle": "제목 요약", "sourceDesc": "요약", "sourceLink": "https://example.com/a", "imagePrompt": "a duck" }] }
+    },
+    "expect": { "alerts": [], "warns": ["missed"] }
+  },
+  {
+    "name": "kill-switch-off-no-missed",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "env": { "PUBLISH_LIVE": "0" },
+    "remove": ["published/2026-10-01-am"],
+    "expect": { "alerts": [], "warns": [] }
+  },
+  {
+    "name": "collect-failed",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "env": { "COLLECT_RESULT": "failure" },
+    "expect": { "alerts": ["collect"], "warns": [] }
+  },
+  {
+    "name": "experiment-run-failed",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "env": { "COLLECT_RESULT": "success", "EXPERIMENT_OUTCOME": "failure" },
+    "expect": { "alerts": ["experiment-run"], "warns": [] }
+  },
+  {
+    "name": "queue-lint-fail",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "write": { "experiments/flags.json": { "muleori": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1", "PUBLISH_LIVE": "1" }, "aibrief": {} } },
+    "expect": { "alerts": ["queue-lint"], "warns": [] }
+  },
+  {
+    "name": "telegram-report-warn",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "write": { "reports/2026-10-03-am.md": "✅ 릴스 정상 발행 — 텔레그램 브리핑 전송 3일 연속 실패\n" },
+    "expect": { "alerts": [], "warns": ["telegram-report"] }
+  },
+  {
+    "name": "telegram-getchat-fail",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "env": { "TG_BOT_TOKEN": "x", "TG_CHAT_ID": "y" },
+    "expect": { "alerts": ["telegram"], "warns": [] }
+  },
+  {
+    "name": "experiment-stall",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "write": {
+      "experiments/state.json": {
+        "version": 1,
+        "muleori": { "active": "single-issue-v1", "startedAt": "2026-09-09T21:00:00+09:00", "startStem": "2026-09-10-am", "window": 14, "extended": false, "issue": 7, "flagsBefore": { "REEL_FORMAT_MULEORI": "", "TTS_ENABLED": "0" }, "flagsSince": "2026-09-30-am", "pending": null },
+        "aibrief": { "active": null, "flagsSince": null, "pending": null },
+        "history": []
+      }
+    },
+    "expect": { "alerts": ["experiment-stall"], "warns": ["contamination"] }
+  },
+  {
+    "name": "queue-next-draft",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "write": {
+      "experiments/queue.json": {
+        "version": 1,
+        "items": [
+          { "id": "single-issue-v1", "account": "muleori", "status": "ready", "hypothesis": "h", "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" }, "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "single" }], "samples": 14, "extendTo": 28, "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5.4 }], "reject": [], "next": { "adopt": "later", "reject": "later", "inconclusive": "later" } },
+          { "id": "later", "account": "muleori", "status": "draft", "hypothesis": "구현 전" }
+        ]
+      }
+    },
+    "expect": { "alerts": [], "warns": ["queue"] }
+  }
+]

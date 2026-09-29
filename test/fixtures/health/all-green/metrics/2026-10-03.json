@@ -1,0 +1,290 @@
+[
+  {
+    "stem": "2026-09-25-am",
+    "account": "muleori",
+    "timestamp": "2026-09-24T22:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-25-pm",
+    "account": "muleori",
+    "timestamp": "2026-09-25T08:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-26-am",
+    "account": "muleori",
+    "timestamp": "2026-09-25T22:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-26-pm",
+    "account": "muleori",
+    "timestamp": "2026-09-26T08:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-27-am",
+    "account": "muleori",
+    "timestamp": "2026-09-26T22:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-27-pm",
+    "account": "muleori",
+    "timestamp": "2026-09-27T08:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-28-am",
+    "account": "muleori",
+    "timestamp": "2026-09-27T22:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-28-pm",
+    "account": "muleori",
+    "timestamp": "2026-09-28T08:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-29-am",
+    "account": "muleori",
+    "timestamp": "2026-09-28T22:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-29-pm",
+    "account": "muleori",
+    "timestamp": "2026-09-29T08:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-30-am",
+    "account": "muleori",
+    "timestamp": "2026-09-29T22:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-09-30-pm",
+    "account": "muleori",
+    "timestamp": "2026-09-30T08:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-10-01-am",
+    "account": "muleori",
+    "timestamp": "2026-09-30T22:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-10-01-pm",
+    "account": "muleori",
+    "timestamp": "2026-10-01T08:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-10-02-am",
+    "account": "muleori",
+    "timestamp": "2026-10-01T22:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "2026-10-02-pm",
+    "account": "muleori",
+    "timestamp": "2026-10-02T08:30:00+0000",
+    "metrics": {
+      "views": 100,
+      "reach": 100,
+      "shares": 1,
+      "saved": 0,
+      "ig_reels_avg_watch_time": 6000
+    }
+  },
+  {
+    "stem": "ai-2026-09-25",
+    "account": "aibrief",
+    "timestamp": "2026-09-25T03:00:00+0000",
+    "metrics": {
+      "views": 300,
+      "reach": 250,
+      "shares": 2,
+      "saved": 1,
+      "ig_reels_avg_watch_time": 4000
+    }
+  },
+  {
+    "stem": "ai-2026-09-26",
+    "account": "aibrief",
+    "timestamp": "2026-09-26T03:00:00+0000",
+    "metrics": {
+      "views": 300,
+      "reach": 250,
+      "shares": 2,
+      "saved": 1,
+      "ig_reels_avg_watch_time": 4000
+    }
+  },
+  {
+    "stem": "ai-2026-09-27",
+    "account": "aibrief",
+    "timestamp": "2026-09-27T03:00:00+0000",
+    "metrics": {
+      "views": 300,
+      "reach": 250,
+      "shares": 2,
+      "saved": 1,
+      "ig_reels_avg_watch_time": 4000
+    }
+  },
+  {
+    "stem": "ai-2026-09-28",
+    "account": "aibrief",
+    "timestamp": "2026-09-28T03:00:00+0000",
+    "metrics": {
+      "views": 300,
+      "reach": 250,
+      "shares": 2,
+      "saved": 1,
+      "ig_reels_avg_watch_time": 4000
+    }
+  },
+  {
+    "stem": "ai-2026-09-29",
+    "account": "aibrief",
+    "timestamp": "2026-09-29T03:00:00+0000",
+    "metrics": {
+      "views": 300,
+      "reach": 250,
+      "shares": 2,
+      "saved": 1,
+      "ig_reels_avg_watch_time": 4000
+    }
+  },
+  {
+    "stem": "ai-2026-09-30",
+    "account": "aibrief",
+    "timestamp": "2026-09-30T03:00:00+0000",
+    "metrics": {
+      "views": 300,
+      "reach": 250,
+      "shares": 2,
+      "saved": 1,
+      "ig_reels_avg_watch_time": 4000
+    }
+  },
+  {
+    "stem": "ai-2026-10-01",
+    "account": "aibrief",
+    "timestamp": "2026-10-01T03:00:00+0000",
+    "metrics": {
+      "views": 300,
+      "reach": 250,
+      "shares": 2,
+      "saved": 1,
+      "ig_reels_avg_watch_time": 4000
+    }
+  },
+  {
+    "stem": "ai-2026-10-02",
+    "account": "aibrief",
+    "timestamp": "2026-10-02T03:00:00+0000",
+    "metrics": {
+      "views": 300,
+      "reach": 250,
+      "shares": 2,
+      "saved": 1,
+      "ig_reels_avg_watch_time": 4000
+    }
+  }
+]

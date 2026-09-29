@@ -1,47 +1,141 @@
 name: insights
 
 # 릴스 인사이트 수집 — 훅 수술 전후·TTS A/B·리믹스 판정용.
-# 매일 KST 05:00에 전 회차 누적 지표를 metrics/에 커밋해 시계열을 영속화한다
+# 매일 KST 05:00 예약(실측 시작 07:00~09:15)으로 전 회차 누적 지표를 metrics/에 커밋해 시계열을 영속화한다
 # (누적 스냅샷의 일일 차분으로 발행 후 72시간 연령 고정 views를 계산할 수 있다 — 2026-08-18 critic M4).
+# 같은 잡에서 실험 판정기(scripts/experiment.mjs)를, 별도 잡에서 입력 건강 감시(scripts/health.mjs)를 돈다.
 on:
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "full=수집·스냅샷·판정·커밋 / dry=수집 없이 최신 커밋 스냅샷으로 판정기·health dry-run(스냅샷·이슈 무변경)"
+        required: false
+        default: full
+        type: choice
+        options: [full, dry]
   schedule:
     - cron: "0 20 * * *" # 20:00 UTC = 05:00 KST
+
+# 판정 커밋(state·flags)이 겹치지 않도록 이 워크플로 실행을 직렬화한다.
+concurrency:
+  group: insights
+  cancel-in-progress: false
 
 jobs:
   collect:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: write
+    outputs:
+      experiment: ${{ steps.experiment.outcome }}
+    env:
+      DRY: ${{ github.event.inputs.mode == 'dry' && '1' || '0' }}
     steps:
       - uses: actions/checkout@v5
+        with:
+          # 판정기의 재빌드 감지(발행 마커 커밋 이후 formats/arms 변경)가 전체 이력을 본다.
+          fetch-depth: 0
 
       - uses: actions/setup-node@v5
         with:
           node-version: "20"
 
       - name: 인사이트 수집
+        if: env.DRY != '1'
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_ACCESS_TOKEN_AIBRIEF: ${{ secrets.IG_ACCESS_TOKEN_AIBRIEF }}
         run: node scripts/insights.mjs
 
-      - name: KPI 집계
-        run: node scripts/kpi.mjs > metrics/kpi-latest.md && cat metrics/kpi-latest.md >> "$GITHUB_STEP_SUMMARY"
+      # 스냅샷을 KPI·판정기보다 먼저 복사해 둘 다 당일 스냅샷 경로를 명시 인자로 받는다.
+      - name: 당일 스냅샷 복사
+        id: snap
+        run: |
+          if [ "$DRY" = "1" ]; then
+            SNAP=$(ls metrics/????-??-??.json | sort | tail -1)
+          else
+            DATE=$(TZ=Asia/Seoul date +%F)
+            mkdir -p metrics
+            cp insights.json "metrics/${DATE}.json"
+            SNAP="metrics/${DATE}.json"
+          fi
+          echo "path=$SNAP" >> "$GITHUB_OUTPUT"
 
-      - name: metrics/ 스냅샷 커밋
+      - name: KPI 집계
+        run: node scripts/kpi.mjs "${{ steps.snap.outputs.path }}" > metrics/kpi-latest.md && cat metrics/kpi-latest.md >> "$GITHUB_STEP_SUMMARY"
+
+      # 판정기가 죽어도 metrics 커밋은 막지 않는다 — outcome은 health 잡이 ALERT로 올린다.
+      - name: 실험 판정기
+        id: experiment
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$DRY" = "1" ]; then
+            node scripts/experiment.mjs --snapshot "${{ steps.snap.outputs.path }}" --dry-run
+          else
+            node scripts/experiment.mjs --snapshot "${{ steps.snap.outputs.path }}"
+          fi
+
+      - name: metrics·kpi·experiments 통합 커밋
+        if: env.DRY != '1'
         run: |
           DATE=$(TZ=Asia/Seoul date +%F)
-          mkdir -p metrics
-          cp insights.json "metrics/${DATE}.json"
           git config user.name calintzy
           git config user.email byjrasid@gmail.com
-          git add metrics
-          git commit -m "metrics: ${DATE} 인사이트 스냅샷" || echo "변경 없음"
-          git pull --rebase origin main || true
-          git push
+          # queue.json은 사람 소유라 add하지 않는다. data/는 reels 빌드를 트리거하므로 절대 add하지 않는다.
+          git add metrics experiments/state.json experiments/flags.json
+          [ -d experiments/verdicts ] && git add experiments/verdicts
+          if git diff --cached --quiet -- experiments; then
+            git commit -m "metrics: ${DATE} 인사이트 스냅샷" || echo "변경 없음"
+          else
+            git commit -m "experiment: ${DATE} 판정 상태 갱신 + metrics 스냅샷" || echo "변경 없음"
+          fi
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            git rebase --abort 2>/dev/null || true
+            [ "$i" = 3 ] && { echo "push 3회 실패"; exit 1; }
+            echo "push 재시도 $i/3"; sleep $((i * 5))
+          done
 
       - uses: actions/upload-artifact@v4
+        if: env.DRY != '1'
         with:
           name: insights
           path: insights.json
+
+  health:
+    needs: collect
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          # collect가 방금 push한 state·flags를 포함한 최신 main
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "20"
+
+      - name: 입력 건강 점검
+        env:
+          GH_TOKEN: ${{ github.token }}
+          # getChat(메시지 발송 없는 읽기 호출) 전용
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          PUBLISH_LIVE: ${{ vars.PUBLISH_LIVE }}
+          PUBLISH_LIVE_AIBRIEF: ${{ vars.PUBLISH_LIVE_AIBRIEF }}
+          COLLECT_RESULT: ${{ needs.collect.result }}
+          EXPERIMENT_OUTCOME: ${{ needs.collect.outputs.experiment }}
+        run: |
+          if [ "${{ github.event.inputs.mode }}" = "dry" ]; then
+            node scripts/health.mjs --dry-run
+          else
+            node scripts/health.mjs
+          fi

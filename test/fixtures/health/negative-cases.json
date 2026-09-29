@@ -1,0 +1,9 @@
+[
+  {
+    "name": "wrong-expectation-green-as-alert",
+    "desc": "음성 대조군 — 전부 정상인 픽스처에 ALERT signals를 기대하도록 일부러 틀리게 적었다. self-test가 exit 1 나지 않으면 비교기가 고장이다.",
+    "root": "all-green",
+    "now": "2026-10-03T09:00:00+09:00",
+    "expect": { "alerts": ["signals"] }
+  }
+]
