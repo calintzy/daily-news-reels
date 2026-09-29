@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "muleori": {
+    "active": "single-issue-v1",
+    "startedAt": "2026-09-29T21:00:00+09:00",
+    "startStem": "2026-09-30-am",
+    "window": 14,
+    "extended": false,
+    "issue": null,
+    "flagsBefore": { "REEL_FORMAT_MULEORI": "", "TTS_ENABLED": "0" },
+    "flagsSince": "2026-09-30-am",
+    "pending": null
+  },
+  "aibrief": {
+    "active": "other-muleori",
+    "startedAt": "2026-09-29T21:00:00+09:00",
+    "startStem": "ai-2026-09-30",
+    "window": 14,
+    "extended": false,
+    "issue": null,
+    "flagsBefore": {},
+    "flagsSince": null,
+    "pending": null
+  },
+  "history": []
+}

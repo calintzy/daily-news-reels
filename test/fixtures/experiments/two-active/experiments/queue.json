@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "single-issue-v1",
+      "account": "muleori",
+      "status": "ready",
+      "hypothesis": "음성 대조군 픽스처 — 물어오리 활성 실험 1",
+      "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" },
+      "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "single" }],
+      "samples": 14,
+      "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5.4 }],
+      "reject": []
+    },
+    {
+      "id": "other-muleori",
+      "account": "muleori",
+      "status": "ready",
+      "hypothesis": "음성 대조군 픽스처 — 같은 계정 두 번째 활성 실험(aibrief 슬롯에 잘못 들어감)",
+      "flags": { "TTS_ENABLED": "0" },
+      "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "digest" }],
+      "samples": 14,
+      "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5.4 }],
+      "reject": []
+    }
+  ]
+}

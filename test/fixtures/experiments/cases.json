@@ -1,0 +1,146 @@
+[
+  {
+    "name": "adopt",
+    "now": "2026-10-08T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 14, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "expect": { "action": "verdict", "verdict": "adopt", "valid": 14, "excluded": {}, "pendingVerdict": "adopt", "docWritten": true }
+  },
+  {
+    "name": "verdict-no-apply",
+    "now": "2026-10-08T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 14, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 0, "avgWatchMs": 2000 },
+    "expect": { "verdict": "reject", "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" }, "active": "single-issue-v1", "pendingVerdict": "reject", "historyLast": null }
+  },
+  {
+    "name": "reject-avgwatch-2.0",
+    "now": "2026-10-08T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 14, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 2000 },
+    "expect": { "action": "verdict", "verdict": "reject", "valid": 14, "pendingVerdict": "reject" }
+  },
+  {
+    "name": "middle-extend",
+    "now": "2026-10-08T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 14, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 0, "avgWatchMs": 4500 },
+    "expect": { "action": "extend", "extended": true, "window": 28, "pendingVerdict": null, "docWritten": false }
+  },
+  {
+    "name": "extended-inconclusive",
+    "now": "2026-10-15T07:30:00+09:00",
+    "state": { "muleori": { "extended": true, "window": 28 } },
+    "series": { "start": "2026-09-30-am", "count": 28, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 0, "avgWatchMs": 4500 },
+    "expect": { "action": "verdict", "verdict": "inconclusive", "valid": 28, "pendingVerdict": "inconclusive" }
+  },
+  {
+    "name": "fallback-excluded",
+    "now": "2026-10-09T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 15, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "overrides": { "2026-09-30-am": { "arm": "control-fallback", "reach": 10000, "shares": 0, "avgWatchMs": 100 } },
+    "expect": { "verdict": "adopt", "valid": 14, "excluded": { "evidence": 1 } }
+  },
+  {
+    "name": "narration-missing-excluded",
+    "now": "2026-10-09T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 15, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "overrides": { "2026-10-01-am": { "narration": "" } },
+    "expect": { "valid": 14, "excluded": { "data": 1 } }
+  },
+  {
+    "name": "rebuild-excluded",
+    "now": "2026-10-09T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 15, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "rebuilt": ["2026-10-01-pm"],
+    "expect": { "valid": 14, "excluded": { "rebuild": 1 } }
+  },
+  {
+    "name": "unpublished-excluded",
+    "now": "2026-10-09T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 15, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "overrides": { "2026-10-02-am": { "published": false } },
+    "expect": { "valid": 14, "excluded": { "unpublished": 1 } }
+  },
+  {
+    "name": "immature-wait",
+    "now": "2026-10-07T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 14, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "expect": { "action": "wait", "valid": 12, "pendingVerdict": null }
+  },
+  {
+    "name": "samples-13-wait",
+    "now": "2026-10-08T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 13, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "expect": { "action": "wait", "valid": 13, "pendingVerdict": null }
+  },
+  {
+    "name": "no-same-day-snapshot-skip",
+    "now": "2026-10-08T07:30:00+09:00",
+    "snapshotDate": "2026-10-07",
+    "series": { "start": "2026-09-30-am", "count": 14, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "expect": { "action": "skip-snapshot", "pendingVerdict": null }
+  },
+  {
+    "name": "pending-too-early",
+    "now": "2026-10-08T12:30:00+09:00",
+    "state": { "muleori": { "pending": { "verdict": "reject", "decidedAt": "2026-10-08T07:30:00+09:00", "file": "experiments/verdicts/single-issue-v1.md", "veto": false } } },
+    "expect": { "action": "veto-wait", "pendingVerdict": "reject", "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" } }
+  },
+  {
+    "name": "pending-reject-apply-next-draft",
+    "now": "2026-10-09T07:30:00+09:00",
+    "state": { "muleori": { "pending": { "verdict": "reject", "decidedAt": "2026-10-08T07:30:00+09:00", "file": "experiments/verdicts/single-issue-v1.md", "veto": false } } },
+    "expect": { "action": "next-not-ready", "active": null, "flags": { "REEL_FORMAT_MULEORI": "", "TTS_ENABLED": "0" }, "historyLast": { "id": "single-issue-v1", "verdict": "reject" } }
+  },
+  {
+    "name": "pending-adopt-next-ready",
+    "now": "2026-10-09T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 14, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "itemPatch": { "next": { "adopt": "next-demo", "reject": "d-plan-character", "inconclusive": "signals-actions" } },
+    "queueExtra": [
+      { "id": "next-demo", "account": "muleori", "status": "ready", "hypothesis": "합성 규칙 확인용", "flags": { "TTS_ENABLED": "0" }, "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "single" }], "samples": 14, "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5 }], "reject": [] }
+    ],
+    "state": { "muleori": { "pending": { "verdict": "adopt", "decidedAt": "2026-10-08T07:30:00+09:00", "file": "experiments/verdicts/single-issue-v1.md", "veto": false } } },
+    "expect": { "action": "activate", "active": "next-demo", "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "0" }, "flagsBefore": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" }, "startStem": "2026-10-07-am", "historyLast": { "id": "single-issue-v1", "verdict": "adopt" } }
+  },
+  {
+    "name": "applyBefore-defer",
+    "now": "2026-10-09T07:30:00+09:00",
+    "itemPatch": { "next": { "adopt": "next-demo", "reject": "d-plan-character", "inconclusive": "signals-actions" } },
+    "queueExtra": [
+      { "id": "next-demo", "account": "muleori", "status": "ready", "hypothesis": "선정 기준 변경 모형", "applyBefore": "07:00", "flags": { "TTS_ENABLED": "0" }, "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "single" }], "samples": 14, "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5 }], "reject": [] }
+    ],
+    "state": { "muleori": { "pending": { "verdict": "adopt", "decidedAt": "2026-10-08T07:30:00+09:00", "file": "experiments/verdicts/single-issue-v1.md", "veto": false } } },
+    "expect": { "action": "defer", "active": "single-issue-v1", "pendingVerdict": "adopt", "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" }, "historyLast": null }
+  },
+  {
+    "name": "veto",
+    "now": "2026-10-09T07:30:00+09:00",
+    "state": { "muleori": { "pending": { "verdict": "reject", "decidedAt": "2026-10-08T07:30:00+09:00", "file": "experiments/verdicts/single-issue-v1.md", "veto": true } } },
+    "expect": { "action": "vetoed", "active": null, "flags": { "REEL_FORMAT_MULEORI": "single", "TTS_ENABLED": "1" }, "historyLast": { "id": "single-issue-v1", "verdict": "reject", "vetoed": true } }
+  },
+  {
+    "name": "idle-pickup",
+    "now": "2026-10-09T07:30:00+09:00",
+    "queueExtra": [
+      { "id": "next-demo", "account": "muleori", "status": "ready", "hypothesis": "유휴 계정 자동 시작", "flags": { "TTS_ENABLED": "0" }, "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "single" }], "samples": 14, "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5 }], "reject": [] }
+    ],
+    "state": {
+      "muleori": { "active": null, "pending": null },
+      "history": [{ "id": "single-issue-v1", "account": "muleori", "verdict": "adopt", "decidedAt": "2026-10-08T07:30:00+09:00", "appliedAt": "2026-10-09T07:00:00+09:00", "file": null }]
+    },
+    "expect": { "action": "activate", "active": "next-demo", "startStem": "2026-10-09-am" }
+  },
+  {
+    "name": "lint-two-active",
+    "now": "2026-10-08T07:30:00+09:00",
+    "queueExtra": [
+      { "id": "other-muleori", "account": "muleori", "status": "ready", "hypothesis": "중복 활성 모형", "flags": { "TTS_ENABLED": "0" }, "evidence": [{ "path": "docs/formats/{stem}.txt", "equals": "digest" }], "samples": 14, "adopt": [{ "kpi": "avgWatchMedian", "op": ">=", "value": 5 }], "reject": [] }
+    ],
+    "state": { "aibrief": { "active": "other-muleori", "startStem": "ai-2026-10-01", "window": 14, "pending": null } },
+    "expect": { "lint": false }
+  },
+  {
+    "name": "lint-publish-live-flag",
+    "now": "2026-10-08T07:30:00+09:00",
+    "itemPatch": { "flags": { "REEL_FORMAT_MULEORI": "single", "PUBLISH_LIVE": "0" } },
+    "expect": { "lint": false }
+  }
+]

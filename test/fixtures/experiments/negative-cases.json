@@ -1,0 +1,9 @@
+[
+  {
+    "name": "wrong-expectation-adopt-as-reject",
+    "desc": "음성 대조군 — adopt가 나와야 하는 데이터에 기대 판정을 reject로 일부러 틀리게 적었다. self-test가 이 케이스로 exit 1 나지 않으면 비교기가 고장이다.",
+    "now": "2026-10-08T07:30:00+09:00",
+    "series": { "start": "2026-09-30-am", "count": 14, "format": "single", "arm": "tts", "narration": "오늘 가장 큰 소식입니다.", "reach": 100, "shares": 1, "avgWatchMs": 6000 },
+    "expect": { "verdict": "reject" }
+  }
+]
