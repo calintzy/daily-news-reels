@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-30",
+  "slot": "am",
+  "hookLine": "DMZ 지뢰를 부인한 북한이 응사 경고를 냈습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "안보 속보",
+      "title": "김여정, DMZ 지뢰는 자작광대극…즉각 응사 경고",
+      "narration": "북한이 즉각 응사 경고를 내놨습니다.",
+      "summary": "북한 김여정 노동당 총무부장이 DMZ 지뢰 폭발 사고를 자작광대극이라고 부인했습니다. 북측 영토에 실사격이 이루어지면 즉각 응사하겠다고 위협했습니다.",
+      "sourceTitle": "김여정 \"DMZ 지뢰 폭발은 자작광대극…실사격 땐 즉각 응사\"",
+      "sourceDesc": "북한 김여정 노동당 총무부장이 30일 서부전선 비무장지대(DMZ) 지뢰 폭발 사고를 자작광대극이라며 반박하고, 북측 영토에 실사격이 이루어지면 즉각 응사하겠다고 경고했다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/09/30/2026093007060163466",
+      "sourceDate": "2026-09-30",
+      "imagePrompt": "Wide-angle documentary photograph of barbed wire fences stretching across a misty border landscape at dawn. Rusted coils of razor wire, overgrown weeds, military warning signs as silhouettes. Desolate no-man's land atmosphere. No people, no text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "생활 직결",
+      "title": "내년 4월부터 은행 9시30분 개점…2차 총파업 철회",
+      "summary": "금융 노사가 은행 영업시간 30분 단축에 잠정 합의했습니다. 내년 4월부터 은행 점포는 오전 9시30분에 문을 열며, 30일로 예정됐던 2차 총파업도 철회됐습니다.",
+      "sourceTitle": "은행 영업시간 30분 짧아진다…금융노사 잠정 합의",
+      "sourceDesc": "금융 노사가 은행 점포 영업시간 30분 단축에 잠정 합의했다. 내년 4월부터 은행 점포는 오전 9시30분에 문을 열며, 임금 인상률은 3.0%로 결정됐다. 이로써 30일 예정된 금융노조 2차 총파업은 철회됐다.",
+      "sourceLink": "https://www.newspim.com/news/view/20260929000613",
+      "sourceDate": "2026-09-29",
+      "imagePrompt": "Photojournalism style exterior shot of a Korean bank branch storefront in an urban setting, early morning light, glass facade and ATM vestibule visible. Clean commercial architecture. No people, no text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "경찰 개혁",
+      "title": "이재명, 경찰 사건 조작 땐 해임 수준 징계해야",
+      "summary": "이재명 대통령이 사건을 조작하거나 증거를 은폐한 경찰관은 해임 수준으로 징계해야 한다고 강조했습니다. 경찰 감찰 기능의 강화와 독립성 확보를 주문했습니다.",
+      "sourceTitle": "李대통령 \"사건 조작 경찰, 해임 수준 징계해야\"",
+      "sourceDesc": "이재명 대통령이 29일 청와대 국무회의에서 사건을 조작하거나 증거를 은폐한 경찰관은 해임 등 경찰 업무에서 배제하는 수준으로 징계해야 한다고 밝혔다. 경찰 감찰 기능의 강화와 독립성 확보를 주문했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20260929000453",
+      "sourceDate": "2026-09-29",
+      "imagePrompt": "Documentary photograph of a South Korean police station corridor interior. Official government crest on wall, notice boards with forms and papers, institutional fluorescent lighting. Atmosphere of bureaucratic oversight. No people, no text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "트럼프 AI",
+      "title": "트럼프, AI 개발 억제 안 한다…명칭도 초지능(SI)으로",
+      "summary": "트럼프 미국 대통령이 AI 개발 억제를 전면 거부하며 정부 문서에서 AI 대신 초지능(SI)이라는 명칭을 쓰겠다고 밝혔습니다. AI를 산업혁명보다 큰 기술이라고 강조했습니다.",
+      "sourceTitle": "트럼프 \"초지능(SI) 개발 억제하지 않을 것\"",
+      "sourceDesc": "도널드 트럼프 미국 대통령이 AI 개발을 억제하지 않겠다며 정부 문서에서 인공지능(AI) 대신 초지능(SI)이라는 명칭을 쓰겠다고 밝혔다. AI를 산업혁명보다 큰 기술이라고 강조했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20260930000028",
+      "sourceDate": "2026-09-30",
+      "imagePrompt": "Photojournalism style image of rows of AI data center servers with glowing blue and white LED lights. Long corridor perspective view of server racks receding into darkness. Clean, futuristic technological atmosphere. No people, no text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "AI 행정",
+      "title": "AI·데이터행정 협의체 출범…12월 가이드라인 확정",
+      "summary": "정부가 범정부 AI·데이터행정 협력체계를 가동하기 시작했습니다. 12월까지 AI 영향평가 가이드라인을 마련할 예정입니다.",
+      "sourceTitle": "범정부 AI·데이터행정 협력체계 가동…12월 'AI 영향평가 가이드라인' 마련",
+      "sourceDesc": "행정안전부가 30일 정부서울청사에서 제1회 AI·데이터행정 책임관 협의회를 개최했다. 행안부는 12월까지 AI 영향평가 가이드라인을 마련할 예정이다.",
+      "sourceLink": "https://www.newspim.com/news/view/20260929000183",
+      "sourceDate": "2026-09-29",
+      "imagePrompt": "Documentary photograph of a modern South Korean government ministry building facade at daylight. Clean institutional architecture with glass panels and government signage silhouettes. Overcast sky. No people, no text. Vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-09-30 아침 브리핑\n\n1. 김여정, DMZ 지뢰는 자작광대극…즉각 응사 경고\n2. 내년 4월부터 은행 9시30분 개점…2차 총파업 철회\n3. 이재명, 경찰 사건 조작 땐 해임 수준 징계해야\n4. 트럼프, AI 개발 억제 안 한다…명칭도 초지능(SI)으로\n5. AI·데이터행정 협의체 출범…12월 가이드라인 확정\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #DMZ #북한 #은행 #AI\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_news": "fail"
+    },
+    "signalHits": []
+  }
+}
