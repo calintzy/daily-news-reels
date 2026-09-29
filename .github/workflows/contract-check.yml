@@ -10,10 +10,17 @@ on:
       - "contracts/**"
       # asserts.js가 공유하는 프로브 모듈 — 이 파일 변경도 계약 회귀를 만들 수 있다(2026-08-10 구멍 발견)
       - "scripts/rewrite-probes.cjs"
+      # 신호 수집기·픽스처·push 재시도 스크립트(2026-09-29 signals-actions)
+      - "scripts/collect.mjs"
+      - "scripts/signals-push.sh"
+      - "test/fixtures/signals/**"
   pull_request:
     paths:
       - "contracts/**"
       - "scripts/rewrite-probes.cjs"
+      - "scripts/collect.mjs"
+      - "scripts/signals-push.sh"
+      - "test/fixtures/signals/**"
   workflow_dispatch:
 
 jobs:
@@ -27,6 +34,13 @@ jobs:
         uses: actions/setup-node@v5
         with:
           node-version: "20"
+
+      # 신호 수집기 파서·창·컷오프 self-test와 push 재시도 self-test(로컬 bare repo, 네트워크 불필요)
+      - name: signals 수집기 self-test
+        run: node scripts/collect.mjs --self-test
+
+      - name: signals push 재시도 self-test
+        run: bash scripts/signals-push.sh --self-test
 
       - name: ratchetlock 설치
         run: npm install --no-save github:calintzy/ratchetlock#v0.4.0

@@ -1,0 +1,102 @@
+name: signals
+
+# 슬롯 전 신호 수집 — 구글뉴스·구글 트렌드·네이트 랭킹을 모아 signals 브랜치의 signals/<stem>.json으로 커밋한다.
+# 이 워크플로 파일은 schedule이 돌도록 main에 있어야 하지만, 산출물은 main이 아니라 전용 브랜치 signals에만 쓴다
+# (main 이력 오염·reels/report 워크플로 트리거 방지, .git 5.3GB 리포이므로 signals 접근은 얕게 한다).
+# 스크립트는 main을 체크아웃해 실행하고, 이미 있는 signals/<stem>.json은 덮어쓰기 규칙 비교용으로만 가져온다.
+# 루틴은 `git fetch origin signals && git show origin/signals:signals/<stem>.json`으로 읽는다.
+#
+# 배포 순서(계획 docs/plans/2026-09-29-signals-actions.md Step 2):
+#   2a main 머지 → 2b dry dispatch 3회로 Actions IP 도달성·Node 20 EUC-KR 확인 → 2c 커밋 모드 dispatch 확인 후 아래 schedule 주석 해제
+on:
+  workflow_dispatch:
+    inputs:
+      stem:
+        description: "슬롯 stem(YYYY-MM-DD-am|pm). 비우면 KST 현재 시각 기준 다음 수집 대상"
+        required: false
+        default: ""
+      dry:
+        description: "1이면 수집·요약만 하고 커밋하지 않는다"
+        required: false
+        default: "1"
+  # 2c 이후 활성화(KST 예약 → UTC). 정시(:00)는 GitHub 부하가 몰려 피한다.
+  # schedule:
+  #   - cron: "7 16 * * *"   # am 01:07 KST
+  #   - cron: "37 17 * * *"  # am 02:37 KST
+  #   - cron: "7 19 * * *"   # am 04:07 KST
+  #   - cron: "37 0 * * *"   # pm 09:37 KST
+  #   - cron: "37 1 * * *"   # pm 10:37 KST
+  #   - cron: "37 2 * * *"   # pm 11:37 KST
+
+# 지연된 예약이 겹쳐도 직렬 실행한다. reels 그룹에는 넣지 않는다(빌드 대기 중 컷오프를 넘길 수 있다).
+concurrency:
+  group: signals
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "20"
+
+      - name: stem 결정
+        shell: bash
+        env:
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+          INPUT_STEM: ${{ inputs.stem }}
+        run: |
+          if [ -n "$INPUT_STEM" ]; then
+            STEM="$INPUT_STEM"
+          elif [ -n "$EVENT_SCHEDULE" ]; then
+            # 스케줄은 예약 문자열로 슬롯을 정하고 날짜는 실행 시각의 KST 날짜로 정한다(am 예약은 KST 01시 이후라 날짜가 어긋나지 않는다)
+            case "$EVENT_SCHEDULE" in
+              "7 16 * * *"|"37 17 * * *"|"7 19 * * *") SLOT=am ;;
+              *) SLOT=pm ;;
+            esac
+            STEM="$(TZ=Asia/Seoul date +%F)-$SLOT"
+          else
+            H=$(TZ=Asia/Seoul date +%H)
+            if [ "$H" -lt 7 ]; then STEM="$(TZ=Asia/Seoul date +%F)-am"
+            elif [ "$H" -lt 17 ]; then STEM="$(TZ=Asia/Seoul date +%F)-pm"
+            else STEM="$(TZ=Asia/Seoul date -d tomorrow +%F)-am"; fi
+          fi
+          echo "STEM=$STEM" >> "$GITHUB_ENV"
+          echo "stem: $STEM"
+
+      - name: 수집
+        shell: bash
+        run: |
+          OUT="$RUNNER_TEMP/signals/$STEM.json"
+          mkdir -p "$(dirname "$OUT")"
+          # 이미 커밋된 파일이 있으면 덮어쓰기 규칙(ok 소스 수 비교) 판단용으로 가져온다
+          if git fetch -q --depth=1 origin signals 2>/dev/null; then
+            git show "FETCH_HEAD:signals/$STEM.json" > "$OUT" 2>/dev/null || rm -f "$OUT"
+          fi
+          node scripts/collect.mjs --stem "$STEM" --out "$OUT" | tee "$RUNNER_TEMP/summary.txt"
+          echo "OUT=$OUT" >> "$GITHUB_ENV"
+          {
+            echo "### $(head -1 "$RUNNER_TEMP/summary.txt")"
+            echo "- Node $(node --version), euc-kr 디코더 시험: $(node -e "console.log(new TextDecoder('euc-kr').decode(Uint8Array.of(0xb0,0xa1)))")"
+            if [ -f "$OUT" ]; then node -e 'const s=JSON.parse(require("fs").readFileSync(process.argv[1]));console.log("- errors: "+JSON.stringify(s.errors??{}))' "$OUT"; fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: signals 브랜치 커밋
+        if: inputs.dry != '1'
+        shell: bash
+        run: |
+          if ! grep -q ' news=' "$RUNNER_TEMP/summary.txt"; then
+            echo "건너뜀 — 커밋 없음: $(head -1 "$RUNNER_TEMP/summary.txt")"
+            exit 0
+          fi
+          MSG="$(head -1 "$RUNNER_TEMP/summary.txt" | sed -E 's/\([0-9]+\)//g; s/ \(기존.*//')"
+          git config user.name calintzy
+          git config user.email byjrasid@gmail.com
+          bash scripts/signals-push.sh "$OUT" "$STEM" "$MSG"

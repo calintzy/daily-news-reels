@@ -1,0 +1,269 @@
+{
+ "fixturesRoot": ".",
+ "cases": [
+  {
+   "name": "real-all-ok",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "ok"
+    },
+    "counts": {
+     "news": 27,
+     "trends": 10,
+     "nate": 20
+    }
+   }
+  },
+  {
+   "name": "news-empty-fail",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "override": {
+    "gn.xml": "empty.xml"
+   },
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "fail",
+     "trends": "ok",
+     "nate": "ok"
+    },
+    "counts": {
+     "news": 0
+    }
+   }
+  },
+  {
+   "name": "trends-empty-fail",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "override": {
+    "tr.xml": "tr-empty.xml"
+   },
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "fail",
+     "nate": "ok"
+    },
+    "counts": {
+     "trends": 0
+    }
+   }
+  },
+  {
+   "name": "nate-mojibake-fail",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "override": {
+    "nate.html": "nate-mojibake.html"
+   },
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "fail"
+    },
+    "counts": {
+     "nate": 0
+    }
+   }
+  },
+  {
+   "name": "stale-item-dropped",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "override": {
+    "gn.xml": "gn-stale.xml"
+   },
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "ok"
+    },
+    "counts": {
+     "news": 26
+    },
+    "titlesExclude": [
+     "북, 국경화 작업 중 군사분계선 넘어와 지뢰 묻었다면 영토침범 논란"
+    ]
+   }
+  },
+  {
+   "name": "after-cutoff-skip",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T07:00:00+09:00",
+   "dir": "real",
+   "expect": {
+    "action": "skip"
+   }
+  },
+  {
+   "name": "before-cutoff-runs",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T06:59:59+09:00",
+   "dir": "real",
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "ok"
+    }
+   }
+  },
+  {
+   "name": "pm-after-cutoff-skip",
+   "stem": "2026-09-30-pm",
+   "now": "2026-09-30T17:10:00+09:00",
+   "dir": "real",
+   "expect": {
+    "action": "skip"
+   }
+  },
+  {
+   "name": "data-exists-skip",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "root": "root-with-data",
+   "expect": {
+    "action": "skip"
+   }
+  },
+  {
+   "name": "keep-better-existing",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "override": {
+    "nate.html": "nate-mojibake.html"
+   },
+   "existing": "existing-better.json",
+   "expect": {
+    "action": "keep",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "fail"
+    }
+   }
+  },
+  {
+   "name": "overwrite-on-tie",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "override": {
+    "nate.html": "nate-mojibake.html"
+   },
+   "existing": "existing-2ok.json",
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "fail"
+    }
+   }
+  },
+  {
+   "name": "overwrite-on-better",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "existing": "existing-worse.json",
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "ok"
+    }
+   }
+  },
+  {
+   "name": "pubdate-kst-format",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "ok"
+    },
+    "pubDateKst": true
+   }
+  },
+  {
+   "name": "window-boundary-am",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "override": {
+    "gn.xml": "gn-boundary.xml"
+   },
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "ok"
+    },
+    "counts": {
+     "news": 8
+    },
+    "titlesInclude": [
+     "am경계정각",
+     "pm경계1초전"
+    ],
+    "titlesExclude": [
+     "am경계1초전"
+    ]
+   }
+  },
+  {
+   "name": "window-boundary-pm",
+   "stem": "2026-09-30-pm",
+   "now": "2026-09-30T11:37:00+09:00",
+   "dir": "real",
+   "override": {
+    "gn.xml": "gn-boundary.xml"
+   },
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "ok"
+    },
+    "counts": {
+     "news": 6
+    },
+    "titlesInclude": [
+     "pm경계정각"
+    ],
+    "titlesExclude": [
+     "pm경계1초전",
+     "am경계정각"
+    ]
+   }
+  }
+ ]
+}

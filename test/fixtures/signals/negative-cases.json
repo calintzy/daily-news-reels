@@ -1,0 +1,49 @@
+{
+ "fixturesRoot": ".",
+ "cases": [
+  {
+   "name": "neg-real-expects-nate-fail",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "expect": {
+    "action": "write",
+    "sources": {
+     "news": "ok",
+     "trends": "ok",
+     "nate": "fail"
+    }
+   }
+  },
+  {
+   "name": "neg-mojibake-expects-ok",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "override": {
+    "nate.html": "nate-mojibake.html"
+   },
+   "expect": {
+    "action": "write",
+    "sources": {
+     "nate": "ok"
+    }
+   }
+  },
+  {
+   "name": "neg-boundary-expects-before-kept",
+   "stem": "2026-09-30-am",
+   "now": "2026-09-30T04:12:00+09:00",
+   "dir": "real",
+   "override": {
+    "gn.xml": "gn-boundary.xml"
+   },
+   "expect": {
+    "action": "write",
+    "titlesInclude": [
+     "am경계1초전"
+    ]
+   }
+  }
+ ]
+}

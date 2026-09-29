@@ -1,0 +1,1833 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+    	<head>
+	<meta name="google-site-verification" content="0j2FtyOhSMPTuQTUR5RA87AdwZ53VEe_ULUkay3WnB8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="Refresh" content="300" />				 
+	
+	<title>랭킹뉴스 : 네이트 뉴스</title>
+	<link rel="canonical" href="https://news.nate.com/rank/?mid=n1000" /> 
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.news.nate.com/rank/list?mid=m2001" /> 
+	<link rel="shortcut icon" href="//news.nate.com/icon/favicon.ico" />
+	<link rel="apple-touch-icon-precomposed" href="//nimg.nate.com/ui/uidev/images/mnews/common/nate_news_114.png" />
+    <link rel="stylesheet" type="text/css" href="//nimg.nate.com/ui/uidev/pc/release/css/pcsnb.css?202609141037" />
+    <link rel="stylesheet" type="text/css" href="//nimg.nate.com/ui/uidev/pc/release/css/sisa/snb.css?202609141037" />
+    <link rel="stylesheet" type="text/css" href="//nimg.nate.com/ui/uidev/pc/release/css/sisa/news_common.css?202609141037" />
+    <link rel="stylesheet" type="text/css" href="//nimg.nate.com/ui/uidev/pc/release/css/sisa/section_news.css?202609141037" />        	<script type="text/javascript" src="//news.nate.com/js/common.js?202609092025"></script>	<script type="text/javascript" src="//news.nate.com/js/stat.js?202609092025" charset="euc-kr"></script>	<script type="text/javascript" src="//news.nate.com/js/jquery-3.7.1.min.js"></script>
+	<script type="text/javascript" src="//news.nate.com/etc/mobileAgentJs"></script>
+<script type="text/javascript">
+//<![CDATA[
+	try {
+		if ( isMobileAgent()  && checkHold() != true ) {
+			setNewsRedirectRef();
+			self.location.replace('//m.news.nate.com/rank/list?mid=m2001');
+		}
+	} catch(e) {}
+//]]>
+</script>
+	<script type="text/javascript" src="//common.nate.com/textGNB/commonTextGNBV1"></script>
+	<script type="text/javascript" src="//comm.news.nate.com/userJS?r=1363081539"></script>	<script type="text/javascript">
+	//<![CDATA[
+
+				// 좌우 여백 광고
+		function execAdScript() {
+			try {
+				var leftAd	= document.getElementById('ad_newsMarginCube_left');
+				if (leftAd) {
+					leftAd.innerHTML = '<iframe title="광고-IfrAdWing" marginWidth="0" marginHeight="0" src="//news.nate.com/etc/adLeftSpace?mid=n1001" frameBorder="0" width="120" height="600" scrolling="no"></iframe>';
+				}
+				var rightAd	= document.getElementById('ad_newsMarginCube_right');
+				if (rightAd) {
+					rightAd.innerHTML = '<iframe title="광고-IfrAdWing" marginWidth="0" marginHeight="0" src="//news.nate.com/etc/adRightSpace?mid=n1001" frameBorder="0" width="160" height="600" scrolling="no"></iframe>';
+				}
+			} catch(e) {}
+		}
+
+		function loadEvent2(func){
+			if (document.addEventListener) {
+				document.addEventListener("DOMContentLoaded", func,false);
+			} else {
+				document.attachEvent("onreadystatechange", func, false);
+			}
+		}
+
+		loadEvent2(execAdScript);
+
+		// 우측 날개배너 sticky
+        function initStickyWingAd() {
+            try {
+                var rightSpaceBanner = document.querySelector('#spaceBanner .rightSpaceBanner');
+                if (!rightSpaceBanner) return;
+    
+                var sponsorBar = document.getElementById('ad_sponsorBar');
+                var offsetTop = sponsorBar ? sponsorBar.getBoundingClientRect().top + window.pageYOffset : 0;
+                var isFixed = false;
+                var fixedLeft = 0;
+
+                function updateLeft() {
+                    fixedLeft = Math.floor((document.documentElement.clientWidth + 970) / 2) + 17;
+                    if (isFixed) rightSpaceBanner.style.left = fixedLeft + 'px';
+                }
+
+                function onScroll() {
+                    var scrollY = window.pageYOffset || document.documentElement.scrollTop;
+                    if (scrollY >= offsetTop - 16) {
+                        if (!isFixed) {
+                            updateLeft();
+                            rightSpaceBanner.style.position = 'fixed';
+                            rightSpaceBanner.style.top = '16px';
+                            rightSpaceBanner.style.left = fixedLeft + 'px';
+                            rightSpaceBanner.style.right = 'auto';
+                            rightSpaceBanner.style.marginLeft = '0';
+                            isFixed = true;
+                        }
+                    } else if (isFixed) {
+                        rightSpaceBanner.style.position = '';
+                        rightSpaceBanner.style.top = '';
+                        rightSpaceBanner.style.left = '';
+                        rightSpaceBanner.style.right = '';
+                        rightSpaceBanner.style.marginLeft = '';
+                        isFixed = false;
+                    }
+                }
+
+                if (window.addEventListener) {
+                    window.addEventListener('scroll', onScroll, false);
+                    window.addEventListener('resize', updateLeft, false);
+                } else {
+                    window.attachEvent('onscroll', onScroll);
+                    window.attachEvent('onresize', updateLeft);
+                }
+            } catch(e) {}
+        }
+        loadEvent2(initStickyWingAd);
+		
+		var agent = navigator.userAgent.toLowerCase();
+	    if ((navigator.appName === 'Netscape' && agent.indexOf('trident') !== -1) || (agent.indexOf("msie") !== -1)) {
+	        // ie일 경우
+	        var deleteHash = function(evt) {
+	            var isHash = document.title.split("#");
+	            if (isHash.length > 1) {
+	                document.title = isHash[0];  }
+	        };
+
+	        if (window.addEventListener) {
+	            window.addEventListener("load", deleteHash, false);
+	        } else {
+	            // ie하위버젼
+	            document.attachEvent('onpropertychange', deleteHash);
+	        }
+	    }
+	//]]>
+	</script>
+	
+	<script type="text/javascript" src="//news.nate.com/js/cross-origin-message.min.js?v=202609092025"></script>
+<script type="text/javascript">
+//<!CDATA[
+	jQuery(document).ready(function() {
+		// CrossOrigin 초기 세팅
+		crsMsg.init({
+			path: [
+				  "*.nate.com", // nate.com 관련
+				  "*.news.nate.com", // news.nate.com 관련
+				  "*.comm.news.nate.com", // news.nate.com 관련
+				  "*.sports.news.nate.com", // news.nate.com 관련
+				  "*.googlesyndication.com", // 광고 관련
+				  "*.googletagservices.com", // 광고 관련
+				  "*.g.doubleclick.net", // 광고 관련
+				  "*.googlevideo.com", // 광고 관련
+				  "*.google.com", // 광고 관련
+				  "*.googleapis.com", // 광고 관련
+				  "*.equativ.com", // 애드매니저 오픈비딩 파트너(선택사항)
+				  "*.fluct.jp", // 애드매니저 오픈비딩 파트너(선택사항)
+				  "*.inmobi.com", // 애드매니저 오픈비딩 파트너(선택사항)
+				  "*.onetag-sys.com", // 애드매니저 오픈비딩 파트너(선택사항)
+				  "*.pubmatic.com", // 애드매니저 오픈비딩 파트너(선택사항)
+				  "*.triplelift.com", // 애드매니저 오픈비딩 파트너(선택사항)
+				  "*.securepubads.g.doubleclick.net", // 광고 관련 추가
+				  "*.safeframe.google.com", // 광고 관련 추가
+				  "*.safeframe.googlesyndication.com", // 광고 관련 추가
+				  "*.2mdn.net", // 광고 관련 추가
+				  "*.gliastudios.com", // 광고 관련 추가
+				  "*.trvdp.com", // 광고 관련 추가
+				  "*.doubleverify.com", // 광고 관련 추가
+				  "*.moatads.com", // 광고 관련 추가
+				  "*.adsafeprotected.com", // 광고 관련 추가
+				  "*.gstatic.com", // 광고 관련 추가
+				  "*.smartadserver.com" // 광고 관련 추가
+			],
+			type: 'parent',
+			func: null
+		});
+	});
+
+	function callFnct (parmas) { 
+
+		var target = (typeof parmas.target === 'undefined') ? '' : parmas.target;
+
+		if(target == 'sns_count') { // params 규격 {target: '실행구분', elementId: 'snsCmtCnt', dataJson: 'json 형태 입력 데이터'}
+		// 기사 상단의 댓글count
+			
+			var dataJson = (typeof parmas.dataJson === 'undefined') ? '' : parmas.dataJson;
+			var elementId = (typeof parmas.elementId === 'undefined') ? '' : parmas.elementId;
+
+			if(dataJson != '' && elementId != ''){
+				
+				var _element = document.querySelector(elementId);
+				if(_element){
+					_element.value = dataJson;
+				}
+			}
+		} else if (target == 'move_url') { // params 규격 {target: '실행구분', url: '이동 페이지 주소'}
+		// 페이지 이동
+		
+			var url = (typeof parmas.url === 'undefined') ? '' : parmas.url;
+			
+			if(url != ''){
+				location.href=url;
+			}
+		} else if (target == 'move_login') { // params 규격 {target: '실행구분', url: '이동 페이지 주소', params: '로그인 파라미터'}
+		// 로그인 페이지 이동
+
+			var url = (typeof parmas.url === 'undefined') ? '' : parmas.url;
+			var params = (typeof parmas.params === 'undefined') ? '' : parmas.params;
+			
+			if(url != ''){
+				location.href=url+encodeURIComponent(document.location.href)+params;
+			}
+		} else if (target == 'youtube_resize_iframe') { // params 규격 {target: '실행구분', elementClass: 'dom.php에서 youtube를 iframe으로 감싼 클래스명', height: '높이값', idx: 'youtube iframe 순번'}
+		// 기사 내 youtube 플레이 셋팅
+
+			var elementClass = (typeof parmas.elementClass === 'undefined') ? '' : parmas.elementClass;
+			var height = (typeof parmas.height === 'undefined') ? '' : parmas.height;
+			var idx = (typeof parmas.idx === 'undefined') ? '' : parseInt(parmas.idx);
+			
+			if(elementId != '' && height != ''){
+
+				var _elementClassAll = document.querySelectorAll(elementClass);
+				if(_elementClassAll){			
+					if(typeof _elementClassAll[idx] !== 'undefined'){
+						_elementClassAll[idx].style.height = height +'px';
+					}
+				}
+			}
+		} else if (target == 'move_scroll') { // params 규격 {target: '실행구분', x_pos: 0, y_pos: 0}
+		// 페이지 스크롤 이동
+		
+			var x_pos = (typeof parmas.x_pos === 'undefined') ? '' : parseInt(parmas.x_pos);
+			var y_pos = (typeof parmas.y_pos === 'undefined') ? '' : parseInt(parmas.y_pos);
+
+			if (!isNaN(x_pos) && !isNaN(y_pos)) {
+				window.scroll(x_pos, y_pos);
+			}
+		} else if (target == 'move_realname') { // params 규격 {target: '실행구분', check_url: '실명인증 url'}
+			// 실명 인증 이동
+				var check_url = (typeof parmas.check_url === 'undefined') ? '' : parmas.check_url;
+
+				if(check_url != ''){
+
+					var thisdomain = document.domain;
+					if ( document.domain == 'nate.com' ) {
+						thisdomain = document.location.href;
+					}
+					thisdomain = thisdomain.replace(/^https:\/\//, '');
+					thisdomain = thisdomain.replace(/\/.*/g, '');
+					
+					var e_url = 'https://' + thisdomain + '/etc/realNameBridge';
+					var r_url = document.location.href;
+					
+					var r_url = document.location.href;
+					check_url += '?e_url=' + encodeURIComponent(e_url);
+					check_url += '&r_url=' + encodeURIComponent(r_url);
+					
+					var check_win = OpenPopup(check_url, 475, 757, 'check_win');					
+				}			
+		} else if (target == 'move_realname_social') { // params 규격 {target: '실행구분', check_url: '실명인증 url'}
+			var check_url = (typeof parmas.check_url === 'undefined') ? '' : parmas.check_url;
+
+			if(check_url != ''){
+				var n_url = document.location.href;
+				check_url += encodeURIComponent(n_url);
+
+				window.parent.location.href = check_url;
+			}
+
+		} 
+	} 
+		
+	function callBackFnct (parmas) {
+
+		var target = (typeof parmas.target === 'undefined') ? '' : parmas.target;
+		var elementId = (typeof parmas.elementId === 'undefined') ? '' : parmas.elementId;
+		var iframeId = (typeof parmas.iframeId === 'undefined') ? '' : parmas.iframeId;
+		var callBackFncName = (typeof parmas.callBackFncName === 'undefined') ? '' : parmas.callBackFncName;
+			
+		if(target == 'get_value_ctgr_cd') {
+		// 기사 내 ctgr_cd 셋팅
+		
+			jQuery(document).ready(function() {
+				if (typeof sCtgr_cd != 'undefined') {
+					crsMsg.fnct(callBackFncName, {target: 'get_value_ctgr_cd', value: sCtgr_cd}, iframeId);
+				}
+			});
+		} else if(target == 'get_element_value_p_url') {
+		// 기사 내 p_url 셋팅
+			
+			jQuery(document).ready(function() {
+				crsMsg.fnct(callBackFncName, {target: 'get_element_value_p_url', elementId: elementId, value: location.href}, iframeId);
+			});
+		}
+	}
+	
+	// 뉴스 페이지의 광고 통합 처리 함수
+	// 넘어온 광고 target 코드값으로 분기 처리한다. height은 자식 iframe의 도큐먼트 높이 값
+	function callCrossOriginAd (parmas) {
+
+		var target = (typeof parmas.target === 'undefined') ? '' : parmas.target;
+		var height = (typeof parmas.height === 'undefined') ? '' : parmas.height;
+
+		if(target == 'ad02IFrame' && height != '') {
+			// ad02IFrame 광고 리사이징
+			resizeIfr2({el: '#ad02IFrame', height: height});
+		}				
+	}
+
+//]]>
+</script>	
+    	
+
+
+
+
+<!-- SEO Meta Tag -->
+<meta name="description" content="한눈에 보는 오늘 : 랭킹뉴스 | 2살 딸에게 소주·불닭소스 먹였다…학대 끝에 결국 사망. 종합, 정치, 경제, 사회, 세계, IT/과학 등 최신 뉴스와 랭킹별 뉴스 제공" />
+
+<!-- Open Graph Meta Tag -->
+<meta property="og:url" content="https://news.nate.com/rank/?mid=n1000" />
+<meta property="og:title" content="랭킹뉴스 : 네이트 뉴스" />
+<meta property="og:description" content="한눈에 보는 오늘 : 랭킹뉴스 | 2살 딸에게 소주·불닭소스 먹였다…학대 끝에 결국 사망. 종합, 정치, 경제, 사회, 세계, IT/과학 등 최신 뉴스와 랭킹별 뉴스 제공" />
+<meta property="og:image" content="https://nimg.nate.com/ui/uidev/images/common/sns-og-fb-logo2.gif" />
+<meta property="og:site_name" content="네이트 뉴스" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="ko_KR" />
+
+<!-- 네이트온 쪽지플러그인 Meta Tag-->
+<meta name="nate:url" content="https://news.nate.com/rank/?mid=n1000" />
+<meta name="nate:title" content="랭킹뉴스 : 네이트 뉴스" />
+<meta name="nate:description" content="한눈에 보는 오늘 : 랭킹뉴스 | 2살 딸에게 소주·불닭소스 먹였다…학대 끝에 결국 사망. 종합, 정치, 경제, 사회, 세계, IT/과학 등 최신 뉴스와 랭킹별 뉴스 제공" />
+<meta name="nate:image" content="https://nimg.nate.com/ui/uidev/images/common/sns-og-fb-logo2.gif" />
+<meta name="nate:site_name" content="네이트 뉴스" />
+	
+<!-- Twitter Meta Tag -->
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- 네이트썰 Meta Tag -->
+<meta name="ssul:category" content="" />	<script type="text/javascript" src="//news.nate.com/Rank/RankJS"></script>
+	<script type="text/javascript" src="//news.nate.com/js/rank.js?N_202609092025"></script>
+    <script type="text/javascript">
+	//<![CDATA[
+	function goDate(date) {
+		document.location.href = "//news.nate.com/rank/interest?sc=all&p=day&date="+date;
+	}
+
+	function toggleSubLayer(divLayer){
+		var openLayer = divLayer;
+		var closeLayer = ( divLayer == "selectCategory" ) ? "selectDay" : "selectCategory";
+		var targetLayer = document.getElementById(divLayer);
+		if ( targetLayer.style.display == "" ){
+			targetLayer.style.display = "none";
+		} else {
+			if ( document.getElementById(closeLayer) ) {
+				document.getElementById(closeLayer).style.display = "none";
+			}
+			targetLayer.style.display = "";
+		}
+	}
+	//]]>
+	</script>
+	    
+		<script language="javascript" src="//cyad1.nate.com/js.kti/nate/pcnews@anch_x15"></script>	</head>	<body >
+<!-- mediaWraper -->
+<div id="mediaWraper" class="section_news">
+	<!--head-->
+		<div id="header" role="banner" class="">
+		<!-- gnb -->
+<div class="svcWrap">
+	<div class="gnbWrap">
+		<div class="gnb_logo">
+						<a href="//www.nate.com/?f=news" class="natebi" onclick="ndrclick('RIQ05');">NATE</a>
+			<a href="//news.nate.com/" class="svcname" onclick="ndrclick('RIQ06');">뉴스</a>					</div>
+		<ul class="relsvc">
+			<li class="svc-special"><a href="//sports.news.nate.com/hissue/groupList?mid=s0606&amp;isq=11519" onclick="ndrclick('NAG01');">아이치·나고야 뉴스페이지</a></li>
+						<li class="svc1"><a href="//sports.news.nate.com/" onclick="ndrclick('RIQ07');">스포츠</a></li>			<li class="svc2"><a href="//news.nate.com/ent/section?mid=e0100" onclick="ndrclick('RIQ08');">연예</a></li>			<li class="svc3"><a href="//pann.nate.com" onclick="ndrclick('RIQ09');">판</a></li>
+			<li class="svc4"><a href="//news.nate.com/weather" onclick="ndrclick('RIQ10');">날씨</a></li>		</ul>
+
+		<!-- textGNB -->
+		<script type="text/javascript">
+			try {
+				var NateGNB = new classNateGNB('contentsWraper');
+			} catch(e) {}
+
+						function searchGo() {
+				ndrclick('RIC01'); // 통계
+
+				var searchFrm = document.search; // 검색 submit
+				searchFrm.action = '//news.nate.com/search';
+				searchFrm.submit();
+			}
+
+					</script>
+		<noscript>
+			<div id="noscript_gnb">
+				<div>
+					<a href="//www.nate.com/?f=news" title="네이트 메인으로">네이트 메인으로</a> <span>|</span>
+                	<a href="//www.nate.com/sitemap/" title="사이트맵">사이트맵</a>
+				</div>
+			</div>
+		</noscript>
+
+		<!-- search -->
+		<div id="searchWrap" data-set="search">
+			<form id="search" class="srchform" accept-charset="utf-8" name="search" target="_top" method="get">
+				<fieldset>
+					<legend>검색영역</legend>
+					<input type="search" id="input_search" name="q" class="searchBox" title="검색어 입력" value="" tabl="1" />
+					<button type="submit" id="acBtn" class="searchBtn" onclick="searchGo();return false;"><span class="hide">검색</span></button>
+				</fieldset>
+			</form>
+		</div>	</div>
+</div>   		<div class="navWrap">
+	<div class="snbArea" role="navigation">
+		<ul>
+			<!-- 현제 페이지에 해당하는 경우 current="page" 추가 -->
+			<li ><a onclick="ndrclick('SNB02');" href="//news.nate.com" >홈</a></li> 
+			<li ><a onclick="ndrclick('RIG01');" href="//news.nate.com/recent?mid=n0100" >최신뉴스</a></li> 
+			<li ><a onclick="ndrclick('RIG12');" href="//news.nate.com/section?mid=n0200" >정치</a></li> 
+			<li ><a onclick="ndrclick('RIG22');" href="//news.nate.com/section?mid=n0300" >경제</a></li> 
+			<li ><a onclick="ndrclick('RIG33');" href="//news.nate.com/section?mid=n0400" >사회</a></li> 
+			<li ><a onclick="ndrclick('RIG47');" href="//news.nate.com/section?mid=n0500" >세계</a></li> 
+			<li ><a onclick="ndrclick('RIG57');" href="//news.nate.com/section?mid=n0600" >IT/과학</a></li> 
+			<li ><a onclick="ndrclick('RIG67');" href="//news.nate.com/column" >칼럼</a></li> 
+			<li ><a onclick="ndrclick('RIG74');" href="//news.nate.com/photo" >포토</a></li> 
+			<li ><a onclick="ndrclick('RIG85');" href="//news.nate.com/tv?mid=n0900" >TV</a></li> 
+			<li ><a onclick="ndrclick('RIR00');" href="//news.nate.com/radio/list" >라디오</a></li> 
+			<li class="on"><a onclick="ndrclick('RIR00');" href="//news.nate.com/rank/?mid=n1000" aria-current="page">랭킹뉴스</a></li> 
+			<li ><a onclick="ndrclick('RIR08');" href="//news.nate.com/comment?mid=n1500" >투데이댓글</a></li> 
+		</ul>						
+			
+			<!-- SNB 배너 -->
+			<div class="svcLink">
+						</div>
+			<!-- //SNB 배너 -->
+				
+	</div>
+	</div>   		<!-- spaceBanner -->
+		<div id="spaceBanner">
+			<div class="leftSpaceBanner">
+				<div id="ad_newsMarginCube_left"></div>
+			</div>
+			<div class="rightSpaceBanner">
+								<div id="ad_newsMarginCube_right">
+				</div>
+							</div>
+		</div> <!-- // spaceBanner -->
+	</div> <!--head-->
+	<!-- apple ad. -->
+						<!-- 2022-03-06 프리미엄 브랜드 바 광고 : S -->
+		<div id="ad_sponsorBar">
+			<div id="adDiv">
+				<iframe id="ad02IFrame" name="ad02IFrame" src="//news.nate.com/etc/adSponsorbar?mid=n1001" frameborder="0" scrolling="no" width="970" height="0" title="스폰서바" importance="high"></iframe>
+			</div>
+			<div id="ad_sponsorObj"></div>
+			<div id="ad_sponsorBar_extend"></div>
+		</div>
+		<!-- //2022-03-06 프리미엄 브랜드 바 광고 : E -->
+			
+	<!-- Third Menu -->
+	   			<div id="mediaSubnav" class="f_clear">
+		<!-- 뉴스홈 > 랭킹뉴스 -->
+		<div class="newsRanking section_title"><a href="//news.nate.com/rank/?mid=n1000" style="cursor:hand;" onclick="ndrclick('RIR01');">랭킹뉴스</a></div>
+		<ul class="mediaSubnavList">
+			<li class="first"><a href="//news.nate.com/rank/interest" class="selected" onclick="ndrclick('RIR02');">관심뉴스</a></li>
+			<li><a href="//news.nate.com/rank/pop"  onclick="ndrclick('RIR03');">조회순</a></li>
+			<li><a href="//news.nate.com/rank/cmt"  onclick="ndrclick('RIR04');">댓글순</a></li>
+			<li><a href="//news.nate.com/rank/updown"  onclick="ndrclick('RIR06');">올려/내려순</a></li>
+			<li><a href="//news.nate.com/rank/emoticon"  onclick="ndrclick('RIR13');">공감순</a></li>
+		</ul>
+	</div>	
+	<script type="text/javascript">
+	//<![CDATA[
+		// 프리미엄 브랜드 바 광고 관련
+					try{ document.getElementById('mediaSubnav').className='f_clear adSubnav'; } catch(e) {}
+			//]]>
+	</script>
+		<hr class="layout" />
+
+	<!-- contentsWraper -->
+	<div id="contentsWraper" class="f_clear" style="">
+				<div id="newsContents">
+			<div class="postRankNews">
+				<!-- 타이틀 영역 -->
+				<div class="listTitleArea">
+					<div class="news_date">
+												<a href="/rank/interest?sc=all&amp;p=day&amp;date=20260928" class="left_arrow on" onclick="ndrclick('RRT31');"><span>이전</span></a>
+                        <span>
+							<img src="//nimg.nate.com/ui/uidev/images/icon/year_2026.gif" alt="2026년" /><img src="//nimg.nate.com/ui/uidev/images/icon/month_09.gif" alt="09월" /><img src="//nimg.nate.com/ui/uidev/images/icon/day_29.gif" alt="29일" />                        </span>
+
+													<span class="right_arrow" onclick="ndrclick('RRT31');"><span>다음</span></span>
+												
+						<a href="/rank/interest?sc=all&amp;p=day&amp;date=20260929" class="btn_today" onclick="ndrclick('RRT32');">오늘</a>
+
+						<div class="sortDat">
+														<strong>일간</strong>
+							<!-- selecteDesign -->
+							<div class="selectDesign width103">
+								<div class="select_box"><a id="selectClick" href="#selectDesign" onclick="toggleSubLayer('selectDay');">바로가기</a></div>
+								<ul id="selectDay" style="display:none;">
+									 
+									<li><a href="javascript:goDate(20260929);"  onclick="ndrclick('RNK03');">2026-09-29</a></li>
+									 
+									<li><a href="javascript:goDate(20260928);"  onclick="ndrclick('RNK03');">2026-09-28</a></li>
+									 
+									<li><a href="javascript:goDate(20260927);"  onclick="ndrclick('RNK03');">2026-09-27</a></li>
+									 
+									<li><a href="javascript:goDate(20260926);"  onclick="ndrclick('RNK03');">2026-09-26</a></li>
+									 
+									<li><a href="javascript:goDate(20260925);"  onclick="ndrclick('RNK03');">2026-09-25</a></li>
+									 
+									<li><a href="javascript:goDate(20260924);"  onclick="ndrclick('RNK03');">2026-09-24</a></li>
+									 
+									<li><a href="javascript:goDate(20260923);"  onclick="ndrclick('RNK03');">2026-09-23</a></li>
+									 
+									<li><a href="javascript:goDate(20260922);"  onclick="ndrclick('RNK03');">2026-09-22</a></li>
+									 
+									<li><a href="javascript:goDate(20260921);"  onclick="ndrclick('RNK03');">2026-09-21</a></li>
+									 
+									<li><a href="javascript:goDate(20260920);"  onclick="ndrclick('RNK03');">2026-09-20</a></li>
+									 
+									<li><a href="javascript:goDate(20260919);"  onclick="ndrclick('RNK03');">2026-09-19</a></li>
+									 
+									<li><a href="javascript:goDate(20260918);"  onclick="ndrclick('RNK03');">2026-09-18</a></li>
+									 
+									<li><a href="javascript:goDate(20260917);"  onclick="ndrclick('RNK03');">2026-09-17</a></li>
+									 
+									<li><a href="javascript:goDate(20260916);"  onclick="ndrclick('RNK03');">2026-09-16</a></li>
+									 
+									<li><a href="javascript:goDate(20260915);"  onclick="ndrclick('RNK03');">2026-09-15</a></li>
+									 
+									<li><a href="javascript:goDate(20260914);"  onclick="ndrclick('RNK03');">2026-09-14</a></li>
+									 
+									<li><a href="javascript:goDate(20260913);"  onclick="ndrclick('RNK03');">2026-09-13</a></li>
+									 
+									<li><a href="javascript:goDate(20260912);"  onclick="ndrclick('RNK03');">2026-09-12</a></li>
+									 
+									<li><a href="javascript:goDate(20260911);"  onclick="ndrclick('RNK03');">2026-09-11</a></li>
+									 
+									<li><a href="javascript:goDate(20260910);"  onclick="ndrclick('RNK03');">2026-09-10</a></li>
+									 
+									<li><a href="javascript:goDate(20260909);"  onclick="ndrclick('RNK03');">2026-09-09</a></li>
+									 
+									<li><a href="javascript:goDate(20260908);"  onclick="ndrclick('RNK03');">2026-09-08</a></li>
+									 
+									<li><a href="javascript:goDate(20260907);"  onclick="ndrclick('RNK03');">2026-09-07</a></li>
+									 
+									<li><a href="javascript:goDate(20260906);"  onclick="ndrclick('RNK03');">2026-09-06</a></li>
+									 
+									<li><a href="javascript:goDate(20260905);"  onclick="ndrclick('RNK03');">2026-09-05</a></li>
+									 
+									<li><a href="javascript:goDate(20260904);"  onclick="ndrclick('RNK03');">2026-09-04</a></li>
+									 
+									<li><a href="javascript:goDate(20260903);"  onclick="ndrclick('RNK03');">2026-09-03</a></li>
+									 
+									<li><a href="javascript:goDate(20260902);"  onclick="ndrclick('RNK03');">2026-09-02</a></li>
+									 
+									<li><a href="javascript:goDate(20260901);"  onclick="ndrclick('RNK03');">2026-09-01</a></li>
+									 
+									<li><a href="javascript:goDate(20260831);"  onclick="ndrclick('RNK03');">2026-08-31</a></li>
+									 
+									<li><a href="javascript:goDate(20260830);" class="last" onclick="ndrclick('RNK03');">2026-08-30</a></li>
+																	</ul>
+							</div><!-- //selecteDesign -->
+							<a href="/rank/interest?sc=all&amp;p=week" class="week" onclick="ndrclick('RNK04');">주간</a>
+													</div>					</div>
+
+										<ul class="rn_list">
+												<li class="on"><h1><a href="/rank/interest?sc=all&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">종합</a></h1></li>
+												<li ><a href="/rank/interest?sc=sisa&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">시사</a></li>
+												<li ><a href="/rank/interest?sc=spo&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">스포츠</a></li>
+												<li ><a href="/rank/interest?sc=ent&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">연예</a></li>
+												<li ><a href="/rank/interest?sc=pol&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">정치</a></li>
+												<li ><a href="/rank/interest?sc=eco&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">경제</a></li>
+												<li ><a href="/rank/interest?sc=soc&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">사회</a></li>
+												<li ><a href="/rank/interest?sc=int&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">세계</a></li>
+												<li ><a href="/rank/interest?sc=its&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">IT/과학</a></li>
+												<li ><a href="/rank/interest?sc=pho&amp;p=day&amp;date=20260929" onclick="ndrclick('RRT33');">포토</a></li>
+											</ul>				</div><!-- //타이틀 영역 -->
+
+					
+		
+					<!-- 랭킹 리스트형 : 제목 + 내용 -->
+			<div class="postRankSubjectList f_clear">
+	<!-- mduSubjectList -->
+				<div class="mduSubjectList f_clear">
+		<!-- mduRank rank1-5 -->
+			<dl class="mduRank rank1">
+				<dt><em>1</em></dt>
+									<dd><span class="noupdown">-<i>순위변동없음</i></span></dd>
+							</dl>
+			<!-- //mduRank rank1-5 -->
+			<div class="mlt01">
+				<a href="//news.nate.com/view/20260929n21906?mid=n1006" class="lt1" onclick="ndrclick('');">
+					<span class="ib">
+						<em class="mediatype">
+															<img src="//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2026/09/29/202221724_700.jpg" onerror="blankImg(this,0,0)" width="70" alt="" />													</em>
+					</span>					<span class="tb">
+						<h2 class="tit">2살 딸에게 소주·불닭소스 먹였다…학대 끝에 결국 사망</h2>
+						검찰이 2살배기 딸을 학대해 숨지게 한 혐의로 기소된 30대 부부에게 중형을 구형했습니다.&#10;&#10;검찰은 오늘(29일) 대전지법 제11형사부(박우근 부장판사...					</span>
+				</a>
+				<span class="medium">SBS<em>2026-09-29</em></span>
+			</div>
+		</div><!-- //mduSubjectList -->
+					<div class="mduSubjectList f_clear">
+		<!-- mduRank rank1-5 -->
+			<dl class="mduRank rank2">
+				<dt><em>2</em></dt>
+									<dd><span class="noupdown">-<i>순위변동없음</i></span></dd>
+							</dl>
+			<!-- //mduRank rank1-5 -->
+			<div class="mlt01">
+				<a href="//news.nate.com/view/20260929n28130?mid=n1007" class="lt1" onclick="ndrclick('');">
+					<span class="ib">
+						<em class="mediatype">
+															<img src="//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/pt/2026/09/29/202609291552770772_6abb67be711cf.jpg" onerror="blankImg(this,0,0)" height="70" alt="" />													</em>
+					</span>					<span class="tb">
+						<h2 class="tit">[속보] 56승1패! 안세영, '전무후무' AG 2연속 금메달…'21-9' 日 ...</h2>
+						[OSEN=고성환 기자] 또 하나의 배드민턴 역사가 탄생했다. '셔틀콕 여제' 안세영(24, 삼성생명)이 최초의 아시안게임 여자 단식 2연패라는 대업을 이뤘다.안세...					</span>
+				</a>
+				<span class="medium">OSEN<em>2026-09-29</em></span>
+			</div>
+		</div><!-- //mduSubjectList -->
+					<div class="mduSubjectList f_clear">
+		<!-- mduRank rank1-5 -->
+			<dl class="mduRank rank3">
+				<dt><em>3</em></dt>
+									<dd><span class="up">상승</span><span><em>2</em></span></dd>
+							</dl>
+			<!-- //mduRank rank1-5 -->
+			<div class="mlt01">
+				<a href="//news.nate.com/view/20260929n29959?mid=n1006" class="lt1" onclick="ndrclick('');">
+					<span class="ib">
+						<em class="mediatype">
+															<img src="//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2026/09/29/202609291641328416_l.jpg" onerror="blankImg(this,0,0)" width="70" alt="" />													</em>
+					</span>					<span class="tb">
+						<h2 class="tit">탈북 유튜버 한송이 &quot;'암살자(들)', 북한 선전 영화 떠올랐다&quot;</h2>
+						사진=탈북녀 한송이 유튜브 캡처 [파이낸셜뉴스] 육영수 여사 피격 사건을 소재로 한 영화 '암살자(들)'을 둘러싼 역사 왜곡 논란이 이어지는 가운데 탈북민 ...					</span>
+				</a>
+				<span class="medium">파이낸셜뉴스<em>2026-09-29</em></span>
+			</div>
+		</div><!-- //mduSubjectList -->
+					<div class="mduSubjectList f_clear">
+		<!-- mduRank rank1-5 -->
+			<dl class="mduRank rank4">
+				<dt><em>4</em></dt>
+									<dd><span class="down">하락</span><span><em>1</em></span></dd>
+							</dl>
+			<!-- //mduRank rank1-5 -->
+			<div class="mlt01">
+				<a href="//news.nate.com/view/20260929n15962?mid=n1008" class="lt1" onclick="ndrclick('');">
+					<span class="ib">
+						<em class="mediatype">
+															<img src="//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/my/2026/09/29/2026092523192498475_l.jpg" onerror="blankImg(this,0,0)" width="70" alt="" />													</em>
+					</span>					<span class="tb">
+						<h2 class="tit">김다현에 막말 심수봉, 여론 뒤집히나?…'혼날만했다' 목소리 이어져 ...</h2>
+						김다현과 심수봉에 대해 끊임없는 논쟁이 이어지고 있다. / (왼쪽) SBS '더트롯쇼', (오른쪽) 진안고원 트로트 페스티벌[마이데일리 = 문지현 기자] 트로트 가...					</span>
+				</a>
+				<span class="medium">마이데일리<em>2026-09-29</em></span>
+			</div>
+		</div><!-- //mduSubjectList -->
+					<div class="mduSubjectList f_clear">
+		<!-- mduRank rank1-5 -->
+			<dl class="mduRank rank5">
+				<dt><em>5</em></dt>
+									<dd><span class="up">상승</span><span><em>1</em></span></dd>
+							</dl>
+			<!-- //mduRank rank1-5 -->
+			<div class="mlt01">
+				<a href="//news.nate.com/view/20260929n00114?mid=n1006" class="lt1" onclick="ndrclick('');">
+					<span class="ib">
+						<em class="mediatype">
+															<img src="//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2026/09/29/NISI20260928_0002249831_web.jpg" onerror="blankImg(this,0,0)" height="70" alt="" />													</em>
+					</span>					<span class="tb">
+						<h2 class="tit">&quot;청각장애 있어요&quot; 말에도…지하철서 울음 터뜨린 어머니의 사연</h2>
+						[서울=뉴시스] 지하철 교통약자석에 앉아 있던 장애 아동을 본 노인이 다 큰 아이를 왜 교통약자석에 앉히느냐며 고성을 질렀다는 사연이 전해졌다. (사진출처...					</span>
+				</a>
+				<span class="medium">뉴시스<em>2026-09-29</em></span>
+			</div>
+		</div><!-- //mduSubjectList -->
+		</div>			<!-- //랭킹 리스트형 : 제목 + 내용 -->
+			<!-- 랭킹 리스트형 : 제목 -->
+			<div class="postRankSubject" id="postRankSubject">
+	<!-- mduSubject -->
+	<ul class="mduSubject mduRankSubject">
+	 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank6">
+			<dt><em>6</em></dt>
+						<dd> <span class="down">하락</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n26667?mid=n1006" onclick="ndrclick('');"><h2>부산 북항 상어 '부캉이' 물줄기 쏴도 안 나가…구조작업 중단</h2></a>
+			<span class="medium">연합뉴스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank7">
+			<dt><em>7</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n37462?mid=n1008" onclick="ndrclick('');"><h2>한가인, 뒷광고 의혹에 2차 입장…&quot;구매내역 공개, 협찬 없다&quot; [MD이슈]</h2></a>
+			<span class="medium">마이데일리</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank8">
+			<dt><em>8</em></dt>
+						<dd> <span class="up">상승</span><span><em>1</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n35568?mid=n1006" onclick="ndrclick('');"><h2>&quot;내가 月 200만원 벌기도 힘들 줄은&quot;…60대 퇴직자 '눈물'</h2></a>
+			<span class="medium">한국경제</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank9">
+			<dt><em>9</em></dt>
+						<dd> <span class="down">하락</span><span><em>1</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n32414?mid=n1006" onclick="ndrclick('');"><h2>&quot;아침 9시 고객 많지 않다&quot; 은행 문 30분 늦게…출근도 늦춰질 듯</h2></a>
+			<span class="medium">머니투데이</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank10">
+			<dt><em>10</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n06780?mid=n1006" onclick="ndrclick('');"><h2>&quot;대통령 모시고 식사 중인데&quot;…송영길, 생방송 전화 끊어버린 이유는</h2></a>
+			<span class="medium">JTBC</span>
+		</li>
+					</ul><ul class="mduSubject mduRankSubject">			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank11">
+			<dt><em>11</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n16784?mid=n1008" onclick="ndrclick('');"><h2>이승기 장인·이다인 부친, 주가조작 혐의로 징역 3년 실형선고 '법정 구속...</h2></a>
+			<span class="medium">일간스포츠</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank12">
+			<dt><em>12</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n02467?mid=n1006" onclick="ndrclick('');"><h2>[제보는Y] &quot;살려고 도망쳐&quot;…숨진 청년 연구사의 마지막 육성</h2></a>
+			<span class="medium">YTN</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank13">
+			<dt><em>13</em></dt>
+						<dd> <span class="down">하락</span><span><em>1</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n35518?mid=n1007" onclick="ndrclick('');"><h2>[나고야 NOW] &quot;금메달 때보다 더 기뻐&quot;…박혜정이 웃은 이유, 마침내 '30...</h2></a>
+			<span class="medium">스포티비뉴스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank14">
+			<dt><em>14</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n04813?mid=n1006" onclick="ndrclick('');"><h2>영화 '암살자(들)' 논란에 박지원 &quot;'윤석열차'도 만화로 봤다&quot;</h2></a>
+			<span class="medium">세계일보</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank15">
+			<dt><em>15</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n09137?mid=n1006" onclick="ndrclick('');"><h2>국민 63.6% &quot;李 정부 부동산 정책 잘못&quot;…30대 부정평가 78.8% '최고'</h2></a>
+			<span class="medium">뉴스핌</span>
+		</li>
+					</ul><ul class="mduSubject mduRankSubject">			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank16">
+			<dt><em>16</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n00489?mid=n1006" onclick="ndrclick('');"><h2>李대통령 &quot;결혼하면 손해? 이젠 아니다…불합리한 대출 정책 바로잡아&quot;</h2></a>
+			<span class="medium">뉴스1</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank17">
+			<dt><em>17</em></dt>
+						<dd> <span class="up">상승</span><span><em>5</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n32609?mid=n1007" onclick="ndrclick('');"><h2>&quot;니가 사람 새끼냐?&quot; 설영우 결국 폭발했다! 우루과이전 비난→선넘은 부...</h2></a>
+			<span class="medium">스포탈코리아</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank18">
+			<dt><em>18</em></dt>
+						<dd> <span class="down">하락</span><span><em>1</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n15191?mid=n1006" onclick="ndrclick('');"><h2>[단독] 추미애 경기지사, 1년여 만에 자산 20억 늘어</h2></a>
+			<span class="medium">세계일보</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank19">
+			<dt><em>19</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n10315?mid=n1006" onclick="ndrclick('');"><h2>&quot;이빨 뽑아버린다&quot; 상담사에게 32차례 욕설…'VVIP' 오른 여성 민원인</h2></a>
+			<span class="medium">뉴스1</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank20">
+			<dt><em>20</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n10845?mid=n1006" onclick="ndrclick('');"><h2>李대통령, DMZ 지뢰사고에 &quot;신속·철저 조사…근거 없는 음모론 없어야&quot;</h2></a>
+			<span class="medium">뉴스1</span>
+		</li>
+					</ul><ul class="mduSubject mduRankSubject">			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank21">
+			<dt><em>21</em></dt>
+						<dd> <span class="up">상승</span><span><em>1</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n31187?mid=n1007" onclick="ndrclick('');"><h2>[포토] '이것이 세계최강 안세영의 무릎상태다'</h2></a>
+			<span class="medium">스타뉴스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank22">
+			<dt><em>22</em></dt>
+						<dd> <span class="up">상승</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n25274?mid=n1006" onclick="ndrclick('');"><h2>DMZ 폭발 현장에 최소 4발…그곳은 '북한 지뢰밭'이었다</h2></a>
+			<span class="medium">조선일보</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank23">
+			<dt><em>23</em></dt>
+						<dd> <span class="up">상승</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n01936?mid=n1006" onclick="ndrclick('');"><h2>[단독] &quot;삼전 레시피 훔쳐와&quot;…대놓고 협박한 창신메모리 CEO</h2></a>
+			<span class="medium">중앙일보</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank24">
+			<dt><em>24</em></dt>
+						<dd> <span class="up">상승</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n03485?mid=n1007" onclick="ndrclick('');"><h2>아마추어 팀 꺾고 '펄쩍 뛰며 환호', 조금 자제했다면 어땠을까 [김인식의 ...</h2></a>
+			<span class="medium">스타뉴스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank25">
+			<dt><em>25</em></dt>
+						<dd> <span class="down">하락</span><span><em>12</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n30313?mid=n1007" onclick="ndrclick('');"><h2>&quot;제발 아웃&quot;…안세영, 금메달 확정 직전에 나온 솔직한 한마디</h2></a>
+			<span class="medium">스포츠한국</span>
+		</li>
+					</ul><ul class="mduSubject mduRankSubject">			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank26">
+			<dt><em>26</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n08558?mid=n1007" onclick="ndrclick('');"><h2>&quot;이게 팀이야?&quot; 홍명보 호통 떠오르네…설영우, 휘슬 안 불었는데 왜 멈췄...</h2></a>
+			<span class="medium">OSEN</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank27">
+			<dt><em>27</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n16374?mid=n1006" onclick="ndrclick('');"><h2>'잘가 부캉아~' 워터펌프 쏘며 밖으로 유도했는데…</h2></a>
+			<span class="medium">헤럴드경제</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank28">
+			<dt><em>28</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n11625?mid=n1006" onclick="ndrclick('');"><h2>&quot;'암살자들' 고교 단체관람, 세뇌하냐&quot; vs &quot;학생들이 압도적 선택&quot; 찬반 ...</h2></a>
+			<span class="medium">파이낸셜뉴스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank29">
+			<dt><em>29</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n32090?mid=n1007" onclick="ndrclick('');"><h2>[단독] 韓 남자 400m 계주 '억울한 동메달'…1위 中 반칙 장면 보니</h2></a>
+			<span class="medium">중앙일보</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank30">
+			<dt><em>30</em></dt>
+						<dd> <span class="up">상승</span><span><em>1</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n02106?mid=n1006" onclick="ndrclick('');"><h2>&quot;길고양이 매타작해 죽이더라&quot;…글램핑장서 본 끔찍한 장면, 결국 환불</h2></a>
+			<span class="medium">뉴스1</span>
+		</li>
+					</ul><ul class="mduSubject mduRankSubject">			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank31">
+			<dt><em>31</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n36012?mid=n1006" onclick="ndrclick('');"><h2>공군사관학교 관사서 20대 부사관 숨진 채 발견…군 당국 수사</h2></a>
+			<span class="medium">뉴스1</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank32">
+			<dt><em>32</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n18223?mid=n1006" onclick="ndrclick('');"><h2>&quot;결국 부모님 댁 들어갑니다&quot;…30대 맞벌이 신혼부부 '눈물' [시장톡]</h2></a>
+			<span class="medium">한국경제</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank33">
+			<dt><em>33</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n03272?mid=n1006" onclick="ndrclick('');"><h2>젤렌스키 &quot;러시아에 북한군 8000명 이상…추가 1만명 배치 준비&quot;</h2></a>
+			<span class="medium">헤럴드경제</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank34">
+			<dt><em>34</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n29379?mid=n1006" onclick="ndrclick('');"><h2>&quot;이재명 두 아들 군면제&quot; 허위글 이수정…2심도 무죄 주장</h2></a>
+			<span class="medium">뉴스1</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank35">
+			<dt><em>35</em></dt>
+						<dd> <span class="up">상승</span><span><em>8</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n24747?mid=n1006" onclick="ndrclick('');"><h2>[속보] 상어 '부캉이' 구조작업 중단…수로 밖으로 안 나가</h2></a>
+			<span class="medium">연합뉴스</span>
+		</li>
+					</ul><ul class="mduSubject mduRankSubject">			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank36">
+			<dt><em>36</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n21054?mid=n1006" onclick="ndrclick('');"><h2>경례하는 장동혁 대표</h2></a>
+			<span class="medium">뉴시스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank37">
+			<dt><em>37</em></dt>
+						<dd> <span class="down">하락</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n01545?mid=n1006" onclick="ndrclick('');"><h2>'북한 지뢰 유력'에도 마땅한 카드가 없다…&quot;경고 이상의 실질적 조치는 어...</h2></a>
+			<span class="medium">한국일보</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank38">
+			<dt><em>38</em></dt>
+						<dd> <span class="up">상승</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n28741?mid=n1007" onclick="ndrclick('');"><h2>안세영 '기쁨의 눈물'[포토]</h2></a>
+			<span class="medium">엑스포츠뉴스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank39">
+			<dt><em>39</em></dt>
+						<dd> <span class="up">상승</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n01362?mid=n1007" onclick="ndrclick('');"><h2>금메달이 '조롱거리'된 한국 야구…축하받고 싶으면 '아마추어' 내보내라 [...</h2></a>
+			<span class="medium">더팩트</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank40">
+			<dt><em>40</em></dt>
+						<dd> <span class="up">상승</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n07518?mid=n1006" onclick="ndrclick('');"><h2>바닷가 통발에 갇힌 고양이, 잠기기 직전 구조…&quot;누가 넣었나&quot;</h2></a>
+			<span class="medium">연합뉴스TV</span>
+		</li>
+					</ul><ul class="mduSubject mduRankSubject">			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank41">
+			<dt><em>41</em></dt>
+						<dd> <span class="down">하락</span><span><em>20</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n15751?mid=n1006" onclick="ndrclick('');"><h2>&quot;무급으로 일하는 것 맞아?&quot; 배현진 맹공에 JYP '결단'…&quot;증인 서겠다&quot;</h2></a>
+			<span class="medium">서울신문</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank42">
+			<dt><em>42</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n00115?mid=n1006" onclick="ndrclick('');"><h2>헬스장 드라이기로 중요 부위 말리는 '무개념 빌런'…&quot;잘못인지도 몰라&quot;[...</h2></a>
+			<span class="medium">뉴시스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank43">
+			<dt><em>43</em></dt>
+						<dd> <span class="up">상승</span><span><em>1</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n06545?mid=n1006" onclick="ndrclick('');"><h2>&quot;사람은 서서 가는데&quot;…캐리어로 좌석 막은 제복 입은 학생 2명</h2></a>
+			<span class="medium">뉴시스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank44">
+			<dt><em>44</em></dt>
+						<dd> <span class="up">상승</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n00259?mid=n1006" onclick="ndrclick('');"><h2>김상욱 재산 50억, 넉달 새 12억 늘어…추경호 42억, 추미애 36억</h2></a>
+			<span class="medium">한겨레</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank45">
+			<dt><em>45</em></dt>
+						<dd> <span class="up">상승</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n00056?mid=n1006" onclick="ndrclick('');"><h2>2시간 만에 세 모녀 살해한 30대 남성…CCTV 보니 한 손엔 꽃바구니 [오...</h2></a>
+			<span class="medium">서울경제</span>
+		</li>
+					</ul><ul class="mduSubject mduRankSubject">			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank46">
+			<dt><em>46</em></dt>
+						<dd> <span class="up">상승</span><span><em>1</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n19058?mid=n1006" onclick="ndrclick('');"><h2>&quot;한국이 이렇게 인기였나&quot; 역대급 수치…외국인 1505만명 몰려와 카드 '14...</h2></a>
+			<span class="medium">서울경제</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank47">
+			<dt><em>47</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n32293?mid=n1006" onclick="ndrclick('');"><h2>&quot;분양가가 수십억인데 무슨 소용&quot;…수년간 부어온 청약통장 집어 던지는 20...</h2></a>
+			<span class="medium">매일경제</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank48">
+			<dt><em>48</em></dt>
+						<dd> <span class="noupdown">-<i>순위변동없음</i></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n32001?mid=n1006" onclick="ndrclick('');"><h2>&quot;왜 다 큰 애를 노약자석에…장애가 자랑이야?&quot; 노인 호통에 아이 엄마 '눈...</h2></a>
+			<span class="medium">헤럴드경제</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank49">
+			<dt><em>49</em></dt>
+						<dd> <span class="up">상승</span><span><em>5</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n09360?mid=n1006" onclick="ndrclick('');"><h2>&quot;연차 내야 갈 수 있는 귀한 곳&quot;…은행 영업시간 단축에 네티즌 불만</h2></a>
+			<span class="medium">뉴시스</span>
+		</li>
+			 
+		<li>
+		<!-- mduRank rank -->
+			<dl class="mduRank rank50">
+			<dt><em>50</em></dt>
+						<dd> <span class="down">하락</span><span><em>2</em></span></dd>
+						</dl><!-- //mduRank rank -->
+			<a href="//news.nate.com/view/20260929n17697?mid=n1006" onclick="ndrclick('');"><h2>&quot;어떻게 8년 참았냐&quot; 복도에 산처럼 쌓인 짐…쉰내에 벌레까지</h2></a>
+			<span class="medium">머니투데이</span>
+		</li>
+				</ul>
+	<!-- //mduSubject -->
+</div>			<!-- //랭킹 리스트형 : 제목 -->
+			<div class="rank_page">
+				<a href="//news.nate.com/rank/interest?sc=all&amp;p=day&amp;date=20260929" onclick="ndrclick('RNK01');"><strong>1-50위</strong></a>
+				<span class="division">/</span>
+				<a href="//news.nate.com/rank/interest?sc=all&amp;p=day&amp;date=20260929&amp;page=2" onclick="ndrclick('RNK01');"><span>51-100위</span></a>
+			</div>			
+			<!-- week paging -->
+<div class="weekpagingNotCal f_clear">
+	    	    		<strong>09-29(화)</strong>  	 		
+    	            
+    	<span>|</span>        	    		
+        	<a href="/rank/interest?sc=all&amp;p=day&amp;date=20260928" onclick="ndrclick('RML04');">09-28(월)</a>
+    	            
+    	<span>|</span>        	    		
+        	<a href="/rank/interest?sc=all&amp;p=day&amp;date=20260927" onclick="ndrclick('RML04');">09-27(일)</a>
+    	            
+    	<span>|</span>        	    		
+        	<a href="/rank/interest?sc=all&amp;p=day&amp;date=20260926" onclick="ndrclick('RML04');">09-26(토)</a>
+    	            
+    	<span>|</span>        	    		
+        	<a href="/rank/interest?sc=all&amp;p=day&amp;date=20260925" onclick="ndrclick('RML04');">09-25(금)</a>
+    	            
+    	<span>|</span>        	    		
+        	<a href="/rank/interest?sc=all&amp;p=day&amp;date=20260924" onclick="ndrclick('RML04');">09-24(목)</a>
+    	            
+    	<span>|</span>        	    		
+        	<a href="/rank/interest?sc=all&amp;p=day&amp;date=20260923" onclick="ndrclick('RML04');">09-23(수)</a>
+    	            
+    	            
+</div><!-- //week paging -->			<!-- pageMove -->
+	<div class="pageMove">
+		        <span class="fl"><a href="//www.nate.com/?f=news" class="natehome" onclick="ndrclick('RML08')">네이트 홈으로</a></span>
+        <span class="fr">
+			<a href="//news.nate.com/" class="newshome" onclick="ndrclick('RML06');">뉴스 홈으로</a> <a href="#mediaWraper" class="pagetop" onclick="ndrclick('RML07');">맨위로</a>
+		</span>
+			</div>
+<!-- //pageMove -->			</div>
+		</div>
+     
+		<!-- Right -->
+		<div id="newsSidebar">
+										<!-- 이시각 주요 뉴스 : S -->
+<div class="sidebar rankingNews firstChild">
+	<h3>이시각 주요뉴스</h3>
+	<!-- subTab -->
+	<ul id="leading_subtab" class="subTab subtab01">
+		<li><a href="//news.nate.com/" onclick="ndrclick('RRG07');" id="LeadingNews1" onmouseover="DisplayTabMenu(3,'LeadingNews','on','LeadingNews_',1,'leading_subtab')" onfocus="DisplayTabMenu(3,'LeadingNews','on','LeadingNews_',1,'leading_subtab')" class="on">종합</a></li>
+		<li><a href="//sports.news.nate.com" onclick="ndrclick('RRG07');" id="LeadingNews2" onmouseover="DisplayTabMenu(3,'LeadingNews','on','LeadingNews_',2,'leading_subtab')" onfocus="DisplayTabMenu(3,'LeadingNews','on','LeadingNews_',2,'leading_subtab')">스포츠</a></li>
+		<li><a href="//news.nate.com/ent/index" onclick="ndrclick('RRG07');" id="LeadingNews3" onmouseover="DisplayTabMenu(3,'LeadingNews','on','LeadingNews_',3,'leading_subtab')" onfocus="DisplayTabMenu(3,'LeadingNews','on','LeadingNews_',3,'leading_subtab')">연예</a></li>
+	</ul><!-- //subTab -->
+		<div id="LeadingNews_1" style="display:;">
+		<ul class="side_list">
+					<li >
+				<a href="//news.nate.com/hissue/groupList?mid=n0412&amp;isq=9998&amp;sisq=10134" onclick="ndrclick('RRG07');" target="_self"><strong>&quot;내가 月 200만원 벌기도 힘들 줄은&quot;…60...</strong></a>
+			</li>					<li >
+				<a href="//news.nate.com/hissue/groupList?mid=n0412&amp;isq=11479&amp;sisq=9704" onclick="ndrclick('RRG07');" target="_self">공군사관학교 관사서 20대 부사관 숨진 ...</a>
+			</li>					<li >
+				<a href="//news.nate.com/section?mid=n0500&amp;n=967446#cid967446" onclick="ndrclick('RRG07');" target="_self">'연봉 8000만원' 남자친구 만나고 싶어서...</a>
+			</li>					<li >
+				<a href="//news.nate.com/hissue/clstList?mid=n0208&amp;isq=11000&amp;n=1192606#cid1192606" onclick="ndrclick('RRG07');" target="_self">발 디딘 순간 폭발, 58초 뒤 또 '펑'…DM...</a>
+			</li>					<li class="seperate">
+				<a href="//news.nate.com/hissue/clstList?mid=n0309&amp;isq=11002&amp;n=938658#cid938658" onclick="ndrclick('RRG07');" target="_self"><strong>&quot;아침 9시 고객 많지 않다&quot; 은행 문 30분...</strong></a>
+			</li>					<li >
+				<a href="//news.nate.com/hissue/clstList?mid=n0309&amp;isq=10477&amp;n=808718#cid808718" onclick="ndrclick('RRG07');" target="_self">&quot;분양가가 수십억인데 무슨 소용&quot;…수년...</a>
+			</li>					<li >
+				<a href="//news.nate.com/hissue/clstList?mid=n0412&amp;isq=11001&amp;n=1121428#cid1121428" onclick="ndrclick('RRG07');" target="_self">&quot;왜 다 큰 애를 노약자석에…장애가 자랑...</a>
+			</li>					<li >
+				<a href="//news.nate.com/hissue/clstList?mid=n0412&amp;isq=11001&amp;n=1192299#cid1192299" onclick="ndrclick('RRG07');" target="_self">상어 '부캉이' 구조작업 중단소식에 &quot;보...</a>
+			</li>				</ul>
+	</div>
+		<div id="LeadingNews_2" style="display:none;">
+		<ul class="side_list">
+					<li >
+				<a href="//sports.news.nate.com/hissue/groupList?mid=s0606&amp;isq=11519&amp;sisq=11530&amp;n=1193573#cid1193573" onclick="ndrclick('RRG07');" target="_self"><strong>경악! 세상에 무슨 이런 종목이 있을까…...</strong></a>
+			</li>					<li >
+				<a href="//sports.news.nate.com/hissue/groupList?mid=s0606&amp;isq=11519&amp;sisq=11524&amp;n=1150038#cid1150038" onclick="ndrclick('RRG07');" target="_self">&quot;안세영 7년 넘게 빨래·심부름·허드렛 ...</a>
+			</li>					<li >
+				<a href="//sports.news.nate.com/hissue/groupList?mid=s0606&amp;isq=11519&amp;sisq=11524&amp;n=599804#cid599804" onclick="ndrclick('RRG07');" target="_self"> 한국 여자축구 대참사!…일본 '2군도 아...</a>
+			</li>					<li >
+				<a href="//sports.news.nate.com/hissue/clstList?mid=s0106&amp;isq=8588&amp;n=1193568#cid1193568" onclick="ndrclick('RRG07');" target="_self">아니 저걸? 페라자 공 놓쳤다! 박준영 와...</a>
+			</li>					<li class="seperate">
+				<a href="//sports.news.nate.com/hissue/groupList?mid=s0606&amp;isq=11519&amp;sisq=11522&amp;n=1191705#cid1191705" onclick="ndrclick('RRG07');" target="_self"><strong>&quot;죄송합니다, 죄송합니다, 또 죄송합니다...</strong></a>
+			</li>					<li >
+				<a href="//sports.news.nate.com/hissue/clstList?mid=s0106&amp;isq=8588&amp;n=1193570#cid1193570" onclick="ndrclick('RRG07');" target="_self">대빌라 갓빌라 아빌라 완투승! LG 충격의...</a>
+			</li>					<li >
+				<a href="//news.nate.com/view/20260929n32609" onclick="ndrclick('RRG07');" target="_self">&quot;니가 사람 새끼냐?&quot; 설영우 결국 폭발했...</a>
+			</li>					<li >
+				<a href="//sports.news.nate.com/hissue/groupList?mid=s0606&amp;isq=11519&amp;sisq=11530&amp;n=1193594#cid1193594" onclick="ndrclick('RRG07');" target="_self">역도 은메달 딴 박혜정 &quot;4㎏ 빠졌다&quot;…日...</a>
+			</li>				</ul>
+	</div>
+		<div id="LeadingNews_3" style="display:none;">
+		<ul class="side_list">
+					<li >
+				<a href="//news.nate.com/view/20260929n38495" onclick="ndrclick('RRG07');" target="_self"><strong>&quot;10년 전과 이렇게 달라졌다&quot;…샘 오취리...</strong></a>
+			</li>					<li >
+				<a href="//news.nate.com/hissue/clstList?mid=e0100&amp;isq=11121&amp;n=1158277#cid1158277" onclick="ndrclick('RRG07');" target="_self">&quot;연예인 정준하가 돈이 없어서 현금 빌려...</a>
+			</li>					<li >
+				<a href="//news.nate.com/ent/subsection?mid=e1100&amp;n=1193505#cid1193505" onclick="ndrclick('RRG07');" target="_self">한가인, 뒷광고 의혹에 2차 입장…&quot;구매...</a>
+			</li>					<li >
+				<a href="//news.nate.com/hissue/clstList?mid=e0100&amp;isq=11121&amp;n=1182601#cid1182601" onclick="ndrclick('RRG07');" target="_self">'장동건♥' 고소영, 잘 사는 줄 알았더니...</a>
+			</li>					<li class="seperate">
+				<a href="//news.nate.com/hissue/groupList?mid=e0100&amp;isq=11510&amp;sisq=7377&amp;n=1193607#cid1193607" onclick="ndrclick('RRG07');" target="_self"><strong>&quot;숨 못 쉬면 힘 빠지니까&quot; 아내 목 조른 ...</strong></a>
+			</li>					<li >
+				<a href="//news.nate.com/view/20260929n37631" onclick="ndrclick('RRG07');" target="_self">'의사♥' 박은영, 눈치 안 보고 춤추더니...</a>
+			</li>					<li >
+				<a href="//news.nate.com/hissue/clstList?mid=e0100&amp;isq=11121&amp;n=1146435#cid1146435" onclick="ndrclick('RRG07');" target="_self">황보라, 母 '황혼육아' 악플에 입 열었다...</a>
+			</li>					<li >
+				<a href="//news.nate.com/hissue/clstList?mid=e0100&amp;isq=11121&amp;n=1191377#cid1191377" onclick="ndrclick('RRG07');" target="_self">이민정, '꿀피부' 비결=시술이었다…레이...</a>
+			</li>				</ul>
+	</div>
+	</div><script type="text/javascript">
+//<![CDATA[
+	var nRLeadDiv = randValue(1,3);
+	DisplayTabMenu(3,'LeadingNews','on','LeadingNews_',nRLeadDiv,'leading_subtab');
+//]]>
+</script>
+<!-- 이시각 주요 뉴스 : E -->	<!-- 포토 슬라이드 : S -->
+<div id="rightSlideDiv_1" class="photo_slide recent" style="display:; ">
+	<h3><a href="//news.nate.com/photo/slide?mid=n0809" onclick="ndrclick('RRG09');">스포츠/연예 화제의 포토</a></h3>
+	<ul class="iconAddbox">
+				<li class="s_thumb">
+			<a href="//sports.news.nate.com/spo/photo?cid=1193614" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790686356_189.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>'우지원 딸' 우서윤, 미스코리아 진→치어리더...</strong>
+			</a>
+		</li>
+		<li class="s_thumb">
+			<a href="//ps.news.nate.com/photo/slideShow?cid=1193616&amp;mid=n1001" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790686799_276.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>홍진영·홍선영 자매, 압구정서 포착됐다 &quot;오랜...</strong>
+			</a>
+		</li>
+				<li class="s_thumb">
+			<a href="//sports.news.nate.com/spo/photo?cid=1193597" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790673451_227.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>&quot;니가 사람 새끼냐?&quot; 설영우 결국 폭발했다!...</strong>
+			</a>
+		</li>
+		<li class="s_thumb">
+			<a href="//ps.news.nate.com/photo/slideShow?cid=1193612&amp;mid=n1001" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790684760_278.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>아이유♥유인나, 유럽사진 저화질로 푼 이유 있...</strong>
+			</a>
+		</li>
+			</ul>
+	<a href="//news.nate.com/photo/slide?mid=n0809" onclick="ndrclick('RRG09');" class="more thumb_more" title="스포츠/연예 화제의 포토 더보기">더보기</a>
+</div>
+<div id="rightSlideDiv_2" class="photo_slide recent" style="display:none; ">
+	<h3><a href="//news.nate.com/photo/slide?mid=n0809" onclick="ndrclick('RRG09');">스포츠/연예 화제의 포토</a></h3>
+	<ul class="iconAddbox">
+				<li class="s_thumb">
+			<a href="//sports.news.nate.com/spo/photo?cid=1193550" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790657736_624.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>문경은-전희철 '다시 격돌'[프로농구 개막 미디...</strong>
+			</a>
+		</li>
+		<li class="s_thumb">
+			<a href="//ps.news.nate.com/photo/slideShow?cid=1193610&amp;mid=n1001" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790682935_103.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>진서연, 60.17kg 찍히자 &quot;11kg 뺀다&quot;…49kg ...</strong>
+			</a>
+		</li>
+				<li class="s_thumb">
+			<a href="//sports.news.nate.com/spo/photo?cid=1193543" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790653742_718.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>'추신수 子' 추무빈, 미모의 ♥여친과 대놓고 ...</strong>
+			</a>
+		</li>
+		<li class="s_thumb">
+			<a href="//ps.news.nate.com/photo/slideShow?cid=1193604&amp;mid=n1001" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790680198_930.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>&quot;웬디 맞아?&quot; 확 달라진 얼굴에 '깜짝'…짙어진...</strong>
+			</a>
+		</li>
+			</ul>
+	<a href="//news.nate.com/photo/slide?mid=n0809" onclick="ndrclick('RRG09');" class="more thumb_more" title="스포츠/연예 화제의 포토 더보기">더보기</a>
+</div>
+<div id="rightSlideDiv_3" class="photo_slide recent" style="display:none; ">
+	<h3><a href="//news.nate.com/photo/slide?mid=n0809" onclick="ndrclick('RRG09');">스포츠/연예 화제의 포토</a></h3>
+	<ul class="iconAddbox">
+				<li class="s_thumb">
+			<a href="//sports.news.nate.com/spo/photo?cid=1193519" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790645919_886.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>&quot;나는 게이다, 두렵고 고민됐다&quot; 日 배구 선...</strong>
+			</a>
+		</li>
+		<li class="s_thumb">
+			<a href="//ps.news.nate.com/photo/slideShow?cid=1193603&amp;mid=n1001" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790679654_983.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>류이서·성해은, 아시아나·대한항공 여신들의 ...</strong>
+			</a>
+		</li>
+				<li class="s_thumb">
+			<a href="//sports.news.nate.com/spo/photo?cid=1193509" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790643123_495.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>&quot;이게 팀이야?&quot; 홍명보 호통 떠오르네…설영...</strong>
+			</a>
+		</li>
+		<li class="s_thumb">
+			<a href="//ps.news.nate.com/photo/slideShow?cid=1193602&amp;mid=n1001" onclick="ndrclick('RRG09');" target="_self">
+				<em class="mediatype">
+					<img width="140" height="102" src="//news.nateimg.co.kr/etc/cms/2026/09/29/1790679503_412.jpg" alt="" />
+					<img class="imgmedia" width="28" height="13" alt="" src="//nimg.nate.com/ui/uidev/images/icon/ico_slide.gif" />
+				</em>
+				<strong>&quot;크…&quot; 송혜교, 본인도 반해버린 강렬 비주얼…...</strong>
+			</a>
+		</li>
+			</ul>
+	<a href="//news.nate.com/photo/slide?mid=n0809" onclick="ndrclick('RRG09');" class="more thumb_more" title="스포츠/연예 화제의 포토 더보기">더보기</a>
+</div>
+<script type="text/javascript">
+	// 초기화
+	nRightSlide = Math.floor(Math.random() * 3)+1;
+	ViewDiv(nRightSlide,'rightSlideDiv_',3);
+</script>
+<!-- 포토 슬라이드 : E -->	<!-- 배너 : S-->
+<div id="newsMainBanner" class="sidebar sidebar_banner " style="position: relative;">
+	<div style="position: absolute; right: -5px;">
+		<iframe id="AdRightTop" name="AdRightTop" src="//news.nate.com/etc/AdRightTop" title="광고-IfrAdRightTop" marginwidth="0" marginheight="0" noresize="noresize" width="300" scrolling="no" height="250" style="border:0;"></iframe>
+		<div id="newsmediaBanner_obj"></div>
+	</div>
+</div><!-- 배너 : E-->	<div class="sidebar rankingEmotion">
+	<h3>
+		<a href="//news.nate.com/rank/emoticon?cate=sisa">공감 많은 뉴스</a>
+	</h3>
+	<ul id="emotion_subtab" class="subTab subtab01">
+		<li><a href="//news.nate.com/rank/emoticon?cate=sisa" id="emotionTab1" onmouseover="DisplayTabMenu(2,'emotionTab','on','emotion_content',1,'emotion_subtab')" onfocus="DisplayTabMenu(2,'rankTab','on','emotion_content',1,'emotion_subtab');" class="on" onclick="ndrclick('RMH36');">시사</a></li>
+        <li><a href="//news.nate.com/rank/emoticon?type=emoticon" id="emotionTab2" onmouseover="DisplayTabMenu(2,'emotionTab','on','emotion_content',2,'emotion_subtab')" onfocus="DisplayTabMenu(2,'rankTab','on','emotion_content',2,'emotion_subtab');" onclick="ndrclick('RMH36');">공감별</a></li>
+	</ul>
+	<div id="emotion_content1">
+		<div id="emotion_newstab1">
+			<ol class="no">
+													<li class="no01">
+						<span class="rank">1</span>
+						<a href="//news.nate.com/view/20260929n21906" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/sv/2026/09/29/202221724_700.jpg" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">2살 딸에게 소주·불닭소스 먹였다…학대 끝에 결국 사망</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>943</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+									<li class="no02">
+						<span class="rank">2</span>
+						<a href="//news.nate.com/view/20260929n02467" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/yn/2026/09/29/202609290523329390_t.jpg" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">[제보는Y] "살려고 도망쳐"…숨진 청년 연구사의 마지막 육성</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>464</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+									<li class="no03">
+						<span class="rank">3</span>
+						<a href="//news.nate.com/view/20260929n06780" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/jt/2026/09/29/20260929101747400001.png" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">"대통령 모시고 식사 중인데"…송영길, 생방송 전화 끊어버린 이유는</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>463</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+									<li class="no04">
+						<span class="rank">4</span>
+						<a href="//news.nate.com/view/20260929n00114" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/ns/2026/09/29/NISI20260928_0002249831_web.jpg" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">"청각장애 있어요" 말에도…지하철서 울음 터뜨린 어머니의 사연</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>452</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+									<li class="no05">
+						<span class="rank">5</span>
+						<a href="//news.nate.com/view/20260929n10845" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/na/2026/09/29/8131031_high.jpg" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">李대통령, DMZ 지뢰사고에 "신속·철저 조사…근거 없는 음모론 없어야"</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>418</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+					        </ol>
+			<div class="paging_navi">
+				<a href="javascript:DisplayPart(2,'emotion_newstab',2);" class="prev" onclick="ndrclick('RMH40');">이전</a>
+				<span><strong>1</strong>/2</span>
+				<a href="javascript:DisplayPart(2,'emotion_newstab',2);" class="next" onclick="ndrclick('RMH40');">다음</a>
+			</div>
+   		</div>
+		<div id="emotion_newstab2" style="display:none;">
+			<ol class="no">
+																		<li class="no6">
+						<span class="rank">6</span>
+						<a href="//news.nate.com/view/20260929n10315" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/na/2026/09/29/8130958_high.jpg" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">"이빨 뽑아버린다" 상담사에게 32차례 욕설…'VVIP' 오른 여성 민원인</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>410</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+														<li class="no7">
+						<span class="rank">7</span>
+						<a href="//news.nate.com/view/20260929n04813" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/sg/2026/09/29/20260929503039.jpg" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">영화 '암살자(들)' 논란에 박지원 "'윤석열차'도 만화로 봤다"</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>387</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+														<li class="no8">
+						<span class="rank">8</span>
+						<a href="//news.nate.com/view/20260929n01936" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/jo/2026/09/29/f54ab439-6342-4333-8053-e8b1310d1be2.jpg" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">[단독] "삼전 레시피 훔쳐와"…대놓고 협박한 창신메모리 CEO</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>341</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+														<li class="no9">
+						<span class="rank">9</span>
+						<a href="//news.nate.com/view/20260929n15191" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/sg/2026/09/29/20260929508391.jpg" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">[단독] 추미애 경기지사, 1년여 만에 자산 20억 늘어</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>248</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+														<li class="no10">
+						<span class="rank">10</span>
+						<a href="//news.nate.com/view/20260929n09137" onclick="ndrclick('RMH37');">
+							<div class="ib">
+								<em class="mediatype">
+									<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/ni/2026/09/29/260929094658225_w.jpg" width="90" height="67" alt="" />
+								</em>
+							</div>							<div class="tb">
+							<span class="tit">국민 63.6% "李 정부 부동산 정책 잘못"…30대 부정평가 78.8% '최고'</span>
+								<span class="rnk-emotion icon46x18">
+									<span class="img">공감수</span>
+									<span class="emcnt"><em>243</em></span>
+								</span>
+							</div>
+						</a>
+					</li>
+							</ol>
+			<div class="paging_navi">
+				<a href="javascript:DisplayPart(2,'emotion_newstab',1);" class="prev" onclick="ndrclick('RMH40');">이전</a>
+				<span><strong>2</strong>/2</span>
+				<a href="javascript:DisplayPart(2,'emotion_newstab',1);" class="next" onclick="ndrclick('RMH40');">다음</a>
+			</div>
+		</div>
+		<a href="//news.nate.com/rank/emoticon?cate=sisa" class="more" onclick="ndrclick('RMH35');">공감 많은 뉴스 더보기</a>
+	</div>
+
+    <div id="emotion_content2" style="display:none">
+		<ul class="rnk-emotion icon32" id="emotion_list">
+			<li class="active" id="select_emoticon1"><a href="javascript:moreList(1);" onclick="ndrclick('RMH38');"><span class="img em-type1"></span><span class="state">최고</span></a></li>
+			<li  id="select_emoticon2"><a href="javascript:moreList(2);" onclick="ndrclick('RMH38');"><span class="img em-type2"></span><span class="state">훈훈</span></a></li>
+			<li  id="select_emoticon3"><a href="javascript:moreList(3);" onclick="ndrclick('RMH38');"><span class="img em-type3"></span><span class="state">어이</span></a></li>
+			<li  id="select_emoticon4"><a href="javascript:moreList(4);" onclick="ndrclick('RMH38');"><span class="img em-type4"></span><span class="state">속상</span></a></li>
+			<li  id="select_emoticon5"><a href="javascript:moreList(5);" onclick="ndrclick('RMH38');"><span class="img em-type5"></span><span class="state">화나</span></a></li>
+		</ul>
+		<div id="rankEmoticonMore">
+			<div id="emotion_ranktab1">
+	<ol class="no">
+							<li class="no01">
+				<span class="rank">1</span>
+				<a href="//news.nate.com/view/20260929n28130" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/pt/2026/09/29/202609291552770772_6abb67be711cf.jpg" width="90" height="67" alt="" />
+						</em>
+					</div>					<div class="tb">
+						<span class="tit">[속보] 56승1패! 안세영, '전무후무' AG 2연속 금메달…'21-9' 日 야마구치 무너뜨렸다→GOAT 수산티와 '46회 최다 우승' 타이</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>429</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+					<li class="no02">
+				<span class="rank">2</span>
+				<a href="//news.nate.com/view/20260929n15962" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/my/2026/09/29/2026092523192498475_l.jpg" width="90" height="67" alt="" />
+						</em>
+					</div>					<div class="tb">
+						<span class="tit">김다현에 막말 심수봉, 여론 뒤집히나?…'혼날만했다' 목소리 이어져 논란</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>225</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+					<li class="no03">
+				<span class="rank">3</span>
+				<a href="//news.nate.com/view/20260929n03485" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/tn/2026/09/29/tn_1790650925222_309091_0.jpg" width="90" height="67" alt="" />
+						</em>
+					</div>					<div class="tb">
+						<span class="tit">아마추어 팀 꺾고 '펄쩍 뛰며 환호', 조금 자제했다면 어땠을까 [김인식의 한마디]</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>161</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+					<li class="no04">
+				<span class="rank">4</span>
+				<a href="//news.nate.com/view/20260929n30313" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/sh/2026/09/29/6940787_1217188_2414.jpg" width="90" height="67" alt="" />
+						</em>
+					</div>					<div class="tb">
+						<span class="tit">"제발 아웃"…안세영, 금메달 확정 직전에 나온 솔직한 한마디</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>136</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+					<li class="no05">
+				<span class="rank">5</span>
+				<a href="//news.nate.com/view/20260929n10378" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/is/2026/09/29/isp20260929000056.1280x.0.jpg" width="90" height="67" alt="" />
+						</em>
+					</div>					<div class="tb">
+						<span class="tit">'암살자(들)' 제작진, 허위사실 적시 명예훼손 혐의로 고발</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>120</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+			</ol>
+	<div class="paging_navi">
+		<a href="javascript:DisplayPart(2,'emotion_ranktab',2);" class="prev" onclick="ndrclick('RMH40');">이전</a>
+		<span><strong>1</strong>/2</span>
+		<a href="javascript:DisplayPart(2,'emotion_ranktab',2);" class="next" onclick="ndrclick('RMH40');">다음</a>
+	</div>
+</div>
+<div id="emotion_ranktab2" style="display:none;">
+	<ol class="no">
+										<li class="no6">
+				<span class="rank">6</span>
+				<a href="//news.nate.com/view/20260929n09137" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/ni/2026/09/29/260929094658225_w.jpg" width="90" height="67" alt="" />
+						</em>					</div>
+					<div class="tb">
+						<span class="tit">국민 63.6% "李 정부 부동산 정책 잘못"…30대 부정평가 78.8% '최고'</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>117</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+								<li class="no7">
+				<span class="rank">7</span>
+				<a href="//news.nate.com/view/20260929n28741" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/xs/2026/09/29/1790666673190792.jpg" width="90" height="67" alt="" />
+						</em>					</div>
+					<div class="tb">
+						<span class="tit">안세영 '기쁨의 눈물'[포토]</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>109</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+								<li class="no8">
+				<span class="rank">8</span>
+				<a href="//news.nate.com/view/20260929n21386" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/sc/2026/09/29/2026093001001962800129581.jpg" width="90" height="67" alt="" />
+						</em>					</div>
+					<div class="tb">
+						<span class="tit">[속보]미친 명승부! '세계 2위' 이소희-백하나, 1시간51분 드라마 끝에 '세계 1위' 중국 잡았다…결승서 2-1 대역전승 '24년만의 여자 복식 금메달'![이치노미야 현장]</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>100</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+								<li class="no9">
+				<span class="rank">9</span>
+				<a href="//news.nate.com/view/20260929n04813" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/sg/2026/09/29/20260929503039.jpg" width="90" height="67" alt="" />
+						</em>					</div>
+					<div class="tb">
+						<span class="tit">영화 '암살자(들)' 논란에 박지원 "'윤석열차'도 만화로 봤다"</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>99</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+								<li class="no10">
+				<span class="rank">10</span>
+				<a href="//news.nate.com/view/20260929n01362" onclick="ndrclick('RMH39');">
+					<div class="ib">
+						<em class="mediatype">
+							<img src="//thumbnews.nateimg.co.kr/idol140x88///news.nateimg.co.kr/orgImg/ss/2026/09/29/20264096179062237400.jpg" width="90" height="67" alt="" />
+						</em>					</div>
+					<div class="tb">
+						<span class="tit">금메달이 '조롱거리'된 한국 야구…축하받고 싶으면 '아마추어' 내보내라 [김대호의 야구생각]</span>
+						<span class="rnk-emotion icon18">
+							<span class="img em-type1"></span>
+							<span class="emcnt"><em>96</em></span>
+						</span>
+					</div>
+				</a>
+			</li>
+			</ol>
+	<div class="paging_navi">
+		<a href="javascript:DisplayPart(2,'emotion_ranktab',1);" class="prev" onclick="ndrclick('RMH40');">이전</a>
+		<span><strong>2</strong>/2</span>
+		<a href="javascript:DisplayPart(2,'emotion_ranktab',1);" class="next" onclick="ndrclick('RMH40');">다음</a>
+	</div>
+</div>
+<a href="//news.nate.com/rank/emoticon?type=emoticon&amp;no=1" class="more" onclick="ndrclick('RMH35');">공감 많은 뉴스 더보기</a>		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	//<![CDATA[
+		function moreList(nEmoticonNo){
+			jQuery('li[id^="select_emoticon"][class="active"]').removeClass("active");
+			jQuery("#select_emoticon"+nEmoticonNo).addClass("active"); 
+
+			var ajaxURL ="/right/RankEmoticonMore?no=" + nEmoticonNo + "&mid=" + "n1001";
+			
+			jQuery.ajax({
+				type: "POST",
+				url: ajaxURL,
+				cache: false,
+				dataType: "html",
+				charset: "euc-kr",
+				success: function(data) {
+					jQuery("#rankEmoticonMore")[0].innerHTML = data;
+				}
+			});
+		}
+	//]]>
+</script>	<!-- AD 커머스 ifrmae : S-->
+<div class="sidebar ad290x330">
+	<iframe id="AdCommerce" name="AdCommerce" src="//shop.nate.com/shopbox/shopbox.htm?n=9&amp;c=1&amp;svcpage=news&amp;w=290" width="100%" height="330" frameborder="0" allowtransparency="true" scrolling="no" title="광고"></iframe>
+</div><!-- AD 커머스 ifrmae :E-->	<!-- AD 쇼핑검색 ifrmae : S-->
+<div class="sidebar socialAD"> 
+	<iframe id="AdShopSearch" name="AdShopSearch" src="//news.nate.com/etc/AdShopBox" width="290" height="763" frameborder="0" scrolling="no" title="쇼핑검색" allowtransparency="true"></iframe>
+</div><!-- AD 쇼핑검색 ifrmae :E-->	<!-- AD 아이비엘 : S-->
+<div class="sidebar AdIbl">
+	<iframe id="AdIbl" name="AdIbl" src="//news.nate.com/etc/AdIbl" title="아이비엘광고" style="width:100%;height:283px;border:0" frameborder="0" allowtransparency="none" scrolling="no">
+	</iframe>
+</div><!-- AD 아이비엘 : E-->		</div><!--  //Right -->
+	</div><!-- //contentsWraper -->
+
+	<hr class="layout" />
+</div><!-- //mediaWraper -->
+
+	<!-- footer -->
+<div id="mediaFooter">
+	<!-- 기본 FOOTER 시작 -->
+	<div id="footer">
+		<dl class="footer_list">
+			<dt>네이트 공용 푸터 영역</dt>		
+			<dd>
+				<a href="//www.nate.com/footer/legal/index.html">서비스 이용약관</a><span>|</span>
+				<a href="//www.nate.com/footer/privacy/index.html"><strong>개인정보처리방침</strong></a><span>|</span>
+				<a href="//www.nate.com/policy/youthpolicy.html">청소년보호정책</a><span>|</span>
+				<a href="//adguide.nate.com">광고문의</a><span>|</span>			
+				<a href="//helpdesk.nate.com">고객센터</a><span>|</span>
+				<a href="//news.nate.com/newssitemap">뉴스 전체서비스</a>
+			</dd>
+		</dl>
+		<p class="copyright"><a href="http://corp.nate.com" target="_blank">&copy; NATE Communications</a></p>
+	</div>
+	<!-- 기본 FOOTER 끝 -->
+</div><!-- //footer -->
+<script type="text/javascript">
+//<![CDATA[
+//]]>
+</script>		
+
+<script type="text/javascript">
+//<![CDATA[
+	// ndr code
+	var sNdrPath = '',_ndr_br = '', sRef1 = '', sRef2 = "";
+
+			sNdrPath = "//stat.nate.com/stat/stat.tiff?cp_url=[news_ndr.nate.com/n1001/";
+    
+   	draw_ndr(sNdrPath, _ndr_br, sRef1, sRef2);
+//]]>
+</script>
+
+<!-- interest targeting -->
+	<img src="//tracking.cyad1.nate.com/target/setRetarget.php?category=KI6789H" width="0" height="0" style="border:0;display:none;" alt="" />
+
+</body></html>

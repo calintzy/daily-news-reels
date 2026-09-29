@@ -70,6 +70,8 @@ RSS 수집을 로컬에서 테스트하려면:
 node scripts/collect.mjs --out /tmp/collected.json
 ```
 
+신호 수집(구글뉴스·트렌드·네이트, `signals` 브랜치 산출물 형식)과 self-test는 `node scripts/collect.mjs --stem 2026-09-30-am --out /tmp/s.json`, `node scripts/collect.mjs --self-test`, `bash scripts/signals-push.sh --self-test`로 실행한다.
+
 ## 요구 사항
 
 - Node 20+ (Actions는 node 20). 로컬은 최신 LTS 권장.
