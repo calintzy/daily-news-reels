@@ -39,6 +39,81 @@ const MUSIC_CREDIT = "Music: Kevin MacLeod (incompetech.com), CC BY 4.0";
 // 계정(account) 허용값 — 없으면 "muleori"(물어오리)로 간주한다(하위 호환).
 const ACCOUNTS = ["muleori", "aibrief"];
 
+// ─── 신선도 게이트 (2026-09-29: 9/27 22시 기사가 9/29-am에 편입된 사고 대응) ───
+const HOUR_MS = 3600 * 1000;
+const DAY_MS = 24 * HOUR_MS;
+const KST_OFFSET_MS = 9 * HOUR_MS;
+// 허용 창: json.date(D)의 KST 00:00 기준 시간 오프셋 [하한, 상한] (양끝 포함)
+const FRESHNESS_WINDOWS = {
+  am: { from: -9, to: 10, text: "D-1 15:00 ~ D 10:00" },
+  pm: { from: 6, to: 20, text: "D 06:00 ~ D 20:00" },
+};
+
+// KST 오프셋(또는 Z)이 붙은 ISO 8601만 받는다(초 선택). 파싱 불가·오프셋 없음이면 null.
+function parseSourceDate(str) {
+  if (typeof str !== "string") return null;
+  if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2})?(Z|[+-]\d{2}:\d{2})$/.test(str)) return null;
+  const t = Date.parse(str);
+  return Number.isNaN(t) ? null : t;
+}
+
+const kstDateStr = (ms) => new Date(ms + KST_OFFSET_MS).toISOString().slice(0, 10);
+
+// 유효한 달력 날짜면 UTC 자정 epoch(ms), 아니면 null.
+function ymdToMs(y, m, d) {
+  const t = Date.UTC(y, m - 1, d);
+  const dt = new Date(t);
+  return dt.getUTCFullYear() === y && dt.getUTCMonth() === m - 1 && dt.getUTCDate() === d ? t : null;
+}
+
+// sourceLink에서 날짜 패턴을 찾아 UTC 자정 epoch(ms)로 반환한다. 없으면 null.
+// 패턴: /YYYY/MM/DD  ·  /YYYY-MM-DD  ·  20YYMMDD로 시작하는 연속 숫자열(유효한 날짜만)
+function urlDateMs(url) {
+  if (typeof url !== "string") return null;
+  const patterns = [
+    /\/(20\d{2})\/(\d{2})\/(\d{2})(?!\d)/g,
+    /\/(20\d{2})-(\d{2})-(\d{2})(?!\d)/g,
+    /(?<!\d)(20\d{2})(\d{2})(\d{2})\d*/g,
+  ];
+  for (const re of patterns) {
+    for (const m of url.matchAll(re)) {
+      const t = ymdToMs(+m[1], +m[2], +m[3]);
+      if (t != null) return t;
+    }
+  }
+  return null;
+}
+
+// 신선도 게이트: 기준은 현재 시각이 아니라 json.date라서 옛 회차 재빌드에도 결정론적이다.
+function checkFreshness(issue, label, json, violations) {
+  const t = parseSourceDate(issue.sourceDate);
+  if (t == null) {
+    violations.push(
+      issue.sourceDate == null || issue.sourceDate === ""
+        ? `[신선도] ${label}.sourceDate 누락 — KST 오프셋 포함 ISO 8601 필수 (예: 2026-09-28T21:30:00+09:00)`
+        : `[신선도] ${label}.sourceDate "${issue.sourceDate}" — 파싱 불가 또는 오프셋 없음 (예: 2026-09-28T21:30:00+09:00)`
+    );
+    return;
+  }
+  const win = FRESHNESS_WINDOWS[json.slot];
+  const d0 = /^\d{4}-\d{2}-\d{2}$/.test(json.date ?? "") ? Date.parse(`${json.date}T00:00:00+09:00`) : NaN;
+  if (!Number.isNaN(d0) && (t < d0 + win.from * HOUR_MS || t > d0 + win.to * HOUR_MS)) {
+    violations.push(
+      `[신선도] ${label} sourceDate ${issue.sourceDate} — ${json.slot} 창 ${win.text}(KST, D=${json.date}) 밖`
+    );
+  }
+  // URL 날짜 교차 대조: 루틴이 sourceDate를 지어내는 것 방지. 패턴이 없으면 생략.
+  const u = urlDateMs(issue.sourceLink);
+  if (u != null) {
+    const diffDays = Math.abs(Date.parse(`${kstDateStr(t)}T00:00:00Z`) - u) / DAY_MS;
+    if (diffDays > 1) {
+      violations.push(
+        `[신선도] ${label} sourceLink 날짜(${new Date(u).toISOString().slice(0, 10)})와 sourceDate(${kstDateStr(t)}) 차이 ${diffDays}일 > 1일 — sourceDate 불일치`
+      );
+    }
+  }
+}
+
 // 사실성 게이트: issue 단위 어댑터. 공유 모듈의 checkFactuality를 [사실성] 라벨로 감싼다.
 function checkFactuality(issue, label, violations) {
   const source = `${issue.sourceTitle || ""} ${issue.sourceDesc || ""}`;
@@ -105,6 +180,8 @@ function validate(json, warnings = [], stem = null) {
     }
   }
 
+  const isMuleoriSlot = (json.slot === "am" || json.slot === "pm") && account !== "aibrief";
+
   json.issues.forEach((issue, i) => {
     const label = `issue[${i + 1}]`;
 
@@ -118,6 +195,9 @@ function validate(json, warnings = [], stem = null) {
       if (f === "imagePrompt" && account === "aibrief") continue;
       if (!issue[f]) v.push(`[구조] ${label}.${f} 누락`);
     }
+
+    // (4) 신선도: 물어오리 회차(slot am|pm + aibrief 아님)만. slot 없는 레거시·sample·aibrief는 무검사.
+    if (isMuleoriSlot) checkFreshness(issue, label, json, v);
 
     // (1) 구조: title 길이
     if (issue.title && charLen(issue.title) > MAX_TITLE_LEN) {
@@ -204,11 +284,36 @@ function buildBadFixtures(sample) {
   hangulPrompt.issues[0].imagePrompt =
     "photojournalism, 바둑판 close-up, no people, no text, vertical 9:16 composition";
 
-  // slot-am / slot-pm: slot 필드 정상값 → PASS
+  // slot-am / slot-pm: slot 필드 정상값 → PASS (물어오리 회차라 신선도 창 안 sourceDate 필요. sample date=2026-07-21)
+  const setSourceDate = (fx, iso) => {
+    for (const issue of fx.issues) issue.sourceDate = iso;
+  };
   const slotAm = clone();
   slotAm.slot = "am";
+  setSourceDate(slotAm, "2026-07-20T21:30:00+09:00");
   const slotPm = clone();
   slotPm.slot = "pm";
+  setSourceDate(slotPm, "2026-07-21T12:00:00+09:00");
+
+  // 신선도 음성 대조군 (반드시 FAIL해야 하는 표본)
+  // fresh-missing: sourceDate 누락
+  const freshMissing = clone();
+  freshMissing.slot = "am";
+  // fresh-out-of-window: 9/29-am에 9/27 22:06 기사 (2026-09-29-am 야구 결승 사고 재현)
+  const freshOut = clone();
+  freshOut.date = "2026-09-29";
+  freshOut.slot = "am";
+  setSourceDate(freshOut, "2026-09-29T07:00:00+09:00");
+  freshOut.issues[1].sourceDate = "2026-09-27T22:06:00+09:00";
+  // fresh-url-mismatch: URL은 7/17인데 sourceDate는 창 안(지어낸 날짜)
+  const freshUrl = clone();
+  freshUrl.slot = "am";
+  setSourceDate(freshUrl, "2026-07-20T21:30:00+09:00");
+  freshUrl.issues[0].sourceLink = "https://www.example.com/news/2026/07/17/20260717000123";
+  // fresh-no-offset: 오프셋 없는 sourceDate
+  const freshNoOffset = clone();
+  freshNoOffset.slot = "am";
+  setSourceDate(freshNoOffset, "2026-07-20T21:30:00");
 
   // bad-slot: slot 필드 잘못된 값 → 구조 FAIL
   const badSlot = clone();
@@ -241,6 +346,10 @@ function buildBadFixtures(sample) {
     badAccount,
     badAccountStem,
     aibriefNoImagePrompt,
+    freshMissing,
+    freshOut,
+    freshUrl,
+    freshNoOffset,
   };
 }
 
@@ -286,6 +395,11 @@ function runSelfTest() {
       stem: "ai-2026-08-18",
       expectPass: true,
     },
+    // 신선도 게이트 (2026-09-29)
+    { name: "FAIL — fresh-missing(sourceDate 누락)", fixture: bad.freshMissing, expectPass: false },
+    { name: "FAIL — fresh-out-of-window(9/29-am에 9/27 22:06 기사)", fixture: bad.freshOut, expectPass: false },
+    { name: "FAIL — fresh-url-mismatch(URL 날짜와 sourceDate 불일치)", fixture: bad.freshUrl, expectPass: false },
+    { name: "FAIL — fresh-no-offset(오프셋 없는 sourceDate)", fixture: bad.freshNoOffset, expectPass: false },
   ];
 
   let allOk = true;
