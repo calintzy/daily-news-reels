@@ -1,6 +1,6 @@
 {
   "stem": "2026-09-30-pm",
-  "collectedAt": "2026-09-30T14:56:00+09:00",
+  "collectedAt": "2026-09-30T16:19:29+09:00",
   "sources": {
     "news": "ok",
     "trends": "ok",
@@ -8,46 +8,40 @@
   },
   "news": [
     {
-      "title": "국정원 “포로송환 시작부터 비공개 공감대…정상 간 협의는 없어\"",
+      "title": "[뉴스 다이브] 김여정 ‘DMZ 북 지뢰’ 부인",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43NDY2dDJJb2xNd016TkxVcDRWNUhmTEFUclA2dndfeXo0LWY2WUZhZXlCNDRSVFVRYm1TeFV5Tjh2NkcxTUIxWGYtQUxCaHJVdzdSX2QxS2ZEV1hBN0ZxUUExeExUcDhLWFFibmRKZ1YwWElx?oc=5",
+      "pubDate": "2026-09-30T15:19:00+09:00"
+    },
+    {
+      "title": "[속보] 내란특검, '계엄해제 표결 방해 의혹' 추경호에 징역 20년 구형",
+      "source": "imnews.imbc.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qOWxmeUVGcUxoMVZsakRuT05DZkJZYzd3VVdrRmx3alZWbEktLXd6bUdOZk0zbGx5UGE0aXZCY0REdTRjQWtaNzJwaEljXzNzemx4eE1IVlZKTWktUkp6cnJxZFhRb3luWndCQnBFbmYzdEF2X1Y40gF3QVVfeXFMTjlDQTNFSmdHMk5TaWRDWmlVT2FPdVB2b2c2d3l2cDl3SzdwaGVTYzVyT3ppZVU5VWlTazZzOFpvVHp1R2I4R0NvMFRVWUNtVmZYSTA0MkF2SV9IM2Q1MzZPUlVfZk4wQURXRTA3ZkhNZXR5emdrMEU?oc=5",
+      "pubDate": "2026-09-30T15:00:13+09:00"
+    },
+    {
+      "title": "국정원 “우크라 정부, 북 포로 송환 비공개 합의…정상 협의는 없었다\"",
       "source": "한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvWm9hNW9mRy1CdDB5YWNZUWxvTW11R2ZOcGZzUTJvOUVpbmxFSG5rWV9xWncwSGhVNTk2RTFTY0hkNzl2T0xyZGtIUUNMd0diZjRwX19VbGJzd2p5NkxmRjgzSURVa3hPd2FJeHN1NXJyX0VO?oc=5",
-      "pubDate": "2026-09-30T12:57:00+09:00"
+      "pubDate": "2026-09-30T14:45:00+09:00"
     },
     {
-      "title": "나경원 “김정은 참수훈련 즉각 실시하라”",
-      "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oSUZHQWdBV3pDZ3lkd2dFSGNodEZjd1VfMDNWajI3bmRsYTNiM3MtbF9DNC10OTduNERnQzM1SzllRllDdXF2T0NWYmZXbHlGSVh5RDFxNGZsZXlIN1ZDdzE5WV9ualkwSV9rSnd1TjdWR0Y2VjZZ0gFmQVVfeXFMUHdYUEVVTGRxb1BoNmpGd1hNVDJzRzVDQWQyTUVBSE1FajFfRU9DM0NST3RNLUFrN2gwcVE3RGxTelk1bnNWUXF2S0xfbkg2TkcyR3p0MUR4bHRhWWxEMVg1eXZIX2RR?oc=5",
-      "pubDate": "2026-09-30T11:53:15+09:00"
+      "title": "제넨셀 창업자, 2심 징역 4년…\"김승원 통해 청탁 명백\"",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50ampCeU5yM2YwaGYzeFd2MEhlTjYwYXRFV3pfVG9zZG9WYmtScTZzREx5aUt0RUVSVUJzN3lwZ0ZBTXJIa3IxN1lYV1FwWFAyMFJHdmpuZUtLOXFWQ2NmYkE4MkQySDg?oc=5",
+      "pubDate": "2026-09-30T16:08:00+09:00"
     },
     {
-      "title": "[속보] 법원, ‘성폭행 목적 여고생 살해’ 장윤기 무기징역 선고",
+      "title": "국정원 \"김주애 후계 내정자 입지 강화‥키 160cm·몸무게 50kg 이상\"",
+      "source": "imnews.imbc.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Eb3RZQTVnZkNiLUs0M3c4ZTljd0d6cER5TDNCZDEzc0NhaFRnb2U2dlNNTEEwYThTQTJPeWtmZEQwNjFSNFBqS0JCSExmc3VtLUs4OFpyeHZUODV5WHhPRVBEUVQ3cktTMlhVc19PWWIxeW5NTUt3d9IBeEFVX3lxTE44N2JjUlJwVHAwc0wtOVF2RVU3ZzlMQTdqN3dCQjdRaC00QXlvOTk5YUZYdkxyZVRLTUJ1NU45Y0tDQW1SX3kxMElNNlVheEZiazRqSURxUWttSExuMXdicElhUk55ZmYwN3h0LV9ORHRQVG9sTFpUYQ?oc=5",
+      "pubDate": "2026-09-30T13:44:26+09:00"
+    },
+    {
+      "title": "유족 “채원이 느꼈을 공포 헤아렸나…검찰에 즉각 항소 요청”",
       "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fQVoxM0FaRnBEQzRaa2xBLXl2RWUzeE5IODg0dUgya1FBME9wOU5PbGN3T211d1YwdkNydXlqZDRGeUlJb1NUMHhWMERoalJxQWZRRTZMYXZySjA?oc=5",
-      "pubDate": "2026-09-30T14:26:00+09:00"
-    },
-    {
-      "title": "정부, 이란 다야니 2차 ISDS 승소...\"7,700억 유출 차단\"",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPSVhHN2l6MFFrc3JlN1p0NXc1OVdHckdzNkJvY1h2R214Y3F6SWRmNVZ3ZlJjTUlLTUt2Q2FuNmUycldpUS1tNEpFRlpkdFRicURDX1lEWDhOM2c5cHc?oc=5",
-      "pubDate": "2026-09-30T10:33:00+09:00"
-    },
-    {
-      "title": "청와대 \"대법원장 마음대로 대법관 앉히는 게 사법부 독립은 아냐\"",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81d3BPZjQwY1AtZmJ0ZE5WbDhGZWFqZmZpMllENWpNNkloUVhzX0ZoclVkbkItVkRDUGFRRDE1VzUxR29UTnl3V0ljd0xCeHN4eW9Yc09FZ1BKdUg0MFdweHZjMzFGZlhrWXhLRUczd3NVbEIzeDJaadIBeEFVX3lxTE1US2NqYzY5MmZSMzdlMXktVFFHaXN3MElmN1BqUVhfTlAxS2x3ZkRjNmJrc0JtajdycGZxOUktMUdmb1hlZF9iOEZVN0ZXZXR5RUZzWGs2d2RjcmdtSnNTbmlzRmtwUHpTZ1RFcWZHNHgtYmhsN0NVNg?oc=5",
-      "pubDate": "2026-09-30T09:03:54+09:00"
-    },
-    {
-      "title": "국정원 “김정은 140㎏대 초고도 비만, 이상징후 없어…주애 후계 입지 강화”",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81Yi1LZUctN1JNTTRxYlgwSFhRTjR4OEVuSW8tMHlDUHdILVpwM21aZVB3eWMwSE9CTmZqUXktNUF4bFdQSFdxbjk2V0JaTGFxQ0FIT1FsbHdVSE0?oc=5",
-      "pubDate": "2026-09-30T12:26:00+09:00"
-    },
-    {
-      "title": "오늘 늦은 오후부터 곳곳 ‘비 소식’… 일교차 10~15도로 커",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uODhmVHB0bzJqMUloUnBudDFhak5iRjZ0eGE0M0pNNmxNRDJON2owLTN6cnItcEdFbWVURGdDeVFoeUl0R2lmTElKSlBURXRBNjh2VjdPSkRqSU9JN0tGNEQ0OVZLZmg1bHY5eg?oc=5",
-      "pubDate": "2026-09-30T11:03:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZVZZRnF0UmQycV9CMmFMb180dzRkU2I2T0oya3RVaklIdnZRU1JtNkxhN2ZaVjNObVkxajcyQlpOUUM3UEtMX2JBeUhsTlA3NmIxdGlQX3BGcEE?oc=5",
+      "pubDate": "2026-09-30T15:58:00+09:00"
     },
     {
       "title": "[속보]李대통령, 30대·서울서 ‘부정’ 70%넘어…전체 긍정은 35.8%-한길리서치",
@@ -56,16 +50,28 @@
       "pubDate": "2026-09-30T06:54:36+09:00"
     },
     {
-      "title": "누리호 5차 발사 D-7…우주항공청장 “문제없이 진행”",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GRGZKekdMU0R6eW9mYS0wcFktOVFPNFBMWVVDbUJRTkFsbzdNZ1hNVnoxdEdSa3hiYWVJMHo0WEFKbEVuVy1oWnFmQ0p2VU1QMWZGRkkxZjFEQWM?oc=5",
-      "pubDate": "2026-09-30T13:45:00+09:00"
+      "title": "박지원 “조희대, 대통령 나오려고 인지도 작업…국감서 맞짱 뜰 것”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTExHSTNFWE5jMHlWYlhFVlBsWEE0SHlRUkFCdGJ3YlZBRHF5REJBUTNDdHhXQUFtVVVqazFxQ1FkNUlSRjVBYmpYMmVuSmduaVppUTlodXBrQ2s5VmxTSUJEZXF2aTN3WGZZVS1LQWJ2Tjdl?oc=5",
+      "pubDate": "2026-09-30T14:45:00+09:00"
     },
     {
-      "title": "트럼프 \"내가 있는 한 김정은 괜찮아...상당한 핵능력 가져\"",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxbTdMTlB0eXVGMHZYT1FZeHExN0xmSHZCNXpRVEVUYmJpWUZZd0VwSjdkaVRrb3BYWkdmcWJkVmUySnpLQ2t2RHoyQjljcUt3TzFLMER6OVZKT3hBQ0E?oc=5",
-      "pubDate": "2026-09-30T10:00:00+09:00"
+      "title": "오늘 늦은 오후부터 곳곳 ‘비 소식’… 일교차 10~15도로 커",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uODhmVHB0bzJqMUloUnBudDFhak5iRjZ0eGE0M0pNNmxNRDJON2owLTN6cnItcEdFbWVURGdDeVFoeUl0R2lmTElKSlBURXRBNjh2VjdPSkRqSU9JN0tGNEQ0OVZLZmg1bHY5eg?oc=5",
+      "pubDate": "2026-09-30T11:03:00+09:00"
+    },
+    {
+      "title": "이 대통령 “남에 기댄 안보는 흔들리기 마련…자주국방은 곧 주권”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BYkdTWVQybGdYWTl6OXVnT0hielRqU0JxVHQyRlNXZXpwUU5WVkplbFdwZTJvcTBaOXgwWXlhYUVrYUdadF9TZHNMTU1mQVNEYnJ4VDdSU2xfT191Uk1GMEdPNDJTTkpZU01n?oc=5",
+      "pubDate": "2026-09-30T15:48:00+09:00"
+    },
+    {
+      "title": "트럼프 “김정은은 내 친구…북한, 상당한 규모 핵능력 보유”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOUo5WVlXcjRMLVdRakxwLWlySWpHVVVKSWdEWkVUN2Q4R3NsY09EbWJjcWprZW1sbmJ6WUVubnhtNUNuUkJtQUZPN3VSYjRPMEdFSTZjdG1pRXZHTWoxcmJvZWN1Sm9WRzhOT2xBQnhRODhrdm1WdjROdlo5ejRwOVBn?oc=5",
+      "pubDate": "2026-09-30T15:53:00+09:00"
     },
     {
       "title": "트럼프 만찬 빠진 중국 CEO들…\"상호주의·대미투자 이견 탓\"",
@@ -74,40 +80,46 @@
       "pubDate": "2026-09-30T14:17:00+09:00"
     },
     {
-      "title": "파키스탄 \"후티 반군 공격받는 사우디 방어에 모든 수단 동원\"",
+      "title": "미·이란 교착 풀리나‥카타르 중재로 이틀째 협상판 복원 추진",
+      "source": "imnews.imbc.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BVmZtTVVhb0U1TlllWnRtTEVHbFRyYW9NOXRmVEE3NWM2X1A5ems5aXFZbmE2TmFTY3ZQdUZBQUxiUE5mLVhIRnlfUVJ2LUM0aWlkRkF4UGRKSFRsLXZUOUdHSHNhRWRrWHZZblpBVjAxdk1I0gF0QVVfeXFMUEhmc0lUZWczVDN1djc2WUFDQmY4SmstTS1LMmY2algyeU9zeDFfVWhtVm9GdXhyWjVDNjJ3aG1IQ0puaFYwd0Y3UGtiak51VzB4R2JCT2NQQzZ3a2FXbGMtLUVtaVBHMUZ4OEJTcnJYOUxXYVI?oc=5",
+      "pubDate": "2026-09-30T13:43:13+09:00"
+    },
+    {
+      "title": "사우디, 후티 공세 탓 앙숙돼가던 UAE와 화해 추진",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16S3Zsck9lYkMwT0oxNElneUhqd1NHR1prQXZLZllGTzJOOHF0WWdXazQ1OFJGeGUxd2c1b3BUcmxLX3BxVVpBRnlTcU9iTElBcGNjbnd1cnlqMHfSAWBBVV95cUxNcWdMb0htWTVmRnpTYy1Ca1diRjVaV3R5dllVSjNoakNxSUVBV1BwRnZTT1RXMHoyTF81NWc0dmhEclBibFN1SVExaThYNXF5blRZRUpmbHR3Y01OX0Nmc3o?oc=5",
-      "pubDate": "2026-09-30T10:10:21+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94N3B6M3NzQzdSaEZ5LWZFMnZROHVQeVRPR3RYUk1KUThKMXJRWnZyQlNVal9IZnk5ZXBCbVl2eFMxalpqWVphZmFTanpxRkdUMjU3TEFOVjZKV1nSAWBBVV95cUxPVDdscDlZUnBIanp6bjVKbVFVaVNkTDlwZTUyd0xGSmxXWnFpa0ttczNjM29oaFAxT1BpS3BRSjVIcmJNd2FrN2R5YmZtWkZlNnVuajRaam9IVWF5c0ZmTUw?oc=5",
+      "pubDate": "2026-09-30T11:20:14+09:00"
     },
     {
-      "title": "13개월 치와와, 멕시코 방위군 신병으로 데뷔",
-      "source": "마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02QXZ6YUtaWE9PcWxPVEZQTW51MUpfVEpTaENCVFZkdUF6cUw2QU9ueGQ2dzBDRG5VS1pQaWkzNktCUHhvUUd3RVB5ZGF6Mnh5UC1NUW1jbTRrUUkxZzRvUWlhNGREN08wN3Q0WF9WQjB6aEE?oc=5",
-      "pubDate": "2026-09-30T14:07:13+09:00"
+      "title": "“트럼프, 한국 ‘알래스카 LNG 76조 투자’ 발표 임박…30일 할 수도”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZndCbVhaZW9GQ3BjaUR2TVZFN1ViRXVQM0d0UFRxaTd4R1h3OW1TVUdncC1oU2lFVm1KdHRybDlKMFpFaGl3UVpLZ2V1WFJHQWJ0UlBuaWtUN0JyVGFDaHZuREQ5ekdIbFByQ2FSTQ?oc=5",
+      "pubDate": "2026-09-30T11:04:00+09:00"
     },
     {
-      "title": "이형일 \"금리 상승 과도하면 긴급바이백·초과세수 활용 국채발행 축소\"(종합)",
+      "title": "코스피, 美 장기금리 부담 딛고 1%대 상승…AI 투자 수혜 기대",
       "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ySWtSQnhtU0hYUjZmYkEzR3ZxVXhpMV8zeVZPa19hTjJPVTU4eUJuQlZUbTV5bDJ3cXo0ZlVtZ29NWGM2eXR2eHd1NDNud3JyQTVWUTN0djdWLVBlczhqb1VQTHlpZUFVNWk5OTAzY1o?oc=5",
-      "pubDate": "2026-09-30T09:46:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WYVMzNHZGRlNzZzFqaEt0RVBiNGNnSVdEVVhjU2kzWFU0Z3Z1QzVFdnEwZkdYeTFGOVlwNTJnZHhpTDhnbWwwZlNxbW9WbUJ0ZllXWDU0VDN4dEpjUWlwYVU4WVVtQ0dQS0s1RkxzemM?oc=5",
+      "pubDate": "2026-09-30T09:25:07+09:00"
     },
     {
-      "title": "\"트럼프, 30일 알래스카 LNG사업에 韓540억불 투자 발표 예상\"(종합)",
+      "title": "'청주-제주' 예약 어렵더라니…대한항공 등 '좌석 수 유지' 위반",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03VEZicjU5RWhkcjhSaWE1cHJ1LWR4aExralZNcTRwZm03ZGRXZmNWcFE5LWFqSTVsZlQ4TTZUWXkwT0piN1g2aWxhdUlWUUlTTXN5VlhWU0c4TzTSAWBBVV95cUxNVE11ZEdwd3NIWlpqbVRHQ3BuVEdwRlotSklaaHdJSkVlN1Z0UkUtWWlZZzFSTXpmMEZSb0FVMHlCeGRrczJtbnlIYUJKWUZEZktRRXFZMEJhNlRKMHJyVlo?oc=5",
-      "pubDate": "2026-09-30T07:28:02+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FY1ZscTVDUmJfLUpiZjBPUWJCY3JtUlRhOWM5X0tzaldLRjVsbHRlODZ0Z052YURYUUFtZWlYYUdDcU9PdG9QN2c5NE9IaEVnWENnRnRQWTRyYXPSAWBBVV95cUxNdzdGbDE3blVMSDV5R1VOY2tUZXdwT2VzdVhBRG45T1VMMFpyS1JaRlRLcXY0UkdLYUdJUHVkQzlvbEpuLVV0OW1QX3hiSDhiMkVPakF2eEd6MEgwZDluVlg?oc=5",
+      "pubDate": "2026-09-30T12:00:05+09:00"
     },
     {
-      "title": "공정위 “대한항공 ‘청주-제주’ 노선 좌석 수 줄여” 제재 착수",
+      "title": "올해 서울 아파트 입주 물량 줄고 인허가·착공 늘고",
       "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLVdyUEtUa3kzM0ZmRWpoNmY3Y1FZbXdZaFVsZnhrTlBGUGpDUk56c2w2VkxNczZSNnViX2Y4OG4zMDJwWE9wTUhkWGpZNmJBaXFIZ1hiWTU5VVU?oc=5",
-      "pubDate": "2026-09-30T12:02:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yTGJUcS1tV2hSZGNSNkZ1ZUZzOE0tQ2I3MUlsWjhzdHFyMDhsWmJHTkZjbmpoS0lObUxkUzRjdlVmeDRfQ0gxdG1uVjR6UFEwSFl4cTlrbWtBamM?oc=5",
+      "pubDate": "2026-09-30T07:56:00+09:00"
     },
     {
-      "title": "월가 전문가 \"글로벌 국채금리 급등, 엔 캐리 청산 아닌 재정적자 탓\"",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ZHlqTW5DRDZ1OG53c2JlZk50MVpXZ05LcEp3M2kzUng1Q18wdnRiMjBTNWY0ODBnQnVHc2JmNHRXUXZOd2pILWlaZTRYMFpKZGFSdVpicEVjaWRsREROLWNtWUt3a18zbWRGMFlfdzY?oc=5",
-      "pubDate": "2026-09-30T12:25:51+09:00"
+      "title": "'젤다의 전설 시간의 오카리나' 예판 시작⋯구매 특전 어디서 어떻게?",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VTXhUZTNuaDJZM21qNW1pcENzXzNyaDdnYUZ0QW1UVEhWcHdNVkptYlFTWk9tZWJ5NVAzQjloeTRHUzRNRUZVWE1Td3Q2TWVRb3lfaGJ1V3ItcWhIOElMejFYS2MzN2hBWmhDSA?oc=5",
+      "pubDate": "2026-09-30T16:07:00+09:00"
     },
     {
       "title": "구글 검색 광고 타고 들어간 ‘챗GPT 플러스’... 맞춤형 GPT가 악성코드 설치 안내",
@@ -122,16 +134,16 @@
       "pubDate": "2026-09-30T11:17:24+09:00"
     },
     {
-      "title": "게임 성능 이어 그래픽 품질 업스케일링, 엔비디아 DLSS 5 알아보기",
-      "source": "bodnara.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fUEt2RDFyRWpuM0t0aVlCb3VtTUczdnF5cGQ5azF3cjJQbkpKNHZ0cHdBZTRpRm81OTJSYnMwWWpfVWVwWlJTNXZsRUhleTc4b0VBR004c09CVmZYNkFLNkVzRQ?oc=5",
-      "pubDate": "2026-09-30T13:00:00+09:00"
-    },
-    {
       "title": "육영수 여사 피격 직전 경호팀 이탈?… “실제론 현장서 대응사격”",
       "source": "문화일보",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tYXRYNFpFc1dpN1BvNXdoNVo5bU9LTWttX3NHbjNwZXZPNmMzalVwMEtkQ2NRel8zREV1TWhGQm9jOGdzaUxTYmlZMDVnUl9O?oc=5",
       "pubDate": "2026-09-30T11:58:08+09:00"
+    },
+    {
+      "title": "방탄소년단 RM, 국립중앙박물관에 1억 원 기부…“소장품 구입에 써달라”",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NN29vOEZvbzVteGlDdGdIenUyQnQ3ZDVFVk15WkhLSGM1bTFUdmNERXpWSUUwME9PUi10UGR2Z05RRDZGTmZPeGkySVY4N3ROYnVUMVZaZUVqOTVVdDZtY3FCaWhxdw?oc=5",
+      "pubDate": "2026-09-30T15:53:00+09:00"
     },
     {
       "title": "윤항기 \"고물상서 재료 사 직접 드럼 만들어…음악은 곧 제 삶\"",
@@ -146,70 +158,208 @@
       "pubDate": "2026-09-30T14:09:00+09:00"
     },
     {
-      "title": "'우발라2' 주우재 \"모델계 임진모라 '주진모', 사실 무리수…시청률 오르면 새 합류진 덕분?\"",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemZtNEFxS0ZXMGFBS19OSnE5eW9mNHpldFJwdktNbW1HUkJQUWFwYTZqbEpBVW1nbFJNUHBBNFUxUXBDcm5uNE8wdGJhSkw0eVN5cDJOTEwzYzMyTWE0OGMyZno4T2RmQ1ZOMTFWQ3pObmxjb2EyRFdYbVdqRl9aQWFBcjRKUXB0MElsTE9tTQ?oc=5",
-      "pubDate": "2026-09-30T13:07:00+09:00"
-    },
-    {
       "title": "[아시안게임] 양궁 시상 나선 정의선 회장 \"협회가 할 일이 많다는 것 느껴\"",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jMGJwYkM2czlqQW53aU51Y0VoVUF2N2FoeV9FVHA2MEY1X21DZDJKUEpjUmZyUU1sQmFWNDBPbFhWS1YyNGE0WEkwblhIcG9HS2ZtRFZlMENrYzjSAWBBVV95cUxNQXotT0hoamF2OU1Id3QyUjZ6ZEtLM1hpYWRxTHVBZWN3Tk9ZbEw1Wm95RTJVSXhRem43YVRGN1NRY0owSXN4MWI2a19ydzdoQTNySW9vNTVVeXZXWEJiSW8?oc=5",
       "pubDate": "2026-09-30T14:22:50+09:00"
     },
     {
-      "title": "안세영, 금빛 미소",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03THFBTXJkZUZNZUVsOXNSRUVDQUdnZXo4SWRHbUZ5cktIN1NKMEZhMGpYeEIwQW8tTVhrRVJTZl92MHZxcjFNSkgzV0NVOFgwVVFmMmFqblVHUQ?oc=5",
-      "pubDate": "2026-09-30T12:41:00+09:00"
+      "title": "정수진, 무작위 계체 100g 초과…아시안게임 출전 불발",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Qd1hwMGE1SmJNNXZDN0xSQkJHUWU3dmh4dWJoR2doZXV0bHVBWndmb1Roc1FEQlBZMjlQamVrTk91d3ZNempsRnMxSThra29peGExMU5WUHRJcXlFVFVrRWplZ2J3RGc?oc=5",
+      "pubDate": "2026-09-30T13:49:00+09:00"
     },
     {
-      "title": "[기고] 왜 우리는 일본 사회인야구를 '동네 조기야구'로 착각하는가?",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0dUY2MUdsNTJ0aTdiY0MxeUhybzdoSlRJd3plODNPVWp3Z0dmU3I5SDRDVk91YUFyOFVta09Kd1Y3MVRVMWhBa3ZKQ3ZJQQ?oc=5",
-      "pubDate": "2026-09-30T12:13:06+09:00"
+      "title": "[아시안게임] 8년 만의 메달 도전은 남았다…여자축구, 10월 2일 중국과 격돌",
+      "source": "koreancenter.or.kr",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjbWJfUFFuQlNTWUd3aDdtOVNtTzBJZkJnOWM1U19Jbm1RNTd3Q3lkWGtrVVJuSG1aWjY5SE8wajBmQmdjTlhBdXZFRDNONGhWTzMzaExzbURzWXA3aFZVQW5HZk9oZ0gwUVdNT2d6SUEwWHpo?oc=5",
+      "pubDate": "2026-09-30T10:27:43+09:00"
+    },
+    {
+      "title": "[영상] 안세영에 진 야마구치 10초 침묵하더니 “어쩔 수 없다고 말 할 수밖에”",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmRXVSLVZTbHhnSnV1dzFjTnU4eTBSMEg5OEp2VnBHT0xNZnh3dUpkcmdlQU9CLVRXTGhTblpsclBOTTZ4NWNkYXNqUXVYa3kyMkl1NFI0ZUdyRWc?oc=5",
+      "pubDate": "2026-09-30T13:22:00+09:00"
+    },
+    {
+      "title": "“목소리 20초만 들으면 안다?”…당뇨병 위험 판별하는 AI [건강팩트체크]",
+      "source": "donga.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ubXRkS19Cc2U4S1RYbUdSUkxOcEdJMUdzNWNXMnUzWUV2UE1KZzdOdXRVTWJTUF84cnBVeFhPbHg3UWo1NmNEdVFvVjFUUnJmX2wzT1FoUWN1ckxvZVlYRWVtRC1UeFZBc0VyMGpHRdIBZkFVX3lxTE1wWFI2MG8yRUNrVUtpUTJLZ0RlYjV4eHJQeHhmc1VSbDVBd0xOb19kVlNPVXFEbEFuR2FVRWRZMXltSk4xN0VSSm90dE5EZXJ5RDF4SjRHdWNGTzZublZhWkdHYkp0UQ?oc=5",
+      "pubDate": "2026-09-30T14:04:01+09:00"
     },
     {
       "title": "분당서울대병원 연구팀, 담도암 발생부터 재발·전이까지, ‘암 진화 경로’ 규명",
       "source": "시사일보",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WSjNuMVFPczktVW9RZnZIbTJzb2ZDbjcyUVN5Q3FTLUtRbHZ4M2xEYjU1QXJ5Mm41WFdqZkRLRlZ5RHFFNUsxcUN5QUg?oc=5",
       "pubDate": "2026-09-30T10:28:00+09:00"
-    },
-    {
-      "title": "항생제 안 듣는 ‘슈퍼 박테리아’ 감염 사망 85%, 60세 이상 고령층",
-      "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56MDJVWXhNR0xoRk9MSHhOcWhGZVZxb3dQckZRUGY1SmxvVnFOSE45M2ZLM1ZpS0x0ZU55N3haMHlrbFViQU9ieklidXVnbkFkNXgzV0lLVHBGeFppVkRPRjI4RFJXcGU4MGZNNzk4QlZTQXhwTEHSAWZBVV95cUxQejc0Mmh4dGVpRWd5LTFBZmtsMjQ0eW4tUndSMnlwbXEzNGVNeVh6OFN3cW10U29HZlJQTEF4cFk1M1EzRkJoZjJQYmp5eHZjV21SbFk3UTNYNlJ1TXpCV3REQUZWMEE?oc=5",
-      "pubDate": "2026-09-30T10:38:54+09:00"
-    },
-    {
-      "title": "체중감량 넘어 노화까지?…GLP-1, 건강수명 전략으로 연구 확장",
-      "source": "medigatenews.com",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2ZXpnR2duWGNOZkV2bGtsQmVKQm9MODV6VloyT09URmNfSzRzNTRWakJhWnk5NTA1NHRIczAyU1FFM0hUTjVsRjVub20zTF9rVkpxbUNZWQ?oc=5",
-      "pubDate": "2026-09-30T10:26:00+09:00"
     }
   ],
   "trends": [
+    {
+      "term": "하사",
+      "pubDate": "2026-09-30T15:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "20대 공군 하사, 관사서 사망…‘○○○ 때문’ 붉은 글씨로 10명 적었다",
+          "snippet": "",
+          "url": "https://news.jtbc.co.kr/article/NB12320653",
+          "source": "JTBC"
+        },
+        {
+          "title": "단독 관사 문에 새긴 '붉은 이름'...22살 공군 하사의 비극",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609291239016681",
+          "source": "YTN"
+        },
+        {
+          "title": "[속보]공군사관학교서 20대 부사관 숨진채 발견…당국 수사 중",
+          "snippet": "",
+          "url": "https://www.munhwa.com/article/11620299",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "term": "kbo 리그",
+      "pubDate": "2026-09-30T15:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "다년계약 하고 싶다더니…KBO리그 초토화→ML 복귀 가능성, 아빌라 “추후 생각하겠다”",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260930121344240",
+          "source": "Daum"
+        },
+        {
+          "title": "누추한 KBO에 도대체 왜 왔습니까! → 아빌라 대답은 \"나도 몰라!\" 9개 구단 공포. SSG만 신났다",
+          "snippet": "",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/30/ME2DMYLGG4ZTOYZRGYYTOYZWMY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "최고 외인투수는 SSG 아빌라…9이닝 1실점 두 번째 완투승",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20260929184300007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "term": "장윤기",
+      "pubDate": "2026-09-30T15:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "장윤기에 '무기징역' 재판부 \"우리나라는 사형폐지국\"",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260930152301841",
+          "source": "Daum"
+        },
+        {
+          "title": "[속보]‘여고생 살해’ 장윤기, 1심서 ‘무기징역’",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202609301422001",
+          "source": "경향신문"
+        },
+        {
+          "title": "장윤기 무기징역에…\"엄마가 미안해\" 이채원母 17분간 오열",
+          "snippet": "",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6306180",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "term": "양준일",
+      "pubDate": "2026-09-30T15:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "양준일 근황...맨살에 재킷 과감 착장 \"10월 10일 빨리 오겠지요\"",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260930103653178",
+          "source": "Daum"
+        },
+        {
+          "title": "57세 양준일 근황, 장발에 짙은 화장…맨살 재킷 패션 '파격' - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093011414577274",
+          "source": "머니투데이"
+        },
+        {
+          "title": "양준일, 맨몸에 가죽 재킷… 파격 근황 화제",
+          "snippet": "",
+          "url": "https://www.hankookilbo.com/news/article/A2026093013420003091",
+          "source": "한국일보"
+        }
+      ]
+    },
+    {
+      "term": "뉴스",
+      "pubDate": "2026-09-30T14:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "李대통령 'SNS 게시글' 우크라서 확산…\"젤렌스키 모두를 배신\"[이런일이]",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20260930140306195",
+          "source": "Daum"
+        },
+        {
+          "title": "국정원 “북한군 포로 송환 비공개 원칙 합의”",
+          "snippet": "",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036275",
+          "source": "기호일보"
+        },
+        {
+          "title": "김병주 \"코미디언 출신 젤렌스키, 한국상대로 쇼…배은망덕\"",
+          "snippet": "",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/30/MVISLJGUWBEOHBQR2FDWRQ5XDQ/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "term": "주병진",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "주병진, 이경규에 서운함 토로…\"힘들 때 문자도 없어\"",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20260930_0003808819",
+          "source": "뉴시스"
+        },
+        {
+          "title": "'일밤' 콤비였는데…주병진 \"이경규와 30년간 못봤다, 섭섭\"('남겨서 뭐하게')",
+          "snippet": "",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010568",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "주병진, 30년 만에 이경규 재회 ‘서운함 폭발’",
+          "snippet": "",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=91282",
+          "source": "미디어파인"
+        }
+      ]
+    },
     {
       "term": "김정은",
       "pubDate": "2026-09-30T13:30:00+09:00",
       "newsItems": [
         {
-          "title": "“왜 北은 핵 가져도 되냐” 묻자…트럼프 “내가 대통령이니까”",
+          "title": "국정원 “김정은 140kg 초고도비만…주애 160cm, 50kg 넘어”",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260930104713840",
+          "url": "https://v.daum.net/v/20260930115458274",
           "source": "Daum"
         },
         {
-          "title": "트럼프 \"김정은 내 친구…내가 있는한 괜찮을 것\"",
+          "title": "\"김주애 후계 내정자 입지 강화…키 160cm·몸무게 50kg 이상\"",
           "snippet": "",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260930063827SIk",
-          "source": "연합뉴스TV"
+          "url": "https://www.yna.co.kr/view/AKR20260930094800001",
+          "source": "연합뉴스"
         },
         {
-          "title": "“이란은 핵 안 되고 북한은 왜 되나?” 트럼프에게 묻자 [지금뉴스]",
+          "title": "국정원 “김정은, 140kg대 초고도비만…전담의료진 밀착 관리”",
           "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674412",
-          "source": "KBS 뉴스"
+          "url": "https://ichannela.com/news/detail/000000552884.do",
+          "source": "채널A 뉴스"
         }
       ]
     },
@@ -218,10 +368,10 @@
       "pubDate": "2026-09-30T13:20:00+09:00",
       "newsItems": [
         {
-          "title": "샘 오취리, 121일 만에 SNS 재개 \"가끔은 삶을 돌아볼 필요 있어\"",
+          "title": "“갈 곳 없어 한국에 남았다” 샘 오취리, 121일 만 SNS 재개…10년 세월 ‘깜짝’",
           "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260930_0003808796",
-          "source": "뉴시스"
+          "url": "https://v.daum.net/v/20260930102011201",
+          "source": "Daum"
         },
         {
           "title": "샘 오취리 \"지난 시간 돌아보며 삶에 감사\"… 오랜만에 전한 근황",
@@ -242,22 +392,22 @@
       "pubDate": "2026-09-30T12:10:00+09:00",
       "newsItems": [
         {
-          "title": "'16살 차이' 코미디언·스타, 결혼 3년 만→'이혼' 발표…\"서로 다른 길 선택\" [MHN:글로벌]",
+          "title": "'9년 전 셰프와 이혼' 김새롬, 연애 쉰 적 없다 \"남자, 몸만 들어와도 돼\" (라스)",
           "snippet": "",
-          "url": "https://v.daum.net/v/20260930103017713",
+          "url": "https://v.daum.net/v/20260930082945750",
           "source": "Daum"
         },
         {
-          "title": "“해외서 딴남자 애까지 낳았는데 이혼안해줍니다”",
+          "title": "'이혼' 김새롬, 재혼 향한 강한 의지 \"몸만 와도 괜찮다\" - 머니투데이",
           "snippet": "",
-          "url": "https://www.munhwa.com/article/11620366",
-          "source": "문화일보"
+          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093009545085338",
+          "source": "머니투데이"
         },
         {
-          "title": "해외서 혼외자 출산한 아내에게 \"이혼 못 해\" 10년째 버티는 남편, 왜?",
+          "title": "김새롬, 재혼 욕심 고백 \"연애 쉰 적 없다…정리도 여자 서장훈\"(라스) - 조선비즈",
           "snippet": "",
-          "url": "https://www.news1.kr/society/general-society/6305556",
-          "source": "뉴스1"
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/30/GM3GEYRUMZQTMNLBMNRDONLFGQ/",
+          "source": "Chosunbiz"
         }
       ]
     },
@@ -272,160 +422,16 @@
           "source": "요즘IT"
         },
         {
-          "title": "AI가 내 돈 빼서 옮긴다? '뱅크런' 경고...'뮤즈' 돌풍이 불러올 변화는 - 머니투데이",
-          "snippet": "",
-          "url": "https://www.mt.co.kr/world/2026/09/30/2026092919095040742",
-          "source": "머니투데이"
-        },
-        {
           "title": "[아경의 창] 눈을 가진 AI, 눈 감을 때도 알아야",
           "snippet": "",
           "url": "https://v.daum.net/v/20260930103142777",
           "source": "Daum"
-        }
-      ]
-    },
-    {
-      "term": "건설근로자공제회",
-      "pubDate": "2026-09-30T11:20:00+09:00",
-      "newsItems": [
-        {
-          "title": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260929150400530",
-          "source": "연합뉴스"
         },
         {
-          "title": "건설근로자공제회, 특별퇴직공제금 지급 구간 4년 이상 적립자까지 확대",
+          "title": "뮤즈 출시 후 20%씩 주가폭락한 이 업종...'구독 관리' 기능 충격파",
           "snippet": "",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=449607",
-          "source": "서울Pn"
-        },
-        {
-          "title": "건설근로자 퇴직공제금 4년 적립 시 10만원 더 받는다",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20260929_0003807441",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "term": "채시라",
-      "pubDate": "2026-09-30T11:10:00+09:00",
-      "newsItems": [
-        {
-          "title": "58세 채시라, 올화이트룩에 핑크 워커…패션센스",
-          "snippet": "",
-          "url": "https://www.segye.com/newsView/20260928503294",
-          "source": "세계일보"
-        },
-        {
-          "title": "\"58세라고?\"…채시라, 나이 믿기지 않는 '흰티·반바지' 레전드 몸매",
-          "snippet": "",
-          "url": "https://www.osen.co.kr/article/G1112882914",
-          "source": "OSEN"
-        },
-        {
-          "title": "채시라, 57세 안 믿기는 미모…흰 티에 청바지 ‘심플’ 패션도 우아하게",
-          "snippet": "",
-          "url": "https://m.newsen.com/news_view.php?uid=202609291405162110",
-          "source": "뉴스엔"
-        }
-      ]
-    },
-    {
-      "term": "뇌물",
-      "pubDate": "2026-09-30T11:10:00+09:00",
-      "newsItems": [
-        {
-          "title": "[판결] 압수수색 중에 증거 치우려 했는데 무죄 받은 이유",
-          "snippet": "",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227030",
-          "source": "법률신문"
-        },
-        {
-          "title": "뇌물 받고 수의계약 준 지자체 공무원…대법서 징역 2년 확정",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260929185000004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "공무원 車 안에 금품 1억… 징역형 확정 - 조선비즈",
-          "snippet": "",
-          "url": "https://biz.chosun.com/topics/law_firm/2026/09/30/B5CRAEO3HFBABNBZSDXZZMOXGI/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "term": "성현주",
-      "pubDate": "2026-09-30T10:40:00+09:00",
-      "newsItems": [
-        {
-          "title": "\"허경환과 자주 잤다\" 유부녀 개그우먼 '폭로' - 머니투데이",
-          "snippet": "",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093010280158593",
+          "url": "https://www.mt.co.kr/world/2026/09/30/2026093014201899563",
           "source": "머니투데이"
-        },
-        {
-          "title": "성현주 \"과거 우리집서 허경환과 자주 잤다\" 충격 고백('짠한형')",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260929101946333",
-          "source": "Daum"
-        },
-        {
-          "title": "성현주, 애둘 유부녀인데..\"허경환과 집에서 자주 잤다\" 폭탄발언 '초토화'[순간포착]",
-          "snippet": "",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/30/G42WCMZVGFSWCMBXGZRDEYZZHE/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "term": "유재명",
-      "pubDate": "2026-09-30T10:10:00+09:00",
-      "newsItems": [
-        {
-          "title": "‘백발’ 유재명, 유재석보다 동생이었다..“이름 부르기 좀” 반전 나이에 폭소 [Oh!쎈 예고]",
-          "snippet": "",
-          "url": "https://v.daum.net/v/GvS5FVIkCB",
-          "source": "Daum"
-        },
-        {
-          "title": "\"편하게 부르기가\"…54세 유재석, '한살 동생' 유재명 '큰아버지 포스'에 멈칫",
-          "snippet": "",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6305318",
-          "source": "뉴스1"
-        },
-        {
-          "title": "“동생이라고?” 54세 유재석…53세 유재명 ‘백발포스’에 멈칫 “이름 부르기가 좀”",
-          "snippet": "",
-          "url": "https://www.sportsseoul.com/news/read/1638448",
-          "source": "스포츠서울"
-        }
-      ]
-    },
-    {
-      "term": "경기도교육청",
-      "pubDate": "2026-09-30T10:10:00+09:00",
-      "newsItems": [
-        {
-          "title": "충북교육청, 2027학년도 중등 신규교사 선발 공고 : 네이버 블로그",
-          "snippet": "",
-          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224426288342&redirect=Dlog",
-          "source": "Naver Blog"
-        },
-        {
-          "title": "수학 선생님 절반으로 줄었다…서울 공립 중등교사 등 694명 선발 [세상&]",
-          "snippet": "",
-          "url": "https://v.daum.net/v/20260930100155030",
-          "source": "Daum"
-        },
-        {
-          "title": "내년도 대구 중등교사 선발…공립 232명·사립 37명",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20260930073100053",
-          "source": "연합뉴스"
         }
       ]
     }
@@ -438,38 +444,38 @@
     },
     {
       "rank": 2,
+      "title": "李대통령, DMZ 지뢰사고 부상 장병 위문…\"합당한 보상·예우 반드시...",
+      "link": "https://news.nate.com/view/20260930n21231"
+    },
+    {
+      "rank": 3,
       "title": "北 김여정 \"DMZ 폭발 사고는 자작극…총탄 한발이라도 쏘면 각오\"",
       "link": "https://news.nate.com/view/20260930n03466"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "유해진 생긴 게 \"북한상\" \"노무현은 누가 밀었나\"…국힘, 암살자(들) ...",
       "link": "https://news.nate.com/view/20260930n05600"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "[단독] 부친상 숨겼던 조희대, 조의금 봉투째 다 돌려줬다",
       "link": "https://news.nate.com/view/20260930n15791"
     },
     {
-      "rank": 5,
-      "title": "'다듀 개코와 이혼' 김수미, 배우 도전…\"손석구에 맞고 욕 들어도 된...",
-      "link": "https://news.nate.com/view/20260930n20777"
-    },
-    {
       "rank": 6,
-      "title": "李대통령, DMZ 지뢰사고 부상 장병 위문…\"합당한 보상·예우 반드시 챙...",
-      "link": "https://news.nate.com/view/20260930n21231"
+      "title": "[포착] \"고통 짐작도 안 돼\" 피범벅 운동화로 42㎞ 달렸다…메달보다 값진 ...",
+      "link": "https://news.nate.com/view/20260930n14438"
     },
     {
       "rank": 7,
-      "title": "\"유해진에게도 실망\"…'암살자(들)' 불똥, 버거킹 광고 댓글 창 막았다",
-      "link": "https://news.nate.com/view/20260930n01851"
+      "title": "\"욕 나오게 잘생겨\" 송강, 카페서 우연히 포착…183cm 팬도 내려다본 피지...",
+      "link": "https://news.nate.com/view/20260930n24257"
     },
     {
       "rank": 8,
-      "title": "[포착] \"고통 짐작도 안 돼\" 피범벅 운동화로 42㎞ 달렸다…메달보다 값진 ...",
-      "link": "https://news.nate.com/view/20260930n14438"
+      "title": "'다듀 개코와 이혼' 김수미, 배우 도전…\"손석구에 맞고 욕 들어도 된다\" ...",
+      "link": "https://news.nate.com/view/20260930n20777"
     },
     {
       "rank": 9,
@@ -478,38 +484,38 @@
     },
     {
       "rank": 10,
-      "title": "빅뱅 지드래곤, 신혼여행 떠났다 \"태양에게는 ♥민효린 있는 관계로\"",
-      "link": "https://news.nate.com/view/20260930n21881"
-    },
-    {
-      "rank": 11,
-      "title": "국민연금 5년 늦추면 36% 더 받는다…84세 넘겨야 이득",
-      "link": "https://news.nate.com/view/20260930n03651"
-    },
-    {
-      "rank": 12,
-      "title": "개봉 4일 만에 '100만' 파죽지세…역사 왜곡→경찰 고발에도 '우뚝' 정상 ...",
-      "link": "https://news.nate.com/view/20260930n03584"
-    },
-    {
-      "rank": 13,
       "title": "'李 아들 군면제' 허위글 이수정 선처 호소…\"무척 부끄럽다\"",
       "link": "https://news.nate.com/view/20260930n02859"
     },
     {
+      "rank": 11,
+      "title": "'뒷담 피해' 나솔 31기 순자 \"연봉 자진해서 삭감\" [소셜in]",
+      "link": "https://news.nate.com/view/20260930n26025"
+    },
+    {
+      "rank": 12,
+      "title": "'여고생 살해' 장윤기 1심 무기징역…\"사회서 영구 격리 타당\"(상보)",
+      "link": "https://news.nate.com/view/20260930n24637"
+    },
+    {
+      "rank": 13,
+      "title": "국민연금 5년 늦추면 36% 더 받는다…84세 넘겨야 이득",
+      "link": "https://news.nate.com/view/20260930n03651"
+    },
+    {
       "rank": 14,
+      "title": "\"유해진에게도 실망\"…'암살자(들)' 불똥, 버거킹 광고 댓글 창 막았다",
+      "link": "https://news.nate.com/view/20260930n01851"
+    },
+    {
+      "rank": 15,
       "title": "국정원 \"北 포로 송환 '비공개' 공감대…'무기 지원' 기대한 듯\"",
       "link": "https://news.nate.com/view/20260930n15360"
     },
     {
-      "rank": 15,
-      "title": "\"'세계 9위' 한국을 화나게 해서 어쩌려고\"…우크라 현지서 나온 '뼈아픈 ...",
-      "link": "https://news.nate.com/view/20260930n06571"
-    },
-    {
       "rank": 16,
-      "title": "[단독] 서울 시내 대학교에서 여대생에 흉기 휘두른 외국인&#8943;범행 직...",
-      "link": "https://news.nate.com/view/20260930n10448"
+      "title": "\"미안해 내 딸아\" 유족 오열에도…장윤기 끝까지 '무표정'",
+      "link": "https://news.nate.com/view/20260930n27668"
     },
     {
       "rank": 17,
@@ -518,18 +524,18 @@
     },
     {
       "rank": 18,
-      "title": "\"고작 100g에 4년이 날아갔다\" 유도 정수진, 당일 불시 계체 실패로 '충...",
-      "link": "https://news.nate.com/view/20260930n17565"
+      "title": "'계엄표결 방해' 추경호에 징역 20년 구형…\"내란 가담\"",
+      "link": "https://news.nate.com/view/20260930n26981"
     },
     {
       "rank": 19,
-      "title": "배현진 \"박진영 '무보수 봉사'? 월 200 지급…출연료 비해 적어서냐\"",
-      "link": "https://news.nate.com/view/20260930n04430"
+      "title": "\"'세계 9위' 한국을 화나게 해서 어쩌려고\"…우크라 현지서 나온 '뼈아픈 ...",
+      "link": "https://news.nate.com/view/20260930n06571"
     },
     {
       "rank": 20,
-      "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…지뢰폭발 사고 정전협정 위반\"",
-      "link": "https://news.nate.com/view/20260930n09069"
+      "title": "[단독] 서울 시내 대학교에서 여대생에 흉기 휘두른 외국인&#8943;범행 직...",
+      "link": "https://news.nate.com/view/20260930n10448"
     }
   ]
 }
