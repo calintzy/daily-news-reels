@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-02",
+  "account": "aibrief",
+  "hookLine": "구글이 코딩·보안 벤치마크 석권 모델 공개했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 모델",
+      "kicker": "7개월 만의 신모델",
+      "title": "구글, '제미나이 4 아르곤' 공개",
+      "summary": "구글이 코딩·사이버 보안 벤치마크를 석권한 모델 '제미나이 4 아르곤'을 공개했습니다. 출력 한도가 100만 토큰으로 확대되어 장시간 코딩과 사이버 방어에 초점을 맞췄습니다.",
+      "sourceTitle": "구글, '제미나이 4 아르곤' 공개…코딩·사이버 보안 벤치마크 석권",
+      "sourceDesc": "제미나이 4 아르곤은 장시간 코딩과 전문 지식 업무, 사이버 방어에 초점을 맞춘 모델입니다. 출력 한도는 기존 6만 4,000토큰에서 100만 토큰으로 확대되었습니다.",
+      "sourceLink": "https://www.g-enews.com/article/Global-Biz/2026/10/20261001064159678e250e8e188_1"
+    },
+    {
+      "rank": 2,
+      "category": "AI 서비스",
+      "kicker": "한국어 지원 시작",
+      "title": "애플 'Siri AI' 한국어 지원 10월 시작",
+      "summary": "애플이 'Siri AI'의 한국어 지원을 10월부터 확정했습니다. 현재 영어 버전 베타로 제공 중이며, 오는 10월 한국어, 프랑스어, 일본어, 포르투갈어, 스페인어 지원이 추가됩니다.",
+      "narration": "애플 시리, 이달부터 한국어로 대화됩니다.",
+      "sourceTitle": "애플 'Siri AI' 한국어 지원 확정…10월부터 쓴다",
+      "sourceDesc": "시리 AI는 현재 영어 버전 베타로 제공되며 오는 10월 한국어, 프랑스어, 일본어, 포르투갈어, 스페인어 지원이 추가된다.",
+      "sourceLink": "https://www.digitalfocus.news/news/articleView.html?idxno=23618"
+    },
+    {
+      "rank": 3,
+      "category": "규제·정책",
+      "kicker": "AI 통제 조사",
+      "title": "FTC, 오픈AI·앤트로픽 AI 관리 실태 조사",
+      "summary": "미국 연방거래위원회(FTC)가 OpenAI·Anthropic의 AI 에이전트 통제·관리를 조사합니다. 시정 조치까지 나올 수 있어 두 회사에 부담이 될 것으로 전망됩니다.",
+      "narration": "FTC가 AI 기업 관리 실태를 조사합니다.",
+      "sourceTitle": "美 AI 통제 가능한가…오픈AI·앤트로픽 조사",
+      "sourceDesc": "미국 연방거래위원회(FTC)가 OpenAI와 Anthropic 등 인공지능(AI) 기업을 상대로 AI 에이전트 통제 및 관리 실태를 조사합니다. 조사 결과에 따라 시정 조치까지 나올 수 있어 기업공개(IPO)를 추진 중인 두 회사에 부담이 될 것으로 전망됩니다.",
+      "sourceLink": "https://hankyung.com/article/2026100185451"
+    },
+    {
+      "rank": 4,
+      "category": "산업·정책",
+      "kicker": "20만 대 보급 추진",
+      "title": "정부, 2030년까지 AI 로봇 20만대 보급",
+      "summary": "정부가 2030년까지 민관 합동으로 AI 로봇 20만대를 산업·공공 현장에 보급합니다. 내년에는 화재 진압·인명 구조 등 사람이 투입되기 위험한 분야 중심으로 로봇 1700대 이상을 구매·보급합니다.",
+      "narration": "정부가 AI 로봇 20만대 보급에 나섭니다.",
+      "sourceTitle": "로봇주, 정부가 직접 '초기시장' 연다…AI로봇 20만대 보급 추진",
+      "sourceDesc": "정부가 2030년까지 민관 합동으로 인공지능(AI) 로봇 20만대를 산업·공공 현장에 보급합니다. 내년(2027년)에는 화재 진압과 인명 구조 등 사람이 투입되기 위험한 분야와 우편물 분류, 뿌리산업 등 인력난이 심각한 현장을 중심으로 정부가 로봇 1700대 이상을 구매·보급합니다.",
+      "sourceLink": "https://www.cbci.co.kr/news/articleView.html?idxno=611716"
+    },
+    {
+      "rank": 5,
+      "category": "빅테크 사업",
+      "kicker": "11월 중간선거 직전 상장",
+      "title": "앤트로픽, 10월 IPO 마케팅 개시 전망",
+      "summary": "앤트로픽이 이르면 10월 중순 IPO 마케팅을 개시할 예정입니다. 11월 3일 치러지는 중간선거보다 불과 며칠 앞서 상장 절차를 완료할 계획입니다.",
+      "narration": "앤트로픽이 이달 IPO 마케팅을 시작합니다.",
+      "sourceTitle": "앤트로픽, 11월 美중간선거 직전 상장 전망",
+      "sourceDesc": "앤트로픽은 이르면 10월 중순 IPO 마케팅을 개시하고, 11월 3일 치러지는 중간선거보다 불과 며칠 앞서서 상장 절차를 완료할 예정입니다.",
+      "sourceLink": "https://biz.sbs.co.kr/amp/article/20000332941"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-02 AI 뉴스 브리핑\n\n1. 구글, '제미나이 4 아르곤' 공개\n2. 애플 'Siri AI' 한국어 지원 10월 시작\n3. FTC, 오픈AI·앤트로픽 AI 관리 실태 조사\n4. 정부, 2030년까지 AI 로봇 20만대 보급\n5. 앤트로픽, 10월 IPO 마케팅 개시 전망\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #구글 #제미나이 #애플 #시리 #FTC #로봇 #앤트로픽\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
