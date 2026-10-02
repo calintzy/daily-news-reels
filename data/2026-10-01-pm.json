@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-01",
+  "slot": "pm",
+  "hookLine": "내일 검찰청이 사라집니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "검찰청 폐지 D-1",
+      "title": "검찰청 78년 역사 마감, 내일부터 공소청·중수청",
+      "summary": "내일(10월 2일)부터 78년 역사의 검찰청이 폐지되고 공소청·중수청이 출범합니다. 법조계는 사건별 수사 기관이 어디인지 파악하는 것이 급선무가 됐습니다.",
+      "narration": "내일 78년 만에 검찰청이 폐지됩니다.",
+      "sourceTitle": "檢 폐지 D-1…법조계 내 사건 수사할 수 있는 기관부터 확인",
+      "sourceDesc": "내일(10월 2일)부터 검찰청이 폐지되고 공소청과 중대범죄수사청(중수청)이 출범한다. 검찰청법 제정 이후 78년 만에 수사·기소를 함께 수행하던 체계가 종료되며, 법조계에서는 사건별로 수사할 수 있는 기관이 어디인지 파악이 급선무가 됐다.",
+      "sourceLink": "https://hankyung.com/article/202610018021H",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "Exterior facade of a South Korean government building at dusk, entrance doors closed, security lights casting shadows on stone steps, national seal above the entrance, dark sky fading to night, no people, no text, vertical 9:16 composition, documentary photography style"
+    },
+    {
+      "rank": 2,
+      "category": "사회·법조",
+      "kicker": "신약 로비 실형",
+      "title": "강세찬 항소심 징역 4년 법정구속, 신약 로비 유죄",
+      "summary": "서울고법이 강세찬 제넨셀 창업자에게 코로나19 신약 임상 로비 혐의로 징역 4년을 선고하고 법정구속했습니다. 김승원 민주당 의원을 통한 청탁, 브로커에게 6억 원 지급이 인정됐습니다.",
+      "sourceTitle": "제넨셀 창업자 '김승원 청탁 명백' 법정구속",
+      "sourceDesc": "서울고법이 제넨셀 창업자 강세찬 교수에게 징역 4년을 선고하고 법정구속했다. 강 교수가 더불어민주당 김승원 의원을 통해 식약처장에게 코로나19 신약 임상시험 허가를 청탁하고 브로커에게 6억 원을 지급한 혐의가 인정됐다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/law/2026/10/01/20261001008004",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "Empty hospital research laboratory, clinical trial vials and medical documents on a stainless steel table, judge's gavel beside pharmaceutical data folders, cold fluorescent lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "연금 개혁 경고",
+      "title": "국민연금 미적립부채 1450조, 개혁 미루면 미래세대 부담",
+      "summary": "국민연금의 미적립부채가 1450조원에 달한다는 추산이 나왔습니다. 개혁을 미룰수록 미래세대의 재정 부담이 커진다는 경고입니다.",
+      "sourceTitle": "국민연금 미적립부채 1450조…개혁 미루면 미래세대 부담",
+      "sourceDesc": "국민연금의 미적립부채가 1450조원에 달하는 것으로 추산됐다. 개혁이 늦어질수록 미래세대의 재정 부담이 눈덩이처럼 불어난다는 경고가 나왔다.",
+      "sourceLink": "https://www.hankyung.com/article/202610018162i",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "South Korean won banknotes and pension account passbooks stacked on a wooden desk, declining balance ledger with red numbers on paper, autumn light through a window, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "정치·사회",
+      "kicker": "산재 기업 과징금",
+      "title": "산안법 국회 통과, 산재 연 3명 이상 기업 과징금 부과",
+      "summary": "국회가 산업안전보건법 개정안을 찬성 161명으로 가결했습니다. 산재로 연간 3명 이상 사망자가 나오는 기업에 영업이익 최대 5%를 과징금으로 부과합니다.",
+      "sourceTitle": "산안법 등 64개 법안 국회 본회의 상정…도정법 '보류'",
+      "sourceDesc": "10월 1일 국회 본회의에서 산업안전보건법 개정안이 재석 219명 중 찬성 161명으로 가결됐다. 개정안은 산업재해로 연간 3명 이상 사망자가 발생하는 기업에 영업이익의 최대 5%를 과징금으로 부과하는 내용이다.",
+      "sourceLink": "https://www.ajunews.com/view/20261001104155831",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "Heavy industrial factory floor with metal scaffolding and steel beams, safety harness hanging on equipment, hard hat on concrete surface, caution warning signs visible, no people, no text, vertical 9:16 composition, documentary photography style"
+    },
+    {
+      "rank": 5,
+      "category": "경제·금융",
+      "kicker": "리서치 보고서 개편",
+      "title": "대형 증권사, 리서치 보고서 25% 중소형주 의무화 시행",
+      "summary": "금융감독원이 대형 증권사 리서치 보고서의 25%를 중소형주에 쓰도록 의무화했습니다. 대형주 쏠림을 해소해 중소형 종목 커버리지를 높이겠다는 취지입니다.",
+      "sourceTitle": "대형 증권사, 리서치 보고서 25% 중소형주에 무조건 써야",
+      "sourceDesc": "금융감독원이 대형 증권사의 리서치 보고서 중 25%를 중소형주에 쓰도록 의무화한다. 대형주 쏠림 현상을 해소해 중소형 종목의 시장 커버리지를 높이겠다는 취지다.",
+      "sourceLink": "https://hankyung.com/article/202610018230i",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "Stock brokerage research reports spread across a trading desk, financial analysis charts showing small and mid-cap stock tickers on printed pages, city skyline visible through office window, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-01 저녁 브리핑\n\n1. 검찰청 78년 역사 마감, 내일부터 공소청·중수청\n2. 강세찬 항소심 징역 4년 법정구속, 신약 로비 유죄\n3. 국민연금 미적립부채 1450조, 개혁 미루면 미래세대 부담\n4. 산안법 국회 통과, 산재 연 3명 이상 기업 과징금 부과\n5. 대형 증권사, 리서치 보고서 25% 중소형주 의무화 시행\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #검찰청폐지 #공소청 #국민연금 #산안법\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}

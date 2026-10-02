@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-02",
+  "slot": "am",
+  "hookLine": "여객기 부기장이 기장을 찌르고 추락을 시도했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "여객기 조종실 흉기",
+      "title": "부기장이 기장 찌른 여객기, 승객들이 막았다",
+      "summary": "두바이발 여객기에서 오만 국적 부기장이 기장을 흉기로 공격하며 추락을 시도했습니다. 승객들이 이를 제압하고 비번 조종사들이 사우디아라비아에 비상착륙시켜 인명 피해를 막았습니다.",
+      "narration": "이스라엘행 여객기 조종실에서 흉기 공격이 있었습니다.",
+      "sourceTitle": "부기장의 자살 테러, 승객이 막았다 …\"이스라엘판 9·11 될 뻔\"",
+      "sourceDesc": "두바이를 떠나 이스라엘 텔아비브로 향하던 플라이두바이 여객기에서 오만 국적 부기장이 기장을 흉기로 찌르고 추락을 시도했다. 승객이 조종실로 달려가 용의자를 제압했으며, 비번 조종사들이 기체를 사우디아라비아에 안전 착륙시켰다. 어린이 27명을 포함해 174명가량이 탑승했고, 이 가운데 100명 넘는 이스라엘인이 있었다. 이스라엘은 이를 테러 시도로 규정했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/international/2026/10/02/20261002010004",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Photojournalism close-up of a commercial aircraft cockpit control panel with red emergency alert lighting illuminated, dramatic shadows, dark atmosphere, no people, no text, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "사건·사고",
+      "kicker": "59명 병원 이송",
+      "title": "제주 5성급 호텔 수영장서 염소가스, 59명 이송",
+      "summary": "제주 특급호텔 수영장에서 소독약을 잘못 배합해 염소가스가 발생했습니다. 영유아를 포함한 이용객 59명이 병원으로 이송됐으며, 가스 농도가 허용치의 50배를 초과했습니다.",
+      "sourceTitle": "'59명 병원행' 제주 특급호텔 소독약 사고…염소가스 기준 50배 초과",
+      "sourceDesc": "제주 중문관광단지 5성급 호텔 수영장에서 소독약을 잘못 배합해 염소가스가 발생했다. 호텔 전층으로 독한 냄새가 퍼지면서 영유아를 포함한 이용객 59명이 병원으로 이송됐다. 소방당국이 측정한 염소가스 농도는 허용농도(1ppm)의 50배인 50ppm이었다. 구토·두통·기침 증상이 발생했으나 모두 경상으로 파악됐다.",
+      "sourceLink": "https://www.segye.com/newsView/20261001519787",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "Photojournalism exterior of a high-rise luxury hotel at midday with hazmat warning signs and fire trucks parked in the forecourt, bright sunlight reflecting off glass facade, no people, no text, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "2만5000명 피해",
+      "title": "신한은행 고객 2만5000명 개인정보 유출",
+      "summary": "신한은행에서 대출 신청 관련 간편조회 서비스가 해킹되며 고객 2만5000명의 개인정보가 유출됐습니다. 주민등록번호와 연소득 등 민감 정보가 포함됐으며, 금감원이 긴급 현장조사에 나섰습니다.",
+      "sourceTitle": "[속보] 신한은행 2만5천명 정보 유출…연소득·대출정보까지 털렸다",
+      "sourceDesc": "신한은행이 대출 신청 관련 간편조회 서비스에서 비인가자 접근으로 고객 약 2만5000명의 개인·신용정보가 유출됐다고 공시했다. 유출된 정보에는 고객명, 전화번호, 주민등록번호, 연소득, 산출한도 등 대출 신청 관련 정보가 포함됐다. 신한은행은 외부 IP를 차단하고 관련 서비스를 중단했으며, 피해 발생 시 전액 보상하겠다고 밝혔다. 금감원은 긴급 현장조사에 나섰다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/2026/10/01/20261001500101",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "Photojournalism close-up of a bank ATM interface screen showing a security alert lock icon, blue ambient lighting reflecting off polished floor of an empty banking hall, ominous atmosphere, no people, no text, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "78년 만의 변화",
+      "title": "검찰청 78년 만에 폐지, 공소청·중수청 출범",
+      "summary": "78년간 이어온 검찰청이 10월 2일을 기해 폐지되고 공소청과 중수청이 동시에 출범했습니다. 두 기관 모두 수장 공백 상태로 출발해 정상 운영까지 혼란이 예상됩니다.",
+      "sourceTitle": "'78년 체제' 걷고 공소청·중수청 출범…정상운영까지 '산 넘어 산'",
+      "sourceDesc": "10월 2일을 기해 78년간 이어온 검찰청이 폐지되고 공소청과 중대범죄수사청(중수청)이 출범했다. 공소청은 기소와 공소유지를, 중수청은 부패·경제 등 중대범죄 수사를 전담한다. 두 기관 모두 정식 수장 없이 출발하며, 중수청 인력은 정원의 3분의 2에 그쳤다. 간판 교체와 로고 철거가 이뤄졌지만 인프라 미비로 정상 운영까지 혼란이 예상된다.",
+      "sourceLink": "https://www.fnnews.com/news/202610011504524904",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "Photojournalism close-up of a brass government building nameplate partially removed from a stone wall, lighter rectangular patch visible on facade, morning light casting long shadows, no people, no text, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "반도체 역대 최대",
+      "title": "9월 수출 1209억달러 역대 최대, 1조달러 가시권",
+      "summary": "9월 한국 수출이 1209억달러로 역대 최대를 기록했습니다. 연간 누적 수출이 8000억달러를 처음 넘어서며 1조달러 달성이 가시권에 들어왔습니다.",
+      "sourceTitle": "韓 수출 8000억달러 첫 돌파…9월 1209억 최대, '반도체'가 절반",
+      "sourceDesc": "9월 수출이 1209억달러로 역대 최대를 기록하며 연간 누적 수출이 8000억달러를 처음 돌파했다. 반도체 수출이 전체의 절반 가량을 차지하며 1조달러 달성이 가시권에 들어왔다. 세계 4번째 수출 1조달러 달성이 예상된다.",
+      "sourceLink": "https://www.g-enews.com/article/Industry/2026/10/20261001113920239727fa31d75c_1",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "Photojournalism aerial view of a major cargo container port at golden hour with rows of colorful stacked containers and towering cranes extending toward the horizon, warm dramatic light, no people, no text, vertical 9:16 composition, documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-02 아침 브리핑\n\n1. 부기장이 기장 찌른 여객기, 승객들이 막았다\n2. 제주 5성급 호텔 수영장서 염소가스, 59명 이송\n3. 신한은행 고객 2만5000명 개인정보 유출\n4. 검찰청 78년 만에 폐지, 공소청·중수청 출범\n5. 9월 수출 1209억달러 역대 최대, 1조달러 가시권\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #공소청 #신한은행 #제주\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}

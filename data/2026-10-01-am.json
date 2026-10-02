@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-01",
+  "slot": "am",
+  "hookLine": "지뢰가 터진 DMZ, 북한이 보복을 위협했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "안보·외교",
+      "kicker": "DMZ 지뢰 파문",
+      "title": "DMZ 지뢰 폭발, 유엔사 정전협정 위반 판단",
+      "summary": "유엔사가 DMZ 지뢰 폭발을 정전협정 위반으로 판단하고 북한에 사과를 촉구했습니다. 북한 김여정은 '자작극'이라며 부인했습니다.",
+      "narration": "유엔사가 북한의 정전협정 위반을 판단했습니다.",
+      "sourceTitle": "유엔사 '北정전협정 위반'·합참 \"사과해야\"..김여정 \"자작극\" 부인",
+      "sourceDesc": "유엔군사령부는 DMZ 지뢰 폭발 사고를 정전협정 위반으로 판단했고, 북한은 남측의 '자작극'이라고 주장하며 보복을 위협했다.",
+      "sourceLink": "https://www.fnnews.com/news/202609301544546470",
+      "sourceDate": "2026-09-30",
+      "imagePrompt": "Empty demilitarized zone landscape, craters in muddy ground near a military fence, autumn fog over Korean hills, no people, no text, vertical 9:16 composition, documentary photography style"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "韓美 투자 발표",
+      "title": "트럼프, 한국 2000억달러 대미 투자 선제 발표",
+      "summary": "트럼프 대통령이 한국의 2000억달러 대미 에너지 투자를 발표했습니다. 원전·알래스카 LNG는 한국 측과 아직 협의 중인 것으로 알려졌습니다.",
+      "sourceTitle": "트럼프, 한국 2000억달러 대미 에너지투자 발표...한국 미확정 원전·알래스카 LNG까지 발표",
+      "sourceDesc": "트럼프 미국 대통령이 백악관에서 한국의 2000억달러 규모 대미 에너지 투자 계획을 발표했다. 한국 정부는 텍사스 발전소만 1호 사업으로 확정했고, 원전과 알래스카 LNG는 추후 협의 과제로 남겼다.",
+      "sourceLink": "https://asiatoday.co.kr/kn/view.php?key=20261001010000013",
+      "sourceDate": "2026-10-01",
+      "imagePrompt": "White House exterior with South Korean and American flags in wind, stone pillars and iron fence, clear blue sky, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "세수 역대 최대",
+      "title": "반도체 호황에 올해 초과세수 63.2조원 역대 최대",
+      "summary": "반도체 호황으로 올해 초과세수가 63.2조원에 달한다고 정부가 재추계했습니다. 역대 최대 규모입니다.",
+      "sourceTitle": "반도체發 세수 풍년…추경했는데도 초과세수 63.2조원 더 걷힌다",
+      "sourceDesc": "정부 재추계 결과 올해 초과세수가 63조2000억원으로 역대 최대를 기록할 전망이다. 반도체 슈퍼 사이클 등 호황이 반영됐다.",
+      "sourceLink": "https://www.mt.co.kr/economy/2026/09/30/2026093007511335451",
+      "sourceDate": "2026-09-30",
+      "imagePrompt": "Stack of South Korean won banknotes fanned out on a wooden desk, green upward bar chart on paper, warm lighting, no people, no text, vertical 9:16 composition, documentary photography style"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "이태원 수사 이관",
+      "title": "이태원 참사 수사, 경찰 특별수사팀 출범",
+      "summary": "이태원 압사사고 경찰 특별수사팀이 오늘부터 가동됩니다. 검사 수사권 폐지 시행에 따라 경찰이 수사를 이어받습니다.",
+      "sourceTitle": "경찰, '이태원 압사사고' 특별수사팀 편성",
+      "sourceDesc": "경찰이 이태원 압사사고 진상 규명을 위해 특별수사팀을 편성했다. 이는 검사 수사권 폐지에 따른 조치로 오늘부터 수사를 이어받는다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026093014421679565",
+      "sourceDate": "2026-09-30",
+      "imagePrompt": "South Korean police headquarters building exterior at dawn, manila folders and evidence log book on a metal desk under fluorescent light, no people, no text, vertical 9:16 composition, photojournalism style"
+    },
+    {
+      "rank": 5,
+      "category": "안보",
+      "kicker": "국군의날 파장",
+      "title": "국군의날 78주년, 軍 사기 최악 우려",
+      "summary": "오늘 국군의날 기념식이 계룡대에서 열립니다. DMZ 지뢰 폭발 사고 등으로 군 사기가 최악이라는 우려도 나옵니다.",
+      "sourceTitle": "`10월 1일` 국군의날 맞았지만…軍 사기는 `최악`",
+      "sourceDesc": "제78주년 국군의날을 맞아 계룡대에서 기념행사가 열리지만, DMZ 지뢰 폭발 사고 등으로 군 사기가 최악이라는 우려가 나왔다.",
+      "sourceLink": "https://www.imaeil.com/page/view/2026093015023139605",
+      "sourceDate": "2026-09-30",
+      "imagePrompt": "South Korean military aircraft in formation over an empty airfield runway at sunrise, Korean autumn landscape in background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-01 아침 브리핑\n\n1. DMZ 지뢰 폭발, 유엔사 정전협정 위반 판단\n2. 트럼프, 한국 2000억달러 대미 투자 선제 발표\n3. 반도체 호황에 올해 초과세수 63.2조원 역대 최대\n4. 이태원 참사 수사, 경찰 특별수사팀 출범\n5. 국군의날 78주년, 軍 사기 최악 우려\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #DMZ #국군의날 #초과세수 #이태원\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
