@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-03",
+  "slot": "am",
+  "hookLine": "개천절 새벽 북한이 동해상에 발사체를 쐈습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·안보",
+      "kicker": "북한 무력도발",
+      "title": "북한, 개천절 새벽 미상 발사체 발사",
+      "summary": "북한이 개천절 새벽 동해상으로 미상 발사체를 발사했습니다. 합동참모본부가 이를 공지하고 추가 분석에 나섰습니다.",
+      "narration": "합동참모본부가 새벽 북한 발사 사실을 알렸습니다.",
+      "sourceTitle": "[속보] 북한, 동해상으로 미상 발사체 발사",
+      "sourceDesc": "합동참모본부는 개천절인 이날 새벽 5시39분 언론 문자를 통해 북한이 동해상으로 미상 발사체를 발사했다고 공지했습니다. 발사 시각과 발사체 종류, 비행거리 등 구체적인 제원은 아직 확인되지 않았습니다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261003000015",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "Dramatic pre-dawn view of dark ocean horizon from a South Korean military observation post, radar equipment silhouetted against a glowing horizon, tense and alert atmosphere, vertical 9:16 composition, photojournalism style, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "사법체계 대개편",
+      "title": "검찰청 78년 만에 폐지, 중수청 개청",
+      "summary": "검찰청이 78년 만에 역사 속으로 사라지고 공소청과 중수청이 출범했습니다. 중수청은 개청 직후 고소·고발 10여건이 쏟아지며 바쁜 첫날을 맞았습니다.",
+      "sourceTitle": "중수청, 을지로서 개청식…문열자마자 고소·고발 10여건 쏟아져",
+      "sourceDesc": "2일 중수청이 을지로 르네스퀘어에서 개청식을 열었고, 문을 열자마자 고소·고발 10여건이 접수됐습니다. 이날 검찰청은 78년 만에 역사 속으로 사라지고 공소청과 중수청이 출범했습니다.",
+      "sourceLink": "https://www.segye.com/newsView/20261002506121",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Exterior of a large South Korean government building at dawn with a bronze nameplate removed from its concrete facade, somber ceremonial atmosphere, vertical 9:16 composition, photojournalism documentary style, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "경제·사회",
+      "kicker": "금융 보안 비상",
+      "title": "대형 은행 연속 해킹, 개인정보 유출",
+      "summary": "신한·국민에 이어 하나은행까지 AI 해킹에 뚫려 개인정보가 유출됐습니다. 금융당국이 경위를 조사하고 있으며 해당 은행들은 비상 대응에 나섰습니다.",
+      "sourceTitle": "신한·국민 이어 하나은행도 AI 해킹 뚫렸다...89명 개인정보 유출",
+      "sourceDesc": "하나은행이 외부 침해로 고객 89명의 개인정보가 유출됐습니다. 신한·국민·하나은행이 잇따라 해킹에 뚫리면서 금융당국이 경위를 조사하고 있습니다.",
+      "sourceLink": "https://www.fnnews.com/news/202610021744253518",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Close-up of a South Korean bank ATM machine with a glowing red error screen in a dimly lit vestibule, digital security warning atmosphere, vertical 9:16 composition, documentary photography, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "개천절 장외집회",
+      "title": "개천절 숭례문, 국민의힘 대규모 집회",
+      "summary": "국민의힘이 개천절 숭례문 일대에서 대규모 장외집회를 엽니다. 서울 도심 곳곳에서 집회와 행사가 열려 교통 혼잡이 예상됩니다.",
+      "sourceTitle": "개천절 연휴 서울 대규모 집회·행사…교통 혼잡 예상",
+      "sourceDesc": "개천절인 3일부터 연휴 동안 서울 도심에서 대규모 집회와 행사가 열립니다. 숭례문 일대에서는 국민의힘 주도의 장외집회가 예정되어 있으며 교통 통제가 이뤄질 예정입니다.",
+      "sourceLink": "https://www.mt.co.kr/society/2026/10/02/2026100212520149610",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Wide-angle view of the Namdaemun gate area in Seoul at early morning with stage rigging being set up in the background, clear blue sky, national flags lining the boulevard, vertical 9:16 composition, documentary photography, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "사회·문화",
+      "kicker": "역사왜곡 논란",
+      "title": "영화·드라마 역사왜곡 논란 반복, 처벌은?",
+      "summary": "영화와 드라마에서 역사왜곡 논란이 반복되고 있습니다. 최근 고발 사례까지 이어지며 처벌 가능 여부에 관심이 모이고 있습니다.",
+      "sourceTitle": "반복되는 영화·드라마 역사왜곡 논란...암살자(들) 유사 사례 처벌은?",
+      "sourceDesc": "영화와 드라마에서 역사왜곡 논란이 반복되는 가운데 최근 제작진 고발이 이어지고 있습니다. 처벌 가능 여부가 관심을 모으고 있습니다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261002001048",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Vintage film reels and weathered historical photographs scattered on a dark wooden table, warm amber backlighting, antique atmosphere, vertical 9:16 composition, documentary style, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-03 아침 브리핑\n1. 북한, 개천절 새벽 미상 발사체 발사\n2. 검찰청 78년 만에 폐지, 중수청 개청\n3. 대형 은행 연속 해킹, 개인정보 유출\n4. 개천절 숭례문, 국민의힘 대규모 집회\n5. 영화·드라마 역사왜곡 논란 반복, 처벌은?\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #개천절 #북한 #검찰청폐지 #은행해킹 #역사왜곡\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}

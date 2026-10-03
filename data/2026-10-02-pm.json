@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-02",
+  "slot": "pm",
+  "hookLine": "재산분할 9440억, SK 회장이 주식을 팔았습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "기업",
+      "kicker": "이혼 재산분할",
+      "title": "최태원 SK 회장, 9440억 지분 매각 확정",
+      "summary": "최태원 SK그룹 회장이 재산분할 자금 마련을 위해 SK 지분 2.3%를 매각한다고 공시했습니다. 법원이 노소영 관장에게 지급하도록 명령한 9440억원 규모입니다.",
+      "narration": "최태원 회장이 9440억 지분을 직접 팔기로 했습니다.",
+      "sourceTitle": "최태원, SK 지분 2.3% 매각 결정…재산 분할 자금 마련",
+      "sourceDesc": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장과의 재산분할 소송 관련 자금을 마련하기 위해 SK(주) 지분 2.3%를 매각해 9440억원을 확보하기로 했다. SK㈜는 최대주주인 최태원 회장이 주식 165만3924주(2.3%)를 매각할 예정이라고 2일 공시했다. 법원이 노소영 관장에게 지급하라고 명령한 재산분할액과 같은 규모다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/industry/2026/10/02/20261002800013",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Photojournalism close-up of a corporate stock certificate and a signed legal document on a polished boardroom table, dramatic side lighting, no people, no text, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "국방·사건",
+      "kicker": "생중계 중 추락",
+      "title": "국군의날 기념식서 드론 2대 생중계 중 추락",
+      "summary": "대통령이 참석한 국군의날 기념식에서 대공무기 천광 시연 중 표적드론 2대가 생중계 중 추락하는 소동이 빚어졌습니다. 드론 한 대는 광섬유 단절로, 다른 한 대는 기상 영향으로 강제 추락했습니다.",
+      "sourceTitle": "李대통령 보는 앞에서…국군의날 '드론' 또 추락",
+      "sourceDesc": "이재명 대통령이 참석한 계룡대 국군의날 기념식에서 고출력 레이저 대공무기 천광 시연 중 표적드론 2대가 추락하는 소동이 빚어졌다. 드론 한 대는 광섬유가 끊어져 안전지역으로 떨어졌고, 다른 한 대는 공중 기상 영향으로 안전지역을 벗어나 강제 추락했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610020653287119",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Photojournalism aerial view of a military parade ground with a crashed small drone lying on green grass, smoke trail dissipating in blue sky, no people, no text, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "연이은 은행 해킹",
+      "title": "신한 이어 KB국민은행도 해킹, 고객 119명 유출",
+      "summary": "신한은행 유출 이후 후속 사태로 KB국민은행에서도 고객 119명 개인정보가 외부 침해로 유출됐습니다. 금융당국이 은행권 보안담당자를 긴급 소집해 점검에 나섰습니다.",
+      "sourceTitle": "KB국민은행서 119명 고객정보 유출…\"피해 시 전액 보상\"[종합]",
+      "sourceDesc": "KB국민은행이 외부 침해로 고객 119명의 개인정보가 유출됐다고 밝혔다. 유출 항목은 이름, 전화번호, 주소, 암호화된 주민등록번호 등이다. 신한은행 유출 사태에 이어 하루 만에 또 다른 은행에서 해킹이 발생하며 금융당국이 은행권 보안담당자를 긴급 소집했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610021342138556",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Photojournalism close-up of a bank branch exterior signage reflecting in a rain-wet pavement at night, blue neon glow, no people, no text, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "출범 첫날 잡음",
+      "title": "공소청 첫날 민원 시스템 오류, 중수청과 온도 차",
+      "summary": "공소청이 출범 첫날 민원 시스템 오류와 청사 공사 미완으로 업무에 차질을 빚었습니다. 후속으로, 중수청은 화려하게 출발한 반면 공소청은 무거운 적막 속 조용한 출발을 알렸습니다.",
+      "sourceTitle": "'화려한 출발' 중수청, '무거운 적막' 공소청…출범 첫날 엇갈린 표정",
+      "sourceDesc": "검찰청 폐지 후 출범한 공소청이 첫날 민원 시스템 오류와 청사 공사 미완으로 혼선을 빚었다. 중수청은 화려한 출범식을 치른 반면 공소청은 비공개로 조용히 출발했으며, 민원 접수 중단과 인프라 미비로 정상 운영까지 혼란이 이어졌다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610021546001/",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Photojournalism close-up of a new government office nameplate freshly mounted on a stone wall, morning light casting soft shadows, an empty corridor behind glass doors, no people, no text, vertical 9:16 composition, documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "5거래일 만에 회복",
+      "title": "코스피 5거래일 만에 7000선 탈환",
+      "summary": "코스피가 기관의 막판 매수세에 힘입어 전 거래일 대비 0.46% 오른 7003.74로 마감하며 5거래일 만에 7000선을 회복했습니다. 외국인과 개인이 순매도한 가운데 기관만 홀로 매수하며 지수를 끌어올렸습니다.",
+      "sourceTitle": "기관 막판 매수에 코스피 7000 탈환, 코스닥 하락 마감",
+      "sourceDesc": "코스피가 기관의 막판 매수세에 힘입어 7003.74로 5거래일 만에 7000선을 탈환했다. 외국인과 개인이 순매도하는 가운데 기관이 0.46% 상승을 이끌었으며, 코스닥은 약보합으로 마감했다.",
+      "sourceLink": "https://mt.co.kr/stock/2026/10/02/2026100216085371801",
+      "sourceDate": "2026-10-02",
+      "imagePrompt": "Photojournalism wide shot of a financial district skyline at dusk with illuminated stock ticker displays on building facades, warm amber glow, no people, no text, vertical 9:16 composition, documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-02 저녁 브리핑\n\n1. 최태원 SK 회장, 9440억 지분 매각 확정\n2. 국군의날 기념식서 드론 2대 생중계 중 추락\n3. 신한 이어 KB국민은행도 해킹, 고객 119명 유출\n4. 공소청 첫날 민원 시스템 오류, 중수청과 온도 차\n5. 코스피 5거래일 만에 7000선 탈환\n\n저녁에도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #최태원 #코스피 #공소청\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
