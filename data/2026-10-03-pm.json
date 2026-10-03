@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-03",
+  "slot": "pm",
+  "hookLine": "700㎞를 비행한 건 탄도미사일이었습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·안보",
+      "kicker": "북한 탄도미사일 후속",
+      "title": "北, 원산서 탄도미사일 발사 확인",
+      "summary": "북한이 3일 원산 일대에서 동해로 탄도미사일 1발을 발사했고, 700㎞ 이상을 비행한 것으로 파악됐습니다. 합동참모본부는 한·미·일 정보를 공유하며 추가 발사에 대비한 감시·경계 태세를 강화했습니다.",
+      "narration": "합동참모본부가 탄도미사일 발사를 확인했습니다.",
+      "sourceTitle": "[3보] 北, 원산서 동해로 탄도미사일 1발 발사… 700㎞ 이상 비행",
+      "sourceDesc": "북한이 3일 강원도 원산 일대에서 동해상으로 탄도미사일 1발을 발사했으며, 합동참모본부는 오전 6시 30분쯤 이를 포착했고 해당 미사일은 700㎞ 이상을 비행한 것으로 파악됐다. 발사 지점이 원산 일대인 점과 700㎞ 이상의 비행거리를 고려하면 단거리탄도미사일(SRBM) 또는 이를 개량한 신형 전술탄도미사일 계열일 가능성이 거론된다. 합동참모본부는 한·미·일 간 관련 정보를 긴밀히 공유하며 추가 발사 가능성에 대비해 감시·경계 태세를 강화했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261003000021",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "South Korean military radar dish silhouetted against a pale dawn sky above the East Sea coastline, alert operational atmosphere with distant warning lights visible, vertical 9:16 composition, photojournalism documentary style, no people, no text"
+    },
+    {
+      "rank": 2,
+      "category": "경제·사회",
+      "kicker": "금융 AI 해킹 후속",
+      "title": "예가람저축은행도 AI 해킹…4만명 유출",
+      "summary": "신한·국민에 이어 예가람저축은행도 AI 해킹에 뚫려 약 4만명의 개인정보가 유출됐습니다. 1금융권에 이어 2금융권까지 피해가 확산되며 AI 기술을 악용한 해킹 공격이 금융권 보안 체계를 흔들고 있습니다.",
+      "sourceTitle": "신한·국민 이어 예가람도 뚫렸다…금융권 덮친 'AI 해킹'",
+      "sourceDesc": "예가람저축은행은 지난달 30일 고객 개인정보가 포함된 서버에 신원 미상의 해커가 접근해 정보가 유출된 정황을 확인했다. 성명, 생년월일, 연락처 등 약 4만명 정보가 유출된 것으로 추정된다. 1금융권에 이어 2금융권까지 해커의 먹잇감이 되면서 AI 기술을 악용한 정교한 해킹 공격이 금융권 보안 체계를 뿌리째 흔들고 있다는 지적이 나온다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/accident/2026/10/03/20261003500028",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "Close-up of a South Korean bank ATM screen in a dimly lit lobby vestibule, a security warning notice visible on the glass door behind it, uneasy atmosphere, vertical 9:16 composition, photojournalism documentary style, no people, no text"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "개천절 집회 후속",
+      "title": "국힘, 숭례문 집회 개최…의원 60여명 참석",
+      "summary": "국민의힘이 개천절 오후 서울 숭례문 인근에서 집회를 열고 이재명 정부를 향한 공세에 나섰습니다. 지도부와 현역 의원 60여명이 참석해 안보·사법 현안을 내세워 비판 목소리를 높였습니다.",
+      "sourceTitle": "개천절에 거리로 나선 국힘…안보·사법 내세워 '이재명 아웃'",
+      "sourceDesc": "개천절인 3일 거리로 나선 국민의힘 지도부가 비무장지대(DMZ) 지뢰 폭발 사고와 검찰청 폐지 등 안보·사법 현안을 내세워 이재명 정부를 향한 공세에 나섰다. 국민의힘은 이날 오후 서울 중구 숭례문 인근에서 '이재명 정권 심판 민생회복·안보수호 국민행동대회'를 열었다. 집회에는 장동혁 대표와 정점식 원내대표, 정희용 사무총장, 임이자 정책위의장 등 지도부와 현역 의원 60여명이 참석했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610031634504797",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "Wide-angle view of the Sungnyemun gate area in Seoul at afternoon, Korean national flags hanging from lampposts along the boulevard, an empty outdoor stage structure visible in the distance, vertical 9:16 composition, photojournalism documentary style, no people, no text"
+    },
+    {
+      "rank": 4,
+      "category": "사회·문화",
+      "kicker": "2026AG 양궁 금메달",
+      "title": "이우석, 양궁 개인전 金…한일전 2관왕",
+      "summary": "이우석이 아이치현에서 열린 양궁 리커브 개인전 결승에서 나카니시 준야를 세트 점수 6-2로 꺾고 금메달을 차지했습니다. 단체전에 이어 이번 대회 2관왕에 올랐습니다.",
+      "sourceTitle": "[2026AG] 이우석, 남자 양궁 한일전서 金…단체전 포함 2관왕",
+      "sourceDesc": "이우석은 3일 일본 아이치현 오카자키 중앙종합공원 다목적광장에서 열린 양궁 리커브 남자 개인전 결승에서 나카니시 준야를 세트 점수 6-2로 이기고 금메달을 차지했다. 단체전에 이어 이번 대회 2관왕에 올랐다. 2018 자카르타·팔렘방 개인전 은메달, 2022 항저우 개인전 동메달에 이어 이번 대회에서 첫 국제 종합대회 개인전 금메달을 차지했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261003000073",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "Close-up of archery arrows grouped tightly in the gold zone of a competition target at an outdoor venue, soft afternoon light and empty bleachers in the background, vertical 9:16 composition, photojournalism documentary style, no people, no text"
+    },
+    {
+      "rank": 5,
+      "category": "경제·사회",
+      "kicker": "울진 트럭 추락 사고",
+      "title": "울진 임도 현장서 트럭 추락, 60대 헬기 이송",
+      "summary": "울진군 매화면 길곡리 임도 조성 현장에서 트럭이 경사지 40m 아래로 추락했습니다. 60대 운전자가 크게 다쳐 소방 헬기를 이용해 병원으로 이송됐습니다.",
+      "sourceTitle": "울진 길곡리 임도조성 현장서 2.5t 트럭 추락....60대 운전자 헬기로 이송",
+      "sourceDesc": "울진군 매화면 길곡리의 임도 조성 현장에서 벌목을 운반하는 트럭이 경사지 40m 아래로 추락했다. 트럭운전자 A(60대) 씨가 크게 다쳐 소방 헬기를 이용해 병원으로 이송됐다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261003000022",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "Steep forested hillside in South Korea with a narrow mountain logging road curving sharply downward, caution tape along the road edge, overcast sky above treeline, vertical 9:16 composition, photojournalism documentary style, no people, no text"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-03 저녁 브리핑\n1. 北, 원산서 탄도미사일 발사 확인\n2. 예가람저축은행도 AI 해킹…4만명 유출\n3. 국힘, 숭례문 집회 개최…의원 60여명 참석\n4. 이우석, 양궁 개인전 金…한일전 2관왕\n5. 울진 임도 현장서 트럭 추락, 60대 헬기 이송\n\n내일 저녁에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #북한 #탄도미사일 #AI해킹 #개천절 #아시안게임 #양궁\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
