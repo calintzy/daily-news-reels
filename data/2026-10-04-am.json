@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-04",
+  "slot": "am",
+  "hookLine": "개천절 아침 北이 탄도미사일을 발사했습니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "北 도발",
+      "title": "北, 탄도미사일 발사…동해 700㎞",
+      "summary": "합동참모본부는 북한이 원산에서 동해로 탄도미사일 1발을 발사했다고 밝혔습니다. 미사일은 700㎞ 이상 비행한 것으로 탐지됐습니다.",
+      "narration": "합참, 북한 탄도미사일 발사 발표했습니다.",
+      "sourceTitle": "[3보] 北, 원산서 동해로 탄도미사일 1발 발사… 700㎞ 이상 비행",
+      "sourceDesc": "합동참모본부는 개천절인 3일 오전 북한이 원산 일대에서 동해로 탄도미사일 1발을 발사했다고 밝혔다. 미사일은 700㎞ 이상 비행한 것으로 탐지됐으며 군 당국은 경계 태세를 강화했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261003000021",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "Dramatic early morning seascape of the East Sea of Korea with a missile vapor trail streaking across the pale sky from the northwestern horizon, dark smoke clouds rising from the distant launch point reflected in the calm water surface below, tense atmospheric light, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "금융 보안",
+      "title": "은행 고객정보 줄줄 유출…AI 해킹",
+      "summary": "신한·국민·하나·BNK 등 은행과 저축은행에서 고객 개인정보가 잇따라 유출됐습니다. AI를 활용한 해킹 정황이 포착돼 금융당국이 점검에 나섰습니다.",
+      "sourceTitle": "은행·저축은행 고객정보 줄줄이 유출…AI 해킹 공포에 금융권 초비상",
+      "sourceDesc": "신한·국민·하나·BNK 등 시중은행과 저축은행에서 고객 개인정보가 잇따라 유출되는 사건이 발생했다. AI를 활용한 해킹 정황이 포착돼 금융당국이 점검을 지시했다.",
+      "sourceLink": "https://www.mt.co.kr/finance/2026/10/03/2026100219502244780",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "Close-up of a metallic bank vault door with digital circuit board patterns etched into its surface, a glowing red warning signal reflected on the steel, fragmented data streams cascading in deep blue light, a shattered padlock on the ground symbolizing a security breach, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "금융 안전",
+      "title": "증권사 전산사고…피해자 2만명",
+      "summary": "대형 증권사들의 전산사고로 2만 명이 계좌를 조회하지 못하는 피해를 입었습니다. 최근 3년간 113건 사고에 73억원이 배상된 것으로 나타났습니다.",
+      "sourceTitle": "계좌 안 보여요…대형 증권사 전산사고에 피해자만 2만명",
+      "sourceDesc": "최근 3년간 증권사 전산사고가 113건 발생해 피해자가 2만 명, 배상액이 73억원에 달하는 것으로 집계됐다. 키움증권이 38억원으로 배상액이 가장 많았으며 박준태 의원이 이 같은 내용을 발표했다.",
+      "sourceLink": "https://www.hankyung.com/article/2026100314527",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "Empty brokerage trading floor with rows of blank computer monitors displaying frozen error screens, scattered printed financial reports piled on desks, digital tickers on the wall showing no data, dramatic overhead lighting casting long shadows over the abandoned workstations, documentary photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "개천절 집회",
+      "title": "개천절 도심 집회·행진 잇달아",
+      "summary": "개천절 서울 광화문·숭례문에서 보수·진보 단체 대규모 집회와 행진이 잇따랐습니다. 강남에서는 축제 퍼레이드가 열려 도심 교통이 혼잡했습니다.",
+      "sourceTitle": "개천절 도심 대규모 집회·행진 잇달아…강남에선 축제 퍼레이드",
+      "sourceDesc": "개천절인 3일 서울 광화문과 숭례문 일대에서 보수·진보 단체의 대규모 집회와 행진이 잇따라 열렸다. 강남 도산대로 일대에서는 강남페스티벌 거리 퍼레이드가 진행됐으며 도심 교통이 극심하게 혼잡했다.",
+      "sourceLink": "https://www.segye.com/newsView/20261003505217",
+      "sourceDate": "2026-10-03",
+      "imagePrompt": "Historic Sungnyemun Gate in central Seoul surrounded by colorful protest banners and flags hanging from metal barricades, autumn-colored trees lining empty streets, police crowd control barriers arranged in rows, late afternoon golden light illuminating the traditional Korean architecture against a clear blue sky, photojournalism style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-04 아침 브리핑\n\n1. 北, 탄도미사일 발사…동해 700㎞\n2. 은행 고객정보 줄줄 유출…AI 해킹\n3. 증권사 전산사고…피해자 2만명\n4. 개천절 도심 집회·행진 잇달아\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
