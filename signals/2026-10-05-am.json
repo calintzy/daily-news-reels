@@ -1,18 +1,12 @@
 {
   "stem": "2026-10-05-am",
-  "collectedAt": "2026-10-05T04:34:38+09:00",
+  "collectedAt": "2026-10-05T05:24:33+09:00",
   "sources": {
     "news": "ok",
     "trends": "ok",
     "nate": "ok"
   },
   "news": [
-    {
-      "title": "조희대, 국감 증인 불출석…민주 “그럴거면 사퇴” 국힘 “겁박정치”",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XaFBrRk1iemVpSWRFWlpXLVJ6UkdzajJyb1c0aDc0c1NKSkpxZFd1aDE0azZ5b0VUVHdpSTFld3JUNkFTdjdFckdyclViV1dLR1lkX2dNVHFXdFFmVzk5NzZlcFBDUGZQU2FLenhvY2J3VGsy?oc=5",
-      "pubDate": "2026-10-04T21:24:00+09:00"
-    },
     {
       "title": "“부정선거” 주워담은 트럼프…관세 위협·현금살포 던지며 “사전투표 하라”",
       "source": "한겨레",
@@ -32,6 +26,12 @@
       "pubDate": "2026-10-04T21:25:00+09:00"
     },
     {
+      "title": "조희대 6일 국정감사 ‘증인으론 못 간다’ 의견서 제출···여당 “안 나올 거면 사퇴하라”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JcWNPX3ozMUlhZ0dueXF6UWZCTmpTcmhoX3FLQ3lJNEt2QkFmb2EtUVk0VFc2NXY5VEYyM0VmSXZkb3FOcUR6cU0tb002cmtZRE9EdnBmUmVLUdIBX0FVX3lxTE1HQVJpWWdwQW1mdTVGcVI5dERSeVNWUXVVNWpWS1ZVRGIzV3h6S3NTMVJjcUNsZGhRR0ZsSHptRzNVd2ZqTUw1NTJjRk5aSFpuaVA2Qk5UTTBndzVHS1FN?oc=5",
+      "pubDate": "2026-10-04T16:31:00+09:00"
+    },
+    {
       "title": "우크라 전쟁영웅 \"이재명, 젤렌스키 위협 못해\"…한국 비판",
       "source": "hankyung.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51aFNhOVlFaUt0bVJwRzNxcEFmYkw5amFNbEJtdFdmNnRic1lybmJOUDlUMnduWkt6c1g3SnNMMUw4MTIyTElJc0lORVdHV1BBbEVPR01xTjM3dw?oc=5",
@@ -44,22 +44,22 @@
       "pubDate": "2026-10-04T16:23:00+09:00"
     },
     {
-      "title": "“유해진 배우 힘내라” “완성도 높은 영화” “안 봤으면 속았을 뻔”···여권 인사들 ‘역사 왜곡 논란 반박’ 관람평",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZTU9ZaFh1TUwzZGVHX0J3QWVlQ3ZWMHc1S2M1RVJPTmpaSENjQ05WRThBdkRMcTU4akszZ3lLa2kyMVR2MGgyazRsbHNIMGNiTEw2SVQ3cFktQdIBX0FVX3lxTFBmNmI2eWF1U1d0SWxGOC11LWZveHpIT0QwNm5hVXp0cjBraHdua1UxcWhkeUVYbnBBTHhNUlNHOUpiV19QaUtzenRIdWZmVzY1T1F1UVFEV2hQdV9JTGxZ?oc=5",
-      "pubDate": "2026-10-04T16:10:00+09:00"
+      "title": "“국외 영화제 초청 받은 ‘암살자(들)’ 상영 막겠다” 국힘, 도 넘은 정치공세",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3YkdKSWVISTZFd0k4U2gtWHRieXdERU5EdEdZWkdlbk5EOGU2YzFHVXlNOWxHeHl6ck9Ya0xEaklrXzNMbzVTc2V4NUgyZXBGeVY2UDAzQndYREFXc0d4WjMyNFlEb3FMODcyRXR5SkhyTXJo?oc=5",
+      "pubDate": "2026-10-04T21:56:00+09:00"
     },
     {
-      "title": "김상욱 울산시장, 피의자 신분 경찰 조사…선거법 위반·성매매 혐의로 고발",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOM3ZXMnlyeE1xX2ZDZmNGYXB5RXFPUk9Ob0NjdTVxdVNqWG43N21xczJYcmJLYU44bEhMSEFZZGJGQVJESDNpdURyeWlacF9YQ0FNMmRLeDJSd9IBX0FVX3lxTE9qVU9WOWJ1RW1HVV9fTnl1Y29SRGtmcHdRTldhNlh6b2dMd0pfbnFKb1piZlFFVnIyRjluSkFjdnRCQjFKTlV3RWVBREVUdG5QVlFVelliY3FjcDNsNTIw?oc=5",
-      "pubDate": "2026-10-04T20:24:00+09:00"
+      "title": "김상욱 울산시장 ‘선거법 위반’ 혐의 경찰 조사…“충분히 소명”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LX21ER2Utbmt6bU90UXFjMC02QkdlMXZ4amlUcTRRaHU2RG1OLThHV0p6bk5tbHh6T1RNaC1LOGliWlBZU0ptOTB3SWV5NXg2MEJRdFdYcmFDU1ktaDN4MVpNSjA?oc=5",
+      "pubDate": "2026-10-04T16:16:00+09:00"
     },
     {
-      "title": "민주 \"장동혁 정치는 고함치는 것 밖에 없나\"…국힘 \"이재명 정권에 대한 분노 느껴\"",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqanVwNlp4V1NCNl9UNHBfNGRUdm9tRVdpaWxjVWIxZUtmOFAyS0JLR240aG01V2FkSGUtZVp1cHgwdmtqc3habWttMmkxeFZYSnpZM2JfMjlSQlpHbW0taWhQSWdIb3M?oc=5",
-      "pubDate": "2026-10-04T17:57:00+09:00"
+      "title": "한동훈 “3억 시계는 팩트”, 노무현 사위 곽상언 “감히…그 팩트 보여달라”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xd3d2WklsTUZBaG5FZjdRa3IzaGNaMDY2RXdYTG5mbFgxV2tFSEtZU0ZJQ1E1ZTZpUFpmbzhuMzVlOEhZYmt2aVc3VzJTa0JiYWVqYUxGRUVWOTNUdXhUZDYtaHNCOVRicmwwVUoxa0p1UHph?oc=5",
+      "pubDate": "2026-10-04T22:12:00+09:00"
     },
     {
       "title": "예멘 정부 \"영토 탈환 작전 개시\"…후티 \"사우디 석유시설 공격\"",
@@ -75,7 +75,7 @@
     },
     {
       "title": "플라이두바이 부기장, 고의 추락 의도 시인… SNS엔 알카에다 등 테러조직 관련 게시물",
-      "source": "donga.com",
+      "source": "동아일보",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtdDluRndFNDFJUkRVSGVhUjdTXzVROXl0eS1iSDBnQXdkel9BTkJLZ1piZTR1MjhvSFp2bjJXVkdYRHpNdjA5U19PYU42VkZqVkdYaEg4bFprSzhpb3dkQ2hQNU5YajZTdHI0M3FrellzNTjSAWZBVV95cUxOTE83M2RzZllsY2g3SnBmNkEzWlgyRkV3d01Fd0tMTWR3Ny1oWmx3VXBkLVR3QVpWbkFBbGZkNU5JYTcyc2YySkd6RVRKOWNDYUZUM2ZLd1o4S002RTZadS1Pd05XWHc?oc=5",
       "pubDate": "2026-10-05T01:40:00+09:00"
     },
@@ -98,28 +98,28 @@
       "pubDate": "2026-10-05T01:27:00+09:00"
     },
     {
+      "title": "어쌔신 크리드 헥세는 2027년 하반기에 출시될 예정입니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnFoaGdrWDNxeXo4MDNsb182anp0VUczbmdXcDNIR2FUYzU4czVmSGdSaHB6bEtuZDNCOW1hYWk3X19JVmR4bUx3U1p1T01TSW5fVVF3elBOTUUwVUgtS1pxNFR0cUxFNEhuYWhyNmFIV19ZTkRCWVZFcDJOYXMwdWRCbUcxakwwQ19odnJWNXJGek9hS3pRaldWbTRKNlZTRFU4?oc=5",
+      "pubDate": "2026-10-05T03:29:36+09:00"
+    },
+    {
+      "title": "AMD Adrenalin 드라이버 26.9.2에서 게임이 강제로 절전 모드로 전환되는 문제가 발생합니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZHRvOEZHTUd4M2g4Z182ZWg4YVdrV09IZFpaeXEwVlU5X1JTTmVPVl91SmV4ajU2bEpsOHFwWk41dUF5c0dtdXBvQl9MZ2dSOFFjcWRoY3d5MGY3Wnk1YnBGd1ZhMGtOeFRjc2c0ZXlSUW1xMF9kT25VM1pac0pabEd4TEhZUVJDNmxJa1NTdS1yNGt3U2dTZ3FJa2g2MWtXek1qOV9zUG8wUnhJX2ZZeVByRzh5c1hHT1pfX0tmV0ZfQQ?oc=5",
+      "pubDate": "2026-10-04T17:00:15+09:00"
+    },
+    {
       "title": "플레이스테이션 6는 최신 버전의 데시마 엔진으로 구동되는 킬존 리메이크와 함께 출시될 가능성이 있습니다.",
       "source": "GameGPU",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkc2MXZQeHJoSHZsWFl3RnRKUDk0dEo0UTBKVXVCcmRjYk51ZWI2b1diQzBYUmF5bk5BMTRwS1dROHBuc21STW9CYm5KbV9oN1J6VkxwV3RCeXZIaEpUblU5c2QyMXNiMEE1ME80ek5OaHV2ZUduWDNMRzFTeHBGRjI0NWF4aUNTR051WDJTQW1BQ1lGSmtURGZSZ3ZCbGhnWExkWE1ybm52TUoyTzdOV2FFNnFGVmQ3V29n?oc=5",
       "pubDate": "2026-10-05T01:28:27+09:00"
     },
     {
-      "title": "존재하지도 않는 인텔 i4 프로세서가 탑재된 PC가 중고 매장에서 49.99유로에 발견되었다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOW5vQkVWSmQzT0VtOTBZVU1SVG9JMjNXMWV6eldTZm9LUC1vS2tEUDBhOTN4WEpLSGZXcTVvMTdOcDNHUkxyaGUtanJjWWpCUGJuM3NSbkpuVXVPTzBENlZIbE5oRmdES181NnJmdVRKeUhhY204ZFdXcGVVTDF4VjlYaDdaQnE5MmFKdWxHc2ZIWFRaT2drQjhEVGh0d1h4N1RRcnZRS01pSWJzakVaNGUxTi1yQU5TUl93LXc3aGpfdw?oc=5",
-      "pubDate": "2026-10-04T22:17:45+09:00"
-    },
-    {
-      "title": "'장윤정♥' 도경완, 내가 아내 복 1등…직접 꼽은 이유가 어마어마한 '수익 갭 차이' - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEdvNm05ZzF3Smd1dGFXZDVhN2M3SnhMLUNPSUpNYzBPbGJiZnVrdTB1dDZ5d3lHenRYZjFwbjcwclZROGZna1k1Z25nOXpuUmsycC1FYmY2Tkxlc0taVF94b1NLR19NNWFQNTYwVVk0aXY5SGltT3NqTkJyQVhmY24xWXlhTnhCNXpQM1JzV3JiOUXSAacBQVVfeXFMT3o1V1NMejJmV3dyMTJyTUZxVzkxU1VHX1pHNU8xS2VsWUtOVnd5eHV3aG9wTG0yeVJzRjdiN21oVW1nOGZRcXo3UWJBUG91eFE1R0ZvNThNdUVKYkJLR2syS2JmaGwteThYTzBxVzZyRDFiclIzXzBJclIyYVp1MXRxU1l4bW1WdERFZkxrLTdTc3F6bllQVkNZejZnUEZIcE5qV2hNNHM?oc=5",
-      "pubDate": "2026-10-04T21:32:00+09:00"
-    },
-    {
-      "title": "‘포핸즈’ 송강·이준영, 9년 갈등 딛고… 쌍방구원 속 ‘해피엔딩’",
+      "title": "“다시는 안 놓쳐” 하석진, 안희연 철벽 거절에도 심쿵한 ‘직진 로맨스’(사랑이 온다)",
       "source": "스포츠경향",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EZW12OUpMUjJGVkN0VUxGTkoyRmZ6bUFYWVd3bWEwOEVtUjh5TXp2emFsRTlEdXJ5clllTXMxZEtpZkNPQmF1dXNEVUdlWnd6enl0bGJybWxzZmJ5VUHSAWNBVV95cUxNUy1wMDdZUm1peVlHZERwbmhLLTdxeGRmOTVvdEhHcE5ibDZFaWs2U0o3TGtIN1lGY293SVdudjU4U2dlVnExbGJRcDZqamV3QnpwemVCZlB0YlBuZFRpYzFNczQ?oc=5",
-      "pubDate": "2026-10-04T23:40:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QeEFGbTViUkVnNWhWVmVOZEI3VWxjYVVBeF9WNjZXenFGemFfeDRyS21td1lwc0RIQTlJZC1MX1VrTnFJRkpkRUlLeHVxMTMtWVJMd3c4d1BjcW9Td0HSAWNBVV95cUxPS2xlV1NOdnd2TmVIa3lPNE9lTzZLUTlPeVljWXpVZU9UQ0N0S0Z6VTlJaWRCYVh6WmJ6QWV3Xy1JN2RzWG44NENmREdDMm4ybURwVkVoUHE5R3pxY2RXVDlNM00?oc=5",
+      "pubDate": "2026-10-04T22:11:00+09:00"
     },
     {
       "title": "'냉부' 공유, 채정안에 춤 금지령 \"트월킹 계속 아른거려\"",
@@ -128,16 +128,16 @@
       "pubDate": "2026-10-04T23:11:00+09:00"
     },
     {
-      "title": "\"지뢰 사고 비하 의도 없어\"…최우진, 금메달 세리머니 사과",
-      "source": "hankyung.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55SkZKLUZMSVduRG5SenppVFJMaXVjWnE5Z2NVc3VjNlZjWHNtNVZDMHhzVjlMZGMxei1BS2lFRV9wTEhXWHpVd3Y1TVZkQkFPWnp5anNHS0xZZw?oc=5",
-      "pubDate": "2026-10-04T21:29:51+09:00"
+      "title": "이동건, 이혼 후에도 ‘결혼 혼수’ 그대로 쓴다…\"원래 내 거라 다 쓴다\" ('미우새') - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHdkdFdFWmpVeWZuakpGejJuX1lzekZnZTFhbmMxaS1XWDFYaUtBTDkySEFsYlduMDlzRnQ5bmd3cWY3LVhBQ3ZpcXR4b21ZM1VsVHJpSmRzN1pmcy1GS2NvOTFVWnFGNWt6NXhNcVVMYTU1X3pLa09FWUhpZlNjaVF4S19RTEdzZzZjZUVhRjRpcW_SAacBQVVfeXFMTWFYUHh2MzhYOE9GVlBjSUdfYjJUdXVMWUlFamQ4MU9HU0psT2hFQnItSDlFR3pwckZiZnJMMDNlR0pDWm9aUW13WE9zZ2VHQ2tUQ2VfOTVqaXpqZV9uX3pqbFVPSUh2bFdjbXhPa2lQalUyUmNoWlI0XzhTSUd2VGEtOEszdjI2VFZiMnBoMUV6Z29vU200Zk9TeHl1dWZHT01lbHpqME0?oc=5",
+      "pubDate": "2026-10-04T21:59:00+09:00"
     },
     {
-      "title": "나고야 아시안게임 폐막 ‘운영 미숙, 대한민국 종합 3위’",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yZjFJMnFlcmRmWGFodnM5ZGVpUGpyTnR5cFg5dWY4Ym5ZN1lxZFhVSW5rRk5UalpYWHJlTnh1NElvQkRZemViTjNQNEpta3IxdnlmeDcyaXNxMWc?oc=5",
-      "pubDate": "2026-10-04T20:04:00+09:00"
+      "title": "군 면제 파장에…당혹스런 유승민 체육회장 “국민정서에 안 맞아, 교육 강화”",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83VFQwa1VVUnhoNjUzR0lNdGY2akVIWTFFZG1CN0EwWXhVcVRrUkZya0JlcXVpQ0kzTTcyVkpnNXI1VVExZFkxNXZKTWJpdkot?oc=5",
+      "pubDate": "2026-10-04T16:13:09+09:00"
     },
     {
       "title": "[아시안게임] 유도 정수진, 계체 실격 폭로 \"대상 아니라고 해서 음식물 섭취\"",
@@ -147,7 +147,7 @@
     },
     {
       "title": "[의료 연구 브리프] 담도암 진화 경로 / 로봇 갑상선수술 재발률 / 신규 당뇨병과 췌장암",
-      "source": "경기메디뉴스",
+      "source": "ggmedinews.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tX3NQNjJRZEhhbk1aam5WRG56MzVfX0dzY291WkktV1pkVHBBX3podU1zVnFrVkhSdzJjTS15YWNLT3JqRmJtam5PY2tYZnNfQkZ0WkxCRU9iSlFndVlGeWNON2g4SEZsUmc?oc=5",
       "pubDate": "2026-10-04T21:55:52+09:00"
     }
@@ -158,10 +158,10 @@
       "pubDate": "2026-10-05T03:30:00+09:00",
       "newsItems": [
         {
-          "title": "Portugal vs Norway: UEFA Nations League stats & head-to-head",
+          "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cr158e0d932vt",
-          "source": "BBC"
+          "url": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams",
+          "source": "Al Jazeera"
         },
         {
           "title": "Licensable picture: UEFA Nations League 2026/27 League Phase Matchday 4 match between Portugal and Norway",
@@ -170,10 +170,10 @@
           "source": "Reuters Connect"
         },
         {
-          "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
+          "title": "Hard yards! Skipper Fernandes warns Portugal must suffer to beat dangerous Norwegians",
           "snippet": "",
-          "url": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams",
-          "source": "Al Jazeera"
+          "url": "https://www.goal.com/en/lists/bruno-fernandes-portugal-norway-nations-league-preview/blt7dbf502f2f310320",
+          "source": "Goal.com"
         }
       ]
     },
@@ -206,16 +206,16 @@
       "pubDate": "2026-10-04T22:20:00+09:00",
       "newsItems": [
         {
-          "title": "“이희진과 100일” 임원희, 과감한 스킨십→마음 고백 (미우새)",
-          "snippet": "",
-          "url": "https://v.daum.net/v/5Vblb3cnUQ",
-          "source": "Daum"
-        },
-        {
           "title": "[다시보기] 미운 우리 새끼 513회",
           "snippet": "",
           "url": "https://programs.sbs.co.kr/enter/woori/vod/52018/22000637530",
           "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "'미우새' 임원희, 재혼 아주 작정했네..\"♥이희진과 100일째 만남\" 설레발",
+          "snippet": "",
+          "url": "https://www.koreadaily.com/article/20261003170542119",
+          "source": "미주중앙일보"
         },
         {
           "title": "임원희♥이희진, 롤러장 데이트 중 과감 스킨십 \"100일째 만남\" 선물 고백 (미우새) - 조선비즈",
@@ -260,16 +260,16 @@
           "source": "Daum"
         },
         {
+          "title": "'대환장 기안장2', 흥행에 역주행까지...9~10화 알바생 정체 누구?",
+          "snippet": "",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713024",
+          "source": "국제뉴스"
+        },
+        {
           "title": "'대환장'인데 또 본다…기안84표 예능이 통하는 이유[초점S]",
           "snippet": "",
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010848",
           "source": "SPOTV NEWS"
-        },
-        {
-          "title": "기안84 리더십 부재에 임직원 원망…'대환장 기안장 2' 속마음 토크",
-          "snippet": "",
-          "url": "https://www.famtimes.co.kr/news/articleView.html?idxno=701403",
-          "source": "팸타임스 FAM Times"
         }
       ]
     },
@@ -304,20 +304,20 @@
         {
           "title": "'마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]",
           "snippet": "",
-          "url": "https://v.daum.net/v/8XrFCkb0TD",
+          "url": "https://www.koreadaily.com/article/20261003164540798",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "'마약류 혐의 입건' 과즙세연, 엑셀 방송 론칭..하루 만에 1억 벌었다[스타이슈]",
+          "snippet": "",
+          "url": "https://www.starnewskorea.com/star/2026/10/04/2026100409311676918",
+          "source": "스타뉴스"
+        },
+        {
+          "title": "\"마약 경찰 수사 받는데\"...과즙세연, '엑셀 방송' 열어 1억원 쓸어 담았다",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20261004095946925",
           "source": "Daum"
-        },
-        {
-          "title": "'마약류 위반 혐의' 과즙세연, 복귀 방송 하루 만에 후원금 1억 2천만 원",
-          "snippet": "",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712710",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "'마약 혐의 입건' 과즙세연, 새 방송 하루 만에 '1억' 벌었다",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20261004_0003813778",
-          "source": "뉴시스"
         }
       ]
     },
@@ -352,7 +352,13 @@
         {
           "title": "할머니가 이어준 태극마크…허미미 재일동포 할머니들과 “대한민국”",
           "snippet": "",
-          "url": "https://v.daum.net/v/20261004213505137",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677430",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]",
+          "snippet": "",
+          "url": "https://v.daum.net/v/YGAWKbrNUB",
           "source": "Daum"
         },
         {
@@ -360,12 +366,6 @@
           "snippet": "",
           "url": "https://m.imbc.com/VOD/VodView?progCode=1006923100000100000&broadcastID=1006923101266100001&type=Clip",
           "source": "MBC"
-        },
-        {
-          "title": "[아시안게임] 유도 대표팀, 혼성 단체전 노메달…우즈베크에 2-4 패배",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20261003044600007",
-          "source": "연합뉴스"
         }
       ]
     },
@@ -374,22 +374,22 @@
       "pubDate": "2026-10-04T21:10:00+09:00",
       "newsItems": [
         {
-          "title": "Dự báo gió mạnh, sóng lớn và mưa dông trên biển trong ngày và đêm 5/10",
+          "title": "Dự báo thời tiết ngày 5/10/2026 | TP. Hồ Chí Minh có mây, có mưa rào và dông vài nơi",
           "snippet": "",
-          "url": "https://htv.vn/du-bao-gio-manh-song-lon-va-mua-dong-tren-bien-trong-ngay-va-dem-5-10-22226100410511709.htm",
+          "url": "https://htv.vn/du-bao-thoi-tiet-ngay-5-10-2026-tp-ho-chi-minh-co-may-co-mua-rao-va-dong-vai-noi-222261004202006896.htm",
           "source": "Đài Phát thanh và Truyền hình TP.HCM"
         },
         {
-          "title": "Trạm tin sáng 5/10: Nam bộ và Trung bộ sắp có đợt mưa lớn nhiều ngày | 2,5 triệu người được tăng trợ cấp hưu trí xã hội",
+          "title": "Thời tiết tuần 5/10 – 11/10: Không khí lạnh tràn về, nhiều khu vực mưa lớn",
           "snippet": "",
-          "url": "https://voh.com.vn/thoi-su/tram-tin-sang-510-nam-bo-va-trung-bo-sap-co-dot-mua-lon-nhieu-ngay-25-trieu-nguoi-duoc-tang-tro-cap-huu-tri-xa-hoi-671557.html",
-          "source": "VOH"
+          "url": "https://www.vietnam.vn/thoi-tiet-tuan-5-10-11-10-khong-khi-lanh-tran-ve-nhieu-khu-vuc-mua-lon",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Dự báo thời tiết ngày 05/10/2026: Nhiều mây, có mưa, cục bộ có nơi mưa to",
+          "title": "Từ đêm 5/10 đến ngày 7/10, khu vực Trung Bộ có mưa rất lớn",
           "snippet": "",
-          "url": "https://moitruong.net.vn/du-bao-thoi-tiet-ngay-05-10-2026-nhieu-may-co-mua-cuc-bo-co-noi-mua-to-102942.html",
-          "source": "moitruong.net.vn"
+          "url": "https://www.vietnamplus.vn/tu-dem-510-den-ngay-710-khu-vuc-trung-bo-co-mua-rat-lon-post1140017.vnp",
+          "source": "Vietnam+ (VietnamPlus)"
         }
       ]
     }
@@ -397,8 +397,8 @@
   "nate": [
     {
       "rank": 1,
-      "title": "오키나와 호텔서 30대女 시신 발견…강도살해 주일미군 해병 체포",
-      "link": "https://news.nate.com/view/20261004n10354"
+      "title": "비비 속옷 보이는 패션에 유재석 난감 \"팬티 대화를 우리 앞에서…\"(식...",
+      "link": "https://news.nate.com/view/20261004n13286"
     },
     {
       "rank": 2,
@@ -407,38 +407,38 @@
     },
     {
       "rank": 3,
-      "title": "\"돈 아껴보겠다고 외식 안 하고 집밥만 먹었는데\"…통장 잔고 보고 '깜...",
-      "link": "https://news.nate.com/view/20261004n12246"
+      "title": "오키나와 호텔서 30대女 시신 발견…강도살해 주일미군 해병 체포",
+      "link": "https://news.nate.com/view/20261004n10354"
     },
     {
       "rank": 4,
-      "title": "비비 속옷 보이는 패션에 유재석 난감 \"팬티 대화를 우리 앞에서…\"(식...",
-      "link": "https://news.nate.com/view/20261004n13286"
-    },
-    {
-      "rank": 5,
       "title": "과즙세연 '1억 2천', MC몽은 '3억'…유튜브 장악한 엑셀 방송",
       "link": "https://news.nate.com/view/20261004n14085"
     },
     {
-      "rank": 6,
-      "title": "\"혹시 '그 빵' 들어왔어요?\"…3040男 편의점에 몰린 까닭",
-      "link": "https://news.nate.com/view/20261004n13019"
+      "rank": 5,
+      "title": "\"돈 아껴보겠다고 외식 안 하고 집밥만 먹었는데\"…통장 잔고 보고 '깜...",
+      "link": "https://news.nate.com/view/20261004n12246"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "담배 한 갑에 6000원 아닌 '6만원'…초강수둔 호주 결과는?",
       "link": "https://news.nate.com/view/20261004n13774"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "\"감독이 밥 먹으라고 지시\" 女유도 계체 탈락 후폭풍 정수진, SNS에 뒷...",
       "link": "https://news.nate.com/view/20261004n14154"
     },
     {
+      "rank": 8,
+      "title": "\"혹시 '그 빵' 들어왔어요?\"…3040男 편의점에 몰린 까닭",
+      "link": "https://news.nate.com/view/20261004n13019"
+    },
+    {
       "rank": 9,
-      "title": "2030 데이트 성지였는데…평일 낮 아웃백 채운 5060",
-      "link": "https://news.nate.com/view/20261004n01887"
+      "title": "'히히 집에간당'…퇴근하는 전세버스 전광판 문구 화제",
+      "link": "https://news.nate.com/view/20261004n10761"
     },
     {
       "rank": 10,
@@ -447,28 +447,28 @@
     },
     {
       "rank": 11,
-      "title": "'히히 집에간당'…퇴근하는 전세버스 전광판 문구 화제",
-      "link": "https://news.nate.com/view/20261004n10761"
+      "title": "2030 데이트 성지였는데…평일 낮 아웃백 채운 5060",
+      "link": "https://news.nate.com/view/20261004n01887"
     },
     {
       "rank": 12,
-      "title": "16년 만에 '최악 부진' 현대차…7천만원대 GV80 내놓는다",
-      "link": "https://news.nate.com/view/20261004n11703"
-    },
-    {
-      "rank": 13,
       "title": "첫 '경복궁 결혼식' 찾은 김혜경 여사…유튜버 '김치귀신 마이'에 축하",
       "link": "https://news.nate.com/view/20261004n05510"
     },
     {
+      "rank": 13,
+      "title": "16년 만에 '최악 부진' 현대차…7천만원대 GV80 내놓는다",
+      "link": "https://news.nate.com/view/20261004n11703"
+    },
+    {
       "rank": 14,
-      "title": "韓축구 \"군대 안 갑니다\" 후폭풍 일파만파→AG 병역특례 존폐 논쟁 재점...",
-      "link": "https://news.nate.com/view/20261004n11417"
+      "title": "\"정국이 쓴다길래 日 여행서 사왔다\"…2030 푹 빠진 '향따' [김기자의 알고...",
+      "link": "https://news.nate.com/view/20261004n09527"
     },
     {
       "rank": 15,
-      "title": "\"정국이 쓴다길래 日 여행서 사왔다\"…2030 푹 빠진 '향따' [김기자의 알고...",
-      "link": "https://news.nate.com/view/20261004n09527"
+      "title": "韓축구 \"군대 안 갑니다\" 후폭풍 일파만파→AG 병역특례 존폐 논쟁 재점...",
+      "link": "https://news.nate.com/view/20261004n11417"
     },
     {
       "rank": 16,
@@ -477,13 +477,13 @@
     },
     {
       "rank": 17,
-      "title": "'병역 조롱' 양민혁 이어 축구협회도 고개 숙였다…\"국민들께 불편함을 안...",
-      "link": "https://news.nate.com/view/20261004n11429"
+      "title": "\"구준표 옷 아니야?\"…쌀쌀한 날싸에 여성들 '이 재킷' 찾는다는데",
+      "link": "https://news.nate.com/view/20261004n04826"
     },
     {
       "rank": 18,
-      "title": "60세에 2.8㎏ 딸 낳은 여성…초고령 출산 비난 폭주하자 던진 '한마디' [월...",
-      "link": "https://news.nate.com/view/20261004n01903"
+      "title": "'병역 조롱' 양민혁 이어 축구협회도 고개 숙였다…\"국민들께 불편함을 안...",
+      "link": "https://news.nate.com/view/20261004n11429"
     },
     {
       "rank": 19,
@@ -492,8 +492,8 @@
     },
     {
       "rank": 20,
-      "title": "\"죄송합니다…이번만큼은 한국 말이 맞다, 책임자 처분까지 검토\" 북한 국...",
-      "link": "https://news.nate.com/view/20261004n10747"
+      "title": "철없는 '전역모 논란'…금메달 따고도 죄인처럼 귀국한 이민성호",
+      "link": "https://news.nate.com/view/20261004n09663"
     }
   ]
 }
