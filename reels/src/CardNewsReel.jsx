@@ -13,6 +13,8 @@ import {
 import {loadFont, fontFamily as notoSerifKRFamily} from '@remotion/google-fonts/NotoSerifKR';
 import {issueDuration, hookDuration} from './timing.js';
 import {nowrapNumbers} from './nowrapNumbers.jsx';
+import {extractKeyStat} from './keyStat.js';
+import {ZONES, COVER, MARGIN} from './safeArea.js';
 
 // Noto Serif KR — CI(ubuntu headless Chromium)에는 기본 설치돼 있지 않으므로 렌더 전에 로드해 대기한다.
 // (Noto Sans CJK KR과 달리 이 서체는 컨테이너 이미지에 없다 — 폴백이면 고딕으로 뭉개진다.)
@@ -83,6 +85,23 @@ const splitSentences = (text) => {
 
 // 제목 길이별 폰트 크기: 26자 초과 시 74→62px 자동 축소.
 const titleFontSize = (title) => ([...String(title)].length > 26 ? 62 : 74);
+// noPhotos 카드 제목 — CORE 스택 예산(최대 3줄, 높이 208 이하) 안에 들도록 길이 구간별로 줄인다.
+const cardTitleFontSize = (title) => {
+  const len = [...String(title)].length;
+  if (len <= 20) return 68;
+  if (len <= 26) return 62;
+  return 56;
+};
+
+// 배치 상자 — 판정 한계(안전 영역 경계에서 MARGIN 안쪽)보다 4px 더 안쪽에 둔다.
+// CI(리눅스) 폰트에서 글자 위치가 1~2px 달라져도 판정에 걸리지 않게 하는 여유다.
+const INSET = MARGIN + 4;
+const CORE = {
+  left: ZONES.core.left + INSET,
+  right: 1080 - ZONES.core.right + INSET,
+  top: ZONES.core.top + INSET,
+  height: ZONES.core.bottom - ZONES.core.top - 2 * INSET,
+};
 
 // 26px 모눈 텍스처 — template.mjs 신문 질감 그대로 재현.
 const gridBg = {
@@ -164,7 +183,9 @@ const Masthead = ({date, weekday, issueNumber, label, accent, dark = false}) => 
 // 훅 오버레이 — 이슈1 첫 hookDuration(54f) 동안 다크 지면으로 hookLine을 크게 던진다.
 // fadeOut 이후 아래 깔린 이슈1 지면이 드러난다 (물어오리 HookOverlay와 동일한 페이드 메커니즘).
 // "호외" 표기는 사용자 피드백으로 제거(무슨 뜻인지 안 읽힘) — 마스트헤드·스티커 둘 다 뺐다.
-const HookOverlay = ({hookLine, date, weekday, issueNumber, accent}) => {
+// 표지(thumb_offset 27f)·그리드 크롭 대응: 브랜드·훅·보조 문구 블록을 CORE와 1:1 크롭의 교집합(COVER, y 420~1250)
+// 중앙(y 835)에 두고, 0프레임부터 불투명도 1로 보인다(표지 프레임이 바뀌어도 글자가 비지 않게 이동 스프링만 남겼다).
+const HookOverlay = ({hookLine, date, weekday, issueNumber, brand}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const enter = spring({frame, fps, config: {damping: 13, stiffness: 170}});
@@ -176,19 +197,43 @@ const HookOverlay = ({hookLine, date, weekday, issueNumber, accent}) => {
   return (
     <AbsoluteFill style={{opacity: fadeOut, backgroundColor: INK, zIndex: 10}}>
       <div style={{position: 'absolute', inset: 0, ...gridBg, opacity: 0.5}} />
-      <Masthead date={date} weekday={weekday} issueNumber={issueNumber} accent={accent} dark />
+      <Masthead date={date} weekday={weekday} issueNumber={issueNumber} accent={brand.accent} dark />
 
       <div
         style={{
           position: 'absolute',
-          left: 60,
-          right: 60,
-          top: 220,
-          opacity: enter,
+          left: CORE.left,
+          right: CORE.right,
+          top: COVER.top + INSET,
+          height: COVER.bottom - COVER.top - 2 * INSET,
+          display: 'flex',
+          flexDirection: 'column',
+          justifyContent: 'center',
+          gap: 32,
           transform: `translateY(${interpolate(enter, [0, 1], [50, 0])}px)`,
         }}
       >
         <div
+          data-zone="core"
+          data-el="hook-brand"
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: 16,
+            fontFamily: sans,
+            fontSize: 30,
+            fontWeight: 900,
+            letterSpacing: '0.04em',
+            color: brand.accent,
+          }}
+        >
+          <Img src={staticFile(brand.logo)} style={{width: 64, height: 64, objectFit: 'contain'}} />
+          {brand.name}
+        </div>
+
+        <div
+          data-zone="core"
+          data-el="hook"
           style={{
             fontFamily: serif,
             fontSize: 78,
@@ -201,22 +246,20 @@ const HookOverlay = ({hookLine, date, weekday, issueNumber, accent}) => {
         >
           {nowrapNumbers(hookLine)}
         </div>
-      </div>
 
-      <div
-        style={{
-          position: 'absolute',
-          left: 60,
-          right: 60,
-          bottom: 120,
-          fontFamily: sans,
-          fontSize: 17,
-          fontWeight: 700,
-          color: 'rgba(255,255,255,0.5)',
-          letterSpacing: '0.04em',
-        }}
-      >
-        오리 기자가 오늘 가장 먼저 물어온 소식
+        <div
+          data-zone="core"
+          data-el="hook-sub"
+          style={{
+            fontFamily: sans,
+            fontSize: 30,
+            fontWeight: 700,
+            color: 'rgba(255,255,255,0.62)',
+            letterSpacing: '0.02em',
+          }}
+        >
+          오리 기자가 오늘 가장 먼저 물어온 소식
+        </div>
       </div>
 
       <InkFrame color="rgba(255,255,255,0.4)" />
@@ -234,38 +277,22 @@ const DUCK_COMMENTS = [
   '내용은 실제 뉴스 기준으로 정확하게 압축했습니다.',
 ];
 
-// noPhotos 모드 전용 — title/summary 문자열에 실제로 존재하는 핵심 수치만 뽑는다(값을 지어내지 않는다).
-// 우선순위: 퍼센트 > 금액(조/억/만 원) > 연 단위 기간 > 그 외 숫자+단위. 전부 실패하면 kicker로 폴백.
-const KEY_STAT_PATTERNS = [
-  /\d+(?:\.\d+)?%/,
-  /\d[\d,]*(?:\.\d+)?\s*(?:조\s*원|억\s*원|만\s*원|조|억)/,
-  /\d+\s*년(?:\s*(?:안에|내))?/,
-  /\d+(?:\.\d+)?\s*[가-힣]{0,2}/,
-];
-const extractKeyStat = (issue) => {
-  const haystack = `${issue.title ?? ''} ${issue.summary ?? ''}`;
-  for (const pattern of KEY_STAT_PATTERNS) {
-    const m = pattern.exec(haystack);
-    if (m) return m[0].trim();
-  }
-  return issue.kicker;
-};
 // 추출된 문자열 길이별 폰트 크기 — 수치는 짧을수록(예: "64%") 더 크게 키운다.
+// 8자 이상(주로 kicker 폴백)은 2줄까지 허용 — 라벨 포함 블록 높이 194 이하 예산.
 const keyStatFontSize = (text) => {
   const len = [...String(text ?? '')].length;
-  if (len <= 3) return 220;
-  if (len <= 5) return 172;
-  if (len <= 7) return 140;
-  return 110;
+  if (len <= 3) return 150;
+  if (len <= 5) return 130;
+  if (len <= 7) return 108;
+  return 76;
 };
 
 // 요약 길이별 풀쿼트 폰트 크기 — noPhotos 모드에서 사진 자리를 대신하는 확대 인용구용.
 const quoteFontSize = (summary) => {
   const len = String(summary ?? '').length;
-  if (len > 140) return 38;
-  if (len > 100) return 44;
-  if (len > 70) return 50;
-  return 56;
+  if (len > 100) return 40;
+  if (len > 70) return 44;
+  return 50;
 };
 
 // textDelay: 훅 오버레이가 걷힐 때까지 이슈1 텍스트 진입을 늦춘다 (훅·헤드라인 겹침 방지).
@@ -299,7 +326,92 @@ const NewsIssueSlide = ({issue, imageSrc, startFrame, date, weekday, issueNumber
 
   // noPhotos 모드 키 스탯 — 숫자를 실제로 뽑았으면 "오늘의 숫자", kicker 폴백이면 "오늘의 키워드".
   const keyStat = extractKeyStat(issue);
-  const keyStatLabel = /\d/.test(keyStat) ? '오늘의 숫자' : '오늘의 키워드';
+  const keyStatLabel = keyStat.isStat ? '오늘의 숫자' : '오늘의 키워드';
+
+  // 랭크 배지 + 카테고리·킥커 스티커 — noPhotos는 CORE 스택의 flex 항목, 사진 모드는 기존 절대 배치 그대로.
+  const badgeRow = (
+    <div
+      style={{
+        ...(noPhotos ? {height: 56, flexShrink: 0} : {position: 'absolute', top: 92, left: 52}),
+        display: 'flex',
+        alignItems: 'center',
+        gap: 14,
+        opacity: stickerIn,
+        transform: `translateY(${interpolate(stickerIn, [0, 1], [18, 0])}px)`,
+        zIndex: 4,
+      }}
+    >
+      <div
+        data-zone="core"
+        data-el="rank"
+        style={{
+          width: 56,
+          height: 56,
+          borderRadius: 14,
+          background: brand.accent,
+          border: `3px solid ${INK}`,
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          fontFamily: sans,
+          fontSize: noPhotos ? 28 : 24,
+          fontWeight: 900,
+          color: INK,
+          transform: 'rotate(-3deg)',
+          boxShadow: '4px 5px 0 rgba(26,26,26,0.16)',
+        }}
+      >
+        {rankLabel}
+      </div>
+      <div
+        data-zone="core"
+        data-el="kicker"
+        style={{
+          background: PAPER,
+          border: `2.5px solid ${INK}`,
+          borderRadius: 12,
+          padding: noPhotos ? '6px 18px' : '9px 18px',
+          transform: 'rotate(-1.4deg)',
+          fontFamily: sans,
+          fontSize: noPhotos ? 28 : 16,
+          ...(noPhotos ? {lineHeight: 1.2} : {}),
+          fontWeight: 800,
+          letterSpacing: '0.03em',
+          color: INK,
+        }}
+      >
+        {issue.kicker}
+      </div>
+    </div>
+  );
+
+  // 헤드라인 — noPhotos는 길이 구간별 크기(최대 3줄), 사진 모드는 기존 배치·크기 그대로.
+  const headline = (
+    <div
+      style={{
+        ...(noPhotos ? {flexShrink: 0} : {position: 'absolute', top: 176, left: 52, right: 52}),
+        opacity: headlineIn,
+        transform: `translateY(${interpolate(headlineIn, [0, 1], [34, 0])}px)`,
+        zIndex: 3,
+      }}
+    >
+      <div
+        data-zone="core"
+        data-el="title"
+        style={{
+          fontFamily: serif,
+          fontSize: noPhotos ? cardTitleFontSize(issue.title) : fontSize,
+          fontWeight: 900,
+          lineHeight: noPhotos ? 1.12 : 1.14,
+          letterSpacing: '-0.02em',
+          color: INK,
+          wordBreak: 'keep-all',
+        }}
+      >
+        {nowrapNumbers(issue.title)}
+      </div>
+    </div>
+  );
 
   return (
     <AbsoluteFill style={{backgroundColor: PAPER, ...gridBg}}>
@@ -324,218 +436,157 @@ const NewsIssueSlide = ({issue, imageSrc, startFrame, date, weekday, issueNumber
         {rankLabel}
       </div>
 
-      {/* 랭크 배지 + 카테고리·킥커 스티커 */}
-      <div
-        style={{
-          position: 'absolute',
-          top: 92,
-          left: 52,
-          display: 'flex',
-          alignItems: 'center',
-          gap: 14,
-          opacity: stickerIn,
-          transform: `translateY(${interpolate(stickerIn, [0, 1], [18, 0])}px)`,
-          zIndex: 4,
-        }}
-      >
-        <div
-          style={{
-            width: 56,
-            height: 56,
-            borderRadius: 14,
-            background: brand.accent,
-            border: `3px solid ${INK}`,
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            fontFamily: sans,
-            fontSize: 24,
-            fontWeight: 900,
-            color: INK,
-            transform: 'rotate(-3deg)',
-            boxShadow: '4px 5px 0 rgba(26,26,26,0.16)',
-          }}
-        >
-          {rankLabel}
-        </div>
-        <div
-          style={{
-            background: PAPER,
-            border: `2.5px solid ${INK}`,
-            borderRadius: 12,
-            padding: '9px 18px',
-            transform: 'rotate(-1.4deg)',
-            fontFamily: sans,
-            fontSize: 16,
-            fontWeight: 800,
-            letterSpacing: '0.03em',
-            color: INK,
-          }}
-        >
-          {issue.kicker}
-        </div>
-      </div>
-
-      {/* 헤드라인 */}
-      <div
-        style={{
-          position: 'absolute',
-          top: 176,
-          left: 52,
-          right: 52,
-          opacity: headlineIn,
-          transform: `translateY(${interpolate(headlineIn, [0, 1], [34, 0])}px)`,
-          zIndex: 3,
-        }}
-      >
-        <div
-          style={{
-            fontFamily: serif,
-            fontSize,
-            fontWeight: 900,
-            lineHeight: 1.14,
-            letterSpacing: '-0.02em',
-            color: INK,
-            wordBreak: 'keep-all',
-          }}
-        >
-          {nowrapNumbers(issue.title)}
-        </div>
-      </div>
-
       {noPhotos ? (
         <>
-          {/* 키 스탯 — title/summary에서 뽑은 핵심 수치(없으면 kicker) 대형 인포그래픽 타이포.
-              헤드라인과 인용 블록 사이 빈 공간을 메워 세로 리듬을 채운다. */}
+          {/* CORE 스택 — 배지·제목·키 스탯·풀쿼트를 flex column으로 쌓는다. 절대 top 값이 없어서
+              제목 줄 수가 달라져도 아래 요소와 겹치지 않고, 풀쿼트가 남은 공간을 쓴다. */}
           <div
             style={{
               position: 'absolute',
-              top: 486,
-              left: 66,
-              right: 66,
+              top: CORE.top,
+              left: CORE.left,
+              right: CORE.right,
+              height: CORE.height,
               display: 'flex',
-              alignItems: 'stretch',
-              gap: 18,
-              opacity: stickerIn,
-              transform: `translateY(${interpolate(stickerIn, [0, 1], [22, 0])}px)`,
-              zIndex: 2,
+              flexDirection: 'column',
+              gap: 24,
+              zIndex: 3,
             }}
           >
-            <div style={{width: 6, background: brand.accent, flexShrink: 0}} />
-            <div style={{display: 'flex', flexDirection: 'column', gap: 6}}>
-              <div
-                style={{
-                  fontFamily: sans,
-                  fontSize: 15,
-                  fontWeight: 900,
-                  letterSpacing: '0.18em',
-                  color: INK,
-                  opacity: 0.4,
-                }}
-              >
-                {keyStatLabel}
+            {badgeRow}
+            {headline}
+
+            {/* 키 스탯 — title/summary에서 뽑은 핵심 수치(없으면 kicker) 대형 인포그래픽 타이포. */}
+            <div
+              style={{
+                flexShrink: 0,
+                display: 'flex',
+                alignItems: 'stretch',
+                gap: 18,
+                opacity: stickerIn,
+                transform: `translateY(${interpolate(stickerIn, [0, 1], [22, 0])}px)`,
+                zIndex: 2,
+              }}
+            >
+              <div style={{width: 6, background: brand.accent, flexShrink: 0}} />
+              {/* 수치 lineHeight 1.3 + 간격 12 — 글리프 영역(약 1.44em)이 라벨과 겹치지 않는 최소값. */}
+              <div style={{display: 'flex', flexDirection: 'column', gap: 12}}>
+                <div
+                  data-zone="core"
+                  data-el="stat-label"
+                  style={{
+                    fontFamily: sans,
+                    fontSize: 28,
+                    fontWeight: 900,
+                    letterSpacing: '0.18em',
+                    color: INK,
+                    opacity: 0.4,
+                  }}
+                >
+                  {keyStatLabel}
+                </div>
+                <div
+                  data-zone="core"
+                  data-el="stat"
+                  style={{
+                    fontFamily: serif,
+                    fontWeight: 900,
+                    fontSize: keyStatFontSize(keyStat.text),
+                    lineHeight: 1.3,
+                    letterSpacing: '-0.02em',
+                    color: INK,
+                    wordBreak: 'keep-all',
+                  }}
+                >
+                  {keyStat.text}
+                </div>
               </div>
+            </div>
+
+            {/* 풀쿼트 — 사진 자리를 대신하는 확대 인용구, 문장 길이 비례 형광펜 스윕 */}
+            <div
+              style={{
+                flex: 1,
+                minHeight: 0,
+                display: 'flex',
+                alignItems: 'center',
+                opacity: photoIn,
+                transform: `translateY(${interpolate(photoIn, [0, 1], [30, 0])}px)`,
+                zIndex: 2,
+              }}
+            >
               <div
+                data-zone="core"
+                data-el="quote"
                 style={{
+                  width: '100%',
                   fontFamily: serif,
-                  fontWeight: 900,
-                  fontSize: keyStatFontSize(keyStat),
-                  lineHeight: 1,
-                  letterSpacing: '-0.02em',
+                  fontStyle: 'italic',
+                  fontWeight: 700,
+                  fontSize: quoteFontSize(issue.summary),
+                  lineHeight: 1.42,
                   color: INK,
                   wordBreak: 'keep-all',
                 }}
               >
-                {keyStat}
+                <span
+                  style={{
+                    fontFamily: 'Georgia,serif',
+                    fontStyle: 'normal',
+                    fontSize: quoteFontSize(issue.summary) * 1.8,
+                    fontWeight: 700,
+                    color: `rgba(${accentRgb(brand.accent)},0.55)`,
+                    lineHeight: 0.5,
+                    marginRight: 6,
+                    verticalAlign: '-0.28em',
+                  }}
+                >
+                  “
+                </span>
+                {sentences.map((s, i) => {
+                  const [ws, we] = sentenceWindows[i];
+                  const progress = interpolate(localFrame, [ws, we], [0, 1], {
+                    extrapolateLeft: 'clamp',
+                    extrapolateRight: 'clamp',
+                  });
+                  return (
+                    <span
+                      key={i}
+                      style={{
+                        backgroundImage: `linear-gradient(transparent 54%, rgba(${accentRgb(brand.accent)},0.62) 54%, rgba(${accentRgb(brand.accent)},0.62) 90%, transparent 90%)`,
+                        backgroundRepeat: 'no-repeat',
+                        backgroundSize: `${progress * 100}% 100%`,
+                      }}
+                    >
+                      {nowrapNumbers(s)}{' '}
+                    </span>
+                  );
+                })}
+                <span
+                  style={{
+                    fontFamily: 'Georgia,serif',
+                    fontStyle: 'normal',
+                    fontSize: quoteFontSize(issue.summary) * 1.8,
+                    fontWeight: 700,
+                    color: `rgba(${accentRgb(brand.accent)},0.55)`,
+                    lineHeight: 0.5,
+                    marginLeft: 4,
+                    verticalAlign: '-0.42em',
+                  }}
+                >
+                  ”
+                </span>
               </div>
             </div>
           </div>
 
-          {/* 풀쿼트 — 사진 자리를 대신하는 확대 인용구, 문장 길이 비례 형광펜 스윕 */}
+          {/* 오리 기자 코멘트 말풍선 — SECONDARY 영역(CORE 바로 아래) */}
           <div
             style={{
               position: 'absolute',
-              top: 860,
-              left: 0,
-              right: 0,
-              bottom: 400,
-              display: 'flex',
-              alignItems: 'center',
-              opacity: photoIn,
-              transform: `translateY(${interpolate(photoIn, [0, 1], [30, 0])}px)`,
-              zIndex: 2,
-            }}
-          >
-            <div
-              style={{
-                width: '100%',
-                padding: '0 78px',
-                fontFamily: serif,
-                fontStyle: 'italic',
-                fontWeight: 700,
-                fontSize: quoteFontSize(issue.summary),
-                lineHeight: 1.5,
-                color: INK,
-                wordBreak: 'keep-all',
-              }}
-            >
-              <span
-                style={{
-                  fontFamily: 'Georgia,serif',
-                  fontStyle: 'normal',
-                  fontSize: quoteFontSize(issue.summary) * 1.8,
-                  fontWeight: 700,
-                  color: `rgba(${accentRgb(brand.accent)},0.55)`,
-                  lineHeight: 0.5,
-                  marginRight: 6,
-                  verticalAlign: '-0.28em',
-                }}
-              >
-                “
-              </span>
-              {sentences.map((s, i) => {
-                const [ws, we] = sentenceWindows[i];
-                const progress = interpolate(localFrame, [ws, we], [0, 1], {
-                  extrapolateLeft: 'clamp',
-                  extrapolateRight: 'clamp',
-                });
-                return (
-                  <span
-                    key={i}
-                    style={{
-                      backgroundImage: `linear-gradient(transparent 54%, rgba(${accentRgb(brand.accent)},0.62) 54%, rgba(${accentRgb(brand.accent)},0.62) 90%, transparent 90%)`,
-                      backgroundRepeat: 'no-repeat',
-                      backgroundSize: `${progress * 100}% 100%`,
-                    }}
-                  >
-                    {nowrapNumbers(s)}{' '}
-                  </span>
-                );
-              })}
-              <span
-                style={{
-                  fontFamily: 'Georgia,serif',
-                  fontStyle: 'normal',
-                  fontSize: quoteFontSize(issue.summary) * 1.8,
-                  fontWeight: 700,
-                  color: `rgba(${accentRgb(brand.accent)},0.55)`,
-                  lineHeight: 0.5,
-                  marginLeft: 4,
-                  verticalAlign: '-0.42em',
-                }}
-              >
-                ”
-              </span>
-            </div>
-          </div>
-
-          {/* 오리 기자 코멘트 말풍선 */}
-          <div
-            style={{
-              position: 'absolute',
-              left: 66,
-              right: 66,
-              bottom: 250,
+              left: CORE.left,
+              right: CORE.right,
+              top: 1262,
               display: 'flex',
               alignItems: 'center',
               gap: 16,
@@ -549,15 +600,18 @@ const NewsIssueSlide = ({issue, imageSrc, startFrame, date, weekday, issueNumber
               style={{width: 56, height: 56, objectFit: 'contain', flexShrink: 0}}
             />
             <div
+              data-zone="secondary"
+              data-el="duck"
               style={{
                 position: 'relative',
                 flex: 1,
                 background: '#FFFDF7',
                 border: `2.5px solid ${INK}`,
                 borderRadius: 16,
-                padding: '14px 22px',
+                padding: '12px 22px',
                 fontFamily: sans,
-                fontSize: 17,
+                fontSize: 28,
+                lineHeight: 1.3,
                 fontWeight: 700,
                 color: INK,
               }}
@@ -581,6 +635,9 @@ const NewsIssueSlide = ({issue, imageSrc, startFrame, date, weekday, issueNumber
         </>
       ) : (
         <>
+          {badgeRow}
+          {headline}
+
           {/* 기사 사진 인셋 — 신문 사진 스타일(검정 보더 + 오프셋 섀도 + 캡션), 풀블리드 금지 */}
           <div
             style={{
@@ -704,12 +761,14 @@ const NewsIssueSlide = ({issue, imageSrc, startFrame, date, weekday, issueNumber
         </>
       )}
 
-      {/* 오리 기자 확인 도장 */}
+      {/* 오리 기자 확인 도장 — noPhotos는 SECONDARY 영역(말풍선 아래). right 100이면 정지 상태 x 약 989,
+          회전(-9°)과 스프링 오버슈트(최대 약 1.16배)를 포함해도 x 약 1001로 영역(1008) 안이다. 사진 모드는 기존 배치. */}
       <div
+        data-zone="secondary"
+        data-el="stamp"
         style={{
           position: 'absolute',
-          right: 60,
-          bottom: 96,
+          ...(noPhotos ? {right: 100, top: 1344} : {right: 60, bottom: 96}),
           width: 128,
           height: 128,
           opacity: stampIn,
@@ -819,21 +878,25 @@ const NewsOutro = ({startFrame, brand}) => {
         <span>발행인의 말</span>
       </div>
 
+      {/* 콘텐츠 블록 — 그리드·피드 크롭과 릴스 UI를 피하도록 CORE 영역 세로 중앙에 둔다. */}
       <div
         style={{
           position: 'absolute',
-          top: 150,
-          left: 0,
-          right: 0,
+          top: CORE.top,
+          left: CORE.left,
+          right: CORE.right,
+          height: CORE.height,
           display: 'flex',
           flexDirection: 'column',
           alignItems: 'center',
+          justifyContent: 'center',
           gap: 30,
-          padding: '0 70px',
           textAlign: 'center',
         }}
       >
         <div
+          data-zone="core"
+          data-el="outro-logo"
           style={{
             position: 'relative',
             width: 176,
@@ -860,9 +923,11 @@ const NewsOutro = ({startFrame, brand}) => {
         </div>
 
         <div
+          data-zone="core"
+          data-el="outro-eyebrow"
           style={{
             fontFamily: sans,
-            fontSize: 20,
+            fontSize: 28,
             fontWeight: 800,
             letterSpacing: '0.22em',
             color: INK,
@@ -873,6 +938,8 @@ const NewsOutro = ({startFrame, brand}) => {
         </div>
 
         <div
+          data-zone="core"
+          data-el="outro-closing"
           style={{
             fontFamily: serif,
             fontSize: 66,
@@ -897,6 +964,8 @@ const NewsOutro = ({startFrame, brand}) => {
         </div>
 
         <div
+          data-zone="core"
+          data-el="outro-follow"
           style={{
             marginTop: 4,
             background: brand.accent,
@@ -904,7 +973,7 @@ const NewsOutro = ({startFrame, brand}) => {
             borderRadius: 999,
             padding: '20px 48px',
             fontFamily: sans,
-            fontSize: 26,
+            fontSize: 28,
             fontWeight: 900,
             letterSpacing: '0.04em',
             color: INK,
@@ -917,9 +986,11 @@ const NewsOutro = ({startFrame, brand}) => {
         </div>
 
         <div
+          data-zone="core"
+          data-el="outro-handle"
           style={{
             fontFamily: sans,
-            fontSize: 20,
+            fontSize: 28,
             fontWeight: 700,
             letterSpacing: '0.1em',
             color: INK,
@@ -957,10 +1028,61 @@ const NewsOutro = ({startFrame, brand}) => {
   );
 };
 
+// 레이아웃 검사 전용(layoutProbe) — data-el 글자 요소의 실제 위치·넘침·글자 크기·실효 불투명도를 재서
+// 'LAYOUT {...}' 브라우저 로그 한 줄로 낸다. scripts/layout-check.mjs가 이 줄을 판정한다.
+// 측정 전에 웹폰트 로딩과 rAF 2회를 기다려 레이아웃이 확정된 뒤의 값을 잰다.
+const LayoutProbe = () => {
+  const frame = useCurrentFrame();
+  const [handle] = React.useState(() => delayRender('레이아웃 측정'));
+  React.useEffect(() => {
+    document.fonts.ready.then(() =>
+      requestAnimationFrame(() =>
+        requestAnimationFrame(() => {
+          try {
+            const nodes = [...document.querySelectorAll('[data-el]')];
+            const els = nodes.map((el) => {
+              const range = document.createRange();
+              range.selectNodeContents(el);
+              const r = range.getBoundingClientRect();
+              let opacity = 1;
+              for (let n = el; n; n = n.parentElement) opacity *= Number(getComputedStyle(n).opacity);
+              return {
+                el: el.dataset.el,
+                zone: el.dataset.zone,
+                left: r.left,
+                top: r.top,
+                right: r.right,
+                bottom: r.bottom,
+                // 넘침 = 자기 칸(부모 상자)보다 높거나, 줄바꿈 못 한 어절이 가로로 삐져나감.
+                // scrollHeight는 쓰지 않는다 — 줄간격이 1.44em보다 좁은 세리프 글자는 글리프 영역이
+                // 줄 상자를 넘어서 넘침이 없어도 항상 참이 된다(2026-10-05 probe 실측).
+                overflow: el.offsetHeight > el.parentElement.clientHeight + 1 || el.scrollWidth > el.clientWidth + 1,
+                fontSize: parseFloat(getComputedStyle(el).fontSize),
+                opacity,
+              };
+            });
+            // 화면 글자를 그대로 넘겨 한글 글리프(unicode-range 조각)까지 로딩됐는지 본다.
+            const text = nodes.map((el) => el.textContent).join('');
+            const fontsOk = document.fonts.check('900 40px "Noto Serif KR"', text);
+            console.log('LAYOUT ' + JSON.stringify({frame, fontsOk, els}));
+          } catch (err) {
+            console.log('LAYOUT_ERROR ' + JSON.stringify({frame, message: String(err?.message ?? err)}));
+          } finally {
+            continueRender(handle);
+          }
+        })
+      )
+    );
+  }, [frame, handle]);
+  return null;
+};
+
 // hookLine 없으면 이슈1 제목으로 폴백. brand 미전달이면 오리 기자 기본값으로 채운다.
 // noPhotos: true 또는 imageDir 미지정(null/undefined/빈 문자열)이면 사진 인셋 없이 렌더한다.
-// 기본 경로(imageDir='img/current', noPhotos 미지정)는 기존 사진 모드와 100% 동일해야 한다 — opt-in.
-export const CardNewsReel = ({date, hookLine, issues, imageDir = 'img/current', brand, noPhotos = false}) => {
+// 기본 경로(imageDir='img/current', noPhotos 미지정)의 카드 배치는 기존 사진 모드와 동일하다 — opt-in.
+// 단 훅 오버레이와 아웃트로는 두 모드가 공유하므로 2026-10-05 안전 영역 수정이 사진 모드에도 적용된다.
+// layoutProbe: 레이아웃 검사(reels/layout-cli.mjs)에서만 true — 프로덕션 inputProps에는 없다.
+export const CardNewsReel = ({date, hookLine, issues, imageDir = 'img/current', brand, noPhotos = false, layoutProbe = false}) => {
   const frame = useCurrentFrame();
   const issueList = issues || [];
   const issueIndex = Math.floor(frame / issueDuration);
@@ -969,7 +1091,12 @@ export const CardNewsReel = ({date, hookLine, issues, imageDir = 'img/current', 
   const usePhotos = !noPhotos && Boolean(imageDir);
 
   if (frame >= outroStart) {
-    return <NewsOutro startFrame={outroStart} brand={b} />;
+    return (
+      <>
+        <NewsOutro startFrame={outroStart} brand={b} />
+        {layoutProbe ? <LayoutProbe /> : null}
+      </>
+    );
   }
 
   const issue = issueList[issueIndex];
@@ -996,9 +1123,10 @@ export const CardNewsReel = ({date, hookLine, issues, imageDir = 'img/current', 
           date={date}
           weekday={weekday}
           issueNumber={issueNumber}
-          accent={b.accent}
+          brand={b}
         />
       ) : null}
+      {layoutProbe ? <LayoutProbe /> : null}
     </AbsoluteFill>
   );
 };

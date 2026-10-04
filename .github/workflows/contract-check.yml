@@ -22,6 +22,13 @@ on:
       - "scripts/kpi.mjs"
       - "test/fixtures/experiments/**"
       - "test/fixtures/health/**"
+      # 오리 기자 릴스 레이아웃 계약(2026-10-05) — layout 잡이 keyStat 테스트·안전 영역 검사를 돈다.
+      - "reels/src/**"
+      - "reels/layout-cli.mjs"
+      - "reels/package-lock.json"
+      - "scripts/layout-check.mjs"
+      - "test/fixtures/ai-layout-*.json"
+      - "test/fixtures/ai-2099-01-01.json"
   pull_request:
     paths:
       - "contracts/**"
@@ -36,6 +43,12 @@ on:
       - "scripts/kpi.mjs"
       - "test/fixtures/experiments/**"
       - "test/fixtures/health/**"
+      - "reels/src/**"
+      - "reels/layout-cli.mjs"
+      - "reels/package-lock.json"
+      - "scripts/layout-check.mjs"
+      - "test/fixtures/ai-layout-*.json"
+      - "test/fixtures/ai-2099-01-01.json"
   workflow_dispatch:
 
 jobs:
@@ -118,3 +131,56 @@ jobs:
 
       - name: KPI 회귀 계약 (골든)
         run: node scripts/kpi.mjs metrics/2026-09-29.json | cmp - test/fixtures/kpi-2026-09-29.golden.md
+
+  # 오리 기자 릴스 레이아웃 계약(2026-10-05) — 실제 스틸 렌더에서 글자가 인스타그램 안전 영역 안인지 판정한다.
+  # 음성 대조군(넘치는 픽스처)은 반드시 실패해야 한다 — 통과하면 검사기 고장이다.
+  layout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: 체크아웃
+        uses: actions/checkout@v5
+
+      - name: Node 20 설치
+        uses: actions/setup-node@v5
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: reels/package-lock.json
+
+      - name: CJK 폰트 설치 (한글 렌더)
+        run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk
+
+      - name: reels 의존성 설치
+        working-directory: reels
+        run: npm ci
+
+      - name: keyStat 테스트
+        run: node --test reels/src/keyStat.test.mjs
+
+      - name: layout-check (기본 픽스처)
+        run: node scripts/layout-check.mjs test/fixtures/ai-2099-01-01.json
+
+      - name: layout-check (최대 길이 픽스처)
+        run: node scripts/layout-check.mjs test/fixtures/ai-layout-max.json
+
+      # Anti-ISC-2: 프로덕션 props(layoutProbe 없음)에서는 probe 로그가 0줄이어야 한다.
+      - name: probe 꺼짐 확인 (layoutProbe 없이 LAYOUT 줄 0건)
+        run: |
+          node reels/layout-cli.mjs test/fixtures/ai-2099-01-01.json --no-probe | grep -x "layout-lines: 0"
+
+      - name: layout-check 음성 대조군 (넘치는 픽스처는 반드시 실패)
+        run: |
+          if node scripts/layout-check.mjs test/fixtures/ai-layout-overflow.json; then
+            echo "음성 대조군이 통과함 — layout-check 비교기 고장"; exit 1
+          fi
+
+      - name: 실패 시 텔레그램 알림
+        if: failure()
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TG_CHAT_ID}" \
+            --data-urlencode "text=[오리 기자] 릴스 레이아웃 계약 실패 — 안전 영역·keyStat 회귀 확인 필요"

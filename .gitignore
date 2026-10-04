@@ -5,3 +5,5 @@ reels/public/img/current/
 *.log
 .DS_Store
 .claude/
+# Remotion 브라우저 캐시 — 패키지 루트 밖(리포 루트)에서 렌더하면 cwd에 생긴다
+.remotion/
