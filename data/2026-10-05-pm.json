@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-05",
+  "slot": "pm",
+  "hookLine": "오키나와 호텔서 여성이 숨진 채 발견됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·사건",
+      "kicker": "다시 터진 오키나와",
+      "title": "오키나와 미 해병대원, 여성 강도살인 체포",
+      "summary": "오키나와에서 미 해병대원이 현지 30대 여성을 살해하고 소지품을 빼앗은 혐의로 체포됐습니다. 일본 정부는 미국에 강력 항의하고 재발 방지를 요구했습니다.",
+      "narration": "오키나와 미군이 일본 여성을 살해해 체포됐습니다.",
+      "sourceTitle": "오키나와 호텔서 30대 여성 숨져…미 해병대원 강도살인 혐의 체포",
+      "sourceDesc": "오키나와현 나하시 호텔에서 30대 현지 여성이 숨진 채 발견됐으며, 경찰은 후텐마 비행장 소속 미 해병대원을 강도살인 혐의로 긴급 체포했다. 용의자는 피해 여성의 지갑 등을 빼앗은 혐의를 받으며, 일본 정부는 미국에 강력 항의하고 재발 방지를 요구했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/international/2026/10/05/20261005500002",
+      "sourceDate": "2026-10-05",
+      "imagePrompt": "Dimly lit hotel corridor in Japan at night with police caution tape across a door, blue strobe light reflections on linoleum floor. Photojournalism documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "병역특례 폭발",
+      "title": "아시안게임 선수 병역 자랑 논란…여야 폐지 공감",
+      "summary": "아시안게임 축구 선수들의 병역 면제 자랑 발언이 논란이 됐습니다. 여야는 예술·체육 분야 병역특례를 폐지하거나 기준을 재설계해야 한다며 공감했습니다.",
+      "sourceTitle": "여야, 아시안게임 병역특례 논란…폐지 등 개편 필요성 공감대",
+      "sourceDesc": "2026 아이치·나고야 아시안게임 축구대표팀 선수들의 전역모 인증샷과 병역 면제 자랑 발언이 온라인에서 논란이 됐다. 여야는 예술·체육 분야 병역특례를 폐지하거나 기준을 재설계해야 한다며 개편 필요성에 공감했다.",
+      "sourceLink": "https://www.ajunews.com/view/20261005152032770",
+      "sourceDate": "2026-10-05",
+      "imagePrompt": "Athletic gold medal and military discharge papers side by side on dark polished surface under a single dramatic spotlight. Photojournalism documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "경제·정책",
+      "kicker": "집값 잡는다",
+      "title": "이재명 대통령, 집값 안정 대량 공급 강력 지시",
+      "summary": "이재명 대통령이 신임 국토부 장관과 LH에 국가 명운을 걸고 대량 공급에 매진하라고 지시했습니다. 집값 안정을 반드시 해결해야 할 과제로 강조하며 공급 확대에 주력하겠다고 밝혔습니다.",
+      "sourceTitle": "李대통령 \"집 못 지어 미친 것처럼 대량공급…반드시 집값안정\"",
+      "sourceDesc": "이재명 대통령이 신임 국토부 장관과 LH에 '집을 못 지어 미친 것처럼 국가 명운을 걸고 조기 대량 공급에 매진하라'고 지시했다. 이 대통령은 집값 안정을 반드시 해결해야 할 과제로 강조하며 공급 확대 정책에 주력하겠다고 밝혔다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/10/05/2026100516302712871",
+      "sourceDate": "2026-10-05",
+      "imagePrompt": "Rows of residential apartment towers under construction with tower cranes silhouetted against an orange and grey dusk sky, scaffolding in foreground. Photojournalism documentary style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "국감 D-1",
+      "title": "이재명 정부 2년 차 국정감사, 6일 시작",
+      "summary": "이재명 정부 2년 차 국정감사가 6일부터 시작됩니다. 여야의 첫날 최대 쟁점은 조희대 전 대법원장 증인 채택을 둘러싼 충돌로 예상됩니다.",
+      "sourceTitle": "이재명 정부 2년 차 국정감사 6일 시작…첫날 최대 쟁점은 '조희대'",
+      "sourceDesc": "이재명 정부 2년 차 국정감사가 10월 6일 시작된다. 여야가 첫날 최대 쟁점으로 조희대 전 대법원장 증인 채택을 두고 맞서는 가운데, 내년 예산안과 주요 정책에 대한 집중 심의도 예고됐다.",
+      "sourceLink": "https://khan.co.kr/article/202610051516001",
+      "sourceDate": "2026-10-05",
+      "imagePrompt": "Empty parliamentary assembly chamber with rows of nameplates on desks under bright fluorescent institutional lighting, official documents stacked in foreground. Documentary photography style, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "AI·보안",
+      "kicker": "AI가 직접 뚫었다",
+      "title": "금융권 해킹에 AI 자율 도구 사용 후속 확인",
+      "summary": "이번 금융권 해킹 수사에서 피해 금융사들이 동일한 AI 자율 침투 도구로 공격받은 후속 사실이 밝혀졌습니다. 전문가들은 시뮬레이션에서 경고된 AI 자율 해킹이 현실화됐다고 분석했습니다.",
+      "sourceTitle": "'미토스 쇼크'가 경고한 AI 해킹 현실화…금융권 공격서 드러난 흔적",
+      "sourceDesc": "국민·신한·하나·부산은행을 공격한 IP에서 동일한 AI 자율 침투 도구의 흔적이 발견됐다. 이는 시뮬레이션에서만 경고되던 AI 자율 해킹이 현실에서 이미 활용되고 있다는 것을 의미한다는 분석이 나왔다.",
+      "sourceLink": "https://www.fnnews.com/news/202610050601202252",
+      "sourceDate": "2026-10-05",
+      "imagePrompt": "Dark server room interior with blinking red error indicators on rack-mounted network equipment, abstract circuit board patterns as shadows on concrete wall. Photojournalism documentary style, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-05 저녁 브리핑\n\n1. 오키나와 미 해병대원, 여성 강도살인 체포\n2. 아시안게임 선수 병역 자랑 논란…여야 폐지 공감\n3. 이재명 대통령, 집값 안정 대량 공급 강력 지시\n4. 이재명 정부 2년 차 국정감사, 6일 시작\n5. 금융권 해킹에 AI 자율 도구 사용 후속 확인\n\n오늘도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #오키나와미군 #병역특례 #국정감사 #AI해킹\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
