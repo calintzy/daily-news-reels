@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-06",
+  "slot": "am",
+  "hookLine": "국방부가 DMZ 부상 사고의 결론을 냈습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "군사·안보",
+      "kicker": "北 지뢰 확인",
+      "title": "DMZ 부상 사고, 국방부 '北 지뢰' 결론",
+      "summary": "국방부가 DMZ 부상 사고의 최종 조사결과를 발표했습니다. 북한군이 MDL 이남에 설치한 지뢰 때문인 것으로 결론났습니다.",
+      "narration": "북한군이 MDL 이남에 심은 지뢰였습니다.",
+      "sourceTitle": "국방부 'DMZ 사고, 북한군 MDL 이남 설치한 지뢰 때문' 최종 결론",
+      "sourceDesc": "비무장지대(DMZ) 장병 부상 사고에 대해 국방부가 최종 조사결과를 발표했다. 북한군이 군사분계선(MDL) 이남에 지뢰를 설치한 것이 원인인 것으로 최종 결론났다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/10/05/2026100516165284812",
+      "sourceDate": "2026-10-05",
+      "imagePrompt": "Close-up of a rusted landmine warning sign near weathered concrete border post, overgrown grass and barbed wire fence, documentary photojournalism style, dramatic side lighting, muted earth tones, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "AI·과학",
+      "kicker": "해킹 vs 망분리",
+      "title": "5개 금융사 AI 해킹, 당국 '망분리' 완화",
+      "summary": "AI 해킹으로 국내 금융사 5곳에서 고객정보가 유출됐습니다. 금융당국이 방어용 AI 도입을 위해 망분리 규제를 완화하기로 했습니다.",
+      "sourceTitle": "해커는 쓰고 금융사는 못 쓰는 최신 AI… '망분리' 빗장 푼다",
+      "sourceDesc": "신한·KB국민·하나은행과 BNK부산은행, 예가람저축은행 등 5개 금융사가 AI 해킹으로 고객정보를 유출당한 가운데, 금융당국이 방어용 AI 기술 도입을 위해 망분리 규제 완화를 추진하기로 했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/2026/10/06/20261006002001",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Empty bank server room with rows of glowing blue data center racks, warning lights reflected on polished floor, dramatic shadows, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "사법 vs 입법",
+      "title": "조희대 대법원장, 국감 증인 불출석",
+      "summary": "조희대 대법원장이 국정감사 법사위 증인 출석을 거부했습니다. 대법원장 불출석으로 지난해처럼 일방 질의만 이어질 것이라는 우려가 나왔습니다.",
+      "sourceTitle": "조희대 대법원장, 국감 증인 불출석…지난해처럼 일방 질의 이어지나?",
+      "sourceDesc": "조희대 대법원장이 국정감사 법제사법위원회 증인 출석 요청을 거부했다. 대법원장이 국감 불출석 시 일방 질의만 이어지는 작년 국감 상황이 반복될 수 있다는 우려가 나왔다.",
+      "sourceLink": "https://www.mt.co.kr/society/2026/10/05/2026100511113181978",
+      "sourceDate": "2026-10-05",
+      "imagePrompt": "Grand courthouse exterior with empty stone steps and tall pillars, gavel resting on stone pedestal, overcast sky, documentary photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "국감 개막",
+      "title": "이재명 정부 두 번째 국감 개막",
+      "summary": "이재명 정부 두 번째 국정감사가 오늘 시작됐습니다. 부동산 정책과 개각 인사검증 등 주요 쟁점에 대한 집중 검증이 이뤄질 전망입니다.",
+      "sourceTitle": "李정부 두 번째 국감 준비",
+      "sourceDesc": "이재명 정부 두 번째 국정감사가 오늘 개막했다. 이번 국감에서는 집값 상승, 부동산 정책, 개각 인사검증 실패 등 다양한 쟁점이 다뤄질 전망이다.",
+      "sourceLink": "https://www.seoul.co.kr/news/politics/congress/2026/10/06/20261006005004",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Wide-angle view of empty legislative assembly chamber with rows of wooden benches, morning light through tall windows, chandeliers overhead, documentary photojournalism style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "집값 변화",
+      "title": "서울 아파트 거래, 80%가 15억 이하",
+      "summary": "정부 세제개편 이후 서울 아파트 거래 10건 중 8건이 15억원 이하로 나타났습니다. 중저가 아파트 거래 비중이 높아진 것으로 분석됩니다.",
+      "sourceTitle": "서울 아파트 거래 80%는 '15억 이하'",
+      "sourceDesc": "정부의 세제개편안 발표 이후 서울에서 거래된 아파트 10건 중 약 8건이 15억원 이하로 나타났다. 전문가들은 세제 변화가 중저가 아파트 거래 비중을 높인 것으로 분석했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/estate/2026/10/06/20261006032002",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Aerial view of densely packed Seoul apartment complexes at golden hour, geometric patterns of identical balconies and rooftops, documentary photojournalism style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-06 아침 브리핑\n\n1. DMZ 부상 사고, 국방부 '北 지뢰' 결론\n2. 5개 금융사 AI 해킹, 당국 '망분리' 완화\n3. 조희대 대법원장, 국감 증인 불출석\n4. 이재명 정부 두 번째 국감 개막\n5. 서울 아파트 거래, 80%가 15억 이하\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침뉴스 #국내뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
