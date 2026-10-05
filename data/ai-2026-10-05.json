@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-05",
+  "account": "aibrief",
+  "hookLine": "AI 가격 18개월 새 725분의 1 됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 서비스",
+      "kicker": "가격 역설",
+      "title": "AI 추론 비용, 18개월 만에 725분의 1 폭락",
+      "summary": "AI 추론 서비스 가격이 18개월도 안 돼 725분의 1 수준으로 떨어졌습니다. GPU와 전력 등 투입 비용은 폭등하는데 서비스 가격은 반대로 추락하는 역설이 벌어지고 있습니다.",
+      "sourceTitle": "[AI 포커스] \"18개월 만에 725분의 1로 뚝\"…유례없는 AI 추론 비용 폭락에 '가격 역설'",
+      "sourceDesc": "AI 붐으로 인해 GPU와 전력, 데이터센터 인프라 등 투입 비용은 폭등하고 있지만 정작 산출물인 추론 서비스의 시장 가격은 무섭게 추락하는 역설이 벌어지고 있습니다.",
+      "sourceLink": "https://cbci.co.kr/news/articleView.html?idxno=612289"
+    },
+    {
+      "rank": 2,
+      "category": "반도체·인프라",
+      "kicker": "팹 동맹",
+      "title": "머스크, TSMC에 테라팹 반도체 협력 타진",
+      "summary": "일론 머스크가 독자 반도체 공장 구상에 벽을 만나 TSMC에 협력을 타진했습니다. 테라팹은 테슬라와 xAI 데이터센터에 공급할 AI 반도체를 양산하려는 구상입니다.",
+      "narration": "머스크가 TSMC에 반도체 협력을 타진했습니다.",
+      "sourceTitle": "머스크, 독자 반도체 벽 부딪히자 TSMC에 손 내밀며 팹 동맹 타진",
+      "sourceDesc": "일론 머스크 테슬라 CEO가 세계 최대 파운드리 기업 TSMC와 초대형 반도체 공장 프로젝트 테라팹의 생산 협력을 논의하고 있다. 테라팹은 테슬라와 xAI 데이터센터에 투입할 AI 반도체를 양산하려는 구상이다.",
+      "sourceLink": "https://www.g-enews.com/article/Global-Biz/2026/10/202610050958447161fbbec65dfb_1"
+    },
+    {
+      "rank": 3,
+      "category": "사회 영향",
+      "kicker": "연봉 두 배",
+      "title": "AI 직군 연봉 중앙값, 일반직의 두 배",
+      "summary": "링크드인 연구에서 AI 직군 연봉 중앙값은 17만7000달러로, 일반 직무 8만달러보다 두 배 이상 높았습니다. AI 직군의 높은 연봉은 관련 인력에 대한 수요 증가를 반영하고 있습니다.",
+      "narration": "AI 직군 연봉이 일반직의 두 배를 넘었습니다.",
+      "sourceTitle": "AI 직군 연봉 두 배 높다…링크드인 \"중앙값 1억7700만원\"",
+      "sourceDesc": "링크드인 연구에 따르면 AI 관련 직무 연봉 중앙값은 17만7000달러로, 일반 직무의 8만달러보다 두 배 이상 높았습니다.",
+      "sourceLink": "https://www.blockmedia.co.kr/archives/1147608"
+    },
+    {
+      "rank": 4,
+      "category": "교육·사회 영향",
+      "kicker": "AI 지원 급증",
+      "title": "AI 전공 신설에 과기원 지원자 36.5% 급증",
+      "summary": "4개 과기원 수시에 3만3349명이 지원해 5년 새 2.5배 늘며 역대 최대를 기록했습니다. AI 전공 신설이 36.5% 급증에 주요 변수로 꼽혔습니다.",
+      "narration": "과기원 지원자가 AI 전공 신설로 급증했습니다.",
+      "sourceTitle": "과기원 수시 지원자 3만명 돌파 '역대 최대'…AI 신설에 36.5% 급증",
+      "sourceDesc": "4개 과기원에 3만3349명이 지원해 5년 새 2.5배 증가했다. AI 전공 신설이 36.5% 급증에 주요 변수로 꼽혔다.",
+      "sourceLink": "https://www.etoday.co.kr/news/view/2632370"
+    },
+    {
+      "rank": 5,
+      "category": "반도체·인프라",
+      "kicker": "전략 도약",
+      "title": "삼성·SK, 674조 AI 인프라 핵심 파트너로",
+      "summary": "삼성·SK가 674조 규모 AI 인프라 시장에서 단순 납품을 넘어 핵심 설계 파트너로 도약하고 있습니다. AI 데이터센터 수요 확대로 한국 반도체 기업의 위상이 높아지고 있습니다.",
+      "narration": "삼성·SK가 AI 인프라 핵심 파트너로 나섭니다.",
+      "sourceTitle": "단순 납품 끝났다… 삼성·SK, 674조 AI 인프라 판 짠다",
+      "sourceDesc": "삼성전자와 SK하이닉스가 AI 인프라 생태계를 직접 설계하는 핵심 파트너로 도약하고 있다. AI 데이터센터 수요 확대로 한국 반도체 기업의 역할이 커지고 있다.",
+      "sourceLink": "https://www.g-enews.com/article/Global-Biz/2026/10/202610041020044299fbbec65dfb_1"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-05 AI 뉴스 브리핑\n\n1. AI 추론 비용, 18개월 만에 725분의 1 폭락\n2. 머스크, TSMC에 테라팹 반도체 협력 타진\n3. AI 직군 연봉 중앙값, 일반직의 두 배\n4. AI 전공 신설에 과기원 지원자 36.5% 급증\n5. 삼성·SK, 674조 AI 인프라 핵심 파트너로\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #반도체 #빅테크 #AINews\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
