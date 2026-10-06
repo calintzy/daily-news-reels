@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "target": {
+    "config": "promptfooconfig.yaml",
+    "prompts": [
+      "prompt.txt"
+    ],
+    "probes": [
+      "asserts.js"
+    ],
+    "tests": "tests.yaml"
+  },
+  "activePrompt": "prompt.txt",
+  "current": {
+    "prompts": {
+      "prompt.txt": "sha256:bb8fa3636a8b999f22b72165f5423a18feea56976e646759b141f07858fae74c"
+    },
+    "probes": {
+      "asserts.js": "sha256:16a69889dfdb254bf74cfc1842ba4b088304e6d98f2575554611912ad49908ab"
+    },
+    "probeDeps": {
+      "../../scripts/rewrite-probes.cjs": "sha256:756607693158db784cdc667a990c071e0900bc5bffdfc95b8ddf1d36cfd20986"
+    }
+  },
+  "frozen": [
+    {
+      "id": "2026-10-06T03-09-14Z",
+      "promptId": "prompt.txt",
+      "note": "행동 번역 훅(action-hook-v1) 초기 동결 5건(행동 질문·행동 안내·사건형 폴백 + actionFrame 프로브)",
+      "promptHash": "sha256:bb8fa3636a8b999f22b72165f5423a18feea56976e646759b141f07858fae74c",
+      "probeHash": "sha256:98a7a798837a99632dd09cc291bf38b3a50ad6d6bbd14f46d97e5772a0d7fe73",
+      "depsHash": "sha256:a37a2216e0ef7d9ea93885f897cc910e363e3e5619ce2f005fa09c0895bc294d",
+      "cases": {
+        "10-01 pm 검찰청 폐지 D-1 (행동 각도가 원문 제목에 있음)": {
+          "pass": true,
+          "score": 1,
+          "output": "고소장, 이제 어디에 내야 할까요?"
+        },
+        "10-05 am 금융사 7곳 해킹 (개인정보 유출, 당사자 행동)": {
+          "pass": true,
+          "score": 1,
+          "output": "금융사 해킹, 내 정보도 털렸는지 어떻게 확인할까요?"
+        },
+        "09-23 am 추석 귀성길 사고위험 (시간대 주의, 행동 안내)": {
+          "pass": true,
+          "score": 1,
+          "output": "추석 귀성길, 몇 시를 피해 출발해야 할까요?"
+        },
+        "09-25 am 서울 아파트값 85주 연속 상승 (생활 변화)": {
+          "pass": true,
+          "score": 1,
+          "output": "서울 아파트값, 85주째 오르면 어디가 뜰까요?"
+        },
+        "10-05 pm 오키나와 강도살인 (사건형, 행동 각도 없음 폴백)": {
+          "pass": true,
+          "score": 1,
+          "output": "오키나와 사건, 왜 강도살인으로 체포됐을까요?"
+        }
+      }
+    }
+  ],
+  "failCases": []
+}

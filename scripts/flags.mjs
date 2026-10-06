@@ -3,6 +3,7 @@
 // 사용법:
 //   node scripts/flags.mjs data/<stem>.json      → 계정별 최종값을 $GITHUB_OUTPUT에 쓴다(렌더 스텝 env로 전달)
 //   node scripts/flags.mjs --check <flags.json>  → 파일 계약 검사(허용 키 외 키·형식 오류면 exit 1)
+//   node scripts/flags.mjs --hook-prompt         → 물어오리 hookLine 프롬프트 경로와 프레임 한 줄(루틴용, 항상 exit 0)
 //
 // 해석 모드는 절대 exit 1로 발행을 막지 않는다. flags.json이 없거나 손상되면 기본값(digest, TTS 0)과 경고,
 // 허용되지 않은 키(PUBLISH_LIVE 등)는 그 키만 무시한다. 킬스위치는 사람의 안전장치라 여기서 다루지 않는다.
@@ -16,7 +17,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 
 // 허용 키(화이트리스트)와 기본값. 기본값은 "실험 없음" 상태(render.mjs 기준 digest + control)다.
-export const FLAG_DEFAULTS = { REEL_FORMAT_MULEORI: "", TTS_ENABLED: "0" };
+// HOOK_FRAME_MULEORI: ""(훅 v2) | "action"(행동 번역 훅). 루틴이 --hook-prompt로 읽는다(렌더는 쓰지 않음).
+export const FLAG_DEFAULTS = { REEL_FORMAT_MULEORI: "", TTS_ENABLED: "0", HOOK_FRAME_MULEORI: "" };
 export const ALLOWED_KEYS = Object.keys(FLAG_DEFAULTS);
 export const ACCOUNTS = ["muleori", "aibrief"];
 
@@ -123,8 +125,28 @@ function runResolve(dataPath) {
   }
 }
 
+// 훅 프레임별 프롬프트 정본. 알 수 없는 값·파일 손상은 v2로 떨어진다(fail-safe, 경고는 stderr로만).
+const HOOK_PROMPTS = {
+  "": ["contracts/hook-muleori/prompt.txt", "v2"],
+  action: ["contracts/hook-muleori-action/prompt.txt", "action"],
+};
+
+function runHookPrompt() {
+  const flagsPath = process.env.FLAGS_FILE || join(ROOT, "experiments", "flags.json");
+  const { values, warnings } = resolveFlags(flagsPath, "muleori");
+  for (const w of warnings) console.warn(w);
+  const known = Object.hasOwn(HOOK_PROMPTS, values.HOOK_FRAME_MULEORI);
+  if (!known) console.warn(`경고: HOOK_FRAME_MULEORI 값 "${values.HOOK_FRAME_MULEORI}" 알 수 없음 — v2 사용`);
+  const [promptPath, frame] = HOOK_PROMPTS[known ? values.HOOK_FRAME_MULEORI : ""];
+  console.log(`${promptPath} frame=${frame}`);
+}
+
 function main() {
   const args = process.argv.slice(2);
+  if (args[0] === "--hook-prompt") {
+    runHookPrompt();
+    return;
+  }
   if (args[0] === "--check") {
     if (!args[1]) {
       console.error("사용법: node scripts/flags.mjs --check <flags.json>");
@@ -134,7 +156,7 @@ function main() {
     return;
   }
   if (!args[0]) {
-    console.error("사용법: node scripts/flags.mjs <data.json> | --check <flags.json>");
+    console.error("사용법: node scripts/flags.mjs <data.json> | --check <flags.json> | --hook-prompt");
     process.exit(2);
   }
   runResolve(args[0]);

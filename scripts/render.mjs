@@ -337,6 +337,16 @@ async function main() {
   writeFileSync(join(formatsDir, `${stem}.txt`), `${format}\n`, "utf-8");
   console.log(`포맷: ${format}`);
 
+  // 훅 프레임 기록물 — action-hook-v1 실험의 처치 증거(물어오리만). Actions 시점의 flags가 아니라
+  // 루틴이 실제로 쓴 data.hookFrame에서 나온다. "action" 외의 값(없음·오타)은 v2로 기록한다.
+  if (account === "muleori") {
+    const hookFrame = data.hookFrame === "action" ? "action" : "v2";
+    const hooksDir = join(ROOT, "docs", "hooks");
+    mkdirSync(hooksDir, { recursive: true });
+    writeFileSync(join(hooksDir, `${stem}.txt`), `${hookFrame}\n`, "utf-8");
+    console.log(`훅 프레임: ${hookFrame}`);
+  }
+
   // 4) 프레임 캡처 (hook / issue1 / outro)
   const prevDir = join(ROOT, "docs", "previews");
   mkdirSync(prevDir, { recursive: true });

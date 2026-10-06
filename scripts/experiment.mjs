@@ -706,7 +706,7 @@ export function gitRebuiltFn(root) {
       if (!first) return false;
       const after = execFileSync(
         "git",
-        ["-C", root, "log", "--format=%H", `${first}..HEAD`, "--", `docs/formats/${stem}.txt`, `docs/arms/${stem}.txt`, `docs/arms/ai/${stem}.txt`],
+        ["-C", root, "log", "--format=%H", `${first}..HEAD`, "--", `docs/formats/${stem}.txt`, `docs/arms/${stem}.txt`, `docs/arms/ai/${stem}.txt`, `docs/hooks/${stem}.txt`],
         { encoding: "utf-8", stdio: ["ignore", "pipe", "ignore"] },
       ).trim();
       return after.length > 0;
@@ -839,6 +839,10 @@ function buildCaseRoot(c, fixtureBase) {
     mkdirSync(join(root, "docs", "formats"), { recursive: true });
     writeFileSync(join(root, "docs", "formats", `${s.stem}.txt`), `${s.format}\n`);
     writeFileSync(join(root, "docs", "arms", `${s.stem}.txt`), `${s.arm}\n`);
+    if (s.hook) {
+      mkdirSync(join(root, "docs", "hooks"), { recursive: true });
+      writeFileSync(join(root, "docs", "hooks", `${s.stem}.txt`), `${s.hook}\n`);
+    }
     if (s.published === false) continue;
     mkdirSync(join(root, "published"), { recursive: true });
     writeFileSync(join(root, "published", s.stem), `${17900000000000000 + s.i}\n`);

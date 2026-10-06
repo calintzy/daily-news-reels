@@ -83,6 +83,20 @@ jobs:
       - name: 결정적 check (hook-muleori)
         run: cd contracts/hook-muleori && npx ratchetlock check --probe-locked
 
+      # 물어오리 행동 번역 훅 계약(2026-10-06, action-hook-v1) — v2 계약과 별도 기준선이다.
+      - name: 결정적 check (hook-muleori-action)
+        run: cd contracts/hook-muleori-action && npx ratchetlock check --probe-locked
+
+      - name: 행동 번역 훅 음성 대조군 (사실 통보형·v2 당사자형은 반드시 실패)
+        run: |
+          cd contracts/hook-muleori-action
+          if npx ratchetlock lint --output negative-no-action.txt --vars negative-no-action.vars.json; then
+            echo "음성 대조군 negative-no-action.txt가 통과함 — actionFrame 프로브 고장"; exit 1
+          fi
+          if npx ratchetlock lint --output negative-v2-party.txt --vars negative-v2-party.vars.json; then
+            echo "음성 대조군 negative-v2-party.txt가 통과함 — actionFrame 프로브 고장"; exit 1
+          fi
+
       - name: 실패 시 텔레그램 알림
         if: failure()
         env:

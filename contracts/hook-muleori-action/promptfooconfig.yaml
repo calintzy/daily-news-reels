@@ -1,0 +1,30 @@
+# hookLine 프롬프트 계약(물어오리 전용 행동 번역형, action-hook-v1) — ratchetlock으로 회귀 관리한다.
+# 규칙 정본은 prompt.txt. 프로브(asserts.js)는 contracts/hook-muleori(v2) 프로브에 actionFrame을 더한 것.
+# v2 계약(contracts/hook-muleori)과 분리된 별도 기준선이다 — 실험 플래그 HOOK_FRAME_MULEORI=action일 때
+# 루틴이 이 prompt.txt를 쓴다(node scripts/flags.mjs --hook-prompt). v2 계약은 한 바이트도 바꾸지 않는다.
+#
+# 게이트 음성 대조군(동결) 2종 — 둘 다 길이·존댓말·사실성은 통과하고 actionFrame에서만 떨어져야 한다.
+#   1. negative-no-action.txt + .vars.json: 사실 통보형 "내일 검찰청이 사라집니다." + 10-01 pm 실측 원문
+#   2. negative-v2-party.txt + .vars.json: v2 당사자형 "주유소 가격, 곧 오릅니다."
+#      vars는 data/2026-09-24-pm.json의 rank 3 실측 원문이다(가격 인상이 적힌 rank 1 원문이 data/에 없어
+#      같은 실측 데이터의 rank 3을 썼다. 합성 vars가 아니다).
+# 확인 명령:
+#   node ../../node_modules/ratchetlock/dist/cli.js lint --output negative-no-action.txt --vars negative-no-action.vars.json
+#   → [위반] 행동 번역 없음 / exit 1  (exit 0이면 actionFrame 프로브가 고장 난 것)
+# ratchetlock의 add-fail은 "통과해야 할 케이스"를 등록하는 통로라 음성 대조군은 lint로 동결한다.
+description: reels-hook-muleori-action
+prompts:
+  - file://prompt.txt
+providers:
+  # 라이브(--live) 평가용 — 구독 claude CLI 헤드리스 호출(API 키 불필요).
+  # 결정적 check는 이 프로바이더를 replay-provider.js로 자동 치환한다.
+  - id: 'exec: bash provider.sh'
+    config:
+      timeout: 180000
+defaultTest:
+  assert:
+    - type: javascript
+      value: file://asserts.js
+tests: file://tests.yaml
+evaluateOptions:
+  maxConcurrency: 2

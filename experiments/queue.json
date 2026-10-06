@@ -21,9 +21,56 @@
       "reject": [
         { "kpi": "avgWatchMedian", "op": "<", "value": 3.6 }
       ],
-      "next": { "adopt": "signals-actions", "reject": "d-plan-character", "inconclusive": "signals-actions" },
+      "next": { "adopt": "action-hook-v1", "reject": "action-hook-v1-digest", "inconclusive": "action-hook-v1" },
       "prereg": "RyanVault 02-CONTENT/ideas/2026-09-14-daily-news-reels-single-issue-preregistration.md",
       "addendum": "experiments/preregistration/single-issue-v1-addendum.md"
+    },
+    {
+      "id": "action-hook-v1",
+      "account": "muleori",
+      "status": "ready",
+      "hypothesis": "행동 번역 훅(B안, single 기반) — hookLine을 시청자가 해야 할 일·바뀌는 것을 묻거나 알리는 문장으로 쓰면 평균 시청이 오른다. 처치는 훅 프레임 하나(contracts/hook-muleori-action/prompt.txt)",
+      "flags": { "HOOK_FRAME_MULEORI": "action" },
+      "evidence": [
+        { "path": "docs/hooks/{stem}.txt", "equals": "action" },
+        { "path": "docs/formats/{stem}.txt", "equals": "single" },
+        { "path": "docs/arms/{stem}.txt", "equals": "tts" },
+        { "data": "issues.0.narration", "nonEmpty": true }
+      ],
+      "samples": 14,
+      "extendTo": 28,
+      "adopt": [
+        { "kpi": "avgWatchMedian", "op": ">=", "value": 4.9 },
+        { "kpi": "viewsMedian", "op": ">=", "value": 100 }
+      ],
+      "reject": [
+        { "kpi": "avgWatchMedian", "op": "<", "value": 3.3 }
+      ],
+      "next": { "adopt": "signals-actions", "reject": "signals-actions", "inconclusive": "signals-actions" },
+      "prereg": "experiments/preregistration/action-hook-v1.md"
+    },
+    {
+      "id": "action-hook-v1-digest",
+      "account": "muleori",
+      "status": "ready",
+      "hypothesis": "행동 번역 훅(B안, digest 기반 — single-issue-v1 기각 롤백 뒤) — 처치는 action-hook-v1과 같고 evidence·임계값만 digest 기준",
+      "flags": { "HOOK_FRAME_MULEORI": "action" },
+      "evidence": [
+        { "path": "docs/hooks/{stem}.txt", "equals": "action" },
+        { "path": "docs/formats/{stem}.txt", "equals": "digest" },
+        { "path": "docs/arms/{stem}.txt", "equals": "control" }
+      ],
+      "samples": 14,
+      "extendTo": 28,
+      "adopt": [
+        { "kpi": "avgWatchMedian", "op": ">=", "value": 3.8 },
+        { "kpi": "viewsMedian", "op": ">=", "value": 100 }
+      ],
+      "reject": [
+        { "kpi": "avgWatchMedian", "op": "<", "value": 2.7 }
+      ],
+      "next": { "adopt": "signals-actions", "reject": "signals-actions", "inconclusive": "signals-actions" },
+      "prereg": "experiments/preregistration/action-hook-v1.md"
     },
     {
       "id": "signals-actions",
