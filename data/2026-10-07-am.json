@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-07",
+  "slot": "am",
+  "hookLine": "명태균 사건 선고, 오늘 윤석열에 내려집니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "전 대통령 재판",
+      "title": "尹 명태균 여론조사 2심 오늘 선고",
+      "summary": "명태균씨에게서 여론조사를 무상 수수한 혐의로 기소된 윤석열 전 대통령의 항소심 선고가 오늘 있습니다. 김건희는 같은 혐의로 무죄 판결을 받은 바 있습니다.",
+      "narration": "명태균 여론조사 2심, 오늘 윤석열 판결이 나옵니다.",
+      "sourceTitle": "윤석열 유죄·김건희 무죄 명태균 여론조사…尹 2심 오늘 선고",
+      "sourceDesc": "'여론조사 무상 수수' 윤석열 2심 징역 4년 구형…내달 7일 선고",
+      "sourceLink": "https://www.hankyung.com/article/2026100767907",
+      "sourceDate": "2026-10-07",
+      "imagePrompt": "Empty courtroom interior with dark wooden judges bench and a single spotlight shining down, dramatic shadows, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "개인정보 유출",
+      "title": "교인정보 최대 100만건, 해킹 유출 가능성",
+      "summary": "국내 대형 교회들이 해킹을 당해 교인 개인정보 최대 100만건이 유출됐을 가능성이 제기됐습니다. 금융권 해킹에 이어 교회까지 피해 범위가 확산됐습니다.",
+      "sourceTitle": "금융권 이어 교회도 털렸다…교인정보 최대 100만건 유출 가능성도",
+      "sourceDesc": "국내 대형 교회에서 해킹 정황이 포착돼 100만건에 달하는 개인정보가 유출됐을 가능성이 제기됐다.",
+      "sourceLink": "https://www.hankyung.com/article/2026100667047",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Dramatic close-up of a server rack with padlocks on cable panels, dark room with blue warning lights blinking, digital threat atmosphere, no people, no text, vertical 9:16 composition, documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "치킨값 담합",
+      "title": "공정위, 치킨 프랜차이즈 담합 현장 조사",
+      "summary": "공정거래위원회가 생닭값 하락에도 치킨값이 유지되는 것에 대해 주요 치킨 프랜차이즈 본사를 현장 조사했습니다. 이 대통령이 치킨값을 언급한 지 엿새 만에 전격 착수한 것입니다.",
+      "sourceTitle": "李대통령 치킨값 언급 엿새 만에 가격담합 전격 조사 나선 공정위",
+      "sourceDesc": "생닭값은 뚝, 치킨값은 요지부동…공정위, 치킨 빅3 '담합 여부' 조사",
+      "sourceLink": "https://hankyung.com/article/2026100665631",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Overhead shot of golden fried chicken pieces in paper takeout box on a counter, store shelves softly blurred in background, warm food photography lighting, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "2026 국감",
+      "title": "국감 첫날, 여야 조희대 두고 정면충돌",
+      "summary": "2026년 국정감사 첫날부터 여야가 조희대 대법원장 출석 문제를 놓고 정면충돌했습니다. 여당은 동행명령 가능성까지 시사하며 강경 태도를 보였습니다.",
+      "sourceTitle": "[2026 국감] 여야, 조희대 두고 첫 날부터 충돌…與, 동행명령 가능성 시사",
+      "sourceDesc": "2026년 국정감사 첫날 여야가 조희대 대법원장 출석을 놓고 충돌했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261006000681",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Wide angle view of empty parliamentary chamber rows with blue seats and empty lectern under bright ceiling lights, institutional atmosphere, no people, no text, vertical 9:16 composition, documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "중국인 한국 여행",
+      "title": "中 국경절에 방한객 29% 급증",
+      "summary": "중국 국경절 연휴에 방한 중국인이 전년 동기 대비 29% 급증했습니다. 일본 여행 자제 분위기 속에 한국으로 방향을 바꾼 중국 여행객이 크게 늘었습니다.",
+      "sourceTitle": "\"일본 가지 말라더니\",'한국으로 유턴'…中 국경절 연휴에 방한객 29% 급증",
+      "sourceDesc": "중국 국경절 연휴에 방한 중국인이 전년 동기 대비 29% 급증했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026100614302576261",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Aerial view of Gyeongbokgung Palace courtyard in Seoul with colorful autumn trees, traditional architecture against a clear blue sky, serene and majestic, no people, no text, vertical 9:16 composition, photojournalism style."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-07 아침 브리핑\n\n1. 尹 명태균 여론조사 2심 오늘 선고\n2. 교인정보 최대 100만건, 해킹 유출 가능성\n3. 공정위, 치킨 프랜차이즈 담합 현장 조사\n4. 국감 첫날, 여야 조희대 두고 정면충돌\n5. 中 국경절에 방한객 29% 급증\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #국정감사 #치킨값 #개인정보유출\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
