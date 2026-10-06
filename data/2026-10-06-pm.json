@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-06",
+  "slot": "pm",
+  "hookLine": "의료진 없이 환자 4명이 숨진 병원이 압수수색됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사회",
+      "kicker": "정신병원 의혹",
+      "title": "인천 정신병원, 6개월간 환자 4명 사망",
+      "summary": "반년간 환자 4명이 숨진 인천의 정신병원을 경찰이 압수수색했습니다. 인권위는 병원장을 업무상 과실치사 혐의로 중수청에 고발했습니다.",
+      "narration": "의료진 없이 방치된 환자 4명이 숨졌습니다.",
+      "sourceTitle": "6개월 새 환자 4명 숨진 인천의 정신병원…인권위 고발·인천경찰청 압수수색",
+      "sourceDesc": "반년간 환자 4명이 연달아 숨진 인천의 정신병원에 경찰이 6일 압수수색을 진행했다. 인권위는 의료진 없이 환자를 방치해 사망하게 한 혐의로 병원장을 업무상 과실치사 등 혐의로 중수청에 고발했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261006000978",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Empty dimly lit hospital ward corridor at night, unmanned nursing station with scattered patient files, isolation room door slightly ajar, harsh fluorescent lighting casting sharp shadows on linoleum floor, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "한-이집트 외교",
+      "title": "이집트 대통령, 10년 만에 방한",
+      "summary": "이집트 알시시 대통령이 10년 만에 한국을 방문했습니다. 이재명 대통령과의 정상회담은 오는 8일로 예정됐습니다.",
+      "sourceTitle": "알시시 이집트 대통령, 10년 만에 방한…李대통령과 8일 '정상회담'",
+      "sourceDesc": "이집트의 알시시 대통령이 10년 만에 한국을 방문했다. 이재명 대통령과는 8일 정상회담을 가질 예정이며, 양국 간 외교 및 경제 협력 방안을 논의할 전망이다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/10/06/2026100615143830384",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Egyptian and Korean national flags on ceremonial flag poles outside formal diplomatic building entrance, golden afternoon light, grand stone facade architecture in background, shallow depth of field, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "증시 반등",
+      "title": "코스닥 일주일새 8% 급등",
+      "summary": "코스닥 지수가 일주일 만에 8% 급등하며 반도체 소부장에 이어 다른 업종까지 상승세가 확산됐습니다. 시장 전반의 투자 심리가 개선되고 있다는 분석이 나옵니다.",
+      "sourceTitle": "\"코스닥 일주일새 8% 급등\"...반도체 소부장 이어 '이 업종' 질주",
+      "sourceDesc": "코스닥 지수가 최근 일주일 동안 8% 급등하며 반도체 소부장 업종에 이어 다른 업종까지 상승세를 이어가고 있다.",
+      "sourceLink": "https://www.mt.co.kr/stock/2026/10/06/2026100615394182283",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Close-up of glowing green upward trending stock market chart on dark digital display screen, illuminated trading data visualizations in background, dramatic blue and green ambient lighting, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 4,
+      "category": "정책",
+      "kicker": "공공자산 관리",
+      "title": "'숨은 공유재산' 전국 총조사 법제화",
+      "summary": "정부가 숨은 공유재산을 5년마다 전국 총조사하도록 법제화를 추진합니다. 이미 20조 원 규모의 공유재산이 발굴됐으며, 체계적 관리 강화가 목적입니다.",
+      "sourceTitle": "'숨은 공유재산' 5년마다 찾는다…20조 발굴 이어 전국 총조사 법제화",
+      "sourceDesc": "정부가 숨은 공유재산을 5년마다 전국 총조사하는 방안을 법제화하기로 했다. 지금까지 20조 원 규모의 공유재산이 발굴됐으며, 이번 법제화로 공유재산 관리 체계가 강화될 전망이다.",
+      "sourceLink": "https://www.mt.co.kr/policy/2026/10/06/2026100608311738645",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Aerial drone view of government administrative complex with expansive grounds, manicured courtyards and official buildings from high angle perspective, muted daylight, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 5,
+      "category": "사건",
+      "kicker": "등산로 추락",
+      "title": "구미 금오산서 10대 여학생 추락",
+      "summary": "경북 구미 금오산에서 사진을 찍던 10대 여학생이 발을 헛디뎌 추락하는 사고가 발생했습니다. 구조 당국이 즉각 출동해 구조 작업을 벌였습니다.",
+      "sourceTitle": "구미 금오산서 사진 찍던 10대 여학생 발 헛디뎌 추락",
+      "sourceDesc": "경북 구미 금오산에서 사진을 찍던 10대 여학생이 발을 헛디뎌 추락하는 사고가 발생했다. 소방 당국이 즉각 출동해 구조 작업을 펼쳤다.",
+      "sourceLink": "https://www.mt.co.kr/society/2026/10/06/2026100615170949187",
+      "sourceDate": "2026-10-06",
+      "imagePrompt": "Rocky autumn mountain trail on steep hillside with fallen leaves, emergency rescue rope hanging from rocky outcrop above rugged terrain, overcast sky, dramatic mountain landscape, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-06 저녁 브리핑\n\n1. 인천 정신병원, 6개월간 환자 4명 사망\n2. 이집트 대통령, 10년 만에 방한\n3. 코스닥 일주일새 8% 급등\n4. '숨은 공유재산' 전국 총조사 법제화\n5. 구미 금오산서 10대 여학생 추락\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁뉴스 #국내뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
