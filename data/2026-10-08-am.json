@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-08",
+  "slot": "am",
+  "hookLine": "성도 개인정보, 7건 중 1건에서 확인됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "교회 해킹",
+      "title": "여의도순복음교회 성도 개인정보 유출 의심",
+      "summary": "여의도순복음교회가 성도 개인정보 유출 의심 사실을 공개하고 긴급 보안 조치에 나섰습니다. 유출 의심 자료 7건 중 1건에서 이름·생년월일 등 개인정보 포함이 확인됐습니다.",
+      "narration": "긴급 보안 점검 후 개인정보 포함이 확인됐습니다.",
+      "sourceTitle": "여의도순복음교회 \"즉시 긴급 보안조치…7건 중 1건 개인정보 포함\"",
+      "sourceDesc": "한국인터넷진흥원(KISA)으로부터 전날 오후 3시 교회 정보시스템 침해 사고 발생 정황을 통보받은 직후 긴급 보안 점검에 착수했다. 유출 의심 자료 7건 가운데 1건에서 85만 명의 이름, 생년월일 등 개인정보 변경 내용이 확인됐다고 밝혔다.",
+      "sourceLink": "https://www.ajunews.com/view/20261007085010487",
+      "sourceDate": "2026-10-07",
+      "imagePrompt": "A large Korean Protestant church building facade at dawn, stained glass windows glowing softly from within, abstract digital light patterns fading into a dark sky overhead. No people. No text. Vertical 9:16 composition, photojournalism documentary style, cool dawn light."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "AI 해킹",
+      "title": "금융권 AI 해킹 보안점검 완료",
+      "summary": "은행·카드사의 긴급 보안점검이 완료됐으며 추가 정보 유출 사례는 확인되지 않았습니다. 금융당국은 위협 정보를 전 금융권에 전파하고 계속 경계를 당부했습니다.",
+      "sourceTitle": "은행·카드사 보안점검...금융당국, 위협정보 전파",
+      "sourceDesc": "개천절 연휴 이후 추가 정보 유출 사례는 확인되지 않은 것으로 나타났다. AI를 활용한 해킹 시도가 계속될 수 있는 만큼 금융업계 전체가 비상이라고 전했다.",
+      "sourceLink": "https://www.ytn.co.kr/_ln/0102_202610071212073140",
+      "sourceDate": "2026-10-07",
+      "imagePrompt": "Empty bank branch interior at night, rows of computer workstations with screens showing abstract blue security alert patterns, steel vault door visible in background. No people. No text. Vertical 9:16 composition, documentary photojournalism style, cool blue security lighting."
+    },
+    {
+      "rank": 3,
+      "category": "AI·과학",
+      "kicker": "우주 발사",
+      "title": "누리호 5차 발사 4연속 성공",
+      "summary": "한국형 발사체 누리호가 5차 발사에 성공하며 4회 연속 궤도 진입 성공을 달성했습니다. 발사 성공률이 80%가 됐으며 총 15기의 위성을 탑재했습니다.",
+      "sourceTitle": "누리호 5차 발사 성공… 군집위성 시대 열다 [누리호 5차 발사 성공]",
+      "sourceDesc": "이번 성공으로 누리호는 2021년 첫 실패 이후 4회 연속 성공이라는 금자탑을 쌓으며 발사 성공률을 80%로 끌어올렸다. 역대 최다인 총 15기의 위성이 실렸다.",
+      "sourceLink": "https://www.fnnews.com/news/202610071826359850",
+      "sourceDate": "2026-10-07",
+      "imagePrompt": "Korean rocket ascending vertically through a clear blue sky, large white exhaust plume spreading below, coastal launch facility and ocean visible far below. No people. No text. Vertical 9:16 composition, photojournalism style, bright midday light."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "실적 발표",
+      "title": "삼성전자 3분기 잠정실적 오늘 발표",
+      "summary": "삼성전자가 3분기 잠정 실적을 8일 발표합니다. 국내 기업 사상 처음으로 분기 영업이익 100조원 돌파가 기대됩니다.",
+      "sourceTitle": "삼성전자, 올 3분기 실적 오늘 발표…韓기업 사상 첫 영업익 '100조' 달성하나",
+      "sourceDesc": "삼성전자가 8일 3분기 잠정 실적을 발표한다. 시장에서는 국내 기업 사상 처음으로 분기 영업이익 100조원 돌파가 기대된다.",
+      "sourceLink": "https://www.fnnews.com/news/202610080501541626",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "Semiconductor silicon wafers arranged under bright cleanroom lighting on a stainless steel surface, circuit patterns reflecting white overhead lights. No people. No text. Vertical 9:16 composition, photojournalism technical style, white sterile environment."
+    },
+    {
+      "rank": 5,
+      "category": "사건",
+      "kicker": "수원시장 수사",
+      "title": "경기도당 압수수색, 수원시장 선거법 수사",
+      "summary": "경기남부경찰청이 더불어민주당 경기도당 사무실을 압수수색했습니다. 이재준 수원시장의 공직선거법 위반 의혹과 관련해 당원 명부 등 자료를 확보했습니다.",
+      "sourceTitle": "민주당 경기도당 압수수색…수원시장 경선 자료 확보",
+      "sourceDesc": "경기남부경찰청 반부패·경제범죄수사대는 7일 경기 수원시 매교동 민주당 경기도당 사무실에 수사관을 보내 압수수색 영장을 집행했다. 이재준 수원시장의 공직선거법 위반 의혹 수사와 관련해 당원 명부 등 자료를 확보했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/2026/10/07/20261007500287",
+      "sourceDate": "2026-10-07",
+      "imagePrompt": "Empty government office corridor, rows of locked filing cabinets with official evidence tape across the handles, institutional fluorescent lighting casting shadows. No people. No text. Vertical 9:16 composition, documentary photojournalism style, harsh institutional lighting."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-08 아침 브리핑\n\n1. 여의도순복음교회 성도 개인정보 유출 의심\n2. 금융권 AI 해킹 보안점검 완료\n3. 누리호 5차 발사 4연속 성공\n4. 삼성전자 3분기 잠정실적 오늘 발표\n5. 경기도당 압수수색, 수원시장 선거법 수사\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #개인정보유출 #AI해킹 #누리호 #삼성전자\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
