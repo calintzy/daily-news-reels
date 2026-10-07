@@ -1,0 +1,493 @@
+{
+  "stem": "2026-10-08-am",
+  "collectedAt": "2026-10-08T06:17:01+09:00",
+  "sources": {
+    "news": "ok",
+    "trends": "ok",
+    "nate": "ok"
+  },
+  "news": [
+    {
+      "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
+      "pubDate": "2026-10-07T21:11:00+09:00"
+    },
+    {
+      "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
+      "pubDate": "2026-10-07T22:05:00+09:00"
+    },
+    {
+      "title": "재제청 거부 조희대, 재제청 요구 청와대…대법관 공백 ‘출구 난망’",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
+      "pubDate": "2026-10-08T05:00:00+09:00"
+    },
+    {
+      "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+      "pubDate": "2026-10-07T16:27:00+09:00"
+    },
+    {
+      "title": "노벨화학상 받은 日 소아이... \"장보다 소식 들었다, 가장 짜릿한 날\"",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaU1NVkN4ZTFaZktJZlRCUG5rMjRkRWliTUd5Mk5VY0hJc0Q3UkFTcmYxSVc5OTdrZUdFWlRiTm41UjFvQWFnbDVVOVhlOUVjWlpwRF9WT1pQRWVnSkFCeml4R01pU0xlWVNnRERUQ2l4M1BfbUFKQ01tZWNNeFBNN0t1U3lhanFDQ181dHM0d2tYa3FKTjgzWGVBZmdPdw?oc=5",
+      "pubDate": "2026-10-07T23:43:00+09:00"
+    },
+    {
+      "title": "청와대, ‘러시아 석유 공급’ 우크라 주장에 “사실과 다르고 부적절”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16LVkxdzRvWS1FRmlMTVR0NTJwNUFhS2UtUGU0VURmYTZWdm5EbnNRNl9xamxxNG53VUZTWDR0akJrZTRLeVBQRk85Y2ZkbWNyS29jck5zVGwtbE5EYjVvUG40cUJRQW5zQ1o4?oc=5",
+      "pubDate": "2026-10-07T22:15:00+09:00"
+    },
+    {
+      "title": "사우디 \"리야드·아브하 공항서 3명 사망\"‥후티 잇단 공습 주장",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HVVNRaFhoQ3ZXQlhMdUVfYXR0WDhyR0IxTTdfLWVsOU9OQkVhWDFIVTM2OXoybFZYY2VKWFFVOTQzSkRaSlJsUEN1UndjOFlueFp4T1pkSE41cTc2dEZMcTVleFZLbWI2amxEeGJpaGNMa1g10gF0QVVfeXFMTnlEZVVnQnBkWktNRGpoak1lZlU2SVM4M2FuQktKb2hZWFBSbU5Xbk96MkJ3UC03cHVRallPNnh4T1pLZ2NZNnZaSGl5VGpuOHFrdEJVSTBJNnRTT25uOXZxWUxEelhETjJGTkRtZEczV3FZbmQ?oc=5",
+      "pubDate": "2026-10-08T04:19:39+09:00"
+    },
+    {
+      "title": "美격전지 중간선거 사전투표 돌입… 트럼프도 독려 나서",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaLW5VX2hDQlJZSlQ4Q010VmdnVnRYTy1BSENuTXV3eHNVT0t1SlBEYmlPbEtDaWRJeTRyNlNHZEFEeHd2NmF4NjA3WVNDQ1R1UHNvOEhEaVZ1NXBjbnQxVW50SkVuejExblRXWDByY0dYV1HSAWZBVV95cUxQaE8wVlFsYXhVZXpIWWZULW9xZUR6OXJPSjdJTTloQndPdHJ1ejUzQzR2c0VtMlNXWXVfNjVpdHEwR052b3VGTHRBV0R1MTBMNWJpanJyT1dCTUxJZkx6SmsxTjV5SWc?oc=5",
+      "pubDate": "2026-10-08T04:30:00+09:00"
+    },
+    {
+      "title": "“제2의 코로나, 푸틴이 시작하나”…흑사병 무기연구설에 전세계 긴장",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DYS1OaUU5c0xOUGdpamRHUjUzay1SLXp2Vk9HT0xfQlpqb0tJSDQ5azJyak5wVDdvczM5Zk9UTUwwSVZEZzZwMXd3NVZnZFVaa0E?oc=5",
+      "pubDate": "2026-10-07T22:17:53+09:00"
+    },
+    {
+      "title": "케타민이 뭐기에… ‘코넬대 성폭행’ 기록에 수백 번 등장",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWJDeThONTByQm9GTmpUZm5sYTJDU0tXQWpHOGxndHhXTXNtelJMT2dlWm41WUctckRkQ1RjVDA4eXlzVE5sNkRUTHlLRC1YMTNwUlRVTUJtTU1KRUhSS3FCZEEyWjNjUG5PdU1semlxWFhfbnBLMUxnay1pV1BqbzJFcGNNWW9UZVBxYXF0NjFidFVEZnNtRERnakpNdw?oc=5",
+      "pubDate": "2026-10-08T00:43:00+09:00"
+    },
+    {
+      "title": "미 달러화 급등…또 불안한 프랑스 채권시장 속 FOMC 의사록 대기",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2QWFISllRTjZYT2wydGdPcUM3bE8tYjF2TW5SYl9TeXRuM0toY29ETFd0dGFkSGtaZjhCSnE1U2pRT0F0b3d1X010SGhCRGpRbENpdmtJUTdkZ3YwWHB4WmZmME9Yd2llUmg0ODlOckg?oc=5",
+      "pubDate": "2026-10-07T22:58:51+09:00"
+    },
+    {
+      "title": "이 대통령 “한국형 녹색대전환은 ‘3대 메가’ 성공의 필수 전제”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nZExPQXlhV0swYlZXbkRsYkxoLVBrcnJ2cG56MkI1b3RRMUFPR09pLXdFd3hxbFpHZlpKVTF3a1pKVHdiZ2M2aDhmYXV0Y2swMFBVZHh6ank1TUdhR0h5Mm9DSksyTG5GeTNR?oc=5",
+      "pubDate": "2026-10-07T17:43:00+09:00"
+    },
+    {
+      "title": "삼성전자 반도체 성과급 내년 3월 말 지급…“연봉 8천만 원이면 최대 7.5억”",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GbDM3VWJsd0I5M2JTd3pSM0ctYWxyVWwycE5xbkYzbGZTLUwtMVVVTmhwU29YUUYzUjEyOVVrYk51WmllUEtudDZDQUR4b0JPX25MVnQ2WmR1M28?oc=5",
+      "pubDate": "2026-10-07T20:56:00+09:00"
+    },
+    {
+      "title": "노벨 물리학상에 프랜시스 핼젠…남극 얼음으로 우주 중성미자 관측",
+      "source": "인더스트리뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wc3VTYWJhbjlfZkQ0TDZkVnFqaXM0VXpzTXhmT2hUWHRwU2FhTS1KSkU4QURBWm82SkxMaWQ1Wi1wUWhIcVk1ekV0V3JYODJ1Mi1qQWpkaEZkN1lzWE11VHNOdGdRaUU3YjdkTWtyY3R4QQ?oc=5",
+      "pubDate": "2026-10-07T16:06:25+09:00"
+    },
+    {
+      "title": "대한민국 과학기술인상 10월 수상자에 이정은 서울대 교수",
+      "source": "아이티비즈",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xRXFsdlI5dzRjUWFrT2lidmRTaTVNeVpwR25yTzMzUVAxZ0s0eWVpU1ZpbUozUGxmSFFmVjFEbzJaRWZ2VWM2OFNqdERzZzhqOGZlUnBDa2tNNEZwbVhFT3FDVmc3Q0E?oc=5",
+      "pubDate": "2026-10-07T16:57:35+09:00"
+    },
+    {
+      "title": "'피크민4' 스위치2 버전 예판 시작⋯구매 특전 어디서 어떻게?",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zRVJrSDR0X3BOMEFCOUtMLXJYa0dqbGRJZV93LVp3ak82ZXpCUjV5eHZxdGo2ZUhkNlBpVm95WkU4SjhRYTdVNHNUOXhDM3NGeks3eUdiQWRaeWwyTElsaUg4VEg0SlQ4eFNDRA?oc=5",
+      "pubDate": "2026-10-07T16:22:00+09:00"
+    },
+    {
+      "title": "전도연부터 판빙빙까지, 부국제 레드카펫 베스트 드레서는?",
+      "source": "하퍼스 바자 코리아",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oa3d3UEFfV2t0SHBTcmVQWDlSSTdwd2xJZWs0ZXh6b3RJSUdxSURNRHAydXp4dGNSdW1MX2FXVFNQVmZKczhYdkczVE5uUU53R1VuZ2lDbHVBNUk?oc=5",
+      "pubDate": "2026-10-07T19:37:41+09:00"
+    },
+    {
+      "title": "'11살 연하♥' 김종민, 47세에 아빠 됐다 \"2세는 아들\"('슈돌')",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVnJMWTFJQWpaT21za25nTlQ2WENJTkZ6aUJQcEhvX1lVTXQzMm9hYkNHWjNtM29yWDVsdTRITWF5WldISjdaSzZ2SG1uU3RpMktEMk5VY25pZXpEQTZ1MndCSHZXTzFRWHRXRWgyMjNZVTZ0ZEExbEhyVEVyZW9VTVpDbmlrSXkwejBHMGxWRQ?oc=5",
+      "pubDate": "2026-10-07T23:38:00+09:00"
+    },
+    {
+      "title": "황정음, `폐기물 장난감 나눔` 논란 뒤늦게 밝힌 심경…\"빨리 나누려다가\" [마데핫리뷰]",
+      "source": "마이데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzSThGcnF1S1VlOEdUVUQ2VkJSdURoSEFrSzJKcmNzUDlvZ3hNbGt4WEFCZXNNWHhvaDFQTFoxbDFoYWlpNUZBZXV3OXYwNURYbmZ3UkRzSmNPUWNjU1JtQS04Zm5EQQ?oc=5",
+      "pubDate": "2026-10-07T22:20:05+09:00"
+    },
+    {
+      "title": "‘204안타’ 최원준, KBO 새 역사…KT 위즈 8연승 질주",
+      "source": "경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZ3N1UW9CSVE3QWJqWnJWSmRkSk9nUG9Tc1lKaGZyOHh4ZEd1Q0ZWRDJtdjNEaklMOHhmR0t0a2tEejlmTkpFUEpyMFliZ1hLeW13MXlKUTFkdkU?oc=5",
+      "pubDate": "2026-10-07T22:35:02+09:00"
+    },
+    {
+      "title": "[AI상보] 김도영 쐐기 2루타·양현종 198승 KIA, 롯데 12-4 완파",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bd3JhanktUGoya3diVmkzMUpqampLd1NSckZOR0c5NVRycTRFT0NEM21LazRTVGtONkl0R2RfbDB6Qjg1RnRVQXZsRk9RcmNINW9NUlh5N1BVenlV?oc=5",
+      "pubDate": "2026-10-07T23:40:00+09:00"
+    },
+    {
+      "title": "‘두 가족’ 품어온 잠실야구장, 역사의 뒤안길로···LG·두산 ‘잠실 더비’ 마지막 경기 만원 관중",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42RjdBdlBxYnpCS0E2TDRETHNZbmgxcXBkWlI1bktKYk5oYXljNlB1Z0p0UWlsalF1UkVBOUo2U1g2bEp6LWtnOGRIQm92eG9WcHgxd1VlSjM5UdIBX0FVX3lxTE5KVHVXUkN6WU9RQWMyUVpzZmhXWnJrZDByTXhFN1dQZGp0czB3dTIyREtRWXRkMnhtMEhxb1RRLTItOWphWHhab2kxazNralIyYlhPbUlBdW5fMUdUZGk4?oc=5",
+      "pubDate": "2026-10-07T22:35:00+09:00"
+    },
+    {
+      "title": "고려대 안산병원, 루게릭병 치료 후보물질 ‘트리벤질아민’ 발굴",
+      "source": "MEDI:GATE NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTSFk0NGY2aWg1SWdIalRObHRBNEFTdU1ST1FzMkl6X0tLUjNvR0h5bTlPZzZqR2p0YktWQm9peUsxSmZEUmhRUEFyRzJkM1ZtMGNNY0VGWQ?oc=5",
+      "pubDate": "2026-10-08T03:30:00+09:00"
+    }
+  ],
+  "trends": [
+    {
+      "term": "비트코인",
+      "pubDate": "2026-10-08T05:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "[아주경제 코이너스 브리핑] 비트코인 8만5000달러대 횡보…美 증시 강세에 상승폭 제한",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20261007081743704",
+          "source": "Daum"
+        },
+        {
+          "title": "비트코인, 1억1500만원선…중동 긴장 속 알트코인도 약세",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261007_0003816589",
+          "source": "뉴시스"
+        },
+        {
+          "title": "비트코인 1억1566만 원대 횡보, 뉴욕증시 강세에도 가상화폐 매수세 부족",
+          "snippet": "",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448753",
+          "source": "비즈니스포스트"
+        }
+      ]
+    },
+    {
+      "term": "lg에너지솔루션",
+      "pubDate": "2026-10-08T05:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "LG엔솔, 배터리 장비기업에 100억 보상한다",
+          "snippet": "",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=63408",
+          "source": "디일렉"
+        },
+        {
+          "title": "LG엔솔, 11개 분기 만에 매출 8조 복귀하나…북미 ESS가 견인",
+          "snippet": "",
+          "url": "https://v.daum.net/v/pgt3fGnQvu",
+          "source": "Daum"
+        },
+        {
+          "title": "'1등' LG엔솔, 배터리 전쟁 '후반전' 예고…\"하드웨어→소프트웨어\" - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/industry/2026/10/07/2026100616032188047",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "term": "압수수색",
+      "pubDate": "2026-10-08T05:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "민주당 경기도당 압수수색…김승원 소환도 이어지나",
+          "snippet": "",
+          "url": "https://weekly.khan.co.kr/article/202610071832011",
+          "source": "주간경향"
+        },
+        {
+          "title": "‘수원 당원 불법모집 의혹’ 민주 경기도당 압수수색",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Society/article/all/20261007/134805643/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "경찰, 민주당 경기도당 압수수색…이재준 수원시장 선거법 수사(종합)",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261007186100061",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "term": "프로야구 순위",
+      "pubDate": "2026-10-08T05:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "퇴출 대상 힐리어드가 MVP 후보로…kt 이강철 '믿음의 야구'",
+          "snippet": "",
+          "url": "https://v.daum.net/v/VIRAKe5TYl?f=p",
+          "source": "Daum"
+        },
+        {
+          "title": "[굿모닝위즈·141] 우승팀의 뎁스 야구",
+          "snippet": "",
+          "url": "https://www.kyeongin.com/article/1772129",
+          "source": "경인일보"
+        },
+        {
+          "title": "다시 한 번 빛난 '강철 매직'…재계약 규모·시기에 쏠리는 관심",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816271",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "term": "보조금",
+      "pubDate": "2026-10-08T05:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "이 대통령 \"녹색시장 직접 판 짜는 설계자·선도자 돼야\"",
+          "snippet": "",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973145",
+          "source": "정책브리핑"
+        },
+        {
+          "title": "탈탄소-친환경 산업 육성에 10년간 1000조… ‘K-녹색대전환’ 추진",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Economy/article/all/20261008/134805821/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261007173000011",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "term": "암",
+      "pubDate": "2026-10-08T04:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’",
+          "snippet": "",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/10/07/2026100702733.html",
+          "source": "헬스조선"
+        },
+        {
+          "title": "50세 미만 암 증가세 더 가팔랐다…英 7종·美 5종·네덜란드 4종↑",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816123",
+          "source": "뉴시스"
+        },
+        {
+          "title": "50세 미만 전립선암 22년 새 4배 급증, 신장암은 2배↑…이유는?",
+          "snippet": "",
+          "url": "https://www.sportschosun.com/life/2026-10-06/202610060100040150002574",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "term": "회사채",
+      "pubDate": "2026-10-08T04:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "파라다이스 회사채 '흥행'…600억 모집에 2050억 몰렸다 - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/culture/2026/10/07/2026100714073722034",
+          "source": "머니투데이"
+        },
+        {
+          "title": "파라다이스 회사채 목표액 3배 주문…만기별 금리 엇갈려",
+          "snippet": "",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04716646645610296",
+          "source": "마켓인"
+        },
+        {
+          "title": "파라다이스, 회사채 수요예측에 3.4배 몰려…2·3년물 온도차(종합)",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261006151251008",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "term": "역주행",
+      "pubDate": "2026-10-08T04:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "70대가 몰던 차량, 중앙선 넘어 역주행 돌진 ‘쾅’…일가족 날벼락",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Society/article/all/20261007/134806292/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "\"4차선서 갑자기 역주행\"…고령 운전자 차량에 일가족 날벼락",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261007_0003818173",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"제발 면허 반납 고려를\"…고령 운전자 역주행에 일가족 날벼락 - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/society/2026/10/08/2026100722363534383",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "term": "인천대교",
+      "pubDate": "2026-10-08T04:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "인천대교 어선 화재 완진…해경, 정확한 화재 원인 조사",
+          "snippet": "",
+          "url": "https://v.daum.net/v/WZDbGN71X2",
+          "source": "Daum"
+        },
+        {
+          "title": "인천대교 인근 해상 선박 화재…승선원 3명 구조",
+          "snippet": "",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261007053036DIr",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "인천대교 인근 해상 어획물 운반선에서 불‥선원 3명 구조",
+          "snippet": "",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6856050_36918.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "term": "숙행",
+      "pubDate": "2026-10-08T03:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "\"숙행, 속았단 증거 없어\"...상간 소송 3000만원 배상 확정 - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/society/2026/10/06/2026100615044340942",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[단독]\"위자료 3000만원 지급\" 숙행, 불륜 소송 패소 확정..항소 없었다",
+          "snippet": "",
+          "url": "https://v.daum.net/v/yV8uEYiPWh?f=p",
+          "source": "Daum"
+        },
+        {
+          "title": "숙행, 상간 논란에 “나도 피해자”라더니…‘3000만원 배상’ 받아들였다",
+          "snippet": "",
+          "url": "https://biz.heraldcorp.com/article/10894504",
+          "source": "헤럴드경제"
+        }
+      ]
+    }
+  ],
+  "nate": [
+    {
+      "rank": 1,
+      "title": "18층서 떨어진 벽돌 맞은 '캣맘' 사망…\"중력 실험했다\" 촉법은 이렇게...",
+      "link": "https://news.nate.com/view/20261008n00022"
+    },
+    {
+      "rank": 2,
+      "title": "'환연4' 원규♥지현, 결국 결별…지현 \"힘들고 마음 아픈 순간 많았...",
+      "link": "https://news.nate.com/view/20261007n43300"
+    },
+    {
+      "rank": 3,
+      "title": "\"손흥민 리더십 불만\"…황인범·황희찬·김민재 동반 은퇴 소동",
+      "link": "https://news.nate.com/view/20261007n43117"
+    },
+    {
+      "rank": 4,
+      "title": "'연쇄저격수' 고영욱이 유일하게 칭찬한 女배우 정체…\"영상 공유하며 ...",
+      "link": "https://news.nate.com/view/20261007n43681"
+    },
+    {
+      "rank": 5,
+      "title": "'나는 솔로' 34기 다둥이 특집, 순자·현숙에 표 쏠렸다…옥순·영자·...",
+      "link": "https://news.nate.com/view/20261008n00316"
+    },
+    {
+      "rank": 6,
+      "title": "\"부부끼리 카드내역 절대 공유마라\"…200만원 미용비·100만원 담뱃값 '이...",
+      "link": "https://news.nate.com/view/20261007n06779"
+    },
+    {
+      "rank": 7,
+      "title": "'부캉이' 우려했던 일이…\"방향 급선회하다가\" 뜻밖 상태",
+      "link": "https://news.nate.com/view/20261007n41642"
+    },
+    {
+      "rank": 8,
+      "title": "17번 지각하자 AI가 \"얘, 자르는 게 좋겠죠?\" '발칵'…美, '로봇 상사'에 ...",
+      "link": "https://news.nate.com/view/20261007n22546"
+    },
+    {
+      "rank": 9,
+      "title": "이틀간 여친 성폭행해 숨졌는데 '살인 무죄'…항소심서 다시 따진다",
+      "link": "https://news.nate.com/view/20261007n42695"
+    },
+    {
+      "rank": 10,
+      "title": "[단독] 조두순 전자장치 훼손, 6일간 아무도 몰랐다",
+      "link": "https://news.nate.com/view/20261007n22214"
+    },
+    {
+      "rank": 11,
+      "title": "'김민재, 대표팀에서 무슨 일 있었나?'…바이에른 뮌헨과 독일도 우려 '불...",
+      "link": "https://news.nate.com/view/20261007n40567"
+    },
+    {
+      "rank": 12,
+      "title": "정권 홍보? 박진영 '정색'…\"대통령 윗분이 와도 안 해요\"",
+      "link": "https://news.nate.com/view/20261007n39545"
+    },
+    {
+      "rank": 13,
+      "title": "\"손발 묶여있었다\" 부부 살해해놓고…범행 직후 벌인 일",
+      "link": "https://news.nate.com/view/20261007n41498"
+    },
+    {
+      "rank": 14,
+      "title": "\"한달 10만원대\"…한국판 '위고비' 이르면 이달말 나온다",
+      "link": "https://news.nate.com/view/20261007n41515"
+    },
+    {
+      "rank": 15,
+      "title": "金메달 양민혁, '가드 오브 아너'+꽃다발+박수갈채 받았다…벨기에 소속팀...",
+      "link": "https://news.nate.com/view/20261007n43183"
+    },
+    {
+      "rank": 16,
+      "title": "\"내년 최저임금 얼마인가\" 묻자…5초간 대답 못한 이소영",
+      "link": "https://news.nate.com/view/20261007n40946"
+    },
+    {
+      "rank": 17,
+      "title": "\"제 빚은 5400만원 입니다\" 승무원의 고백…SNS 번지는 '상환기'",
+      "link": "https://news.nate.com/view/20261007n03229"
+    },
+    {
+      "rank": 18,
+      "title": "'오세훈은 왜 황인범에게 90도로 인사했을까?' 눈물 흘린 황인범, 은퇴설 ...",
+      "link": "https://news.nate.com/view/20261007n35645"
+    },
+    {
+      "rank": 19,
+      "title": "\"첫째 낳으면 1000만원, 둘째·셋째는 300만원씩 추가\"…'아이맞이' 지원금...",
+      "link": "https://news.nate.com/view/20261007n26233"
+    },
+    {
+      "rank": 20,
+      "title": "\"거북이 보러\" 일행과 떨어졌다가…한국인 관광객, 길리섬 스노클링 중 실...",
+      "link": "https://news.nate.com/view/20261007n22175"
+    }
+  ]
+}
