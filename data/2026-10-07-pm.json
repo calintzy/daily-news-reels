@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-07",
+  "slot": "pm",
+  "hookLine": "국내 첫 군집위성, 발사됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "과학",
+      "kicker": "우주 발사",
+      "title": "누리호 5차, 위성 15기 모두 사출 성공",
+      "summary": "한국형발사체 누리호 5차가 위성 15기를 모두 성공적으로 사출했습니다. 이번이 국내 첫 군집위성 발사입니다.",
+      "narration": "누리호 5차, 위성 15기 사출 성공했습니다.",
+      "sourceTitle": "누리호 5차, 위성 15기 모두 사출 성공…첫 군집위성 발사",
+      "sourceDesc": "한국형발사체 누리호가 5차 발사에서 위성 15기를 모두 성공적으로 사출했다. 이번 발사로 국내 최초의 군집위성 임무가 완료됐다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261007000826",
+      "sourceDate": "2026-10-07",
+      "imagePrompt": "Wide-angle view of a rocket launch pad with bright engine flame and billowing smoke at liftoff, dramatic sky backdrop, no people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "전 대통령 재판 후속",
+      "title": "尹 명태균 여론조사 2심, 결국 무죄",
+      "summary": "서울고법이 명태균 여론조사 무상 수수 혐의로 기소된 윤석열 전 대통령에게 2심 무죄를 선고했습니다. 재판부는 '정치자금 기부 아냐'라고 판단했습니다.",
+      "sourceTitle": "[종합] '명태균 여론조사 무상수수' 윤석열 2심 무죄…法 '정치자금 기부 아냐'",
+      "sourceDesc": "서울고법은 7일 명태균씨에게서 여론조사를 무상 수수한 혐의로 기소된 윤석열 전 대통령에게 2심 무죄를 선고했다. 재판부는 정치자금 기부에 해당하지 않는다고 판단해 1심 유죄를 뒤집었다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261007001092",
+      "sourceDate": "2026-10-07",
+      "imagePrompt": "Empty courtroom interior with judge's bench under warm overhead lighting, rows of empty wooden chairs, dramatic shadows, no people, no text, vertical 9:16 composition, documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "녹색대전환",
+      "title": "K-GX 전략 발표, 10년간 1000조원 투자",
+      "summary": "정부가 향후 10년간 1000조원을 투자하는 K-GX 탈탄소 전략을 국민보고회에서 공개했습니다. 10대 녹색산업 육성을 통해 한국형 녹색대전환을 추진합니다.",
+      "sourceTitle": "향후 10년간 1000조원 투자해 K-GX 추진…탈탄소 가속화",
+      "sourceDesc": "정부는 7일 'K-GX 한국형 녹색대전환 전략 국민보고회'를 개최해 향후 10년간 1000조원을 투자해 탈탄소를 가속화하고 10대 녹색산업을 육성하는 계획을 발표했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610071122065920",
+      "sourceDate": "2026-10-07",
+      "imagePrompt": "Aerial view of wind turbines on a green hillside with solar panels in the foreground, clear sky and lush landscape, no people, no text, vertical 9:16 composition, documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "외국인투자",
+      "title": "3분기 외국인직접투자 23.1% 급감",
+      "summary": "3분기 외국인직접투자 신고액이 전년 동기 대비 23.1% 감소해 75억7000만달러를 기록했습니다. 산업통상자원부는 정치 불안과 미국 통상정책 불확실성이 원인이라고 밝혔습니다.",
+      "sourceTitle": "3분기 외국인직접투자 23.1% 감소…산업부 발표",
+      "sourceDesc": "산업통상자원부는 7일 올해 3분기 외국인직접투자(FDI) 신고액이 전년 동기 대비 23.1% 감소한 75억7000만달러라고 밝혔다. 정치 불안과 미국 통상정책 불확실성이 감소 원인으로 지목됐다.",
+      "sourceLink": "https://m.news.nate.com/view/20261007n25662",
+      "sourceDate": "2026-10-07",
+      "imagePrompt": "Close-up of financial data screens showing declining graph lines with blue indicator lights, empty trading desks blurred in background, no people, no text, vertical 9:16 composition, documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-07 저녁 브리핑\n\n1. 누리호 5차, 위성 15기 모두 사출 성공\n2. 尹 명태균 여론조사 2심, 결국 무죄\n3. K-GX 전략 발표, 10년간 1000조원 투자\n4. 3분기 외국인직접투자 23.1% 급감\n\n내일도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #누리호 #윤석열 #K녹색대전환 #외국인투자\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
