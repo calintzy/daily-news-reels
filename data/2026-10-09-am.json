@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-09",
+  "slot": "am",
+  "hookLine": "우리 안보를 우리 기술로 지키는 시대가 열렸습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국방",
+      "kicker": "극초음속 첫 시험",
+      "title": "한국 극초음속 HGV 핵심기술 첫 시험발사 실시",
+      "summary": "이재명 대통령이 극초음속 활공비행체(HGV) 최초 시험발사를 참관했습니다. 초고온 내열소재 성능과 유도 및 제어능력, 불규칙 비행 능력을 최초로 검증하기 위해 실시됐습니다.",
+      "narration": "우리 기술 극초음속 비행체가 첫 시험발사됐습니다.",
+      "sourceTitle": "李대통령, 극초음속 활공비행체 첫 시험발사 참관…\"우리 안보는 스스로의 힘으로 확보\"",
+      "sourceDesc": "이재명 대통령이 우리 기술로 연구개발 중인 극초음속 활공비행체(HGV)의 최초 시험발사를 참관. 이번 시험발사는 극초음속 비행 환경에서 활공비행체의 핵심기술인 초고온 내열소재의 성능과 유도 및 제어능력, 낮은 고도에서의 불규칙 비행 능력을 최초로 검증하기 위해 실시됐습니다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261008001307",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "Dark metallic hypersonic glide vehicle resting on a launch gantry at dawn, industrial steel framework silhouetted against a pale overcast sky, dramatic low-angle shot, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "분기 최대 실적",
+      "title": "삼성전자 3Q 영업익 107.4조 사상 최대",
+      "summary": "삼성전자가 3분기 연결 기준 잠정 실적으로 매출 195조원, 영업이익 107조4000억원을 공시했습니다. 분기 기준 영업이익이 100조원을 넘은 것은 처음입니다.",
+      "sourceTitle": "삼성전자 3Q 영업익 107.4조 '사상 최대'…반도체만 '108조 이익' 추정",
+      "sourceDesc": "삼성전자는 8일 올해 3분기 연결 기준 잠정 실적으로 매출 195조원, 영업이익 107조4000억원을 기록했다고 공시했다. 삼성전자의 분기 기준 영업이익이 100조원을 넘은 것은 처음이다. 반도체 사업을 담당하는 DS(디바이스솔루션)부문에서만 전체 영업이익을 웃도는 108조원 안팎을 벌어들인 것으로 추정된다.",
+      "sourceLink": "https://www.mt.co.kr/industry/2026/10/08/2026100807312559267",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "Rows of silicon wafers inside a semiconductor cleanroom under cool blue UV light, precision robotic equipment idle on tracks, quiet industrial atmosphere with a sense of vast scale, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "정상 외교",
+      "title": "한-이집트 전략적 동반자 관계로 격상",
+      "summary": "한국과 이집트 정상이 양국 관계를 전략적 동반자 관계로 격상하는 공동성명을 발표했습니다. CEPA 협상 개시를 선언하고 MOU 12건을 서명했으며, 아시아 첫 사회보장협정도 체결됐습니다.",
+      "sourceTitle": "[종합] 李대통령 \"한-이집트, 전략적 동반자로 격상\"…알시시 \"韓 경제 기적, 개도국에 영감\"",
+      "sourceDesc": "양국 관계를 전략적 동반자 관계로 격상하는 공동성명 발표. CEPA 협상 개시 선언. MOU 12건 서명. 아시아 첫 사회보장협정 체결. 알시시 대통령 2016년 이후 10년 만의 방한.",
+      "sourceLink": "https://www.newspim.com/news/view/20261008000841",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "Two national flags standing side by side in an empty formal diplomatic hall, white marble floors and tall columns, warm ceremonial lighting casting long shadows, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "제주 공장 사고",
+      "title": "제주 사일로 철거 중 붕괴, 581가구 정전",
+      "summary": "제주 이시돌사료공장에서 사일로 철거작업 중 크레인 와이어로프가 끊어져 구조물이 붕괴됐습니다. 고압전선과 통신선이 손상돼 581가구가 한때 정전됐으나 인명 피해는 없었습니다.",
+      "sourceTitle": "[속보] 제주 이시돌사료공장 사일로 철거작업중 구조물 붕괴… 581가구 한때 정전",
+      "sourceDesc": "사일로 철거작업 중 크레인 와이어로프 끊어져 구조물 붕괴, 고압전선·통신선 손상, 581가구 한때 정전. 인명피해 없음.",
+      "sourceLink": "https://seoul.co.kr/news/society/accident/2026/10/08/20261008500301",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "Collapsed industrial silo structure at a factory site, twisted metal and concrete debris on the ground, sagging overhead power lines in the background, overcast sky, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-09 아침 브리핑\n\n1. 한국 극초음속 HGV 핵심기술 첫 시험발사 실시\n2. 삼성전자 3Q 영업익 107.4조 사상 최대\n3. 한-이집트 전략적 동반자 관계로 격상\n4. 제주 사일로 철거 중 붕괴, 581가구 정전\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #삼성전자 #극초음속 #HGV #한이집트 #제주\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
