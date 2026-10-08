@@ -1,0 +1,493 @@
+{
+  "stem": "2026-10-09-am",
+  "collectedAt": "2026-10-09T06:17:01+09:00",
+  "sources": {
+    "news": "ok",
+    "trends": "ok",
+    "nate": "ok"
+  },
+  "news": [
+    {
+      "title": "정부 “주우크라 대사 소환”…‘외교 단절’까지 염두 초강수",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PZk5ra3NJNzZWQ1Z6enBiREszZEpJYWFGaXV5MDZKZHVSTFJuR0FUU3RfZDM5cGgzS1dXb1lXbjdLTUo3bEczWjhvUTFVcV9ReUZad1ltd0Vjc21CUmUyRngxdTFyTlpyTTl0YW84R04zTU9H?oc=5",
+      "pubDate": "2026-10-08T22:12:00+09:00"
+    },
+    {
+      "title": "이 대통령, CPTPP 가입 연내 신청하지 않도록 지시…\"농어민 신뢰 회복 우선\"",
+      "source": "정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DQ3d6VkoydTB3RzFvMjRpaVMyTk1fS0ZqM0dPdEt3QTFlVVBYekdfQkdoX0NDUk1QaGhMWXcxLUJJWUxZVGpNdzFDVE9fdTB3RUE1a2ZjTDBWTW1OV2RVajdMZEFLU3lkdTlNVQ?oc=5",
+      "pubDate": "2026-10-08T19:34:31+09:00"
+    },
+    {
+      "title": "[속보]극초음속 미사일 최초 시험발사 성공···참관한 이 대통령 “안보는 스스로의 힘으로 확보하는 것”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ejBRM2xUUjU5UjVLYjJ6OUE4TWc0c3ZKbE1oeVE2UHVtUVBDSWtneXhkZ2NLNHNwaWhuSl9KdHQ5dVh6SV9YdlBjbjFBQ3prX25CS0cxV21PQdIBX0FVX3lxTE5tekxDTUt0MWJ1R2Zxa1Nva1BNazl5VmtZVzRoUEtSRXBmSkJ4NWt6dGNaZlhsUE9LbEx0LU1mSHRQMDRMSGZtbkdkaUdXaUV6YWtMcjFVc0d1QVJ2VVBN?oc=5",
+      "pubDate": "2026-10-08T17:40:00+09:00"
+    },
+    {
+      "title": "차지훈 주유엔 한국대사 “DMZ 지뢰 폭발 사고, 명백한 정전협정 위반”",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WYmxGQTk4WmxybjlkLTZvVngwdUM5YXA1M3JNUlRqY2JTZ0ExQjVxejFDMVJTV2trQmY0OGhOZ2k5LXB3aDZTMGpRNWhHbEdtdHRRMkhtd2NfRFU?oc=5",
+      "pubDate": "2026-10-09T04:54:00+09:00"
+    },
+    {
+      "title": "정청래, 국감 출국 앞두고 미국 비자발급 보류…김민석 \"강한 유감\"",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sTHZobFRzVzI5N0h5X2hWa2dzVFdpUW1FWG92bHc3YV9acG13N3lEUFlKQ19vc1Jmc0pRU2haemt2TDF0R2ljaEptY2Y2QWtYVXFBb2ZNU1ZTOVBLR1NRN0VQbVZycW8?oc=5",
+      "pubDate": "2026-10-08T23:37:00+09:00"
+    },
+    {
+      "title": "北, 의료장비 지원 계획에 거듭 반발‥\"韓, 외면하고 무시할것\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92TGRaWEJxT0pxazdqWGl1REJXTzMxYmpyVVllaXdWc3drV0lpOWJYMU94MnpxdEs1aDF0VWF1U1k0NTkxeFVQdDNfTW1Dc0ZjZkpHMVBsOEFiMEFjTFNnNk9qcTRFek0wWEVRNGlsdU1PenpX0gF0QVVfeXFMUHFOUjVNd1RTaW1lMlpIMWdzUldCZEVoT3ZkWkZvX09MRHRlQ2xxemE3Z1JQUE9qN2V4RUpsNEFEVEFkNFpsZUd1b3d3X0FEWDFleDR0Y2h5TExGXzFZMjdRcmNLdzBjU3piaVFWbjlLV3d4Uzg?oc=5",
+      "pubDate": "2026-10-09T04:15:12+09:00"
+    },
+    {
+      "title": "[날씨] 한글날 일교차 15도‥내륙 지역 가시거리 1km 미만 안개",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtTmx1RG1aRUR1TWpYTndMN2otNkpRU0ozTV8xOWpMSk9xdGdCclRfZ0xCTkcwMTVRMV9rdFVvX0JyQTFkQmJva0pOVC1ieVB2dHpyT0U4WTlILTBGZnY4c0szQTJFcWRvWm5Vckthd2VtUEdaQzJN0gF3QVVfeXFMTlU0ZXBjVFhvS2N1b2lrMnhqQUVOUWZGaTZpTUx3RjlEdGpseTRENFRFWkphc2tfcTJFTlY0QjBGV3lrSFRKNjJlRmZnVlNNSzI2UUZNUUtfbjRjUDY2Rk1YRGdHV3JNRktaZFJGSnFlZTdFeko3Umc?oc=5",
+      "pubDate": "2026-10-09T00:00:21+09:00"
+    },
+    {
+      "title": "농민 반발·불안 커지자…정부 \"농지 투기만 아니면 처분 대상서 제외\"",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jZ1hUNkR3aFk1cFZHazVWSU0tZU8tUkxiVDlZUGY0TnpyUDJJVUJaRzNtUEM2SVRCRkpEdXlPcTNtZlJkdUd3bll6QmZCbEhBTkFzVHNfcHBOZw?oc=5",
+      "pubDate": "2026-10-08T17:48:55+09:00"
+    },
+    {
+      "title": "'누리호' 초소형군집위성 2~6호기 모두 교신 성공",
+      "source": "정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXQ19aY1NVQVpFUVczRmZiQlNmMGFiVVJ4OGk5dWE5VHNWbXVTdTNvb082Zy13bElWaUVwZ0JfWEgteGlNMDRXcXVlLU95UFg2ekI4QmJ2WWdIbjV3NHhsQzFuaUZHM1NkTl90Uw?oc=5",
+      "pubDate": "2026-10-08T23:25:23+09:00"
+    },
+    {
+      "title": "‘성폭행 사건 불송치’에 숨진 19살…공소청, 경찰 결론 뒤집고 “준강간 혐의 기소”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfZ1NPZkJsUU5RLXBBTUVla0xzVDVGaTJwS1duS0ZiRXN5T0pMUDhVQTZrNlE0UjJxaWRLOVhQUVVqV3dmVUd2VlktSzhlRmlEN2xjTGNsdWFmVGYyNTVpU2Uyaw?oc=5",
+      "pubDate": "2026-10-08T20:35:00+09:00"
+    },
+    {
+      "title": "트럼프 \"11월 3일 중간선거 전까지 이란 공격 안할 것\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CR3RKRlF6bHZidmYxLW91UlVjbEp5NUc4TmFHZHRheWpsMGltT3I5dEtIV1M0S0VILVNkaTZKYUt2MUV1c3h2YVpYM0dLTFhhT1Q0Vnp2bmpfWUXSAWBBVV95cUxOdTNydjh1SGwzLW1Xek9QU1ZKal9Bbnhpd3FxOW5DOTlmSlFmYllJVnkzZ0E2cGxIeGdBcUdaNUM4dFN2QWNIMUVqVjYtSm53OGxabTJDNWVBY3JpLWtPOS0?oc=5",
+      "pubDate": "2026-10-09T01:50:39+09:00"
+    },
+    {
+      "title": "시리아, 사우디 ‘후티 격퇴 작전’에 2만명 파병 검토",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aQ1R5VEx5bEEzODZCUHZHWV84RmlUMVJWXzAzQkFxV1p5VkZXSjkwYllIcnFfMVJab3dkLUVUa01xMVN3UURJTXN6UDFIRGhQOG1fR0FzaVVDUXNpbnRLbFlib3BJOU13bUZDdk43WkFQcm_SAWZBVV95cUxOTTRncEFqREN5NVp2M1Bka3p2M1Fic3loc3R0WEZfNlBUZTNPbEhqdkxQWTVqcTlVR0N1eWJrYUpmYXhCSDZUSFFLSGNCbnotWmNOWTl3Z0tnSnJFM0F4MXRLU2NUdkE?oc=5",
+      "pubDate": "2026-10-09T01:40:00+09:00"
+    },
+    {
+      "title": "\"트럼프 지지층 투표열기 저조\"…중간선거 '붉은 역류' 나타날까",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzUXd4UnRBQlhucjg5Tm1kWVFvMGhjNXhhcE9FRHBrMlROX3R6ZUh0RDNjdFVlZFdpZGRadFE4eE9EMV9Ib2gtaC04TVhXalpMTjFvRXpsZE5udTDSAWBBVV95cUxPNjRpWGhOZk9wSldpTXpIcEhVdEFkUFRWdnhMMUl5VHNUMFRZSFFSUFpEOEhobEIwVkk2bDFvTXNvUXZ0elpXdlY1N0hoa0Y2OEFNVVNWYS00VlZLS1F1SV8?oc=5",
+      "pubDate": "2026-10-09T00:57:28+09:00"
+    },
+    {
+      "title": "반도체 ETF 7종 오늘 리밸런싱… 삼성전자 2000억 매도에 소부장 ‘들썩’ - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnpOUVdiS3dFczI5UlFfU0lobFRhSlp1aEI0V19Yc1JwSUlNWXk4V1JXQnhVS1U0X2ZCSXJfckU5UTFzVWZBT3NnSG5FVzVPb3FOM004YUJCbTFyODVVSU9NSGVaYjhBV3llNDQ0UVJjS0NXLWlMSFNMaVJDUVZDUFljc3FHaWVJ0gGcAUFVX3lxTE12TldrVlRRYVlwQzRDWjlUTzZRcUxzRHVCU0JfbHV1ZzFCaEFMUkZ4YWxkcUFPMnNkc3RXNnI1RUQ1WGNLREpnQnhiaV90TnJmWk5ZeTJhTU5sa0ZOa2tycUNxR2xZczFpYld1RGlRTGhhbndKc1RPQ1dFNm56b2g3SlBvQVQ1UXV5b2psUUE3S09lNDJoSTd5azFSZw?oc=5",
+      "pubDate": "2026-10-08T15:10:00+09:00"
+    },
+    {
+      "title": "호르무즈 통항 회복하자…이란군, ‘유조선 공격’ 최대로 늘려",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZUVlai1DdXdzUGI0LV9fLS1rbHM5M0QtcWV2Q3ZwdzBIclVHNllNYnFJdkFVU0J3VEpoeGZtbTQyTzJTdDZqbVJrNGptQmd1RUI3WHkxXzBNU1hIcl9xaTE4ekhlNElWZzZzUzlORmRTVG8?oc=5",
+      "pubDate": "2026-10-08T18:06:00+09:00"
+    },
+    {
+      "title": "\"스타벅스, 치폴레 인수 검토…성사시 외식부문 역대 최대\"",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJaUF6cndpaU9WNWZ2VGhJdld6NmtYZVBSZEhqeVVkbzl1TEUxQkVRU1ltV20zdmllZlMzNWJ4Q2gtXzNjWVFGQmFxZ2FQUHdpVGdYRFptOV9adVR6NWFsMGlTa3llUUlhaXc?oc=5",
+      "pubDate": "2026-10-09T02:26:34+09:00"
+    },
+    {
+      "title": "최태원 회장, ‘반도체 클러스터 예정지’ 광주 군공항 방문",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hTmVmeXA2aFZBNWF1NnhaXzduX0ZIU0lSalBoLVVuT2tQUUFLaUMySWlRMWppRGJ5M0k0a3RHSDJpYkRUU3l0UVlCQnlQSXlFUU9FX3V4NXNGSlU?oc=5",
+      "pubDate": "2026-10-08T20:19:00+09:00"
+    },
+    {
+      "title": "크래프톤 `펍지: 데드넷`, 9일 첫 비공개 테스트…북미 콘솔 이용자 대상",
+      "source": "디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52M1RjNUhiN24zbUxQZFg5QkxMdm03OU1zYkg0dDBtRG9yZDRVb1ptUWd2TGYyOUxxaEVpUkFCbGVvTlJBOXV2TGg1ZGhzWWJCTVBBekRpeVIxRVY3bmI4UUttSHk?oc=5",
+      "pubDate": "2026-10-08T16:19:54+09:00"
+    },
+    {
+      "title": "'장윤정♥' 도경완, 이정재·손종원 같은 과였네 “8시 20분 처진 눈 닮아” (‘편스토랑’)",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMTk2VjBVTDhINkZidk5QaEs0aldHZzU0eU0zbjIwNkNWaklUV3ZOQUJrUlJfSG5uYWo1bHVOWTc3NnFtUmRvekM0SkFSR0NVZ1BNT2doN29lalpxa1BxVVhsemRYOENFVWdZMHY1bjdzdkhJSldwZml0Nl8tbi1UeUxpbXZOS1RaeWFkd0NGYw?oc=5",
+      "pubDate": "2026-10-08T21:10:00+09:00"
+    },
+    {
+      "title": "한강, 노벨문학상 앤 카슨 ‘녹스’에 “사무치게 진실한 것” 추천사",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UWXZVamtPblZlWkJ1b19TazVnckZ6X1RqM0M0bjNWUk5LTFR3N29BNjBPbFRSNzJnRGhobE1kMUxJQWYyZ1JCQkFsWmtyV0VaZWlMOWx0cFVXcURSbEVtR0JwWQ?oc=5",
+      "pubDate": "2026-10-08T22:32:00+09:00"
+    },
+    {
+      "title": "홍준표 “어린 선수 한마디에 난리…군 면제 존폐 논의 정치권 한심”",
+      "source": "경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0SVoyNzZpd2RLbEo2UVhOZW5DdTg2eW9wMkF4X21LOXlDczhIT2pQSndkZDZQRk5UTGlSNmhGcmtaNlZGcmRfNFJtZXo2aXhUc0duUlNhME5JZ1E?oc=5",
+      "pubDate": "2026-10-08T15:07:26+09:00"
+    },
+    {
+      "title": "‘김혜성 대수비 출전’ 다저스, 챔피언십시리즈 진출",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80MDM0X3pNSXJ0dThIQWhZZ1hBSHRoT1BzRGlZWlJkaVNFS2ZtU3pEY3luWEFTcWs3dE9Lek9qZm9vUEFkd0FDNGExdGpqUW1kUzZGTTJ1X3ptOEk?oc=5",
+      "pubDate": "2026-10-08T21:54:00+09:00"
+    },
+    {
+      "title": "건망증과 치매 사이 ‘경도인지장애’… \"회색지대일 때부터 잡아야\" [Weekend 헬스]",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQeUpyQ0FqVjQyR3ktMVowNVAtMk5Fc0ZyZ29VU0JFaE41VVd2U0txVi15UkpwcXNzblZQWHJxLVJ3UElPSmc1Zlg2YmtSbGJNUTFBWGFNMEU1Zw?oc=5",
+      "pubDate": "2026-10-09T04:00:00+09:00"
+    }
+  ],
+  "trends": [
+    {
+      "term": "이정현",
+      "pubDate": "2026-10-09T04:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "'194억 건물주' 이정현 \"남편보다 내가 더 벌어\"",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819961",
+          "source": "뉴시스"
+        },
+        {
+          "title": "이정현, 닭고기 20kg→100인분 ‘큰손’ 요리…“스트레스 확 풀려”",
+          "snippet": "",
+          "url": "https://sports.donga.com/ent/article/all/20261008/134809372/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "[신상출시 편스토랑] 대패삼겹살로 완성하는 이정현 ‘10분 감자탕’, “맛있다…!” 남편도 감탄한 진국의 맛~",
+          "snippet": "",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=411607",
+          "source": "KBS연예"
+        }
+      ]
+    },
+    {
+      "term": "북한이탈주민",
+      "pubDate": "2026-10-09T04:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "[2026 국감] 북향민 위기가구 관리 ‘구멍’… 연락두절·사회적 고립 못 잡는다",
+          "snippet": "",
+          "url": "https://www.m-joongang.com/news/articleView.html?idxno=403148",
+          "source": "월간중앙"
+        },
+        {
+          "title": "북향민 위기관리, 체납·실업은 잡아도 ‘고립’은 못 잡는다",
+          "snippet": "",
+          "url": "https://www.weeklyseoul.net/news/articleView.html?idxno=87243",
+          "source": "위클리서울"
+        },
+        {
+          "title": "이기헌 의원, 늘어나는 북한이탈주민 무연고 사망…고령·독거 안전망부터 사후 장제까지 제도 보완 시급",
+          "snippet": "",
+          "url": "http://www.gipress.com/652115",
+          "source": "경기in"
+        }
+      ]
+    },
+    {
+      "term": "gta6",
+      "pubDate": "2026-10-09T02:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
+          "snippet": "",
+          "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+          "source": "Rockstar Games"
+        },
+        {
+          "title": "“A Privilege”: Morgan Wallen, Lana Del Rey and Del Rey’s Husband Jeremy Dufrene Set to Co-Host GTA VI’s ‘Back Country Radio’",
+          "snippet": "",
+          "url": "https://holler.country/news/breaking/morgan-wallen-lana-del-rey-and-del-reys-husband-jeremy-dufrene-set-to-cohost-gta-vis-back-country-radio/",
+          "source": "Holler Country"
+        },
+        {
+          "title": "From \"Dirty South Classics\" to \"AfroBank FM,\" Grand Theft Auto VI taps Trina, Trick Daddy, Burna Boy, and more as radio hosts",
+          "snippet": "",
+          "url": "https://www.yahoo.com/entertainment/music/articles/dirty-south-classics-afrobank-fm-154817004.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "term": "쿠팡",
+      "pubDate": "2026-10-09T00:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "쿠팡·쿠팡이츠·라이더 앱 접속 오류…쿠팡 \"원인 파악 중\"",
+          "snippet": "",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261009014240gb5",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "쿠팡 한밤 '접속 불가'…\"전부 먹통이라 불편\"",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261009002200030",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "쿠팡도 쿠팡이츠도, 쿠팡플레이도 한밤중 '모두 먹통'",
+          "snippet": "",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6856709_36918.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "term": "ps",
+      "pubDate": "2026-10-09T00:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware",
+          "snippet": "",
+          "url": "https://roadtovr.com/sony-sells-xr-headset-patents-meta/",
+          "source": "Road to VR"
+        },
+        {
+          "title": "Sony Sells Dozens of Patents to Meta, Seemingly Signifies End of VR Efforts",
+          "snippet": "",
+          "url": "https://www.digitalfoundry.net/news/2026/10/sony-sells-dozens-of-patents-to-meta-seemingly-signifies-end-of-vr-efforts",
+          "source": "Digital Foundry"
+        },
+        {
+          "title": "PlayStation Is Done With the PS VR Headset, Says New Report—What Happened?",
+          "snippet": "",
+          "url": "https://www.player.one/playstation-done-ps-vr-headset-says-new-report-what-happened-164241",
+          "source": "Player.One"
+        }
+      ]
+    },
+    {
+      "term": "장민호",
+      "pubDate": "2026-10-08T23:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "“아이들이 꿈꾸며 건강하게 자라길” 장민호 한마디에…팬클럽, 3000만원 기부",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Society/article/all/20261008/134808004/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "가수 장민호 팬클럽, 굿네이버스에 3천만원 기부",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261008042100371",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "장민호 “아이들 꿈꾸게 해달라” 한마디에…‘민호특공대’ 3000만원 쐈다",
+          "snippet": "",
+          "url": "https://www.sportsseoul.com/news/read/1640178",
+          "source": "스포츠서울"
+        }
+      ]
+    },
+    {
+      "term": "아리엘 후라도",
+      "pubDate": "2026-10-08T23:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "프로야구 삼성, 신인 선수 계약 완료…김민훈 계약금 2억5천만원",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261008119700007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "출발은 소박하지만… \"후라세웅 아닌 훈라도입니다\" 후라도 길을 간다. 2억5000만원 삼성 입단",
+          "snippet": "",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/08/MQ2DQYRXGVQWMNTDMYZGMY3FGU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "삼성, 1라운드 지명 투수 김민훈과 2억5000만원에 계약",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819291",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "term": "수면제",
+      "pubDate": "2026-10-08T22:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "\"매일 6~8알 먹었더니 통잠 자\"…백지연, '천연수면제' 극찬한 '이것' [헬스톡]",
+          "snippet": "",
+          "url": "https://www.fnnews.com/news/202610070901105472",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "“천연 수면제 효과” 백지연이 자기 전 먹는 ‘의외의 간식’",
+          "snippet": "",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/10/06/2026100601565.html",
+          "source": "헬스조선"
+        },
+        {
+          "title": "백지연이 찾은 잠의 해답은 아몬드…6알로 꿀잠 말했다",
+          "snippet": "",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=470885",
+          "source": "스페셜타임스"
+        }
+      ]
+    },
+    {
+      "term": "병목",
+      "pubDate": "2026-10-08T22:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "주가 35% 빠졌는데…기관들은 '줍줍' 노리는 AI 병목株",
+          "snippet": "",
+          "url": "https://www.hankyung.com/article/202610080983i",
+          "source": "한국경제"
+        },
+        {
+          "title": "유안타증권 \"LS일렉트릭, 3분기 실적 서프라이즈 전망\"",
+          "snippet": "",
+          "url": "https://v.daum.net/v/20261007084902620",
+          "source": "Daum"
+        },
+        {
+          "title": "[리포트 브리핑]LS ELECTRIC, 'Hakuna Matata' 목표가 270,000원 - 하나증권",
+          "snippet": "",
+          "url": "https://www.newspim.com/news/view/20261007000111",
+          "source": "뉴스핌"
+        }
+      ]
+    },
+    {
+      "term": "마이클 버리",
+      "pubDate": "2026-10-08T22:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\"",
+          "snippet": "",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438387",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "“미국주식? 이미 폭락 1단계 들어섰다” 마이클 버리 경고…“6~9개월밖에 안 남아”",
+          "snippet": "",
+          "url": "https://biz.heraldcorp.com/article/10896928",
+          "source": "헤럴드경제"
+        },
+        {
+          "title": "'빅쇼트' 버리, '남미의 아마존' 메르카도리브레에 꽂혔다",
+          "snippet": "",
+          "url": "https://www.g-enews.com/article/Securities/2026/10/2026100613364064e250e8e188_1",
+          "source": "글로벌이코노믹"
+        }
+      ]
+    }
+  ],
+  "nate": [
+    {
+      "rank": 1,
+      "title": "올리버쌤, 10년 만에 활동 중단…\"뇌와 마음 멈춘 듯, 최소 6개월 치료...",
+      "link": "https://news.nate.com/view/20261008n37265"
+    },
+    {
+      "rank": 2,
+      "title": "\"우리 딸이야\" 이재용·젠슨황 두 딸 만났다…이재용이 밝힌 두 사람의...",
+      "link": "https://news.nate.com/view/20261008n36182"
+    },
+    {
+      "rank": 3,
+      "title": "프로레슬링 중 심판 사망 대형사고…선수가 심판 물구나무 세워 내리 ...",
+      "link": "https://news.nate.com/view/20261008n36262"
+    },
+    {
+      "rank": 4,
+      "title": "\"야장에 미친 여자예요\" 20대 홀리더니…외국인도 '바글바글' [야장의 ...",
+      "link": "https://news.nate.com/view/20261008n34690"
+    },
+    {
+      "rank": 5,
+      "title": "'결별' 유승호·임세주, 6년 열애 이유 있었네…공통분모 '포착'",
+      "link": "https://news.nate.com/view/20261008n30797"
+    },
+    {
+      "rank": 6,
+      "title": "비행기서 여성이 옷 벗고 음란행위, 신음 들은 앞자리 승객이 신고…\"술 취...",
+      "link": "https://news.nate.com/view/20261008n03750"
+    },
+    {
+      "rank": 7,
+      "title": "'치골 패션' 얼마나 파격적이었길래…서인영 \"저 의상 때문에 KBS 정지 ...",
+      "link": "https://news.nate.com/view/20261008n36698"
+    },
+    {
+      "rank": 8,
+      "title": "[단독] \"공포의 SUV\"…전 축구 국대 보복운전 신고하자",
+      "link": "https://news.nate.com/view/20261008n35755"
+    },
+    {
+      "rank": 9,
+      "title": "\"하트 모양 트랙서 급강하\"…롯데월드 부산, 시속 110km 롤러코스터 공개",
+      "link": "https://news.nate.com/view/20261008n08022"
+    },
+    {
+      "rank": 10,
+      "title": "尹 부부, 1년간 영치금 21억원 받았다…\"대통령 연봉 8배\"",
+      "link": "https://news.nate.com/view/20261008n37109"
+    },
+    {
+      "rank": 11,
+      "title": "\"또 떠내려왔다\"…인천 강화군서 北유실지뢰 54일 만에 재발견",
+      "link": "https://news.nate.com/view/20261008n36412"
+    },
+    {
+      "rank": 12,
+      "title": "\"갑자기 펑펑 터지는 소리가\"…건물 1층서 숨진 채 발견",
+      "link": "https://news.nate.com/view/20261008n35819"
+    },
+    {
+      "rank": 13,
+      "title": "\"엄마, 성과급 6억 나오니 걱정 마\" 00년생 삼성맨도 10억 수원 아파트 매...",
+      "link": "https://news.nate.com/view/20261008n12774"
+    },
+    {
+      "rank": 14,
+      "title": "\"2시간 내내 시끄러워 죽겠네\"…초고속 와이파이 도입하자 벌어진 '소음 민...",
+      "link": "https://news.nate.com/view/20261008n26533"
+    },
+    {
+      "rank": 15,
+      "title": "박문성, 축구대표팀 내부 갈등설에 소신발언…\"대표팀, 갈등 없는 관계는 ...",
+      "link": "https://news.nate.com/view/20261008n30326"
+    },
+    {
+      "rank": 16,
+      "title": "김민종은 넥타이까지 맸었는데…박진영 국감장 복장에 \"파격적\" VS \"직분...",
+      "link": "https://news.nate.com/view/20261008n17840"
+    },
+    {
+      "rank": 17,
+      "title": "\"아내가 사라졌다\"…정신과 의사 남편 엽기살인 1년 만에 들통",
+      "link": "https://news.nate.com/view/20261008n33144"
+    },
+    {
+      "rank": 18,
+      "title": "김민재·황인범·황희찬 '96 라인' 은퇴 파동에도…'캡틴' 손흥민은 굳건했...",
+      "link": "https://news.nate.com/view/20261008n33566"
+    },
+    {
+      "rank": 19,
+      "title": "'역대급 엔저'에 여행객 몰리는데…\"주말 일본 여행 취소할까요\" 소리 나오...",
+      "link": "https://news.nate.com/view/20261008n34350"
+    },
+    {
+      "rank": 20,
+      "title": "주진우, '암살자(들)' 인센티브 계약 공개 \"역사 비극으로 돈벌이\"",
+      "link": "https://news.nate.com/view/20261008n20500"
+    }
+  ]
+}
