@@ -4,8 +4,8 @@
     "active": "single-issue-v1",
     "startedAt": "2026-09-29T21:00:00+09:00",
     "startStem": "2026-09-30-am",
-    "window": 14,
-    "extended": false,
+    "window": 28,
+    "extended": true,
     "issue": 1,
     "flagsBefore": {
       "REEL_FORMAT_MULEORI": "",
