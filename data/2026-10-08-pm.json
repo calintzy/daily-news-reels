@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-08",
+  "slot": "pm",
+  "hookLine": "영업이익률 55.08%, 글로벌 첫 기록입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "삼성 실적",
+      "title": "삼성전자 107조4000억원, 분기 첫 100조 돌파",
+      "summary": "삼성전자 3분기 영업이익이 107조4000억원으로 집계돼 후속 실적이 확인됐습니다. 국내 기업 최초로 분기 영업이익 100조원을 돌파하며 영업이익률 55.08%를 기록했습니다.",
+      "narration": "분기 100조원, 국내 기업 최초입니다.",
+      "sourceTitle": "삼성전자 3분기 영업익 107.4조…글로벌 빅테크 최초",
+      "sourceDesc": "삼성전자가 2026년 3분기 연결기준 영업이익 107조4000억원을 기록했다고 8일 공시했다. 영업이익률 55.08%로 美빅테크·日소부장을 압도하며 국내 기업 최초로 분기 영업이익 100조원을 돌파했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/industry/2026/10/08/20261008500019",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "Semiconductor clean room interior at night, rows of wafer processing machines glowing under yellow lighting, stainless steel surfaces reflecting bright industrial light. No people. No text. Vertical 9:16 composition, photojournalism documentary style, warm yellow industrial light."
+    },
+    {
+      "rank": 2,
+      "category": "사건",
+      "kicker": "대법원 판결",
+      "title": "이종호 대표 증거인멸교사 무죄 확정",
+      "summary": "대법원이 이종호 전 블랙펄인베스트먼트 대표의 증거인멸교사 혐의 무죄를 확정했습니다. 채해병특검의 상고를 기각하고 항소심 판결이 그대로 확정됐습니다.",
+      "sourceTitle": "이종호 전 블랙펄인베스트먼트 대표 '휴대폰 증거인멸교사' 무죄 확정",
+      "sourceDesc": "대법원 2부(주심 권영준 대법관)는 8일 오전 증거인멸교사 혐의를 받는 이종호 전 대표 사건 상고심에서 채해병특검(특별검사 이명현)의 상고를 기각하고 이 전 대표에게 무죄를 선고한 항소심 판결을 확정했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610081100121615",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "Exterior of a Korean Supreme Court building at morning, stone steps and classical pillars under clear sky, fallen autumn leaves on stone pavement. No people. No text. Vertical 9:16 composition, photojournalism documentary style, cool morning light."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "디지털자산법",
+      "title": "디지털자산기본법 막바지 협의, 국감서 대책 촉구",
+      "summary": "이억원 금융위원장이 국정감사에서 디지털자산기본법 막바지 협의 중이라고 밝혔습니다. 스테이블코인·시장 독점 등 대책 마련을 촉구하는 목소리도 나왔습니다.",
+      "sourceTitle": "이억원 \"디지털자산기본법 막바지 협의 중\" … 국감서 스테이블코인·시장 독점 대책 촉구",
+      "sourceDesc": "이억원 금융위원장이 8일 국정감사에서 디지털자산기본법 준비를 끝내고 막바지 협의 중이라고 밝혔다. 이강일 의원은 미국의 지니어스법·클래리티법, 유럽의 MiCA를 거론하며 우리는 아직 기초 설계조차 못 내놨다고 비판했다.",
+      "sourceLink": "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800190.html",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "National Assembly chamber interior at daytime, empty tiered seating with dark wooden desks, large projection screens visible at the front. No people. No text. Vertical 9:16 composition, photojournalism documentary style, cool institutional lighting."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "법무부 국감",
+      "title": "한동훈 장관 시절 자녀 의혹, 美공조 불송부",
+      "summary": "법무부 국정감사에서 한동훈 전 장관 시절 자녀 의혹 관련 미국 수사공조 요청이 검찰에서 불송부됐다는 의혹이 제기됐습니다. 법무부는 진상을 확인하겠다고 밝혔습니다.",
+      "sourceTitle": "[2026 국감] 한동훈 장관 시절 '자녀 의혹' 美공조 요청 검찰서 불송부…법무부 \"진상 확인\"",
+      "sourceDesc": "법무부 국정감사에서 한동훈 전 장관 시절 자녀 의혹 관련 미국 수사공조 요청이 검찰에서 불송부됐다는 사실이 제기됐다. 이진수 법무부 장관 직무대행은 진상을 확인하겠다고 답했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261008001261",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "Government ministry building exterior at midday, institutional stone facade with Korean national flags on poles, wide stone steps leading to entrance. No people. No text. Vertical 9:16 composition, photojournalism documentary style, cool midday light."
+    },
+    {
+      "rank": 5,
+      "category": "사건",
+      "kicker": "어선 화재",
+      "title": "제주 마라도 해상 40t 어선 화재, 7명 전원 무사",
+      "summary": "마라도 남서쪽 약 41㎞ 해상에서 40t급 저인망 어선에 화재가 발생했습니다. 승선원 7명은 모두 무사하며 인명피해는 없는 것으로 확인됐습니다.",
+      "sourceTitle": "[속보] 제주 마라도 남서쪽 해상서 40t 어선 화재… 승선원 7명 모두 무사",
+      "sourceDesc": "오전 8시 37분쯤 마라도 남서쪽 약 41㎞ 해상에서 40t급 저인망 어선에 불이 났습니다. 해경은 인명피해는 없는 것으로 확인됐으며, 승선원 7명은 모두 무사한 것으로 나타났습니다.",
+      "sourceLink": "https://seoul.co.kr/news/society/accident/2026/10/08/20261008500051",
+      "sourceDate": "2026-10-08",
+      "imagePrompt": "Aerial view of open ocean at dawn, a small fishing vessel drifting in calm dark blue water with faint traces of smoke in the pale sky above. No people. No text. Vertical 9:16 composition, photojournalism documentary style, pale dawn light over dark sea."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-08 저녁 브리핑\n\n1. 삼성전자 107조4000억원, 분기 첫 100조 돌파\n2. 이종호 대표 증거인멸교사 무죄 확정\n3. 디지털자산기본법 막바지 협의, 국감서 대책 촉구\n4. 한동훈 장관 시절 자녀 의혹, 美공조 불송부\n5. 제주 마라도 해상 40t 어선 화재, 7명 전원 무사\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #삼성전자 #이종호 #디지털자산 #어선화재\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
