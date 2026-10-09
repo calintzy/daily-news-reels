@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-10",
+  "slot": "am",
+  "hookLine": "화물차가 견인차를 들이받아, 사다리차가 추락했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "고가도로 추락",
+      "title": "고양 고가서 사다리차 추락, 1명 사망",
+      "summary": "경기 고양시 고가도로에서 화물차가 견인차를 뒤에서 들이받아 사다리차가 추락했습니다. 견인차 운전자 50대가 숨지고 2명이 부상했습니다.",
+      "narration": "고양 고가서 사다리차가 추락해 운전자가 숨졌습니다.",
+      "sourceTitle": "고양 고가도로서 3중 추돌 후 사다리차 추락…1명 사망·2명 부상",
+      "sourceDesc": "경찰과 소방 당국에 따르면 9일 오전 7시 40분께 경기 고양시 덕양구의 한 고가도로에서 화물차가 앞서 달리던 견인차를 뒤에서 들이받았다. 사고 당시 견인차는 고장 난 사다리차를 싣고 이동하던 중이었으며, 충격으로 사다리차가 고가 아래 도로로 떨어졌다. 견인차 운전자 50대가 숨지고 2명이 다쳤다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/accident/2026/10/09/20261009500076",
+      "sourceDate": "2026-10-09",
+      "imagePrompt": "Aerial view of a highway overpass in South Korea, emergency vehicles and scattered debris visible on the road below, overturned industrial vehicle wreckage, dramatic morning light casting long shadows, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "국제·안보",
+      "kicker": "남북 충돌",
+      "title": "유엔서 DMZ 지뢰 두고 남북 설전",
+      "summary": "한국 대표는 유엔총회에서 DMZ 지뢰 폭발로 군인 3명이 다쳤다며 북한에 공개 사과를 요구했습니다. 북측은 이를 불순한 방해적 행동이라고 반박했습니다.",
+      "sourceTitle": "유엔서 남북 설전…韓 \"DMZ 지뢰 사과하라\" 北 \"자작 막장극\"",
+      "sourceDesc": "차지훈 주유엔 대사는 8일(현지시간) 유엔총회 제1위원회에서 9월 21일 DMZ 지뢰 폭발로 군인 3명이 다쳤다고 밝히며 북한에 공개 사과와 책임 있는 조치를 촉구했다. 북측 대표는 이를 접경지 요새화에 대한 불순한 방해적 행동이라고 반박했다.",
+      "sourceLink": "https://www.mt.co.kr/world/2026/10/09/2026100912171141786",
+      "sourceDate": "2026-10-09",
+      "imagePrompt": "Barbed wire fence stretching across a misty demilitarized zone landscape, warning signs half-hidden by overgrown grass, overcast grey sky above, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "노벨평화상",
+      "title": "2026 노벨평화상에 나비 필라이",
+      "summary": "노벨위원회는 나비 필라이 전 유엔 인권최고대표를 2026 노벨평화상 수상자로 선정했습니다. 전쟁범죄와 반인도범죄 심판에 기여한 공로를 인정받았습니다.",
+      "sourceTitle": "전쟁범죄 심판 앞장선 나비 필라이, 2026 노벨평화상 수상",
+      "sourceDesc": "노벨위원회는 9일(현지시각) 나비 필라이를 2026 노벨평화상 수상자로 발표했다. 전 유엔 인권최고대표로 전쟁범죄·반인도범죄·집단학살 범죄가 법정에서 다뤄지도록 중요한 역할을 했다는 이유에서다.",
+      "sourceLink": "https://www.newdaily.co.kr/site/data/html/2026/10/10/2026101000002.html",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Interior of an international courtroom with symbolic scales of justice emblem on a wall, empty wooden benches bathed in soft institutional light, solemn atmosphere with national flags blurred in background, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "IT·사회",
+      "kicker": "서비스 먹통",
+      "title": "쿠팡·쿠팡이츠 자정부터 2시간 30분 먹통",
+      "summary": "쿠팡과 쿠팡이츠 앱·홈페이지가 9일 자정부터 약 2시간 30분간 접속 오류가 발생했습니다. 쿠팡 측은 서비스 업그레이드 과정에서 일시적 오류가 생겼다고 밝혔습니다.",
+      "sourceTitle": "쿠팡·쿠팡이츠, 한밤 중 접속 차질 '먹통' 사태",
+      "sourceDesc": "쿠팡·쿠팡이츠·쿠팡플레이 앱과 홈페이지가 9일 자정 무렵부터 약 2시간 30분간 접속 오류가 발생했다. 화면에는 네트워크 연결이 원활하지 않습니다 안내가 떴고 로그인도 되지 않았다. 쿠팡은 서비스 업그레이드 과정에서 일시적인 오류가 발생했다고 밝혔다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/2026/10/09/20261009500024",
+      "sourceDate": "2026-10-09",
+      "imagePrompt": "Close-up of a smartphone screen displaying a generic network error interface with spinning loading icon, blurred city lights bokeh background, no people, no text, documentary photography style, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "정치·외교",
+      "kicker": "비자 보류",
+      "title": "정청래 의원 미국 비자 보류…국감 차질",
+      "summary": "더불어민주당 정청래 의원이 미국 비자 발급이 보류돼 외통위 현지 국감을 포기하고 유럽행을 결정했습니다. 외교부는 이 사안을 한미관계 전반과 연계하는 것은 적절하지 않다고 밝혔습니다.",
+      "sourceTitle": "외교부 \"정청래 미국 비자 보류 사안, 한미관계 연계 부적절\"",
+      "sourceDesc": "외교부는 9일 정청래 더불어민주당 의원의 미국 비자 발급 보류 사안을 한미관계 전반과 연계하는 것은 적절하지 않다고 밝혔다. 정 의원은 비자가 보류되자 국회 외교통일위원회 미국 현지 국감을 포기하고 유럽 감사반으로 이동했다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026100916320003154",
+      "sourceDate": "2026-10-09",
+      "imagePrompt": "South Korean passport and a US visa application form placed on a wooden desk, a small denied stamp symbol visible on paper beside them, neutral soft lighting, no people, no text, documentary photography style, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-10 아침 브리핑\n\n1. 고양 고가서 사다리차 추락, 1명 사망\n2. 유엔서 DMZ 지뢰 두고 남북 설전\n3. 2026 노벨평화상에 나비 필라이\n4. 쿠팡·쿠팡이츠 자정부터 2시간 30분 먹통\n5. 정청래 의원 미국 비자 보류…국감 차질\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #한글날100주년\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
