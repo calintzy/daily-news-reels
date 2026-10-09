@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-09",
+  "account": "aibrief",
+  "hookLine": "ChatGPT에서 GPT-6 무료로 풀렸습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 모델",
+      "kicker": "무료 전면 개방",
+      "title": "ChatGPT, 무료로 GPT-6 쓴다",
+      "summary": "오픈AI가 최신 AI 모델 GPT-6를 무료 사용자에게도 개방한다고 발표했습니다. 무료·Go 이용자는 GPT-6 Luna를, 유료 이용자는 GPT-6 Sol을 쓸 수 있습니다.",
+      "sourceTitle": "오픈AI, 질문에 맞춰 화면 생성하는 'GPT-6' 공개...전 사용자 무료 적용",
+      "sourceDesc": "오픈AI가 GPT-6를 ChatGPT 전체 사용자에게 확대했으며, 실시간으로 답변 화면을 구성하는 '지능형 UI(Intelligent UI)'를 함께 내놓겠다고 발표했습니다. 유료 요금제 이용자는 GPT-6 Sol을, 무료·Go 이용자는 GPT-6 Luna를 받게 됩니다.",
+      "sourceLink": "https://www.aitimes.com/news/articleView.html?idxno=216059"
+    },
+    {
+      "rank": 2,
+      "category": "반도체·인프라",
+      "kicker": "사상 첫 100조 돌파",
+      "title": "삼성전자, 영업이익 첫 100조 넘다",
+      "summary": "삼성전자 3분기 영업이익이 107조원을 기록해 처음으로 분기 100조원을 넘어섰습니다. AI 반도체 수요 급증에 힘입어 메모리 실적이 크게 올랐습니다.",
+      "narration": "삼성전자, 분기 영업이익 100조를 처음 넘었습니다.",
+      "sourceTitle": "'메이드 인 삼성' 빅테크 첫 영업익 107조",
+      "sourceDesc": "삼성전자의 3분기 영업이익이 107조원을 기록해 분기 100조원을 처음 넘었습니다. AI 반도체 수요 급증이 메모리 부문 실적을 끌어올렸습니다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009001007"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크 사업",
+      "kicker": "400억달러 빅딜",
+      "title": "스페이스X, 엔비디아 칩에 400억달러 베팅",
+      "summary": "스페이스X가 엔비디아 AI 칩 구매를 위해 약 400억달러를 조달하려 한다고 월스트리트저널이 보도했습니다. 조달이 완료되면 AI 인프라 투자 경쟁이 한층 가속될 전망입니다.",
+      "narration": "스페이스X, AI 칩에 400억달러 조달합니다.",
+      "sourceTitle": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...유가 105달러 돌파·美 국채금리 급등에 '일제 하락'",
+      "sourceDesc": "월스트리트저널에 따르면 일론 머스크의 스페이스X가 엔비디아 AI 칩 구매를 위해 약 400억달러 규모의 자금 조달을 추진하고 있습니다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261008001402"
+    },
+    {
+      "rank": 4,
+      "category": "사회 영향",
+      "kicker": "충전소→AI 서버",
+      "title": "놀던 충전소, AI 칩 심어 2.7조 조달 도전",
+      "summary": "미국 전기차 충전업체 Xeal이 충전소의 남는 전력으로 AI 칩을 운용해 약 20억달러를 조달하려 합니다. 전기차가 없을 때 충전 전력을 AI 서버로 전환해 수익을 내는 방식입니다.",
+      "narration": "놀던 충전소가 AI 서버가 됩니다.",
+      "sourceTitle": "전기차 안 오면 AI 돌린다…놀던 충전소에 엔비디아 칩 심어 2.7조 조달",
+      "sourceDesc": "미국 전기차 충전업체 Xeal이 충전소의 유휴 전력을 활용해 AI 칩을 운용하며 약 20억달러 규모의 자금 조달을 추진하고 있습니다.",
+      "sourceLink": "https://www.cbci.co.kr/news/articleView.html?idxno=613557"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "거품 경고",
+      "title": "AI 투자, 절반 이상이 AI 기업 돈",
+      "summary": "국제결제은행(BIS)은 AI 기업 투자금의 55.2%가 다른 AI 기업에서 조달됐다고 분석했습니다. 투자금이 AI 업계 안에서만 순환하는 거품 구조일 수 있다는 우려가 나옵니다.",
+      "narration": "AI 투자금 절반이 AI 기업에서 나온대요.",
+      "sourceTitle": "고객사 돈 대주고 칩 되파는 AI 거품…한국 메모리 불똥 튈라",
+      "sourceDesc": "국제결제은행(BIS)은 2021년부터 2025년까지 전 세계 AI 기업으로 유입된 투자금의 55.2%가 다른 AI 기업에서 나왔다고 분석했습니다. 보고서는 메모리 반도체 공급망 병목을 지목하며, 한국 메모리 업체에 불똥이 튈 수 있다고 경고했습니다.",
+      "sourceLink": "https://www.g-enews.com/article/Global-Biz/2026/10/202610031218446815fbbec65dfb_1"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-09 AI 뉴스 브리핑\n\n1. ChatGPT, 무료로 GPT-6 쓴다\n2. 삼성전자, 영업이익 첫 100조 넘다\n3. 스페이스X, 엔비디아 칩에 400억달러 베팅\n4. 놀던 충전소, AI 칩 심어 2.7조 조달 도전\n5. AI 투자, 절반 이상이 AI 기업 돈\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #GPT6 #챗GPT #삼성전자 #AI반도체\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
