@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-09",
+  "slot": "pm",
+  "hookLine": "쿠팡 서비스가 2시간 동안 멈췄습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "한밤 2시간 먹통",
+      "title": "쿠팡·쿠팡이츠, 한밤 2시간 '먹통'",
+      "summary": "자정 무렵 쿠팡과 쿠팡이츠, 쿠팡플레이에 접속 장애가 발생해 약 2시간 만에 복구됐습니다. 쿠팡 측은 서비스 업그레이드 과정에서 오류가 발생했다고 밝혔으나 정확한 원인은 조사 중입니다.",
+      "narration": "쿠팡이 한밤 접속 장애로 2시간 마비됐습니다.",
+      "sourceTitle": "쿠팡·쿠팡이츠, 한밤 중 접속 차질 '먹통' 사태",
+      "sourceDesc": "한밤중 쿠팡과 쿠팡이츠, 쿠팡플레이 등에 접속 장애가 발생해 약 2시간 만에 복구됐다. 쿠팡 측은 서비스 업그레이드 과정에서 일시적인 오류가 발생했다고 밝혔으나 해킹 여부 등 정확한 원인은 조사 중이다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/2026/10/09/20261009500024",
+      "sourceDate": "2026-10-09",
+      "imagePrompt": "Dark server room with rows of rack-mounted equipment, one section completely unlit against glowing blue neighboring racks, emergency warning light casting faint red glow on ceiling, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "외교",
+      "kicker": "18년 만의 외교 강경",
+      "title": "주우크라 대사 소환…北 포로 공개 항의",
+      "summary": "우크라이나가 비공개 합의를 어기고 북한군 포로 2명 송환 사실을 공개하자 정부가 항의 차원에서 주우크라이나 대사를 소환했습니다. 18년 만의 고강도 외교 조치로, 대사의 귀임 시점은 아직 미정입니다.",
+      "sourceTitle": "주우크라 대사 항의성 소환 결정…'北포로 송환 공개' 진실공방 격화",
+      "sourceDesc": "우크라이나가 한국 측의 비공개 합의를 어기고 북한군 포로 2명의 한국 송환 사실을 공개하자, 정부가 항의 차원에서 주우크라이나 대사를 본국으로 소환하기로 결정했다. 18년 만의 고강도 외교 조치다.",
+      "sourceLink": "https://www.seoul.co.kr/news/politics/2026/10/09/20261009003003",
+      "sourceDate": "2026-10-09",
+      "imagePrompt": "Formal diplomatic reception hall with an empty chair behind a polished mahogany desk, a small national flag standing alone on one side, the opposite chair and place setting absent, cold institutional lighting from tall windows, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "수사팀 확대",
+      "title": "금융권 해킹 전담팀, 43명으로 확대",
+      "summary": "경찰이 금융권 연쇄 해킹 수사 전담팀을 기존 28명에서 43명으로 늘렸습니다. 포렌식과 국제공조 인력을 보강해 배후 추적에 속도를 낼 방침입니다.",
+      "sourceTitle": "경찰, 금융권 해킹 수사팀 43명으로 확대…'공백 없이 철저 수사'",
+      "sourceDesc": "경찰이 금융권 연쇄 해킹 수사 전담팀을 기존 28명에서 43명으로 늘렸다. 포렌식과 국제공조 인력을 보강하고 자료 분석을 강화해 배후 추적에 속도를 낼 방침이다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/accident/2026/10/09/20261009500092",
+      "sourceDate": "2026-10-09",
+      "imagePrompt": "Digital forensics workstation with multiple dark monitor screens displaying abstract network diagrams and blue data patterns, dimly lit investigation room, cables and drives arranged on desk, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "안보",
+      "kicker": "남북 유엔 공방",
+      "title": "DMZ 지뢰 남북 충돌, 유엔서 공방",
+      "summary": "차지훈 주유엔 대사가 지난달 DMZ에서 발생한 지뢰 폭발을 정전협정 위반이라며 북한의 사과를 촉구했습니다. 북한은 불순한 방해적 행동이라며 책임을 전면 부인했습니다.",
+      "sourceTitle": "韓 \"DMZ 지뢰는 정전협정 위반\"…北, 유엔서 책임 부인",
+      "sourceDesc": "차지훈 주유엔 대사는 북한이 의도적으로 매설한 지뢰의 폭발이 정전협정 위반에 해당한다며 공식 사과와 책임 있는 조치를 촉구했다. 반면 북한 측은 이를 불순한 방해적 행동이라며 책임을 부인했다.",
+      "sourceLink": "https://m.news.nate.com/view/20261009n08879",
+      "sourceDate": "2026-10-09",
+      "imagePrompt": "Barbed wire fence stretching across a misty mountain valley landscape, watchtower silhouette visible in fog on a distant ridge, overcast grey sky, overgrown dirt path running parallel to the barrier, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사고",
+      "kicker": "터널 6중 추돌",
+      "title": "문경터널서 차량 6대 연쇄 추돌, 2명 부상",
+      "summary": "경북 문경 중부내륙고속도로 문경2터널서 차량 6대가 연쇄 추돌해 2명이 경상을 입었습니다. 화물차 전도로 연쇄 충돌이 시작됐으며 양평 방향 4km 구간이 한때 정체됐습니다.",
+      "sourceTitle": "중부내륙고속도로 문경터널서 6중 추돌....2명 부상",
+      "sourceDesc": "경북 문경 중부내륙고속도로 문경2터널서 차량 6대가 연쇄 추돌해 2명이 경상을 입었다. 화물차가 전도되며 연쇄 충돌이 시작됐고, 양평 방향 4km 구간에 정체가 빚어졌다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261009000046",
+      "sourceDate": "2026-10-09",
+      "imagePrompt": "Highway tunnel interior with orange traffic cones forming a barrier across dark lanes, harsh overhead fluorescent strip lights, skid marks visible on dark asphalt stretching toward the blocked section, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-09 저녁 브리핑\n\n1. 쿠팡·쿠팡이츠, 한밤 2시간 '먹통'\n2. 주우크라 대사 소환…北 포로 공개 항의\n3. 금융권 해킹 전담팀, 43명으로 확대\n4. DMZ 지뢰 남북 충돌, 유엔서 공방\n5. 문경터널서 차량 6대 연쇄 추돌, 2명 부상\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #쿠팡 #먹통 #우크라이나 #DMZ #금융해킹 #한글날\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
