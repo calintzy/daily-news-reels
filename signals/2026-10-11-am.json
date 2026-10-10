@@ -1,0 +1,474 @@
+{
+  "stem": "2026-10-11-am",
+  "collectedAt": "2026-10-11T05:02:09+09:00",
+  "sources": {
+    "news": "ok",
+    "trends": "ok",
+    "nate": "ok"
+  },
+  "news": [
+    {
+      "title": "주우크라 대사 소환 귀국…‘포로 한국행’ 공개에 정부, 18년 만의 강경 조치",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oT2FfS0FJdVAzZDBSQk9fZ3ZOeDJ1X0p4aXRzRm1IZEtPUkY0TVJuZTZkV21zdEpZeFVZWUJaNE4yYUswdk9kekxQVFpSTmpncUJfaF9QMEVROC1vMHo4aDU2Z1VMSWRyNW04?oc=5",
+      "pubDate": "2026-10-10T20:08:00+09:00"
+    },
+    {
+      "title": "트럼프 “푸틴과 러 경유 30만t 공급 합의”…우크라 “전쟁 투자” 맹비난",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1dtbmprZFRRNmtFSVBZY0ZZVmhvbFlOcDdhLWsyZUxBZVc4TEthNDVtZElxNzdxYW1kZlZ2TERXUG9HUl9iUnRYdGl2U3N5S1paRDdiaUJabDQ1VTlmeDR5UFlVei14SW1rcE0tbkFNYzV1bUxTZTJBdmp6eG1kMVp3?oc=5",
+      "pubDate": "2026-10-10T19:13:00+09:00"
+    },
+    {
+      "title": "사우디 리야드 공항 또 공격받아…\"운영 잠정 중단\"",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mVVRUdkdPR2s3MmZzZjVmR0FjYkRxeGRmSG84QVV0YVlUX2NmbUg0RkhoZmxaaUpab3lkRGlWSlJpNU9JYzdqYUxTX3phTXlKTmE3U0I1eVYwNDkwNEJGWDUxdGtkdWs?oc=5",
+      "pubDate": "2026-10-11T02:40:00+09:00"
+    },
+    {
+      "title": "[날씨] 일요일 내륙 곳곳 소나기…서울 낮 최고 27도",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13SEh6NWpUTlFpdHFVaU4wRVd5eFFoZTZ1R1lSYlRQYUtoNDdqMzNjdnVYWms2NEc5YU1XY3JidGVtVjZKYWloNE9mNmhzZEUwRDQ2eVhnT1JGME3SAWBBVV95cUxNbWxwenRHZlZtb2RjX2VDNC1WQVh6RXZxTFJQRmRjV0Z5VndvcTRYa0tMekF4d0NiNjBDV0ZPdGFGWmpiT0VwZkRtVkgyWTEyb0V1Z3dOaW5JLUduN3Zqb1I?oc=5",
+      "pubDate": "2026-10-10T20:00:00+09:00"
+    },
+    {
+      "title": "한글날 연휴 둘째날 부캉이 구경객 6만명…누적 127만명",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQ09FQTlMXzBEb3RlX0JycVpIR2tHS0JOcW84V2VKZXJxaXFacnNta3pzQngxd1JITzBSdURYOFdpVnRqTWdPeW51SkJOeVB3M00xZjl5ZEdyU0RSTzgxMkpTbkNhT28?oc=5",
+      "pubDate": "2026-10-10T22:13:00+09:00"
+    },
+    {
+      "title": "李 “품격없다 비난해도 SNS 소통·삶의 현장 방문 계속할 것”",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcWotVUNISTlHVzhVeG9iaTlwRUVocG5BazRhc3AwTjNzUHZrQ1o5MV95SGFnOEV5S2p4djEwSjNOd254SUZzTDFGdU84S3ZJWkIzWENyUlNsU3VXcGZhWkRoTUhRTGJBdWhIMTRRMWpIeDdsbkdR0gFmQVVfeXFMTUVlWllITFFsbFM4TWg5dHM1a1p3aVhVTkVITVhBSmhJaUpuSllHZTBGeHZWRjZ1dXlVbjBZV0VreFFqR0d3NkMxSFhhcVdVT3R4TERTUlpWWmUwbGVZUEN5LVBnM1VB?oc=5",
+      "pubDate": "2026-10-10T23:04:00+09:00"
+    },
+    {
+      "title": "제주항공 여객기 '아찔 소동'…승객·승무원, 화재 막았다",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uZG1RY1FLUzRVXzR1LW9CVXplU1ZJNDAxUW45ZnpBMVhXSjN3OG42R1NxRUtZdjg1SUNzZHFQZlZnRHZLc0YyVVczUklPRllrR0MtNjR2Q2d2UQ?oc=5",
+      "pubDate": "2026-10-10T21:03:37+09:00"
+    },
+    {
+      "title": "네팔 대홍수 실종자 5000명 곧 사망 처리... 유족 보상 길 열려",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcF9ueHBud1lmUWdzUTNTYllFRi1QMVpwWWltZjFFT1kyZDVYMnBLa1BMS3hvdmxJaDBLQTJPeWl6NmdhQUc5MDA4VkY5RkJ3OGlaVWZoYlpvYTNmX280QUhKc29uTzRhLWU4NkV6aHQxdF9qcktlbFBwT3VOaDhHV1ZNMDVQb2c?oc=5",
+      "pubDate": "2026-10-10T16:13:28+09:00"
+    },
+    {
+      "title": "인도, 청년 시위대 수천 명 구금…유권자 명부 개정 논란 확산",
+      "source": "VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lNG9fU2oyNkk4WEJxOElqNVpsWVpQbkpBY2RYTWo5bGI2YWVHNS1UTm9nMzh3YXNKdmJkd0QtT1k5Q1gzVUZHYVpDSHVzZXlS0gFTQVVfeXFMTWwyQ2JoWjhCN1ZFSmNobWEyZzB5Ymo1M3lMUWx4ekg3T0h6OUFUZ2pSclFWcUZWOG1NVVlVdUFFUllNcUNNV2xxaHVtdmx4c1BoSFE?oc=5",
+      "pubDate": "2026-10-10T21:58:48+09:00"
+    },
+    {
+      "title": "[이슈칼럼] 해킹 당한 기관에게 과징금을 부과하는 명분",
+      "source": "보안뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uUHNJVXRJa2JrNUR5RGx2Q1poYjhjRDdjLUo2TkZQR19pTnFRZzlLREVOLXZkQ0dlU2JOV0EwLV8zMFpwdl83bjFHZVh1SU1zVnlCSmM0bUpLNUpidG96eHRaZVlsZlFHdzhF?oc=5",
+      "pubDate": "2026-10-10T15:30:48+09:00"
+    },
+    {
+      "title": "‘100조 영업익’에도 삼성전자 주가 발목잡은 AI거품론",
+      "source": "세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BR1FQdHNnZnMtMlRJekxTcEtKNkU0N2oyNmtRYkNYNVB1U0RvRW5XSmFORi0yaXI2anhEZXowVHVfUllzV0twMnBtS0VPZE4tWXgxZEtqR1Q?oc=5",
+      "pubDate": "2026-10-10T16:30:02+09:00"
+    },
+    {
+      "title": "전산장애 잦은 금융사 20곳, 정보보호 예산 집행률 70%도 안 돼",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fX2oyUXlZX3hMS01rV2EzbFpqOXFkcjNmT0Y5Rzh1T0tIRnIzM0FzYWJRZlowVWZGN0FjLXhObHVwSFVoa2doX01mZjFibjM0?oc=5",
+      "pubDate": "2026-10-10T19:15:50+09:00"
+    },
+    {
+      "title": "대한민국 과학기술인상 10월 수상자 이정은 교수 선정",
+      "source": "대구뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84enA3NjNveDdhUTBaMUs2WXo3VXNZeEFyZVNzbnJFLUJyOG9qTFlSUVpGUUJ0Zld3RGhfNmZvYWR1M20tUUFCdEtvM18xXzhRUV9GSG1VcC1WMmN2R1VwVnFhNzdpUUts0gFsQVVfeXFMTjVyTm1wLWowNHpCV3hRYTZ1RWx1YjFMd2tQRUR0WUxwaHNsXzR0Q3NlWDFqSWl1NGdHZFFNc09JdFFIZ3NiZWU1STlMcWQ4R3pITmpndDNtSnNPRmwzWDFXVFlXZUxIeVNDSTQy?oc=5",
+      "pubDate": "2026-10-10T21:24:49+09:00"
+    },
+    {
+      "title": "새로운 버전의 OptiScaler는 DLSS 5를 사용하는 RTX 4070에서 FPS를 40에서 80으로 두 배 향상시켰습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXBNTTdXd3RjR3VwR3ppV3N4NG5PdEVPckJfSnhmSDhXTkVJZVgtWWdzZDU0d1JJU3d4NnRfQVNiekhuLUFpZkRDTGVOU29hUUNlS2hvNmE4d25RMkhxMmlMQWIyTlpLM013LVBJdjU4SE5ySzg5QjFLWWV1ZkRQOE1KVWFDS05sVXM3QU84VUxjck9CT19uTnJxOHdiYzVNVXVpLXdwZ0hkTzBFMFY0R2N1OUM?oc=5",
+      "pubDate": "2026-10-11T03:46:40+09:00"
+    },
+    {
+      "title": "NVIDIA는 RTX Pro에 집중하기 위해 GeForce RTX 5090용 GB202 칩 공급을 완전히 중단할 예정입니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2ZWU0lQbllPbERCTk04NWI3dWN6RDBxX0tzWVJoWF9rN0RMS2dGbGVIT2R1Y01RdWRxSnFSdExiMWlrSThMMjVPcDRnbF9Oai1fWEZaM1BWeWZsZGk2NjJaejBvSkVTcDRyMWxrTEE5MVZXeEZNdUkzM0dTcGppUGdTUVhCZjk1UFZSQmd6VUdXYm5vc0hjYVE0eGZVUmtW?oc=5",
+      "pubDate": "2026-10-10T20:22:52+09:00"
+    },
+    {
+      "title": "‘암살자(들)’ 비판했던 홍혜걸 “내 정치 성향 완전 중도”",
+      "source": "주간경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WYXl2R1NuUk5KWGxZT3Q1X0o2bFBRZlV5WFZGUEhmVVhNMElxRDVXSzBOVUxVb3hwTEozVUgzY0tuaUxvaUZYbGJlVmRhdHgxM2tuSkJVNzBaekxsaFE?oc=5",
+      "pubDate": "2026-10-10T19:05:00+09:00"
+    },
+    {
+      "title": "안무가 시미즈, 억대 CEO였다..넓은 한강뷰 집→고급 차까지 \"영 앤 리치\"(전참시)",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGV0dU56YXZ2OUM1S2V0cThWdHRFTV94S3ljZDY2eXpiV2dnNmNsQ2VmbGY4TjF6QjNkalEwQ0otaDhGei14My1CNUp0NmVmOG9NcmVuSXZITHA1Y0V4TS1wbHB6YzlCWFlrLTA0N0JoTkh4cVpIaVp5dkxaYjlsMC1DYnZ2X3RNY3pJVm9RVQ?oc=5",
+      "pubDate": "2026-10-10T23:48:00+09:00"
+    },
+    {
+      "title": "“강남 땅 몇 평은 내 땅”..이혜정, ♥고민환과 이혼 못 한 이유? “혼수 원금 아까워” (‘동치미’)",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2ItRkMtY3VnN2VjRFhreXVwYUlYSzZtOHhpRjQyNDZyQW5hWGNhZmx6Mk5QTERhSWFILVFlM2xVMmVmR005c0dWVEJVQ2hHT1R0LUtqMmIyc3l0TThlOTFwbi1jMUs0MWotWHpQOW11bzNyVW9uT0JJUm1VSF9aUmphRVV3MlgxWnA3QnJpMA?oc=5",
+      "pubDate": "2026-10-11T01:44:00+09:00"
+    },
+    {
+      "title": "김경문 감독, 한화 떠난다…한국시리즈 준우승만 5차례",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UaEhwb1BPdXdqbmctdmctMFNvU3lfSGExRTJjM0NGbmZXYndTdkF4cUxKSEdtOUI1WWt1RW9SMzV6TlR5dHpmZW01UXo1ZldNV1o5Qlh5Uk5DZXpVRVcyYlZEMC1qX2M?oc=5",
+      "pubDate": "2026-10-10T21:46:00+09:00"
+    },
+    {
+      "title": "'이강인 교체 33분' 아틀레티코, 방패로 팼다! '10명' 알라베스에 2-1 진땀승...'로메로 데뷔골' 폭발→라리가 2위 도약",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPem5tNmtjajE3MkhSNFEzQnB6TlhrcHBlcThlWjRrOGJlQnhXdS1pbU9Tdl9JQ0hpbVNNMnY2aWo4OV9PekFlQzk4c2RBdnp1U0pLSW5FVzAxTTRFTEtDeUY5U0tqWWFPZzdYcWhFSEc2Vkh4WWdYdGdnSVU2YkpKc2R2RFlmVDhQeE9r?oc=5",
+      "pubDate": "2026-10-11T01:15:00+09:00"
+    },
+    {
+      "title": "“이거 연기 아니었어?”…프로레슬링 경기 중 나온 ‘금지기술’에 심판 사망 충격",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZnhtWncyXzJLVExxV3JDTTZ2UWprQzlZNGdacGtJb2c4S3MxcHZLLTJtMFlhZGlwdFBzUHhzeWZWNm5LcDBJLXM3UllNVXJf?oc=5",
+      "pubDate": "2026-10-11T03:44:33+09:00"
+    },
+    {
+      "title": "'BTS도 군대 갔는데 축구선수는 왜?' 英도 금메달 '군 면제' 논란, 집중조명...\"자랑했다가 역풍→새로운 손흥민·이강인 될지도 불확실\"",
+      "source": "OSEN",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02a29zQ2ZYRXVJYkxRV2lBczRibWhZWUU5YndIUXhfRVAydDJCdi15dTAtT3c1bWx1ZEZGc21HM05veXZCdC13Z2FUTURwLWlBTm5RdQ?oc=5",
+      "pubDate": "2026-10-11T01:22:00+09:00"
+    },
+    {
+      "title": "“피로 풀리고 피부에 광이 나” 미미, 자주 하는 ‘이 습관’이 건강 비결?",
+      "source": "코메디닷컴",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vbURSdGM0UUhEbmJ5a0RYQWpyWEkwWndpejZzNEhldEQ2VXY3TjNKZjh2WEFnZjlLa1EwakN5WTZQUQ?oc=5",
+      "pubDate": "2026-10-10T23:03:00+09:00"
+    }
+  ],
+  "trends": [
+    {
+      "term": "레알 마드리드 대 비야레알",
+      "pubDate": "2026-10-11T03:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "\"전 세계 의료계가 틀렸다니, 축하합니다\"...이강인 퇴장 요구했던 레알, 발베르데 17일 만에 복귀→ATM 공개 조롱 - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/sports/2026/10/10/202610100805773642O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘초지일관!’ 무리뉴 감독, 이강인 ‘태클 논란’ 다시 언급···“마드리드 더비는 11대9로 진행됐어야 했다”",
+          "snippet": "",
+          "url": "https://sports.khan.co.kr/article/202610100808003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "[오피셜]\"충격!\" 韓 에이스 '이강인 때리기' 논란→'가장 놀라운 회복세'…'세 달 OUT 예상' 페데리코 발베르데, 복귀 뒤 출전 준비",
+          "snippet": "",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/10/HE4WIZRTMJTDOMRQGNSTSOLEG4/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "term": "스포츠 중계",
+      "pubDate": "2026-10-11T01:40:00+09:00",
+      "newsItems": []
+    },
+    {
+      "term": "แมนยู พบ สเปอร์ส",
+      "pubDate": "2026-10-11T01:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "เดอ แซร์บี และ \"เกมสุดท้าย\" ของเขา ขณะที่ท็อตแนมพบกับแมนเชสเตอร์ ยูไนเต็ด",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/th/de-zerbi-va-tran-dau-cuoi-cung-khi-tottenham-gap-man-united",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "แมนยู ช็อกโดน สเปอร์ส ที่เหลือ 10 คนไล่เจ๊าศึกพรีเมียร์ลีก - บาเลบา ประเดิมสนาม | Khaosod",
+          "snippet": "",
+          "url": "https://today.line.me/th/v3/article/x2ovkqq",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "~$!+!$[[ถ่ายทอดสด@สตรีม]] พรีเมียร์ลีก บอลสดวันนี้",
+          "snippet": "",
+          "url": "https://um.mos.ru/uploads/virtual_tours/lefortovo/Lefortovo/Lefortovo.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=strong-chelsea-brounmoth-live-th-98352744",
+          "source": "Узнай Москву"
+        }
+      ]
+    },
+    {
+      "term": "man utd đấu với tottenham",
+      "pubDate": "2026-10-11T01:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "Video bóng đá MU - Tottenham: \"Quỷ đỏ\" đánh rơi lợi thế vàng (Ngoại hạng Anh)",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-tottenham-so-tai-khong-khoan-nhuong-ngoai-hang-anh-c48a1801713.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Thống kê trận đấu Manchester United 1-1 Tottenham: Hai đội chia điểm",
+          "snippet": "",
+          "url": "https://baolamdong.vn/thong-ke-tran-dau-manchester-united-1-1-tottenham-hai-doi-chia-diem-468733.html",
+          "source": "Báo Lâm Đồng"
+        },
+        {
+          "title": "Trực tiếp MU 1-0 Tottenham (Hiệp 2): Mbeumo ghi bàn trong tư thế cực khó",
+          "snippet": "",
+          "url": "https://tienphong.vn/truc-tiep-mu-1-0-tottenham-hiep-2-mbeumo-ghi-ban-trong-tu-the-cuc-kho-post1884029.tpo",
+          "source": "Báo Tiền Phong"
+        }
+      ]
+    },
+    {
+      "term": "논술",
+      "pubDate": "2026-10-11T01:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "논술 시험 마치고 대학교 나서는 수험생들",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISI20261010_0021483222",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[포토] 연세대, 수시모집 논술 시험 실시",
+          "snippet": "",
+          "url": "https://www.viva100.com/article/20261010500184",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "연세대 수시 논술시험 실시… 과학논술 도입 첫해",
+          "snippet": "",
+          "url": "https://www.hankookilbo.com/news/article/A2026101016360001921",
+          "source": "한국일보"
+        }
+      ]
+    },
+    {
+      "term": "la liga",
+      "pubDate": "2026-10-11T01:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "Spain La Liga Soccer",
+          "snippet": "",
+          "url": "https://www.idahostatejournal.com/sports/national/spain-la-liga-soccer/image_31235062-b1ef-52fa-a44c-f044a35d0b56.html",
+          "source": "Idaho State Journal"
+        },
+        {
+          "title": "Spain La Liga Soccer",
+          "snippet": "",
+          "url": "https://www.hjnews.com/sports/nation/spain-la-liga-soccer/image_79434cb7-2e9a-55d2-aa69-c49ed3d31e8e.html",
+          "source": "The Herald Journal"
+        },
+        {
+          "title": "Spain La Liga Soccer",
+          "snippet": "",
+          "url": "http://www.idahopress.com/sports/national/spain-la-liga-soccer/image_7a4fb509-758a-5f80-bd6a-0074e22d4241.html",
+          "source": "Idaho Press"
+        }
+      ]
+    },
+    {
+      "term": "man utd vs spurs",
+      "pubDate": "2026-10-11T00:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "Manchester United 1-1 Tottenham Hotspur: Dominic Solanke strikes late to snatch point for 10 men",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cmpwgrrx0nqpt",
+          "source": "BBC"
+        },
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Liverpool vs Manchester City, Manchester United vs Tottenham and more",
+          "snippet": "",
+          "url": "https://www.skysports.com/football/news/13591795/premier-league-predictions-and-jones-knows-best-bets-liverpool-vs-manchester-city-manchester-united-vs-tottenham-and-more",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "(1) Manchester United 1-1 Tottenham: Premier League – live reaction",
+          "snippet": "",
+          "url": "https://www.theguardian.com/football/live/2026/oct/10/manchester-united-v-tottenham-premier-league-live",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "term": "브라이튼",
+      "pubDate": "2026-10-11T00:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "프리미어 리그 선덜랜드 대 브라이튼 축구 예측",
+          "snippet": "",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-sunderland-vs-brighton-tai-premier-league-1780672.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "선덜랜드 vs 브라이튼 경기 예측: 선두 자리를 노릴 기회",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-sunderland-vs-brighton-co-hoi-bam-duoi-ngoi-dau",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "'미친 가성비 구단' 브라이튼, '한국의 메시' 윤도영 이렇게 영입했다…BBC가 살짝 공개한 '영업 비밀'",
+          "snippet": "",
+          "url": "https://www.sportschosun.com/football/2026-10-09/202610090100059380003777",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "term": "바르셀로나 대 헤타페",
+      "pubDate": "2026-10-11T00:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "[if.preview] ‘에이스’ 야말, 헤타페의 ‘밀집 수비’ 뚫고 개막 8연승 이끌까?",
+          "snippet": "",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99091",
+          "source": "포포투"
+        },
+        {
+          "title": "“호주까지 수천 킬로미터 날아가서 꼭 뛰어야 했나?”…'8경기 14골' 바르셀로나 에이스 부상에 플릭 감독 분노 “믿기 어려운 일”",
+          "snippet": "",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696131",
+          "source": "인터풋볼"
+        },
+        {
+          "title": "한시 플릭 감독은 라피냐가 브라질 국가대표팀에서 과도한 훈련을 받고 있는 것에 대해 격분했다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/hansi-flick-noi-gian-khi-raphinha-bi-vat-kiet-suc-o-tuyen-brazil",
+          "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
+      "term": "barcelona vs getafe",
+      "pubDate": "2026-10-11T00:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "Gordon hace historia en 77 segundos y Jesus brilla con una cifra asombrosa",
+          "snippet": "",
+          "url": "https://es-us.noticias.yahoo.com/deportes/gordon-historia-77-segundos-jesus-153749832.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "FC Barcelona sigue imparable en la Liga española",
+          "snippet": "",
+          "url": "https://onefootball.com/es/noticias/fc-barcelona-sigue-imparable-en-la-liga-espanola-43591207",
+          "source": "OneFootball"
+        },
+        {
+          "title": "EN DIRECTO | Escucha Aquí El Partido Del Real Madrid Ante Villarreal",
+          "snippet": "",
+          "url": "https://www.lared1061.com/posts/en-directo-escucha-aqui-el-partido-del-real-madrid-ante-villarreal",
+          "source": "La Red 106.1 FM"
+        }
+      ]
+    }
+  ],
+  "nate": [
+    {
+      "rank": 1,
+      "title": "안무가 시미즈, 억대 CEO였다…넓은 한강뷰 집→고급 차까지 \"영 앤 ...",
+      "link": "https://news.nate.com/view/20261010n12018"
+    },
+    {
+      "rank": 2,
+      "title": "'김경문-손혁 퇴진' 한화 대격변 시작됐다…차기 사령탑 후보에 WBC...",
+      "link": "https://news.nate.com/view/20261011n00068"
+    },
+    {
+      "rank": 3,
+      "title": "비행기 뒷좌석에서 신음소리…속옷 벗은 40대 여성, 승무원 요구에 '순...",
+      "link": "https://news.nate.com/view/20261010n01168"
+    },
+    {
+      "rank": 4,
+      "title": "정보석, 성북동 3층집 공개…L타워 보이는 테라스서 시작하는 하루 \"...",
+      "link": "https://news.nate.com/view/20261010n11959"
+    },
+    {
+      "rank": 5,
+      "title": "이순실 맞아?…위고비로 45kg 감량 후 '이쑤시개 몸매' 됐다('사당귀'...",
+      "link": "https://news.nate.com/view/20261010n09417"
+    },
+    {
+      "rank": 6,
+      "title": "태안서 해수욕장 산책하러 간 30대 바다서 숨진 채 발견",
+      "link": "https://news.nate.com/view/20261010n09627"
+    },
+    {
+      "rank": 7,
+      "title": "\"지금이야\" 금값 27% 폭락하자…은행서 불티나게 팔린 게",
+      "link": "https://news.nate.com/view/20261010n09112"
+    },
+    {
+      "rank": 8,
+      "title": "야구장 옆 건물 지어 '옥상 관람'…연 13억 번 업주, 결국",
+      "link": "https://news.nate.com/view/20261010n08756"
+    },
+    {
+      "rank": 9,
+      "title": "[단독]\"네 번이나 경고했잖아\"…LH 행복주택 욕실서 발견된 '또 다른 부실...",
+      "link": "https://news.nate.com/view/20261010n06748"
+    },
+    {
+      "rank": 10,
+      "title": "\"탕비실 믹스커피 하루 2개만\"…직원들 커피값에 발끈한 대표, 무슨 일?",
+      "link": "https://news.nate.com/view/20261010n07091"
+    },
+    {
+      "rank": 11,
+      "title": "압구정·반포도 제쳤다…평당 2억 찍은 '그사세' 아파트, 어디?",
+      "link": "https://news.nate.com/view/20261010n01021"
+    },
+    {
+      "rank": 12,
+      "title": "한 번 울고 축 늘어진 1.7㎏ 아기, 엄마는 보일러실에 숨겼다 [사건 플러스...",
+      "link": "https://news.nate.com/view/20261010n03612"
+    },
+    {
+      "rank": 13,
+      "title": "\"선생님이 때렸어요\" 6세 진술…법원 \"거짓말 아니어도 교사 무죄\"",
+      "link": "https://news.nate.com/view/20261010n01624"
+    },
+    {
+      "rank": 14,
+      "title": "\"코로나 때랑 소름 끼치게 닮았다\"…'팬데믹 악몽' 되살린 러시아 연구소 ...",
+      "link": "https://news.nate.com/view/20261010n02841"
+    },
+    {
+      "rank": 15,
+      "title": "\"위험해서\" 이승우, '보복 운전 논란' 김영광 진작에 거리뒀었다…과거 발...",
+      "link": "https://news.nate.com/view/20261010n06764"
+    },
+    {
+      "rank": 16,
+      "title": "\"안 보여\" 부캉이 피 흘리게 한 시민…야생동물에 치명적인 이것",
+      "link": "https://news.nate.com/view/20261010n01336"
+    },
+    {
+      "rank": 17,
+      "title": "'韓 대표팀 역대급 은퇴 소동' 파장 일으킨 김민재 근황 공개, 바이에른 뮌...",
+      "link": "https://news.nate.com/view/20261010n10727"
+    },
+    {
+      "rank": 18,
+      "title": "이진숙, 李대통령 부모 묘소 찾더니…\"법 위에 있느냐\" 비판",
+      "link": "https://news.nate.com/view/20261010n10036"
+    },
+    {
+      "rank": 19,
+      "title": "바지가 어디까지 내려가…너도나도 따라한다는 '파격 패션' [이슈+]",
+      "link": "https://news.nate.com/view/20261010n01773"
+    },
+    {
+      "rank": 20,
+      "title": "\"고기 온다더니 캠핑도 빈손\"…쿠팡 보상, 고작 5000원에 '시끌'",
+      "link": "https://news.nate.com/view/20261010n04074"
+    }
+  ]
+}
