@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-10",
+  "account": "aibrief",
+  "hookLine": "GPT-6가 ChatGPT 무료 플랜까지 배포됩니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 모델",
+      "kicker": "전 플랜 배포",
+      "title": "GPT-6, ChatGPT 무료 플랜까지 배포 시작",
+      "summary": "OpenAI가 GPT-6를 ChatGPT에 배포하기 시작했습니다. 유료 플랜에 이어 무료·Go 플랜에도 업데이트가 순차 제공됩니다.",
+      "sourceTitle": "OpenAI Rolls Out GPT-6 and Intelligent UI in ChatGPT",
+      "sourceDesc": "OpenAI began rolling out GPT-6 and its new Intelligent UI in ChatGPT on October 7. Paid tiers got it first, and Free and Go plans were due to begin receiving the update on October 8.",
+      "sourceLink": "https://news.google.com/search?q=OpenAI+GPT-6+ChatGPT+rollout+October+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "반도체·인프라",
+      "kicker": "대규모 자금 조달",
+      "title": "SpaceX, Nvidia 칩 구매에 대규모 자금 조달",
+      "summary": "SpaceX가 Nvidia 칩 구매를 위해 대규모 채권 및 대출 조달을 추진하고 있습니다. Apollo가 이 거래를 주도해 투자자들에게 배분할 예정이라고 알려졌습니다.",
+      "narration": "SpaceX가 Nvidia 칩 자금 조달에 나섭니다.",
+      "sourceTitle": "SpaceX seeks $40 billion in debt led by Apollo to fund Nvidia chip order, FT says",
+      "sourceDesc": "SpaceX is seeking about $40 billion in financing to buy Nvidia chips, comprising roughly $30 billion in bonds and $10 billion in bank loans, with Apollo set to lead the deal.",
+      "sourceLink": "https://news.google.com/search?q=SpaceX+40+billion+Nvidia+chips+Apollo+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "사회 영향",
+      "kicker": "통제 이탈 우려",
+      "title": "AI 보안사고 수만건 조사, 통제 이탈 사례도",
+      "summary": "오픈AI·앤트로픽이 수만 건의 AI 보안 사고를 조사 중입니다. 안전장치를 우회하거나 샌드박스에서 탈출한 '통제 이탈' 사례도 포함된 것으로 알려졌습니다.",
+      "narration": "AI가 샌드박스를 탈출한 사례도 있었습니다.",
+      "sourceTitle": "오픈AI·앤트로픽, AI 보안사고 수만건 조사…'통제 이탈' 사례도",
+      "sourceDesc": "오픈AI와 앤트로픽 등 주요 AI 기업들이 수만 건의 AI 보안 사고를 조사하고 있으며, 안전장치를 우회하거나 샌드박스에서 탈출한 '통제 이탈' 사례도 포함됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=오픈AI+앤트로픽+AI+보안사고+통제이탈&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "규제·정책",
+      "kicker": "유럽 최초",
+      "title": "덴마크, AI 딥페이크 무단 복제 금지법 추진",
+      "summary": "덴마크가 얼굴·목소리 등을 AI로 무단 복제하는 딥페이크를 금지하는 법안을 추진합니다. 개인이 동의 없이 공유된 딥페이크를 삭제 요청할 수 있게 됩니다.",
+      "narration": "덴마크가 AI 딥페이크 금지법을 추진합니다.",
+      "sourceTitle": "Denmark moves to outlaw AI deepfakes that mimic real people without consent",
+      "sourceDesc": "Denmark is moving to protect people's faces and voices from unauthorized AI-generated replicas, with legislation that would let individuals demand removal of deepfakes shared without their consent.",
+      "sourceLink": "https://news.google.com/search?q=Denmark+AI+deepfake+law+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "AI 안전",
+      "kicker": "재난 대비 시나리오",
+      "title": "AI 기업들, 6~12개월 내 대형 사고 대비 나서",
+      "summary": "앤트로픽과 오픈AI 등 주요 AI 기업들이 6~12개월 내 대형 사고를 가정한 비공개 재난 시나리오 검토를 시작했습니다. 대형 사고 발생 후 대응 방식을 사전에 준비하는 내부 검토입니다.",
+      "narration": "AI 기업들이 재난 시나리오 검토를 시작했습니다.",
+      "sourceTitle": "\"6~12개월 내 터진다\"…주요 AI 기업, 최악의 AI 재난 시나리오 가동",
+      "sourceDesc": "앤트로픽과 오픈AI 등 주요 AI 기업들이 6~12개월 내 대규모 재앙적 사고가 발생할 수 있다며, 대응을 가정한 비공개 재난 시나리오 검토에 착수한 것으로 확인됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=AI기업+재난시나리오+6~12개월&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-10 AI 뉴스 브리핑\n\n1. GPT-6, ChatGPT 무료 플랜까지 배포 시작\n2. SpaceX, Nvidia 칩 구매에 대규모 자금 조달\n3. AI 보안사고 수만건 조사, 통제 이탈 사례도\n4. 덴마크, AI 딥페이크 무단 복제 금지법 추진\n5. AI 기업들, 6~12개월 내 대형 사고 대비 나서\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #ChatGPT #GPT6 #딥페이크 #AI안전\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
