@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-10",
+  "slot": "pm",
+  "hookLine": "쇼핑 중 천장이 무너져, 36명이 다쳤습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "천장 붕괴",
+      "title": "대구 마트 천장 붕괴, 36명 부상",
+      "summary": "대구의 한 마트에서 천장 일부가 내려앉아 36명이 부상을 입었습니다. 소방당국이 원인을 조사 중인 가운데 이재명 대통령은 인명 구조에 총력을 다하라고 지시했습니다.",
+      "narration": "대구 마트에서 천장이 무너져 36명이 다쳤습니다.",
+      "sourceTitle": "\"쇼핑하다 날벼락\"…대구 마트 천장 붕괴, 36명 부상",
+      "sourceDesc": "10일 오전 10시 16분께 대구 북구 관음동의 한 식자재마트에서 천장 일부가 내려앉아 매장 안에 있던 66명 중 36명이 부상을 입었고 9명이 병원에 이송됐다. 소방당국은 4층 건물 2층에서 반자가 무너진 것으로 추정하며 원인을 조사 중이다. 이재명 대통령은 인명 구조에 총력을 다하라고 지시했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610101253555963",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Wide-angle view inside a grocery supermarket after a ceiling panel collapse, scattered drywall debris and ceiling tiles lying on aisle floor, overhead fluorescent lights still illuminating the scene, emergency tape visible in foreground, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "사건·사고",
+      "kicker": "택시 돌진",
+      "title": "서울 인도 돌진 택시, 40대 남편 사망",
+      "summary": "서울 광진구에서 70대 택시기사가 몰던 택시가 인도로 돌진해 40대 부부를 덮쳤습니다. 남편은 병원에 이송됐으나 숨졌으며 운전자는 경찰 조사에서 졸음운전을 했다고 진술했습니다.",
+      "sourceTitle": "[속보] 택시 인도 돌진, 40대 부부 덮쳐 남편 사망·아내 부상… 70대 운전자 \"졸음운전 했다\"",
+      "sourceDesc": "9일 오후 9시쯤 서울 광진구 어린이대공원 정문 인근에서 70대 택시기사가 몰던 택시가 중앙선을 침범한 뒤 반대편 인도로 돌진해 40대 부부를 덮쳤다. 남편은 심정지 상태로 병원에 이송됐으나 숨졌고 아내는 머리를 다쳤다. 운전자는 경찰 조사에서 졸음운전을 했다고 진술했으며 교통사고처리특례법상 치사 혐의로 입건됐다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/accident/2026/10/10/20261010500001",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Night scene of a damaged pedestrian sidewalk on a Seoul street, broken guardrail posts and debris near a pedestrian crossing, emergency cones and yellow police tape cordoning off the area, streetlights casting orange glow on wet asphalt, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "국제·외교",
+      "kicker": "대사 귀국",
+      "title": "박기창 주우크라이나 대사 귀국",
+      "summary": "박기창 주우크라이나 대사가 10일 귀국했습니다. 정부는 우크라이나가 북한군 포로의 한국행을 비공개하기로 한 합의를 파기한 점을 문제 삼아 대사를 소환했습니다.",
+      "sourceTitle": "[속보] '본국 소환' 박기창 주우크라이나 대사 귀국",
+      "sourceDesc": "박기창 주우크라이나 대사가 10일 귀국했다. 지난 8일 정부가 박 대사를 본국으로 소환하기로 결정한 지 이틀 만이다. 정부는 앞서 우크라이나가 북한군 포로의 한국행을 비공개하기로 한 합의를 파기한 점 등을 문제 삼아 박 대사를 본국으로 소환했다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610101012001/",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Exterior of an international airport arrivals terminal with tarmac and aircraft visible beyond glass doors, overcast grey sky, empty greeting area with diplomatic flag stands blurred in background, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "IT·경제",
+      "kicker": "쿠팡 후속",
+      "title": "쿠팡, 서비스 장애 보상 발표",
+      "summary": "쿠팡이 서비스 장애 후속 보상을 발표했습니다. 주문 취소 고객에게 쿠팡캐시를 지급하고 라이더와 음식점에도 보상을 지원합니다.",
+      "sourceTitle": "쿠팡, 장애 보상 쿠폰 지급…일각선 대책 마련 목소리도",
+      "sourceDesc": "쿠팡이 9일 새벽 발생한 서비스 장애에 대한 보상을 10일 밝혔다. 주문이 취소된 고객에게는 쿠팡캐시 5000원을 지급하고 쿠팡이츠 주문 취소 고객에는 3000원 쿠폰을 준다. 라이더에게는 배달비를, 피해를 입은 음식점에는 전액 손실 보상을 제공한다. 일각에서는 근본적인 서비스 안정 대책이 필요하다는 목소리도 나온다.",
+      "sourceLink": "https://www.metroseoul.co.kr/article/20261010500008",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Close-up of a smartphone screen showing a shopping app refund notification banner, delivery packaging boxes stacked in blurred background, soft warm ambient lighting, no people, no text, documentary photography style, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-10 저녁 브리핑\n\n1. 대구 마트 천장 붕괴, 36명 부상\n2. 서울 인도 돌진 택시, 40대 남편 사망\n3. 박기창 주우크라이나 대사 귀국\n4. 쿠팡, 서비스 장애 보상 발표\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
