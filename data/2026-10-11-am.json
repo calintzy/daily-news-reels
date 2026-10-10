@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-11",
+  "slot": "am",
+  "hookLine": "쇼핑객 66명이 대피한 마트, 원인은 조사 중입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "마트 천장 붕괴",
+      "title": "대구 마트 천장 붕괴, 36명 부상",
+      "summary": "대구 북구 관음동 마트에서 천장이 무너져 66명이 대피하고 36명이 경상을 입었습니다. 4층 건물 2층의 반자가 탈락한 것으로 추정되며 경찰과 소방당국이 원인을 조사하고 있습니다.",
+      "narration": "대구에서 마트 천장이 내려앉아, 36명이 다쳤습니다.",
+      "sourceTitle": "\"쇼핑 중 와르르\"...대구 마트 천장 붕괴, 36명 부상·66명 대피",
+      "sourceDesc": "10일 오전 10시16분쯤 대구 북구 관음동의 한 마트에서 천장이 내려앉았다는 신고가 접수됐다. 소방당국은 4층짜리 건물의 2층에서 천장에 설치된 반자가 떨어진 것으로 추정하고 있다. 마트 직원과 고객 등 66명이 대피했다. 이 중 36명이 경상을 입었으며 9명은 인근 병원으로 옮겨졌다.",
+      "sourceLink": "https://www.mt.co.kr/society/2026/10/10/2026101012344648973",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Collapsed ceiling debris and broken tiles scattered across an empty Korean mart floor, emergency response tape cordoning the area, dust particles suspended in the air, harsh overhead lighting, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "파나마 강진",
+      "title": "파나마 규모 7.6 강진, 쓰나미 경보",
+      "summary": "파나마 남해안에서 규모 7.6 강진이 발생해 쓰나미 경보가 발령됐습니다. 수도 파나마시티에서도 건물이 크게 흔들려 주민들이 거리로 대피했으며 피해 상황이 집계되고 있습니다.",
+      "sourceTitle": "파나마 남해안 규모 7.6 강진 발생…주민 대피·쓰나미 경보 발령",
+      "sourceDesc": "현지시간 9일 낮 12시 56분(한국시간 10일 오전 2시 56분) 파나마 파나마시티 남서쪽 해역에서 규모 7.6 지진이 발생했다. 수도 파나마시티에서도 건물이 크게 흔들려 주민들이 거리로 대피했다. 태평양 연안 중남미 국가들에 쓰나미 경보가 발령됐다가 이후 해제됐다.",
+      "sourceLink": "https://www.mt.co.kr/world/2026/10/10/2026101003474471445",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Rough ocean waves crashing against a Pacific coastline with overcast stormy skies, tsunami warning signage on a deserted beach, dramatic natural lighting, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "LH 부실 공사",
+      "title": "LH 행복주택 현장, 경고에도 부실 반복",
+      "summary": "LH가 발주한 행복주택 공사 현장에서 경고에도 부적합 자재 사용이 반복된 것으로 드러났습니다. 경고를 2회 이상 받은 업체가 26%에 달해 부실 공사 관행이 이어지고 있습니다.",
+      "sourceTitle": "[단독]경고 4번 받고도 '부적합 자재'…시평 10위권도 걸린 LH 현장",
+      "sourceDesc": "한국토지주택공사(LH)가 발주한 공사를 맡은 업체들이 잇단 경고에도 부실을 되풀이한 것으로 드러났다. 2회 이상 통지를 받은 업체는 252개 업체 중 26%(66개)에 달했다. 가장 많은 유형은 부적합 자재 사용이었다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026101014094175394",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Cracked and peeling bathroom tiles with substandard construction materials stacked in an unfinished housing unit interior, harsh fluorescent lighting, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "2026 노벨평화상",
+      "title": "노벨평화상에 인권운동가 나비 필레이",
+      "summary": "2026 노벨평화상이 남아공 출신 나비 필레이 전 유엔인권최고대표에게 돌아갔습니다. 전쟁범죄와 집단학살의 책임을 묻고 국제법을 지켜온 평생의 노력이 수상 이유입니다.",
+      "sourceTitle": "노벨평화상 나비 필레이, 60년 인권 투쟁의 결실",
+      "sourceDesc": "노벨위원회가 2026 노벨평화상 수상자로 남아공 출신 나비 필레이 전 유엔인권최고대표를 선정했다. 전쟁범죄와 집단학살의 책임을 묻고 국제법을 지켜온 평생에 걸친 노력을 높이 평가했다.",
+      "sourceLink": "https://www.sidae.com/article/2026101010494171955",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Nobel Peace Prize medal displayed on a podium in an empty ceremonial hall, tall windows with Nordic city backdrop at dusk, warm ambient lighting, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "한미 동맹 균열",
+      "title": "한미 정보 신뢰 논란, 국정원 비자도 지연",
+      "summary": "미국이 국정원의 대미 파견 직원 비자를 지연하고 회의에서도 배제해 한미 신뢰 문제가 제기됐습니다. 미국 당국자들은 동맹국이 정보 기준을 지켜야 한다고 강조한 것으로 전해졌습니다.",
+      "sourceTitle": "美 '동맹 기준 지켜라'…국정원 비자 지연·회의 배제 논란",
+      "sourceDesc": "미 국무부 당국자들이 동맹국들은 정보와 방첩 분야에서 기준을 지켜야 한다고 강조한 것으로 전해졌다. 국정원 직원들의 미국 비자 발급 지연과 한미일 회의 배제 사태가 겹치면서 한미 정보협력 신뢰 논란이 확산되고 있다.",
+      "sourceLink": "https://www.newsis.com/view/NISX20261010_0003820389",
+      "sourceDate": "2026-10-10",
+      "imagePrompt": "Empty diplomatic conference room with national flags on stands, classified folders on a polished table, muted institutional lighting, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-11 아침 브리핑\n\n1. 대구 마트 천장 붕괴, 36명 부상\n2. 파나마 규모 7.6 강진, 쓰나미 경보\n3. LH 행복주택 현장, 경고에도 부실 반복\n4. 노벨평화상에 인권운동가 나비 필레이\n5. 한미 정보 신뢰 논란, 국정원 비자도 지연\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
