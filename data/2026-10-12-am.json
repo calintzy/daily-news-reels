@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-12",
+  "slot": "am",
+  "hookLine": "사망 12명, 미국은 아직 결정 못 했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "후티 공격",
+      "title": "사우디 리야드공항 후티 공격, 12명 사망",
+      "summary": "예멘 후티 반군이 사우디아라비아 리야드공항을 공격해 12명이 사망하고 309명이 부상했습니다. 미국은 군사 개입 검토를 언급했습니다.",
+      "narration": "사우디에서 12명이 숨지고 309명이 다쳤습니다.",
+      "sourceTitle": "사우디 리야드공항 피격, 사망 12명·부상 309명…美 '개입 검토'(종합2보)",
+      "sourceDesc": "예멘 후티 반군이 사우디아라비아 리야드공항을 공격해 12명이 사망하고 309명이 부상했다. 미국은 후티에 대한 군사 개입 검토를 언급했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610110832559124",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Photojournalistic exterior view of a large international airport terminal building against a hazy smoke-tinged sky, emergency response vehicles silhouetted in the distance, shattered glass and debris scattered on tarmac, documentary style, tense dramatic atmosphere, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "사건·사고",
+      "kicker": "장모 살해 검거",
+      "title": "장모 살해·아내 납치 20대, 양양서 검거",
+      "summary": "장모를 살해하고 아내를 납치해 달아난 20대 남성이 강원 양양 야산에서 긴급체포됐습니다. 납치된 아내는 무사히 구조됐습니다.",
+      "sourceTitle": "장모 살해·아내 납치 혐의 20대 남성…양양 야산서 긴급체포",
+      "sourceDesc": "서울 송파구에서 장모를 흉기로 살해하고 아내를 차량으로 납치해 도주한 20대 남성이 강원 양양군 야산에서 신고 7시간 만에 긴급체포됐다. 납치된 아내는 경미한 부상으로 무사히 구조됐다.",
+      "sourceLink": "https://www.fnnews.com/news/202610111357352207",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Photojournalism close-up of yellow police crime scene tape stretched between trees in a forested mountainous area, autumn foliage in background, low-angle documentary style, overcast sky, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사건·사고",
+      "kicker": "붕괴 합동감식",
+      "title": "대구 상가천장 붕괴 합동감식, 구조물 노후 가능성",
+      "summary": "대구 상가에서 발생한 천장 구조물 붕괴 사고 합동감식에서 구조물 노후 가능성이 제기됐습니다. 사고로 38명이 부상을 입었으며 당국이 원인을 조사 중입니다.",
+      "sourceTitle": "'대구 상가천장 붕괴' 구조물 노후 가능성",
+      "sourceDesc": "대구 관음동 상가에서 발생한 천장 구조물 붕괴 사고 합동감식 결과 구조물 노후 가능성이 제기됐다. 사고로 38명이 부상을 입었으며 당국이 정확한 원인을 조사 중이다.",
+      "sourceLink": "https://www.fnnews.com/news/202610111846099980",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Photojournalism wide-angle interior view of a commercial building hall with collapsed ceiling debris and broken metal support frames scattered across tiled flooring, emergency police tape visible in foreground, documentary style, harsh overhead lighting casting long shadows, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "개인정보 유출",
+      "title": "서울대, 6년간 해킹 28차례…개인정보 1132건 유출",
+      "summary": "서울대학교가 6년간 28차례 해킹을 당해 개인정보 1132건이 유출됐습니다. 대학 측은 재발 방지 대책 마련에 나서겠다고 밝혔습니다.",
+      "sourceTitle": "서울대, 6년간 28차례 해킹에 뚫렸다…개인정보 1132건 유출",
+      "sourceDesc": "서울대학교가 지난 6년간 총 28차례의 해킹 공격을 받아 개인정보 1132건이 유출된 것으로 확인됐다. 대학 측은 재발 방지 대책을 마련하겠다고 밝혔다.",
+      "sourceLink": "https://www.fnnews.com/news/202610112034024863",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Photojournalism close-up of illuminated server rack equipment in a dim data center, blue and green indicator lights blinking on hardware panels, digital security atmosphere, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "국감 2주차",
+      "title": "국감 2주차, 한은·공수처·부동산 도마 위",
+      "summary": "국회 국정감사 2주차가 시작되면서 한은 금리, 공수처, 서울 부동산 등이 주요 검증 대상으로 올랐습니다. 여야는 각 쟁점에 집중 검증에 나섰습니다.",
+      "sourceTitle": "국감 2주차 돌입…한은 금리·공수처·서울 부동산 '검증대'",
+      "sourceDesc": "국회 국정감사 2주차가 시작되면서 한국은행 기준금리 정책, 공수처 운영, 서울 부동산 등이 주요 검증 대상으로 올랐다. 여야는 각 쟁점에 집중 검증에 돌입했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610111136066770",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Photojournalism interior view of an empty legislative assembly committee room with rows of wooden seats and microphones arranged on long conference tables, formal overhead fluorescent lighting, Korean government building aesthetic, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-12 아침 브리핑\n\n1. 사우디 리야드공항 후티 공격, 12명 사망\n2. 장모 살해·아내 납치 20대, 양양서 검거\n3. 대구 상가천장 붕괴 합동감식, 구조물 노후 가능성\n4. 서울대, 6년간 해킹 28차례…개인정보 1132건 유출\n5. 국감 2주차, 한은·공수처·부동산 도마 위\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #속보 #국제뉴스 #국정감사\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail", "googleNews": "fail"},
+    "signalHits": []
+  }
+}
