@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-11",
+  "slot": "pm",
+  "hookLine": "사직서 위조한 원장, 처벌이 정직 2개월입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "솜방망이 징계",
+      "title": "고열 교사 사망 후 원장 정직 2개월",
+      "summary": "경기도교육청이 부천 사립유치원 원장 A씨에게 정직 2개월을 의결했습니다. 고열 속 출근하다 숨진 교사의 사직서를 위조한 행위가 성실 의무 위반으로 판단됐습니다.",
+      "narration": "고열 교사 숨진 뒤, 원장은 정직 2개월입니다.",
+      "sourceTitle": "고열 속 출근 교사 숨지자 사직서 위조 원장 '정직 2개월'",
+      "sourceDesc": "경기도교육청은 8월 징계위원회를 열어 부천의 한 사립유치원 원장 A씨에 대해 정직 2개월을 의결했다. 사직원을 위조해 행사하고 복무 관리 업무를 소홀히 한 행위가 국가공무원법상 성실 의무를 위반했다고 판단했다.",
+      "sourceLink": "https://www.kyeonggi.com/article/20261011580038",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Empty kindergarten classroom with a vacant teacher's desk under harsh fluorescent lighting, wilted flowers in a small vase, children's drawings pinned to the wall, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "중수청 내분",
+      "title": "임은정 감찰 지시, 중수청 내분 불거져",
+      "summary": "윤호중 행안장관이 임은정 광주지방중수청장의 감찰을 지시했습니다. 김지용 후보자 공개 비판이 발단으로, 중수청법에 근거한 첫 감독권 행사입니다.",
+      "sourceTitle": "윤호중 행안장관, '김지용 반대' 임은정 감찰 지시…범여권 파열음에 중수청 내부 단속",
+      "sourceDesc": "행정안전부 장관 윤호중이 11일 임은정 광주지방중수청장에 대한 감찰을 중수청에 지시했다. 임 청장이 김지용 중수청장 후보자를 공개 비판해 온 데 따른 조치로, 중수청법에 근거한 첫 감독권 행사로 평가된다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610111626001",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Institutional government office interior with empty chairs around a polished conference table, official documents and ministerial nameplates, severe overhead lighting, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "LH 국감",
+      "title": "LH 사장, 분사·파업·대출 규제 속 첫 국감",
+      "summary": "이성훈 LH 사장이 12일 국토위 국정감사에 처음 출석합니다. 분사 논란, 총파업 위기, 대출규제 발언이 주요 쟁점으로 떠올랐습니다.",
+      "sourceTitle": "분사·총파업에 대출규제 발언까지…이성훈 LH 사장 첫 국감 '시험대'",
+      "sourceDesc": "이성훈 LH 사장이 첫 국정감사를 맞는다. 분사, 총파업, 대출규제 발언이 현안으로 부상한 가운데 국토위는 12일 LH 등 국토교통부 산하기관에 대한 국정감사를 실시한다.",
+      "sourceLink": "https://www.mt.co.kr/estate/2026/10/11/2026101109214886101",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Large public housing development construction site at dusk, tower cranes silhouetted against overcast sky, inspection notice signs on concrete barriers, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "미 민주당 변화",
+      "title": "맘다니 열풍, 미 민주당 자금 흐름 바뀐다",
+      "summary": "맘다니의 부상을 계기로 젊은 후원자들이 진보 후보에게 거액을 베팅하는 현상이 확산되고 있습니다. 미국 민주당 내 자금 흐름이 바뀌고 있다는 분석입니다.",
+      "sourceTitle": "맘다니가 바꾼 민주당 '돈의 흐름'···젊은 후원자들, 진보 후보에 거액 베팅",
+      "sourceDesc": "맘다니의 부상을 계기로 젊은 후원자들이 진보 후보들에게 거액을 베팅하는 현상이 확산되고 있다. 미국 민주당 내 자금 흐름이 바뀌고 있다는 분석이다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610111708001",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Campaign donation boxes and political yard signs on an empty city sidewalk at sunset, shallow depth of field with urban backdrop, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "주택 공급",
+      "title": "이재명 '주택 공급 조만간 정상화'",
+      "summary": "이재명 대통령이 서울·수도권 인허가 공백으로 주택 공급에 차질이 있었지만 조만간 정상화된다고 밝혔습니다. 대통령은 SNS를 통해 이 입장을 전달했습니다.",
+      "sourceTitle": "李대통령 주택 공급 조만간 정상화",
+      "sourceDesc": "이재명 대통령이 지난 3년간의 서울·수도권 인허가 공백 때문에 주택 공급에 일부 차질이 발생했다면서도 조만간 주택 공급이 정상화된다고 강조했다. 이 대통령은 자신의 SNS에 이 입장을 밝혔다.",
+      "sourceLink": "https://hankyung.com/article/2026101141977",
+      "sourceDate": "2026-10-11",
+      "imagePrompt": "Rows of apartment tower cranes on a Seoul urban horizon at midday, construction scaffolding on multiple high-rise buildings, hazy blue sky, no people, no text, documentary photojournalism style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-11 저녁 브리핑\n\n1. 고열 교사 사망 후 원장 정직 2개월\n2. 임은정 감찰 지시, 중수청 내분 불거져\n3. LH 사장, 분사·파업·대출 규제 속 첫 국감\n4. 맘다니 열풍, 미 민주당 자금 흐름 바뀐다\n5. 이재명 '주택 공급 조만간 정상화'\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
