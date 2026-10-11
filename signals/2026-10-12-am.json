@@ -1,0 +1,505 @@
+{
+  "stem": "2026-10-12-am",
+  "collectedAt": "2026-10-12T05:13:26+09:00",
+  "sources": {
+    "news": "ok",
+    "trends": "ok",
+    "nate": "ok"
+  },
+  "news": [
+    {
+      "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
+      "pubDate": "2026-10-12T01:10:00+09:00"
+    },
+    {
+      "title": "[속보]트럼프 “러·우크라, 에너지 휴전 합의”…구체적 범위·기간은 미공개",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LNVpNVUJsdEY0bXhfb0dIbDhRNVlyY3M5R0NPWDZTcnBSZWdKN2ZkQzlXUVhnVnBYbktpT2VSTmFydjdDblZHeGNXYkVSZXZ1azd1YVF5YVB4Z9IBX0FVX3lxTFBjRjBDNDlsTzROSnJPR25OR28yNS1HWnB4N0wtWTdNOC1oX2M4OF9NTUlDTlpxbW9WX3BFZUdjcHRPX2o4SnlPQnNHckV0eG1tS2xHVmRfQXRWRW85cXRB?oc=5",
+      "pubDate": "2026-10-11T23:36:00+09:00"
+    },
+    {
+      "title": "중수청 출범 9일만 임은정 광주청장 감찰 지시…기강 세우기 포석",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43SmZFRW9qYVl1bk9qWkIzbnFPS0o5emgxVzE5aGhQdDBaTnA3bGM1NEZPUDVpdE5sTWd5OWFsUFZRVkF5U0IzYlBrUTZqZTRsSm52UEhBSU5WMDDSAWBBVV95cUxPLU45aW1ZTDhYN2tzdGlJdXl6LUpHaG1RYlY0RERQVWtjWHdMX0tmXzRpbGZNdkRna2tlZWFtdzJOTjRTM3luREkzd3A5dnI5X0FreG1oOXdXUlhONU56Ujk?oc=5",
+      "pubDate": "2026-10-11T16:49:40+09:00"
+    },
+    {
+      "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
+      "pubDate": "2026-10-11T21:16:44+09:00"
+    },
+    {
+      "title": "오늘 중부·경북 내륙 소나기…내일부터 추워져",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yTGY4RzA0empILXZBa0R5WGpqUlJlUEJNcDRVTUZyZEFRTnkyamNSd3dmQ2JqQURWMURfazdMLVhaYW1OSEdPblg5TmxEVWFBY0h3dmdieThtNWs?oc=5",
+      "pubDate": "2026-10-12T00:06:00+09:00"
+    },
+    {
+      "title": "주진우 ’황제골프’ 주장에 靑 “이 대통령, 태릉서 ’대구사고’ 신속 수습 지시“",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14bTlGQlQydktMNldYcDh6MnVVc3pNdS10dlJrTVoyNmlvQVNURnZlRk5GOTM3SklNY2o5M1FyLS1tNUY2YUhsek12RFhZRXhHNzJSQU55M1pGNmI1d1NjNmo1ZlNpeVU?oc=5",
+      "pubDate": "2026-10-11T17:03:00+09:00"
+    },
+    {
+      "title": "차에서 내린 취객이 ‘빠직’···또 파손된 김성한 전 해태 타이거즈 선수 조형물, 이번엔 발목만 남았다",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSTjlJenliMHd1Y1ltOU0wZnU4RmV5VEZIWHJvZGZkVnNqNlhLV01hVm1PMkUyXzJTR0puRklna19QQWZKRkhOelRxV2lFWkdWODRicU54b1ZhZ9IBX0FVX3lxTE9kX2dvZDFLTFZzY2R2aWFrQUo0OVU3V0lYSTV4cll2ZjdKNFBvTXY1M2ZDR2pLU2F2d0VYYzNKWkVnemIzc3FhdzBrMTJiOG5GMHYxY1RGeXFUb0Rrcm5F?oc=5",
+      "pubDate": "2026-10-11T19:19:00+09:00"
+    },
+    {
+      "title": "ICC 출신 노벨평화상에… 트럼프, 추가 제재 ‘뒤끝’",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMN042Wi1fNXZDRGdPbUJFSFRLOWIwMlo4QVJzdkdSdVF5SUVsbVdlblZNUWwyVVBoZ2hmZDRISXVKYURvbFVTTjNZaExMUDVmcURLUktFa2otSzN2NDNvenFNZFhtYURrbDlKNExiYlNNcmfSAWZBVV95cUxQWW5VekFVSldSSEhHa0JUNUwzWEFGLTZoZzV5MkVzOHBrVHRCTXhWNGh0RVFUMTlxZ1BSVy1ORW40czJ2Y2M0WW5YcU5UWXk4bXlqMU1uWC1ZZDBqaEphalNOc2pmdmc?oc=5",
+      "pubDate": "2026-10-12T04:30:00+09:00"
+    },
+    {
+      "title": "레오 14세 교황 폐 결절 발견…\"이번 주 제거 수술 받아\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Xa2VIQlBNZ0ZDU05WZnR4Rko4WE11ZlRvbjRVUVZnTmd5ckZKdXFPcUt1RFlabEZMM1o4Y1NoNGlSQmRzY1Vra3hGSkkxanprWlBR?oc=5",
+      "pubDate": "2026-10-11T19:54:42+09:00"
+    },
+    {
+      "title": "네팔, 또 다시 산사태로 홍수 발생···최소 5명 실종",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WQWlvUnFabkhyT1dQMXJlc2I2LURCN2s2TmJFYmRja1lsNW45UWhhdjE3UzEyc3RNLTY1ODRDX0lURDBGeHF4MTQtdklDUlQxRG9JZ1h3c19xd9IBX0FVX3lxTE11QjJZWDIyNS1NNnNLQjZnZkUyVURKZ1ZfNUNwQklQZkhyaG5Zd0kwVDA1R1pGRHd3bXJ0TjM4N05RUWxXTU5hbU5GV19Fbkl2aEVUbks3QTZ3YnduTC13?oc=5",
+      "pubDate": "2026-10-11T21:46:00+09:00"
+    },
+    {
+      "title": "SK쉴더스 \"아르텍스, 기존 공격 고도화\"...API 보안 대응책 제시",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JdVlOYk5ESHJVVHNKOFpCM2NwbUpSbHdEb2hSVDBoeUJiV1RGOFJ0bjJwaVRnNVhmLVNQQTdFYzlvYUtxMVNRN0ZqMm9oVzVTbzBzaGR3?oc=5",
+      "pubDate": "2026-10-11T21:05:06+09:00"
+    },
+    {
+      "title": "소상공인 \"손실보상\" 쿠팡이츠 \"취소주문 100% 보상\"(종합)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaGphcFVXWUllQk04ZndLd25uTThoWFZTUWpQZ1RqNnIzQTNkYjBKS21CY0tnTjZsXzVPSVdWZDUzNVRUUXZxU000SDVuVXU0bzlaRlFtQm8xVnfSAWBBVV95cUxOaUViemJxcWxqRzdIcmF4ZkkxZG5oWTYtRlptQ19jU29LZVpBd0tIRVJTRUViRjVTRThUdTVCY3BZOGhQYUpITE9YS3hZVEtGLU9mWk9fM25PSm83VG9tR0U?oc=5",
+      "pubDate": "2026-10-11T16:55:43+09:00"
+    },
+    {
+      "title": "호르무즈 통과하던 유조선 한 척 피격...선원들은 무사",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MWZ6eHVVYmx1cFo3VWhWQ0VnYS1ON05GYk9WRWNQQkVvVDR0NVZybVh4aDVuS0FmVzVPN2hTZnQxU0tueFhGWW5MazJjd2licXhYS0t1QTdGRXNOVWc?oc=5",
+      "pubDate": "2026-10-11T22:59:00+09:00"
+    },
+    {
+      "title": "삼성전자 외국인 지분율 금융위기 수준 '뚝'…최대 실적에도 17년 만에 최저",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0NVZrWnhQSTJ3VGkzd3R5WDlWUVJiSnkxa05VS0hLOXRNR2lmcUV5RVczTzVKNGUtSHpOekhGc0dqZ0xuYnA2TENBZlBkdw?oc=5",
+      "pubDate": "2026-10-11T15:44:20+09:00"
+    },
+    {
+      "title": "소니는 플레이스테이션 6 콘솔용 완전 터치스크린 컨트롤러에 대한 특허를 출원했습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXNjOUV0OVN5SDNNM3RiaEd2eTJ1Z2ItNktjb1dpSmwzNjA2WldqS3ZJNTR2TUN2OXp1UW91RDBpdFd6c053UnFWV280ZTJLVnpqQnJhSjExLWNiU1lwTVpJMi1FVHZybkNTc0ljVjdmQklVbS1TNnFLelZyWUpWTmxDMFJCcldLamw5b1JQWURJdEZJaUhyM3JTVkg5dzVYVlBIQXhGTndObGJkbnBkSWJn?oc=5",
+      "pubDate": "2026-10-12T04:11:35+09:00"
+    },
+    {
+      "title": "로저 주니어, 철권8에 11월 17일 추가...한마 유지로 모델링도 공개",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WU0dJYWZYM2Jodk1pZV9FUVA4MnZoZGVpdmdvWXdRdFJCbjlVUHRSb2RHS0VyZzQyaTFFSlMzRDJWcU5ZSV9sWkxmV2VvdE1ZS3V1OFl6VFdic2JpTXc?oc=5",
+      "pubDate": "2026-10-11T23:31:34+09:00"
+    },
+    {
+      "title": "예정화, 핑크빛 애슬레저룩으로 뽐낸 명품 복근… 관리 비법은",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0Nk85VnNkNUt5U1V6RDJybEJtU0I2VGVIWXN4ZWs1dC1FM2FOa0Z1aFdaZjR2OE9FN1NDNm1JUm5vZlhLUW9iX1dfVWE2eUI5R2NBaGVXaS0tb0dxdjRtX0lUcnjSAXhBVV95cUxOcjl1cUNjYV9OWXRfNUJyb1E3MHc4WThMa1pSdy1RaUNYSk85elZkZjBqSVpTaFAzOENmb3dnUjVILWpwR0cwZXV1WXc2WTEwdHFRNjRPVHBPSVU3MW8xNExkVm9WSURYc25DczREWjFVZG5lMldrSU8?oc=5",
+      "pubDate": "2026-10-11T16:18:48+09:00"
+    },
+    {
+      "title": "열애설도 없이 깜짝 결혼..김용지, 김고은·배정남까지 총출동한 한옥 웨딩 - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmFnZksyS0JmRkYtaERPM1JlU0RGbnVEdGhtR19HUXJlamt6eFdvLXd1aU02OUJTMW1JblFNci1WTXZmYU8yYWhNVGxoSFM0bE5IWUNPMEFIT0I0NGtmZU1PMFkzQ0pBeGtncmZaaVhyR0hNNFJXNE5TamxNR1RGQmhDaFRNVFgtZXhPaHhNdm00WWPSAacBQVVfeXFMT2VNakRTNWs0Qk9fSHFqQlJmOHRDclNwSThqWjhYWnhoQ0RPOERXTUZ6cEVZc3FkOGE0dXd2NkJRNU9LcXduel9MMEUyOTlmNENqd2JabTBWOHlRVFV4WjdUSE9mellhUUVMUFBwQjczSWNreVVnM1lBTGgybkhWa0xQbHpfV2dVOHYzMjRGVDVvQ1hLNzFYYTBnaENVMm1ENmpDV3hfQmM?oc=5",
+      "pubDate": "2026-10-11T22:22:00+09:00"
+    },
+    {
+      "title": "'59세' 김희애, 외모 품평 논란 정면 돌파…초근접 셀카에 누리꾼 '감탄' - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0hQMEtXMHB3SVJJZWdIcWhxbzdOOGd5anloRUdnTFUtX29pVW1XN3pNajlwREsyc1pmR2h2enhBdF81azFKZzNvOFhjSlQ1OWRPa0FtN2c3M1p0RlVhMUhWSlpYejNPU2c3a3JuelZuNHFlWE91aDRVWEh6UkY2T19MeGVGSXFYdWtkMzBOLXo3blXSAacBQVVfeXFMTnlkN0kwS3hETGRPcm5GVGoxaW5xRDY2N04zWGZlOXlpcjcxbVRaUzN3V3Niakw4LXFqWHVsRmFhbjQ4N1Z4YzVvTG10el8tMW9LZzFNOGktbmNsclMwbWhjNnRoZEVoQzhaMU96aGpHSC1xa3gyRHdlLUJMS1YzN25tWXlwZXFncUxPZFdYaFd4ZGlEejJkWWcyc2d5SnRDVkdkUC02ZzQ?oc=5",
+      "pubDate": "2026-10-11T23:34:00+09:00"
+    },
+    {
+      "title": "김남길, 팬미팅 5시간 40분 진행한 이유…“팬들 만날 기회 적어, 추억 쌓고 싶었다”",
+      "source": "제이앤엠뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ya3JleWUzcVc3R0NIT29HblhEY0oyMXBxcktPdGxjQlBLUFBOWFUyMGNnc1ZjenJHRWROUy1IOVNPUGdMd25GalQ3UVlZZm9RZ1dsSFlUNVV5SjBZV1BDaA?oc=5",
+      "pubDate": "2026-10-11T23:37:51+09:00"
+    },
+    {
+      "title": "갈 길 바쁜 KIA, 롯데에 덜미…준PO 직행 티켓은 12일 KIA-LG 최종전서",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DaEVMSjZjemlyYTJveG5Ebk9paTE3NjRJSFN3WmJBTGlZWC1sbWpMYy1PU2ZnSlcxX25kWTVSYVhQN3c4ekc4SV9tOU9ydkc0cTh3QVFlVnhVS29ZdXl4cktnV0s3MVZobDd5OWZJdWlUeUpl0gFmQVVfeXFMTzl6RWpkOGx6aWdLcDYyMTAxSWQ4cXV3d0VBbXRybElmQ2pYNHhsWC0ycGoyWFZlZ3lDeWRaVnJvZ3JSOE1CbkNGMERaQ3l0bDFvYXNQTDlLVWZnZk16MDk1WnBYUk9B?oc=5",
+      "pubDate": "2026-10-11T19:40:00+09:00"
+    },
+    {
+      "title": "\"218일→그리고 29경기\" '꼴찌' 광주FC 눈물의 승리…'야고 득점 선두' 울산 HD 4-3 제압",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnJDczNpeUxhMElScHc5M0s4M2syRmVsM3JBcGhrT1h4aGFaeTJOdl9GXzYzbzB3MTZnclVwc2dEZXllNTFrSEhjX3FfVWRoNjRyeVNVZTJxVE5IdHRsRnZyTkZGM29JaUs5SUlEN08telBtN1ZvS2gyQU5jMGhxX1NvVQ?oc=5",
+      "pubDate": "2026-10-11T19:58:00+09:00"
+    },
+    {
+      "title": "[박신자컵] 김단비 더블더블에도 우리은행 71-78 석패...후지쯔 3연패 달성",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00em1QVEkzbWhQOUdzdXpkV25ZWFFIVE81UTI3SFdGV3lfdnNpanNjLWtHQlNNVWFjZWJVMlU4UlJEZ3lOVlVEQ1BjSFZkVUJHUkpNQnN2VkVvODRE?oc=5",
+      "pubDate": "2026-10-11T21:26:00+09:00"
+    },
+    {
+      "title": "“금메달 따면 군 면제” 옛말 되나···마일리지 적립부터 입영 연기 등 대안 부상",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MFp4cy1qMGFnNHlVWkF3ZWUwVm1WdGpuQmJVNk5IY01XZjR0NjJ3LVBtVnoySmlOX2N2MlkxZHAtZjhtMHFMM2lUUVRWMjNxR1ZOLUlUdDhFUdIBX0FVX3lxTE5ZVVVzcERFVmVTcDJYNE9EX3BBRGQxS051WGVxaDFHZlJ6ZzlzaFV6M0JlN0F0Q3BIU1pfSnRPbklzNHRULTFBR24yb2o4dGFpWUdRcEtzajRmZHpuZ1dJ?oc=5",
+      "pubDate": "2026-10-11T15:23:00+09:00"
+    },
+    {
+      "title": "대장암 치료의 모든 것",
+      "source": "스포츠경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4dU51bGtacHlLUnRiUUFscDBBcFZIR2NxS0xhUnBQRk82QmtKaUEtNE5IMmZkSlpWcTZoWWxDc0VsUURFUGlkUVAxRHV4T2V4c0NkeDVKLTktRDhZOVHSAWNBVV95cUxQR3NoMmpmWWpDVktXMEVETDhxLW5Pd1FZSDg1d3VyX0RmQkstYk5UTDFfZ1M2bmpxUnFiSG5DMkJOX29kTkJDUlJiQ04xMEVkNmVfMnFoYlA2VHc3amxaUEMwekE?oc=5",
+      "pubDate": "2026-10-11T20:06:00+09:00"
+    },
+    {
+      "title": "뇌 자극하는 ‘투명 OLED 안경’ 개발, 알츠하이머 예방·관리 길 열어",
+      "source": "스포츠경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yaWxhVEtFVHdzVUY3SkVqSnFmcEN0U3RDVUE2N1Rpa3FsMjliaHoweXFHUms4Q1A0OTNXamNZZlplZWFRXzEyUW1VeGY1ZnZUUlo1OGRXUVBETi1Ca3fSAWNBVV95cUxPRDBjTlVzcEJwUWNzRDhHTHBXdllnUWkxRnhLVUZkRUlXdmM3aEJMYi1PSE8wYXFLbVFUZS1aNlF2OUlJa3Y1SURJa3dxZW5zYjZJSEliZzVSaUlLNU9wemwyLWs?oc=5",
+      "pubDate": "2026-10-11T20:27:00+09:00"
+    }
+  ],
+  "trends": [
+    {
+      "term": "김지원",
+      "pubDate": "2026-10-12T03:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "'닥터X' 김지원, 신드롬 시작...2회 14.9%로 土시청률 전체 1위 [종합] - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/11/2026101108147218523",
+          "source": "머니투데이"
+        },
+        {
+          "title": "이진희, '김지원 지원사격' 마취과 교수 눈도장 쾅 (‘닥터X’) - 조선비즈",
+          "snippet": "",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/11/G4ZTQYZYMNTDQNBZMUYDKZLCMM/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "닥터X : 하얀 마피아의 시대 : [3회 예고] 김지원, 정체 밝혀지고 다시 겪는 해고 위기",
+          "snippet": "",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC482010535?div=dramasectionmain_clip",
+          "source": "programs.sbs.co.kr"
+        }
+      ]
+    },
+    {
+      "term": "황희찬",
+      "pubDate": "2026-10-12T02:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "‘96 라인’ 3인방, 진짜 원하는 게 무엇인가? 대표팀 은퇴로 원하는 바를 흥정했다면 큰 오산이다…‘태극마크’는 결코 흥정, 거래의 대상이 될 수 없다",
+          "snippet": "",
+          "url": "https://www.segye.com/newsView/20261009502745",
+          "source": "세계일보"
+        },
+        {
+          "title": "[이원홍의 스포트라이트]철없는 언행, 자중지란… 혼돈의 한국 축구",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261011/134822048/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "\"김민재 은퇴해라\"…뮌헨 SNS에 비난 댓글 잇달아",
+          "snippet": "",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261011155212ef5",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "term": "ลิเวอร์พูล พบ แมนซิตี",
+      "pubDate": "2026-10-12T00:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "ถ่ายทอดสดฟุตบอล: ลิเวอร์พูล พบ แมนฯ ซิตี้: พรีเมียร์ลีก รอบที่ 6",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/th/truc-tiep-bong-da-liverpool-vs-man-city-vong-6-ngoai-hang-anh",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "อิราโอลา เผยมุมมองเรื่องใบแดง - ยังภูมิใจในลูกทีมแม้พ่าย แมนฯ ซิตี้ | Khaosod",
+          "snippet": "",
+          "url": "https://today.line.me/th/v3/article/wJv9qEa",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "เปิดที่มา \"กล้วยเป่าลม\" สัญลักษณ์คู่ใจแฟนแมนซิตี้ บุกถอนขนหงส์คาแอนฟิลด์",
+          "snippet": "",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/110594/",
+          "source": "Siamsport"
+        }
+      ]
+    },
+    {
+      "term": "liverpool đấu với man city",
+      "pubDate": "2026-10-12T00:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "Liverpool 0-3 Man City: \"The Citizens\" giành chiến thắng dễ dàng trong thế hơn người",
+          "snippet": "",
+          "url": "https://yeuthethao.net.vn/liverpool-0-3-man-city-the-citizens-gianh-chien-thang-de-dang-trong-the-hon-nguoi-d898222.html",
+          "source": "yeuthethao.net.vn"
+        },
+        {
+          "title": "Carragher thúc giục Iraola biến Anfield thành 'vũ khí' tinh thần",
+          "snippet": "",
+          "url": "https://bongda.com.vn/carragher-thuc-giuc-iraola-bien-anfield-thanh-vu-khi-tinh-than-d850662.html",
+          "source": "bongda.com.vn"
+        },
+        {
+          "title": "Liverpool 0-1 Man City: Haaland tỏa sáng",
+          "snippet": "",
+          "url": "https://lifestyle.zingnews.vn/liverpool-0-0-man-city-gravenberch-bi-duoi-khoi-san-post1688942.html",
+          "source": "Znews"
+        }
+      ]
+    },
+    {
+      "term": "fotmob",
+      "pubDate": "2026-10-12T00:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "'Not a football country!' - Olivier Giroud slams MLS after abrupt LAFC exit",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/not-football-country-olivier-giroud-101156408.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "'USA is not a football country', says Giroud",
+          "snippet": "",
+          "url": "https://www.fotmob.com/ro/news/1c73r2ub9a41j1n70plhn44939-usa-is-not-football-country-says-giroud",
+          "source": "FotMob"
+        },
+        {
+          "title": "'The US is Not a Football Country' - Olivier Giroud Slams MLS After Spell at LAFC",
+          "snippet": "",
+          "url": "https://www.givemesport.com/olivier-giroud-slams-mls-lafc-united-states-not-football-country/",
+          "source": "GiveMeSport"
+        }
+      ]
+    },
+    {
+      "term": "김성한",
+      "pubDate": "2026-10-11T23:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "차에서 내린 취객이 ‘빠직’···또 파손된 김성한 전 해태 타이거즈 선수 조형물, 이번엔 발목만 남았다",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202610111919001",
+          "source": "경향신문"
+        },
+        {
+          "title": "취객이 또 부순 김성한 조형물…광주 용봉동 거리엔 발목만 남았다",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261011_0003821104",
+          "source": "뉴시스"
+        },
+        {
+          "title": "김성한 전 해태 선수 조형물 또 훼손… 경찰 수사",
+          "snippet": "",
+          "url": "https://www.kyeonggi.com/article/20261011580321",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "term": "liverpool vs man city",
+      "pubDate": "2026-10-11T23:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "Man City cruise to statement win over 10-man Liverpool",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cr3el8xwnnxkt",
+          "source": "BBC"
+        },
+        {
+          "title": "Confirmed Liverpool line-up v Manchester City",
+          "snippet": "",
+          "url": "https://www.liverpoolfc.com/news/confirmed-liverpool-line-up-v-manchester-city",
+          "source": "Liverpool FC"
+        },
+        {
+          "title": "Liverpool 0-3 Man City highlights",
+          "snippet": "",
+          "url": "https://www.skysports.com/football/live-blog/13592734/liverpool-vs-man-city-live-premier-league-score-updates-news-prediction-lineups-and-how-to-watch-or-stream",
+          "source": "Sky Sports"
+        }
+      ]
+    },
+    {
+      "term": "청년",
+      "pubDate": "2026-10-11T23:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "정부는 안정적인 계란 공급을 위해 신선란 수입선을 다변화해 왔습니다.",
+          "snippet": "",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973280",
+          "source": "정책브리핑"
+        },
+        {
+          "title": "'연 수익률 19.4%' 청년미래적금, 출생연도 관계없이 신청",
+          "snippet": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01433366645611936&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "매월 50만원 넣고 2255만원…내일부터 딱 닷새간 '연 최대 19.4% 금리' 적금 가입 효과",
+          "snippet": "",
+          "url": "https://www.etnews.com/20261011000093",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "term": "레알 소시에다드 대 데포르티보",
+      "pubDate": "2026-10-11T22:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "레알 소시에다드 대 데포르티보 라 코루나 예측: 방문객들은 하락세를 멈추기로 결정했습니다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-sociedad-vs-deportivo-la-coruna-khach-quyet-chan-da-sa-sut",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "라리가 레알 소시에다드 대 데포르티보 경기 예측",
+          "snippet": "",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-real-sociedad-vs-deportivo-tai-la-liga-1781415.ldo",
+          "source": "Laodong.vn"
+        }
+      ]
+    },
+    {
+      "term": "india vs west indies",
+      "pubDate": "2026-10-11T22:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "India and West Indies head to Indore for potential run-fest with series level",
+          "snippet": "",
+          "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-3rd-t20i-1529232/match-preview",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "India vs. West Indies live score, win probability, chances of victory for 3rd T20I in Indore",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/india-vs-west-indies-live-123001904.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "India Smash 87 Runs in Powerplay Against West Indies",
+          "snippet": "",
+          "url": "https://suaragarut.id/en/india-powerplay-boundary-blitz-indore",
+          "source": "SuaraGarut.ID"
+        }
+      ]
+    }
+  ],
+  "nate": [
+    {
+      "rank": 1,
+      "title": "'안타 맡겨놨나?' 배트 집어던진 최원준, 205안타 치고도 비난 자초…\"...",
+      "link": "https://news.nate.com/view/20261012n00121"
+    },
+    {
+      "rank": 2,
+      "title": "'활동 중단' 조세호, 아내 운영 추정 SNS 근황 공개 \"하루 만에 계폭...",
+      "link": "https://news.nate.com/view/20261011n15971"
+    },
+    {
+      "rank": 3,
+      "title": "'51세 미혼' 송종호, '응답하라 1997' 대박났지만…\"일 끊겨 고깃집 운...",
+      "link": "https://news.nate.com/view/20261011n16158"
+    },
+    {
+      "rank": 4,
+      "title": "\"여보, 내일부터 나오지 말래\"…'수백 명 해고' 피바람 분 美 대형 기...",
+      "link": "https://news.nate.com/view/20261011n13736"
+    },
+    {
+      "rank": 5,
+      "title": "전교 8등 신세경·의대 꿈꾼 걸그룹 멤버…'목동 키즈' 키운 학군지, 3...",
+      "link": "https://news.nate.com/view/20261011n11592"
+    },
+    {
+      "rank": 6,
+      "title": "'구미호뎐' 김용지, 열애설 없이 깜짝 결혼…배정남·김고은도 축하 [MD이...",
+      "link": "https://news.nate.com/view/20261011n15937"
+    },
+    {
+      "rank": 7,
+      "title": "\"오은영 박사 상담료는 수백만원이라는데\"…교수들 '씁쓸'",
+      "link": "https://news.nate.com/view/20261011n08859"
+    },
+    {
+      "rank": 8,
+      "title": "\"일본 여행 예약했는데 어쩌죠\"…'이 병' 환자 7배 폭증하자 학교까지 줄폐...",
+      "link": "https://news.nate.com/view/20261011n16209"
+    },
+    {
+      "rank": 9,
+      "title": "\"손흥민 왕따 시키고 파벌 만들어\"…이강인 SNS '배후설'에 악플 폭주",
+      "link": "https://news.nate.com/view/20261011n15079"
+    },
+    {
+      "rank": 10,
+      "title": "\"주말 잠실 롯데월드몰에 주차했다가…\" 날벼락 맞은 사연",
+      "link": "https://news.nate.com/view/20261011n12393"
+    },
+    {
+      "rank": 11,
+      "title": "\"붕괴 사고 날 대통령 골프 쳤다\"…청와대 \"정치 공방 유감\"",
+      "link": "https://news.nate.com/view/20261011n14132"
+    },
+    {
+      "rank": 12,
+      "title": "장 꺼내 씻는 '부캉이'…연휴에도 식지 않은 인기",
+      "link": "https://news.nate.com/view/20261011n11289"
+    },
+    {
+      "rank": 13,
+      "title": "애슐리만 잘되는 줄 알았는데…매출 2배 뛴 이랜드의 '이곳'",
+      "link": "https://news.nate.com/view/20261011n06183"
+    },
+    {
+      "rank": 14,
+      "title": "\"올해는 검정 패딩 안 입어요\"…요즘 난리 난 겨울옷 [박수림의 트렌딧...",
+      "link": "https://news.nate.com/view/20261011n07396"
+    },
+    {
+      "rank": 15,
+      "title": "\"33살에 50억 모았다\"…삼전닉스 없이 48000% 찍은 종목",
+      "link": "https://news.nate.com/view/20261011n04351"
+    },
+    {
+      "rank": 16,
+      "title": "\"남편이 세상 떠나 예약 바꾸려는데\"…여행사 '잔인한' 요구에 또 울었다",
+      "link": "https://news.nate.com/view/20261011n03204"
+    },
+    {
+      "rank": 17,
+      "title": "\"차가 먼저예요\" 말에 돌아온 건 욕설…잠원동 주차장 '사람 알박기'",
+      "link": "https://news.nate.com/view/20261011n13749"
+    },
+    {
+      "rank": 18,
+      "title": "\"불우이웃 돕는 줄 알았는데\"…의류수거함 70% 이상이 '개인 돈벌이'",
+      "link": "https://news.nate.com/view/20261011n01994"
+    },
+    {
+      "rank": 19,
+      "title": "\"피자헛에서 떡을 샀다\"…3900원 피자설기, 끝까지 맛있을까[먹어보고서]",
+      "link": "https://news.nate.com/view/20261011n03235"
+    },
+    {
+      "rank": 20,
+      "title": "공공장소 상의 탈의 논란…북한산에서도 포착",
+      "link": "https://news.nate.com/view/20261011n10671"
+    }
+  ]
+}
