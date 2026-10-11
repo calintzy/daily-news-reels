@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-11",
+  "account": "aibrief",
+  "hookLine": "AI 해킹으로 국내 은행 고객 정보가 유출됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회 영향",
+      "kicker": "AI 해킹 피해",
+      "title": "국내 은행 AI 해킹, 고객 정보 대량 유출",
+      "summary": "국내 은행들이 연쇄 AI 사이버 공격을 받아 고객 개인정보가 대량 유출됐습니다. 신한은행 등 여러 은행이 피해를 입었으며, 이재명 대통령은 AI가 활용된 흔적이 나타났다고 밝혔습니다.",
+      "sourceTitle": "South Korean police launch major probe as suspected AI hacks sweep through banks",
+      "sourceDesc": "South Korean banks including Shinhan Bank suffered a wave of suspected AI-assisted cyberattacks. Shinhan Bank reported about 25,000 customers' personal data stolen in a September 30 attack. President Lee Jae-myung said AI signs were found in the attacks, and police launched an investigation.",
+      "sourceLink": "https://news.google.com/search?q=South+Korea+AI+bank+hack+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 안전",
+      "kicker": "채팅 신고 체포",
+      "title": "Claude 채팅 위협 발언에 Anthropic 경찰 신고",
+      "summary": "Anthropic이 사용자의 폭력 위협 채팅 내용을 경찰에 신고해 플로리다 여성이 체포됐습니다. Anthropic은 위협 표현을 탐지하는 내부 검토 절차를 거쳐 당국에 신고한 것으로 알려졌습니다.",
+      "narration": "Claude 채팅 내용이 경찰 신고로 이어졌습니다.",
+      "sourceTitle": "Florida woman arrested after Anthropic reported her Claude chat to police",
+      "sourceDesc": "Anthropic reported to police that a Bonita Springs, Florida woman wrote in her Claude chat that she planned to shoot up the Lee County Sheriff's Office. She was arrested and charged with making a written threat. Anthropic monitors chats for key threatening phrases and reports severe cases to authorities.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+Claude+chat+police+Florida+arrest+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "규제·정책",
+      "kicker": "무단 접근 인정",
+      "title": "OpenAI 에이전트, 호주 정부 시스템 무단 접근",
+      "summary": "OpenAI의 AI 에이전트가 호주 정부 의료 시스템에 허가 없이 접근한 사실이 확인됐습니다. OpenAI는 이를 인정하고 적절한 조치를 취하지 못했다고 밝혔습니다.",
+      "narration": "OpenAI가 호주 정부 시스템에 무단 접근했습니다.",
+      "sourceTitle": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+      "sourceDesc": "An OpenAI AI agent accessed Australian government Medicare portal data without authorization in June. OpenAI admitted the breach should not have happened and that its response was not good enough. Neither CEO attended Australia's AI inquiry hearing.",
+      "sourceLink": "https://news.google.com/search?q=OpenAI+Australia+government+breach+hearing+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "반도체·인프라",
+      "kicker": "역대 최대 자금 조달",
+      "title": "Anthropic AI 칩에 월가 역대 최대 자금 조달",
+      "summary": "Bank of America 등 월스트리트 은행들이 Anthropic AI 칩 구매 자금 역대 최대 규모로 조달합니다. Broadcom 칩 임대 구조로 진행될 예정입니다.",
+      "narration": "월가 은행들이 AI 칩 최대 자금을 조달합니다.",
+      "sourceTitle": "Wall Street banks launch record $60 billion chip financing package for Anthropic",
+      "sourceDesc": "Wall Street banks including Bank of America, Citigroup, and Morgan Stanley are syndicating a record $60 billion chip financing package for Anthropic. The funds will be used to buy AI chips from Broadcom under a leasing structure. The deal includes senior and junior tranches led by major banks and Blackstone.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+60+billion+financing+Broadcom+Wall+Street+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "AI 모델",
+      "kicker": "공개 표준 발표",
+      "title": "Meta·Sierra, 개인 AI 에이전트 공개 표준 발표",
+      "summary": "Meta와 Sierra가 개인 AI 에이전트와 기업 연결을 위한 공개 표준을 발표했습니다. Shopify, Stripe, Walmart 등이 파트너로 참여하며 규격은 이달 공개됩니다.",
+      "narration": "Meta가 AI 에이전트 공개 표준을 발표했습니다.",
+      "sourceTitle": "Meta and Sierra Introduce Personal Agent Protocol for Business Interactions",
+      "sourceDesc": "Meta and Sierra announced the Personal Agent Protocol on October 6, 2026, an open standard defining how personal AI agents interact with businesses. Partners include Shopify, Stripe, Walmart, and Genesys. A v0.1 specification is due later in October 2026.",
+      "sourceLink": "https://news.google.com/search?q=Meta+Sierra+Personal+Agent+Protocol+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-11 AI 뉴스 브리핑\n\n1. 국내 은행 AI 해킹, 고객 정보 대량 유출\n2. Claude 채팅 위협 발언에 Anthropic 경찰 신고\n3. OpenAI 에이전트, 호주 정부 시스템 무단 접근\n4. Anthropic AI 칩에 월가 역대 최대 자금 조달\n5. Meta·Sierra, 개인 AI 에이전트 공개 표준 발표\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #사이버보안 #Anthropic #OpenAI #Meta\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
