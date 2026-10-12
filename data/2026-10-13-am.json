@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-13",
+  "slot": "am",
+  "hookLine": "북한이 9일 만에 또 미사일을 쐈습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "탄도미사일 발사",
+      "title": "북한, 9일 만에 탄도미사일 수발 발사…900㎞ 이상 비행",
+      "summary": "북한이 평양 일대에서 동해상으로 탄도미사일 수 발을 발사했습니다. 일부는 900㎞ 이상 비행했으며, 9일 만의 도발로 올해 17번째입니다.",
+      "narration": "북한이 탄도미사일 수발을 쐈습니다.",
+      "sourceTitle": "합참, 北 동해상으로 탄도미사일 수 발 도발…9일만, 올해 17번째",
+      "sourceDesc": "북한이 평양 일대에서 동해상으로 탄도미사일 수 발을 발사했다. 합동참모본부는 일부 미사일이 900㎞ 이상 비행했으며 한미 양국이 정밀분석 중이라고 밝혔다. 지난 3일 이후 9일 만의 도발이다.",
+      "sourceLink": "https://www.fnnews.com/news/202610120936237609",
+      "sourceDate": "2026-10-12",
+      "imagePrompt": "Photojournalism long-exposure shot of a bright missile exhaust trail arcing across a dark night sky above coastal mountain silhouettes, dramatic atmospheric glow, documentary style, tense atmosphere, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "중수청 첫 감찰",
+      "title": "행안장관 지시에 중수청, 임은정 감찰 착수",
+      "summary": "윤호중 행안장관의 지시로 중수청이 임은정 광주중수청장에 대한 감찰에 착수했습니다. 중수청 개청 이후 첫 감찰 사례입니다.",
+      "sourceTitle": "행안장관 지시 하루 만에… 중수청, 임은정 감찰 착수",
+      "sourceDesc": "윤호중 행정안전부 장관이 임은정 광주지방중수청장에 대한 감찰을 지시한 지 하루 만에 중수청이 감찰 절차에 착수했다. 이번 감찰은 중수청 개청 이후 첫 사례로, 결과에 따라 징계 절차로 이어질 수 있다.",
+      "sourceLink": "https://www.fnnews.com/news/202610121817272953",
+      "sourceDate": "2026-10-12",
+      "imagePrompt": "Photojournalism exterior view of a South Korean government ministry building facade with institutional stone architecture, overcast sky, formal bureaucratic atmosphere, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "재수사 검토",
+      "title": "경찰청 국감, 한동훈 딸 의혹 재점화",
+      "summary": "경찰청 국정감사에서 한동훈 의원 딸의 허위 스펙 의혹이 재쟁점화됐습니다. 김종철 경찰청장 직무대행은 새 사실이 드러나면 재수사를 배제하지 않겠다고 밝혔습니다.",
+      "sourceTitle": "[2026 국감] 경찰청장 대행 \"한동훈 딸 의혹, 새 사실 드러나면 재수사 배제 안 해\"",
+      "sourceDesc": "국회 경찰청 국정감사에서 한동훈 무소속 의원 딸의 허위 스펙 의혹 수사가 재쟁점이 됐다. 김종철 경찰청장 직무대행은 새로운 사실이 드러나면 재수사를 배제하지 않겠다고 밝혔다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261012001031",
+      "sourceDate": "2026-10-12",
+      "imagePrompt": "Photojournalism interior view of a government hearing chamber with rows of empty seats and microphones arranged on long curved conference tables, institutional overhead lighting, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "조희대 위증 논란",
+      "title": "조희대 대법원장, 격려금·업추비 논란에 위증 의혹",
+      "summary": "감사원 자료로 조희대 대법원장의 격려금 지급 관여 사실이 확인되면서 국감 위증 논란이 불거졌습니다. 조 원장은 국감에서 격려금·업무추진비에 관여한 적 없다고 답한 바 있습니다.",
+      "sourceTitle": "대법관 제청할 땐 '법과 원칙', 격려금·업추비에는 '몰랐다'는 조희대",
+      "sourceDesc": "조희대 대법원장이 대법관 제청에는 법과 원칙을 강조하면서도 국감에서 격려금·업무추진비 논란에는 몰랐다고 답해 논란이 됐다. 감사원 자료로 격려금 지급 관여 사실이 확인되면서 국감 위증 논란이 불거졌다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610130600161/",
+      "sourceDate": "2026-10-13",
+      "imagePrompt": "Photojournalism interior view of a Supreme Court building hallway with polished marble floors and grand institutional pillars, formal judicial architecture, soft overhead lighting, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "공항 연속 피격",
+      "title": "후티, 사우디 공항 이틀 연속 공격…민간시설 표적 전략",
+      "summary": "후티 반군이 이틀 연속 사우디 리야드 킹칼리드 국제공항을 공격해 민간인 피해가 이어졌습니다. 후티는 사우디의 예멘 공습에 대한 보복이라며 민간 공항 표적 전략을 밝혔습니다.",
+      "sourceTitle": "사우디 리야드 공항 이틀 연속 피격…후티, 민간시설 노리는 이유는",
+      "sourceDesc": "예멘 후티 반군이 이틀 연속 사우디 리야드 킹칼리드 국제공항을 공격해 민간인 피해가 이어졌다. 후티는 사우디가 예멘에 감행한 공습에 대한 보복이라고 주장하며 민간 공항을 표적으로 삼는 이유를 공개했다.",
+      "sourceLink": "https://www.pressian.com/pages/articles/2026101217243119452",
+      "sourceDate": "2026-10-12",
+      "imagePrompt": "Photojournalism exterior wide-angle view of an international airport terminal under a smoke-tinged hazy sky, emergency response equipment visible on the tarmac in the distance, documentary style, crisis atmosphere, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-13 아침 브리핑\n\n1. 북한, 9일 만에 탄도미사일 수발 발사…900㎞ 이상 비행\n2. 행안장관 지시에 중수청, 임은정 감찰 착수\n3. 경찰청 국감, 한동훈 딸 의혹 재점화\n4. 조희대 대법원장, 격려금·업추비 논란에 위증 의혹\n5. 후티, 사우디 공항 이틀 연속 공격…민간시설 표적 전략\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #속보 #북한미사일 #국정감사\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail", "googleNews": "fail"},
+    "signalHits": []
+  }
+}
