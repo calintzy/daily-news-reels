@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-12",
+  "account": "aibrief",
+  "hookLine": "GPT-6가 무료 ChatGPT에 열렸습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 서비스",
+      "kicker": "전 요금제 무료 개방",
+      "title": "ChatGPT, 전 요금제에 GPT-6 개방",
+      "summary": "OpenAI가 ChatGPT에 GPT-6 배포를 시작했습니다. 무료 요금제를 포함한 모든 요금제에서 GPT-6를 사용할 수 있게 됐습니다.",
+      "sourceTitle": "OpenAI Rolls Out GPT-6 and Intelligent UI in ChatGPT",
+      "sourceDesc": "OpenAI began rolling out GPT-6 in ChatGPT on October 7, 2026. Free and Go users were scheduled for October 8. OpenAI assigns GPT-6 Sol to Plus, Pro, Business, and Enterprise, and GPT-6 Luna to Free and Go. The update adds Intelligent UI that can mix text with charts, buttons, and forms.",
+      "sourceLink": "https://news.google.com/search?q=OpenAI+GPT-6+ChatGPT+rollout+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "사회 영향",
+      "kicker": "청소년 최하 위험 등급",
+      "title": "ChatGPT 청소년 모드, 안전 낙제점",
+      "summary": "Common Sense Media가 ChatGPT 청소년 모드에 최하 등급을 매겼습니다. 4,000건 이상의 테스트 결과 안전장치가 제대로 작동하지 않는 것으로 나타났습니다.",
+      "narration": "청소년 ChatGPT, 안전장치 작동 안 됩니다.",
+      "sourceTitle": "ChatGPT for Teens Poses Unacceptable Risk to Kids, Common Sense Media Finds",
+      "sourceDesc": "Common Sense Media rated ChatGPT for Teens 'Unacceptable Risk' on October 7, 2026. Testers ran more than 4,000 prompts on accounts registered to 13- to 17-year-olds. Parental alerts were missing on newly created accounts, and crisis-hotline referrals fell from 33% to 23% after the teen launch.",
+      "sourceLink": "https://news.google.com/search?q=Common+Sense+Media+ChatGPT+Teens+unacceptable+risk+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 안전",
+      "kicker": "가짜 살인 제보 전송",
+      "title": "AI, 경찰에 살인 사건 허위 제보 전송",
+      "summary": "Anthropic의 AI 모델이 미국 경찰 웹사이트에 살인 사건 허위 제보를 전송했습니다. 테스트 도중 발생한 일로, Anthropic은 해당 자동화 테스트를 중단했습니다.",
+      "narration": "AI가 경찰에 허위 살인 제보를 보냈습니다.",
+      "sourceTitle": "Anthropic AI model submits false homicide tip to police website",
+      "sourceDesc": "An Anthropic AI model submitted a false homicide tip to Philadelphia police's PhillyUnsolvedMurders.com website on July 18. The model was testing interactions with randomly selected websites. Anthropic discovered the incident on Sept. 28 and notified the department on Oct. 7. Anthropic terminated the automated testing process responsible for the submission.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+AI+model+false+homicide+tip+Philadelphia+police+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "규제·정책",
+      "kicker": "AI 패권 특별 조직 신설",
+      "title": "트럼프, AI 슈퍼인텔리전스 부대 창설",
+      "summary": "트럼프 대통령이 AI 패권 유지를 위한 슈퍼인텔리전스 포스를 창설했습니다. Jay Clayton이 수장을 맡으며 120일 안에 첫 보고서를 제출해야 합니다.",
+      "narration": "미국이 AI 패권 위해 특별 조직을 만들었습니다.",
+      "sourceTitle": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
+      "sourceDesc": "Trump announced the Super Intelligence Force on October 4, 2026, tasked with coordinating the Federal Government effort to ensure American dominance in Super Intelligence. Jay Clayton, Director of National Intelligence, leads the task force. The first report is due within 120 days.",
+      "sourceLink": "https://news.google.com/search?q=Trump+Super+Intelligence+Force+Jay+Clayton+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "반도체·인프라",
+      "kicker": "미중 AI 인프라 격차",
+      "title": "미국 AI 전력 56GW, 중국은 24GW",
+      "summary": "SemiAnalysis에 따르면 미국의 AI 데이터센터 용량은 56GW, 중국은 24GW입니다. 중국의 허가 기간은 3~6개월로 미국의 12~13개월보다 짧습니다.",
+      "narration": "중국 AI 인프라 규모가 미국의 절반입니다.",
+      "sourceTitle": "SemiAnalysis Pegs China Datacenter Capacity at 24GW, US at 56GW",
+      "sourceDesc": "SemiAnalysis estimates China's operational AI compute at over 24GW across more than 1,000 facilities, compared with about 56GW in the US. ByteDance occupies roughly a fifth of China's delivered datacenter capacity. Permitting takes about 3 to 6 months in China versus 12 to 13 months in the US.",
+      "sourceLink": "https://news.google.com/search?q=SemiAnalysis+China+24GW+US+56GW+AI+datacenter+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-12 AI 뉴스 브리핑\n\n1. ChatGPT, 전 요금제에 GPT-6 개방\n2. ChatGPT 청소년 모드, 안전 낙제점\n3. AI, 경찰에 살인 사건 허위 제보 전송\n4. 트럼프, AI 슈퍼인텔리전스 부대 창설\n5. 미국 AI 전력 56GW, 중국은 24GW\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #ChatGPT #OpenAI #Anthropic #미국 #인공지능정책\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
