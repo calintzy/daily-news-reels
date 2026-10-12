@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-12",
+  "slot": "pm",
+  "hookLine": "터널 공사 구간서 결국 2명이 숨졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "고속도로 참변",
+      "title": "장수 고속도로 5중 추돌, 2명 사망·11명 부상",
+      "summary": "전북 장수군 대전통영고속도로에서 차량 5대가 연쇄 추돌해 2명이 숨지고 11명이 다쳤습니다. 터널 공사 중 서행하던 구간에서 발생한 사고로 경찰이 경위를 조사 중입니다.",
+      "narration": "추돌 사고로 2명이 숨지고 11명이 다쳤습니다.",
+      "sourceTitle": "대전통영고속도로 장수 분기점 인근서 차량 5대 추돌···2명 사망·11명 부상",
+      "sourceDesc": "전북 장수군 대전통영고속도로 하행선 장수분기점 인근에서 차량 5대가 연쇄 추돌해 2명이 숨지고 11명이 다쳤다. 터널 공사로 차량이 서행하던 중 사고가 발생했으며 경찰이 경위를 조사 중이다.",
+      "sourceLink": "https://m.news.nate.com/view/20261012n21567",
+      "sourceDate": "2026-10-12",
+      "imagePrompt": "Photojournalism wide-angle view of a multi-lane highway in rural mountainous terrain with a construction work zone, orange safety cones scattered across lanes, emergency scene atmosphere, overcast sky, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "산업·보안",
+      "kicker": "반도체 기술유출",
+      "title": "반도체 핵심인력 27명 중국 이직, 산업부 통계조차 없어",
+      "summary": "삼성전자와 SK하이닉스 출신 반도체 핵심인력 27명이 중국으로 이직한 것으로 나타났습니다. 산업부는 해외 이직 인력 통계를 제대로 관리하지 않는다는 지적을 받았습니다.",
+      "sourceTitle": "[2026 국감] 삼성·SK 반도체 핵심인력 27명 중국행…산업부는 이직 통계조차 없어",
+      "sourceDesc": "국회 국정감사에서 삼성전자와 SK하이닉스 출신 반도체 핵심인력 27명이 중국으로 이직한 것으로 나타났다. 산업부는 해외 이직 인력 통계를 제대로 관리하지 않아 지적을 받았다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261012001260",
+      "sourceDate": "2026-10-12",
+      "imagePrompt": "Close-up photojournalism shot of semiconductor microchip wafers arranged on a reflective clean room surface, blue-tinted laboratory lighting, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "금융",
+      "kicker": "토스뱅크 전산오류",
+      "title": "토스뱅크 입금 오류, 닷새 만에 정정 착수",
+      "summary": "토스뱅크에서 타행 송금 실패 건이 입금으로 기록되는 오류가 발생해 닷새 만에 정정에 나섰습니다. 피해 고객에게 입금 정정을 안내했으나 피해 규모는 여전히 집계 중입니다.",
+      "sourceTitle": "토스뱅크, 입금 오류 닷새 만에 정정 착수",
+      "sourceDesc": "토스뱅크에서 타행 송금 실패 건이 입금으로 기록되는 오류가 발생해 닷새 만에 정정에 나섰다. 피해 고객에게 입금 정정을 안내했으나 피해 규모는 여전히 집계 중이다.",
+      "sourceLink": "https://www.ddaily.co.kr/page/view/2026101216140923622",
+      "sourceDate": "2026-10-12",
+      "imagePrompt": "Photojournalism close-up of a smartphone placed face-down on a wooden desk with scattered paper documents, shallow depth of field, financial office atmosphere, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "수출 역대최대",
+      "title": "10월 1~10일 수출 261억달러 역대최대",
+      "summary": "10월 1~10일 수출이 261억달러로 역대 최대를 기록했습니다. 반도체 수출이 170.9% 증가하며 전체 수출 성장을 이끌었습니다.",
+      "sourceTitle": "[속보]10월 1~10일 수출 261억달러 '역대최대'…반도체 170.9%↑",
+      "sourceDesc": "10월 1~10일 수출이 261억달러를 기록하며 역대 최대를 경신했다. 반도체 수출이 170.9% 증가해 전체 수출 상승을 이끌었다.",
+      "sourceLink": "https://www.mt.co.kr/economy/2026/10/12/2026101208423547479",
+      "sourceDate": "2026-10-12",
+      "imagePrompt": "Photojournalism aerial view of a large commercial port with rows of colorful shipping containers stacked high, cargo cranes in background, golden late-afternoon light, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "에너지",
+      "kicker": "전기요금 인상",
+      "title": "한전 사장 '내년 사채 막히면 전기요금 인상 필요'",
+      "summary": "국감에서 김동철 한국전력 사장이 내년 사채 발행이 막히면 전기요금 인상이 필요하다고 밝혔습니다. 한전의 사채 발행 한도가 줄어들면 자구 노력만으로는 어렵다고 설명했습니다.",
+      "sourceTitle": "[2026 국감] 김동철 한전 사장 '내년 사채 발행 막히면 전기요금 인상 필요'",
+      "sourceDesc": "국회 국정감사에서 김동철 한국전력 사장이 내년 사채 발행이 막히면 전기요금 인상이 필요하다고 밝혔다. 한전의 사채 발행 한도가 줄어들면 자구 노력만으로는 어렵다고 설명했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261012001300",
+      "sourceDate": "2026-10-12",
+      "imagePrompt": "Photojournalism view of electrical transmission towers silhouetted against a dramatic dusk sky, high-voltage power lines stretching across the frame, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-12 저녁 브리핑\n\n1. 장수 고속도로 5중 추돌, 2명 사망·11명 부상\n2. 반도체 핵심인력 27명 중국 이직, 산업부 통계조차 없어\n3. 토스뱅크 입금 오류, 닷새 만에 정정 착수\n4. 10월 1~10일 수출 261억달러 역대최대\n5. 한전 사장 '내년 사채 막히면 전기요금 인상 필요'\n\n저녁도 빠짐없이 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #경제 #사건사고 #국정감사\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail", "googleNews": "fail"},
+    "signalHits": []
+  }
+}
