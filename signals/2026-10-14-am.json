@@ -1,0 +1,535 @@
+{
+  "stem": "2026-10-14-am",
+  "collectedAt": "2026-10-14T06:13:06+09:00",
+  "sources": {
+    "news": "ok",
+    "trends": "ok",
+    "nate": "ok"
+  },
+  "news": [
+    {
+      "title": "이 대통령 “흉악범죄 대응 체계 강화…중대범죄 위험 정신질환자 대책 필요”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wN0VEWGFlanJEbGZWZDc4eHdmTGp0Y3AyMV92aWpDT3VhdHpSR255ejI5c0ZlaEJlN1hzc3lOanI2alFiS2N2b2FJTnA1RDIwX1prNTNTWm5CQm41RlhWZU9VUW10Y3kybzVJ?oc=5",
+      "pubDate": "2026-10-14T00:50:00+09:00"
+    },
+    {
+      "title": "\"당장 내년 상반기라니\"…빨라진 세종행에 공무원들 '뒤숭숭'",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mT09ZZnNOTVhIU0lHRExVbmlNU2M1MEJ2N0N1cG52Y3pscXp3ZVE1eW9hODdFLTVaMWtpbjc2cVlwa0tOYUhwYlZsVzNrb1ZDbl8taDNpYWlFdw?oc=5",
+      "pubDate": "2026-10-13T21:00:02+09:00"
+    },
+    {
+      "title": "특검, 尹 선거법 2심도 ‘당선무효형’ 요청… 尹 “이런 식이면 선거 왜 하나”",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeThHd2J5S0RFZVcwSno5V3JvUGNSMHBLc1F3MWZUSVYwb2xydTBxa0luTV9sMXJfcW9QZW1DWGVta2lIeF9VMnlWSWxldUJpcU5rcU91VmN1TTZIOGxTcWpvR2REMEFHLVhzc0F2T0EyMkpPSE1qeUtEQXZCU1lwU29HSkx1M28?oc=5",
+      "pubDate": "2026-10-13T15:34:00+09:00"
+    },
+    {
+      "title": "[기자수첩] 돈은 어디서 나오는가…경기도 국감이 남긴 질문",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rOXN3akZJLXF1UmZFeVR5Q1h2QlFGM1M2TVRDa0xvUDZSRDVIWXVUWXdOY3hYZTN6Rmx5bTBzUlFfeVZLaFJNc1JIUXFmYVRpb0VZcXRnYndvZw?oc=5",
+      "pubDate": "2026-10-13T23:31:18+09:00"
+    },
+    {
+      "title": "강경화 “한·미 정보 협력 문제 해소 안 돼…백악관과 소통 한계”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fdTRFNGNtLTE3STRzS3ExM0tGcmxZZ1RPMjZ3NGVwcVVIYWlWWkdLUzdwN2RGaGJlX3pRT2dGNk9Gbnl3aUh3RlpXS2NPNFhuOXUwLTNkQXJHd9IBX0FVX3lxTE9Hb3QxTW5lNlJLQnFwZi0xVnNBMEM3TzNtcGFfTVd3ZGJTWDhpVW93OGlhdndUU29JU0Y4WUQwUnZMUXBKMHBPbVpaR3hvbmJodno2Sm50VmZrSUYyTU9V?oc=5",
+      "pubDate": "2026-10-13T21:55:00+09:00"
+    },
+    {
+      "title": "국감장서도 김지용 때린 추미애 “친윤 검사…중수청장 부적합”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrX0RRYVJsMzQ3NUtkcFZxUmxLS3ZmMTRtY05kb0dpeDVuTENyVjBnZ2FQNXhKUU05aGdmaXI2aFRTMTBCS2VISHZ1Qll0U2hVaUtNcnltdjZsd9IBX0FVX3lxTE56cnRHYmx4T1pjNWZTa0hzdXJ4a0VsbGkyMXlTN1lZQnpGdU5QMXh4cnktSlZyZWdJMXNHREFuanR3T3Zldk9jbDZzRExCb19LQUdlX2tMeWFpUUloaS13?oc=5",
+      "pubDate": "2026-10-13T21:41:00+09:00"
+    },
+    {
+      "title": "[날씨] 아침 기온 '뚝'‥전국 맑고 쌀쌀",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56TVZJVUd6Qk1xaEVnZ0Z1MGJBSXRtUVh6RVV0a2xIbnJ5SFZ3MjFlTEhOcTdlc1Q5SmYtLWJtUE5ZZktQSWJjYXZRRU5lTzlQTEI2RG8wUEl0YTAxYklycXdycVhPSnQ5MURpU0VIQ1hrM3Y3alow0gF3QVVfeXFMUFhIOEQtbXhuMXpGRUNTYU5PamJtSERqaWZiYUkwTTZKVUphdW5LbnV2ejZENkl2azE2SmthU0sxbDRhZTZleWNCNjc4WFV3LWd0RzgzRWpHaDNmVjFJWmtpZEV4emJNcm5kY0dHTzl4djF0b1JtSkk?oc=5",
+      "pubDate": "2026-10-14T00:00:36+09:00"
+    },
+    {
+      "title": "마라톤 결승선 앞두고 숨진 카이스트 대학원생…SNS 추모 물결",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRG1XbzVKbGFySjZMU1FFZ1FHOHNKYjVQNk1nbGdVeE1WYnhXWTdZNGVORlFMMnp1YVppbTZXVDVOY2JJTG96MjhrVkhVN0ZGMmVqUWZOZ05jUQ?oc=5",
+      "pubDate": "2026-10-13T20:01:39+09:00"
+    },
+    {
+      "title": "외제차 매장서 허리띠로 직원 폭행한 기업 임원 체포",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CVUNoNlcteTB0U1JiTnYyWWhrdjBpVWFYWEZqOVdDMmY2RV9HQnNobHdoNzEtQWptcFAwQkpmZEcwbUhwZkFSVHVMS1hNa1I5empkdmtVU2lza09TZS1vQnpFTlUxTDYxLVl2eGU5b1lwTFFzR2fSAWZBVV95cUxQNjBTOUZkdHpVSFJyWGRmdnhKUjFpaVhhbXJyMENvbmIzREtncW5PakF0eVNEd2JQNG1kdTkwOWlIUXpNUGE5aE5EcDJRWFBlQUo3OFRwTGhaUEZtbWlEVDh6b0w3Unc?oc=5",
+      "pubDate": "2026-10-13T16:24:00+09:00"
+    },
+    {
+      "title": "사우디, 후티 장악 예멘 수도 석유시설 보복 공습",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qS0FnTWRRa05kWDhhWnZuczB2TnFKNFY1ZUg4WFVSeU10ZF9WanJLekFGZ0lYSXJxT181V2ljMUl5MzZpeHlRMk8xTDZKTDR5TWZpY0tnMkZtd03SAWBBVV95cUxONUNnYVJhTC1LU3VyeE5UU0ptM05FYTRVNmJDVzJIMTFBckYtLU54VWNvLVJNQ0JKeU1BSWxvLXlzRnJ3Z2hZbjFNcnZnY1hWaFFRY1R5VUdaS2hybUhHR04?oc=5",
+      "pubDate": "2026-10-14T02:18:26+09:00"
+    },
+    {
+      "title": "트럼프 “미국, 우크라이나와 정보 공유 중단 안 했다”",
+      "source": "VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6WDNka1BrSklyOWxFNlRBdnR0WTB1UGtCd0xSYnlJUXlZQXBrcDR0MTFZZGh6YkxaZDBfVnlIQ2JrSXZJd3BTNWhpa0YxS0NkeDNFZTFILUhicjN2LVp6dVgwR3BOdW5tSVpYejd4d3pHME3SAXZBVV95cUxPaFY5MjIydVg3N3RsVV8ya1dUeUtiNkdRSjdWeFBIUXpvTEFWYkpOeUxFVUZ6S2Nqd2tFQXFHelNKbkk5LVBzSGUwTm1IV2hPelBLVTljY0F5WV9yQTY1Qzk5M0pHbG9XMkYtMXhMQVNMNnNPQmN3?oc=5",
+      "pubDate": "2026-10-14T03:27:27+09:00"
+    },
+    {
+      "title": "’트럼프 장남 前연인’ 美 그리스 대사, 잇단 비위 의혹에 사퇴",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YdDNYVldtR3E3TldoLV8zNEVEZUJOTGFNanVJbFZUbWJPOU43SWJVRUUzb2ZwenMzc1NqMWIxOHZnbUFnOVdOWmd4WmF3aWViWTFGZWhVLVpReWdzZHgwQlFVVGRrVHc?oc=5",
+      "pubDate": "2026-10-14T03:55:00+09:00"
+    },
+    {
+      "title": "프랑스 마트 동시다발 해킹…냉장고 50도까지 치솟아 식품 폐기",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUklKdUM0aGlIMktIODYwOTZOMHBGTm9PVEpMU2txZlpmQVgzSEh5dnIzbGNqRHFTeXFmQUNGVkNRVEhZOFFLUi1Gek9LN3Bwa1BmaXBKU3BVd1lhTzRuaHF3aVNTTEdOOGxUVlBFaXNTMDVkcURFMVdPLTNZckhxdHFR?oc=5",
+      "pubDate": "2026-10-14T01:25:00+09:00"
+    },
+    {
+      "title": "IMF, 올해 韓 1인당 GDP 4만弗 돌파 전망…명목 GDP 2.2조달러 관측",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sTGQ3OGV4TW55VElfaEZWN0FWak8tLTVXZHpOY0VKTVZkTzNCOXNHcEIzejFEYWYyVnU0d2dBQURsMlBIYWdKZ21ZenkwQlNCT0g0NkJLNGx3LVAxWWo5VERwZUJvTGtRcG5RYXd3SVg?oc=5",
+      "pubDate": "2026-10-13T23:36:11+09:00"
+    },
+    {
+      "title": "뉴욕증시, 美은행 실적 혼조·반도체 약세에 일제히 하락…유가 혼조",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqd0JkSHhNVVc0QTBYeHRXZVNJQkZLVkxPY3dIcHhOOTVLb3l5VUVyRkx1SVNNczFXR3ByM3dmTWNId243VmpURWw1TmtZYS1XVmo4Q2MwS1lSZW8?oc=5",
+      "pubDate": "2026-10-14T05:51:00+09:00"
+    },
+    {
+      "title": "'공포의 화요일' 코스피 와르르…SK하닉 10% 폭락에 '비명'",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1maUMycDNFa3dHQ1Nmbm9RcFpOWkdBTGhqY0ozUlpxQktyZmphOUxkbnN1WGRoTE1JSW5HUVhZMF9qWDIybEpfcmVSMDV4X3ZnVGhyb3Z2TW92Zw?oc=5",
+      "pubDate": "2026-10-13T15:36:18+09:00"
+    },
+    {
+      "title": "[속보]홍라희 관장, 아들 이재용 회장에 삼성전자 주식 2.6조 증여",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGRllSNUNuOTVwTGl2OXM5a1RKazk3NnRwR2I2Z1ZqOTdveWpNZHYtLUZpVlZTOFlWS2FMNnNYLWpZbkFjTkM3RGNhY0I1UHgy?oc=5",
+      "pubDate": "2026-10-13T21:57:10+09:00"
+    },
+    {
+      "title": "NASA 화성탐사 차량 45.2km 주행...지구밖 최장 기록",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91bGwzNEthTTN2bWNHYzFkTTF4RjAwNDdBN1gyNVo2cjhXdUEyYnJXMm94NUZMZERkY3A1QWtVZ2ZPUzYyNjUwWDBuLVdUekRfb19zUkUwUWhmZGpUc3c?oc=5",
+      "pubDate": "2026-10-13T18:02:00+09:00"
+    },
+    {
+      "title": "목성 탐사선 주스 정밀위치 추적에 한국천문연 나선다",
+      "source": "중도일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HRlhzVy1hY2Y1RjFicDNVWlhGTEI0YTBrMHhDWGhWOWF5ZTQ1UHFJbkRIVFNsQ0xJa05LajB6T0tZSmJDYUV4d1hkbjNiMFVNYzV2U0ZUR3Q4eDh5MUMybnRqZUw?oc=5",
+      "pubDate": "2026-10-13T18:02:17+09:00"
+    },
+    {
+      "title": "‘브레이킹 배드’의 화이트 주니어 RJ 미테 사망··· 장애인 인권 운동가로도 활동",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvWWRwbHhCN0tEOXBISDN0RHhLYTVjZ2s0OWdqTHEtRXVTVGJUSUdZSlN1bjRyY0Nwc0s4RjM0TmZRTXk5enR6c09mQVo4Z245MDJzY2E0WndaUdIBX0FVX3lxTE4tRDVqWXo1QUhNWkFhQ2JVQm9WYlFoT2d2RGN1SGVETE5KR19pakozMVJOdkU2Q05xSktzUTFxNDZvemNNS3ZIcEFrZFhyOW9Sb0pkVkdEdG5wNGxFQjZB?oc=5",
+      "pubDate": "2026-10-13T15:41:00+09:00"
+    },
+    {
+      "title": "[지윤철학원의 오늘의 운세] 2026년 10월 14일 수요일 띠별 운세",
+      "source": "뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzUFI5MzhPWGFDdlRBQTdrNUlpRVVuRi1MRlEtNE5sODVFU1lHNDByM3BQVkkwcjY5RDhFVmVPRDNQWjdfMnlTMFY4Rml6OTRpSGNQSW5tdVFmdkFUTnc?oc=5",
+      "pubDate": "2026-10-14T03:33:00+09:00"
+    },
+    {
+      "title": "경찰, '암살자(들)' 역사 왜곡 논란 고발인 조사… 본격 수사 착수",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40OFpPTlVwUmtKWk5sSFY5WC1IaGkwbUFhTGpnS0R3d3pCZ21KcEM5VTMwVElyZFhhNVVnWUE5MVpfTkxudDNaMEt4UHBZZE5xNlE1dmphOXdLUQ?oc=5",
+      "pubDate": "2026-10-13T17:26:48+09:00"
+    },
+    {
+      "title": "이수만, 유영진과 돌아왔다…24명 아이돌로 K팝 흔들까",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXcUVvN1pUZUdid0RlX2wwQ0NYVXoyQk9QRVRtdVRDc1A0d0RvcU5jTDdBZ3RzbUZIblZDa2lZMFdodHRha2RrNTRjR2pBN1ZyRVFDeGJzR0lad19RcDRwcy1UOUM?oc=5",
+      "pubDate": "2026-10-14T00:46:00+09:00"
+    },
+    {
+      "title": "한화 새 사령탑에 류지현 국가대표 감독… 3년 총액 20억",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hWnRWbVVuRWNvU1kyYlBvV1BuVC0ybHRIS0l2VkFZMExUd0NrRmo2WE1Md0JwT3Q0dkY2dnpMc0JCb0VhZS12TVJuV2txWHVZWVpkaWNVNFNrUm40ZnN3c0ljemxwV0JSRWZDVU1rZmR6TlRJ0gFmQVVfeXFMUFEwUTVWaTRVZ085c2d6Y0dIRDdjT0QzUENJUjl0TmVkRVozeUZkaXFQb1Jzc1VvV1lPY1hwWlM5WDdEZWQ2cU1mVE03TWJaLVBydExmM1AycVRTN1RoQjhrWlllT29n?oc=5",
+      "pubDate": "2026-10-14T04:30:00+09:00"
+    },
+    {
+      "title": "“5년 넘은 문제, 누구를 감독 선임해도 안될 판”···축구대표팀에 무슨 일이",
+      "source": "주간경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZaXlnemYwUDlXOVA2QjAxd3JSb25CcWkwYUt1bUtFVG04cGJINzRtS3hqSmo1em5CRlR5VUhKbEFxcmdVZTJPWktHUWlYOXEwOGNwZkplblV2XzNoblE?oc=5",
+      "pubDate": "2026-10-13T16:58:00+09:00"
+    },
+    {
+      "title": "‘불사조’ 박철순 ‘미스터 OB’ 김형석 총출동…이젠 마지막 잠실 가을 야구",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkMDhSQi1CRjN4WE5VWmdhaUFGdnlCNEg3U1ZLQ09HSEFiUlh4eHNSaGNfVEZZOGRWSjVTbXVEay1vb2x5ZzRvcTdYYlhzdGVxQnJnMFIzV19WWlE?oc=5",
+      "pubDate": "2026-10-13T21:50:00+09:00"
+    },
+    {
+      "title": "'미리보는 준PO'...KIA, 올러·네일에 '도나스'까지",
+      "source": "KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GbV9zN1ZJWHNqSlF1WDAtcE1Zcm9DbEczQmpmS1E4clhLZFY0SzZXS0hQWU0xemZrOFVSTFdZVWZEc2VKVUphR2dpS0dTckxKdEZOSUdzM0xtU0d3UlRJazFB?oc=5",
+      "pubDate": "2026-10-13T21:27:55+09:00"
+    },
+    {
+      "title": "만보 걷기가 불안을 자극한 날",
+      "source": "OhmyNews",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mSkgtSzcwZWliZF9ZVmtEeGtMVmNiMmpDbjk3WVBId0pkdUNVRlYyZVkwcFR0SERWNm1aLWF4WXJ5N2FEdXVET215MEE5SXdFSmdMMkI4XzQ3OEpmT1Y0MmhfOEdad0JxV1BfZ21Ec1JudEt3T1k0?oc=5",
+      "pubDate": "2026-10-13T18:13:00+09:00"
+    },
+    {
+      "title": "가족력, 암만 있는 게 아니다…심혈관·골절·치매도 알아야",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2ZjVQcUhOMnkzcXM4c29kYndkSE9zeXhvcGQyZG5hSjRjbGlNVlliUWR2Q0pjYjYzTjlwdldBa25iUTc1UHhhejI3SWRTTkJsdzBtRWtyNnJpZw?oc=5",
+      "pubDate": "2026-10-13T15:27:42+09:00"
+    },
+    {
+      "title": "대장암 세포도 '겨울잠' 잔다?…항암치료에도 살아남는 이유",
+      "source": "매경헬스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MemhmT0RremRLYmYzNmZqU09OeXRkZ0xPc0Fud0R4TW01d2hOSFlscVR2cHdob3RfYVJCUEpaQXVVeEtiWERkeTZLWUlUc1NUTm5VM0ViTXQxZlgweVhadXVpNHE5NW9fS0V6dQ?oc=5",
+      "pubDate": "2026-10-14T05:00:00+09:00"
+    }
+  ],
+  "trends": [
+    {
+      "term": "atlético madrid đấu với man utd",
+      "pubDate": "2026-10-14T04:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "Phiên bản mạnh nhất của Atletico Madrid đang chờ đợi MU",
+          "snippet": "",
+          "url": "https://yeuthethao.net.vn/phien-ban-manh-nhat-cua-atletico-madrid-dang-cho-doi-mu-d898460.html",
+          "source": "yeuthethao.net.vn"
+        },
+        {
+          "title": "ライブ中継 アトレティコ・マドリード対マンチェスター・ユナイテッド：ハーフタイム時点でアトレティコ・マドリードが1-0でリード",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ja/truc-tieptruc-tiep-atletico-madrid-vs-manchester-united-het-hiep-1-atletico-madrid-dan-1-0",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Trực tiếp Atletico Madrid vs Manchester United: Hiệp 2 bắt đầu, Atletico Madrid dẫn 1-0",
+          "snippet": "",
+          "url": "https://baolamdong.vn/truc-tiep-atletico-madrid-vs-manchester-united-hiep-2-bat-dau-atletico-madrid-dan-1-0-469177.html",
+          "source": "Báo Lâm Đồng"
+        }
+      ]
+    },
+    {
+      "term": "atlético vs man utd",
+      "pubDate": "2026-10-14T04:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "Atletico Madrid 2-0 Manchester United: Red Devils' poor run continues with loss in Europe",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cm0j013q35dqt",
+          "source": "BBC"
+        },
+        {
+          "title": "Lee Kang-in sets up Atlético opener as Barrios scores inside 51 seconds - CHOSUNBIZ",
+          "snippet": "",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/14/PCFD5TJNDJFF7I4F6R7BQNLI2E/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "Lee Kang-in's Pass Sparks Atlético's Early Goal vs Manchester United",
+          "snippet": "",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/14/P2VRBVQ7SBEM5O3VDTNKD5RYVA/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "term": "비야레알 대 나폴리",
+      "pubDate": "2026-10-14T04:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "알레그리, 챔피언스리그 2차전 앞두고 기자회견…비야레알전 준비",
+          "snippet": "",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3720694",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "비야레알 vs 나폴리 경기 예측: 선두 경쟁의 뜨거운 승부",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-villarreal-vs-napoli-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "챔피언스 리그 비야레알 대 나폴리 경기 예측",
+          "snippet": "",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-villarreal-vs-napoli-tai-champions-league-1782260.ldo",
+          "source": "Laodong.vn"
+        }
+      ]
+    },
+    {
+      "term": "아스날",
+      "pubDate": "2026-10-14T04:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "친정팀 아스널 만나는 `환상 전갈킥` 주인공 솔직 고백…\"월드컵 출전하기 위해선 떠나야 했다\"",
+          "snippet": "",
+          "url": "https://mydaily.co.kr/page/view/2026101317024971022",
+          "source": "마이데일리"
+        },
+        {
+          "title": "챔피언스 리그 아스날 대 릴 생중계 링크",
+          "snippet": "",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-arsenal-vs-lille-tai-champions-league-1782488.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "아스널 대 릴 경기 예측, 10월 14일 오전 2시: 아스널이 연승 행진을 이어갈 것입니다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-arsenal-vs-lille-02h00-ngay-14-10-phao-thu-noi-dai-mach-thang",
+          "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
+      "term": "fotmob",
+      "pubDate": "2026-10-14T04:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "Barcelona chief talks up move for Brazil starlet Arthur Dias",
+          "snippet": "",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/134847/chief-talks-up-move-for-brazil-starlet-arthur-dias",
+          "source": "Barca Blaugranes"
+        },
+        {
+          "title": "Arthur Dias: Who Is Barcelona’s Exciting Center Back Target?",
+          "snippet": "",
+          "url": "https://www.si.com/soccer/arthur-dias-who-is-barcelona-center-back-target",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Barcelona head of scouting all but confirms interest in Brazilian defender: 'Looking for a profile like his'",
+          "snippet": "",
+          "url": "https://barcauniversal.com/barcelona-head-of-scouting-all-but-confirms-interest-in-brazilian-defender-looking-for-a-profile-like-his/",
+          "source": "Barca Universal"
+        }
+      ]
+    },
+    {
+      "term": "galatasaray vs barcelona",
+      "pubDate": "2026-10-14T03:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "Licensable picture: Galatasaray v Barcelona - UEFA Champions League",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/galatasaray-v-barcelona-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFDV0RO",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Licensable picture: Galatasaray v Barcelona - UEFA Champions League",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/galatasaray-v-barcelona-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFDV0VJ",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Licensable picture: Galatasaray v Barcelona - UEFA Champions League",
+          "snippet": "",
+          "url": "https://www.reutersconnect.com/item/galatasaray-v-barcelona-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFDV0VI",
+          "source": "Reuters Connect"
+        }
+      ]
+    },
+    {
+      "term": "현대자동차",
+      "pubDate": "2026-10-14T03:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "현대차, 2032년까지 인도서 20조8천억원 투자…전담법인 설립",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261014000500104",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "14억 내수에 신흥국 수출까지…현대차가 인도에 공들이는 이유",
+          "snippet": "",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03791686645612592",
+          "source": "마켓인"
+        },
+        {
+          "title": "현대차그룹, 인도에 20조원대 투자…생산·R&D 거점 키운다 - 조선비즈",
+          "snippet": "",
+          "url": "https://biz.chosun.com/industry/car/2026/10/14/RI5DSZJRORBNRJ55DSMFNUJSPE/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "term": "비킹 대 바이에른",
+      "pubDate": "2026-10-14T03:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "[UCL 리뷰] 이럴 수가! '김민재 선발 복귀'→충격의 전반 '2실점'...바이에른 뮌헨, 노르웨이 비킹에 0-2로 끌려가 (전반 종료)",
+          "snippet": "",
+          "url": "https://www.mydaily.co.kr/page/view/2026101404481019757",
+          "source": "마이데일리"
+        },
+        {
+          "title": "바이에른 뮌헨의 상대는 감독이 두 명인 팀이다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/doi-thu-cua-bayern-munich-la-doi-bong-co-2-hlv-truong",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "챔피언스 리그 바이킹 대 바이에른 뮌헨 축구 예측",
+          "snippet": "",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-viking-vs-bayern-munich-tai-champions-league-1782115.ldo",
+          "source": "Laodong.vn"
+        }
+      ]
+    },
+    {
+      "term": "갈라타사라이 대 바르셀로나",
+      "pubDate": "2026-10-14T03:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "'제트기 이륙 소음 이상 131 데시벨', 튀르키예 챔피언의 섬뜩한 경고 \"지옥에 오신 것을 환영한다\"",
+          "snippet": "",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8C%E1%85%A6%E1%84%90%E1%85%B3%E1%84%80%E1%85%B5-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%B2%E1%86%A8-%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%B7-%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC-131-%E1%84%83%E1%85%A6%E1%84%89%E1%85%B5%E1%84%87%E1%85%A6%E1%86%AF--%E1%84%90%E1%85%B1%E1%84%85%E1%85%B3%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%A8-%E1%84%8E%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B4-%E1%84%89%E1%85%A5%E1%86%B7%E1%84%84%E1%85%B3%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A9-%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%A6-%E1%84%8B%E1%85%A9%E1%84%89%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%92%E1%85%AA%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1/bltee76bce49fb354d5",
+          "source": "Goal.com"
+        },
+        {
+          "title": "갈라타사라이 vs 바르셀로나 예측: 선두 자리를 노릴 기회",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-galatasaray-vs-barcelona-co-hoi-bam-duoi-ngoi-dau",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "한국전 4-1 중원 압살하더니…우루과이 국가대표 자신만만 “세계 최강 바르사 꺾어 보겠다”",
+          "snippet": "",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99171",
+          "source": "포포투"
+        }
+      ]
+    },
+    {
+      "term": "아틀레티코 대 맨유",
+      "pubDate": "2026-10-14T03:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "51초 만에 터졌다! '이강인 킬패스' ATM, 맨유 상대 선제골 폭발...바리오스 득점으로 1-0 전반 종료",
+          "snippet": "",
+          "url": "https://www.osen.co.kr/article/G1112892348",
+          "source": "OSEN"
+        },
+        {
+          "title": "‘이강인 선제골 기점’ 아틀레티코, 챔스 첫 승 보여 ‘맨유전 전반 1-0’",
+          "snippet": "",
+          "url": "https://sports.donga.com/sports/article/all/20261014/134837474/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "[오피셜] ‘선발 출전!’ 이강인, 맨체스터 유나이티드 ‘박지성 친정’ 상대로 기대 이상 활약 보여줄까···UC...",
+          "snippet": "",
+          "url": "https://sports.khan.co.kr/article/202610140304003",
+          "source": "스포츠경향"
+        }
+      ]
+    }
+  ],
+  "nate": [
+    {
+      "rank": 1,
+      "title": "\"이혼당하기 싫어서\" 동업자 암매장한 40대女…시신 다시 꺼내 '지장'...",
+      "link": "https://news.nate.com/view/20261014n00038"
+    },
+    {
+      "rank": 2,
+      "title": "'정보석 대표' 회사, 제공되는 점심 어떻길래…아내가 직접 준비 \"집밥...",
+      "link": "https://news.nate.com/view/20261014n00199"
+    },
+    {
+      "rank": 3,
+      "title": "'코미디 된 女 유도' 정성숙 감독, 결국 사퇴…초유의 '계체 실격+비행...",
+      "link": "https://news.nate.com/view/20261014n00061"
+    },
+    {
+      "rank": 4,
+      "title": "'고우림♥' 김연아, 임신설 와중에 아기 곰인형 사진…\"혹시 베이비?\" ...",
+      "link": "https://news.nate.com/view/20261013n37176"
+    },
+    {
+      "rank": 5,
+      "title": "마치 표적 찾듯…지하 2층부터 마주치면 '무차별 칼부림'",
+      "link": "https://news.nate.com/view/20261013n34240"
+    },
+    {
+      "rank": 6,
+      "title": "'악뮤' 이수현, '한정선' 먹고 솔직 비판 \"3시간 줄 서서? 그렇게 특별하진...",
+      "link": "https://news.nate.com/view/20261013n35938"
+    },
+    {
+      "rank": 7,
+      "title": "부캉이, 12월에 죽을지도…수온 하락에 폐사 가능성 나왔다",
+      "link": "https://news.nate.com/view/20261013n37085"
+    },
+    {
+      "rank": 8,
+      "title": "\"차 안에 사람이\"…제주 렌터카 안 40대·4세 부녀 숨진 채 발견",
+      "link": "https://news.nate.com/view/20261013n37277"
+    },
+    {
+      "rank": 9,
+      "title": "\"비싸고, 냄새나고, 무섭다\"…발길 뚝 끊긴 '신혼여행 성지'에 무슨 일이",
+      "link": "https://news.nate.com/view/20261013n04411"
+    },
+    {
+      "rank": 10,
+      "title": "'인천 흉기난동' 피해자 총 9명…심정지 여성 수술 후 중환자실 입원 [세상...",
+      "link": "https://news.nate.com/view/20261013n34844"
+    },
+    {
+      "rank": 11,
+      "title": "이재용, 모친 홍라희에게 삼성전자 주식 2조6000억 증여받는다",
+      "link": "https://news.nate.com/view/20261013n32489"
+    },
+    {
+      "rank": 12,
+      "title": "\"한국에서 이런 일이…충격적인 순간\" 여성의 돌발 행동에 외신도 깜짝",
+      "link": "https://news.nate.com/view/20261013n35768"
+    },
+    {
+      "rank": 13,
+      "title": "\"숭해, 줘도 안 받아\" 망사팬티 파우치에 여성 '부글'…브랜드 해명은",
+      "link": "https://news.nate.com/view/20261013n35244"
+    },
+    {
+      "rank": 14,
+      "title": "李대통령, 인천경찰청 방문…흉기난동 사건에 \"특단 대책 강구\"",
+      "link": "https://news.nate.com/view/20261013n36777"
+    },
+    {
+      "rank": 15,
+      "title": "\"가슴 찔릴 뻔했는데 담배가 막아줘\"…목격자들이 전한 구월동 흉기 난동",
+      "link": "https://news.nate.com/view/20261013n33741"
+    },
+    {
+      "rank": 16,
+      "title": "맥도날드 'GD 모자' 뭐길래…\"웃돈 5배\" 대란 벌어졌다",
+      "link": "https://news.nate.com/view/20261013n33852"
+    },
+    {
+      "rank": 17,
+      "title": "머스크 아이 낳은 인플루언서 \"534억 줄테니 비밀로 하자고\"",
+      "link": "https://news.nate.com/view/20261013n25551"
+    },
+    {
+      "rank": 18,
+      "title": "이영표, 김민재를 말하다…\"'개인이 빛나려 한다' 코멘트, 되게 메시지 있...",
+      "link": "https://news.nate.com/view/20261013n34786"
+    },
+    {
+      "rank": 19,
+      "title": "침묵 깬 신문선 폭탄발언 \"왜 손흥민만 뒤집어쓰나…누군가 조작질\"",
+      "link": "https://news.nate.com/view/20261013n33408"
+    },
+    {
+      "rank": 20,
+      "title": "법카 월 70만원 줬더니, 포켓몬·수능문제집 샀다…공공기관 임원의 '혈세 ...",
+      "link": "https://news.nate.com/view/20261013n02905"
+    }
+  ]
+}
