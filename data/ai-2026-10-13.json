@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-13",
+  "account": "aibrief",
+  "hookLine": "메타 신모델, 챗GPT·클로드와 정면 대결입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 모델",
+      "kicker": "챗GPT·클로드에 도전",
+      "title": "메타, '뮤즈 원더'로 챗GPT·클로드에 도전",
+      "summary": "메타가 새 AI 모델 '뮤즈 원더'를 공개했습니다. 챗GPT·클로드와 경쟁 가능한 수준이라고 소개됐습니다.",
+      "sourceTitle": "메타, AI 모델 '뮤즈 원더' 공개…\"챗GPT·클로드와 경쟁 가능한 수준\"",
+      "sourceDesc": "메타가 새 AI 모델 '뮤즈 원더'를 공개했다. 코딩·금융·법률 문제 처리에서 챗GPT·클로드와 경쟁 가능한 수준이라고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%A9%94%ED%83%80+%EB%AE%A4%EC%A6%88+%EC%9B%90%EB%8D%94+AI+%EA%B3%B5%EA%B0%9C+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "반도체·인프라",
+      "kicker": "자체 칩 100만 개 배치",
+      "title": "MS, 자체 AI 칩 '마이아 300' 공개",
+      "summary": "마이크로소프트가 자체 AI 칩 '마이아 300'을 공개했습니다. 내년에 100만 개 이상을 배치할 계획이라고 밝혔습니다.",
+      "narration": "MS가 자체 AI 칩 '마이아 300'을 공개했습니다.",
+      "sourceTitle": "MS, 자체 AI칩 '마이아 300' 공개…\"내년 100만개 이상 배치\"",
+      "sourceDesc": "마이크로소프트가 자체 AI 칩 '마이아 300'을 공개했다. 내년에 100만 개 이상을 자사 AI 추론 시스템에 배치할 계획이라고 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8+%EB%A7%88%EC%9D%B4%EC%95%84300+AI%EC%B9%A9+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "규제·정책",
+      "kicker": "美 자율규제에 제동",
+      "title": "英, AI 안전 검증 강화…美 자율규제와 대조",
+      "summary": "영국이 AI 사전 안전성 검증을 강화했습니다. 미국의 AI 자율규제 기조와 대조되는 행보입니다.",
+      "narration": "영국이 AI 사전 안전성 검증을 강화했습니다.",
+      "sourceTitle": "英, AI 사전안전성 검증 강화…美 자율규제에 제동[글로벌AI브리핑]",
+      "sourceDesc": "영국 정부가 AI 모델의 출시 전 사전 안전성 검증을 강화하고 있다. 미국 트럼프 행정부의 AI 자율규제 기조와 대조되는 행보다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%98%81%EA%B5%AD+AI+%EC%82%AC%EC%A0%84%EC%95%88%EC%A0%84%EC%84%B1+%EA%B2%80%EC%A6%9D+%EA%B0%95%ED%99%94+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "AI 서비스",
+      "kicker": "내년 초 로봇 통합 AI",
+      "title": "크래프톤, 로봇 AI 통합 모델 내년 공개",
+      "summary": "크래프톤이 내년 초 로봇 AI 통합 모델 공개를 추진합니다. 사람과 소통하는 능력이 가장 중요하다고 강조했습니다.",
+      "narration": "크래프톤이 내년 초 로봇 AI 통합 모델을 냅니다.",
+      "sourceTitle": "크래프톤, 내년 초 로봇 AI 통합 모델 공개 추진...\"사람과 소통하는 능력 중요\"",
+      "sourceDesc": "크래프톤이 내년 초 로봇 AI 통합 모델 공개를 추진한다고 밝혔다. 사람과 소통하는 능력이 로봇 AI의 핵심이라고 강조했다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4+%EB%A1%9C%EB%B4%87+AI+%ED%86%B5%ED%95%A9%EB%AA%A8%EB%8D%B8+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "AI 서비스",
+      "kicker": "피지컬 AI 상용화",
+      "title": "엔비디아, 한국 피지컬 AI 잠재력 강조",
+      "summary": "엔비디아가 피지컬 AI 상용화에 시뮬레이션이 필수라고 밝혔습니다. 한국 제조업의 피지컬 AI 잠재력을 강조했습니다.",
+      "narration": "엔비디아가 한국 피지컬 AI 잠재력을 강조했습니다.",
+      "sourceTitle": "엔비디아 \"피지컬 AI 상용화에 시뮬레이션 필수\"...한국 제조업 잠재력 강조",
+      "sourceDesc": "엔비디아가 피지컬 AI 상용화에 시뮬레이션이 필수라고 밝혔다. 행사에서 한국 제조업의 피지컬 AI 잠재력을 강조했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%97%94%EB%B9%84%EB%94%94%EC%95%84+%ED%94%BC%EC%A7%80%EC%BB%ACai+%ED%95%9C%EA%B5%AD+%EC%A0%9C%EC%A1%B0%EC%97%85+2026&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-13 AI 뉴스 브리핑\n\n1. 메타, '뮤즈 원더'로 챗GPT·클로드에 도전\n2. MS, 자체 AI 칩 '마이아 300' 공개\n3. 英, AI 안전 검증 강화…美 자율규제와 대조\n4. 크래프톤, 로봇 AI 통합 모델 내년 공개\n5. 엔비디아, 한국 피지컬 AI 잠재력 강조\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #메타 #마이크로소프트 #엔비디아 #크래프톤 #AI규제\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
