@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-15",
+  "slot": "am",
+  "hookLine": "10명이 다쳤는데, 1명은 아직 의식이 없습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "인천 쇼핑몰 흉기난동",
+      "title": "인천 흉기난동 피해자 총 10명 확인",
+      "summary": "인천 구월동 상업시설에서 발생한 흉기난동으로 피해자가 총 10명으로 확인됐습니다. 심정지 상태로 발견된 20대 여성은 수술 후 맥박을 회복했으나 아직 의식이 없습니다.",
+      "narration": "피해자 중 1명이 아직 의식을 회복하지 못했습니다.",
+      "sourceTitle": "[속보]경찰 '인천 흉기난동 피해자 추가 확인…총 10명'",
+      "sourceDesc": "인천 구월동 대형 쇼핑몰에서 50대 남성이 양손에 흉기를 묶어 무차별 난동을 부렸다. 피해자가 총 10명으로 추가 확인됐으며, 20대 여성 피해자 1명은 심정지 상태였다가 수술 후 맥박을 회복했으나 의식이 없는 상태다.",
+      "sourceLink": "https://www.mt.co.kr/society/2026/10/14/2026101415110450829",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "Empty shopping mall corridor with yellow police tape strung across the entrance, fluorescent lights casting harsh shadows on the tiled floor, no people, no text, vertical 9:16 composition, photojournalism documentary photography"
+    },
+    {
+      "rank": 2,
+      "category": "안보",
+      "kicker": "北 잠수함 미사일 발사",
+      "title": "北, 잠수함 전략순항미사일 2종 발사",
+      "summary": "북한이 14일 동해상에서 잠수함발사 전략순항미사일 2종을 시험 발사했다고 공개했습니다. 우리 군은 이번 발사에 대해 아무런 발표를 하지 않아 논란이 일고 있습니다.",
+      "sourceTitle": "北 어제 동해서 2종 잠수함발사 전략순항미사일 시험발사",
+      "sourceDesc": "북한이 14일 동해에서 2종의 잠수함발사 전략순항미사일을 시험 발사했다고 15일 조선중앙통신이 보도했다. 우리 군은 발사에 대해 공개 발표를 하지 않았다.",
+      "sourceLink": "https://www.hankyung.com/article/2026101527067",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Dark ocean surface at night with a lone periscope breaking through calm waters, overcast sky reflected in the sea, no people, no text, vertical 9:16 composition, photojournalism documentary photography, moody low-light atmosphere"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "수미 테리 기소유예",
+      "title": "미 검찰, 수미 테리 조건부 기소유예 합의",
+      "summary": "미국 법무부 검찰이 한국 정부 불법 대리 혐의를 받던 수미 테리와 기소유예약정에 합의했습니다. 1년 동안 한국 정보당국자와 접촉하지 않는 조건을 지키면 기소가 취하될 예정입니다.",
+      "sourceTitle": "美검찰, '한국 정부 대리' 혐의 수미 테리 기소유예 합의",
+      "sourceDesc": "미국 법무부 검찰이 한국 정부의 불법 대리인으로 활동한 혐의를 받던 수미 테리와 기소유예약정을 체결했다. 테리는 1년간 한국 정보당국자와 대화하지 않는 등 조건을 이행하면 기소가 최종 기각된다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261014000978",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "Empty American courtroom interior with wooden judge's bench and national flag in background, neutral overhead lighting, formal legal setting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "10·15 대책 1년",
+      "title": "10·15 대책 1년, 서울 집값 오히려 올라",
+      "summary": "10·15 부동산 대책 시행 1년 만에 서울 아파트값이 급등하고 전세 매물이 줄어든 것으로 나타났습니다. 규제 효과를 놓고 전문가 사이에서 논란이 이어지고 있습니다.",
+      "sourceTitle": "10·15 대책 1년…서울 아파트값 '급등', 전세매물은 '실종'",
+      "sourceDesc": "10·15 부동산 대책이 시행된 지 1년이 지났지만 서울 아파트값은 오히려 오른 것으로 나타났다. 전세 매물은 줄고 전셋값도 오르는 등 규제의 역설이 나타났다는 분석이 나온다.",
+      "sourceLink": "https://www.asiatime.co.kr/article/20261014500301",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "Rows of identical high-rise apartment towers in Seoul under hazy afternoon sky, dense residential district viewed from above, no people, no text, vertical 9:16 composition, photojournalism documentary photography"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "중수청장 후보 청문회",
+      "title": "초대 중수청장 후보 청문회, 여야 공방",
+      "summary": "초대 중대범죄수사청장 후보자 인사청문회가 국회에서 열려 여야가 격렬하게 맞섰습니다. 과거 검찰 수사 이력을 둘러싼 검증이 집중적으로 이뤄졌습니다.",
+      "sourceTitle": "[2026국감]중수청장 청문회 돌입…與 내분에 셈법 복잡한 野",
+      "sourceDesc": "초대 중대범죄수사청장 후보자에 대한 인사청문회가 14일 국회에서 열렸다. 여권 내부 이견과 야권의 반발이 교차하는 가운데 후보자의 과거 검찰 수사 관여 이력을 두고 여야가 공방을 벌였다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026101410392106407",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "Wide shot of an empty parliamentary committee hearing room with rows of nameplates and microphones under institutional ceiling lights, no people, no text, vertical 9:16 composition, photojournalism documentary photography"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-15 아침 브리핑\n\n1. 인천 흉기난동 피해자 총 10명 확인\n2. 北, 잠수함 전략순항미사일 2종 발사\n3. 미 검찰, 수미 테리 조건부 기소유예 합의\n4. 10·15 대책 1년, 서울 집값 오히려 올라\n5. 초대 중수청장 후보 청문회, 여야 공방\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침뉴스 #뉴스브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "googleNews": "fail"
+    },
+    "signalHits": []
+  }
+}
