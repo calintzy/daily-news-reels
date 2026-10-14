@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-14",
+  "slot": "am",
+  "hookLine": "흉기난동에 8명 부상, 심정지도 발생했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "인천 흉기 난동",
+      "title": "인천 마트서 흉기 난동···1명 심정지",
+      "summary": "인천 구월동 복합건물에서 흉기 난동이 발생해 8명이 부상을 입었습니다. 피해자 중 1명이 심정지 상태에 빠졌으며 용의자는 현행범으로 체포됐습니다.",
+      "narration": "인천 구월동 흉기 난동에 1명이 심정지 상태입니다.",
+      "sourceTitle": "[속보] 인천 구월동 흉기난동 1명 심정지·8명 부상...용의자 체포",
+      "sourceDesc": "인천 남동구 구월동 복합건물에서 흉기 난동 신고가 접수됐다. 경찰은 용의자를 현행범으로 체포했으며 부상자 8명과 심정지 1명이 발생했다.",
+      "sourceLink": "https://www.ytn.co.kr/_ln/0103_202610131545246644",
+      "sourceDate": "2026-10-13",
+      "imagePrompt": "South Korean shopping mall interior with overturned chairs and scattered items on the floor, yellow police tape blocking the main corridor, emergency vehicle lights flashing through glass doors, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "증시 급락",
+      "title": "코스피 6000선 붕괴···7월 이후 처음",
+      "summary": "코스피가 장중 6000선 아래로 내려가며 지난 7월 이후 처음으로 붕괴됐습니다. 국내 증시가 큰 폭으로 하락하며 투자자들의 불안이 커지고 있습니다.",
+      "sourceTitle": "[속보]코스피 6000선도 깨졌다…지난 7월 이후 2개월여 만",
+      "sourceDesc": "코스피가 장중 6000선 아래로 내려왔다. 지난 7월 이후 2개월여 만에 6000선이 깨진 것이다.",
+      "sourceLink": "https://www.mt.co.kr/stock/2026/10/13/2026101310254414346",
+      "sourceDate": "2026-10-13",
+      "imagePrompt": "Close-up of a digital stock market ticker board with deep red falling percentage indicators, dramatic lighting inside an empty exchange hall at dusk, no people, no text, cinematic documentary photography style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "국익외교 천명",
+      "title": "이재명 '굴종·사대' 안 된다···국익외교 재천명",
+      "summary": "이재명 대통령이 굴종하거나 사대적 태도를 취해서는 안 된다며 실용적 국익외교 방침을 재천명했습니다. 한미 균열론이 제기되는 상황에서 나온 외교 방향 강조 발언입니다.",
+      "sourceTitle": "李 '굴종·사대적 태도 안돼' 한미 균열론 속 '국익외교' 재천명",
+      "sourceDesc": "이재명 대통령이 국무회의에서 굴종하거나 사대적 태도를 취해선 안 된다고 강조했다. 대한민국의 외교방침은 실용적 국익외교라며 한미동맹의 중요성도 재천명했다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/10/14/2026101319480680009",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "South Korean and American national flags side by side in front of a government building at golden hour, formal diplomatic setting with stone architecture in background, no people, no text, documentary photography style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "마라톤 도중 사망",
+      "title": "마라톤 결승선 앞두고 숨진 카이스트 대학원생",
+      "summary": "하프마라톤 대회에 참가한 카이스트 대학원생이 결승선 앞에서 쓰러져 숨졌습니다. SNS를 중심으로 젊은 연구자의 안타까운 죽음을 애도하는 추모 물결이 이어지고 있습니다.",
+      "sourceTitle": "마라톤 결승선 앞두고 숨진 카이스트 대학원생…SNS 추모 물결",
+      "sourceDesc": "하프마라톤 대회 참가자인 카이스트 대학원생이 결승선을 앞두고 의식을 잃고 쓰러져 숨졌다. SNS를 중심으로 추모 물결이 이어지고 있다.",
+      "sourceLink": "https://www.hankyung.com/article/2026101397897",
+      "sourceDate": "2026-10-13",
+      "imagePrompt": "Empty marathon finish line at dawn with flowers and handwritten memorial notes placed on the running track, autumn leaves scattered around, morning light, no people, no text, photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "일본 최대 AI 데이터센터",
+      "title": "NTT 데이터, 앤스로픽 전용 AI 데이터센터 건설",
+      "summary": "일본 NTT 데이터가 AI 기업 앤스로픽 전용의 일본 최대 AI 데이터센터를 건설할 예정입니다. 건설비 규모가 1조 엔으로 일본 내 최대 규모의 AI 인프라 투자로 꼽힙니다.",
+      "sourceTitle": "日 NTT 데이터, 美 앤스로픽 전용 '日 최대 AI 데이터센터' 짓는다",
+      "sourceDesc": "일본 NTT 데이터가 미국 AI 기업 앤스로픽 전용의 일본 최대 AI 데이터센터 건설 협상이 막바지에 이르렀다. 건설비만 약 1조 엔 규모로 알려졌다.",
+      "sourceLink": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101322385334310c8c1c064d_1",
+      "sourceDate": "2026-10-13",
+      "imagePrompt": "Rows of server racks inside a modern data center facility with blue LED ambient lighting, organized cable management, air cooling vents on ceiling, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-14 아침 브리핑\n1. 인천 마트서 흉기 난동···1명 심정지\n2. 코스피 6000선 붕괴···7월 이후 처음\n3. 이재명 '굴종·사대' 안 된다···국익외교 재천명\n4. 마라톤 결승선 앞두고 숨진 카이스트 대학원생\n5. NTT 데이터, 앤스로픽 전용 AI 데이터센터 건설\n내일 아침에도 물어오겠습니다 🦆\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #아침뉴스\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}

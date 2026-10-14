@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-13",
+  "slot": "pm",
+  "hookLine": "전자발찌 차고 대형마트에서 흉기를 꺼냈습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "대형마트 칼부림",
+      "title": "인천 홈플러스서 흉기 난동…1명 심정지·7명 부상",
+      "summary": "인천 남동구 홈플러스 구월점에서 60대 남성이 불특정 다수에게 흉기를 휘둘렀습니다. 1명이 심정지 상태에 빠지고 7명이 부상을 입었으며, 전자발찌 착용 기간 중 범행으로 드러났습니다.",
+      "narration": "인천 홈플러스에서 칼부림이 발생했습니다.",
+      "sourceTitle": "[속보] 인천 홈플러스 칼부림 60대男 가방서 \"흉기 10개 이상\"… 전자발찌 착용 기간 중 범행",
+      "sourceDesc": "인천 남동구 홈플러스 구월점에서 60대로 추정되는 남성이 불특정 다수에게 흉기를 휘둘러 1명이 심정지 상태에 빠지고 7명이 부상을 입었다. 가방에서 흉기 10개 이상이 발견됐으며 전자발찌 착용 기간 중 범행한 것으로 드러났다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/2026/10/13/20261013500236",
+      "sourceDate": "2026-10-13",
+      "imagePrompt": "Photojournalism wide shot of an empty large retail store entrance with yellow police tape stretched across the doors, emergency vehicle flashing lights reflecting off the floor, crisis scene atmosphere, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "검은 화요일",
+      "title": "코스피 5.46% 급락…'검은 화요일'",
+      "summary": "코스피가 외국인 매도에 5.46% 급락하며 이른바 '검은 화요일'을 맞았습니다. 장 초반 매도 사이드카가 발동됐고 6000선도 일시 무너지는 등 변동성이 크게 확대됐습니다.",
+      "sourceTitle": "[마감시황]코스피 6,035.35 마감…외국인 대거 매도에 5.46% 급락",
+      "sourceDesc": "코스피가 13일 외국인 대규모 매도에 5.46% 급락해 6,035.35로 마감됐다. 장 초반 매도 사이드카가 발동되고 6000선도 무너지는 등 이른바 '검은 화요일'이라는 말이 나왔다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/securities/2026/10/13/20261013500225",
+      "sourceDate": "2026-10-13",
+      "imagePrompt": "Photojournalism close-up of a financial display screen showing red descending stock numbers, dramatic lighting, market crash atmosphere, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "항소심 결심",
+      "title": "윤석열 항소심 결심…국힘 397억 반환 쟁점",
+      "summary": "윤석열 전 대통령의 공직선거법 위반 항소심에서 특검이 1심과 같은 징역 1년 6개월을 구형했습니다. 유죄가 확정되면 국민의힘이 2022년 대선 비용 약 397억원을 반환해야 합니다.",
+      "sourceTitle": "윤석열, 항소심도 징역 1년 6개월 구형... 유죄 확정 땐 국힘 397억 반환",
+      "sourceDesc": "윤석열 전 대통령의 공직선거법 위반 항소심 결심 공판에서 특검팀이 1심과 같은 징역 1년 6개월에 집행유예 3년을 구형했다. 유죄가 확정되면 국민의힘이 2022년 대선 선거비용 약 397억원을 반환해야 한다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026101310280003857",
+      "sourceDate": "2026-10-13",
+      "imagePrompt": "Photojournalism exterior view of a South Korean appellate courthouse building with stone architecture, overcast autumn sky, formal judicial setting, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "신천지 당원 가입",
+      "title": "민주당, 신천지 당원 가입 정황 공식 확인",
+      "summary": "더불어민주당이 당원 전수조사 결과 신천지 신도의 당원 가입 정황을 공식 확인했습니다. 당은 현재 후속 대응 방안을 논의 중이라고 밝혔습니다.",
+      "sourceTitle": "민주, '신천지 당원 가입 정황' 확인…\"후속대응 논의 중\"",
+      "sourceDesc": "더불어민주당이 당원 전수조사 결과 신천지 신도들의 당원 가입 정황을 확인했다고 밝혔다. 민주당 측은 현재 후속 대응 방안을 논의 중이라고 전했다.",
+      "sourceLink": "https://weekly.khan.co.kr/article/202610131630001/",
+      "sourceDate": "2026-10-13",
+      "imagePrompt": "Photojournalism exterior view of a government political party building facade with glass and concrete architecture, gray overcast sky, urban formal setting, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-13 저녁 브리핑\n\n1. 인천 홈플러스서 흉기 난동…1명 심정지·7명 부상\n2. 코스피 5.46% 급락…'검은 화요일'\n3. 윤석열 항소심 결심…국힘 397억 반환 쟁점\n4. 민주당, 신천지 당원 가입 정황 공식 확인\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #속보 #코스피\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail", "googleNews": "fail"},
+    "signalHits": []
+  }
+}
