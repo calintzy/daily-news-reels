@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-14",
+  "account": "aibrief",
+  "hookLine": "Character.AI 결국 파산했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 서비스",
+      "kicker": "파산 신청",
+      "title": "Character.AI 파산, Disney 인수 입찰",
+      "summary": "AI 챗봇 스타트업 Character.AI가 Chapter 11 파산 신청을 했습니다. Disney가 일부 자산에 대해 우선 입찰자로 나서며 인수를 추진하고 있습니다.",
+      "sourceTitle": "Character.AI Files For Chapter 11 Bankruptcy—Disney Offers $20 Million",
+      "sourceDesc": "Character.AI is filing for Chapter 11 bankruptcy protection, and Disney is the stalking horse bidder for some of its assets.",
+      "sourceLink": "https://news.google.com/search?q=Character.AI+Chapter+11+bankruptcy+Disney&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 기기",
+      "kicker": "신제품 출시",
+      "title": "애플 AI 스마트홈 허브 HomeView 발표",
+      "summary": "애플이 AI 비서 Siri를 전면에 내세운 스마트홈 허브 HomeView를 발표했습니다. 가격은 $299이며 다음 달 출시됩니다.",
+      "narration": "애플의 AI 홈 허브가 드디어 출시됩니다.",
+      "sourceTitle": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "sourceDesc": "Apple on Tuesday began showing off a new round of smart home products, including an iPad-like device dubbed the HomeView that showcases its AI-upgraded Siri. It starts at $299 and ships next month.",
+      "sourceLink": "https://news.google.com/search?q=Apple+HomeView+Siri+AI+smart+home&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 기기",
+      "kicker": "AI 웨어러블",
+      "title": "알리바바 AI 안경 Qwen Glasses N1 판매 시작",
+      "summary": "알리바바가 AI 안경 Qwen Glasses N1을 중국에서 2,999위안에 출시했습니다. Bose와 협력해 만든 AI 이어버드 Qwen Clip도 함께 선보였습니다.",
+      "narration": "알리바바의 AI 안경이 정식 출시됐습니다.",
+      "sourceTitle": "Alibaba unveils agentic computer, AI wearables and more at 2026 Apsara Conference",
+      "sourceDesc": "Alibaba began selling Qwen Glasses N1 in China at 2,999 yuan, and also unveiled Qwen Clip AI earbuds made with Bose (the N1 Pro adds eye tracking, iris payments and health sensors).",
+      "sourceLink": "https://news.google.com/search?q=Alibaba+Qwen+Glasses+N1+Apsara+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "반도체",
+      "kicker": "차세대 HBM",
+      "title": "삼성·SK, SEDEX서 차세대 HBM 기술 공개",
+      "summary": "반도체 전시회 SEDEX에 삼성·SK 등 주요 기업이 참가했습니다. 차세대 HBM4E와 HBM5 기술을 얼마나 공개할지가 핵심 관전 포인트입니다.",
+      "narration": "국내 반도체 전시 SEDEX가 개막했습니다.",
+      "sourceTitle": "삼성·SK, SEDEX서 차세대 HBM 격돌…AI칩·소부장도 총출동",
+      "sourceDesc": "올해 SEDEX의 관전 포인트는 내년 양산을 앞둔 HBM4E(7세대)와 차차세대 HBM5(8세대) 기술을 얼마나 구체적으로 공개하느냐입니다. 지난해에는 삼성전자와 SK하이닉스가 현재 공급 중인 HBM4 실물을 나란히 전시했습니다.",
+      "sourceLink": "https://news.google.com/search?q=삼성+SK+SEDEX+HBM4E+HBM5&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "AI 정책",
+      "kicker": "피지컬 AI",
+      "title": "배경훈 부총리, 피지컬 AI 투자 확대 촉구",
+      "summary": "배경훈 부총리가 '피지컬 AI 테크 위크'에서 국내 AI 투자 속도를 높여야 한다고 강조했습니다. 중국의 휴머노이드 로봇 도입 속도를 들어 현재 계획이 충분한지 점검해야 한다고 말했습니다.",
+      "narration": "한국 피지컬 AI 투자, 더 빨라져야 합니다.",
+      "sourceTitle": "배경훈 \"피지컬 AI 계획 충분한지 고민…후회 없도록 목표 세워야\"",
+      "sourceDesc": "배경훈 부총리 겸 과학기술정보통신부 장관은 13일 서울 코엑스의 '피지컬 AI 테크 위크' 간담회에서 국내 피지컬 AI 투자와 개발 속도를 높여야 한다고 강조했습니다. 중국이 휴머노이드 로봇을 산업 현장에 빠르게 도입하고 있다는 점을 들어 현재 계획이 충분한지 점검해야 한다고 말했습니다.",
+      "sourceLink": "https://news.google.com/search?q=배경훈+피지컬+AI+테크+위크&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-14 AI 뉴스 브리핑\n\n1. Character.AI 파산, Disney 인수 입찰\n2. 애플 AI 스마트홈 허브 HomeView 발표\n3. 알리바바 AI 안경 Qwen Glasses N1 판매 시작\n4. 삼성·SK, SEDEX서 차세대 HBM 기술 공개\n5. 배경훈 부총리, 피지컬 AI 투자 확대 촉구\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #빅테크 #스마트홈 #반도체 #HBM #피지컬AI\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
