@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-14",
+  "slot": "pm",
+  "hookLine": "공천헌금 의원 1심, 보석마저 취소됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "강선우 법정구속",
+      "title": "공천헌금 강선우, 1심 징역 2년 6개월 법정구속",
+      "summary": "공천헌금 의혹으로 기소된 강선우 의원이 1심에서 징역 2년 6개월을 선고받고 법정구속됐습니다. 함께 기소된 김경 전 서울시의원은 징역 1년을 선고받았으며, 재판부는 보석을 취소했습니다.",
+      "narration": "공천헌금 강선우, 1심에서 법정구속됐습니다.",
+      "sourceTitle": "'1억 공천헌금' 강선우, 1심 징역 2년 6개월… 법정구속",
+      "sourceDesc": "서울중앙지법은 14일 정치자금법 위반 혐의로 기소된 강선우 의원에게 징역 2년 6개월과 추징금 1억원을 선고하고 법정구속했다. 함께 기소된 김경 전 서울시의원에게는 징역 1년이 선고됐다. 재판부는 보석을 취소하고 두 피고인을 법정구속했다.",
+      "sourceLink": "https://www.segye.com/newsView/20261014517296",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "Empty Korean courtroom interior with wooden judge's bench facing empty gallery seats, afternoon light through high windows, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "신압록강대교 개통",
+      "title": "12년 만에 열리는 신압록강대교···북·중 교역 시작",
+      "summary": "북한 신의주와 중국 단둥을 잇는 신압록강대교가 15일 정식 개통할 예정입니다. 12년 만에 이뤄지는 개통으로, 북·중 교역의 새 통로가 열리게 됐습니다.",
+      "sourceTitle": "12년 멈춘 신압록강대교 15일 개통…북·중 교역 새 통로 열린다",
+      "sourceDesc": "중국 단둥과 북한 신의주를 연결하는 신압록강대교가 오는 15일 정식 개통하기로 했다. 12년 만에 개통이 이뤄지며 북·중 교역의 새 통로가 열리게 됐다.",
+      "sourceLink": "https://www.mt.co.kr/world/2026/10/14/2026101411221245605",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "Long suspension bridge spanning a wide river in autumn haze, viewed from shore at golden hour, misty hills in background, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "금융권 해킹 피해",
+      "title": "금융사 16곳 해킹 피해···주민번호 등 10만건 유출",
+      "summary": "금융당국 점검 결과 총 16개 금융회사에서 해킹 피해가 확인됐습니다. 주민번호를 포함한 개인정보 10만건이 유출된 것으로 집계됐습니다.",
+      "sourceTitle": "금융권 해킹사고 총 16개사 확인..주민번호 등 10만건 유출됐다",
+      "sourceDesc": "금융당국이 금융권 해킹 사고를 점검한 결과 총 16개 금융회사에서 피해가 확인됐다. 주민번호를 포함한 개인정보 10만건이 유출된 것으로 집계됐다.",
+      "sourceLink": "https://www.mt.co.kr/finance/2026/10/14/2026101415061625631",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "Rows of ATM machines inside a dimly lit bank lobby at night, security camera light on ceiling, empty teller stations in background, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "임광현 비서실장",
+      "title": "이재명, 신임 비서실장에 임광현 국세청장 임명",
+      "summary": "이재명 대통령이 임광현 국세청장을 신임 대통령 비서실장으로 임명했습니다. 강훈식 전 비서실장이 499일 만에 퇴임한 뒤 이뤄진 인사로, 현직 국세청장의 비서실장 발탁은 처음입니다.",
+      "sourceTitle": "靑비서실장에 임광현 국세청장 임명…“국정 성과 속도낼 적임자”",
+      "sourceDesc": "이재명 대통령이 14일 임광현 국세청장을 신임 대통령 비서실장으로 임명했다. 강훈식 전 비서실장이 499일 만에 퇴임한 데 따른 것이며, 현직 국세청장이 비서실장에 임명된 것은 처음이다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/10/14/2026101413415398499",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "South Korean government building exterior with stone gate and pine trees at midday, institutional architecture in background, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "스포츠",
+      "kicker": "엄지성 인종차별",
+      "title": "'아시아게임 금메달' 엄지성, 인종차별 피해···경찰 수사",
+      "summary": "한국 축구선수 엄지성이 잉글리시풋볼리그(EFL) 경기 중 인종차별 발언 피해를 당했습니다. 영국 경찰이 수사에 착수해 사건 경위를 조사하고 있습니다.",
+      "sourceTitle": "'아시아게임 금메달' 엄지성, 인종차별 당했다…경찰 수사",
+      "sourceDesc": "잉글리시풋볼리그(EFL) 소속 팀에서 활동 중인 한국 축구선수 엄지성이 경기 중 인종차별 발언 피해를 당했다. 영국 경찰이 수사에 착수했으며, 엄지성은 아시아게임 금메달리스트다.",
+      "sourceLink": "https://www.mt.co.kr/sports/2026/10/14/2026101410042846045",
+      "sourceDate": "2026-10-14",
+      "imagePrompt": "Empty football stadium at twilight with floodlights casting long shadows on the pitch, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-14 저녁 브리핑\n1. 공천헌금 강선우, 1심 징역 2년 6개월 법정구속\n2. 12년 만에 열리는 신압록강대교···북·중 교역 시작\n3. 금융사 16곳 해킹 피해···주민번호 등 10만건 유출\n4. 이재명, 신임 비서실장에 임광현 국세청장 임명\n5. '아시아게임 금메달' 엄지성, 인종차별 피해···경찰 수사\n내일 저녁에도 물어오겠습니다 🦆\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #저녁뉴스\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
