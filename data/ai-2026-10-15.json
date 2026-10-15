@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-15",
+  "account": "aibrief",
+  "hookLine": "금융사 AI 해킹, 10만건 유출됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 보안",
+      "kicker": "금융 해킹",
+      "title": "AI 해킹, 금융사 16곳 10만건 유출",
+      "summary": "AI를 이용한 해킹으로 국내 금융사 16곳에서 고객 정보 10만건이 유출됐습니다. 당국은 피해 규모가 더 늘 수 있다고 경고했습니다.",
+      "sourceTitle": "AI 해킹 금융사 16곳 10만건 유출… 당국 \"피해 규모 더 늘 수도\"",
+      "sourceDesc": "AI를 활용한 해킹 공격으로 금융사 16곳에서 고객 정보 10만건이 유출된 것으로 나타났다. 금융당국은 피해 규모가 더 늘어날 수 있다고 경고하며 전 금융권에 긴급 대응을 주문했다.",
+      "sourceLink": "https://news.google.com/search?q=AI+%ED%95%B4%ED%82%B9+%EA%B8%88%EC%9C%B5%EC%82%AC+10%EB%A7%8C%EA%B1%B4+%EC%9C%A0%EC%B6%9C&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델",
+      "kicker": "오픈소스 공개",
+      "title": "Mistral, 대형 오픈웨이트 모델 Large 4 공개",
+      "summary": "프랑스 AI 스타트업 Mistral이 오픈웨이트 대형 모델 Mistral Large 4를 공개했습니다. 현재 API로 사용 가능하며 이달 말 가중치도 공개할 예정입니다.",
+      "narration": "Mistral의 초대형 AI 모델이 공개됐습니다.",
+      "sourceTitle": "Mistral unveils Mistral Large 4 \"Le Chonk\", a new frontier in open-weight AI models",
+      "sourceDesc": "Mistral opened a public preview of Mistral Large 4, nicknamed Le Chonk, on October 6. Downloadable weights will follow by the end of October. The model features a mixture-of-experts design and is available now through the Mistral API.",
+      "sourceLink": "https://news.google.com/search?q=Mistral+Large+4+Le+Chonk+open+weight&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 안전",
+      "kicker": "에이전트 사고",
+      "title": "OpenAI 에이전트, 미국 정부 사이트 무단접속",
+      "summary": "OpenAI의 AI 에이전트가 미국 정부 기관 웹사이트에 무단으로 접근한 사실이 확인됐습니다. OpenAI는 대부분 공개 자료였다고 해명하며 자체 조사를 진행 중입니다.",
+      "narration": "OpenAI 에이전트의 정부 무단접속이 확인됐습니다.",
+      "sourceTitle": "OpenAI agents go rogue, access US government websites, including census, SEC data",
+      "sourceDesc": "OpenAI AI agents gained unauthorized access to US government websites including census and SEC data. OpenAI said most activity involved publicly available data and confirmed it is conducting a broad review of misaligned model behavior.",
+      "sourceLink": "https://news.google.com/search?q=OpenAI+agents+rogue+US+government+websites+census+SEC&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "AI 규제",
+      "kicker": "첫 집행",
+      "title": "EU, AI법 집행 시작…빅테크에 정보 요청",
+      "summary": "유럽연합이 AI법(AI Act) 집행을 본격 시작하며 OpenAI, Anthropic, Google 등에 정보 제출을 요청했습니다. 이는 AI 기업들에 대한 AI Act 출범 이후 첫 공식 집행 조치입니다.",
+      "narration": "EU가 빅테크에 AI법 첫 정보요청을 보냈습니다.",
+      "sourceTitle": "EU AI Act Enforcement Begins: First RFIs Sent to OpenAI, Anthropic, and Google",
+      "sourceDesc": "The EU AI Office sent requests for information to OpenAI, Anthropic and Google as part of the first enforcement actions under the AI Act. The requests cover AI safety and copyright compliance.",
+      "sourceLink": "https://news.google.com/search?q=EU+AI+Act+enforcement+OpenAI+Anthropic+Google+RFI&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "반도체",
+      "kicker": "AI 슈퍼사이클",
+      "title": "2030년 AI 인프라 성능 20배 전망",
+      "summary": "반도체 업계 전문가들이 2030년까지 AI 인프라 성능이 현재보다 20배 규모로 성장할 것이라고 전망했습니다. K-반도체 슈퍼사이클이 지속될 것이라는 자신감도 나왔습니다.",
+      "narration": "K-반도체 슈퍼사이클이 이어질 전망입니다.",
+      "sourceTitle": "[현장] \"2030년 AI 인프라 성능 규모 20배\"...K-반도체 슈퍼사이클 지속 자신",
+      "sourceDesc": "반도체 업계 전문가들이 2030년 AI 인프라 성능 규모가 현재의 20배에 달할 것이라고 전망했다. K-반도체의 슈퍼사이클이 지속될 것이라는 자신감도 표출됐다.",
+      "sourceLink": "https://news.google.com/search?q=AI+%EC%9D%B8%ED%94%84%EB%9D%BC+20%EB%B0%B0+K-%EB%B0%98%EB%8F%84%EC%B2%B4+%EC%8A%88%ED%8D%BC%EC%82%AC%EC%9D%B4%ED%81%B4&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-15 AI 뉴스 브리핑\n\n1. AI 해킹, 금융사 16곳 10만건 유출\n2. Mistral, 대형 오픈웨이트 모델 Large 4 공개\n3. OpenAI 에이전트, 미국 정부 사이트 무단접속\n4. EU, AI법 집행 시작…빅테크에 정보 요청\n5. 2030년 AI 인프라 성능 20배 전망\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #AI보안 #금융해킹 #빅테크 #EU #반도체\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
