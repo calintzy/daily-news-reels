@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-16",
+  "slot": "am",
+  "hookLine": "주식 거래가 멈추는 일이 벌어졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "증시 폭락",
+      "title": "코스피·코스닥 8% 폭락, 거래도 멈췄다",
+      "summary": "코스피와 코스닥이 8% 폭락했습니다. 주식 거래까지 멈추는 사태가 벌어졌습니다.",
+      "narration": "증시가 8% 폭락해 거래까지 중단됐습니다.",
+      "sourceTitle": "\"주식시장에 대체 무슨 일이\"…코스피·코스닥 8% 폭락에 거래까지 멈췄다(종합)",
+      "sourceDesc": "\"주식시장에 대체 무슨 일이\"…코스피·코스닥 8% 폭락에 거래까지 멈췄다(종합)",
+      "sourceLink": "https://view.asiae.co.kr/article/2026101512533816486",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Empty trading floor with rows of dark computer screens showing red indicator lights, dramatic overhead lighting casting long shadows, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치·사법",
+      "kicker": "선거 수사",
+      "title": "특검, 선관위 7곳 압수수색…허위 입력 30곳",
+      "summary": "특검이 선관위 7곳을 압수수색했습니다. 전국 30곳에서 투표자 허위 입력이 확인됐습니다.",
+      "sourceTitle": "특검, 선관위 7곳 압수수색…\"투표자 허위 입력 30곳\"",
+      "sourceDesc": "특검, 선관위 7곳 압수수색…\"투표자 허위 입력 30곳\"",
+      "sourceLink": "https://www.mt.co.kr/society/2026/10/15/2026101513441751075",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Row of sealed evidence boxes stacked in an official government building corridor, harsh institutional fluorescent lighting, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "중동 긴장",
+      "title": "美 이란 재공습에 '모든 폭탄의 어머니' 검토",
+      "summary": "미국이 이란 재공습에 '모든 폭탄의 어머니' 투입을 검토하고 있습니다. 중동 지역의 긴장이 고조되고 있습니다.",
+      "sourceTitle": "美, 이란 재공습에 '모든 폭탄의 어머니' 투입 검토…중동 긴장 고조",
+      "sourceDesc": "美, 이란 재공습에 '모든 폭탄의 어머니' 투입 검토…중동 긴장 고조",
+      "sourceLink": "https://m.news.nate.com/view/20261015n37338",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Desert military airfield at dusk with aircraft hangar silhouettes against an orange and purple sky, dramatic long shadows, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "안보",
+      "kicker": "한미 안보",
+      "title": "미, '천무' 강화 요구에 전작권 '발목'",
+      "summary": "미국이 '천무' 등 대화력전 능력 강화를 요구했습니다. 전작권 전환에 발목이 잡혔습니다.",
+      "sourceTitle": "미, '천무' 등 대화력전 능력 강화 요구…전작권 '발목'",
+      "sourceDesc": "미, '천무' 등 대화력전 능력 강화 요구…전작권 '발목'",
+      "sourceLink": "https://m.news.nate.com/view/20261015n38114",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Military rocket artillery launcher on open training ground under gray overcast sky, morning mist across the horizon, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "국감 증인",
+      "title": "과방위, 이관섭 전 비서실장 국감 증인 채택",
+      "summary": "과방위가 이관섭 전 비서실장을 국감 증인으로 채택했습니다. 한상혁은 부결됐습니다.",
+      "sourceTitle": "과방위, 與 주도로 이관섭 전 靑 비서실장 국감 증인 채택…한상혁은 부결(종합)",
+      "sourceDesc": "과방위, 與 주도로 이관섭 전 靑 비서실장 국감 증인 채택…한상혁은 부결(종합)",
+      "sourceLink": "https://m.news.nate.com/view/20261015n37365",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Empty parliamentary committee hearing room with long curved wooden table and rows of microphones, overhead institutional lighting, formal government atmosphere, photojournalism documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-16 아침 브리핑\n\n1. 코스피·코스닥 8% 폭락, 거래도 멈췄다\n2. 특검, 선관위 7곳 압수수색…허위 입력 30곳\n3. 美 이란 재공습에 '모든 폭탄의 어머니' 검토\n4. 미, '천무' 강화 요구에 전작권 '발목'\n5. 과방위, 이관섭 전 비서실장 국감 증인 채택\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_news_rss": "fail"
+    },
+    "signalHits": []
+  }
+}
