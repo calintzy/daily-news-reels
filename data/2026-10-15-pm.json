@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-15",
+  "slot": "pm",
+  "hookLine": "주식을 갖고 계신다면 코스피 6000선이 무너졌습니다",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "코스피 6000선 붕괴",
+      "title": "삼성전자·SK하이닉스 급락, 코스피 6000선 붕괴",
+      "summary": "미국 물가 충격에 삼성전자와 SK하이닉스가 동반 급락했습니다. 코스피가 6000선 아래로 내려가며 장중 매도 사이드카가 발동됐습니다.",
+      "narration": "코스피 6000선이 붕괴되며 급락세가 계속됐습니다.",
+      "sourceTitle": "삼성전자·SK하이닉스 동반 급락… 코스피 6000선 붕괴",
+      "sourceDesc": "삼성전자와 SK하이닉스가 동반 급락하며 코스피가 6000선 아래로 내려갔다. 장중 매도 사이드카가 발동됐다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/securities/2026/10/15/20261015500043",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Empty trading floor interior with glowing digital screens displaying downward red arrow charts in a darkened room, reflective floor surface catching screen glow, dramatic ambient lighting from display panels, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "사건",
+      "kicker": "공천헌금 1억원",
+      "title": "강선우 공천헌금 1심, 징역 2년6개월 법정구속",
+      "summary": "공천을 대가로 1억원을 받은 혐의로 기소된 강선우 의원이 1심에서 징역 2년 6개월을 선고받고 법정구속됐습니다. 재판부는 선거 공정성이 훼손됐다고 판단했습니다.",
+      "sourceTitle": "강선우 '공천헌금' 1심서 2년 6개월 실형… 3주 만에 재구속",
+      "sourceDesc": "공천을 대가로 1억원을 수수한 혐의로 기소된 강선우 의원이 1심에서 징역 2년 6개월을 선고받고 법정구속됐다. 재판부는 선거 공정성이 훼손됐다고 판단했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/2026/10/15/20261015008001",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Empty courtroom interior with a polished wooden judge's bench and a gavel resting beside official nameplates, institutional overhead lighting casting soft shadows on tiled floor, formal judicial architecture with flag in background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "美 물가 3.7% 쇼크",
+      "title": "美 9월 CPI 3.7%, 금리 인상론 급부상",
+      "summary": "미국 9월 소비자물가가 예상치를 웃도는 3.7% 상승을 기록하며 한국 증시를 직격했습니다. 증권가는 금리 추가 인상 가능성과 AI 신용 비상을 경고했습니다.",
+      "sourceTitle": "韓증시 때린 美 '물가 쇼크'…증권가 \"금리 추가 인상·AI 신용 비상\"",
+      "sourceDesc": "미국 9월 소비자물가(CPI)가 전년 동월 대비 3.7% 상승해 예상치를 웃돌았다. 한국 증시가 직격탄을 맞았고, 증권가는 금리 추가 인상과 AI 신용 비상을 경고했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610150955427353",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Extreme close-up of a vintage analog pressure gauge with the needle deep in the red warning zone, heavily textured worn metal casing with industrial paint, dramatic directional side lighting creating deep shadows, no people, no text, vertical 9:16 composition, photojournalism documentary photography"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "美 금리 딜레마",
+      "title": "美 국채금리 5.3% 돌파, 연준 금리 딜레마",
+      "summary": "미국 소비자물가 쇼크 이후 미국 국채금리가 장중 5.3%를 돌파했습니다. 연준이 물가와 경기 사이에서 금리 딜레마에 처했다는 분석이 나오고 있습니다.",
+      "sourceTitle": "美 국채금리 장중 5.3% 돌파…연준, 물가·경기 사이 금리 딜레마",
+      "sourceDesc": "미국 소비자물가 쇼크 이후 미국 국채금리가 장중 5.3%를 돌파했다. 연준이 물가와 경기 사이에서 금리 딜레마에 처했다는 분석이 나오고 있다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261015000579",
+      "sourceDate": "2026-10-15",
+      "imagePrompt": "Rows of official government financial documents and bond certificates spread across a dark wooden desk surface under a focused overhead spotlight, embossed seals visible in dramatic chiaroscuro lighting, formal paper texture in sharp detail, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-15 저녁 브리핑\n\n1. 삼성전자·SK하이닉스 급락, 코스피 6000선 붕괴\n2. 강선우 공천헌금 1심, 징역 2년6개월 법정구속\n3. 美 9월 CPI 3.7%, 금리 인상론 급부상\n4. 美 국채금리 5.3% 돌파, 연준 금리 딜레마\n\n저녁 소식도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁뉴스 #경제뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "googleNews": "fail"
+    },
+    "signalHits": []
+  }
+}
