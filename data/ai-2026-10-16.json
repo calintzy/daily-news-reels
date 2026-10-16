@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-16",
+  "account": "aibrief",
+  "hookLine": "청소년 소송에 시달리던 챗봇이 파산 신청했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회 영향",
+      "kicker": "챗봇 파산",
+      "title": "Character.ai, 청소년 소송에 파산 신청",
+      "summary": "AI 챗봇 플랫폼 Character.ai가 챕터 11 파산보호를 신청했습니다. 청소년 자살 관련 소송이 이어진 끝에 파산에 이른 것으로, 디즈니가 일부 자산 인수를 제안했습니다.",
+      "sourceTitle": "Character.ai files for bankruptcy following lawsuits alleging ties to teen suicides",
+      "sourceDesc": "Character.ai, an interactive AI chatbot platform, filed for Chapter 11 bankruptcy protection on Monday, citing significant legal, regulatory and operational headwinds. Disney has offered $20 million for a nonexclusive license to some of the company's intellectual property.",
+      "sourceLink": "https://news.google.com/search?q=Character.ai+bankruptcy+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "빅테크 사업",
+      "kicker": "역대급 IPO",
+      "title": "앤트로픽, 다음달 상장 추진…기업가치 2조달러",
+      "summary": "앤트로픽이 다음달 중순 기업공개(IPO)를 추진하고 있습니다. 기업가치는 최대 2조달러로, 이 경우 사상 최대 IPO가 될 수 있습니다.",
+      "narration": "앤트로픽이 기업가치 2조달러 상장을 추진합니다.",
+      "sourceTitle": "앤트로픽, 다음달 중순 상장 추진…기업가치 최대 2조달러",
+      "sourceDesc": "앤트로픽이 이르면 다음달 중순 기업공개(IPO)를 추진하고 있다. 기업가치는 최대 2조달러로, 성사되면 사상 최대 IPO 기록을 경신하게 된다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD+%EC%83%81%EC%9E%A5+2%EC%A1%B0%EB%8B%AC%EB%9F%AC+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "반도체·인프라",
+      "kicker": "사상 최대",
+      "title": "TSMC 3분기 매출 사상 최대…AI 수요 호조",
+      "summary": "TSMC가 3분기 매출 62.7조원으로 사상 최고치를 기록했습니다. AI 반도체 수요 급증에 힘입은 결과로, 시장 전망치도 웃돌았습니다.",
+      "narration": "TSMC가 AI 수요로 분기 최대 매출 달성했습니다.",
+      "sourceTitle": "TSMC, 3분기 매출 62.7조원 '사상 최대'…시장 전망치 웃돌아",
+      "sourceDesc": "TSMC가 3분기 매출 62.7조원을 기록하며 역대 최고치를 경신했다. AI 반도체 수요 급증에 힘입은 성과로, 시장 전망치도 웃돌았다.",
+      "sourceLink": "https://news.google.com/search?q=TSMC+3%EB%B6%84%EA%B8%B0+%EC%82%AC%EC%83%81+%EC%B5%9C%EB%8C%80+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "AI 서비스",
+      "kicker": "AI 보안 강화",
+      "title": "코히어, AI 보안 스타트업 AISLE 인수 추진",
+      "summary": "코히어가 AI 사이버보안 스타트업 AISLE 인수를 위한 의향서를 체결했습니다. 이번 계약으로 코히어는 AI 보안 사업을 강화할 계획입니다.",
+      "narration": "코히어가 보안 스타트업 AISLE 인수에 나섰습니다.",
+      "sourceTitle": "코히어, AI 보안 스타트업 AISLE 인수",
+      "sourceDesc": "캐나다 AI 기업 코히어가 사이버보안 스타트업 AISLE 인수를 위한 의향서(LOI)를 체결했다고 15일 발표했다. 코히어는 이번 인수로 AI 보안 사업을 강화하고 새로운 보안 부서를 신설할 계획이다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%BD%94%ED%9E%88%EC%96%B4+AISLE+%EC%9D%B8%EC%88%98+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "명칭 전쟁",
+      "title": "미국, IMF 회원국에 슈퍼지능 사용 압박",
+      "summary": "미국이 IMF 회원국들에게 '인공지능(AI)' 대신 '슈퍼지능'이라는 명칭을 쓰도록 압박하고 있습니다. 회원국들은 미국의 요구에 떨떠름한 반응을 보이고 있습니다.",
+      "narration": "미국이 IMF에 슈퍼지능 용어 사용을 압박합니다.",
+      "sourceTitle": "'인공지능 대신 슈퍼지능 써라'…미 압박에 IMF 회원국들 '떨떠름'",
+      "sourceDesc": "미국 재무부가 IMF 회원국들에게 '인공지능(AI)' 대신 '슈퍼지능(SI·Superintelligence)'이라는 명칭 사용을 요구하고 있다는 보도가 나왔다. 회원국들은 미국의 압박에 달갑지 않은 반응을 보이는 것으로 알려졌다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%8A%88%ED%8D%BC%EC%A7%80%EB%8A%A5+IMF+%EB%AF%B8%EA%B5%AD+%EC%95%95%EB%B0%95&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-16 AI 뉴스 브리핑\n\n1. Character.ai, 청소년 소송에 파산 신청\n2. 앤트로픽, 다음달 상장 추진…기업가치 2조달러\n3. TSMC 3분기 매출 사상 최대…AI 수요 호조\n4. 코히어, AI 보안 스타트업 AISLE 인수 추진\n5. 미국, IMF 회원국에 슈퍼지능 사용 압박\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #ChatGPT #반도체 #TSMC #IPO #사이버보안\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
