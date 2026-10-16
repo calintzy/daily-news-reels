@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-17",
+  "slot": "am",
+  "hookLine": "화재 진압 중 소방관 1명이 심정지였습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "소방관 심정지",
+      "title": "부천 공장 화재, 소방관 심정지",
+      "summary": "경기 부천 도장공장에서 화재가 발생해 소방관 1명이 심정지 상태로 이송됐습니다. 부상자는 총 8명으로, 소방 당국이 원인을 조사하고 있습니다.",
+      "narration": "부상자 8명 중 소방관 1명이 심정지였습니다.",
+      "sourceTitle": "부천 도장 공장 화재 부상자 8명…소방관 1명 심정지",
+      "sourceDesc": "경기도 부천시 내동 소재 금속부품 도장공장에서 화재가 발생해 소방관 1명이 심정지 상태에서 병원으로 이송됐다. 부상자는 소방관 6명과 공장 관계자 2명 등 8명이다.",
+      "sourceLink": "https://www.fnnews.com/news/202610162014449163",
+      "sourceDate": "2026-10-16",
+      "imagePrompt": "An industrial factory building exterior with smoke billowing from upper floors, fire engines parked outside, no people, no text, photojournalism documentary style, dramatic natural light, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "사법 탄핵 논의",
+      "title": "민주당, 조희대 탄핵 논의 착수",
+      "summary": "더불어민주당 김민석 대표가 조희대 대법원장 탄핵을 위한 모든 방법 논의를 시작하겠다고 밝혔습니다. 대법관 후보자 재제청 거부를 둘러싼 사법부 갈등이 탄핵 논의로 확대됐습니다.",
+      "sourceTitle": "김민석 '조희대 탄핵 광범위한 요구 나와···모든 방법 논의 시작했다'",
+      "sourceDesc": "더불어민주당 김민석 대표는 조희대 대법원장 탄핵에 대해 광범위한 요구가 나오고 있다며 모든 방법과 경로를 논의하기 시작했다고 밝혔다. 이재명 대통령의 대법관 후보자 재제청 요구를 조 대법원장이 거부하면서 갈등이 고조됐다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610160757001/",
+      "sourceDate": "2026-10-16",
+      "imagePrompt": "The exterior of a grand courthouse building with classical stone columns, no people, no text, photojournalism style, overcast sky, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "국제·외교",
+      "kicker": "한미 갈등",
+      "title": "미, 대북정보에 쿠팡 해결 요구 파문",
+      "summary": "미국이 대북 정보 공유 재개 조건으로 쿠팡 문제 해결을 요구했다는 보도가 나왔습니다. 청와대는 사실에 기반하지 않는다며 한미 양국이 긴밀히 협의 중이라고 밝혔습니다.",
+      "sourceTitle": "靑, '美 북핵정보·쿠팡 연계' 보도에 '사실 기반 아냐, 한미 긴밀 협의 중'",
+      "sourceDesc": "청와대는 미국이 대북 정보 공유 재개에 쿠팡 문제 해결을 연계해 요구했다는 보도에 대해 사실에 기반하지 않는다고 밝혔다. 한미 양국이 긴밀히 협의하고 있다는 입장도 덧붙였다.",
+      "sourceLink": "https://www.fnnews.com/news/202610161334544132",
+      "sourceDate": "2026-10-16",
+      "imagePrompt": "An empty conference room with two national flags on stands facing each other across a long table, no people, no text, photojournalism style, cold blue tones, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "경제·사회",
+      "kicker": "청년 고용 한파",
+      "title": "9월 취업자 11만 증가, 청년은 47개월째 감소",
+      "summary": "통계당국이 발표한 9월 고용동향에서 전체 취업자가 11만 명 늘었지만, 청년층 취업자는 47개월째 감소했습니다. 경기 회복에도 청년 고용 한파가 이어지고 있습니다.",
+      "sourceTitle": "9월 취업자수 11만명 증가...청년층 취업자 수는 47개월 연속 감소",
+      "sourceDesc": "국가데이터처가 발표한 9월 고용동향에 따르면 전체 취업자는 전년 대비 11만3천명 늘어 4개월 연속 증가했다. 15세부터 29세 청년 취업자는 47개월 연속 감소했다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026101607510003525",
+      "sourceDate": "2026-10-16",
+      "imagePrompt": "A job vacancy board covered in paper notices inside an empty modern office, soft natural light through a window, no people, no text, photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "하늘 나는 로드스터",
+      "title": "테슬라 신형 로드스터, 공중 비행 시연",
+      "summary": "테슬라가 스페이스X와 협력해 로켓 기술을 탑재한 신형 로드스터를 공개하고 제어 비행 시연에 성공했습니다. 합병설까지 나오며 업계의 이목이 집중됐습니다.",
+      "sourceTitle": "[미국 특징주] 테슬라·스페이스X 손잡은 '하늘 나는 로드스터'… 합병설에 불 지피나",
+      "sourceDesc": "테슬라와 스페이스X가 협력해 로켓 기술을 탑재한 신형 로드스터를 미국에서 공개했다. 스페이스X 추진 기술을 활용한 차량이 경사로를 뛰어올라 제어 착지하는 시연을 선보였다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261016001430",
+      "sourceDate": "2026-10-16",
+      "imagePrompt": "A sleek electric sports car launching off a curved ramp outdoors, motion blur on tires, dramatic sky, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-17 아침 브리핑\n\n1. 부천 공장 화재, 소방관 심정지\n2. 민주당, 조희대 탄핵 논의 착수\n3. 미, 대북정보에 쿠팡 해결 요구 파문\n4. 9월 취업자 11만 증가, 청년은 47개월째 감소\n5. 테슬라 신형 로드스터, 공중 비행 시연\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #국내뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
