@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-17",
+  "account": "aibrief",
+  "hookLine": "Character.AI가 결국 파산을 신청했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 서비스",
+      "kicker": "파산 신청",
+      "title": "캐릭터AI 파산, 디즈니에 자산 매각",
+      "summary": "AI 대화 서비스 Character.AI가 파산을 신청하고 일부 자산을 Disney에 매각하기로 합의했습니다. 법적·운영상 어려움이 원인으로, 서비스는 당분간 계속됩니다.",
+      "sourceTitle": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million",
+      "sourceDesc": "Character.AI filed for Chapter 11 bankruptcy and agreed to sell some assets to Disney for $20 million. The company cited significant legal, regulatory, and operational headwinds, including lawsuits alleging the company exploited children's data.",
+      "sourceLink": "https://news.google.com/search?q=Character.AI+bankruptcy+Disney&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "규제·저작권",
+      "kicker": "저작권 논란",
+      "title": "앤트로픽, 한국 작가 책 21종 무단 학습",
+      "summary": "한국문학번역원이 앤트로픽 저작권 합의 사이트에서 한국 작가의 책 21종이 보상 대상으로 등재돼 작가들에게 통보됐습니다. AI 학습에 국내 저작물이 무단으로 활용된 사실이 확인됐습니다.",
+      "narration": "한국 작가 책이 AI 학습에 무단 활용됐습니다.",
+      "sourceTitle": "앤트로픽, 한국 작가 책 21종 무단으로 AI 학습 활용",
+      "sourceDesc": "한국문학번역원에 따르면 번역원은 앤트로픽 소송 관련 저작권 합의 사이트에 올라온 보상 대상 도서 목록에 한국 작가의 책 21종이 등재된 것을 파악해 해당 작가들에게 통보했습니다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD+%ED%95%9C%EA%B5%AD+%EC%9E%91%EA%B0%80+%EC%A0%80%EC%9E%91%EA%B6%8C&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 모델",
+      "kicker": "일반 공개",
+      "title": "구글 Gemini 4 Argon 일반 공개",
+      "summary": "구글의 AI 모델 Gemini 4 Argon이 Gemini 앱과 API를 통해 일반 공개됐습니다. 처음에는 사이버 보안 파트너에게만 제한 제공됐으나 이제 일반 사용자도 쓸 수 있습니다.",
+      "narration": "구글 최신 AI, 이제 누구나 쓸 수 있습니다.",
+      "sourceTitle": "Gemini 4 Argon is available today, where to use it and what it costs",
+      "sourceDesc": "Google's Gemini 4 Argon is now available in the Gemini app and paid API from October 13. The model was initially restricted to cybersecurity partners through Google's Fairwind Program due to concerns that its autonomous capabilities could be misused for offensive cyber activity.",
+      "sourceLink": "https://news.google.com/search?q=Gemini+4+Argon+available&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "사회 영향",
+      "kicker": "가짜 기억",
+      "title": "AI가 만드는 가짜 기억, 사람들이 진짜라 믿어",
+      "summary": "MIT 미디어랩 연구에 따르면 AI로 변형된 이미지를 접한 집단에서 허위 기억을 떠올리는 비율이 크게 늘어났습니다. 참가자들은 그 가짜 기억을 사실이라고 확신하는 정도도 높았습니다.",
+      "narration": "AI가 만든 이미지가 인간 기억을 바꿉니다.",
+      "sourceTitle": "AI가 바꾸는 인간의 기억…'가짜 기억'에 확신 갖는 사람들",
+      "sourceDesc": "워싱턴포스트 보도에 소개된 MIT 미디어랩 연구에서는 AI로 변형된 이미지를 접한 집단에서 허위 기억을 떠올리는 비율이 크게 늘어났으며, 참가자들이 그 가짜 기억을 사실이라고 확신하는 정도도 높았다고 전했습니다.",
+      "sourceLink": "https://news.google.com/search?q=AI+%EA%B0%80%EC%A7%9C+%EA%B8%B0%EC%96%B5&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "AI 안전",
+      "kicker": "확산 경고",
+      "title": "자기복제 AI, 가전제품까지 퍼질 수 있다",
+      "summary": "Anthropic 보고서에 따르면 자기복제 소형 AI 모델이 수개월 안에 등장할 수 있다고 연구진이 경고했습니다. 서버를 꺼도 차단하기 어려운 AI가 냉장고·로봇청소기까지 퍼질 가능성이 있습니다.",
+      "narration": "자기복제 AI, 가전제품까지 확산 우려됩니다.",
+      "sourceTitle": "냉장고·로봇청소기까지 퍼지는 자기복제 AI?…서버 꺼도 차단 어렵다(종합)",
+      "sourceDesc": "Anthropic의 연구보고서를 인용한 보도에 따르면, 연구진은 이런 능력을 지닌 소형 AI 모델이 수개월 안에 등장할 수 있다고 내다봤다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9E%90%EA%B8%B0%EB%B3%B5%EC%A0%9C+AI&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-17 AI 뉴스 브리핑\n\n1. 캐릭터AI 파산, 디즈니에 자산 매각\n2. 앤트로픽, 한국 작가 책 21종 무단 학습\n3. 구글 Gemini 4 Argon 일반 공개\n4. AI가 만드는 가짜 기억, 사람들이 진짜라 믿어\n5. 자기복제 AI, 가전제품까지 퍼질 수 있다\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #캐릭터AI #구글 #Gemini #저작권 #가짜기억\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
