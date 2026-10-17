@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-18",
+  "slot": "am",
+  "hookLine": "심정지 소방관이 끝내 순직했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "소방관 순직",
+      "title": "부천 소방관 끝내 순직",
+      "summary": "경기 부천시 공장 화재 진압 중 심정지 상태였던 소방관이 끝내 순직했습니다. 화재로 소방관 등 8명이 중경상을 입었으며, 영결식은 19일 열릴 예정입니다.",
+      "narration": "부천 40대 소방관이 끝내 순직했습니다.",
+      "sourceTitle": "부천 공장 화재로 심정지 40대 소방관 끝내 순직",
+      "sourceDesc": "경기 부천시 내동 공장 화재 진압 중 심정지 상태로 구조된 소방관이 끝내 숨졌다. 화재로 소방관 등 8명이 중경상을 입었으며, 영결식은 19일 거행될 예정이다.",
+      "sourceLink": "https://www.fnnews.com/news/202610170854218898",
+      "sourceDate": "2026-10-17",
+      "imagePrompt": "A burned industrial factory exterior with scorch marks on concrete walls and soot-darkened windows, fire engine hoses coiled on the ground outside, gray overcast sky, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "사건·사고",
+      "kicker": "흉기 난동 수사",
+      "title": "최충락, 어린이집 범행 고려 진술",
+      "summary": "경찰이 인천 흉기 난동 피의자 최충락의 자택을 압수수색했습니다. 최씨는 어린이집도 범행 대상으로 고려했다고 진술했으며, 부상자는 8명입니다.",
+      "sourceTitle": "\"어린이집서 칼부림 고민했다\"...'인천 흉기 난동' 최충락, 끔찍한 진술",
+      "sourceDesc": "인천 흉기 난동 피의자 최충락(59)이 경찰 조사에서 어린이집도 범행 대상으로 고려했다고 진술했다. 경찰은 최씨 자택을 압수수색하며 범행 계획 여부를 수사 중이며, 부상자는 8명이다.",
+      "sourceLink": "https://www.fnnews.com/news/202610170941431374",
+      "sourceDate": "2026-10-17",
+      "imagePrompt": "Police crime scene tape stretched across the entrance of a residential apartment building, forensic markers on the ground, overcast urban morning light, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "빨대 발언 사과",
+      "title": "추미애, 빨대 발언 나흘 만에 사과",
+      "summary": "추미애 경기지사가 '소방 재정 빨대' 발언 나흘 만에 순직 소방관 빈소를 찾아 공식 사과했습니다. 소방관 폄훼 의도가 전혀 없었다며 표현상 실수였다고 해명했습니다.",
+      "sourceTitle": "추미애 '소방 재정 빨대' 발언, 나흘만에 사과···'소방관 폄훼 의도 전혀 없어'",
+      "sourceDesc": "추미애 경기지사가 13일 국정감사에서 한 '소방 재정 빨대' 발언에 대해 17일 부천 순직 소방관 빈소에서 공식 사과했다. 소방관 폄훼 의도는 전혀 없었다며 표현상 실수였다고 해명했다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610171644001/",
+      "sourceDate": "2026-10-17",
+      "imagePrompt": "Rows of white chrysanthemum funeral flowers arranged on a ceremonial table with incense holders, soft indoor lighting in a solemn space, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "안보",
+      "kicker": "北 어뢰 발사",
+      "title": "北 신형 어뢰 발사시험, 인공지능 도입",
+      "summary": "북한이 인공지능 기술을 도입한 신형 초고속 정밀유도 어뢰를 수중 발사시험했다고 밝혔습니다. 5년간 180차례 시험을 거쳐 완성된 추진 기술 등이 검증됐다고 했습니다.",
+      "sourceTitle": "北, 신형 초고속 정밀유도 어뢰 발사시험…\"인공지능 도입\"(종합)",
+      "sourceDesc": "북한이 표적 탐색·유도에 인공지능 기술을 적용한 신형 초고속 정밀유도 어뢰를 15일 수중 실탄 발사시험을 통해 검증했다고 밝혔다. 조선중앙통신은 5년간 180차례 시험을 거쳤다고 보도했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610171032043473",
+      "sourceDate": "2026-10-17",
+      "imagePrompt": "An underwater view looking up through deep blue ocean water with turbulent bubble trails and shafts of light filtering down from the surface, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "국제·외교",
+      "kicker": "야스쿠니 봉납",
+      "title": "정부, 다카이치 야스쿠니 봉납에 유감",
+      "summary": "외교부가 다카이치 일본 총리의 야스쿠니신사 공물 봉납에 깊은 실망과 유감을 표명했습니다. 침략전쟁을 미화하고 전쟁범죄자를 합사한 야스쿠니에 대한 봉납 행위를 강하게 비판했습니다.",
+      "sourceTitle": "정부, 다카이치 야스쿠니 공물 봉납에 \"깊은 실망\"",
+      "sourceDesc": "외교부 대변인은 일본 다카이치 총리가 야스쿠니신사 추계 예대제에 공물을 봉납한 데 대해 깊은 실망과 유감을 표한다고 밝혔다. 침략전쟁을 미화하고 전쟁범죄자를 합사한 야스쿠니에 대한 봉납을 강도 높게 비판했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610171507160854",
+      "sourceDate": "2026-10-17",
+      "imagePrompt": "A traditional Japanese shrine torii gate surrounded by autumn foliage, a wooden offering box in the foreground with smoke rising from incense, overcast sky, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-18 아침 브리핑\n\n1. 부천 소방관 끝내 순직\n2. 최충락, 어린이집 범행 고려 진술\n3. 추미애, 빨대 발언 나흘 만에 사과\n4. 北 신형 어뢰 발사시험, 인공지능 도입\n5. 정부, 다카이치 야스쿠니 봉납에 유감\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #국내뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
