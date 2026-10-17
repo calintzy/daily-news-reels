@@ -1,6 +1,6 @@
 {
   "stem": "2026-10-18-am",
-  "collectedAt": "2026-10-18T03:26:50+09:00",
+  "collectedAt": "2026-10-18T04:41:55+09:00",
   "sources": {
     "news": "ok",
     "trends": "ok",
@@ -18,12 +18,6 @@
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53bjFyWUxmUzhIdVk5Q1FzVEU4U1BsXzV0VjZiY3BzVk9NT0k1bnM2aU9Ib0g2bXF1Q1MwQ253SjNMY0RiRjVhNEZMcURXS293bFRhSTZLTWxKQQ?oc=5",
       "pubDate": "2026-10-17T21:32:03+09:00"
-    },
-    {
-      "title": "다카이치, 야스쿠니 신사에 공물 봉납…일부 각료는 참배도",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRzYyeUVGR3MxRDVpZEdfaXRXUlFzRVhCdDBvNTBCWE5WUURack1ONF9NVmU2SFNkb3FxTzZHQk9mZmJYdGdhWENsSU1qVDZpTHZNSFFCTzFUTlE?oc=5",
-      "pubDate": "2026-10-17T22:22:00+09:00"
     },
     {
       "title": "'최단명' 백악관 대변인, 위기의 비서실장이 놓은 덫에 걸렸나",
@@ -44,10 +38,22 @@
       "pubDate": "2026-10-17T15:25:00+09:00"
     },
     {
-      "title": "與, 美 '전작권 전환조건 변화'에 \"조건 빨리 충족해 전환해야\"",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1id2huUWY5TDh1R2lWcmY4S2ZlaE5zTmc1RTlMTlJVUEV4ZlpfSnBneU9yZC1LdnRGSzBHRXZ2TFVkSnd3RVJ3Ym10elJ6NkU2ckhVSzBGSVlVNHfSAWBBVV95cUxQWWpWZVlRTTJDRzJUaFJrampiTWJOQVFaRG10WE5tMGZlbGNYVG5qVDllT3QzNlUzcVh6SFR0WkI1c3JlNGRUOHdvcUpfZF9laVJGQ041TmFtNE9PSmVjVHE?oc=5",
-      "pubDate": "2026-10-17T17:07:50+09:00"
+      "title": "우크라군 위성통신 장애로 작전 차질…트럼프 “지시한 적 없다”",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15SDZFUzB3UGNCeWlWZ3NjOF85NW5OTzdoZFhVLWMwN2JlbHJ3NnBhd1NzYk1WS3ZYYUhRMFpCWGlvM3A5ajRMSFVSeE5ac2FjVkVieXZwdEVZS1E?oc=5",
+      "pubDate": "2026-10-17T21:14:00+09:00"
+    },
+    {
+      "title": "안방서 열린 전국체전 순항…제주 선수들 선전",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NUXJRVWhVN1BlYmZBaF9uZjg4RElKVmRkM2wxMDFsNUxlb1ZKb0ZGcHJQTlBjbHZySlZpRFU5SHloWXlHSWRNeG42VVhQdjRjOFZxTjlkQjQ5WTA5WWJZM1JxMDVrZw?oc=5",
+      "pubDate": "2026-10-17T21:34:00+09:00"
+    },
+    {
+      "title": "김병주, 주한미군 사령관에 사과 요구‥\"주권 침해 발언, 선 넘어\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jd2JSSFBCbWZOZ2hpOEpVN1kzY0J4UXdVY0FOMlNaeDVGd0hUeEg0RDljZlpWV2dxTVE4TXgzQ1JjZXpLeFZQaWRGYkxXUHRTYjhfVV9mRmpYRENSMVVROUhKTUlibHUyRkptS1ZpOEdxTVhVdUQ4UtIBeEFVX3lxTE1fZVBXLVZEZFU1NHBHVHd3eFpORzRNdl9kOUhOQWlscXZLRlNmbkdPRno2VDYwUUdoZ0RTNHpBSGJVa2FBYkFpT045NWtFdGw1VUlSOG03ZzJKNUVGOHAtSGtMTFdxMlBxUnhkTThGOWMwRVVyNV9XaA?oc=5",
+      "pubDate": "2026-10-17T19:26:04+09:00"
     },
     {
       "title": "대구·경북 18일 낮부터 돌풍 동반 강한 비....예상 강수량 10~50mm",
@@ -68,12 +74,6 @@
       "pubDate": "2026-10-17T23:21:48+09:00"
     },
     {
-      "title": "우크라군 위성통신 장애로 작전 차질…트럼프 “지시한 적 없다”",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15SDZFUzB3UGNCeWlWZ3NjOF85NW5OTzdoZFhVLWMwN2JlbHJ3NnBhd1NzYk1WS3ZYYUhRMFpCWGlvM3A5ajRMSFVSeE5ac2FjVkVieXZwdEVZS1E?oc=5",
-      "pubDate": "2026-10-17T21:14:00+09:00"
-    },
-    {
       "title": "트럼프, 유가 급등에 ‘대러 추가 제재’ 취소…정치권 “또 푸틴에 굴복”",
       "source": "한겨레",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQTU1azVtdU9EekVFdG9uN1BSMGJ3QmFzR3JXUERJOFFySUVaRHh1Z0Y4NkNFd3h1MlRPMU9IQU4xN041QmY2S2VzcWNMemFhY0M1NGp0b21vUVN6YlBzb0pmS3FDcDRIeHQxQ3dOVW8yaDN6Yk9heEViMjJJT25LWU1n?oc=5",
@@ -86,10 +86,10 @@
       "pubDate": "2026-10-17T23:04:00+09:00"
     },
     {
-      "title": "연말까지 고양창릉·하남교산 등 수도권 주택 23만 5000호 착공",
-      "source": "수원일보",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aUHNMaGNsUGpTeHZCV2JLRExWSjFXejIxMjlYWlFIU0RvRUVpNW5ZbmRLOHV4dUtxa09HUXR4eWF5YzViMS0yV3dPSVpBNHBiREdDajVlVmZFLVdtemJGRF9BOWF4dw?oc=5",
-      "pubDate": "2026-10-17T18:48:16+09:00"
+      "title": "주북 中 대사, 신압록강대교 참관…“북중 사회주의 발전 적극 기여”",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDaTNSQkdQc0xtM0twMnZVMTQ3LVdPb2tJR3h1ZlhUR1dCMVNlRXB1X0RDT0VvUW5jV3dFR1Y4bUw5X2tEWHRoRTBMRHZrSnc5UUE0R1FFaWNmLVNhQzFWZWU0Wi1MQmhWZ0w4LXhGTWtkVDjSAWZBVV95cUxOa3BFN0JCdVVpS2o0Q3hQdGw1bEszN29vc0F1bkpZajVTZERfejZRa3RSZkNaMDVHcENQak1pN2lNYVRQWDRhQ2ZPQWMxUFFRYnI0a1k1dFJQT2EyMkV4V2czZUtxQWc?oc=5",
+      "pubDate": "2026-10-17T16:28:55+09:00"
     },
     {
       "title": "“지키자 내 돈”…코스피 불안에 예금·IMA로 ‘역 머니무브’",
@@ -104,10 +104,16 @@
       "pubDate": "2026-10-17T16:42:06+09:00"
     },
     {
-      "title": "플레이스테이션 6의 저장 장치와 RAM 가격이 680달러를 넘어섰습니다.",
+      "title": "머스크와 갈등 빚던 올트먼도 신형 테슬라 로드스터 극찬",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3RBeTA3N1hoNzVLamdXVlhRYnQ2X1JBTW0yYlpEbGhURC1FRjB6WVpYZ01IaTlybXFfOVhhRHlpOURwd2c5MU1fSzl2em9ZZkJGQjVrZHdYYzFxUllnX1RSY2NiTjlpQVBOSmp6T2M5TC1vcFdJTm5VVzdPWWJpeVY0RnJpNXRy?oc=5",
+      "pubDate": "2026-10-18T02:00:00+09:00"
+    },
+    {
+      "title": "플레이스테이션 6 프로는 최대 70테라플롭스의 성능과 48GB의 메모리를 탑재하고 2032년에 출시될 수 있다.",
       "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmpUUkR0R2pjR2xVXzJrRlpqd2J4Y282THBlVkZMVUVRWHZMeW05S0F4Y0hJYWRGVHVuTl9WQlhZazFFQlQxbGpiRm5NV2xyT3A3TzhIQmdyMVFic0xxSW5oMnFRNWNBdXRxaW5sSHIzTVZnWExOX0ltVmgyRlNKYUJ4WnY3dUhvSGVXbDFaSHZDSURYc0Q2R1ZCR0lKSGtkVTRNUC0wVzgzcGVqbFpzZU1YMA?oc=5",
-      "pubDate": "2026-10-18T02:55:28+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa3ZKeExTNGduMF8xWXRkQWxsQ1k3MDcyMmxGX3FtWENRX1VTRE51WXUtTjhibi1kX05sc2lZR3k1d0duV1NScGlya0JWWEVmeXVZUUdfYm84YzRfREJWSm9qY2V4bWhhTnpVNnYzTUc3NEZZaVI2ZGs4OXdQemN6cmVvcktZZG9qMGJ2dlZYU1J2aU1SaVBzUjR0dUpmOWduRE56Wm9Oa1VxNFBuNFY5VVlBeVZkaU9aQ1E?oc=5",
+      "pubDate": "2026-10-18T03:54:06+09:00"
     },
     {
       "title": "한국전 〈콜오브듀티: 모던워페어4〉 캠페인이 주는 단 한 번의 경험",
@@ -128,28 +134,28 @@
       "pubDate": "2026-10-17T18:21:00+09:00"
     },
     {
-      "title": "‘동작그만’ 정체는 허경환? 유재석 “그림자인데도 하체 짧아” (놀면 뭐하니)",
-      "source": "스포츠동아",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yLTl2Rk9Cb1VEcUFoemxPM1ZkQW14NUJUTGcwSmNkQU5ZYWxsWHhtbFFTcDlySDBWMlhtNUVBdzUyd0N3akhaS3VkODBpYXdRMzVsV2NIb3E0YWdRTnRTTXNlUTJWV0YzNWRXa0Vn?oc=5",
-      "pubDate": "2026-10-17T15:00:00+09:00"
+      "title": "차정원, 결혼 발표 후 근황…꽃다발 받았다",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jUHI1RW5lQzBWbkJ3WklUazRXR0gtSzNpQ0JfQ3VwTkJYdFFzbHBibGxnQjVmcF8tUGxjNHZYT2VhdTdkTlpDNzRZOEhuNlNPSlFVeE0teUFfUUxScVNjUHVDNW9aTTVleE1DdnVabzJBbUc5UHfSAWZBVV95cUxQaTNBeHFkT3ZXQnM0ZUpHa2NlN2hER2lZbGlzYWVjaDhIWUd6TGJ5bHFKWFVINldJc3loQWg4MXd3TEFTMFFQbGJtUWZjVGZHLTNyWi1LVll5bEVQTjNfUHhnTEpEQXc?oc=5",
+      "pubDate": "2026-10-17T20:55:12+09:00"
     },
     {
-      "title": "차정원, 하정우와 결혼 발표 후 첫 근황…꽃다발 안은 ‘예비신부’",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aYlN3eUwzQXFzN3hKd1phSFdIZlJyYmNIUzA4MjFMLWZjeTJCWXpkN1AwbDZwdmxhQ1QzNW9mTmxmcVBwMWdIU3NHMHJJdlVSYVlTc2tDdUE?oc=5",
-      "pubDate": "2026-10-17T18:47:03+09:00"
+      "title": "한국·일본·태국·중국 소녀들의 'NEON'…A2O LITE 같은 K팝 아이돌, 동아시아 평화 마스코트 될까? [시사뒷담]",
+      "source": "매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxZlAwY25UNXAtTVdDamJtbUxVaHBfOXNRbnF0azdVTFU1ZWZUWVViM2ZBTjVWTUVEcHRDV2tYcWhJbmJpUHJybUdPeHdZQ01Ca09uTXVFZnpzc2Rlbk1vcHhR?oc=5",
+      "pubDate": "2026-10-18T00:16:41+09:00"
     },
     {
-      "title": "염경엽 감독의 김도영 '리스펙트'도 좋은데, 계속 얻어맞고 질 건가...특단의 대책 필요하다",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTNYT0RMUE1Td1Y1N3B0amtxVFEzYnpGMmRrVGkwMkdVMDh0Z01zMVVNd2RpWHk2WVNVbm8wbkc0MDZ3UWVJRTg4VWRVNF9tNVJlcUQ5aldWTHRXRFhtY1ItaHhTS1k4T0JINndKb0N4RWtHMzNIRkx1VTB6STJaUkptVQ?oc=5",
-      "pubDate": "2026-10-18T01:17:00+09:00"
+      "title": "’슈퍼스타’ 김도영 2홈런 4타점…KIA, 준PO 1차전 LG에 5-1 승리",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xOGwtNV9CbWZMQUZSWlQtQU1YbmhKRUZnLWxKd0R3TjNEY1otMFVkOFlWZkpfQUNmOVZJcmpoZnVVS0FSNktPa0RySXh1TkZWTEJKT29JaDVPRGJJaWdVWmVyOVVPazg?oc=5",
+      "pubDate": "2026-10-17T17:05:00+09:00"
     },
     {
-      "title": "LG 임찬규, 장모상…18일 준PO 2차전 선발 등판 강행",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vNjI5U1ZvSkVKVzdGQlRSZnptdFZtckkzNDU1d21UYk40OXhWRVhUOThCV3ZLSTlJRTlCdkZ6MHJIQkpnOF81UDVvay1hUllrM2drSjRpMzhxM1HSAWBBVV95cUxPekRxa0RFS0djVnlEcl9NVVpFeWppUHZBUHpoZTRuaFA4TWZWR2FaVGxVN0h3aVhTZlB6VElKZG1US21lUlZkWlhPQmpPMW1zMklsQndTOWg5M1lIYU4wYV8?oc=5",
-      "pubDate": "2026-10-17T18:46:44+09:00"
+      "title": "LG 임찬규, 장모상에도 내일 준플레이오프 2차전 선발",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55VjQyQVFwTFhMMzIwd3hacXptUy04aVdmMnZvS3lrLTNTRFRhZEF0TVRkWDA2U09PSTN4Q0VwOVdqb3lURW1SekxZMXRpY0tVMVc3N0pPWVBxSXRwZERYUV9oSWZjMklGYkE?oc=5",
+      "pubDate": "2026-10-17T20:59:39+09:00"
     },
     {
       "title": "\"김도영, 대단하다는 말밖에···\" 이범호 감독, 준PO 첫 경기 승리에 웃었다",
@@ -158,10 +164,10 @@
       "pubDate": "2026-10-17T18:02:00+09:00"
     },
     {
-      "title": "[전국체전] 'AG 금메달리스트' 유도 허미미, 전국체전 5연패 달성",
+      "title": "안세영, 덴마크 오픈 결승 진출…日 야마구치와 AG 결승 리매치",
       "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52MVZBeUROY1RFVjMzQ25wNW05WEwxdEFxb2l3ODItTGxpdmRQV3dHZVEtUkRMaTFRQS1zeExvUjVDckIxYUxyakhFb29yQmJjbEYyTGg5ZUt3Z3NI?oc=5",
-      "pubDate": "2026-10-17T20:25:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGTll6R25oZmN0ckR1bjRMcEEzOFZndGp6dE94MEppNWdEcDlRWWxZY3Z4QmpZeXFkTmt0WEptOTBLMVkzQjlnYk1teU1HSkxqbHNXMjdYdmVhSWMy?oc=5",
+      "pubDate": "2026-10-18T02:54:00+09:00"
     },
     {
       "title": "“여보, 아이 과자 뺏어 먹지마”…중년, 초가공식품서 손떼야 하는 이유",
@@ -178,6 +184,102 @@
   ],
   "trends": [
     {
+      "term": "라민 야말",
+      "pubDate": "2026-10-18T03:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "한시 플릭 감독은 바르셀로나가 단 한 번도 승리를 놓치는 것을 원하지 않는다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/hansi-flick-khong-muon-barcelona-danh-roi-bat-ky-chien-thang-nao",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "[오늘, 이 장면] ‘라보나 드리블’ 본 적 있나요? 야말이라 가능한…",
+          "snippet": "",
+          "url": "https://news.jtbc.co.kr/article/NB12323035",
+          "source": "JTBC"
+        },
+        {
+          "title": "'와' 2007년생 발롱도르 2위, 인격도 월클이네!…마스코트 키즈에 재킷 벗어 선물→그라운드선 환상 2도움 \"경기 MVP\"",
+          "snippet": "",
+          "url": "https://www.xportsnews.com/article/2207402",
+          "source": "www.xportsnews.com"
+        }
+      ]
+    },
+    {
+      "term": "김정은",
+      "pubDate": "2026-10-18T02:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "[클로즈업 북한] 살 쪄도 빠져도 관심…‘김정은 체중’에 담긴 의미는",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688133",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "[지평선] 초고도비만 김정은",
+          "snippet": "",
+          "url": "https://www.hankookilbo.com/news/article/A2026100614120004281",
+          "source": "한국일보"
+        },
+        {
+          "title": "[알립니다] NK경제는 김정은 총비서 몸무게 기사를 쓰지 않습니다",
+          "snippet": "",
+          "url": "https://www.nkeconomy.com/news/articleView.html?idxno=17284",
+          "source": "NK경제"
+        }
+      ]
+    },
+    {
+      "term": "la liga",
+      "pubDate": "2026-10-18T02:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "Youssouf Fofana reaches ‘firm decision’ on joining Man Utd in January",
+          "snippet": "",
+          "url": "https://www.football365.com/news/youssouf-fofana-manchester-united-sevilla-ac-milan-2027-january-transfer-decision-made",
+          "source": "Football365"
+        },
+        {
+          "title": "Youssouf Fofana reacts after Man Utd put ‘pressure’ to sign him",
+          "snippet": "",
+          "url": "https://www.teamtalk.com/manchester-united/youssouf-fofana-man-utd-sevilla-ac-milan-2927-january-transfer-decision-reached",
+          "source": "TEAMtalk"
+        },
+        {
+          "title": "PREVIEW | Getafe CF vs Rayo Vallecano: team news, lineups, predictions (La Liga 19/10)",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/preview-getafe-cf-vs-rayo-191000840.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "term": "바이에른 뮌헨",
+      "pubDate": "2026-10-18T02:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261017_0003829958",
+          "source": "뉴시스"
+        },
+        {
+          "title": "'국가대표 은퇴설'로 비판 받는 김민재, 프리미어리그 입성할까…아스날, 긴급 영입 추진한다 - 조선비즈",
+          "snippet": "",
+          "url": "https://biz.chosun.com/sports/football/2026/10/17/GE2TKMBTMUYTAYRXMFRWKYTCGI/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "‘공식 입장’ 밝혔다! 김민재, 아스널 이적 가능성···바이에른 단장 “지금 선수단에 만족, 1월에 별다른 조치...",
+          "snippet": "",
+          "url": "https://sports.khan.co.kr/article/202610171932003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
       "term": "분데스리가",
       "pubDate": "2026-10-18T02:00:00+09:00",
       "newsItems": [
@@ -188,16 +290,16 @@
           "source": "국제뉴스"
         },
         {
-          "title": "분데스리가 매치데이 8…코트부스, 뉘른베르크와 격돌",
-          "snippet": "",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724611",
-          "source": "국제뉴스"
-        },
-        {
           "title": "이재성-황희찬, 대표팀 은퇴 소동 이후 첫 맞대결…'이재성 선발 출전' 마인츠, '황희찬 교체 투입' 샬케에 승리",
           "snippet": "",
           "url": "https://www.mydaily.co.kr/page/view/2026101800373651193",
           "source": "마이데일리"
+        },
+        {
+          "title": "‘이재성 VS 황희찬 정면대결’ 코리안 더비 발발! 마인츠 승리로 이재성 판정승",
+          "snippet": "",
+          "url": "http://www.footballist.co.kr/news/articleView.html?idxno=215913",
+          "source": "풋볼리스트"
         }
       ]
     },
@@ -206,22 +308,22 @@
       "pubDate": "2026-10-18T01:40:00+09:00",
       "newsItems": [
         {
-          "title": "The squad for Betis v FC Barcelona",
+          "title": "Barcelona XI includes Joan García, Koundé and Lamine Yamal before Real Betis Vs Fc Barcelona",
           "snippet": "",
-          "url": "https://www.fcbarcelona.com/en/news/4592779/the-squad-for-betis-v-fc-barcelona",
-          "source": "FC Barcelona"
+          "url": "https://twaslnews1.twaslnews.com/6137519/",
+          "source": "شبكة تواصل الإخبارية"
         },
         {
-          "title": "Flick throws Barcelona's schedule into disarray with a surprise change",
+          "title": "Lamine Yamal is undoubtedly leading the new era of Spanish football ✨",
           "snippet": "",
-          "url": "https://www.goal.com/en/news/flick-disrupts-barcelona-s-schedule-with-a-surprise-change/blt0a8e4d025094a1cc",
-          "source": "Goal.com"
+          "url": "https://sports.yahoo.com/articles/lamine-yamal-undoubtedly-leading-era-170300403.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "LaLiga - Real Betis v FC Barcelona",
+          "title": "Betis v Barça: Abde and Betis put Barcelona's perfect start to the test · SNA",
           "snippet": "",
-          "url": "https://www.reutersconnect.com/item/laliga-real-betis-v-fc-barcelona/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQUgxRE9FWDI",
-          "source": "Reuters Connect"
+          "url": "https://sportnewsafrica.com/en/news/betis-v-barca-abde-and-betis-put-barcelonas-perfect-start-to-the-test/",
+          "source": "Sport News Africa"
         }
       ]
     },
@@ -242,10 +344,10 @@
           "source": "Foot Mercato"
         },
         {
-          "title": "Le sauvetage sur sa ligne de Nuno Mendes pour le Paris Saint-Germain à Manchester City",
+          "title": "Luis Enrique prend la défense de City concernant les infractions financières et se fait allumer : « Dès qu’il parle d’autre chose, il est catastrophique",
           "snippet": "",
-          "url": "https://fr.uefa.com/uefachampionsleague/video/02aa-21d545ace1f6-4d2cec4853d8-1000--le-sauvetage-sur-sa-ligne-de-nuno-mendes-pour-le-paris-s/",
-          "source": "UEFA.com"
+          "url": "https://www.circusdaily.com/fr/ligue-des-champions/luis-enrique-prend-la-defense-de-city-concernant-les-infractions-financieres-et-12953",
+          "source": "Circus Daily"
         }
       ]
     },
@@ -254,22 +356,22 @@
       "pubDate": "2026-10-18T01:00:00+09:00",
       "newsItems": [
         {
+          "title": "마레스카, 기록적인 출발에 기쁨 드러내",
+          "snippet": "",
+          "url": "https://kr.mancity.com/news/mens/maresca-ipswich-postmatch-written-presser-63927854",
+          "source": "Manchester City FC"
+        },
+        {
           "title": "시티, 입스위치 꺾고 마레스카 프리미어리그 역사 새로 쓰다",
           "snippet": "",
           "url": "https://kr.mancity.com/news/mens/man-city-ipswich-premier-league-match-report-october-2026-63927854",
           "source": "Manchester City FC"
         },
         {
-          "title": "펩 과르디올라 감독이 떠났음에도 불구하고 맨체스터 시티는 프리미어 리그 개막전 7경기에서 모두 승리했습니다.",
+          "title": "포든, 시티 팬들의 응원에 \"최고\" 찬사",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ko/pep-guardiola-roi-di-man-city-van-toan-thang-ca-7-vong-dau-ngoai-hang-anh",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "\"리즈에 0-2 완패할 것\"...'최악의 분위기' 맨유, PL 역사상 최초 로즈 더비 연패 나오나 \"불안정하고 조직력 부족한 맨유에 악몽 같은 경기 될 수도\"",
-          "snippet": "",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696553",
-          "source": "인터풋볼"
+          "url": "https://kr.mancity.com/news/mens/foden-post-ipswich-reaction-pl-17-oct-63927854",
+          "source": "Manchester City FC"
         }
       ]
     },
@@ -278,22 +380,22 @@
       "pubDate": "2026-10-18T00:50:00+09:00",
       "newsItems": [
         {
-          "title": "Betis - Barcelona, en directo el partido de la jornada 9 de LaLiga EA Sports en vivo online",
+          "title": "¿Cómo ver el partido Betis vs Barcelona en TV y streaming?",
           "snippet": "",
-          "url": "https://www.estadiodeportivo.com/futbol/primera-division/betis-barcelona-directo-partido-jornada-laliga-sports-vivo-online-20261017-548748.html",
-          "source": "Estadio Deportivo"
+          "url": "https://www.si.com/es-us/como-ver-el-partido-betis-vs-barcelona-en-tv-y-streaming-17-10-2026",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "Roja a Facundo Bernal por agredir con un cabezazo a Lamine Yamal",
+          "title": "«Carta de presentación para el Balón de Oro»: Lamine Yamal hace enloquecer a Hansi Flick con un gol increíble para el FC Barcelona",
           "snippet": "",
-          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239932/roja-facundo-bernal-agredir-cabezazo-lamine.html",
-          "source": "Mundo Deportivo"
+          "url": "https://es-us.noticias.yahoo.com/deportes/carta-presentaci%C3%B3n-bal%C3%B3n-oro-lamine-153610164.html",
+          "source": "Yahoo"
         },
         {
-          "title": "VÍDEO | El golazo descomunal de Lo Celso anulado en el VAR por una mano previa",
+          "title": "Así fue el cabezazo de Valentín Gómez para el 1-1 vs Barca",
           "snippet": "",
-          "url": "https://www.eurosport.es/futbol/la-liga/2026-2027/gol-anulado-lo-celso-mano-previa-cucho-var-fase-ataque-betis-barcelona_sto23346640/story.shtml",
-          "source": "Eurosport"
+          "url": "https://www.365scores.com/es/news/asi-fue-el-cabezazo-de-valentin-gomez/",
+          "source": "365Scores"
         }
       ]
     },
@@ -320,102 +422,6 @@
           "source": "스포츠경향"
         }
       ]
-    },
-    {
-      "term": "liverpool",
-      "pubDate": "2026-10-18T00:50:00+09:00",
-      "newsItems": [
-        {
-          "title": "Brentford 1-2 Liverpool: Alexander Isak and Victor Munoz goals give Reds win",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/crx2d6pvzwg1t",
-          "source": "BBC"
-        },
-        {
-          "title": "~💢!Here's Got the ways to watc hBrentford - Liverpool Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 17 October 2176",
-          "snippet": "",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2NpbWFuZ28uZ2l0aHViLmlvL3NhbmkvdG50dHYueG1sIi8+PC9rcnBhbm8+&id=brentford-liverpool-liv-str-today-match-tvd1-359",
-          "source": "Universidad de Córdoba (UCO)"
-        },
-        {
-          "title": "Liverpool come back from a deficit to hand Brentford their first defeat of the season",
-          "snippet": "",
-          "url": "https://www.gazetaexpress.com/en/Liverpool-come-back-from-a-deficit-and-inflict-their-first-defeat-of-the-season-on-Brentford/",
-          "source": "Gazeta Express"
-        }
-      ]
-    },
-    {
-      "term": "레알 베티스 대 바르셀로나",
-      "pubDate": "2026-10-18T00:40:00+09:00",
-      "newsItems": [
-        {
-          "title": "[바르셀로나 베티스] 멋쩍은 미소 야말",
-          "snippet": "",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724627",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "레알 베티스 vs 바르셀로나 예측: 선두 자리를 향한 경쟁이 더욱 치열해집니다.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-betis-vs-barcelona-cuoc-dua-ngoi-dau-nong-len",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "라리가: 베티스는 챔피언들을 맞아 또 한 번의 승리를 노린다",
-          "snippet": "",
-          "url": "https://sbotopkr.tistory.com/2624",
-          "source": "티스토리"
-        }
-      ]
-    },
-    {
-      "term": "바이에른 대 라이프치히",
-      "pubDate": "2026-10-18T00:30:00+09:00",
-      "newsItems": [
-        {
-          "title": "[뮌헨 라이프치히] 올리세, 라이머와 하이파이브",
-          "snippet": "",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724618",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "콤파니는 바이에른이 RB 라이프치히를 이기기 위해 모든 것을 쏟아부어야 한다고 생각한다.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ko/kompany-muon-bayern-doc-toan-luc-de-danh-bai-rb-leipzig",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "김민재 연속 선발 출장, 타는 벤치로! ‘분데스 빅매치’ 라이프치히전 선발 출장 [분데스 라인업]",
-          "snippet": "",
-          "url": "http://www.footballist.co.kr/news/articleView.html?idxno=215914",
-          "source": "풋볼리스트"
-        }
-      ]
-    },
-    {
-      "term": "황희찬",
-      "pubDate": "2026-10-18T00:30:00+09:00",
-      "newsItems": [
-        {
-          "title": "“이제 황희찬의 시간이 오는가?” 대표팀 은퇴 논란 빚은 황희찬, 샬케서 주전 기회 잡을까",
-          "snippet": "",
-          "url": "https://sports.khan.co.kr/article/202610161918003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "\"팀에 어울리지 않는 것처럼 보여\" 감독 충격 평가...'국가대표 은퇴설' 황희찬, A매치 참가했다가 망했다 \"전혀 적합하지 않아\"",
-          "snippet": "",
-          "url": "https://www.sportschosun.com/football/2026-10-17/202610170100106720006895",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "'韓 국가대표' 황희찬, 모레노호 다녀오자 소속팀 감독 한숨…“A매치 휴식기는 정말 좋지 않은 시기에 찾아왔다, 2~3주 필요했는데”",
-          "snippet": "",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696506",
-          "source": "인터풋볼"
-        }
-      ]
     }
   ],
   "nate": [
@@ -431,28 +437,28 @@
     },
     {
       "rank": 3,
-      "title": "'닥터X' 장승조, 다정서브남인 줄 알았더니…'사이코패스 빌런' 반전",
-      "link": "https://news.nate.com/view/20261017n13976"
-    },
-    {
-      "rank": 4,
-      "title": "'22kg 감량' 이혜정, 45세 딸 임신에 질투?…\"배 부르는 것 보니 샘 ...",
-      "link": "https://news.nate.com/view/20261017n13973"
-    },
-    {
-      "rank": 5,
       "title": "'가슴 노출' 여기자 앞에서 필사적으로 시선 피한 감독…당사자가 직접...",
       "link": "https://news.nate.com/view/20261018n00069"
     },
     {
-      "rank": 6,
-      "title": "'손흥민 조롱 작정했나' 中 매체, 악의적 썸네일 대문짝만하게 선정+공개 ...",
+      "rank": 4,
+      "title": "'손흥민 조롱 작정했나' 中 매체, 악의적 썸네일 대문짝만하게 선정+공...",
       "link": "https://news.nate.com/view/20261018n00126"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "\"옷만 봐도 딱 알겠네\"…요즘 SNS서 난리난 '부잣집 패션'",
       "link": "https://news.nate.com/view/20261017n01818"
+    },
+    {
+      "rank": 6,
+      "title": "'닥터X' 장승조, 다정서브남인 줄 알았더니…'사이코패스 빌런' 반전",
+      "link": "https://news.nate.com/view/20261017n13976"
+    },
+    {
+      "rank": 7,
+      "title": "소시 유리, 티파니 이어 두번째 ♥품절녀 되나…\"자연서 결혼식, 날짜는 유...",
+      "link": "https://news.nate.com/view/20261017n12017"
     },
     {
       "rank": 8,
@@ -466,18 +472,18 @@
     },
     {
       "rank": 10,
-      "title": "손나은 모친상 비보…제부 임찬규, 장모상에도 준PO 2차전 선발 출격",
-      "link": "https://news.nate.com/view/20261017n11714"
+      "title": "한국 야구, 이제 대만보다도 못한가…잠실돔도 아시아 2류 전락? 일본까지 ...",
+      "link": "https://news.nate.com/view/20261018n00087"
     },
     {
       "rank": 11,
-      "title": "\"세금 6억 썼는데\"…노원구 축제에 등장한 '北 인공기 미사일'",
-      "link": "https://news.nate.com/view/20261017n11524"
+      "title": "[비즈톡톡] 점심 9000원 그대로…헬리오시티 뷔페, 3개월 만에 돌아왔다",
+      "link": "https://news.nate.com/view/20261017n01985"
     },
     {
       "rank": 12,
-      "title": "한국 야구, 이제 대만보다도 못한가…잠실돔도 아시아 2류 전락? 일본까지 ...",
-      "link": "https://news.nate.com/view/20261018n00087"
+      "title": "\"밤마다 화장실서 20대 여후배 달래준 남편…육체적 외도보다 끔찍\"",
+      "link": "https://news.nate.com/view/20261017n01182"
     },
     {
       "rank": 13,
@@ -486,8 +492,8 @@
     },
     {
       "rank": 14,
-      "title": "\"밤마다 화장실서 20대 여후배 달래준 남편…육체적 외도보다 끔찍\"",
-      "link": "https://news.nate.com/view/20261017n01182"
+      "title": "\"점심값 아끼려다 여기까지 왔다\"…직장인들 식당 대신 몰려가는 '이곳'",
+      "link": "https://news.nate.com/view/20261017n10924"
     },
     {
       "rank": 15,
@@ -496,18 +502,18 @@
     },
     {
       "rank": 16,
-      "title": "[비즈톡톡] 점심 9000원 그대로…헬리오시티 뷔페, 3개월 만에 돌아왔다",
-      "link": "https://news.nate.com/view/20261017n01985"
+      "title": "\"순직 소방관 딸이 일곱살\"…李대통령 말 잇지 못했다",
+      "link": "https://news.nate.com/view/20261017n11597"
     },
     {
       "rank": 17,
-      "title": "\"점심값 아끼려다 여기까지 왔다\"…직장인들 식당 대신 몰려가는 '이곳'",
-      "link": "https://news.nate.com/view/20261017n10924"
+      "title": "\"세금 6억 썼는데\"…노원구 축제에 등장한 '北 인공기 미사일'",
+      "link": "https://news.nate.com/view/20261017n11524"
     },
     {
       "rank": 18,
-      "title": "\"순직 소방관 딸이 일곱살\"…李대통령 말 잇지 못했다",
-      "link": "https://news.nate.com/view/20261017n11597"
+      "title": "손나은 모친상 비보…제부 임찬규, 장모상에도 준PO 2차전 선발 출격",
+      "link": "https://news.nate.com/view/20261017n11714"
     },
     {
       "rank": 19,
@@ -516,8 +522,8 @@
     },
     {
       "rank": 20,
-      "title": "\"젊고 인기많은 운동선수\" 19세 소년의 끔찍한 '돌변'…3700만원 챙기려다 ...",
-      "link": "https://news.nate.com/view/20261017n11189"
+      "title": "최태원 \"대학 졸업장 필요 없다…AI 시대 학교, 실험하는 장소로\"",
+      "link": "https://news.nate.com/view/20261017n05868"
     }
   ]
 }
