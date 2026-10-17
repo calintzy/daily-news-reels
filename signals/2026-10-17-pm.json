@@ -1,6 +1,6 @@
 {
   "stem": "2026-10-17-pm",
-  "collectedAt": "2026-10-17T13:56:30+09:00",
+  "collectedAt": "2026-10-17T15:04:45+09:00",
   "sources": {
     "news": "ok",
     "trends": "ok",
@@ -8,16 +8,16 @@
   },
   "news": [
     {
-      "title": "‘부천 화재’ 순직 소방관 19일 영결식…이 대통령 “헌신 깊이 새기겠다”",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13UUx5ajBOZVlGbk9zc1ZGWEZiWWlPcnFwNzlsWVQxcHdlcHhRYUl1bHdwamp5VXJ2b25GWXN3ZHgzdlRueVpmNEtGTnpUOEhUd0FDWGpQX0dJMDdENGlqRDgzaEpac3lXRlRZU04xcEVHUQ?oc=5",
-      "pubDate": "2026-10-17T12:19:00+09:00"
+      "title": "불끄러 가장 먼저 들어갔다... 부천 심정지 소방관 끝내 숨져",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEY2S0RSc0FlM05SZXEtZHJQZnh5OE9wWnpMeV9GaGtiUURvSlYyY1FlZkx3TXhfRm40Y2lmS0RXNE11NERjaEZvQ1lSRHNzUXVxbVJ1ckFpeXFVQjBSeDlvYmFablZCRTl3NUFXamVHWWRFajNDeWJBOHc0dkVZVFVDbTlFZw?oc=5",
+      "pubDate": "2026-10-17T08:59:00+09:00"
     },
     {
-      "title": "포근한 가을날…내일 전국에 비",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhYzZnVnlWcHdHYzdORzAzQ1YxajVSdkpOTTFtOVJscFIxRWNfQm1rRjZLTmtoUkVBSE9rRW8tTjZKZG40cXlhTTNtelA3STc0RkZiSlFueXhzcnM?oc=5",
-      "pubDate": "2026-10-17T12:01:00+09:00"
+      "title": "토요일 전국 낮 최고 27도 ‘포근’…큰 일교차·강풍 주의",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qdUxfeWV1ZnBQR0N5QklzclNWNEpBc2JiTHJvaDV3M09aYjVUMnBmM09icGVKTTBfajY1S0R5TWRITWh5aUlzd2NYRGhyMWV5RTR4UzVjMzRDRFB4Wnpid1pSUDVaRWFJenpYamtWcW1iUQ?oc=5",
+      "pubDate": "2026-10-17T10:14:00+09:00"
     },
     {
       "title": "경찰, ‘인천 흉기 난동’ 최충락 자택 압수수색",
@@ -26,10 +26,16 @@
       "pubDate": "2026-10-17T08:34:00+09:00"
     },
     {
-      "title": "[토요와이드] 추미애 ’재정 빨대’ 발언 일파만파…심정지 소방관 순직",
+      "title": "트럼프, ’그레이엄법’ 대러제재·고율관세 면제 발표",
       "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2QkdNbjVSWXNfT2xOOVpWaGl3blFhd1JOZ18taUtsclVzV1AtU0RKRGNxVTQtWndnVWlFanYxSDduUk80X0Z6cDNWTERULWdpWkNFLTI0eDl6YzhLS3I1dFBFUTNOQjQ?oc=5",
-      "pubDate": "2026-10-17T13:24:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JUkd3LUxqWFFaclN1NnREVEdSSXVVLWcxUURIVnlFZDduV1JiV0pEeDRTd3p4UkhqMGFWMGZNWHFzbGJTWTV5Qm84T0JvSHpzWTFrY29DcGZETk9YWHdnNnVRWl9vdms?oc=5",
+      "pubDate": "2026-10-17T13:19:00+09:00"
+    },
+    {
+      "title": "야당, '소방 빨대' 발언 공세‥\"추미애는 입이 없나\"·\"뻔뻔함의 극치\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YX1lJTmZJckxYbGg4TVlISEtqUWpkVDZtdHZpN2hVNG5UWndoNnpOQWNTR1pCWHJCU1ZSMlRUdm4tYklpTnJkX3JjVTh5X1J1ZUVEVHN2WV9GZWQ2blR4d21WLXJqMXZRNktmZ21nSzdyZ0treTFzMtIBeEFVX3lxTE00bVdDWk84T1cyQkYwQllIdWlZaE1UMUtJVFFfOFFUNmlvV0NyOHp3Nk1LMjlsLUNERWUxbGpjQTJrQ1VtdG5UNlhKd1ZtTVdhZnB0RXRjdFdxZ0xPaHNhQk5aUkJ6Sm5XNDRCTWdoM0FveVBIUjFmbA?oc=5",
+      "pubDate": "2026-10-17T10:15:37+09:00"
     },
     {
       "title": "첫 브리핑이 마지막 브리핑…백악관 대변인 나흘 만에 경질",
@@ -38,22 +44,16 @@
       "pubDate": "2026-10-17T08:17:00+09:00"
     },
     {
-      "title": "대선 땐 한 배 탔는데…범여권 5인, 대통령에 등 돌린 이유",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMnBfcFY3WmVfWTJoOUtSdk1WN2M0VVhVNkdpZFFRRlFjeFBod1pJQXpiZHppeC1Lc05MTUpmZGhSdGQ4Tzd4bHcyOHJfU0V6TFc2UG5n?oc=5",
-      "pubDate": "2026-10-17T07:00:00+09:00"
-    },
-    {
       "title": "유럽, 우크라 돕겠다는데…당장 미국 스타링크부터 대체불가",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZ0JSLThxYktpSWhKbFFtbGZjd05tNXM0MGlsVG5hU196elpkOUlmeUlOTGsxdjl2akFZOFA3dVN1am9xRlhtX2NSYTJSU01GZmVDeXYzY1NKd3PSAWBBVV95cUxQZGdJeGg2RUdDX2w0aDhWZWRmeVNqalV6WnlVbDdlU2NWa212YU1MbUhWYnJNUk9XeThMWVFIQUhTcjhKWkwwbFllZzZ2dE1UNEhyQ3JmQ3ZLdUVPb203bTY?oc=5",
       "pubDate": "2026-10-17T07:41:17+09:00"
     },
     {
-      "title": "트럼프, 소방관 살해범도 사형 구형 지시",
+      "title": "주북 中대사, 신압록강대교 북중시설 방문…\"경제협력 확대\"",
       "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5MDhTSm45dm8xcGpyNi1HYmd4dlFSd0dzcGk2SnZmeDE1MnVycmhqeTExRjRuNDA5OUhmVGJscmRvc0tiZy1kT3hwblNCbjA4SVB6X3hWeEFkTW1VTTBxazNYa1RuSDg?oc=5",
-      "pubDate": "2026-10-17T10:13:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3Nk9kUktReWlJUzRFZ0E5eXlLcXl5Z0pkNFNOQzBHNmd4LTJfdWFPVU1JTDBHVnF3NzQyb29OZFBWMGNGSEVmOURQZ3EzQ05sazZpbGIxcEk2TGE1Zi01TUhtaUJ5WFE?oc=5",
+      "pubDate": "2026-10-17T11:32:00+09:00"
     },
     {
       "title": "코스피 급락에 반대매매 3000억원 육박…채권엔 매수세",
@@ -74,22 +74,10 @@
       "pubDate": "2026-10-17T07:00:01+09:00"
     },
     {
-      "title": "[뉴욕증시] 코어위브 채권금리 16%…AI 빚 공포 어디까지 번지나",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zVHNocHE5OVZLYldvcm9xX3k5UDJJLVlrTlVkNkZ4dEFtRFNOcWlTbG9DbUhudXpfZWRfcGVDd0FiNi1Xak9LdzhjOVUyRDVuNnZENzA5UW1XdHpjRXdEZ1dlUkUxQmM?oc=5",
-      "pubDate": "2026-10-17T09:00:00+09:00"
-    },
-    {
       "title": "54년 만에 사라지는 ‘윤초’...세계 표준시 내년부터 바뀐다",
       "source": "지디넷코리아",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82R3JZNzl5ZWdlVF9GR0Rxd3JnZzU3bFlZSjkzcVlRQzNNLVBGSTctOFJTWnBFYWVWc2lYYldIRE9pUjV6REN6a1BHTko2dVNWb29zUG13?oc=5",
       "pubDate": "2026-10-17T06:30:02+09:00"
-    },
-    {
-      "title": "걸스데이 유라, 양세찬과 열애설 인정하더니..\"1박2일 여행 갔었다\" 셀프 폭로(런닝맨)",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWg0dUdmdDFRNTlDRFlROWRvd3RENEEwaURPMWFjTkw2a1NacEZjUHd1QWRsV1hUS0VYT0tadEZ1SW1TUmNkdExvV19mNzNud1AxWU0yNHM5WHp0Z3dvOHBsTExibzUxSG1KREo1SHdEaThzSENTU0xVQXBlQVNZb2M2ZVBzOEVIekJPOEhFNA?oc=5",
-      "pubDate": "2026-10-17T10:53:00+09:00"
     },
     {
       "title": "김유정, 침대 셀카에 깜짝…한층 성숙해진 비주얼 [DA★]",
@@ -98,40 +86,40 @@
       "pubDate": "2026-10-17T12:30:00+09:00"
     },
     {
-      "title": "한지민 협박범, 연인 최정훈 스토커였다",
-      "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIel9OcGVxNExXcFpSOV9EMHZ3N1UydkxRM1JvalA1VkNORXdoUzFHU21GYjZDcWtHVmZORlJiRjRFUWdPSGsyTFZCeDBXemFoREg2VjJCTGhzSUhoa0haTG9DZFZWS0tmalRDNDFHOXdxd21CT3fSAWZBVV95cUxOZnM2M1l6YUZua3pZdG80bHZrWGRPcEtGcW54NHJsU3ROd1cydTUtNzhfNVBtNHpJa1pCaXhMSjhrNmR0WVY5WnFialplcWZDdjVjTVl6cUhoSTFOMjNLQXQxbjhEVGc?oc=5",
-      "pubDate": "2026-10-17T11:33:58+09:00"
+      "title": "걸스데이 유라, 양세찬과 열애설 인정하더니..\"1박2일 여행 갔었다\" 셀프 폭로(런닝맨)",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWg0dUdmdDFRNTlDRFlROWRvd3RENEEwaURPMWFjTkw2a1NacEZjUHd1QWRsV1hUS0VYT0tadEZ1SW1TUmNkdExvV19mNzNud1AxWU0yNHM5WHp0Z3dvOHBsTExibzUxSG1KREo1SHdEaThzSENTU0xVQXBlQVNZb2M2ZVBzOEVIekJPOEhFNA?oc=5",
+      "pubDate": "2026-10-17T10:53:00+09:00"
     },
     {
-      "title": "이서진, 연습 덜 된 ‘충주 지씨’에 결국 폭발..“지라이어 캐리? 지X이야” (‘비서진’) - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1EwanRzY1VSOVNobERUVVpnM29zRzJxZDVHWFFTTlZYQmx0R3hsUUlKczgwUnY5aFFGWnZQcThmRWU4bzFDNTQwcmRhSGJFNVFPZlhVT3JSeHh4bmtRTXl2RC03Z2VsNWp6OXJocFhNUVEzWThWWWo0a01SQkktbnRxWGpqaEs4aHlvaWRNWXFQNlHSAacBQVVfeXFMTTNoN20xVXhVMmVqT2VBQVpjdG9RbmNzWGIxTFpXbG5yMEZZZmF4dWNzTHkxMlJsT0VKM2w5X2p1dEtqRTNUVjVLTy1UVmxrOGxSMHZDYXlEX3k0UXlmekV5eTk1SV9mVS1sNld0QkYzZ1ZqNFdmaWI0ZGczcm1UanBMNTYzUGxZUFE2UUNnSXhvT2VPQkhFalpBdlEwWEVnQmVJcWxFaUE?oc=5",
-      "pubDate": "2026-10-17T10:07:30+09:00"
-    },
-    {
-      "title": "톨허스트 상대 '9타수 5안타' 김규성 6번 출격...KIA, 준PO 1차전 선발 라인업 공개",
-      "source": "KBC광주방송",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BVVhXWWZmTW1lTmxnbVNBTnRzTjNvNVRhTFRCaERHSWl0MGI1YnhIYmxDSDBpV0Rsb0RXdWEtdGZYTjBiZG5yOG95akFLTHRxR1lJWTItUFo5VGUyYUloY1Jn?oc=5",
-      "pubDate": "2026-10-17T11:55:51+09:00"
-    },
-    {
-      "title": "KIA 준PO 1차전 앞두고 변수 발생! 박정우가 아프다…이범호 \"1번 가장 중요, 김도영 알아서 잘하는 선수\"",
-      "source": "마이데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwQWl6WV9ONmM0bF9CdUhJdHpqdUJwakZpUW4tTVRHd2N3QVJWbUlxeC0tT2Frcld2SEh0SHZ0bVA3dEQ3b0ZTWkk3VkI3ZTJGUklNWDdlVVZPZlBLUlhGd25GTGx2dw?oc=5",
-      "pubDate": "2026-10-17T11:53:39+09:00"
-    },
-    {
-      "title": "배드민턴: 안세영·김원호-서승재, 나란히 준결승 진출! 다음 상대는? – 덴마크오픈 2026",
-      "source": "Olympic Channel",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0U0eWx6R2s0Y3FDRk5EN2VBcHlrTXlKYTE1ZEVhSzR0cTgwd01QRV9kQ1VvdF9LRWhOQlB0MGRmdi1JNFppeEdDVzlueUFENzBNRmh3enVMZWZ6LUhwVVNqaXByZ19xNVdrT09lMXduS1RYNHF0M0xIVjN3RE5IaENLRnNRMVJkTEZZQk54TUUydWM?oc=5",
-      "pubDate": "2026-10-17T08:18:00+09:00"
+      "title": "‘암 투병’ 지예은, 결혼 서두른 이유 “언제 죽을지 몰라” 고백",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOandnTnI3NDJOYTExV29tWU02TC1Fc294bjZobUlrdjJIamF1eGpKZUo4MVhlX3N2d2h6bEJaRy1BM3U1TjUwRGV2b3V4eW45YXk3dEZPMXpUV2ZTSjZnZTdJZVRfdU1UbFkwQklieHN6LW1QZmdzeWFTZE5UQVpIVm1EU25vdw?oc=5",
+      "pubDate": "2026-10-17T14:48:01+09:00"
     },
     {
       "title": "[준PO] LG 염경엽 감독 \"포스트시즌 가장 중요한 건 수비\", 오지환 복귀 반가운 이유",
       "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1NFpKeklLUjVwQ0hLN20zWmpUblVJblZsNTlRbUhUUG9ZNFdnTGJXM1paU0dDYVNTMEpGUDVDaFgwSVZMcHA0VkMxd0ZSTU9QRFVCWnRuLVpmOWx4?oc=5",
       "pubDate": "2026-10-17T13:18:00+09:00"
+    },
+    {
+      "title": "“말보다 행동으로 보여주겠다”···박재현, 첫 가을무대 앞두고 당찬 각오",
+      "source": "무등일보",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5VWc3SFM3UzF2VkNiazB3QWdaZEhJcUxURUk1RzZvN3JfWVRTNkpBVWR6LVUzRE9hZUEwZXZVZTc5TVFMLW1ZbGxjOWQ?oc=5",
+      "pubDate": "2026-10-17T13:21:00+09:00"
+    },
+    {
+      "title": "'엘롯기 2팀이 만났다' KIA vs LG, 10년 만에 성사된 역대급 PS 매치…정규시즌은 KIA 7연승, 가을야구는 어떨까",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVhGVDdsVDY0czNQVVZ2OUg1NVktcFNpdmhnVTZtSTVUZUJBTEtWWHQ5Y3hsbG9uUGxPUVpkRU1VdkJlczl4Z0dleGc2c2ZmRFF1Mng2SWIwVUJKNlZMMERnbWV2UTN2cU1yTkljM19kZW96eWFRV0VPWXM0TnZ3LS1wOA?oc=5",
+      "pubDate": "2026-10-17T06:10:00+09:00"
+    },
+    {
+      "title": "배드민턴: 안세영·김원호-서승재, 나란히 준결승 진출! 다음 상대는? – 덴마크오픈 2026",
+      "source": "Olympic Channel",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0U0eWx6R2s0Y3FDRk5EN2VBcHlrTXlKYTE1ZEVhSzR0cTgwd01QRV9kQ1VvdF9LRWhOQlB0MGRmdi1JNFppeEdDVzlueUFENzBNRmh3enVMZWZ6LUhwVVNqaXByZ19xNVdrT09lMXduS1RYNHF0M0xIVjN3RE5IaENLRnNRMVJkTEZZQk54TUUydWM?oc=5",
+      "pubDate": "2026-10-17T08:18:00+09:00"
     },
     {
       "title": "초가공식품 많이 먹으면 뇌혈관 손상 위험 40% 높아",
@@ -148,68 +136,140 @@
   ],
   "trends": [
     {
-      "term": "이병철",
-      "pubDate": "2026-10-17T12:40:00+09:00",
+      "term": "can vs nep",
+      "pubDate": "2026-10-17T14:00:00+09:00",
       "newsItems": [
         {
-          "title": "백일섭, 故 이병철 삼성 회장과 골프 추억…검소함에 깜짝 \"3000원 '티' 찾더라\"",
+          "title": "Match Predictions: ICC CWC League 2 2026 - Match 138 - Canada vs Nepal - October 16th",
           "snippet": "",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6321890",
-          "source": "뉴스1"
+          "url": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-138-canada-vs-nepal-october-16th/113837.htm",
+          "source": "Cricket World"
         },
         {
-          "title": "백일섭, 故 이병철 삼성 회장과 골프 추억…검소함에 깜짝 \"3000원 '티' 찾더라\"",
+          "title": "Nepal Beats Canada by 24 Runs to Strengthen League Two Position",
           "snippet": "",
-          "url": "https://www.yhtoday.co.kr/news/articleView.html?idxno=75929",
-          "source": "연합투데이"
+          "url": "https://suaragarut.id/en/nepal-beats-canada-league-two",
+          "source": "SuaraGarut.ID"
         },
         {
-          "title": "정주영·이병철, 그 말에 홀렸다…20대 사업보국 키즈의 탄생",
+          "title": "Canada’s Victory Prolongs Nepal’s Wait",
           "snippet": "",
-          "url": "https://www.joongang.co.kr/article/25469940",
-          "source": "중앙일보"
+          "url": "https://ekantipur.com/sports/2026/10/15/en/canadas-victory-prolongs-nepals-wait-58-20.html",
+          "source": "Ekantipur"
         }
       ]
     },
     {
-      "term": "앙투안 그리즈만",
-      "pubDate": "2026-10-17T12:30:00+09:00",
+      "term": "포괄적·점진적 환태평양 경제 동반자 협정",
+      "pubDate": "2026-10-17T14:00:00+09:00",
       "newsItems": [
         {
-          "title": "손흥민도 못한 대기록인데...이강인 7번 전임자가 해냈다, '13경기 16 공격P' MLS 새 역사",
+          "title": "전세계 GDP 14% 묶은 거대블록 CPTPP…트럼프 시대 뜨거운 감자",
           "snippet": "",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99353",
-          "source": "포포투"
+          "url": "https://www.yna.co.kr/view/AKR20261016069000003",
+          "source": "연합뉴스"
         },
         {
-          "title": "이강인 데려오고도 만족 못한 이유 있었나...손흥민까지 뛰어넘은 미친 활약, '7번 선배' 그리즈만 9경기 연속 공격P \"미국 정복\"",
+          "title": "세계 GDP 14% 묶은 CPTPP…가입하면 수출 기회, 농업은 타격 우려",
           "snippet": "",
-          "url": "https://www.sportschosun.com/football/2026-10-17/202610170100105790006834",
-          "source": "스포츠조선"
+          "url": "https://mbnmoney.mbn.co.kr/mobile/view?news_no=MM1005940845",
+          "source": "매일경제TV"
         },
         {
-          "title": "손흥민도 역대급 출발이었는데…그리즈만은 달랐다! MLS 첫 13경기 중 11경기 공격포인트 '역대 최초'",
+          "title": "농업인단체 “농림축수산업 희생 전제한 통상정책 벗어나야”",
           "snippet": "",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696508",
-          "source": "인터풋볼"
+          "url": "https://www.etoday.co.kr/news/view/2635384",
+          "source": "이투데이"
         }
       ]
     },
     {
-      "term": "응급실",
-      "pubDate": "2026-10-17T12:20:00+09:00",
+      "term": "티빙",
+      "pubDate": "2026-10-17T13:50:00+09:00",
       "newsItems": [
         {
-          "title": "의료계, 경찰에 ’소아응급실 압수수색’ 사과 요구",
+          "title": "[디깅노트] 반복된 질타, 세 번 사과한 티빙…국감은 무엇을 남겼나",
           "snippet": "",
-          "url": "https://www.yonhapnewstv.co.kr/news/myh20261016062249iz7",
-          "source": "연합뉴스TV"
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675813",
+          "source": "블로터"
         },
+        {
+          "title": "티빙, 3954만 계정 유출 뒤 ‘보상판촉’ 논란…과징금 감경·보안투자 공백 도마",
+          "snippet": "",
+          "url": "https://www.lawissue.co.kr/view.php?ud=2026101417103019979817d053b9_12",
+          "source": "로이슈"
+        },
+        {
+          "title": "국감서 드러난 티빙의 '성장통'…보안 부실에 보상 논란까지 [엔터그알]",
+          "snippet": "",
+          "url": "https://news.mtn.co.kr/article/2026100719191677522",
+          "source": "MTN 머니투데이방송"
+        }
+      ]
+    },
+    {
+      "term": "싸이카",
+      "pubDate": "2026-10-17T13:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "“살려야 한다. 23㎞를 20분에”…중상 소방관 태운 구급차 앞에 싸이카가 달렸다",
+          "snippet": "",
+          "url": "https://www.munhwa.com/article/11624160",
+          "source": "문화일보"
+        },
+        {
+          "title": "[영상]\"당신을 위하여\"…다친 소방관 위해 '23km 싸이카 질주'[뉴스럽다]",
+          "snippet": "",
+          "url": "https://www.nocutnews.co.kr/news/6592586",
+          "source": "노컷뉴스"
+        },
+        {
+          "title": "[와글와글] 시민 구하는 \"당신을 위하여\" 경찰 특급 호송 작전",
+          "snippet": "",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858348_37012.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "term": "야구중계",
+      "pubDate": "2026-10-17T13:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "'아빠, 저 여자는 왜 벗고 있어?' MLB 중계 중 선정 광고 논란…다저스 외야수 \"제발 없애달라\"",
+          "snippet": "",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/16/GRTGMNDGMFSGKNZZGQ2WKODEMI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "시드니 스위니 광고 논란, 스포츠·연예계 비판 쏟아져 [DA할리우드]",
+          "snippet": "",
+          "url": "https://sports.donga.com/ent/article/all/20261016/134853210/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "온 가족이 보는 야구 중계에 '반나체 여성' 광고 노출…선수 분노 \"광고 없애라\"",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829229",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "term": "아주대 소아 응급실",
+      "pubDate": "2026-10-17T13:50:00+09:00",
+      "newsItems": [
         {
           "title": "\"진료 중단, 의료진 범죄자 취급\" 소아응급센터장이 전한 그날",
           "snippet": "",
           "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=166773",
           "source": "의협신문"
+        },
+        {
+          "title": "의료계, 경찰에 ’소아응급실 압수수색’ 사과 요구",
+          "snippet": "",
+          "url": "https://www.yonhapnewstv.co.kr/news/myh20261016062249iz7",
+          "source": "연합뉴스TV"
         },
         {
           "title": "피켓든 김택우 대한의사협회장",
@@ -220,170 +280,98 @@
       ]
     },
     {
-      "term": "저축",
-      "pubDate": "2026-10-17T11:40:00+09:00",
+      "term": "tving",
+      "pubDate": "2026-10-17T13:50:00+09:00",
       "newsItems": [
         {
-          "title": "탈취한 개인정보로 대출한도 조회... DB저축은행, 142명 개인정보 유출 추정",
+          "title": "Winning the Lottery’s Top Prize Finally Brought Work and Colleagues into Focus",
           "snippet": "",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146470",
-          "source": "보안뉴스"
-        },
-        {
-          "title": "OK저축은행, 계좌번호 등 고객 268명 정보 추가 유출",
-          "snippet": "",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146469",
-          "source": "보안뉴스"
-        },
-        {
-          "title": "AI 해킹에 뚫린 저축은행…알고 보니 내부통제 이미 '구멍'",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20261015_0003826976",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "term": "중간 선거",
-      "pubDate": "2026-10-17T10:50:00+09:00",
-      "newsItems": [
-        {
-          "title": "중간선거 조작될 거란 마가…트럼프에 '계엄령·선거중단' 요구",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20261017000700071",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "美시민단체 \"47개주 유권자 정보 수집 위법\"…정부 상대 소송",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20261016_0003829427",
-          "source": "뉴시스"
-        },
-        {
-          "title": "미 법무부 “시민 아닌 2만 명 유권자 등록 의심”…캘리포니아에 소송",
-          "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8687209",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "term": "경주마라톤",
-      "pubDate": "2026-10-17T09:50:00+09:00",
-      "newsItems": [
-        {
-          "title": "경주국제마라톤 17일 열려…도심 교통통제",
-          "snippet": "",
-          "url": "https://news.lghellovision.net/news/articleView.html?idxno=558626",
-          "source": "LG헬로비전"
-        },
-        {
-          "title": "김홍민·김가이, 경주국제마라톤대회 국내 남녀부 우승",
-          "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20261017027200007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "‘엘리트 라벨’ 경주 마라톤… 역대 최다 2만명 ‘가을 속으로’",
-          "snippet": "",
-          "url": "https://www.donga.com/news/Sports/article/all/20261016/134851380/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "term": "증여세",
-      "pubDate": "2026-10-17T09:40:00+09:00",
-      "newsItems": [
-        {
-          "title": "삼성전자 급락에 증여세도 뚝?…‘절묘한 증여 타이밍’ [재계톡톡]",
-          "snippet": "",
-          "url": "https://www.mk.co.kr/news/business/12177911",
+          "url": "https://www.mk.co.kr/en/culture/12175879",
           "source": "매일경제"
         },
         {
-          "title": "홍라희, 삼성SDS 지분 전량 처분…이재용 지분율은 9.2% 유지",
+          "title": "\"I've never made a fortune off my face\"... Lee Jun-hyuk has already hit the jackpot, 'Lotto 1st Prize' [★FULL Interview]",
           "snippet": "",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=675918",
-          "source": "블로터"
+          "url": "https://www.starnewskorea.com/en/star/2026/10/17/2026101617115725402",
+          "source": "스타뉴스"
         },
         {
-          "title": "이재용 회장의 홍라희 여사 삼성전자 주식 매수거래를 통한 교훈 [기고]",
+          "title": "Lotto Win Doesn't Reverse Life, Office Drama Shows Work's Value",
           "snippet": "",
-          "url": "https://news.mtn.co.kr/article/2026101610001621980",
-          "source": "MTN 머니투데이방송"
+          "url": "https://www.chosun.com/english/national-en/2026/10/10/HHTQTEPASRG4DHV7PCZTRCNRYE/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "term": "제이비어 브런슨",
-      "pubDate": "2026-10-17T09:20:00+09:00",
+      "term": "lg 대 kia",
+      "pubDate": "2026-10-17T13:40:00+09:00",
       "newsItems": [
         {
-          "title": "[단독] 브런슨 사령관, 선 넘으면…\"정부, 여러 채널 경고 검토\"",
+          "title": "이범호 KIA 감독 \"1∼5번 상위 타순 활약에 승패 달려\"",
           "snippet": "",
-          "url": "https://news.jtbc.co.kr/article/NB12323405",
-          "source": "JTBC"
+          "url": "https://www.yna.co.kr/view/AKR20261017024900007",
+          "source": "연합뉴스"
         },
         {
-          "title": "커지는 한미동맹 파열음… 주목받는 브런슨 ‘거친 입’",
+          "title": "[선발 라인업] LG 드디어 오지환 전격 복귀! KIA전 '신민재 제외-홍창기 1번' [준PO1 현장] - 머니투데이",
           "snippet": "",
-          "url": "https://www.donga.com/news/Politics/article/all/20261016/134857922/2",
-          "source": "동아일보"
+          "url": "https://www.mt.co.kr/sports/2026/10/17/2026101710565214552",
+          "source": "머니투데이"
         },
         {
-          "title": "브런슨 “대한민국은 남쪽 철책선에서 시작”···DMZ 영토주권 부정 발언 파문",
+          "title": "야구 팬들로 북적이는 KIA팀스토어",
           "snippet": "",
-          "url": "https://www.khan.co.kr/article/202610161637001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "term": "차량 화재",
-      "pubDate": "2026-10-17T09:00:00+09:00",
-      "newsItems": [
-        {
-          "title": "경주 남산동서 한밤 농가 주차 SUV에 불…인명 피해 없어",
-          "snippet": "",
-          "url": "https://www.newsis.com/view/NISX20261015_0003826648",
+          "url": "https://mobile.newsis.com/photo/NISI20261017_0021492386",
           "source": "뉴시스"
-        },
-        {
-          "title": "한밤중 경주 농가 창고에 주차된 SUV 화재…쌀 나락 4톤 불 타",
-          "snippet": "",
-          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6320549",
-          "source": "뉴스1"
-        },
-        {
-          "title": "경주 남산동 농가 창고서 차량 화재",
-          "snippet": "",
-          "url": "http://www.hgnews.co.kr/default/index_view_page.php?part_idx=170&idx=59245",
-          "source": "황성신문"
         }
       ]
     },
     {
-      "term": "서효림",
-      "pubDate": "2026-10-17T08:50:00+09:00",
+      "term": "mlb",
+      "pubDate": "2026-10-17T13:30:00+09:00",
       "newsItems": [
         {
-          "title": "\"'故김수미 팔아 김치 판다' 시선 두려웠다\"…서효림, 2주기 맞춰 김치 론칭",
+          "title": "Game 4 of MLB American League Championship Series Postponed Due to Rain",
           "snippet": "",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-16/202610160100105130006791",
-          "source": "스포츠조선"
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008802059",
+          "source": "news.sbs.co.kr"
         },
         {
-          "title": "서효림, 故 김수미 2주기에 김치 브랜드 정식 론칭…“엄마가 옆에 와준 느낌”",
+          "title": "Cleveland pauses ALCS as rain delays Game 4, tightens schedule - CHOSUNBIZ",
           "snippet": "",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16248998",
-          "source": "톱스타뉴스"
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/17/G3NSDDOG2JE5PDMSDJSLYDIYBM/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "서효림, 故 김수미 떠난 지 2년 만에 결심…시어머니 따라 '김치 브랜드' 정식 론칭",
+          "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (Sat., 8 ET, TBS/HBO Max)",
           "snippet": "",
-          "url": "https://www.xportsnews.com/article/2208159",
-          "source": "엑스포츠뉴스"
+          "url": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups",
+          "source": "MLB.com"
+        }
+      ]
+    },
+    {
+      "term": "오마이뉴스",
+      "pubDate": "2026-10-17T13:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "이화영 재심 쟁점 된 국정원 문건... 수원고법원장 \"고도의 개연성 있어야\"",
+          "snippet": "",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275995",
+          "source": "OhmyNews"
+        },
+        {
+          "title": "野 \"이화영 재심 청구는 형집행정지 노림수\"…국감서 질타",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261016149100061",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "이화영 재심 청구 추진에…수원고등법원장 “유죄 유지할 수 없는 개연성 있어야”",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202610161829001",
+          "source": "경향신문"
         }
       ]
     }
@@ -406,38 +394,38 @@
     },
     {
       "rank": 4,
-      "title": "지예은♥바타, 결혼 서두른 이유 있었다 \"갑상선암, 언제 죽을지 몰라\"...",
-      "link": "https://news.nate.com/view/20261017n04660"
+      "title": "'솔비♥?' 이규한 \"결혼식 생략, 아이도 안 낳아\"…4월 결혼 앞두고→...",
+      "link": "https://news.nate.com/view/20261017n06092"
     },
     {
       "rank": 5,
-      "title": "걸스데이 유라, 양세찬과 열애설 인정하더니…\"1박2일 여행 갔었다\" 셀...",
-      "link": "https://news.nate.com/view/20261017n04837"
-    },
-    {
-      "rank": 6,
-      "title": "\"벤츠는 뒷범퍼 박으면 엔진도 고장나나?\"…1855만원 견적서에 '멘붕' [어...",
-      "link": "https://news.nate.com/view/20261017n03295"
-    },
-    {
-      "rank": 7,
-      "title": "송재희, GD가 탄 사이버트럭 1억 6천만원 구매…\"나보다 차를 좋아해\" [핫...",
-      "link": "https://news.nate.com/view/20261017n05207"
-    },
-    {
-      "rank": 8,
       "title": "대선 땐 한 배 탔는데…범여권 5인, 대통령에 등 돌린 이유",
       "link": "https://news.nate.com/view/20261017n02330"
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "빚내서 주식 샀다가 3천억 강제청산…개미들 '피눈물'",
       "link": "https://news.nate.com/view/20261017n03127"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "지예은♥바타, 결혼 서두른 이유 있었다 \"갑상선암, 언제 죽을지 몰라\" (비...",
+      "link": "https://news.nate.com/view/20261017n04660"
+    },
+    {
+      "rank": 8,
       "title": "[단독]인천 흉기난동범 \"어린이집 범행대상 고민\"",
       "link": "https://news.nate.com/view/20261017n00686"
+    },
+    {
+      "rank": 9,
+      "title": "\"벤츠는 뒷범퍼 박으면 엔진도 고장나나?\"…1855만원 견적서에 '멘붕' [어...",
+      "link": "https://news.nate.com/view/20261017n03295"
+    },
+    {
+      "rank": 10,
+      "title": "'손흥민 때문에 선수들 스트레스 받아' 대체 몇 명을 욕 먹이나?…\"양민혁 ...",
+      "link": "https://news.nate.com/view/20261017n06043"
     },
     {
       "rank": 11,
@@ -446,18 +434,18 @@
     },
     {
       "rank": 12,
-      "title": "'손흥민 때문에 선수들 스트레스 받아' 대체 몇 명을 욕 먹이나?…\"양민혁 ...",
-      "link": "https://news.nate.com/view/20261017n06043"
+      "title": "경복궁서 한푸 입고 \"중국 문화 알리자\"…中 인플루언서 논란",
+      "link": "https://news.nate.com/view/20261017n04800"
     },
     {
       "rank": 13,
-      "title": "\"친언니가 너 남편과 불륜이었다\"…이 말 듣자 분노한 여동생이 한 짓",
-      "link": "https://news.nate.com/view/20261017n03707"
+      "title": "걸스데이 유라, 양세찬과 열애설 인정하더니…\"1박2일 여행 갔었다\" 셀프 ...",
+      "link": "https://news.nate.com/view/20261017n04837"
     },
     {
       "rank": 14,
-      "title": "경복궁서 한푸 입고 \"중국 문화 알리자\"…中 인플루언서 논란",
-      "link": "https://news.nate.com/view/20261017n04800"
+      "title": "최태원 \"대학 졸업장 필요 없다…AI 시대 학교, 실험하는 장소로\"",
+      "link": "https://news.nate.com/view/20261017n05868"
     },
     {
       "rank": 15,
@@ -466,28 +454,28 @@
     },
     {
       "rank": 16,
+      "title": "\"친언니가 너 남편과 불륜이었다\"…이 말 듣자 분노한 여동생이 한 짓",
+      "link": "https://news.nate.com/view/20261017n03707"
+    },
+    {
+      "rank": 17,
       "title": "35살 고대 졸업생, 모교에 20억 기부…\"받았던 장학금에 보답\"",
       "link": "https://news.nate.com/view/20261017n02056"
     },
     {
-      "rank": 17,
-      "title": "\"세입자 보증금 3억 날렸다\"…주식 투자 실패한 집주인 황당 계획",
-      "link": "https://news.nate.com/view/20261017n00940"
-    },
-    {
       "rank": 18,
-      "title": "[영상]\"성과급 모아 살래요\" 동탄 국평 17억에 삼성맨 줄섰다[부동산360]",
-      "link": "https://news.nate.com/view/20261017n04929"
+      "title": "남원 여원재서 SUV, 오토바이 2대 충돌…라이더 1명 숨져",
+      "link": "https://news.nate.com/view/20261017n06584"
     },
     {
       "rank": 19,
-      "title": "부천 공장화재 진압 소방관 끝내 숨져…불 끄다 순직 올해만 4명",
-      "link": "https://news.nate.com/view/20261017n06168"
+      "title": "추미애 \"순직 소방관께 깊은 애도…용기와 헌신 잊지 않을 것\"(종합)",
+      "link": "https://news.nate.com/view/20261017n05096"
     },
     {
       "rank": 20,
-      "title": "스토킹 신고만 두번…50대女, 전남친 차량서 숨진채 발견",
-      "link": "https://news.nate.com/view/20261017n05726"
+      "title": "\"세입자 보증금 3억 날렸다\"…주식 투자 실패한 집주인 황당 계획",
+      "link": "https://news.nate.com/view/20261017n00940"
     }
   ]
 }
