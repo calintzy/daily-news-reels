@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-17",
+  "slot": "pm",
+  "hookLine": "화재 진압 소방관이 이날 오전 0시55분 숨졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "[후속] 소방관 순직",
+      "title": "부천 공장 화재 소방관 끝내 순직",
+      "summary": "전날 부천 도장업체 공장 화재 진압 중 중상을 입은 40대 소방공무원이 이날 오전 0시55분 숨졌습니다.",
+      "narration": "화재 진압 소방관이 이날 0시55분 순직했습니다.",
+      "sourceTitle": "부천 공장 화재로 심정지 40대 소방관 끝내 순직",
+      "sourceDesc": "17일 소방청에 따르면 전날 오전 경기 부천시 오정구 내동의 한 도장업체 공장에서 발생한 화재를 진압하던 중 중상을 입은 소방공무원이 이날 오전 0시55분 숨졌다.",
+      "sourceLink": "https://www.fnnews.com/news/202610170854218898",
+      "sourceDate": "2026-10-17",
+      "imagePrompt": "An empty fire station bay with a neatly folded firefighter uniform and helmet placed on a chair, soft memorial lighting, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "[후속] 탄핵 여야 공방",
+      "title": "여야, 조희대 탄핵 두고 주말에도 공방",
+      "summary": "더불어민주당은 조희대 대법원장에 대해 끝까지 책임을 묻겠다고 밝혔고, 국민의힘은 탄핵 논의를 헌정 파괴라며 중단을 촉구했습니다.",
+      "sourceTitle": "與野, 주말에도 조희대 탄핵 두고 공방 지속",
+      "sourceDesc": "더불어민주당은 조희대 대법원장에 대해 대법관 재제청 거부와 선거 개입 의혹 등을 거론하며 끝까지 책임을 묻겠다고 공세를 펼쳤다. 국민의힘은 탄핵 논의를 이 대통령의 재판 재개를 막기 위한 헌정 파괴라고 규정하며 중단을 촉구했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026101712505816680",
+      "sourceDate": "2026-10-17",
+      "imagePrompt": "Interior of a legislative chamber with empty wooden seats and an overhead light casting shadows on the desks, no people, no text, photojournalism style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사건·사고",
+      "kicker": "고갯길 충돌 사망",
+      "title": "남원 여원재서 SUV·오토바이 충돌, 50대 라이더 사망",
+      "summary": "전북 남원 여원재 고갯길에서 SUV 차량과 오토바이 2대가 충돌해 50대 라이더 1명이 숨졌습니다.",
+      "sourceTitle": "남원 여원재서 SUV·오토바이 2대 충돌…50대 라이더 사망",
+      "sourceDesc": "전북 남원 여원재 고갯길에서 SUV 차량과 오토바이 2대가 충돌해 50대 라이더 1명이 숨졌다.",
+      "sourceLink": "https://m.news.nate.com/view/20261017n06983",
+      "sourceDate": "2026-10-17",
+      "imagePrompt": "A winding mountain pass road with skid marks visible on the asphalt, overcast sky, fallen autumn leaves on the roadside, no vehicles, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "소방 발언 공방",
+      "title": "국민의힘, 추미애 소방 발언 두고 비판 이어가",
+      "summary": "국민의힘은 추미애 경기도지사의 소방 발언을 두고 비판을 이어갔고, 민주당 김민석 대표는 당을 대신해 사과했습니다.",
+      "sourceTitle": "野 '추미애가 사고 치고 남이 사과…비겁한 정치'",
+      "sourceDesc": "국민의힘은 추미애 경기도지사의 소방 발언을 두고 비판을 이어갔고, 민주당 김민석 대표는 당을 대신해 사과했다.",
+      "sourceLink": "https://m.news.nate.com/view/20261017n07823",
+      "sourceDate": "2026-10-17",
+      "imagePrompt": "A podium with multiple microphones in an empty press conference room, harsh overhead lighting, blurred national flag in background, no people, no text, photojournalism style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-17 저녁 브리핑\n\n1. 부천 공장 화재 소방관 끝내 순직\n2. 여야, 조희대 탄핵 두고 주말에도 공방\n3. 남원 여원재서 SUV·오토바이 충돌, 50대 라이더 사망\n4. 국민의힘, 추미애 소방 발언 두고 비판 이어가\n\n내일 저녁에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #국내뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
