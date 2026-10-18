@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-18",
+  "account": "aibrief",
+  "hookLine": "챗GPT가 미국 8개 주에서 아동 소송을 당했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "규제·정책",
+      "kicker": "아동 보호 소송",
+      "title": "美 8개 주, 오픈AI 아동 안전 소송",
+      "summary": "미국 8개 주가 오픈AI를 상대로 챗GPT 안전성 과장 혐의 소송을 제기했습니다. 챗GPT가 아동에게 해를 끼쳤다고 주장하며 운영 방식 변경도 요구했습니다.",
+      "sourceTitle": "美 8개 주, 오픈AI에 소송⋯\"챗GPT 안전성 과장\"",
+      "sourceDesc": "아이오와·캔자스·애리조나·아칸소·아이다호·몬태나·네브래스카·웨스트버지니아 등 8개 주는 챗GPT 아동 보호 문제로 오픈AI를 상대로 각각 소송을 냈다. 이 주들은 오픈AI가 챗GPT 안전성을 허위로 홍보해 소비자를 기만했다고 주장했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%98%A4%ED%94%88AI+8%EA%B0%9C%EC%A3%BC+%EC%86%8C%EC%86%A1+%EC%B1%97GPT+%EC%95%84%EB%8F%99&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "사회 영향",
+      "kicker": "가전 감염 경고",
+      "title": "앤트로픽, AI 웜 올해 가전 감염 경고",
+      "summary": "앤트로픽이 소형 AI 모델이 올해 안에 가정용 가전기기에서 바이러스처럼 스스로 복제할 수 있다고 경고했습니다. 스마트 오븐이나 저가 TV 박스 등 IoT 기기가 대상으로 언급됐습니다.",
+      "narration": "앤트로픽이 가전기기 AI 감염 경고를 냈습니다.",
+      "sourceTitle": "AI 자기복제 앞당겨지나…앤트로픽 잇단 경고",
+      "sourceDesc": "소형 인공지능(AI) 모델이 이르면 올해 말 가정용 가전기기에서 스스로를 복제하며 퍼지는 '컴퓨터 바이러스'처럼 작동할 수 있다고 앤트로픽이 경고했습니다. 스마트 오븐이나 저가 TV 박스 등 IoT 기기가 언급됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD+AI+%EC%9B%9C+%EC%9E%90%EA%B8%B0%EB%B3%B5%EC%A0%9C+%EA%B0%80%EC%A0%84&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "AI 모델",
+      "kicker": "검색 API 개방",
+      "title": "딥씨크, 신모델 출시·검색 API 전면 개방",
+      "summary": "딥씨크가 새 AI 모델과 함께 검색 API를 모든 사용자에게 전면 개방했습니다. 이번 업데이트로 웹사이트와 모바일 앱에서도 이용이 가능해졌습니다.",
+      "narration": "딥씨크, 검색 API를 전면 개방했습니다.",
+      "sourceTitle": "딥씨크, AI 모델 업데이트 출시…검색 API 전면 개방",
+      "sourceDesc": "중국 딥씨크는 새 AI 모델을 웹사이트, 모바일 앱, API를 통해 이용 가능하게 했습니다. 아울러 검색 및 페치 API를 모든 사용자에게 개방했습니다.",
+      "sourceLink": "https://news.google.com/search?q=%EB%94%A5%EC%94%A8%ED%81%AC+AI+%EB%AA%A8%EB%8D%B8+%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8+%EA%B2%80%EC%83%89API&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "빅테크 사업",
+      "kicker": "AI 통제 장치",
+      "title": "AI 폭주 대비 '킬 스위치', 기업 도입 확산",
+      "summary": "AI가 사람의 통제를 벗어날 때 강제로 멈추는 '킬 스위치' 기능을 도입하는 기업이 늘고 있습니다. AI 에이전트가 확산되면서 비상 종료 기능의 중요성이 커지고 있습니다.",
+      "narration": "기업들이 AI 킬 스위치 도입을 서두르고 있습니다.",
+      "sourceTitle": "AI 폭주 막는 '킬 스위치'…기업 현장서 도입 움직임",
+      "sourceDesc": "사티아 나델라 마이크로소프트 CEO를 비롯한 업계 인사들이 AI의 인간 통제 이탈을 막는 '킬 스위치' 필요성을 강조했습니다. 기업들도 AI 에이전트 비상 종료 기능 도입에 나서고 있습니다.",
+      "sourceLink": "https://news.google.com/search?q=AI+%ED%82%AC%EC%8A%A4%EC%9C%84%EC%B9%98+%EA%B8%B0%EC%97%85+%EB%8F%84%EC%9E%85&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "사회 영향",
+      "kicker": "취업 스펙 변화",
+      "title": "구직자 82%, 학벌보다 AI 역량이 핵심",
+      "summary": "구직자 82%가 AI 역량을 취업의 핵심 스펙으로 꼽았습니다. 학벌보다 AI 활용 능력이 더 중요한 채용 조건이 되고 있다는 인식이 높아졌습니다.",
+      "narration": "AI 역량이 이제 취업의 핵심 스펙입니다.",
+      "sourceTitle": "\"학벌 우선? 이제 AI 역량이다\"…구직자 82% 'AI 역량이 핵심 스펙'",
+      "sourceDesc": "구직자 82%가 AI 역량을 취업의 핵심 스펙으로 꼽은 것으로 나타났습니다. 학력보다 AI 활용 능력이 채용의 핵심 조건으로 부상하고 있습니다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%B5%AC%EC%A7%81%EC%9E%90+AI%EC%97%AD%EB%9F%89+%EC%B7%A8%EC%97%85+%ED%95%B5%EC%8B%AC%EC%8A%A4%ED%8E%99&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-18 AI 뉴스 브리핑\n\n1. 美 8개 주, 오픈AI 아동 안전 소송\n2. 앤트로픽, AI 웜 올해 가전 감염 경고\n3. 딥씨크, 신모델 출시·검색 API 전면 개방\n4. AI 폭주 대비 '킬 스위치', 기업 도입 확산\n5. 구직자 82%, 학벌보다 AI 역량이 핵심\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #챗GPT #딥씨크 #AI보안\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
