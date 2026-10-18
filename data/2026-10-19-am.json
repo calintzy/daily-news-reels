@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-19",
+  "slot": "am",
+  "hookLine": "메모장과 피켓을 챙긴 흔적이 나왔습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "흉기난동 수사",
+      "title": "인천 흉기난동범, 계획범죄 수사",
+      "summary": "경찰이 흉기 난동 피의자 최충락의 주거지를 압수수색해 메모장과 피켓 등을 확보했습니다. 범행 장소와 대상을 미리 계획했는지 여부를 집중 수사하고 있습니다.",
+      "narration": "최충락의 집에서 메모장과 피켓이 나왔습니다.",
+      "sourceTitle": "인천 흉기난동범 집 압수수색… 계획범죄 수사",
+      "sourceDesc": "경찰이 인천 흉기 난동 피의자 최충락의 계양구 주거지를 압수수색했다. 수사관들이 메모장·각종 서류·병원 시위 피켓·약봉지 등을 확보했으며, 범행 장소와 대상을 미리 계획했는지 여부를 집중 수사하고 있다.",
+      "sourceLink": "https://seoul.co.kr/news/society/2026/10/19/20261019010002",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Photojournalism-style still life of evidence items arranged on a sterile metal surface — open notebook, stacked documents, and a handwritten protest sign — in a softly lit police evidence room. No people, no text. Vertical 9:16 composition, documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "소방관 순직",
+      "title": "부천 화재 소방관 무리한 투입 논란",
+      "summary": "부천 공장 화재에서 소방관이 순직한 뒤 무리한 투입 논란이 제기됐습니다. 올해 소방관 순직은 4명에 달하며 지휘 역량 부족 문제가 지적됐습니다.",
+      "sourceTitle": "'소방관 사망' 부천 화재 무리한 투입 논란···왜 소방관 순직은 반복되는가",
+      "sourceDesc": "부천 공장 화재에서 소방관이 순직한 뒤 내부에 구조 대상자가 없었음에도 선착대를 투입했다는 논란이 제기됐다. 현장 전문가와 소방관들은 사전 정보 부족과 지휘 역량 문제를 지적했고, 올해 소방관 순직은 4명에 달한다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610181607001/",
+      "sourceDate": "2026-10-18",
+      "imagePrompt": "Documentary photograph of a firefighter's empty protective gear — helmet, breathing apparatus, and thick jacket — laid out in the smoky corridor of a charred industrial building after a fire response. No people, no text. Vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "노동",
+      "kicker": "산업재해",
+      "title": "현대제철 당진공장 협력업체 직원 사망",
+      "summary": "18일 오전 충남 당진시 현대제철 당진공장에서 협력업체 소속 40대 직원이 설비에 끼여 숨졌습니다. 경찰이 정확한 경위를 조사하고 있습니다.",
+      "sourceTitle": "현대제철 당진공장서 40대 협력업체 직원 끼임사고로 숨져",
+      "sourceDesc": "18일 오전 10시43분쯤 충남 당진시 송악읍 현대제철 당진공장에서 슬래그 처리 설비에 끼인 협력업체 소속 40대 A씨가 심정지 상태로 구조됐으나 숨졌다. 경찰은 정확한 경위를 조사 중이다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610181511001/",
+      "sourceDate": "2026-10-18",
+      "imagePrompt": "Wide-angle documentary shot of a large industrial processing machine in a steel plant, surrounded by caution tape and safety markers on a factory floor under harsh fluorescent lights. No people, no text. Vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "한전 손실 위기",
+      "title": "한전, 사유지 송전탑 철거비 13억 위기",
+      "summary": "한국전력공사가 전남 신안군 사유지에 무단으로 송전탑을 세웠다가 1심에서 철거 명령을 받았습니다. 판결이 확정되면 건설비와 철거비를 합쳐 13억 원의 손실이 예상됩니다.",
+      "sourceTitle": "사유지에 무단으로 송전탑 세운 한국전력공사… 철거비 등 '13억 증발' 위기",
+      "sourceDesc": "한국전력공사가 전남 신안군의 사유지에 허가 없이 송전탑을 세웠다가 1심에서 철거 명령을 받았다. 판결이 확정되면 건설비와 철거비를 합쳐 약 12억9000만 원의 손실이 발생할 전망이다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026101814490002480",
+      "sourceDate": "2026-10-18",
+      "imagePrompt": "Low-angle photojournalistic view looking up at a high-voltage steel transmission tower standing in a rural coastal field next to a private land boundary marker, overcast sky, dramatic light. No people, no text. Vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "미국 정치",
+      "title": "트럼프 지지율 33%, 취임 후 최저",
+      "summary": "미국 트럼프 대통령의 지지율이 33%로 집권 이후 최저치를 기록했습니다. 경제 신뢰도 조사에서는 12년 만에 민주당이 공화당을 앞섰습니다.",
+      "sourceTitle": "트럼프 지지율 33% '최저'…경제 신뢰도, 12년 만에 민주당에 역전",
+      "sourceDesc": "미국 트럼프 대통령의 지지율이 33%로 집권 이후 최저치를 기록했다. 경제 신뢰도 조사에서는 12년 만에 민주당이 공화당을 역전한 것으로 나타났다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610190650001/",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Documentary close-up of a printed approval rating chart on newsprint spread on a wooden desk, with an American flag pin resting beside it, soft warm office lighting. No people, no text. Vertical 9:16 composition, photojournalism style."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-19 아침 브리핑\n\n1. 인천 흉기난동범, 계획범죄 수사\n2. 부천 화재 소방관 무리한 투입 논란\n3. 현대제철 당진공장 협력업체 직원 사망\n4. 한전, 사유지 송전탑 철거비 13억 위기\n5. 트럼프 지지율 33%, 취임 후 최저\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
