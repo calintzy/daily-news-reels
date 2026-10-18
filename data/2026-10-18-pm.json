@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-18",
+  "slot": "pm",
+  "hookLine": "서울시장직 운명, 이번주 갈립니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치·사법",
+      "kicker": "오세훈 항소심",
+      "title": "오세훈 이번 주 항소심 선고",
+      "summary": "서울고등법원이 오세훈 서울시장의 정치자금법 위반 항소심을 이번 주 선고합니다. 항소심 결과에 따라 서울시장직 유지 여부가 결정될 전망입니다.",
+      "narration": "이번주 항소심으로 서울시장직이 결정됩니다.",
+      "sourceTitle": "시장직 걸린 오세훈, 이번주 '여론조사비 대납 의혹' 2심 선고",
+      "sourceDesc": "서울고법 형사7부는 오는 23일 오세훈 서울시장의 정치자금법 위반 혐의 항소심을 선고한다. 1심에서 벌금 1000만원을 선고받은 오 시장의 서울시장직 유지 여부가 결정된다.",
+      "sourceLink": "https://www.fnnews.com/news/202610180801432184",
+      "sourceDate": "2026-10-18",
+      "imagePrompt": "A wooden judge's gavel resting on a sound block on a formal wooden desk inside an empty courtroom, soft natural light from high windows casting long shadows across the bench, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "사건·사고",
+      "kicker": "외국인 차량 위협",
+      "title": "이천 카자흐스탄인 차량 위협 검거",
+      "summary": "경기 이천 도로에서 차량으로 행인을 위협하는 충격 영상이 공개된 가운데, 카자흐스탄 국적 외국인이 경찰에 긴급체포됐습니다. 특수협박 및 재물손괴 혐의가 적용돼 구속영장 신청도 예정됩니다.",
+      "sourceTitle": "\"한국 치안 어쩌다 이 지경\" 충격 영상…용의자 카자흐스탄인 붙잡혔다",
+      "sourceDesc": "경기 이천시 도로에서 차량으로 행인을 위협하는 충격 영상이 공개된 가운데 용의자인 카자흐스탄 국적 외국인이 경찰에 긴급체포됐다. 경찰은 특수협박 및 재물손괴 혐의를 적용해 구속영장 신청도 예정이다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/2026/10/18/20261018500002",
+      "sourceDate": "2026-10-18",
+      "imagePrompt": "An empty urban road at night with police road barriers and hazard cones blocking a lane, harsh sodium streetlight casting orange shadows on wet asphalt, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "잠재성장률 상승",
+      "title": "잠재성장률 40년 만에 2년 연속 상승",
+      "summary": "IMF가 한국 잠재성장률이 40년 만에 처음으로 2년 연속 상승한다고 전망했습니다. 올해 2.14%, 내년 2.20%가 예측됐지만 반도체 착시라는 우려도 제기됐습니다.",
+      "sourceTitle": "韓 잠재성장률 40년 만에 2년 연속 상승…'반도체 착시' 우려도",
+      "sourceDesc": "IMF가 18일 한국 잠재성장률이 40년 만에 처음으로 2년 연속 상승한다고 전망했다. 올해 2.14%, 내년 2.20%가 예측됐으나 반도체 수출 편중에 따른 착시라는 우려도 나왔다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261018000027",
+      "sourceDate": "2026-10-18",
+      "imagePrompt": "A close-up of a financial report with an upward trending line graph printed on white paper, a pencil resting at the edge, warm office desk lighting, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "조희대 탄핵",
+      "title": "조희대 탄핵 논의 공식화",
+      "summary": "더불어민주당이 조희대 대법원장 탄핵 추진 논의를 공식화했습니다. 여당은 신중론을 보이는 반면 야당은 결론을 촉구해 여야 간 충돌이 예상됩니다.",
+      "sourceTitle": "'조희대 탄핵' 점점 가시화..與 고심 속 野 '결론 내려라'",
+      "sourceDesc": "더불어민주당이 조희대 대법원장 탄핵 추진 논의를 공식화했다. 여당이 신중론을 보이는 가운데 야당은 탄핵 결론을 촉구하고 있어 여야 충돌이 예상된다.",
+      "sourceLink": "https://www.fnnews.com/news/202610181430018150",
+      "sourceDate": "2026-10-18",
+      "imagePrompt": "An empty parliamentary chamber with rows of dark green upholstered seats and wooden desks, dramatic overhead lighting illuminating the central podium, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "경제·부동산",
+      "kicker": "집값 규제 효과",
+      "title": "토허구역 지정 1년, 집값 상승 확대",
+      "summary": "토지거래허가구역 지정 1년 만에 경기 12곳 중 11곳에서 아파트값 상승폭이 더 커진 것으로 나타났습니다. 규제 도입 이후에도 집값 오름세가 꺾이지 않은 셈입니다.",
+      "sourceTitle": "[토허구역 확대 1년] 지정 전후 경기 12곳 중 11곳서 집값 상승 확대",
+      "sourceDesc": "토지거래허가구역 지정 이후 1년 간 경기 12곳 중 11곳에서 아파트값 상승폭이 이전보다 확대됐다. 규제 도입 이후에도 집값 상승세가 꺾이지 않은 것으로 나타났다.",
+      "sourceLink": "https://www.fnnews.com/news/202610180659321354",
+      "sourceDate": "2026-10-18",
+      "imagePrompt": "An aerial view of dense uniform high-rise apartment towers in a Korean suburb, rows of identical balconies and windows against an overcast gray sky, no people, no text, photojournalism documentary style, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-18 저녁 브리핑\n\n1. 오세훈 이번 주 항소심 선고\n2. 이천 카자흐스탄인 차량 위협 검거\n3. 잠재성장률 40년 만에 2년 연속 상승\n4. 조희대 탄핵 논의 공식화\n5. 토허구역 지정 1년, 집값 상승 확대\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #국내뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
