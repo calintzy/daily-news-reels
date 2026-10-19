@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-19",
+  "account": "aibrief",
+  "hookLine": "중국이 AI 핵심기술 40개 수출을 통제합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "규제·정책",
+      "kicker": "기술 패권",
+      "title": "중국, AI 등 핵심기술 40개 수출 통제",
+      "summary": "중국 정부가 인공지능 등 핵심 기술 40개의 수출을 금지하거나 제한하겠다고 밝혔습니다. 태양광과 바이오의약 분야까지 포함되어 있어 첨단기술 전반의 수출 통제가 강화됩니다.",
+      "sourceTitle": "中, AI·태양광·바이오 40개 핵심기술 수출 추가 통제",
+      "sourceDesc": "중국 정부가 인공지능(AI), 바이오의약, 태양광 분야 핵심 기술 40개의 수출을 금지하거나 제한하겠다고 16일 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=중국+AI+핵심기술+수출+통제&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "사회 영향",
+      "kicker": "AI 안전 소송",
+      "title": "미국 8개 주, 챗GPT 청소년 피해로 오픈AI 제소",
+      "summary": "미국 8개 주 정부가 챗GPT의 안전성 허위 홍보와 청소년 피해를 이유로 오픈AI에 소송을 냈습니다. 청소년 자해와 폭력을 부추긴다는 이 소송으로 챗GPT 안전성 논란이 커질 것으로 보입니다.",
+      "narration": "챗GPT 청소년 피해로 미국 8개 주가 소송했습니다.",
+      "sourceTitle": "美 8개주, 오픈AI에 한꺼번에 소송…\"청소년 자해·폭력 부추겨\"",
+      "sourceDesc": "미국 8개 주 정부가 챗GPT가 청소년에게 해를 끼치고 안전성을 허위로 홍보했다며 오픈AI를 상대로 소송을 냈습니다.",
+      "sourceLink": "https://news.google.com/search?q=미국+8개주+오픈AI+챗GPT+청소년+소송&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크 사업",
+      "kicker": "스마트 제조",
+      "title": "현대차·기아, 제조 신기술 200여 건 공개",
+      "summary": "현대차·기아가 가상공장에서 미리 검증하고 AI가 설비를 관리하는 제조 신기술 200여 건을 공개했습니다. 가상공장 검증과 AI 설비 관리로 제조 신기술이 더욱 발전할 것으로 기대됩니다.",
+      "narration": "현대차·기아, 제조 신기술 200여 건을 선보입니다.",
+      "sourceTitle": "\"가상공장서 미리 검증하고 AI가 설비 관리\"…현대차·기아, 제조 신기술 200여 건 공개",
+      "sourceDesc": "가상공장서 미리 검증하고 AI가 설비 관리",
+      "sourceLink": "https://news.google.com/search?q=현대차+기아+제조+신기술+가상공장+AI&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "사회 영향",
+      "kicker": "의료 AI",
+      "title": "의료 AI 신의료기술 첫 평가 결과 예고",
+      "summary": "한국보건의료연구원이 입원환자 상태 악화를 예측하는 의료AI의 안전성·유효성 평가를 진행하고 있습니다. 뷰노와 에이아이트릭스를 포함해 평가유예 신의료기술 11건이 이번 평가 대상입니다.",
+      "narration": "의료 AI의 첫 신의료기술 평가 결과가 나옵니다.",
+      "sourceTitle": "[AI헬스케어] 첫 신의료기술 평가 결과 나온다…뷰노·에이아이트릭스 '촉각'",
+      "sourceDesc": "한국보건의료연구원(NECA)은 뷰노의 '뷰노메드 딥카스'와 에이아이트릭스의 '바이탈케어' 등 입원환자 상태 악화를 예측하는 의료AI를 포함한 평가유예 신의료기술 11건(고시 기준)에 대해 안전성·유효성 평가를 진행하고 있다.",
+      "sourceLink": "https://news.google.com/search?q=의료AI+신의료기술+평가+뷰노+에이아이트릭스&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "AI 외교",
+      "title": "이재명 대통령, 세계은행 총재와 AI 협력 논의",
+      "summary": "이재명 대통령이 아제이 방가 세계은행그룹 총재를 만나 글로벌 인공지능 협력 확대에 대한 기대를 밝혔습니다. 이번 접견에서는 세계은행과의 인공지능 협력 심화를 위한 방안이 논의됩니다.",
+      "narration": "이재명 대통령이 세계은행과 AI 협력을 논의했습니다.",
+      "sourceTitle": "李대통령, 세계은행 총재 접견…“글로벌 AI 협력 심화되길”",
+      "sourceDesc": "이재명 대통령이 19일 아제이 방가 세계은행그룹 총재를 만나 글로벌 인공지능(AI) 협력 확대에 대한 기대를 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=이재명+세계은행+총재+AI+협력&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-19 AI 뉴스 브리핑\n\n1. 중국, AI 등 핵심기술 40개 수출 통제\n2. 미국 8개 주, 챗GPT 청소년 피해로 오픈AI 제소\n3. 현대차·기아, 제조 신기술 200여 건 공개\n4. 의료 AI 신의료기술 첫 평가 결과 예고\n5. 이재명 대통령, 세계은행 총재와 AI 협력 논의\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #ChatGPT #오픈AI #현대차 #의료AI #기술패권\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
