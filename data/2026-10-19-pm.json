@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-19",
+  "slot": "pm",
+  "hookLine": "크루즈 컨트롤 켜고 2명이 숨졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "크루즈 컨트롤 사고",
+      "title": "고속도로 5중 추돌, 크루즈 컨트롤 125㎞",
+      "summary": "통영대전고속도로 공사 구간에서 5중 추돌 사고가 발생해 2명이 숨지고 11명이 다쳤습니다. 운전자가 시속 125㎞로 크루즈 컨트롤을 설정하고 달린 것으로 파악됐습니다.",
+      "narration": "크루즈 컨트롤을 켠 채 달리다 2명이 숨졌습니다.",
+      "sourceTitle": "13명 사상 통영대전고속도로 5중 추돌⋯운전자 \"크루즈 컨트롤 켰다\"",
+      "sourceDesc": "통영대전고속도로 하행선 공사 구간에서 차량 5대가 연쇄 추돌해 2명이 숨지고 11명이 다쳤다. 운전자 A씨는 경찰에 해당 구간 제한속도(시속 100㎞)를 초과한 시속 125㎞로 크루즈 컨트롤을 설정해 달리다 앞 차를 들이받았다고 진술한 것으로 파악됐다.",
+      "sourceLink": "https://www.kmib.co.kr/article/20261019501060",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Documentary wide-angle view of a multi-vehicle collision scene on a Korean highway construction zone at daytime — crumpled cars, orange safety cones, and caution tape under cloudy skies. No people, no text. Vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "조희대 탄핵",
+      "title": "조국혁신당, 조희대 탄핵소추안 공개",
+      "summary": "조국혁신당이 조희대 대법원장 탄핵소추안을 공개하고 더불어민주당에 공동행동을 촉구했습니다. 혁신당은 단독 발의 요건을 충족하지 못해 민주당의 결단을 압박하고 있습니다.",
+      "sourceTitle": "\"조희대 탄핵\" 행동 나선 혁신당…161석 민주당 결단 압박",
+      "sourceDesc": "조국혁신당이 조희대 대법원장 탄핵소추안을 공개하며 더불어민주당에 공동행동을 촉구했다. 탄핵 발의에는 재적의원 3분의 1 이상의 동의가 필요해 혁신당 단독으로는 발의할 수 없다. 국민의힘은 이를 이재명 대통령 재판 방탄이라며 강하게 반발했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610191344191304",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Photojournalistic exterior shot of the South Korean Supreme Court building — classical stone facade, national flag flying above the entrance, overcast autumn sky. No people, no text. Vertical 9:16 composition, documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "금융 해킹 국감",
+      "title": "은행 해킹 국감, 2차 공격에 81명 유출",
+      "summary": "국정감사에서 국민은행이 첫 침입을 놓치고 2차 공격으로 81명의 개인정보가 유출됐다는 의혹이 제기됐습니다. 5대 은행장이 출석해 해킹 사고에 사과했습니다.",
+      "sourceTitle": "[2026 국감] \"국민은행, 첫 침입 놓치고 2차 공격에 81명 유출\"",
+      "sourceDesc": "국정감사에서 KB국민은행이 첫 침입을 놓쳐 2차 공격으로 81명의 고객 정보가 추가로 유출됐다는 의혹이 제기됐다. 5대 시중은행장이 국회 금융위원회 국감에 출석해 해킹 사고에 사과했으며, 이환주 KB국민은행장은 신속하게 대응하지 못한 점에 아쉬움이 많다고 밝혔다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261019001342",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Close-up documentary shot of a bank server room with rows of blinking server racks bathed in cool blue ambient light, empty operator chair, a single warning indicator light glowing red. No people, no text. Vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "프랑스 폭력시위",
+      "title": "프랑스 시위 2400명 체포, 상점 1500곳 피해",
+      "summary": "프랑스 전역에서 55만 명이 참여한 시위가 약탈과 방화로 번져 2400명이 체포됐습니다. 상점 1500곳이 피해를 봤으며 손실액은 수억 유로로 추산됩니다.",
+      "sourceTitle": "프랑스 전역 고물가 시위, 2400명 체포…마크롱 \"분노와 수치 느껴\"(종합)",
+      "sourceDesc": "프랑스 내무부 집계로 전국에서 약 2400명이 체포됐고 치안 인력 1000명 가까이 다쳤다. 55만 명이 참여한 시위가 약탈과 방화로 번졌으며 상점 약 1500곳이 파손되거나 약탈당했고 피해액은 수억 유로에 이를 것으로 추산됐다. 마크롱 대통령은 분노와 수치를 느낀다고 밝혔다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026101909410747652",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Wide-angle photojournalistic shot of a ransacked commercial street in France at night — shattered glass storefronts, scattered retail debris, overturned bicycles, and smoke rising under orange street lighting. No people, no text. Vertical 9:16 composition, documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "기상피해",
+      "title": "수도권 강풍·폭우, 가로수 뽑히고 항공편 결항",
+      "summary": "전날 수도권에 강풍과 폭우가 몰아쳐 가로수가 뽑히고 피해 신고가 400건을 넘었습니다. 인천공항에서는 항공기 40편이 결항됐습니다.",
+      "sourceTitle": "강풍에 쓰러진 가로수… 남부·제주 오늘도 강한 비",
+      "sourceDesc": "전날 수도권에 시간당 53.5㎜의 폭우와 순간 최대 초속 20m의 강풍이 겹치면서 가로수가 뽑히고 건물 간판이 떨어지는 피해가 속출했다. 경기·인천에서 강풍·폭우 피해 신고가 400건을 넘었고, 인천공항에서는 항공기 40편이 결항됐다. 19일에도 남부지방은 오전까지, 제주도는 낮까지 강한 비가 이어졌다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/2026/10/19/20261019010009",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Dramatic photojournalistic wide shot of a rain-drenched Seoul street — large uprooted tree draped across the sidewalk, fallen metal signage, deep puddles reflecting city lights under a dark stormy sky. No people, no text. Vertical 9:16 composition, documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-19 저녁 브리핑\n\n1. 고속도로 5중 추돌, 크루즈 컨트롤 125㎞\n2. 조국혁신당, 조희대 탄핵소추안 공개\n3. 은행 해킹 국감, 2차 공격에 81명 유출\n4. 프랑스 시위 1800명 체포, 상점 1500곳 피해\n5. 수도권 강풍·폭우, 가로수 뽑히고 항공편 결항\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
