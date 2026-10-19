@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-20",
+  "slot": "am",
+  "hookLine": "크루즈 켜고 달리다, 2명이 사망했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회·사건",
+      "kicker": "고속도로 참사",
+      "title": "'13명 사상' 고속도로 5중 추돌…크루즈 125㎞",
+      "narration": "크루즈 켜고 달리다 13명이 사상됐습니다.",
+      "summary": "전북 장수군 통영대전고속도로에서 차량 5대가 연쇄 추돌해 2명이 사망하고 11명이 부상했습니다. 운전자가 크루즈 설정 속도를 시속 125㎞로 맞춰 서행 구간에 돌진한 것으로 파악됐습니다.",
+      "sourceTitle": "'13명 사상' 고속도로 5중 추돌 운전자 \"시속 125㎞ 크루즈 켜고 달렸다\"",
+      "sourceDesc": "전북 장수군 통영대전고속도로에서 차량 5대 연쇄 추돌, 사망 2명·부상 11명. 가해 운전자(40대)가 ACC 설정 속도를 시속 125㎞로 맞춰 서행 구간에 돌진한 것으로 파악. 경찰 불구속 입건, EDR 분석 의뢰.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026101913570004338",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Photojournalism documentary shot of a closed multi-lane highway with orange traffic cones and red flares blocking lanes, skid marks and debris scattered across dark asphalt under harsh daylight, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "사회·사건",
+      "kicker": "저수지 추락",
+      "title": "대구 저수지서 차량 추락…여성 숨진 채 발견",
+      "summary": "대구 수성구 저수지에서 차량이 물속으로 추락해 탑승자 여성이 숨진 채 발견됐습니다. 소방당국이 수중 수색을 벌인 끝에 발견했으며 경찰이 사고 경위를 조사 중입니다.",
+      "sourceTitle": "대구 수성구 저수지서 차량 추락…탑승자 여성 숨진 채 발견",
+      "sourceDesc": "대구 수성구 한 저수지에서 차량이 물속으로 추락했다. 소방당국이 수중 수색을 벌인 끝에 탑승자 여성을 숨진 채 발견했으며, 경찰이 사고 경위를 조사 중이다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/accident/2026/10/19/20261019500345",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Documentary photograph of a still murky reservoir at dawn with emergency rescue rubber boat and diving equipment laid on the muddy bank, grey overcast sky reflected on the water surface, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "사회·추모",
+      "kicker": "이태원 4주기",
+      "title": "이태원 참사 4주기 추모 행사 예고",
+      "summary": "이태원 참사 4주기를 앞두고 유가족과 시민들이 이태원역 1번 출구 인근에서 추모 행사를 예고했습니다. 기억과 안전의 길 일대에서 다양한 행사가 준비되고 있습니다.",
+      "sourceTitle": "4주기 앞둔 '10.29 기억과 안전의 길'…유가족·시민 추모 행사 예고",
+      "sourceDesc": "이태원 참사 4주기를 앞두고 유가족과 시민단체들이 이태원역 1번 출구 인근 '기억과 안전의 길' 일대에서 추모 행사를 예고했다. 기억과 안전의 길에서 다양한 행사가 준비되고 있다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261019001392",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Documentary photograph of a narrow urban alleyway at night with memorial flowers, candles, and handwritten tribute notes arranged along a wall, soft candlelight casting warm golden shadows on the brick and concrete surfaces, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "경제·IT",
+      "kicker": "빅테크 실적",
+      "title": "AI 인프라 흔들…빅테크 실적이 분수령",
+      "summary": "빅테크 기업들의 실적 발표 시즌이 시작되면서 AI 인프라 투자 지속 여부가 최대 관심사로 떠올랐습니다. 이번 주 순차적으로 공개되는 실적에서 AI 데이터센터 투자 방향이 결정될 전망입니다.",
+      "sourceTitle": "AI 인프라 '흔들'…빅테크 실적이 분수령",
+      "sourceDesc": "빅테크 기업들의 실적 발표 시즌이 시작되면서 AI 인프라 투자 지속 여부가 최대 관심사로 떠올랐다. 이번 주 주요 빅테크 기업들이 순차적으로 실적을 공개하는 가운데 AI 데이터센터 투자 방향이 결정될 전망이다.",
+      "sourceLink": "https://seoul.co.kr/news/economy/industry/2026/10/20/20261020030002",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Photojournalism image of rows of illuminated server racks in a dark data center corridor, blue and green LED indicator lights reflecting off polished floors, dramatic long shadows, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "사회·안보",
+      "kicker": "북한 지뢰",
+      "title": "강화도 해안서 북한 유실 지뢰 또 발견",
+      "summary": "인천 강화군 해안에서 북한에서 유실된 것으로 추정되는 지뢰가 또 발견됐습니다. 올 들어 4번째 발견으로 해병대가 현장에서 폭파 처리했습니다.",
+      "sourceTitle": "인천 강화도 해안서 '北 유실 추정 지뢰' 발견…올 들어 4번째",
+      "sourceDesc": "해병대 2사단이 19일 오전 강화군 볼음도 조갯골 해안에서 반보병지뢰 1개 발견. 폭발물처리반이 현장 폭파 처리, 피해 없음. 이달만 4번째 발견.",
+      "sourceLink": "https://www.newspim.com/news/view/20261019001350",
+      "sourceDate": "2026-10-19",
+      "imagePrompt": "Photojournalism close-up of a military anti-personnel mine partially buried in wet coastal sand and dark seaweed on a shoreline, overcast grey sky above a calm sea in the background, vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-20 아침 브리핑\n\n1. '13명 사상' 고속도로 5중 추돌…크루즈 125㎞\n2. 대구 저수지서 차량 추락…여성 숨진 채 발견\n3. 이태원 참사 4주기 추모 행사 예고\n4. AI 인프라 흔들…빅테크 실적이 분수령\n5. 강화도 해안서 북한 유실 지뢰 또 발견\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "google": "fail", "nate": "ok", "websearch": "ok"},
+    "signalHits": [
+      {"rank": 1, "query": "크루즈 추돌 고속도로 사상 2026년 10월", "source": "hankookilbo.com"},
+      {"rank": 2, "query": "대구 수성구 저수지 차량 추락 2026년 10월", "source": "seoul.co.kr"},
+      {"rank": 3, "query": "이태원 10.29 4주기 기억과 안전의 길 2026년 10월", "source": "newspim.com"},
+      {"rank": 4, "query": "AI 인프라 빅테크 실적 2026년 10월", "source": "seoul.co.kr"},
+      {"rank": 5, "query": "강화도 해안 북한 지뢰 발견 2026년 10월", "source": "newspim.com"}
+    ]
+  }
+}
