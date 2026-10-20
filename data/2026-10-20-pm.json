@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-20",
+  "slot": "pm",
+  "hookLine": "역삼 빌딩 2곳이 7분 간격으로 불타고 있습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "역삼 연쇄 방화",
+      "title": "강남 역삼동 빌딩 2곳 연쇄 방화…피의자 추적 중",
+      "narration": "역삼동 빌딩 2곳에서 방화 추정 화재가 났습니다.",
+      "summary": "강남구 역삼동 특허법인 건물 2곳에서 7분 간격으로 잇따라 불이 났습니다. 경찰은 방화 가능성으로 보고 피의자를 추적 중입니다.",
+      "sourceTitle": "[속보]'방화 추정' 역삼 빌딩 2곳서 동시 화재…피의자 추적 중",
+      "sourceDesc": "강남구 역삼동 신명빌딩 3층에서 첫 화재가 발생한 지 7분 뒤인 낮 12시 1분께 인근 한양빌딩 4층에서도 불이 났다. 불이 난 곳은 모두 특허법인 사무실이며, 경찰은 방화 가능성을 염두에 두고 피의자로 의심되는 인물의 이동 경로를 추적하고 있다.",
+      "sourceLink": "https://m.news.nate.com/view/20261020n21664",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Photojournalism shot of a dark urban office building exterior at midday with scorched window frames and thick smoke billowing from upper floors, emergency vehicle warning lights reflecting red and orange on wet city pavement below, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "사법·사회",
+      "kicker": "아리셀 선고",
+      "title": "23명 숨진 '아리셀 참사'…박순관 대표 징역 4년 확정",
+      "summary": "화성 아리셀 공장 화재로 23명이 숨진 참사에서 대법원이 박순관 대표에게 징역 4년을 확정했습니다. 선고 후 유족들이 법정에서 통곡했습니다.",
+      "sourceTitle": "23명 숨진 '아리셀 참사' 박순관 대표 대법서 징역 4년 확정",
+      "sourceDesc": "화성 아리셀 공장 화재 참사 피고인 박순관 대표의 상고심에서 대법원이 징역 4년 원심을 확정했다. 검찰과 피고인 측의 상고를 모두 기각했으며, 선고 후 유족들이 법정에서 통곡하며 강하게 반발했다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026102009430003796",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Documentary photograph of an empty courtroom interior with dark wooden benches and elevated judicial bench, harsh fluorescent lighting casting shadows across institutional walls, memorial candles and wilting white chrysanthemums arranged on a windowsill ledge, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "국제·외교",
+      "kicker": "한·우크라 갈등",
+      "title": "한·우크라 외교 갈등…공관원 절반 철수 결정",
+      "summary": "외교부가 우크라이나 주재 공관원 절반가량의 철수를 결정했습니다. 대사 소환 이후 전향적 조치가 없다는 판단이며, 영사업무 인력은 전원 잔류합니다.",
+      "sourceTitle": "정부, 우크라이나 공관원 일부 철수…\"대사 소환 이후 전향적 조치 없어\"",
+      "sourceDesc": "외교부가 우크라이나 주재 한국대사관의 공관원 절반가량을 철수하기로 결정했다. 박두순 대변인은 대사 소환 이후 우크라이나 측의 전향적 조치가 없고 공습 위협으로 안전 확보가 어렵다고 설명했다. 영사업무 인력은 전원 잔류한다.",
+      "sourceLink": "https://m.news.nate.com/view/20261020n21533",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Photojournalism shot of a modern embassy building facade with a national flag on a flagpole at half-staff, empty security barriers and bollards in front, grey overcast sky, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "경제·IT",
+      "kicker": "메모리 공급 부족",
+      "title": "노무라 메모리 공급 부족 2028년까지 지속 전망",
+      "summary": "노무라증권이 메모리 반도체 공급 부족이 2028년까지 이어질 것으로 전망하며 삼성전자와 SK하이닉스에 매수 의견을 제시했습니다. AI 데이터센터 투자 변동이 리스크로 꼽혔습니다.",
+      "sourceTitle": "노무라증권 \"메모리 공급 부족 2028년까지…삼전닉스 '매수'\"",
+      "sourceDesc": "노무라증권이 메모리 반도체 공급 부족이 2028년까지 이어질 것으로 전망하고 삼성전자와 SK하이닉스에 대해 매수 의견을 제시했다. AI 데이터센터 투자 계획이 축소되거나 진행 중인 프로젝트가 큰 폭으로 지연될 경우 전망을 재검토해야 한다고 밝혔다.",
+      "sourceLink": "https://m.news.nate.com/view/20261020n21268",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Photojournalism close-up of rows of shiny RAM memory modules arranged in a grid on a dark reflective surface, cool blue LED lighting and blurred server rack equipment in background, vertical 9:16 composition, no people, no text."
+    },
+    {
+      "rank": 5,
+      "category": "경제·금융",
+      "kicker": "디지털화폐",
+      "title": "한은·영란은행, 디지털화폐 협력…'프로젝트 한강' 논의",
+      "summary": "한국은행과 영국 영란은행이 디지털화폐 및 자산 토큰화 분야에서 협력을 논의했습니다. 영란은행 부총재가 방문해 프로젝트 한강을 포함한 디지털 결제 현안을 협의했습니다.",
+      "sourceTitle": "한은·영란은행, 디지털화폐·자산 토큰화 맞손…'프로젝트 한강' 논의",
+      "sourceDesc": "한국은행과 영국 영란은행이 디지털화폐와 자산 토큰화 분야 협력을 논의했다. 영란은행 부총재가 방문해 디지털 화폐 및 결제 분야의 현안을 협의했으며, 프로젝트 한강과 아고라 프로젝트도 논의됐다.",
+      "sourceLink": "https://m.news.nate.com/view/20261020n21534",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Documentary image of ornate central bank stone facade with classical columns reflected in a wet plaza, financial district skyline illuminated at dusk in background, vertical 9:16 composition, no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-20 저녁 브리핑\n\n1. 강남 역삼동 빌딩 2곳 연쇄 방화…피의자 추적 중\n2. 23명 숨진 '아리셀 참사'…박순관 대표 징역 4년 확정\n3. 한·우크라 외교 갈등…공관원 절반 철수 결정\n4. 노무라 메모리 공급 부족 2028년까지 지속 전망\n5. 한은·영란은행, 디지털화폐 협력…'프로젝트 한강' 논의\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "google_rss": "fail", "nate_rank": "fail", "websearch": "ok"},
+    "signalHits": []
+  }
+}
