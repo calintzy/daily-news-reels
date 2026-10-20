@@ -28,7 +28,7 @@ jobs:
           python-version: '3.12'
 
       - name: edge-tts 설치
-        run: python -m pip install "edge-tts==7.2.8"
+        run: python -m pip install "edge-tts==7.3.1"
 
       - name: edge-tts 스모크 (GitHub Actions IP 차단 여부 판정)
         run: |
