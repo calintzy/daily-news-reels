@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-21",
+  "slot": "am",
+  "hookLine": "4년 전 잡았던 사람이 또 불을 질렀습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "강남 연쇄방화",
+      "title": "강남 한복판 연쇄 방화…19명 부상, 70대 검거",
+      "summary": "서울 역삼동 특허법인 건물 두 곳에서 7분 간격으로 방화가 발생해 19명이 다쳤습니다. 경찰은 4년 전에도 방화를 시도한 70대 남성을 4시간 만에 검거했습니다.",
+      "narration": "역삼동 두 빌딩에서 화재가 나 19명이 다쳤습니다.",
+      "sourceTitle": "\"사람들 외벽 매달려\" 대형참사 될 뻔한 역삼동 빌딩 화재···70대 방화 용의자 검거",
+      "sourceDesc": "서울 강남구 역삼동 특허법인이 입주한 빌딩 두 곳에서 7분 간격으로 방화로 인한 화재가 발생해 19명이 다쳤다. 경찰은 화재 발생 4시간여 만에 70대 남성 용의자를 검거했으며, 용의자는 4년 전에도 같은 건물에 방화를 시도해 구속된 전력이 있는 것으로 파악됐다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610201649001",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Charred exterior wall of a modern urban office building with blackened windows and smoke stains, broken glass on the pavement below, emergency tape visible, no people, no text, vertical 9:16 composition, photojournalism documentary style, early afternoon natural light."
+    },
+    {
+      "rank": 2,
+      "category": "사법·사건",
+      "kicker": "아리셀 판결",
+      "title": "아리셀 참사 대표 징역 4년 확정, 유족 반발",
+      "summary": "23명이 숨진 아리셀 화재 참사와 관련해 대법원이 박순관 대표의 징역 4년을 확정했습니다. 1심 징역 15년에서 2심 4년으로 감형된 형량에 유족들은 강하게 반발했습니다.",
+      "sourceTitle": "23명 숨진 아리셀 화재 참사…박순관 대표 '징역 15년→4년' 확정",
+      "sourceDesc": "대법원이 박순관 아리셀 대표의 상고를 기각해 2심 형량인 징역 4년을 확정했다. 1심 징역 15년에서 2심 4년으로 대폭 감형된 형량이 그대로 유지됐고, 유족들은 강하게 반발했다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610201725001",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Empty industrial factory floor with scorched assembly line equipment and blackened concrete walls, dim lighting, debris scattered on the ground, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "정치·부동산",
+      "kicker": "3기 신도시",
+      "title": "이 대통령 '3기 신도시 90% 착공' 현장 방문",
+      "summary": "이재명 대통령이 인천 3기 신도시 현장을 방문해 2030년까지 공공 물량 90%를 착공하겠다고 밝혔습니다. 부동산 정책 성패의 분기점이라며 속도전을 강조했습니다.",
+      "sourceTitle": "[속보]李대통령 \"2030년까지 3기 신도시 공공 물량 90% 착공토록 혼신의 힘\"",
+      "sourceDesc": "이재명 대통령이 인천 계양지구 3기 신도시 현장을 찾아 2030년까지 공공 물량 90% 착공을 목표로 혼신의 힘을 다해달라고 밝혔다. 부동산 정책 성패를 가르는 분기점이라며 속도를 거듭 강조했다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/10/20/2026102016251726262",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Wide aerial shot of a large greenfield construction site with tower cranes, freshly graded earthwork, and surveying stakes spread across suburban flatland, overcast sky, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "정치·사법",
+      "kicker": "오세훈 항소심",
+      "title": "오세훈 2심 선고, 실시간 생중계 결정",
+      "summary": "오세훈 서울시장의 정치자금법 위반 항소심 선고가 실시간으로 생중계됩니다. 서울고법이 해당 선고 기일에 생중계를 허가했습니다.",
+      "sourceTitle": "[속보]오세훈 서울시장, 정치자금법 사건 2심 선고 생중계",
+      "sourceDesc": "서울고법 형사부가 오세훈 서울시장의 정치자금법 위반 항소심 선고 기일에 대해 실시간 생중계를 허가하기로 결정했다.",
+      "sourceLink": "https://www.mt.co.kr/society/2026/10/20/2026102016584366339",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Solemn empty courtroom interior with a wooden judicial bench, national flag draped in the corner, warm ceiling lights casting long shadows across polished wooden benches, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "경제·산업",
+      "kicker": "반도체 실적",
+      "title": "SK하이닉스 3분기 영업이익 77조 원 전망",
+      "summary": "SK하이닉스의 3분기 영업이익이 77조 원으로 예상되며, 현실화되면 6개 분기 연속 최대 실적 경신이 됩니다. HBM4 판매 본격화가 이번 실적 상승의 핵심 동력입니다.",
+      "sourceTitle": "HBM4 날개… SK하닉, 또 새기록 펼친다",
+      "sourceDesc": "SK하이닉스의 3분기 영업이익이 77조 원으로 예상된다. 현실화되면 6개 분기 연속 최대 실적 경신이다. HBM4 판매 본격화가 반도체 실적 상승의 핵심 동력으로 꼽힌다.",
+      "sourceLink": "https://www.mt.co.kr/industry/2026/10/20/2026101920003485406",
+      "sourceDate": "2026-10-20",
+      "imagePrompt": "Extreme macro close-up of a semiconductor wafer with intricate circuit patterns reflecting blue and gold light, resting on a clean lab surface, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-21 아침 브리핑\n\n1. 강남 한복판 연쇄 방화…19명 부상, 70대 검거\n2. 아리셀 참사 대표 징역 4년 확정, 유족 반발\n3. 이 대통령 '3기 신도시 90% 착공' 현장 방문\n4. 오세훈 2심 선고, 실시간 생중계 결정\n5. SK하이닉스 3분기 영업이익 77조 원 전망\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #역삼동방화 #아리셀 #3기신도시 #오세훈 #반도체\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
