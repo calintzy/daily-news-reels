@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-21",
+  "account": "aibrief",
+  "hookLine": "스페이스X, AI 사업으로 10조원 수익 냈습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "빅테크 사업",
+      "kicker": "AI 흑자",
+      "title": "스페이스X 3분기 AI 사업 10조원 수익",
+      "summary": "스페이스X가 3분기 매출이 전년 동기 대비 161% 급증한 145억8000만 달러를 기록했습니다. AI 사업에서도 10조원 수익을 거뒀습니다.",
+      "sourceTitle": "일론 머스크 '스페이스X', 3분기 매출 161% 급증…AI 사업으로 10조원 수익 By The Guru",
+      "sourceDesc": "스페이스X는 3분기 실적을 발표했습니다. 3분기 매출이 전년 동기 대비 161% 증가한 145억8000만 달러(약 19조3000억원)를 기록했다고 밝혔다.",
+      "sourceLink": "https://kr.investing.com/news/stock-market-news/article-2134231"
+    },
+    {
+      "rank": 2,
+      "category": "규제·정책",
+      "kicker": "반도체 규제",
+      "title": "AI칩 수출 규제법 3건, 엔비디아 등 로비",
+      "summary": "미 상원 국방수권법 개정안에 AI칩 수출 규제 법안 3건이 포함됐습니다. 엔비디아 등이 이 법안을 막기 위한 로비에 나섰습니다.",
+      "narration": "엔비디아가 AI칩 수출 규제 법안에 로비 나섰습니다.",
+      "sourceTitle": "AI칩 수출 규제 법안 3건에 엔비디아 등 로비",
+      "sourceDesc": "상원 국방수권법(NDAA) 개정안에 담긴 'AI OVERWATCH Act', 'Chip Security Act', 'MATCH Act' 세 건입니다. 이 세 법안은 의회에서 드물게 초당적 지지를 받고 있다고 전해졌습니다.",
+      "sourceLink": "https://tokenpost.kr/news/ai/425208"
+    },
+    {
+      "rank": 3,
+      "category": "AI 모델·서비스",
+      "kicker": "에이전트 시대",
+      "title": "챗GPT 시대 저물고 '대딸깍 시대' 온다",
+      "summary": "챗GPT 방식의 서비스 시대가 저물고 에이전트 중심의 새 시대가 오고 있습니다. 삼성증권은 기존 고객 기반을 가진 빅테크가 에이전트를 통해 플랫폼 지배력을 강화할 수 있다고 분석했습니다.",
+      "narration": "챗GPT 시대 저물고, 에이전트 시대 온다고 합니다.",
+      "sourceTitle": "챗GPT 시대 저무나…'대딸깍 시대'에 돈 몰리는 곳 By EBN",
+      "sourceDesc": "삼성증권은 기존 고객 기반을 가진 빅테크가 에이전트를 통해 플랫폼 지배력을 강화할 수 있다고 분석했습니다.",
+      "sourceLink": "https://kr.investing.com/news/stock-market-news/article-2134211"
+    },
+    {
+      "rank": 4,
+      "category": "사회 영향",
+      "kicker": "AI 최적화",
+      "title": "AI가 읽기 쉽게, 문서·사이트 양식 바뀐다",
+      "summary": "AI 에이전트가 웹사이트와 보고서를 직접 읽는 환경이 됐습니다. 기업과 정부가 AI친화 양식을 도입해 이미지·표 대신 간단한 기호로 바꾸는 추세입니다.",
+      "narration": "문서도 사이트도, AI가 읽기 쉽게 바뀝니다.",
+      "sourceTitle": "사람 아닌 AI가 이해하기 쉽게… 달라지는 사이트·보고서 양식",
+      "sourceDesc": "AI 에이전트가 웹사이트와 보고서를 읽는 환경이 되면서 문서 양식이 바뀌고 있다. 기업·정부 AI친화 양식 도입 확산, 이미지·표 빼고 간단한 기호만 써라",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/industry/2026/10/21/20261021010002"
+    },
+    {
+      "rank": 5,
+      "category": "빅테크 사업",
+      "kicker": "사업 재편",
+      "title": "머스크, 테슬라·스페이스X 합병 공식 검토",
+      "summary": "머스크 CEO가 테슬라와 스페이스X의 합병 검토를 공식화했습니다. 3분기 매출 75억6000만달러를 기록한 슈퍼지능 부문의 시너지를 노린다는 구상입니다.",
+      "narration": "테슬라·스페이스X 합병, 머스크가 공식 검토합니다.",
+      "sourceTitle": "머스크, '테슬라·스페이스X' 합병 공식 검토…슈퍼지능 시너지 기대 By EBN",
+      "sourceDesc": "머스크 CEO가 두 회사의 합병 검토를 공식화했고, 슈퍼지능(SI) 사업 시너지를 노린다는 구상입니다. 그는 3분기 매출 75억6000만달러를 기록한 슈퍼지능 부문의 연간 반복매출이 내년 말 1000억~1조달러에 이를 것으로 예상했습니다.",
+      "sourceLink": "https://kr.investing.com/news/stock-market-news/article-2134202"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-21 AI 뉴스 브리핑\n\n1. 스페이스X 3분기 AI 사업 10조원 수익\n2. AI칩 수출 규제법 3건, 엔비디아 등 로비\n3. 챗GPT 시대 저물고 '대딸깍 시대' 온다\n4. AI가 읽기 쉽게, 문서·사이트 양식 바뀐다\n5. 머스크, 테슬라·스페이스X 합병 공식 검토\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #스페이스X #엔비디아 #AI에이전트 #AI규제\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
