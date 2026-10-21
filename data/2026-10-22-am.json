@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-22",
+  "slot": "am",
+  "hookLine": "확성기가 수일 안에 켜집니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·안보",
+      "kicker": "북한 위협",
+      "title": "김여정, 확성기 수일내 가동 위협",
+      "summary": "김여정 북한 노동당 총무부장이 전 국경선에 새로운 대응수단들을 임무대기태세에 들어갈 것이라고 밝혔습니다. 대한국확성기들도 수일 안으로 대기상태에 들어간다고 조선중앙통신이 보도했습니다.",
+      "narration": "전 국경선 대응수단이 임무대기에 들어갑니다.",
+      "sourceTitle": "[속보] 김여정 \"전 국경선 새 대응수단 임무대기…확성기도 수일내 대기\"",
+      "sourceDesc": "김여정 북한 노동당 총무부장이 22일 \"전 국경선에서 우리의 새로운 대응수단들은 임무대기태세에 들어갈 것이며 대한국확성기들도 수일 안으로 대기상태에 들어가게 된다\"고 밝혔다고 조선중앙통신이 보도했다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610220635001/",
+      "sourceDate": "2026-10-22",
+      "imagePrompt": "Photojournalistic documentary: rows of large loudspeakers mounted on rusted metal poles at a demilitarized zone border fence, barbed wire, grey overcast sky, mist rolling over empty landscape, no people, no text, vertical 9:16 composition, cold desaturated tones."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "반도체 수출 호황",
+      "title": "10월 수출 역대 최대, 반도체 222.5%↑",
+      "summary": "10월 1~20일 수출이 616억달러로 역대 최대를 기록했습니다. 반도체 수출이 222.5% 늘어나며 전체 수출을 이끌었습니다.",
+      "sourceTitle": "[속보]10월 1~20일 수출 616억달러 반도체 덕분에 '역대 최대'…반도체 222.5%↑",
+      "sourceDesc": "관세청 집계에 따르면 10월 1~20일 수출액이 616억달러로 역대 최대 규모로 집계됐고, 반도체 수출이 222.5% 증가하며 전체 수출을 이끌었습니다.",
+      "sourceLink": "https://www.mt.co.kr/economy/2026/10/21/2026102108460727815",
+      "sourceDate": "2026-10-21",
+      "imagePrompt": "Photojournalistic aerial view of a modern container port terminal at golden hour, rows of colorful shipping containers stacked high, overhead cranes against an orange sky, reflections on wet tarmac, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "올가을 첫 한파",
+      "title": "10월에 첫 한파주의보, 대관령 영하 3도",
+      "summary": "올가을 첫 한파주의보가 발효돼 아침 기온이 하루 만에 10도 안팎 떨어집니다. 대관령은 영하 3도 안팎까지 내려갈 것으로 전망됩니다.",
+      "sourceTitle": "10월인데 패딩 꺼내야 하나… 전국 한파주의보에 대관령 영하 3도",
+      "sourceDesc": "일부 지역에서는 아침 기온이 하루 만에 10도 안팎 떨어지고, 경기 북동부와 강원 내륙·산지는 영하권까지 내려갈 것으로 예상됐습니다. 대관령은 영하 3도 안팎까지 떨어질 것으로 전망됐습니다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026102108520005751",
+      "sourceDate": "2026-10-21",
+      "imagePrompt": "Photojournalistic early morning shot of frost-covered tree branches and grass in a Korean mountain valley, delicate ice crystals catching first light, ground mist rising, bare mountains in background, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "부캉이 위기",
+      "title": "부캉이, 폰툰 넘어 2차 그물망 접근",
+      "summary": "흑상어 부캉이가 당국이 설치한 폰툰을 넘어 2차 그물망 앞에서 배회하고 있습니다. 그물망까지 통과할 경우 인공수로 내부로 재진입할 가능성도 배제할 수 없다고 전해졌습니다.",
+      "sourceTitle": "[속보] 부캉이 '폰툰' 넘어 2차 그물망 앞 배회, 수로 재진입 우려",
+      "sourceDesc": "흑상어 부캉이가 당국이 설치한 폰툰을 넘어 2차 그물망 앞까지 배회하고 있습니다. 부캉이가 그물망까지 통과할 경우 인공수로 내부로 재진입할 가능성도 배제할 수 없다고 전해졌습니다.",
+      "sourceLink": "https://weekly.khan.co.kr/article/202610220139001/",
+      "sourceDate": "2026-10-22",
+      "imagePrompt": "Photojournalistic underwater harbor scene, dark water with industrial pier pilings and metal barrier net submerged below surface, shafts of filtered light, murky depths, no people, no text, vertical 9:16 composition, blue-green desaturated tones."
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "이진숙 국감",
+      "title": "헌재, 이진숙 국감 제척 가처분 일부 인용",
+      "summary": "헌법재판소가 이진숙 국민의힘 의원의 국감 제척 의결 효력정지 가처분을 일부 인용했습니다. 이에 따라 이진숙 의원은 22일 과방위 국정감사에 참여할 수 있게 됐습니다.",
+      "sourceTitle": "이진숙, 22일 과방위 국감 참여... 헌재, '제척' 가처분 일부 인용",
+      "sourceDesc": "이진숙 국민의힘 의원이 2026년 10월 22일 열리는 국회 과학기술정보방송통신위원회(과방위) 국정감사에 참여할 수 있게 됐다. 헌법재판소가 이진숙 의원의 제척 의결 효력정지 가처분을 일부 인용했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610212122573123",
+      "sourceDate": "2026-10-21",
+      "imagePrompt": "Photojournalistic exterior of a formal Korean government court building at dusk, polished stone steps leading to classical stone columns, Korean national flag on a pole, calm and authoritative atmosphere, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-22 아침 브리핑\n\n1. 김여정, 확성기 수일내 가동 위협\n2. 10월 수출 역대 최대, 반도체 222.5%↑\n3. 10월에 첫 한파주의보, 대관령 영하 3도\n4. 부캉이, 폰툰 넘어 2차 그물망 접근\n5. 헌재, 이진숙 국감 제척 가처분 일부 인용\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침뉴스 #한국뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
