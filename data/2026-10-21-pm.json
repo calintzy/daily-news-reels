@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-21",
+  "slot": "pm",
+  "hookLine": "1심 25년이 2심에서 9년으로 선고됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사법·정치",
+      "kicker": "박성재 항소심",
+      "title": "박성재 전 법무장관, 항소심 징역 9년",
+      "summary": "서울고법이 박성재 전 법무부 장관 항소심에서 징역 9년을 선고했습니다. 1심 징역 25년보다 16년 감형된 형량입니다.",
+      "narration": "박성재 전 법무부장관이 항소심에서 징역 9년입니다.",
+      "sourceTitle": "'내란 가담' 박성재 前법무, 2심 징역 9년… 1심보다 16년 감형",
+      "sourceDesc": "서울고법 형사1부가 21일 박성재 전 법무부 장관 항소심에서 징역 9년을 선고했다. 1심 징역 25년보다 16년 감형된 형량으로, 법원은 내란 가담 혐의 일부에 대한 판단을 달리했다.",
+      "sourceLink": "https://www.segye.com/newsView/20261021518520",
+      "sourceDate": "2026-10-21",
+      "imagePrompt": "Empty appellate courtroom with rows of polished wooden benches, a raised judicial bench with three seats, national flag draped in the corner, warm overhead lights casting long shadows, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "경제·금융",
+      "kicker": "코스피 사이드카",
+      "title": "코스피 3.29% 상승, 매수 사이드카 발동",
+      "summary": "코스피가 21일 장 중 한때 4% 급등하며 매수 사이드카가 발동됐습니다. 최종 3.29% 오른 5735.66으로 마감했습니다.",
+      "sourceTitle": "코스피 장 중 2%대 강세…한때 4% 급등해 매수 사이드카도",
+      "sourceDesc": "코스피가 21일 장 중 4% 급등하며 매수 사이드카가 발동됐고, 최종 3.29% 오른 5735.66으로 마감했다. 삼성전자·SK하이닉스 등 반도체주가 5% 이상 상승하며 지수를 이끌었고, 매수 사이드카는 지난 8월 20일 이후 처음 발동됐다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026102113585056721",
+      "sourceDate": "2026-10-21",
+      "imagePrompt": "Close-up of electronic stock market ticker board with rows of illuminated green price displays and percentage figures, soft blur in background, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "경제·무역",
+      "kicker": "10월 수출",
+      "title": "10월 1~20일 수출 616억달러, 역대 최대",
+      "summary": "10월 1~20일 수출액이 616억달러로 같은 기간 역대 최대를 기록했습니다. 반도체 수출이 222.5% 급증해 역대 최대 달성을 이끌었습니다.",
+      "sourceTitle": "[속보]10월 1~20일 수출 616억달러 반도체 덕분에 '역대 최대'…반도체 222.5%↑",
+      "sourceDesc": "관세청이 21일 발표한 10월 1~20일 수출 통계에서 수출액이 616억달러로 집계됐다. 같은 기간 기준 역대 최대이며 작년 동기 대비 105.4% 증가했고, 반도체 수출은 222.5% 급증했다.",
+      "sourceLink": "https://www.mt.co.kr/economy/2026/10/21/2026102108460727815",
+      "sourceDate": "2026-10-21",
+      "imagePrompt": "Wide-angle view of a container port at dawn with towering crane structures over stacked multicolored shipping containers stretching to the horizon, overcast sky, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "정치·문화",
+      "kicker": "유홍준 사의",
+      "title": "유홍준 국립중앙박물관장, 논란 끝에 사의",
+      "summary": "유홍준 국립중앙박물관장이 부실 검증·셀프 출품 논란 속에 21일 사의를 표명했습니다. 관장 자신이 출품한 유물의 특별전 포함과 감정 부실 검증 의혹이 논란의 배경이었습니다.",
+      "sourceTitle": "[속보]'부실 검증·셀프 출품 논란' 유홍준 국립중앙박물관장, 사의 표명",
+      "sourceDesc": "유홍준 국립중앙박물관장이 21일 사의를 표명했다. 관장 자신이 출품한 유물이 특별전에 포함된 이른바 셀프 출품 논란과 유물 감정 부실 검증 의혹이 불거지며 사퇴 압력을 받아온 것으로 알려졌다.",
+      "sourceLink": "https://www.mt.co.kr/culture/2026/10/21/2026102110422445296",
+      "sourceDate": "2026-10-21",
+      "imagePrompt": "Dimly lit museum gallery corridor with glass display cases along stone walls, artifacts illuminated by focused spotlights, polished floor reflecting warm light, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "경제·물가",
+      "kicker": "생산자물가",
+      "title": "9월 생산자물가 0.2% 상승, 두 달 연속",
+      "summary": "한국은행이 발표한 9월 생산자물가가 전월 대비 0.2% 상승해 두 달 연속 오름세를 이어갔습니다. 전기요금과 먹거리 가격 급등이 상승의 주요 원인으로 꼽혔습니다.",
+      "sourceTitle": "전기요금·먹거리 뛰자 9월 생산자물가 0.2%↑…두 달째 상승",
+      "sourceDesc": "한국은행이 21일 발표한 9월 생산자물가지수가 전월 대비 0.2% 상승해 두 달 연속 오름세를 보였다. 전기요금 누진제 감면 종료와 추석 명절 농축산물 가격 급등이 주요 원인으로 꼽혔다.",
+      "sourceLink": "https://m.news.nate.com/view/20261021n22298",
+      "sourceDate": "2026-10-21",
+      "imagePrompt": "Fresh vegetables and leafy greens piled on a traditional Korean market stall with price tags in the foreground, soft natural morning light, no people, no text, vertical 9:16 composition, photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-21 저녁 브리핑\n\n1. 박성재 전 법무장관, 항소심 징역 9년\n2. 코스피 3.29% 상승, 매수 사이드카 발동\n3. 10월 1~20일 수출 616억달러, 역대 최대\n4. 유홍준 국립중앙박물관장, 논란 끝에 사의\n5. 9월 생산자물가 0.2% 상승, 두 달 연속\n\n내일 저녁에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #박성재 #코스피사이드카 #수출역대최대 #유홍준 #생산자물가\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
