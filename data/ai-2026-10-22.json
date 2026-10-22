@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-22",
+  "account": "aibrief",
+  "hookLine": "AI가 인터넷 70% 위협 PHP 결함 잡았습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 보안",
+      "kicker": "인터넷 70% 위협",
+      "title": "AI, 인터넷 70% 위협 보안결함 발견",
+      "summary": "인공지능이 인터넷 70%에 영향을 줄 PHP 보안 결함을 발견했습니다. OpenAI 등이 참여했으며, 21일 PHP 재단이 패치를 공개했습니다.",
+      "sourceTitle": "Ai helps uncover security flaw",
+      "sourceDesc": "Three companies, including OpenAI and Google-owned Wiz, say AI helped them find critical PHP bugs that could have affected about 70% of the internet. The PHP Foundation says a patch to fix the problem is available to the public as of Wednesday, October 21.",
+      "sourceLink": "https://abccolumbia.com/2026/10/21/ai-helps-uncover-security-flaw"
+    },
+    {
+      "rank": 2,
+      "category": "규제·정책",
+      "kicker": "전면 사용 금지",
+      "title": "미국, 연방기관 DeepSeek 전면 금지",
+      "summary": "미국 국토안보부(DHS)가 민간 연방기관의 DeepSeek 제품 사용과 구매를 전면 금지했습니다. DeepSeek 기반 외부 서비스도 시스템에서 제거해야 합니다.",
+      "narration": "미국이 DeepSeek 사용을 전면 금지했습니다.",
+      "sourceTitle": "DHS orders DeepSeek stripped from US civilian federal IT systems",
+      "sourceDesc": "The US Department of Homeland Security has ordered civilian federal agencies to remove DeepSeek products and third-party tools built on the Chinese AI company's models from government IT systems. Agencies must also stop purchasing DeepSeek products and services, citing concerns about sensitive data potentially reaching China.",
+      "sourceLink": "https://aiweekly.co/alerts/dhs-orders-deepseek-stripped-from-us-civilian-federal-it-systems"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크 사업",
+      "kicker": "AI 자금 조달",
+      "title": "메타, AI 투자에 무의결권 주식 발행 검토",
+      "summary": "메타가 마크 저커버그의 의결권 지배력을 유지하면서 인공지능 야망 실현을 위한 재원으로 무의결권 주식 발행을 검토 중입니다. 의결권 지배력을 희석하지 않는 재원 마련 방안으로 거론됩니다.",
+      "narration": "메타가 AI 투자 재원 마련에 나섰습니다.",
+      "sourceTitle": "메타, AI 투자 재원 마련 위해 무의결권 주식 발행 검토",
+      "sourceDesc": "세마포 보도에 따르면 메타가 최고경영자(CEO) 마크 저커버그의 의결권 지배력을 희석시키지 않으면서 인공지능(AI) 야망을 실현하기 위한 재원 마련 방안으로 무의결권 주식 발행을 검토 중이라고 합니다.",
+      "sourceLink": "https://kr.investing.com/news/stock-market-news/article-2135868"
+    },
+    {
+      "rank": 4,
+      "category": "반도체·인프라",
+      "kicker": "로봇 협력 확대",
+      "title": "LG이노텍, 엔비디아와 로봇 센싱 협력",
+      "summary": "LG이노텍이 엔비디아 GTC 베를린에서 홀로스캔 센서 브리지 기술을 적용한 센싱 솔루션을 공개했습니다. 엔비디아와 로봇 센싱 사업 확대에 속도를 내고 있습니다.",
+      "narration": "LG이노텍이 엔비디아와 로봇 센싱 협력에 나섰습니다.",
+      "sourceTitle": "LG이노텍, 엔비디아 손잡고 로봇 센싱 사업 확대 속도",
+      "sourceDesc": "LG이노텍은 22일 독일 베를린에서 열린 엔비디아의 기술 콘퍼런스 'GTC 베를린'에서 엔비디아의 홀로스캔 센서 브리지(HSB) 기술을 적용한 센싱 솔루션을 공개했다.",
+      "sourceLink": "https://kr.investing.com/news/stock-market-news/article-2136270"
+    },
+    {
+      "rank": 5,
+      "category": "AI 기업",
+      "kicker": "안전성 논란",
+      "title": "Anthropic CEO, AI 안전 기록 방어",
+      "summary": "트럼프 행정부가 AI와 데이터센터에 관한 정책 입장을 발표했습니다. Anthropic CEO는 자사의 안전 기록과 중국 판매 논란에 대해 공개적으로 입장을 밝혔습니다.",
+      "narration": "Anthropic CEO가 안전 기록을 방어했습니다.",
+      "sourceTitle": "Trump issues AI, data center position; Anthropic CEO defends safety record, sales to China",
+      "sourceDesc": "Trump administration announces its position on artificial intelligence regulation and data center development. Anthropic's CEO publicly defends the company's safety record and addresses concerns about its sales to China.",
+      "sourceLink": "https://foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-22 AI 뉴스 브리핑\n\n1. AI, 인터넷 70% 위협 보안결함 발견\n2. 미국, 연방기관 DeepSeek 전면 금지\n3. 메타, AI 투자에 무의결권 주식 발행 검토\n4. LG이노텍, 엔비디아와 로봇 센싱 협력\n5. Anthropic CEO, AI 안전 기록 방어\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #보안 #DeepSeek #메타 #LG이노텍 #엔비디아 #Anthropic\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
