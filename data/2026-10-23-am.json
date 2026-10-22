@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-23",
+  "slot": "am",
+  "hookLine": "30호 태풍 참피가 제주도로 향합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "재난·안전",
+      "kicker": "태풍 참피",
+      "title": "슈퍼 태풍 참피, 주말 제주도 영향권",
+      "summary": "제30호 태풍 '참피'가 강한 세력으로 북상하며 주말 제주도 영향권에 들었습니다. 23일부터 제주와 남부지방에 비바람이 예상되고 강수량은 30~80㎜에 이를 전망입니다.",
+      "narration": "주말 제주도에 강한 비바람이 예상됩니다.",
+      "sourceTitle": "슈퍼 태풍 '참피' 북상 중…주말에 제주도 영향권?",
+      "sourceDesc": "제30호 태풍 '참피'가 강한 세력을 유지하며 북상 중이다. 23일부터 제주도와 남부지방에 비바람이 예상되며 23~24일 제주도 예상 강수량은 30~80㎜이다.",
+      "sourceLink": "https://www.ajunews.com/view/20261022062309680",
+      "sourceDate": "2026-10-22",
+      "imagePrompt": "Photojournalistic wide-angle shot of dark storm clouds gathering over a coastal Korean harbor at dusk, choppy waves crashing against a concrete seawall, overcast grey sky with threatening cloud formations, no people, no text, vertical 9:16 composition, desaturated blue-grey tones."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "코스피 급락",
+      "title": "코스피 또 급락, 3.52% 하락 마감",
+      "summary": "전날 반등에도 코스피가 22일 다시 3.52% 급락했습니다. 201.89포인트 내린 5533.77로 장을 마쳐 개인투자자들의 시름이 깊어졌습니다.",
+      "sourceTitle": "반등 믿었는데 또 급락…코스피 3.52%↓, 개미들 깊어지는 한숨 [fn마감시황]",
+      "sourceDesc": "코스피가 22일 201.89포인트(3.52%) 하락한 5533.77에 장을 마쳤다. 전날 반등 기대감에도 불구하고 AI 관련주들이 재급락하면서 개인투자자들의 시름이 깊어졌다.",
+      "sourceLink": "https://fnnews.com/news/202610221541142119",
+      "sourceDate": "2026-10-22",
+      "imagePrompt": "Photojournalistic close-up of a Korean stock exchange ticker display showing cascading red numbers and downward arrows, dark trading floor with dim red and amber lighting, blurred reflections on polished surface, no people, no text, vertical 9:16 composition, red and black color palette."
+    },
+    {
+      "rank": 3,
+      "category": "국제·안보",
+      "kicker": "北지뢰 외교",
+      "title": "외교부, 北 지뢰 안보리 의장에 서한",
+      "summary": "정부가 유엔 안보리 의장에게 북한 지뢰 사건 관련 서한을 발송하기로 했습니다. 서한에는 DMZ 폭발이 정전협정 위반임을 설명하고 북한의 사과를 요구하는 내용이 담깁니다.",
+      "sourceTitle": "정부, 유엔 안보리의장에 '北지뢰' 서한 보낸다…\"독자제재도 검토\"",
+      "sourceDesc": "정부가 주유엔대사 명의로 유엔 안보리 의장에게 북한 지뢰 관련 서한을 발송하기로 했다. 서한에는 DMZ 폭발이 정전협정 위반임을 설명하고 북한의 사과와 책임 있는 조치를 요구하는 내용이 담긴다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/10/22/2026102214442755076",
+      "sourceDate": "2026-10-22",
+      "imagePrompt": "Photojournalistic exterior of the United Nations headquarters building at dusk, stone facade and tall flagpoles with international flags, golden evening light, no people, no text, vertical 9:16 composition, cool grey and gold tones."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "금리 동결",
+      "title": "한은 기준금리 3% 동결, 내달 인상 주목",
+      "summary": "한국은행이 기준금리를 3%로 동결했습니다. 7월과 8월 두 차례 인상 이후 처음 숨을 고른 것으로, 내달 추가 인상 여부에 관심이 쏠립니다.",
+      "sourceTitle": "'긴축 속도조절' 한은, 기준금리 3% 동결… 내달 인상 나설까",
+      "sourceDesc": "한국은행 금융통화위원회가 기준금리를 현행 3%로 만장일치 동결했다. 7월과 8월 두 차례에 걸쳐 기준금리를 인상한 뒤 처음으로 숨 고르기에 들어간 것으로, 내달 추가 인상 여부에 관심이 쏠리고 있다.",
+      "sourceLink": "https://www.mt.co.kr/economy/2026/10/23/2026102219560818337",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Photojournalistic exterior of the Bank of Korea headquarters building in Seoul at dawn, classical stone architecture with Korean national flag on pole, empty quiet plaza, early morning light with long shadows, no people, no text, vertical 9:16 composition, cool blue morning tones."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-23 아침 브리핑\n\n1. 슈퍼 태풍 참피, 주말 제주도 영향권\n2. 코스피 또 급락, 3.52% 하락 마감\n3. 외교부, 北 지뢰 안보리 의장에 서한\n4. 한은 기준금리 3% 동결, 내달 인상 주목\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침뉴스 #한국뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
