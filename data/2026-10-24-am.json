@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-24",
+  "slot": "am",
+  "hookLine": "1심 시장직 상실형, 항소심이 뒤집었습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치·사법",
+      "kicker": "오세훈 무죄",
+      "title": "오세훈 시장, 항소심서 무죄",
+      "summary": "오세훈이 항소심에서 무죄를 선고받았습니다. 1심에서 시장직 상실형이 선고됐으나 항소심에서 뒤집혔습니다.",
+      "narration": "이번 항소심으로 1심 상실형이 무죄로 바뀌었습니다.",
+      "sourceTitle": "오세훈 항소심 무죄… 1심 시장직 상실형 뒤집혀",
+      "sourceDesc": "오세훈 서울시장이 명태균씨 여론조사비 대납 혐의(정치자금법 위반)로 기소돼 1심에서 벌금 1000만원을 선고받았으나, 서울고법 형사7부(재판장 박원규)는 23일 오후 2시 무죄를 선고했다. 오 시장은 시장직을 유지하게 됐고 검찰은 상고를 검토 중이다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/2026/10/23/20261023500160",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Close-up of a wooden judge's gavel resting on its sound block on a polished courtroom bench, soft natural light filtering through tall arched windows casting gentle shadows across empty wooden pews, bokeh background of legal bookshelves, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "재난·날씨",
+      "kicker": "태풍 참피",
+      "title": "올해 최대 태풍 참피 비상",
+      "summary": "올해 최대 태풍 참피가 최대 900㎜ 폭우를 예고하며 접근하고 있습니다. 나라 전체가 비상 대응에 들어갔습니다.",
+      "sourceTitle": "올해 최대의 태풍 '참피'…'최대 900㎜' 폭우 예고에 나라 전체가 비상",
+      "sourceDesc": "대만을 강타한 태풍 참피가 1명 사망·163명 부상의 피해를 냈다. 학교와 관공서가 폐쇄되고 항공편 600여편이 결항됐으며 한국에도 영향이 예상된다.",
+      "sourceLink": "https://m.ytn.co.kr/news_view.amp.php?param=0545_202610231106409878",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Dark typhoon clouds swirling over a coastal landscape, massive waves crashing against rocky shoreline, palm trees bending violently in strong winds, heavy rain streaks blurring the horizon, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "중국 강진",
+      "title": "중국 티베트 7.0 강진, 16명 사망",
+      "summary": "중국 티베트에서 7.0 강진이 발생해 16명이 사망하고 수십 명이 부상했습니다. 시진핑 주석은 구조에 총력을 기울이라고 지시했습니다.",
+      "sourceTitle": "티베트 7.0 강진에 16명 사망, 수십 명 부상…시진핑 '구조 총력'",
+      "sourceDesc": "중국 시짱(티베트)자치구 나취시에서 현지시간 22일 오후 10시33분 규모 7.0 지진이 발생해 16명이 사망하고 수십 명이 부상했다. 진원 깊이는 10㎞이며 시진핑 국가주석은 구조에 총력을 기울이라고 지시했다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610231455001/",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Cracked earth and collapsed stone rubble scattered across a highland plateau under clear morning sky, orange emergency supply crates and rescue equipment visible among debris field, dust settling over devastated landscape, mountains in background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "안보",
+      "kicker": "북한 확성기",
+      "title": "김여정, 대응수단 대기 예고",
+      "summary": "김여정이 새 대응수단이 대기 상태에 들어간다고 밝혔습니다. 국방부는 무엇이든 비례 대응하겠다고 답했습니다.",
+      "sourceTitle": "김여정 '새 대응수단 대기'… 국방부 '무엇이든 비례 대응'",
+      "sourceDesc": "김여정 북한 노동당 총무부장은 22일 담화에서 새로운 대응수단들은 임무대기태세에 들어갈 것이며 대한국 확성기들도 수일 안으로 대기상태에 들어가게 된다고 밝혔다. 국방부는 북한이 확성기를 가동하면 무엇이든 비례 대응이 있어야 한다고 답했다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/10/23/2026102219553220215",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Steel barbed-wire fence stretching across a misty demilitarized zone landscape at dawn, military loudspeaker units mounted on weathered wooden posts in foreground, thick morning fog rolling over hills in background, silent empty terrain, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "코스피 급락",
+      "title": "코스피, 장 초반 5400선 하회",
+      "summary": "코스피가 장 초반 2%대 하락하며 5400선을 하회했습니다. 국내 증시 전반에 하락세가 나타났습니다.",
+      "sourceTitle": "[속보]코스피, 5400선 하회… 장 초반 2%대↓",
+      "sourceDesc": "코스피가 23일 장 초반 전 거래일보다 2%대 하락하며 5400선을 하회했다. 미국 기술주 급락 여파로 반도체주와 IT주를 중심으로 매도세가 확산됐다.",
+      "sourceLink": "https://www.mt.co.kr/stock/2026/10/23/2026102309015915818",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Empty stock exchange trading floor with rows of dark screens displaying falling numerical indicators in red, downward arrows reflected on polished marble floors, dramatic overhead lighting casting long shadows, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-24 아침 브리핑\n오세훈 항소심 무죄 · 태풍 참피 비상 · 중국 티베트 강진 · 북한 대응수단 경고 · 코스피 급락\n\n#뉴스 #아침브리핑 #오세훈 #태풍참피 #티베트지진 #북한 #코스피\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
