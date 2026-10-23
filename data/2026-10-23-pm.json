@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-23",
+  "slot": "pm",
+  "hookLine": "오세훈 시장의 1심 유죄, 항소심에서 뒤집혔습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치·사법",
+      "kicker": "2심 무죄",
+      "title": "오세훈 서울시장, 정치자금법 2심 무죄 선고",
+      "summary": "서울고법이 오세훈 서울시장의 정치자금법 위반 항소심에서 무죄를 선고했습니다. 1심 유죄 판결을 뒤집은 것으로 특검의 상고 여부에 이목이 쏠립니다.",
+      "narration": "오세훈 시장, 항소심에서 무죄를 선고받았습니다.",
+      "sourceTitle": "1심 유죄 뒤집은 오세훈..사법 부담 덜고 서울시정에 '드라이브'",
+      "sourceDesc": "서울고법이 오세훈 서울시장의 정치자금법 위반 항소심(2심)에서 무죄를 선고했다. 1심 유죄 판결을 뒤집은 것으로 특검 상고 여부에 이목이 모인다.",
+      "sourceLink": "https://fnnews.com/news/202610231610545421",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Photojournalistic exterior of a formal Korean appellate courthouse building at daytime, stone facade with national flags on poles, empty plaza, natural light with soft shadows, no people, no text, vertical 9:16 composition, neutral grey and white tones."
+    },
+    {
+      "rank": 2,
+      "category": "사건·안전",
+      "kicker": "소방 의혹",
+      "title": "부천 소방관 순직, 무전 녹취록 공개",
+      "summary": "부천 공장 화재 당시 인화물질 보고에도 지휘부가 공격 진압을 유지했다는 무전 녹취록이 공개됐습니다. 소방청은 합동조사단을 구성해 현장 지휘의 적정성을 조사 중입니다.",
+      "sourceTitle": "'소방관 순직' 부천 화재, 인화물질 추정 보고에도 '공격 진압'···무전 녹취록 공개",
+      "sourceDesc": "지난 16일 부천시 오정구 공장 화재로 소방관 1명이 순직하고 7명이 다쳤다. 인화물질 추정 보고에도 지휘부가 공격 진압을 유지했다는 무전 녹취록이 이날 공개됐다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610231144001/",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Photojournalistic wide-angle shot of firefighter helmets and breathing apparatus laid on ground near industrial building exterior, dark smoke stains on concrete wall, overcast sky, no people, no text, vertical 9:16 composition, somber documentary style with desaturated tones."
+    },
+    {
+      "rank": 3,
+      "category": "AI·산업",
+      "kicker": "반도체 IPO 포기",
+      "title": "SK하이닉스, 솔리다임 IPO 중단 선언",
+      "summary": "SK하이닉스가 미국 손자회사 솔리다임의 IPO 추진을 중단하기로 공식 발표했습니다. 자본시장 여건과 주주 이익을 고려한 결정으로 향후 증설 재원 마련이 새 과제로 부상했습니다.",
+      "sourceTitle": "SK하이닉스, 솔리다임 IPO 추진 멈춘다…\"주주 이익 고려\" (상보)",
+      "sourceDesc": "SK하이닉스가 미국 낸드플래시 손자회사 솔리다임의 프리IPO와 나스닥 IPO 추진을 중단한다고 공시했다. 자본시장 여건 등을 고려한 결정으로 이 회사 주가는 상승했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610230740056151",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Photojournalistic aerial view of a large semiconductor fabrication plant exterior at dusk, modern industrial architecture with clean rooms and rectangular structures, organized equipment visible, no people, no text, vertical 9:16 composition, cool metallic silver and blue tones."
+    },
+    {
+      "rank": 4,
+      "category": "국제·안보",
+      "kicker": "군사회담 제의",
+      "title": "국방부, 北에 군사당국회담 공식 제의",
+      "summary": "국방부가 북한 측에 군사분계선 위치 확인과 군 통신선 복원을 위한 군사당국회담 개최를 공식 제안했습니다. 북한 지뢰 사건에 이어지는 후속 대응으로 북한의 호응 여부가 주목됩니다.",
+      "sourceTitle": "국방부, 北에 군사회담 공식 제안…\"MDL 위치 확인·우발충돌 방지 협의\"",
+      "sourceDesc": "김홍철 국방부 국방정책실장이 북측에 남북 군사당국회담 개최를 공식 제안했다. 군사분계선 위치 상호 확인, 군 통신선 복원, 접경지역 우발충돌 방지 방안을 의제로 제시했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/politics/2026/10/23/20261023500150",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Photojournalistic wide landscape shot of a misty Korean demilitarized zone with barbed wire fences stretching across rolling hills, autumn foliage in background, overcast grey sky, watchtower silhouettes in distance, no people, no text, vertical 9:16 composition, muted green and grey tones."
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "증시 반등",
+      "title": "코스피, 전날 급락 딛고 5500선 회복",
+      "summary": "코스피가 23일 5500선을 되찾으며 장을 마쳤습니다. 전날 급락에서 반도체주 반등이 지수 회복을 이끈 후속 흐름입니다.",
+      "sourceTitle": "코스피 5500선 회복...\"중복상장 우려 해소로 하이닉스 반등\"[fn마감시황]",
+      "sourceDesc": "코스피가 23일 5550.30에 마감하며 5500선을 회복했다. 반도체주가 중복상장 우려 해소로 반등하며 지수 회복을 이끌었다.",
+      "sourceLink": "https://fnnews.com/news/202610231541257462",
+      "sourceDate": "2026-10-23",
+      "imagePrompt": "Photojournalistic close-up of a financial trading board showing ascending green price numbers, bright ambient financial office lighting, blurred bokeh reflections, no people, no text, vertical 9:16 composition, green and white tones."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-23 저녁 브리핑\n\n1. 오세훈 서울시장, 정치자금법 2심 무죄 선고\n2. 부천 소방관 순직, 무전 녹취록 공개\n3. SK하이닉스, 솔리다임 IPO 중단 선언\n4. 국방부, 北에 군사당국회담 공식 제의\n5. 코스피, 전날 급락 딛고 5500선 회복\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁뉴스 #한국뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
