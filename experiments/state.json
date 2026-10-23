@@ -12,7 +12,17 @@
       "TTS_ENABLED": "0"
     },
     "flagsSince": "2026-09-30-am",
-    "pending": null
+    "pending": {
+      "verdict": "reject",
+      "decidedAt": "2026-10-24T07:58:15+09:00",
+      "file": "experiments/verdicts/single-issue-v1.md",
+      "stats": {
+        "n": 28,
+        "sharesPer1000Reach": 0.3661662394727206,
+        "avgWatchMedian": 3.56
+      },
+      "veto": false
+    }
   },
   "aibrief": {
     "active": null,
