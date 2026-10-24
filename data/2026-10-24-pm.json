@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-24",
+  "slot": "pm",
+  "hookLine": "사망설 돌던 김정은이 중국에 나타났습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "안보·외교",
+      "kicker": "김정은 방중",
+      "title": "김정은 전격 방중, 당일 귀국 전망",
+      "summary": "김정은 국무위원장이 신압록강대교를 통해 중국 단둥에 전격 방중했습니다. 통일부가 공식 확인했으며, 당일 귀국할 것으로 전망됩니다.",
+      "narration": "통일부가 단둥 도착을 공식 확인했습니다.",
+      "sourceTitle": "'사망설' 김정은 전격 방중...통일부 '신압록강대교 통해 단둥 도착'",
+      "sourceDesc": "김정은 북한 국무위원장이 24일 신압록강대교를 통해 중국 랴오닝성 단둥에 전격 방중했다. 통일부가 공식 확인했으며 여권 관계자는 당일 귀국할 것으로 전망했다.",
+      "sourceLink": "https://www.mt.co.kr/world/2026/10/24/2026102415380160464",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "Steel suspension bridge spanning a wide river at dawn, morning mist rising from the calm water, distant misty mountains on the far bank, empty roadway stretching across the bridge, soft golden light breaking through clouds, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "재난·날씨",
+      "kicker": "태풍 참피 후속",
+      "title": "제주 폭우·남해안 강풍 비상",
+      "summary": "태풍 참피 후속으로 제주에 250㎜ 폭우가 쏟아지고 있습니다. 남해안에도 강한 비와 바람이 이어지고 있어 주의가 요구됩니다.",
+      "sourceTitle": "태풍 '참피' 북상에 제주 250㎜ 폭우…남해안도 강한 비[오늘날씨]",
+      "sourceDesc": "태풍 참피의 간접 영향으로 제주 산지에 250㎜ 안팎의 폭우가 예상되고 남해안에도 강한 비와 바람이 이어지고 있다. 기상청은 저지대 침수와 강풍 피해에 주의하라고 당부했다.",
+      "sourceLink": "https://www.fnnews.com/news/202610240601336004",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "Bent palm trees lashing in violent typhoon winds along a volcanic rock coastline, dark swirling storm clouds overhead, heavy rain streaks blurring the coastal landscape, massive waves crashing against black rocks, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "출생미등록 아동",
+      "title": "사라진 아이 126명, 경찰 수사도 소용없어",
+      "summary": "출생신고 없이 사라진 아이 126명의 소재가 경찰 수사에도 여전히 확인되지 않았습니다. 출생미등록 아동 문제의 심각성이 다시 드러났습니다.",
+      "sourceTitle": "출생신고도 없이 사라진 아이 126명···경찰이 수사하고도 못 찾았다",
+      "sourceDesc": "출생미등록 아동 관련 수사 사건 781건 가운데 126건에서 아동의 소재가 끝내 확인되지 않았다. 경찰이 수사를 진행했음에도 상당수 아동의 행방이 묘연한 상태다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610241525001/",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "Small empty baby shoes placed alone on a worn wooden floor in dim light, dust motes drifting in a narrow shaft of light from a window, empty and silent room with peeling walls, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "파리 총기 난사",
+      "title": "파리 총기 난사 6명 사상, 마크롱 규탄",
+      "summary": "프랑스 파리 외곽에서 총기 난사로 6명의 사상자가 발생했습니다. 마크롱 대통령은 인종차별 테러라며 강하게 규탄했습니다.",
+      "sourceTitle": "프랑스 파리 외곽서 총기 난사로 6명 사상자…마크롱 '인종차별 테러'",
+      "sourceDesc": "프랑스 파리 외곽에서 총기 난사 사건이 발생해 사망자 1명, 부상자 5명 등 6명의 사상자가 났다. 마크롱 대통령은 인종차별적 테러 공격이라고 규탄했다.",
+      "sourceLink": "https://www.mt.co.kr/world/2026/10/24/2026102409134026474",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "Yellow police tape cordoning off a Paris suburban street at night, emergency vehicle lights casting blue and red reflections on wet cobblestones, city streetlamps illuminating an empty road, fallen autumn leaves scattered on pavement, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "사건·사고",
+      "kicker": "한의사 과실",
+      "title": "침 시술 중 90대 사망, 한의사 벌금형",
+      "summary": "한의사가 가슴에 침을 너무 깊이 찔러 90대 노인이 심근 파열로 숨졌습니다. 법원은 해당 한의사에게 벌금형을 선고했습니다.",
+      "sourceTitle": "한의사가 가슴에 침, 90대 사망…너무 깊이 찔러 심근 파열",
+      "sourceDesc": "가슴에 침을 너무 깊이 찔러 90대 노인을 사망에 이르게 한 한의사에게 법원이 벌금형을 선고했다. 침이 심근까지 도달해 심근 파열이 발생한 것으로 조사됐다.",
+      "sourceLink": "https://www.mt.co.kr/society/2026/10/24/2026102408124640106",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "Close-up of acupuncture needles arranged in a ceramic dish on a wooden medical table, a folded legal document partially visible in soft background blur, clinical overhead lighting casting sharp shadows, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-24 저녁 브리핑\n1. 김정은 전격 방중, 당일 귀국 전망\n2. 제주 폭우·남해안 강풍 비상\n3. 사라진 아이 126명, 경찰 수사도 소용없어\n4. 파리 총기 난사 6명 사상, 마크롱 규탄\n5. 침 시술 중 90대 사망, 한의사 벌금형\n\n저녁에도 물어왔습니다 🦆\n\n#뉴스 #저녁브리핑 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
