@@ -1,33 +1,32 @@
 {
   "version": 1,
   "muleori": {
-    "active": "single-issue-v1",
-    "startedAt": "2026-09-29T21:00:00+09:00",
-    "startStem": "2026-09-30-am",
-    "window": 28,
-    "extended": true,
-    "issue": 1,
+    "active": "action-hook-v1-digest",
+    "startedAt": "2026-10-25T07:19:08+09:00",
+    "startStem": "2026-10-25-am",
+    "window": 14,
+    "extended": false,
+    "issue": 3,
     "flagsBefore": {
       "REEL_FORMAT_MULEORI": "",
       "TTS_ENABLED": "0"
     },
-    "flagsSince": "2026-09-30-am",
-    "pending": {
-      "verdict": "reject",
-      "decidedAt": "2026-10-24T07:58:15+09:00",
-      "file": "experiments/verdicts/single-issue-v1.md",
-      "stats": {
-        "n": 28,
-        "sharesPer1000Reach": 0.3661662394727206,
-        "avgWatchMedian": 3.56
-      },
-      "veto": false
-    }
+    "flagsSince": "2026-10-25-am",
+    "pending": null
   },
   "aibrief": {
     "active": null,
     "flagsSince": null,
     "pending": null
   },
-  "history": []
+  "history": [
+    {
+      "id": "single-issue-v1",
+      "account": "muleori",
+      "verdict": "reject",
+      "decidedAt": "2026-10-24T07:58:15+09:00",
+      "appliedAt": "2026-10-25T07:19:08+09:00",
+      "file": "experiments/verdicts/single-issue-v1.md"
+    }
+  ]
 }

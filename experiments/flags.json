@@ -1,7 +1,8 @@
 {
   "muleori": {
-    "REEL_FORMAT_MULEORI": "single",
-    "TTS_ENABLED": "1"
+    "REEL_FORMAT_MULEORI": "",
+    "TTS_ENABLED": "0",
+    "HOOK_FRAME_MULEORI": "action"
   },
   "aibrief": {}
 }
