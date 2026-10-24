@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-25",
+  "slot": "am",
+  "hookLine": "사망설 돌던 김정은, 신압록대교 건넜습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "안보·외교",
+      "kicker": "김정은 방중",
+      "title": "김정은, 신압록대교 통해 전격 방중",
+      "summary": "김정은 국무위원장이 신압록대교를 통해 중국 단둥에 전격 방중하며 사망설을 불식했습니다. 통일부가 오늘 방중 사실을 공식 확인했습니다.",
+      "narration": "김정은이 신압록대교를 건너 방중했습니다.",
+      "sourceTitle": "[속보]사진으로 사망설 불식 시키더니…통일부 '김정은 방중, 오늘 신압록대교 통해 단둥 도착'",
+      "sourceDesc": "통일부는 24일 김정은 북한 국무위원장이 신압록대교를 통해 중국 단둥에 전격 도착했다고 밝혔다. 최근 며칠간 사망설이 제기된 가운데 방중을 통해 사망설을 불식시켰다.",
+      "sourceLink": "https://www.segye.com/newsView/20261024504981",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "A long suspension bridge spanning a wide grey river at dusk, empty concrete road crossing the bridge with faded lane markings, steel cables silhouetted against an overcast orange-grey sky, distant industrial skyline on far bank with faint factory chimneys, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "사회·안전",
+      "kicker": "경찰관 중상",
+      "title": "영동고속도로 사고 수습 경찰관 발목 절단",
+      "summary": "영동고속도로에서 교통사고를 수습하던 경찰관이 화물차에 치여 발목이 절단되는 중상을 입었습니다. 경찰청장 대행은 회복에 총력 지원하겠다고 밝혔습니다.",
+      "sourceTitle": "영동고속도로 사고 수습하던 경찰관 발목 절단 중상…경찰청장 대행 '회복 총력 지원'",
+      "sourceDesc": "24일 경기 여주 영동고속도로에서 교통사고를 수습하던 고속도로순찰대 A 경위가 6.5톤 화물차에 치여 발목 절단 중상을 입고 아주대병원으로 이송돼 긴급 수술을 받았다. 생명엔 지장이 없는 것으로 알려졌다.",
+      "sourceLink": "https://m.news.nate.com/view/20261024n06884",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "Nighttime highway scene with emergency red and blue police vehicle lights reflecting off wet asphalt, road safety cones forming a line around a collision site, overturned cargo truck visible in background with smoke rising into dark sky, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "사법",
+      "kicker": "한의사 벌금형",
+      "title": "90대 가슴 침 시술 후 사망…한의사 벌금형",
+      "summary": "허리 통증으로 내원한 90대 노인이 한의사의 가슴 침 시술 중 심근파열로 사망했습니다. 대전지법은 업무상과실치사 혐의로 한의사에게 벌금 2000만원을 선고했습니다.",
+      "sourceTitle": "[속보] '허리 통증' 90대 노인, 가슴에 침 맞다가 사망…한의사 벌금형 선고",
+      "sourceDesc": "대전지법 형사5단독은 24일 업무상과실치사 혐의로 기소된 60대 한의사 A씨에게 벌금 2000만원을 선고했다. A씨는 2022년 8월 허리 통증으로 내원한 B(92)씨의 가슴 부위에 침을 놓다가 심장막 안에 미세한 심근파열을 유발해 숨지게 한 혐의를 받는다.",
+      "sourceLink": "https://www.twig24.com/news/world/crime-law/2026/10/24/20261024500023",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "Close-up of several traditional acupuncture needles resting on a worn wooden treatment table with a folded white paper towel beneath them, shallow depth of field, clean clinical overhead lighting, muted neutral tones, no people, no text, vertical 9:16 composition, documentary photojournalism style"
+    },
+    {
+      "rank": 4,
+      "category": "재난·날씨",
+      "kicker": "태풍 참피",
+      "title": "한라산 최고 209㎜ 폭우, 피해 4건·항공 차질",
+      "summary": "태풍 참피 영향으로 한라산에 최고 209㎜ 폭우가 내려 호우·강풍 피해 4건이 발생했습니다. 제주국제공항에서는 항공편 4편이 결항하고 121편이 지연됐습니다.",
+      "sourceTitle": "한라산에 최고 209㎜ 폭우…호우·강풍 피해 4건 발생",
+      "sourceDesc": "태풍 참피 영향으로 제주도에 집중호우가 쏟아졌다. 제주도소방안전본부에 접수된 폭우·강풍 피해는 4건으로 화북일동 중앙분리대 쓰러짐, 삼양이동 맨홀 역류 등이 발생했다. 제주국제공항에서는 4편이 결항하고 121편이 지연됐다.",
+      "sourceLink": "https://www.segye.com/newsView/20261024506137",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "Aerial drone view of dark swollen stream rushing down a volcanic mountainside in torrential rain, flooded roadside ditches flanking a narrow highland road, heavy low clouds obscuring the mountain summit, rain streaks blurring the landscape, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "오세훈 복귀",
+      "title": "2심 무죄 오세훈, 시정·정치 행보 재개",
+      "summary": "2심 무죄를 선고받은 오세훈 서울시장이 24일 시정과 정치 행보를 재개했습니다. 오 시장은 국민의힘 통합에 최선을 다하겠다고 밝혔습니다.",
+      "sourceTitle": "'2심 무죄' 오세훈, 시정·정치 행보 재개…\"국민의힘 통합에 최선\"",
+      "sourceDesc": "항소심 무죄 선고로 시장직 위기를 넘긴 오세훈 서울시장이 24일 시정 복귀 일정을 시작했다. 오 시장은 국민의힘 통합에 최선을 다하겠다고 밝혔다.",
+      "sourceLink": "https://www.segye.com/newsView/20261024505219",
+      "sourceDate": "2026-10-24",
+      "imagePrompt": "Empty Seoul City Hall plaza at dawn with the illuminated curved glass facade reflecting early morning clouds, deserted government square with stone paving and decorative lamp posts casting soft light, distant city skyline visible through light morning haze, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-25 아침 브리핑\n김정은 전격 방중 · 경찰관 발목 절단 중상 · 한의사 침 사망 벌금형 · 한라산 209㎜ 폭우 · 오세훈 시정 재개\n\n#뉴스 #아침브리핑 #김정은 #방중 #신압록대교 #경찰관안전 #태풍참피 #제주 #오세훈\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
