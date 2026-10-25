@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-25",
+  "account": "aibrief",
+  "hookLine": "사람처럼 웃고 울먹이는 음성 AI가 공개됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 모델",
+      "kicker": "인간형 음성 AI",
+      "title": "잭 도시, 사람 닮은 음성 AI '데사' 공개",
+      "summary": "트위터 창업자 잭 도시의 블록이 사람처럼 웃고 말을 끊는 음성 AI '데사'를 공개했습니다. 울먹이기까지 하는 사람 닮은 AI입니다.",
+      "sourceTitle": "\"웃고 울먹이기까지\"…트위터 창업자 잭 도시, 사람 닮은 음성 AI 공개",
+      "sourceDesc": "\"사람처럼 웃고 말끊기도\"… 잭 도시의 블록, 음성 AI '데사' 공개",
+      "sourceLink": "https://zdnet.co.kr/view/?no=20261025105055"
+    },
+    {
+      "rank": 2,
+      "category": "사회 영향",
+      "kicker": "실업 방지",
+      "title": "중국, 노동집약 산업 AI 도입 속도 조절",
+      "summary": "중국 정부가 AI 확산에 따른 대규모 실업을 막기 위해 노동집약적 산업의 AI 도입 속도를 조절하기로 했습니다. 대량 실업을 방지하기 위한 정책 대응입니다.",
+      "narration": "중국이 AI 확산에 따른 실업 방지에 나섰습니다.",
+      "sourceTitle": "中, 노동집약적 산업 AI 도입 속도 조절…\"대량 실업 방지\"",
+      "sourceDesc": "중국 정부가 인공지능(AI) 확산에 따른 대규모 실업을 막기 위해 노동집약적 산업의 AI 도입 속도를 조절하기로 했다.",
+      "sourceLink": "https://m.news.nate.com/view/20261024n07524"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크 사업",
+      "kicker": "현금 부족",
+      "title": "빅테크 AI 투자에 잉여현금흐름 적자 전환",
+      "summary": "MS·아마존 등 빅테크 기업들이 AI 투자를 확대하면서 잉여현금흐름이 적자로 전환되고 있습니다. AI 투자에 곳간이 바닥나고 있다는 분석이 나왔습니다.",
+      "narration": "빅테크 AI 투자에 잉여현금흐름이 줄고 있습니다.",
+      "sourceTitle": "[영상] 빅테크 AI 투자에 곳간 바닥…MS·아마존 등 잉여현금흐름 적자 전환",
+      "sourceDesc": "MS·아마존 등 빅테크 기업들이 AI 투자 확대로 잉여현금흐름 적자 전환 위기에 처했다. AI 설비투자 급증으로 곳간이 바닥나고 있다는 분석이 나왔다.",
+      "sourceLink": "https://m.sedaily.com/article/20105689"
+    },
+    {
+      "rank": 4,
+      "category": "규제·정책",
+      "kicker": "투자 차단",
+      "title": "美, AI·바이오 대중국 투자 규제 강화",
+      "summary": "미 재무부가 AI와 생명공학 등 첨단기술에 대한 중국의 투자를 엄격히 제한하는 규정을 발표했습니다. 국가 안보 관련 기술의 자금줄을 죄는 규제가 강화됐습니다.",
+      "narration": "미국이 중국의 AI·바이오 투자를 제한합니다.",
+      "sourceTitle": "美, AI·바이오 대중국 투자규제 강화…첨단기술 자금줄 죈다",
+      "sourceDesc": "미 재무부가 22일(현지 시간) AI와 생명공학 등 국가 안보 관련 기술에 대한 중국의 투자를 엄격히 제한하는 규정을 발표했다.",
+      "sourceLink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498046"
+    },
+    {
+      "rank": 5,
+      "category": "AI·경제",
+      "kicker": "거품 우려",
+      "title": "AI 거품 우려에 美 기술주 흔들린다",
+      "summary": "AI 투자 열풍에 대한 회의론이 확산하며 미국 증시에서 기술주를 파는 흐름이 나타나고 있습니다. 국채로 자금이 이동하는 움직임이 본격화하고 있습니다.",
+      "narration": "AI 거품 우려로 기술주가 흔들리고 있습니다.",
+      "sourceTitle": "AI 거품 우려에 美 기술주 흔들…국채로 몰리는 월가 자금",
+      "sourceDesc": "인공지능(AI) 투자 열풍에 대한 회의론이 확산하면서 미국 증시에서 기술주를 팔고 국채를 사들이는 자금 이동이 본격화하고 있다.",
+      "sourceLink": "https://m.news.nate.com/view/20261024n06589"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-25 AI 뉴스 브리핑\n\n1. 잭 도시, 사람 닮은 음성 AI '데사' 공개\n2. 중국, 노동집약 산업 AI 도입 속도 조절\n3. 빅테크 AI 투자에 잉여현금흐름 적자 전환\n4. 美, AI·바이오 대중국 투자 규제 강화\n5. AI 거품 우려에 美 기술주 흔들린다\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #빅테크 #규제 #AI경제\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
