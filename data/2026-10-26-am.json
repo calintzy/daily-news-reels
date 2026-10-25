@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-26",
+  "slot": "am",
+  "hookLine": "한라산에 295mm, 태풍 참피 피해 속출했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "재난·날씨",
+      "kicker": "태풍 참피",
+      "title": "태풍 '참피', 남부·제주 폭우·강풍 피해",
+      "summary": "제30호 태풍 '참피' 영향으로 남부 지방과 제주도에 폭우가 쏟아졌습니다. 제주 한라산에는 295mm의 폭우와 강풍이 관측되며 피해가 속출했습니다.",
+      "narration": "태풍 참피로 한라산에 295mm 폭우가 쏟아졌습니다.",
+      "sourceTitle": "[오늘날씨] 태풍 '참피' 영향에 남부·제주 오전까지 비",
+      "sourceDesc": "제30호 태풍 '참피' 영향으로 남부 지방과 제주도를 중심으로 비가 내렸다. 제주 한라산에는 300mm에 가까운 폭우(295mm), 순간 강풍 90km/h 이상, 피해 속출.",
+      "sourceLink": "https://www.newspim.com/news/view/20261025000138",
+      "sourceDate": "2026-10-25",
+      "imagePrompt": "photojournalism documentary, flooded coastal road on a volcanic island with waves overtopping seawall barriers, palm trees bent sharply in high winds, dark storm clouds over the ocean, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "사회·안전",
+      "kicker": "경찰관 보호",
+      "title": "도로 사고 수습 경찰관 중상, 보호는 누가",
+      "summary": "경기 여주 영동고속도로에서 사고를 수습하던 경찰관이 화물차에 치여 중상을 입었습니다. 경찰관 안전 보호 문제가 부각되고 있습니다.",
+      "sourceTitle": "범인 쫓다 다치고, 사고 수습하다 중상…경찰관 보호는 누가",
+      "sourceDesc": "경기 여주 영동고속도로에서 사고를 수습하던 50대 경찰관이 화물차에 치여 중상. 전날 강원 횡성 고속도로 추돌사고 수습 중 발생. 경찰관 안전 보호 문제 부각.",
+      "sourceLink": "https://m.news.nate.com/view/20261025n09195",
+      "sourceDate": "2026-10-25",
+      "imagePrompt": "photojournalism documentary, Korean expressway at night with red and blue police emergency lights casting reflections on damp asphalt, orange traffic safety cones arranged around an empty roadside, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "교통·안전",
+      "kicker": "기내 발화",
+      "title": "제주공항 착륙 앞 기내 보조배터리 발열, 50대 화상",
+      "summary": "제주공항에 착륙을 앞둔 홍콩익스프레스 기내에서 보조배터리가 발열해 50대 승객이 화상을 입었습니다. 승무원이 침수 조치를 해 소방 확인 후 위험이 해소됐습니다.",
+      "sourceTitle": "[속보] 제주공항 착륙 앞둔 홍콩익스프레스 기내서 보조배터리 발열… 50대 승객 화상",
+      "sourceDesc": "제주공항 착륙을 앞둔 홍콩익스프레스 항공기 기내에서 보조배터리가 발열해 50대 승객이 화상을 입었다. 승무원이 침수 조치를 했고 소방 확인 뒤 위험이 해소됐다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/accident/2026/10/25/20261025500012",
+      "sourceDate": "2026-10-25",
+      "imagePrompt": "photojournalism documentary, close-up of a scorched portable power bank on a blue airline seat fabric with sooty burn marks visible, airplane interior ambient light, safety foam container nearby, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "안보·외교",
+      "kicker": "북미회담 변수",
+      "title": "김정은, '항미원조' 부각…11월 북미회담 변수",
+      "summary": "김정은 위원장이 신압록강대교를 통해 중국 단둥을 방문하며 '항미원조'를 부각했습니다. 11월 북미회담을 앞두고 중국을 통해 입장을 전달한 것으로 해석됩니다.",
+      "sourceTitle": "김정은 당일치기 방중 속셈은? '항미원조' 부각해 내달 북미회담 변수",
+      "sourceDesc": "김정은 위원장이 10월 24일 신압록강대교를 통해 중국 단둥 방문 후 당일 귀국. 항미원조기념관 방문, 중국 리창 총리와 회담. 11월 북미회담 앞두고 중국 통해 입장 전달 해석.",
+      "sourceLink": "https://www.fnnews.com/news/202610251639023692",
+      "sourceDate": "2026-10-25",
+      "imagePrompt": "photojournalism documentary, steel suspension bridge over a wide grey river at twilight, concrete road crossing with cables silhouetted against overcast sky, distant industrial city skyline on the far bank, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-26 아침 브리핑\n태풍 참피 폭우 피해 · 경찰관 중상 보호 공백 · 기내 보조배터리 발열 · 김정은 방중 분석\n\n#뉴스 #아침브리핑 #태풍참피 #제주 #경찰관안전 #항공안전 #김정은 #방중\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
