@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-25",
+  "slot": "pm",
+  "hookLine": "선관위 특검이 신병확보 준비에 나섰습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사법",
+      "kicker": "특검 첫 구속",
+      "title": "선관위 특검, 첫 피의자 구속 임박",
+      "summary": "선관위 특검팀이 법무부에 구금시설 협조를 요청했고, 교정본부는 협조하겠다고 회신했습니다. 특검팀 안팎에선 피의자 구속영장 청구가 임박했다는 전망이 나옵니다.",
+      "narration": "특검이 구치소 이용을 요청했습니다.",
+      "sourceTitle": "선관위 특검, 법무부에 구금시설 협조 요청…신병확보 대비 나섰다",
+      "sourceDesc": "선관위 특검팀이 서울구치소와 서울동부구치소에 구금장소 이용 협조를 요청했고, 법무부 교정본부는 협조하겠다고 회신했다. 특검팀 안팎에선 피의자 구속영장 청구가 임박했다는 전망이 나온다. 다만 첫 신병확보 대상이 누가 될지는 아직까지 미지수다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026102513160005571",
+      "sourceDate": "2026-10-25",
+      "imagePrompt": "Heavy steel gates of a correctional facility closed shut, institutional grey concrete walls with barbed wire security fencing, overcast autumn sky, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "시총 대폭락",
+      "title": "10대그룹 시총, 한 달 새 1100조 증발",
+      "summary": "코스피 급락으로 국내 10대 그룹 시가총액이 한 달 새 1100조원 넘게 감소했습니다. SK·HD현대·삼성 순으로 가장 큰 타격을 입었습니다.",
+      "sourceTitle": "10대 그룹 시가총액, 1100조원 '증발'…SK·HD현대·삼성 순으로 타격",
+      "sourceDesc": "코스피 급락의 영향으로 국내 10대 그룹 시가총액이 지난달 말 대비 한 달 새 1100조원 넘게 줄었다. SK·HD현대·삼성 순으로 가장 큰 타격을 받았으며, SK그룹 시총은 30% 넘게 급감한 것으로 나타났다.",
+      "sourceLink": "https://www.ajunews.com/view/20261025132947906",
+      "sourceDate": "2026-10-25",
+      "imagePrompt": "Stock exchange electronic display board showing rows of red falling numbers, trading floor monitors and empty chairs reflected in glass panels at dusk, dramatic low-angle architectural shot, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "사법",
+      "kicker": "중수청 첫 송치",
+      "title": "중수청 출범 21일 만에 '1호 구속 송치'",
+      "summary": "중수청 마약수사국이 대마 밀수 혐의 피의자를 인천지방공소청에 구속 송치했습니다. 출범 21일 만에 이뤄진 중수청의 첫 피의자 신병 확보입니다.",
+      "sourceTitle": "[단독] 중수청 '1호 구속 송치'는 동남아 국적 대마 밀수범",
+      "sourceDesc": "서울지방중수청 마약수사국이 대마 밀수 혐의 피의자를 인천지방공소청에 구속 송치했다. 출범 21일 만에 이뤄진 첫 구속으로, 통제배달 수사 기법으로 시작된 사건이다.",
+      "sourceLink": "https://m.news.nate.com/view/20261025n09067",
+      "sourceDate": "2026-10-25",
+      "imagePrompt": "Sealed evidence bags and investigation case files stacked on a plain metal desk under fluorescent office lighting, shallow depth of field blurring background institutional furniture, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "법무장관 인선",
+      "title": "법무장관 후보 박균택·양부남 의원으로 압축",
+      "summary": "이재명 대통령이 차기 법무장관 후보를 박균택·양부남 의원으로 압축한 것으로 알려졌습니다. 두 달째 비어 있는 법무장관 자리에 조만간 인선이 이뤄질 것으로 전망됩니다.",
+      "sourceTitle": "李대통령, 차기 법무장관 후보 檢출신 양부남·박균택 압축",
+      "sourceDesc": "이재명 대통령이 두 달째 공석인 법무부 장관 자리에 검찰 출신 박균택·양부남 의원으로 후보를 압축했다. 청와대는 조만간 인선이 이뤄질 것이라고 전했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026102508595436931",
+      "sourceDate": "2026-10-25",
+      "imagePrompt": "Empty leather chair at a dark wood ministerial conference table in a formal government meeting room, nameplate holder vacant, Korean national flag softly blurred in background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "암백신 3상",
+      "title": "모더나·MSD 암백신, 흑색종 재발 위험 42% 감소",
+      "summary": "모더나와 MSD가 개인맞춤형 mRNA 암백신의 흑색종 3상 결과를 발표했습니다. 재발 또는 사망 위험이 대조군보다 42% 낮아 암백신 효과를 입증한 최초의 3상으로 평가됩니다.",
+      "sourceTitle": "모더나·MSD 암백신, 흑색종 재발 위험 42%↓…'암백신 효과 입증한 최초 3상'",
+      "sourceDesc": "모더나와 MSD가 개인맞춤형 mRNA 암백신의 흑색종 임상 3상 결과를 발표했다. 병용군의 재발 또는 사망 위험은 대조군보다 42% 낮아 주요 지표를 충족했으며, 암백신 효과를 입증한 최초의 3상으로 평가된다.",
+      "sourceLink": "https://m.news.nate.com/view/20261025n09555",
+      "sourceDate": "2026-10-25",
+      "imagePrompt": "Glowing blue vaccine vials in a sterile laboratory rack on a clean bench, research centrifuge tubes and pipettes in background, soft clinical lighting highlighting the translucent liquid, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-25 저녁 브리핑\n1. 선관위 특검, 첫 피의자 구속 임박\n2. 10대그룹 시총 한 달 새 1100조 증발\n3. 중수청 출범 21일 만에 '1호 구속 송치'\n4. 법무장관 후보 박균택·양부남으로 압축\n5. 모더나·MSD 암백신, 흑색종 재발 위험 42% 감소\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #선관위특검 #시가총액 #중수청 #법무장관 #암백신 #흑색종\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
