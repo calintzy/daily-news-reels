@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-26",
+  "slot": "pm",
+  "hookLine": "증시·연금·전세난에 지지율도 흔들렸습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치·여론",
+      "kicker": "대통령 지지율",
+      "title": "이재명 지지율 35.3%…전주보다 2.0%p 하락",
+      "summary": "이재명 대통령 국정지지율이 35.3%로 전주 대비 2.0%p 하락했습니다. 리얼미터 10월 19~23일 조사에서 국민의힘은 42.6%, 민주당은 36.0%를 기록했습니다.",
+      "narration": "이재명 지지율이 35.3%, 2.0%p 내렸습니다.",
+      "sourceTitle": "이재명 대통령 지지율 35.3%…전주보다 2.0%p 하락",
+      "sourceDesc": "리얼미터 조사 결과, 이재명 대통령 국정지지율이 35.3%로 전주 대비 2.0%p 하락했다. 10월 19~23일 전국 성인 2517명 대상. 국민의힘 42.6%, 민주당 36.0%. 증시 급락·국민연금 논란·전세난이 하락 요인으로 분석됐다.",
+      "sourceLink": "https://www.segye.com/newsView/20261026502803",
+      "sourceDate": "2026-10-26",
+      "imagePrompt": "photojournalism documentary, empty presidential press conference podium with a formal national emblem on the lectern in a dimly lit briefing room, microphones arranged but no speaker, soft overhead spotlight, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "IT·과학",
+      "kicker": "AI 대혼란",
+      "title": "빌 게이츠 경고, AI 20년 내 '대혼란'",
+      "summary": "빌 게이츠가 AI 발전으로 자신의 코딩 실력도 쓸모없어졌다고 밝혔습니다. 향후 20년 내 AI로 인한 대혼란이 닥칠 것이라 경고했습니다.",
+      "sourceTitle": "AI 발전에 내 코딩 실력도 쓸모 없어졌다…빌 게이츠, 향후 20년 '대혼란' 경고",
+      "sourceDesc": "빌 게이츠가 AI 발전으로 자신의 코딩 실력도 쓸모없어졌다고 말했다. 향후 20년 내에 AI로 인한 대혼란이 닥칠 것이라 경고했다.",
+      "sourceLink": "https://www.segye.com/newsView/20261026506341",
+      "sourceDate": "2026-10-26",
+      "imagePrompt": "photojournalism documentary, rows of illuminated server racks in a cold data center corridor with blue LED light strips reflecting off the metal cabinets, cables bundled overhead, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사건·안전",
+      "kicker": "지게차 무면허",
+      "title": "제주 축사 지게차 사망…업체 과실 수사",
+      "summary": "제주의 한 축사에서 40대가 지게차 사고로 숨졌습니다. 운전자가 무면허였던 것으로 드러나 경찰이 업체 과실 혐의로 수사에 착수했습니다.",
+      "sourceTitle": "제주 축사서 숨진 40대도 지게차 무면허…경찰, 업체 과실 수사",
+      "sourceDesc": "제주의 한 축사에서 40대가 지게차 사고로 숨졌다. 운전자가 지게차 무면허였던 것으로 드러나면서 경찰이 업체 과실 혐의로 수사에 착수했다.",
+      "sourceLink": "https://www.segye.com/newsView/20261026513987",
+      "sourceDate": "2026-10-26",
+      "imagePrompt": "photojournalism documentary, yellow industrial forklift with raised mast inside a dim agricultural barn, police barrier tape stretched across the entrance, scattered straw on a concrete floor under harsh fluorescent lighting, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "소비자·정책",
+      "kicker": "표시 규제",
+      "title": "감미료 든 저당식품, 기능성 표시 금지",
+      "summary": "감미료를 사용한 저당 식품에 기능성 표시를 금지하는 규정 개정이 추진됩니다. 감미료 식품의 기능성 강조 표시를 제한하는 것이 핵심입니다.",
+      "sourceTitle": "감미료 넣은 저당식품, 기능성 표시 못한다",
+      "sourceDesc": "감미료를 사용한 저당 식품에 기능성 표시를 금지하는 방향의 규정 개정이 추진된다. 감미료 식품의 기능성 강조 표시를 제한하는 것이 핵심이다.",
+      "sourceLink": "https://www.segye.com/newsView/20261026507869",
+      "sourceDate": "2026-10-26",
+      "imagePrompt": "photojournalism documentary, product labels on supermarket shelves showing low-sugar and sugar-free packaged food items in neat rows under white retail fluorescent lighting, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "지방정치",
+      "kicker": "경기도 조직개편",
+      "title": "추미애 경기도 조직개편, 공무원 90.5% 반대",
+      "summary": "추미애 경기도지사의 조직개편안에 공무원 90.5%가 반대 의견을 나타냈습니다. 노조는 사전 협의 없는 일방 행정이라며 원점 재검토를 요구했습니다.",
+      "sourceTitle": "추미애 경기도 조직개편안, 공무원 90.5% '반대'",
+      "sourceDesc": "추미애 경기도지사의 조직개편안에 대해 공무원노조 설문 결과 직원의 90.5%가 반대 의견을 밝혔다. 노조는 사전 협의 없는 일방 행정이라며 원점에서 재검토할 것을 요구했다.",
+      "sourceLink": "https://www.segye.com/newsView/20261026513573",
+      "sourceDate": "2026-10-26",
+      "imagePrompt": "photojournalism documentary, empty government office hallway with rows of identical desks and filing cabinets seen through glass partition walls, fluorescent ceiling lights casting harsh shadows, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-26 저녁 브리핑\n이재명 지지율 35.3% 하락 · 빌 게이츠 AI 대혼란 경고 · 제주 지게차 무면허 사망 · 감미료 저당식품 표시 규제 · 경기도 조직개편 반발\n\n#뉴스 #저녁브리핑 #이재명지지율 #빌게이츠AI #제주사고 #감미료규제 #경기도공무원\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
