@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-27",
+  "slot": "am",
+  "hookLine": "구속 만료 임박, 대법이 오늘 심문했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치·사법",
+      "kicker": "구속영장 심문",
+      "title": "대법원, 김건희 추가 구속영장 발부 심문",
+      "summary": "대법원이 김건희 여사의 추가 구속영장 발부 여부를 심문했습니다. 현 구속기간이 이달 31일 만료를 앞둔 가운데 특검팀이 추가 구속영장을 신청한 상태입니다.",
+      "narration": "김건희 추가 구속영장 심문이 오늘 열렸습니다.",
+      "sourceTitle": "김건희 구속기간 만료 임박…대법, 오늘 추가 구속영장 발부 심문",
+      "sourceDesc": "대법원 2부가 김건희 여사 알선수재 혐의 사건 추가 구속영장 발부 심문을 진행했다. 현 구속기간은 이달 31일 만료 예정이며, 특검팀이 추가 구속영장을 신청한 상태다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261026001176",
+      "sourceDate": "2026-10-26",
+      "imagePrompt": "Exterior stone facade of a Korean Supreme Court building at morning light, clean institutional architecture with polished granite steps leading to tall entrance columns, no signage visible, soft dawn light casting long shadows across empty stone walkway, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "국감 마무리",
+      "title": "2년차 국감 마무리…조희대·추미애 공방 논란",
+      "summary": "올해 2년차 국정감사가 마무리됐습니다. 조희대·추미애 공방과 쇼츠 경쟁 논란이 두드러졌다는 평가입니다.",
+      "sourceTitle": "[뉴스분석] 李정부 2년차 국감 마무리...조희대·추미애 공방에 쇼츠 경쟁만 남발",
+      "sourceDesc": "이재명 정부 2년차 국정감사가 25일간 일정을 끝내고 마무리됐다. 조희대 대법원장과 추미애 전 검찰총장 간 공방, 의원들의 쇼츠 영상 경쟁 논란이 두드러졌다는 분석이다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261026000435",
+      "sourceDate": "2026-10-26",
+      "imagePrompt": "Empty parliamentary committee hearing room with rows of wooden nameplates and upright microphones on long curved desks, institutional overhead lighting casting formal shadows on vacant leather chairs, large projection screens dark at the front of the room, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "소비심리",
+      "title": "10월 소비심리 한 달 만에 하락…증시 조정 영향",
+      "summary": "한국은행이 발표한 10월 소비자심리지수가 전월보다 하락했습니다. 수출 호조에도 증시 조정 영향으로 소비심리가 주춤한 것으로 분석됩니다.",
+      "sourceTitle": "수출 호조에도 10월 소비심리 '주춤'…증시 조정에 한 달 만에 하락",
+      "sourceDesc": "한국은행이 발표한 10월 소비자심리지수(CCSI)가 전월(106.6)보다 하락했다. 증시 조정, 중동 갈등 지속 등이 복합 작용했다는 분석이다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261026001170",
+      "sourceDate": "2026-10-26",
+      "imagePrompt": "Street-level view of a quiet urban commercial district in early morning, storefronts with dimmed display windows and rolling metal shutters, empty sidewalk with faded pavement markings, overcast sky casting flat diffuse light, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "AI·보안",
+      "kicker": "사이버보안주 랠리",
+      "title": "PHP 취약점 사태 속 사이버보안주 랠리",
+      "summary": "AI가 발견한 PHP 취약점 사태 속에서 사이버보안 관련 주식이 급등했습니다. 국내외 사이버보안주도 함께 랠리를 이어가며 주목받고 있습니다.",
+      "sourceTitle": "[GAM] AI 투자 지형이 바뀐다 ② PHP 취약점 사태 속 사이버보안주는 랠리",
+      "sourceDesc": "PHP 취약점 사태가 알려지자 글로벌 사이버보안주가 급등했다. 국내 관련 종목도 두 자릿수 상승. AI가 발견한 취약점이 보안 투자를 촉발했다는 분석이다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261027000005",
+      "sourceDate": "2026-10-27",
+      "imagePrompt": "Close-up of server rack indicator lights in a dark data center corridor, rows of blinking amber and green status lights reflecting off brushed metal panel surfaces, bundled fiber optic cables along the rack edge, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "직접금융",
+      "title": "9월 기업 직접금융 74.9% 급증…회사채 반등",
+      "summary": "지난 9월 기업 직접금융 조달이 전년 동기 대비 74.9% 증가했습니다. 회사채 발행이 반등하며 기업들의 자금 조달이 크게 늘어난 것으로 나타났습니다.",
+      "sourceTitle": "9월 기업 직접금융 조달 74.9% 증가…회사채 발행 반등",
+      "sourceDesc": "2026년 9월 국내 기업 직접금융 조달 규모가 전년 동기 대비 74.9% 증가했다. 회사채 발행 반등이 주된 요인으로 집계됐다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261026000995",
+      "sourceDate": "2026-10-26",
+      "imagePrompt": "Wide-angle shot of a financial district at dawn, glass office tower facades catching pale morning light, empty urban intersection below with traffic signals and road markings, low-angle perspective emphasizing building scale, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-27 아침 브리핑\n대법원 김건희 추가 구속영장 심문 · 2년차 국감 마무리 · 10월 소비심리 하락 · PHP 취약점 사이버보안주 랠리 · 기업 직접금융 74.9% 급증\n\n#뉴스 #아침브리핑 #김건희 #구속영장 #국감 #소비심리 #사이버보안 #직접금융\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
