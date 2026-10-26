@@ -28,8 +28,8 @@
     {
       "id": "action-hook-v1",
       "account": "muleori",
-      "status": "ready",
-      "hypothesis": "행동 번역 훅(B안, single 기반) — hookLine을 시청자가 해야 할 일·바뀌는 것을 묻거나 알리는 문장으로 쓰면 평균 시청이 오른다. 처치는 훅 프레임 하나(contracts/hook-muleori-action/prompt.txt)",
+      "status": "draft",
+      "hypothesis": "행동 번역 훅(B안, single 기반) — hookLine을 시청자가 해야 할 일·바뀌는 것을 묻거나 알리는 문장으로 쓰면 평균 시청이 오른다. 처치는 훅 프레임 하나(contracts/hook-muleori-action/prompt.txt) 2026-10-26 hook-screen-v1-digest로 대체",
       "flags": { "HOOK_FRAME_MULEORI": "action" },
       "evidence": [
         { "path": "docs/hooks/{stem}.txt", "equals": "action" },
@@ -52,8 +52,8 @@
     {
       "id": "action-hook-v1-digest",
       "account": "muleori",
-      "status": "ready",
-      "hypothesis": "행동 번역 훅(B안, digest 기반 — single-issue-v1 기각 롤백 뒤) — 처치는 action-hook-v1과 같고 evidence·임계값만 digest 기준",
+      "status": "draft",
+      "hypothesis": "행동 번역 훅(B안, digest 기반 — single-issue-v1 기각 롤백 뒤) — 처치는 action-hook-v1과 같고 evidence·임계값만 digest 기준 2026-10-26 hook-screen-v1-digest로 대체",
       "flags": { "HOOK_FRAME_MULEORI": "action" },
       "evidence": [
         { "path": "docs/hooks/{stem}.txt", "equals": "action" },
