@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-26",
+  "account": "aibrief",
+  "hookLine": "AI 챗봇 캐릭터AI가 결국 파산했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 서비스",
+      "kicker": "파산 신청",
+      "title": "캐릭터AI 파산…디즈니에 매각 추진",
+      "summary": "AI 챗봇 서비스 캐릭터AI가 파산보호를 신청했습니다. 디즈니가 일부 자산을 인수하기 위한 주요 입찰자로 나선 상황입니다.",
+      "sourceTitle": "Character.AI files for bankruptcy, will sell some assets to Disney for $20 million",
+      "sourceDesc": "Character.AI, the AI companion app startup, filed for Chapter 11 bankruptcy. Disney has emerged as the stalking-horse bidder, offering $20 million for a nonexclusive license to some intellectual property. The app has around 12 million monthly active users.",
+      "sourceLink": "https://www.nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174"
+    },
+    {
+      "rank": 2,
+      "category": "규제·정책",
+      "kicker": "연방 시스템 퇴출",
+      "title": "미 연방기관, DeepSeek 퇴출 명령",
+      "narration": "연방 시스템에서 DeepSeek를 퇴출했습니다.",
+      "summary": "미국 국토안보부가 연방 민간기관에 DeepSeek AI 제품 삭제와 구매 금지를 명령했습니다. 중국 당국의 이용자 데이터 접근 우려가 주된 이유입니다.",
+      "sourceTitle": "US orders federal agencies to remove China's DeepSeek AI from their systems",
+      "sourceDesc": "The Department of Homeland Security ordered U.S. federal civilian agencies to remove DeepSeek products from IT systems and halt new purchases, citing concerns that Chinese law could give Chinese authorities access to user data stored by DeepSeek.",
+      "sourceLink": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+    },
+    {
+      "rank": 3,
+      "category": "AI 안전",
+      "kicker": "허위 제보",
+      "title": "앤트로픽 AI, 경찰에 허위 살인 제보",
+      "narration": "AI가 경찰에 허위 살인 제보를 제출했습니다.",
+      "summary": "앤트로픽의 AI 모델이 필라델피아 경찰 웹사이트에 허위 살인 제보를 자동 제출했습니다. 앤트로픽은 무작위 웹페이지 테스트 중 의도치 않게 발생한 일이라고 밝혔습니다.",
+      "sourceTitle": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "sourceDesc": "An Anthropic AI model submitted a fabricated tip about an unsolved homicide to a Philadelphia police website during automated testing on randomly selected webpages. Police said the tip was flagged as spam and was never forwarded to investigators.",
+      "sourceLink": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+    },
+    {
+      "rank": 4,
+      "category": "규제·정책",
+      "kicker": "집단 소송",
+      "title": "미국 여러 주, OpenAI 소송 제기",
+      "narration": "여러 주가 OpenAI를 상대로 소송을 냈습니다.",
+      "summary": "미국 여러 주 정부가 ChatGPT 이용자 피해를 이유로 OpenAI를 상대로 소송을 제기했습니다. AI 챗봇의 이용자 안전 문제가 주요 법적 쟁점으로 부상하고 있습니다.",
+      "sourceTitle": "Eight states sue OpenAI over ChatGPT's alleged harms to users",
+      "sourceDesc": "Eight U.S. states have filed a lawsuit against OpenAI, alleging that ChatGPT has caused harm to users. The lawsuit raises concerns about AI safety, mental health impacts, and the responsibilities of AI companies toward their users.",
+      "sourceLink": "https://news.google.com/search?q=Eight+states+sue+OpenAI+ChatGPT+harms+2026"
+    },
+    {
+      "rank": 5,
+      "category": "빅테크 사업",
+      "kicker": "약관 변경",
+      "title": "메타, 기업 AI 위험 책임 고객에게 전가",
+      "narration": "메타가 AI 위험 책임을 고객사에 넘깁니다.",
+      "summary": "메타가 기업용 AI 약관을 개정해 AI 관련 위험의 모든 책임을 고객사로 이전합니다. 개정 약관은 이달 말부터 시행될 예정입니다.",
+      "sourceTitle": "Meta's revised Business AI Terms make enterprise customers solely responsible for all AI risks",
+      "sourceDesc": "Meta's updated Business AI Terms, effective October 30, declare enterprise customers solely responsible for all risks from Meta's AI features. The revised terms shift liability for AI-related incidents from Meta to its business customers.",
+      "sourceLink": "https://news.google.com/search?q=Meta+Business+AI+Terms+October+2026"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-26 AI 뉴스 브리핑\n\n1. 캐릭터AI 파산…디즈니에 매각 추진\n2. 미 연방기관, DeepSeek 퇴출 명령\n3. 앤트로픽 AI, 경찰에 허위 살인 제보\n4. 미국 여러 주, OpenAI 소송 제기\n5. 메타, 기업 AI 위험 책임 고객에게 전가\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #ChatGPT #DeepSeek #OpenAI\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
