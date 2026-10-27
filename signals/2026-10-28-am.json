@@ -1,0 +1,529 @@
+{
+  "stem": "2026-10-28-am",
+  "collectedAt": "2026-10-28T05:40:21+09:00",
+  "sources": {
+    "news": "ok",
+    "trends": "ok",
+    "nate": "ok"
+  },
+  "news": [
+    {
+      "title": "서울 강남 구룡마을 화재에 107명 이재민·30대 1명 부상…대응 1단계로",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
+      "pubDate": "2026-10-28T01:31:00+09:00"
+    },
+    {
+      "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
+      "pubDate": "2026-10-28T01:31:00+09:00"
+    },
+    {
+      "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
+      "pubDate": "2026-10-27T18:01:22+09:00"
+    },
+    {
+      "title": "정동영 \"지뢰는 방어용 무기\"... 野 \"北 김여정에 또 빌미 제공\"",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdEN1aHRkM3ppTzJGUUMyakhid3luOEhSd05rRkQ0c1hveW9DcjJlTHFUeDRfRzZ6d2VwaVFkWDAyVW1Vd2UtRE9EV1VwLWVrNklvVzBQdlh2VW5VOENNUng0UVB1aEVNLURxem9uV1VBMFdQczA1TlM1RXJqSUYtemQzcjRmLWE4ZDhzWlpkbk4?oc=5",
+      "pubDate": "2026-10-27T17:50:11+09:00"
+    },
+    {
+      "title": "[날씨] '올 가을 가장 추운 날' 아침 기온 뚝↓ ...강풍.한파특보 발효지역은?",
+      "source": "헤드라인제주",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rdzVCRF9hcW53SXRjbG9YREFDS2hOVDZGbTFDZDNyemF5NWE3d1hpY1RjeDJza2x4dzNiczJROTMxWl9UZzUzSURZdThiNk8xZ1pQTEhRaEZzSmRDY28yS2NkOFVHRzRRbUlBTHFlcDd4cWs?oc=5",
+      "pubDate": "2026-10-27T22:26:50+09:00"
+    },
+    {
+      "title": "민주당, 조희대 국정조사 내달 추진",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05MzdqWUNMWS1hdHNlUk1EQjRFOFF4Qmw1aGpGUWNUT1N5b0FROV96WUk3dkdaUG1aMkhuUGFHZkRkd21CNlE5eHdTbkZxems3OGI5SWc1RDd1QdIBX0FVX3lxTE40cDBjakxCNWNfdF9VN2x3Q1BRZFBITHRhUWFIZjJFaS1IVHR4WEpOdmFMWWg2NGgydVQxN0taczkwWHF5RV80T1ZjZFIteTRuS0dYSFR5UVQtN2dxaEpJ?oc=5",
+      "pubDate": "2026-10-27T21:57:00+09:00"
+    },
+    {
+      "title": "미 당국자 “전작권 전환 전 필요 조건 충족되도록 보장해야”",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uaVVfQ2h2ZTBmdjlBaUtRZ1lWM1Z4ZjZsRmdGSGx3N2dMb2pzLVZZM0dfSU5DU3VaOFU1MDNJVUpsT0Q4RzRybGV1cWlyanR2NEhCWFlzOHY4bWs?oc=5",
+      "pubDate": "2026-10-28T03:38:00+09:00"
+    },
+    {
+      "title": "오세훈 축하연서 이준석 “‘오’뚝이처럼” 삼행시…윤상현 “비행기” 건배사",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41MllEcUJ0MGRBQWFHd09uZmxvYXRKeEZibmxRemJzamt3VGtmMjFXcE12U2w0NHB2YWpjaENlMnJhVmJxTElpcl9uRnkxcVNsVDRROUJfVTI2RFhObWh5cFNUbUtrdnRKdnpjUFpHOXYxYXlf?oc=5",
+      "pubDate": "2026-10-28T01:33:00+09:00"
+    },
+    {
+      "title": "프랑스 정부, 시위 막으려 SNS 차단까지 검토",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wQ05SN29QVTd5TnBaOE1hT0lHdzVLWTRWdzNvLVMyNE1UM2xWY2dEVXlhTW5MSnJEZkJOUFBiLTg3WHEzVEZCUE1JVF9PRzI1U0RlQVk5WTFoMmPSAWBBVV95cUxPbHJQc2h0SVBzWk1jby1NZml4bTQ5YTI1WFdWbms0bFBDd3dDQjFSRWpmeUM2VGNtaGV5ajUteFNqcDI0WDg2SEM5eEpjNlZKQnc0RVhCSWNCcDlMZmkwLVg?oc=5",
+      "pubDate": "2026-10-28T00:24:24+09:00"
+    },
+    {
+      "title": "네타냐후 운명 가를 이스라엘 총선 개막…가자전쟁 후 첫 선거",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBET2Q5bUtYbEVwSWlMMUFoSFcyLXdubmlOLUc2TEpadEF0bzN2NTltXzNveGhMWTlqcDNOLXU5d0NZcndjVmNpMEdTMEFtU1hfUm5Wbkx6aktJdzFWMFlqX3hOQWplRTRESXVEVkh0LTlXQTg?oc=5",
+      "pubDate": "2026-10-27T22:12:00+09:00"
+    },
+    {
+      "title": "국지휴전 개시한 러·우크라…다른 곳에선 맞불 타격",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CN1RPX3JaTUhidGRLLXdJYmRsQXA3TE9PeVB2bmtxNno3QUxuQ1A1OW1MenJsczZ4WVdlWWdmY19wMXhOTDltN1hOUUFTRGZ3dUlhaFRRQmpVOGp5SGtvTEpCYldHMGM?oc=5",
+      "pubDate": "2026-10-27T17:58:00+09:00"
+    },
+    {
+      "title": "보우소나루, 브라질 대선 불복 철회‥'트럼프 손절'에 백기",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zQVBtOXlaelc4WGVBR2k3UDA0UkE0VDd1Z2hWMWU4TFljOWtKSG11Y2Q4T0RVdFQ5SG5IdnpjZDR0NUpsVEpmemdfWTBnbGNxRkJPWEQ2Rlh4anNiMjBxbWVBOGFUaFJXZjcxZFBjWFBvUnEw0gF0QVVfeXFMT2FtUk9ZNWtwVGl6Vlc5Rl90VlJXTjloZjNtS29zTlQxc1laRHozcHBKNGd1LUl2N29nV1ZScVlJSTU0d0ExWmZacWp1WHVUcXF4LVdMbDVwNVF0M0VFYm01Z0pBVlZxU21fRS1XUTBseDB6WFE?oc=5",
+      "pubDate": "2026-10-27T16:26:10+09:00"
+    },
+    {
+      "title": "3분기 GDP 1% '깜짝 증가'",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tSGRBOVNFTV81R3U0Z3QwNUVzQnhCTDNHNXFEX2RaLXRPUThBaDRlaUVuWFZRaDhIZ1o2MUVrQUlWZ2pHSDlYU1k0TktfN1h1aVdJU2VHWDN5dw?oc=5",
+      "pubDate": "2026-10-27T18:04:28+09:00"
+    },
+    {
+      "title": "[뉴욕증시-1보] 'AI 투자 확대' 메타 증자에 몰린 뭉칫돈…강세 마감",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1VFNOWEw5SU4yczFDTFF4YnJIcHp6RXpPMXl4QkhILUNDWkMyczB3bGVoVURBeXhvbmdyS19MdXY2aWNlNXlZTVBueVd6d3kxMGw5RU1MYTZ4RkVTTjlFeGN6NWhQckJsS0pDZzg2V2Q?oc=5",
+      "pubDate": "2026-10-28T05:07:43+09:00"
+    },
+    {
+      "title": "민주당, 오늘 당정 협의서 가상자산 과세 ‘유예’ 논의",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PZy1MMXVoS0plU2JVZEtCZ3RqTVBnNElCZzd3T1FDcm9ScGFPaUhaSjNDRVR4LTNDR1FoU2FheDFjc0swWlhGcGcyUV9OSzdUNndQZFlhekw2clU?oc=5",
+      "pubDate": "2026-10-28T01:02:00+09:00"
+    },
+    {
+      "title": "앤트로픽 상장 서류 보니… ‘25배 투자 대박’ SK텔레콤, 구글보다 싸게 샀다",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWJaMG9yTXVhZGhUenRkS3VsazFUNTI3OUVqcThORjNIclBaaUl6c0ZLSWU1NlBCblkwVmpId1Y0OUM3aEFRaTZuaVQ4aTJtMDROZmpUeUwwUlFvYWM5ajhkd1pUU2I3UDhXQTRqQWEtVVlUR0hKanNlbnRsbFljT3F30gGWAUFVX3lxTFBCb09DVm5ZQ0NDaEFEdzRkYTFOUVNEWHRHcG9ma2d1ZllFeGY4NWV3c2JJcTFpVFppbnVCV2o0Qm5vLVRUMm5HTHgyWG9hNmVJSzRaQmJ3RThPU05LZWtjb1JESmRkTVVYNnh4Rm9DLWkxYUhIalIwRi1tSkhGWk85c1hBbV9qYkxpdy1pRTQyeV9zN1JLQQ?oc=5",
+      "pubDate": "2026-10-27T17:18:00+09:00"
+    },
+    {
+      "title": "그래픽 카드 제조업체들은 더 이상 NVIDIA로부터 RTX 5090용 GB202 칩을 주문할 수 없습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkwyOU01ZGhxaHFTZ1lsWVVFUno2THFGNWhZV0xsVkpQUFNIR05qOUxtRU1MYmxqeVVjR1FlcDU2a004OHJfYkUzZndkUlNzVDJZeTRNRFRfR0hVLXhBdjVCdl9TbHV2ZDkzSTBRMFR2VWJVZl9WeDlnVzQ0WXg0RHQtWlFCbEV2LXlzR09nLXdxZU9NQWZYTUZDUXpBZjRiTk1uTzBzRGNzc213SFoyM1RzMWd3OHJkWVE?oc=5",
+      "pubDate": "2026-10-27T22:42:29+09:00"
+    },
+    {
+      "title": "'스트리트 파이터 V', 스팀판 온라인 중단",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56b2dtaW5zRExlRUVSMEphbHo3OU5pWEhDMktTdmRnNVhBM0FQU2V4NjZBZ0VRVXhNZFZZX3I3NDlST2xtenFXVldCRmhpVjFqRmJYaXh1MTFTdmJlZ1E?oc=5",
+      "pubDate": "2026-10-28T03:33:58+09:00"
+    },
+    {
+      "title": "애플, 창작앱 전반에 AI 확대…로직 프로·키노트에 어시스턴트",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVpxc3Y0Q3hJeVZaRWYwZVdRSjNKcUsyeHhUWl9aZFdwY05YenlQam5lb215UzQtSWVGNzQyXzEwS0t0ZXpScTMxYXotRnF4RWVaR2lqNGxRamVtQXNSdkd2cHdVdnVhTTZiZzFqcXotNFRPM0J1U0FFN2F4VW5WMg?oc=5",
+      "pubDate": "2026-10-27T23:14:51+09:00"
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced가 마지막 콘텐츠 업데이트인 1.0.8 버전을 받았습니다.",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3hzU2NNbUZPb01vRXJoVDZxMGNnaEZQMFFVYkd2RlA2NWR1MWNWZF9PQzRZQlJ6NG9CS3Zoa2JSSkNXX0ZFWEI3ZVc2VXJQMFBKRmMzYkFITE1yRzVncEZsVGtLRU51cjBtblBUMUZoZEVZQUdfN1ZiaUN0RC14RHp0TVFyUEdYekxvWWNjVVhpd3BTek45ZkhZclgxWnp4eHJYUmJYSS1BU2NFN3ZINjlYb0NIZw?oc=5",
+      "pubDate": "2026-10-28T00:20:29+09:00"
+    },
+    {
+      "title": "'연예계 퇴출' 승리, 아빠 되나…특수폭행혐의 피소 중 알려져",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbVVtUU9oMnV3RXJ3cUd0dUhuekVaemhjR2xVdHczcVdPV0k5aWxFZF9QQXdiSjJPdzRvXzVxZHdOR25SUkV1MVd4cllFdVpWd09KX3dIN29lQQ?oc=5",
+      "pubDate": "2026-10-27T23:06:56+09:00"
+    },
+    {
+      "title": "승리, 내년 1월 아빠된다...20대 일반인 여성과 강남 신혼집 준비 中",
+      "source": "SPOTV NEWS",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XTU5JUVpPUlQ1Uk5SNHJ2TkkyOW1NcG51TUtPX3phMndVSHNNYUNlRWdLVlBudXVSUWROdlM2emhGY2VadEVCN1VsNnlhRWs3SjlDV0tEX1lkbE5iR2tEV2JNdDktcWZvQWllRnFKNjk?oc=5",
+      "pubDate": "2026-10-27T22:48:50+09:00"
+    },
+    {
+      "title": "오늘의 운세- 2026년 10월 28일 (음 9월 18일)",
+      "source": "국제신문",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVnpVM3U2c1I0em1za3ZRUDFnQWxoOUh5OV9uM3p4enNIN1FDYVdVVTJVMHpBQnUxTXlhaWNVdkx4YllZdU5ZQWFYNVl2cFpKeHZkcEFTV3pSbnFhM2pLR1JNS1hWdkhSeHVXclZ1NmkyY1dDSzBLNnNFUEgxOWZZSHh1ZkN0cnhnalV0N3ln?oc=5",
+      "pubDate": "2026-10-27T18:44:00+09:00"
+    },
+    {
+      "title": "[스타inPO] 수비 못한다 누가 그랬나…삼성 최형우, 홈런·타점·보살 원맨쇼",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wbXpnZ05JZDBNc1NsRWN5ZEx4Rm1ZUzVMYWtpVm1MekhPOUZnemxvTUFGNm5aUmxGd0h6Q29zSXVlaExfbkZ1dllYX0NyTnNUcm5zNnpFRFMwUQ?oc=5",
+      "pubDate": "2026-10-28T05:13:00+09:00"
+    },
+    {
+      "title": "한숨 고른 KIA 이범호 감독 \"1승 1패면 만족, 3차전은 日 시라카와 선발 등판\"",
+      "source": "노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51X3hrbExpaU9sZVdRdjRFTXdQeThlVVZkazA2UTdteFN3ODlUVFJfNjhsd2hvemRacmpCS0NtS0JxVG5qNDlEekFrLVlwc0RoNVE?oc=5",
+      "pubDate": "2026-10-27T22:34:38+09:00"
+    },
+    {
+      "title": "박진만 감독의 간단명료 정리 \"이의리 무너뜨려야 우리가 이긴다\" [PO2 현장]",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEtqRk45YVQxSzhOa2dsa0pKS3NhR0paWGNYakdoSHBTb2ZyYlA3OWh2azllWjlvcXV5RTd3VVo0cFFkcjV5OExITEgta0FuM19BMDU1UWM0bTZWUTBKYWYwazV4eGdSSm1GQkFtcEdzRDhEYkJNdXR6WEJrSmU1bTc2OA?oc=5",
+      "pubDate": "2026-10-27T17:58:00+09:00"
+    },
+    {
+      "title": "금메달 동료에서 라이벌로…여자농구 AG 영웅들 WKBL 개막 출사표",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTXRybVRuSHdRM3Q1d2o3eG1IZ1dmQWc5c0FDbllLN2pwa19LcWotY2VOSk1yZWsxVlR3Q3RzX242VTZSWmJYMUx2LS1VNWI1UmFzNWZyZFYtYXdla0hhSHJGMmhWWHlTREE?oc=5",
+      "pubDate": "2026-10-27T17:46:45+09:00"
+    },
+    {
+      "title": "연세암병원, PET 검사로 소세포폐암 환자 뇌 전이 예방치료 효과 예측",
+      "source": "팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iTklJem1FZWhkeFV3dXdjSjlUMGgwWmxnLVAyQWR5WVpBSm15Z040Rm1IQ2JNX0Rvb0x2ak5OeEJpR2V1MGg1eG1PWGlScDNhQ3Y4VXh0RWpSbzBXMktYczhhblVGNDQ?oc=5",
+      "pubDate": "2026-10-27T18:16:30+09:00"
+    },
+    {
+      "title": "[사이테크+] \"모기 수컷이 암컷 날갯짓 소리에 끌리는 이유 찾았다\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11ZHZuRUtxSDFIS3ZRNk5JcG1iTG5tNHROT2JnbHJpMlNuekUza2JFY05WNG04U2FBY3FQVldiUW04NFN5d1RiY2doYjdXY0xZQkpVSGppZ2YzMVXSAWBBVV95cUxOamdCVG5zZk80ZFpYdDJ2Ukc5WWRsX0FRV1loT2cyMFdRaWtGbEVGU3hXY1pkcjVmT3ltWGRyRzVNNnd4YkNxQWtqaXhEc05fRWNwTE1kV3dnUWVCV21tai0?oc=5",
+      "pubDate": "2026-10-28T03:00:01+09:00"
+    }
+  ],
+  "trends": [
+    {
+      "term": "반도체",
+      "pubDate": "2026-10-28T03:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "올해 3분기 GDP 1% '깜짝 성장'...민간소비는 하락세",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610280057491386",
+          "source": "YTN"
+        },
+        {
+          "title": "실질소득 49년만에 최대폭 늘었는데, 소비자는 지갑 더 닫아",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Economy/article/all/20261028/134921066/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "[기자메모]성장률 예측 또 실패…한은 어떻게 믿나",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202610272057005",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "term": "소넨호프 대 아우크스부르크",
+      "pubDate": "2026-10-28T03:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "Confirmed DFB-Pokal lineups: SG Sonnenhof Großaspach vs. FC Augsburg",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/confirmed-dfb-pokal-lineups-sg-161000460.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Baum: \"We'll give it everything we’ve got\"",
+          "snippet": "",
+          "url": "https://www.fcaugsburg.de/en/article/baum-we-ll-give-it-everything-we-ve-got-23613",
+          "source": "FC Augsburg"
+        },
+        {
+          "title": "Sonnenhof Großaspach vs Augsburg prediction: teams form analysis, possible lineups on October 27, 2026",
+          "snippet": "",
+          "url": "https://ratingbet.com/predictions/sonnenhof-groaspach-vs-augsburg-prediction-teams-form-analysis-possible-lineups-on-october-27-2026/",
+          "source": "RatingBet"
+        }
+      ]
+    },
+    {
+      "term": "s",
+      "pubDate": "2026-10-28T03:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
+          "snippet": "",
+          "url": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1",
+          "source": "WSJ"
+        },
+        {
+          "title": "Why Anthropic's IPO contrasts the 'cult of Elon Musk' at SpaceX and Tesla",
+          "snippet": "",
+          "url": "https://finance.yahoo.com/markets/stocks/article/why-anthropics-ipo-contrasts-the-cult-of-elon-musk-at-spacex-and-tesla-192424554.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Don’t expect supersize profits from Anthropic soon",
+          "snippet": "",
+          "url": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
+          "source": "The Economist"
+        }
+      ]
+    },
+    {
+      "term": "fomc",
+      "pubDate": "2026-10-28T03:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "米国の中間選挙を控えているうえ、 FOMC金利引き上げの負担 ETFだけで1兆ウォンの純流出",
+          "snippet": "",
+          "url": "https://www.mk.co.kr/jp/stock/12187460",
+          "source": "매일경제"
+        },
+        {
+          "title": "Bitcoin現物ETF、週間で資金純流入 相場は8万ドル台に低迷",
+          "snippet": "",
+          "url": "https://www.digitaltoday.co.kr/jp/view/119238/bitcoin-spot-etfs-return-to-weekly-net-inflows-price-weak-in-80000s",
+          "source": "디지털투데이"
+        },
+        {
+          "title": "円ステーブルコインGYENが終幕へ、コインベースがUSDCに自動転換",
+          "snippet": "",
+          "url": "https://crypto-times.jp/news-gmo-gyen-stablecoin-redemption/",
+          "source": "CRYPTO TIMES"
+        }
+      ]
+    },
+    {
+      "term": "홈런",
+      "pubDate": "2026-10-28T01:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "최형우 가을야구 최고령 홈런... 삼성, 플레이오프 2차전서 웃었다",
+          "snippet": "",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/27/XOYWIEZGCFAP3AXGMS6BTZKBWM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'후라도 6.2이닝 2실점 호투' 삼성, KIA 꺾고 플레이오프 2차전 승리",
+          "snippet": "",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6861177_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "디아즈·최형우 홈런...삼성, 2차전 승리",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610280429084889",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "term": "청송군",
+      "pubDate": "2026-10-28T01:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "청송황금사과 맛보세요…서울 주요 거점서 판매 행사",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261027126900053",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "청송군, ‘청송황금사과’ 서울 직판으로 수도권 판로 확대",
+          "snippet": "",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/27/2026102700394.html",
+          "source": "뉴데일리 대구경북"
+        },
+        {
+          "title": "민원 챙기던 군의원, 주민과의 약속 위해 운동화 끈 조였다",
+          "snippet": "",
+          "url": "https://www.imaeil.com/page/view/2026102613210805694",
+          "source": "매일신문"
+        }
+      ]
+    },
+    {
+      "term": "크랙",
+      "pubDate": "2026-10-28T00:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "“330만 원짜리가 이 모양?”…돈값 못하는 아이폰 듀오 굴욕 [이코노픽]",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695320",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "'애플 잘 안 접혀?' 광고 재소환‥\"우리 건 달라\" 날선 신경전",
+          "snippet": "",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861036_36932.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "'아이폰 듀오' 내구성 논란...부품 업체 \"접합부 결함 아냐\"",
+          "snippet": "",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202610271105445695",
+          "source": "YTN 사이언스"
+        }
+      ]
+    },
+    {
+      "term": "pba 팀리그",
+      "pubDate": "2026-10-28T00:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "PBA 팀리그 ‘전통강호’ 웰컴저축은행, T.응우옌 강유진 ‘추가 선발’",
+          "snippet": "",
+          "url": "https://mkbn.mk.co.kr/news/sports/12187610",
+          "source": "mkbn.mk.co.kr"
+        },
+        {
+          "title": "PBA 팀리그 웰컴저축은행, T.응우옌·강유진 추가 영입",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261027150800007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "PBA 팀리그 웰컴저축은행, T.응우옌-강유진 '추가 선발'",
+          "snippet": "",
+          "url": "https://www.news1.kr/sports/general-sport/6333294",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "term": "리그컵",
+      "pubDate": "2026-10-27T23:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "카라바오컵 플리트우드 타운 대 아스날 경기 예측",
+          "snippet": "",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fleetwood-town-vs-arsenal-tai-carabao-cup-1789887.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "플리트우드 타운 vs 아스널 생중계: 경기가 진행 중입니다",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-fleetwood-town-vs-arsenal-tran-dau-dang-dien-ra",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "경기 프리뷰: 플리트우드 타운 vs 아스널, 10월 28일 오전 3시: 아스널이 쉽게 무너지지 않을 것으로 예상됩니다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fleetwood-town-vs-arsenal-3h00-ngay-28-10-ve-kho-thoat-khoi-tay-phao",
+          "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
+      "term": "카를로스 알카라스",
+      "pubDate": "2026-10-27T23:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "권순우·정현 출격 한국 테니스, ‘데이비스컵 파이널 8’ 첫 4강 신화 도전…8강서 ‘디펜딩 챔피언’ 이탈리아와 격돌",
+          "snippet": "",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335189",
+          "source": "인천일보"
+        },
+        {
+          "title": "야닉 시너, 시즌 종료 선언 뒤 복귀 결정⋯12월 '식스 킹스 슬램' 출전",
+          "snippet": "",
+          "url": "https://www.etoday.co.kr/news/view/2640421",
+          "source": "이투데이"
+        },
+        {
+          "title": "[김종석의 그라운드] 시너는 사우디로, 한국은 볼로냐로…데이비스컵 8강 상대 이탈리아 명단 발표",
+          "snippet": "",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54134",
+          "source": "테니스코리아"
+        }
+      ]
+    }
+  ],
+  "nate": [
+    {
+      "rank": 1,
+      "title": "빅뱅 출신 승리, 20대 여친 임신→결혼…\"내년 1월 '아빠' 된다…신혼...",
+      "link": "https://news.nate.com/view/20261027n39929"
+    },
+    {
+      "rank": 2,
+      "title": "'왕따 논란' 31기 옥순, 뼈말라 됐다…'임신·낙태·성병' 루머 마음고...",
+      "link": "https://news.nate.com/view/20261027n40936"
+    },
+    {
+      "rank": 3,
+      "title": "'헨리♥' 백진희, 결혼식 3개월 남기고 깜짝 발표…\"요즘 같은 시대에 ...",
+      "link": "https://news.nate.com/view/20261027n40973"
+    },
+    {
+      "rank": 4,
+      "title": "'금 가는 아이폰' 이례적 결함 인정…\"무상교체\" 꼬리 내렸다",
+      "link": "https://news.nate.com/view/20261027n38206"
+    },
+    {
+      "rank": 5,
+      "title": "구룡마을 7시간 30분 만에 주불 진압…축구장 26개 면적 태워(종합2보)",
+      "link": "https://news.nate.com/view/20261027n41160"
+    },
+    {
+      "rank": 6,
+      "title": "\"관광객 감금하고 30만원 강매\"…울릉도 뒤집힌 영상, 진실은",
+      "link": "https://news.nate.com/view/20261027n32083"
+    },
+    {
+      "rank": 7,
+      "title": "\"밤에 남자분과\"…여성전용 빌라에 붙은 공지 '시끌'",
+      "link": "https://news.nate.com/view/20261027n35216"
+    },
+    {
+      "rank": 8,
+      "title": "윤석열 \"아내가 '대통령 직위 좀 즐기지' 했지만…할 일은 해야\"",
+      "link": "https://news.nate.com/view/20261027n37252"
+    },
+    {
+      "rank": 9,
+      "title": "마라톤 완주→트럭과 충돌, 현장서 사망…귀가 중 남아공 경찰 러너 2명 참...",
+      "link": "https://news.nate.com/view/20261027n40851"
+    },
+    {
+      "rank": 10,
+      "title": "\"저 군대 안갑니다!\" 이기혁, 국가대표로서 품위 손상…징계받나? 아시안컵...",
+      "link": "https://news.nate.com/view/20261027n37018"
+    },
+    {
+      "rank": 11,
+      "title": "\"비행기 값 뽑는다\"…한국인들 9개월간 7조원 쓴 '이곳'",
+      "link": "https://news.nate.com/view/20261027n33906"
+    },
+    {
+      "rank": 12,
+      "title": "\"40만원 하던 게 80만원\"…요즘 없어서 못 산다는 '이것' [차이나 워치]",
+      "link": "https://news.nate.com/view/20261027n02557"
+    },
+    {
+      "rank": 13,
+      "title": "\"유해진 나락 못 봤나\"…연기했을 뿐인데, 사상 검증까지?",
+      "link": "https://news.nate.com/view/20261027n15935"
+    },
+    {
+      "rank": 14,
+      "title": "[단독]저가 커피라 수입산 우유인 줄…메가·컴포즈·빽다방의 반전",
+      "link": "https://news.nate.com/view/20261027n22158"
+    },
+    {
+      "rank": 15,
+      "title": "\"점심시간마다 어딜 가세요?\"…'시간 거지' 40대 남성, 지갑 여는 곳 보니",
+      "link": "https://news.nate.com/view/20261027n06674"
+    },
+    {
+      "rank": 16,
+      "title": "\"사망한 아이 생식기에 구더기\"…굶어죽은 6개월 배기, 엄마는 '보험금' 검...",
+      "link": "https://news.nate.com/view/20261027n02745"
+    },
+    {
+      "rank": 17,
+      "title": "전자복권 1등 '완전 랜덤' 아니었다…동행복권이 숨긴 충격 진실",
+      "link": "https://news.nate.com/view/20261027n31274"
+    },
+    {
+      "rank": 18,
+      "title": "[단독]손아섭 NC행 사실상 확정…롯데 \"의사 타진했으나 이미 NC와 계약...",
+      "link": "https://news.nate.com/view/20261027n40209"
+    },
+    {
+      "rank": 19,
+      "title": "5점차 원태인 투입…박진만 용병술, 삼성은 '국내 에이스'를 잃었다[PO2 ...",
+      "link": "https://news.nate.com/view/20261027n39641"
+    },
+    {
+      "rank": 20,
+      "title": "\"패딩 꺼내야 하나\"···아침기온 최대 10도 뚝, 강풍 속 전국 곳곳 한파...",
+      "link": "https://news.nate.com/view/20261027n32542"
+    }
+  ]
+}
