@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-28",
+  "slot": "am",
+  "hookLine": "구룡마을 화재, 77가구가 집을 잃었습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사회",
+      "kicker": "강남 구룡마을",
+      "title": "구룡마을 화재 12시간50분 만에 완진",
+      "summary": "강남구 개포동 구룡마을 화재가 오늘 새벽 4시39분 완진됐습니다. 12시간50분 만의 진화로 1·2·3지구 77가구 107명이 집을 잃었습니다.",
+      "narration": "강남 구룡마을 화재가 12시간50분 만에 완진됐습니다.",
+      "sourceTitle": "밤새 이어진 구룡마을 화재…12시간50분 만에 완진",
+      "sourceDesc": "강남구 개포동 구룡마을 화재가 28일 오전 4시39분께 완전히 진화됐다. 발화 후 12시간50분 만이다. 화재로 1·2·3지구 77가구 107명이 피해를 입었고, 30대 여성 1명이 가벼운 부상을 입었다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261028000028",
+      "sourceDate": "2026-10-28",
+      "imagePrompt": "Wide aerial view of charred hillside settlement ruins at dawn in Seoul, smoldering embers and ash-covered debris across densely packed structures, pale morning sky with soft haze, distant apartment towers visible in background, cool blue-grey tones, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "사법·정치",
+      "kicker": "대법원 결정",
+      "title": "대법, 김건희 추가 구속 2개월 연장",
+      "summary": "대법원이 김건희 씨에 대한 추가 구속영장을 발부해 구속 기한이 2개월 연장됐습니다. 31일 구속 만료를 앞두고 증거 인멸과 도주 우려를 이유로 영장이 발부됐습니다.",
+      "sourceTitle": "대법, 김건희 추가 구속영장 발부...구속기간 2개월 연장",
+      "sourceDesc": "대법원 2부(주심 오경미 대법관)는 27일 오후 2시30분께 심문을 진행한 뒤 오후 6시32분께 영장을 발부했다. 오 대법관은 증거 인멸과 도주 우려를 이유로 들었다. 오는 31일 구속 만료 예정이던 구속 기한이 2개월 늘어났다.",
+      "sourceLink": "https://www.fnnews.com/news/202610271934560731",
+      "sourceDate": "2026-10-27",
+      "imagePrompt": "Close-up of official court documents and formal gavel on polished dark wood desk inside an empty courtroom, dramatic side lighting from tall windows casting sharp shadows across papers and wooden bench, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "경제·AI",
+      "kicker": "나스닥 IPO",
+      "title": "앤스로픽, 나스닥 상장 임박…AI 모멘텀 재가동",
+      "summary": "앤스로픽이 나스닥 상장을 앞두고 기업가치 최대 2조 달러 평가가 거론되고 있습니다. AI 투자 기대감이 미국 증시 모멘텀을 끌어올리고 있습니다.",
+      "sourceTitle": "'몸값 2조弗' 앤스로픽 상장 임박… 美증시, AI 모멘텀 재가동",
+      "sourceDesc": "앤스로픽 상장 시기가 11월 중순으로 거론되는 가운데 기업가치를 최대 2조 달러로 평가받아 상장을 앞두고 있다. 나스닥 상장 신청 이후 미국 증시에서 AI 관련주 모멘텀이 재가동됐다.",
+      "sourceLink": "https://www.fnnews.com/news/202610271820242471",
+      "sourceDate": "2026-10-27",
+      "imagePrompt": "Modern stock exchange trading floor at night, rows of dark monitors displaying upward trending financial charts in cool blue ambient light, glass walls and steel columns under overhead lighting, polished floor reflecting glowing screens, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "사회·날씨",
+      "kicker": "이른 한파",
+      "title": "오늘 아침 최저 영하 2도…한파주의보 확대",
+      "summary": "기상청은 28일 아침 전국 내륙을 중심으로 최저기온이 영하 2도까지 내려갈 것으로 예보했습니다. 경기·충청·강원 등에 한파주의보가 확대됐습니다.",
+      "sourceTitle": "[내일날씨]아침 최저기온 영하 2도…찬 공기 남하",
+      "sourceDesc": "28일 아침 기온이 전날보다 5∼10도가량 떨어질 전망이다. 전국 내륙을 중심으로 최저기온이 영하 2도까지 내려갈 것으로 예보됐다. 경기·충청·강원 등 곳곳에 한파주의보가 확대됐다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026102720065141607",
+      "sourceDate": "2026-10-27",
+      "imagePrompt": "Close-up of frost crystals covering bare tree branches and fallen leaves on a city sidewalk at dawn, thin ice coating glinting in early morning pale light, grey winter sky above, urban street detail with frost patterns on ground, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-28 아침 브리핑\n\n1. 구룡마을 화재 12시간50분 만에 완진\n2. 대법, 김건희 추가 구속 2개월 연장\n3. 앤스로픽, 나스닥 상장 임박…AI 모멘텀 재가동\n4. 오늘 아침 최저 영하 2도…한파주의보 확대\n\n오늘 아침도 물어왔습니다 🦆\n\n#뉴스 #아침브리핑 #오늘의뉴스 #뉴스요약 #구룡마을화재 #완진 #김건희 #구속영장 #앤트로픽 #AI상장 #한파 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
