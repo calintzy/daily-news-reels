@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-27",
+  "account": "aibrief",
+  "hookLine": "AI 독학 해킹단, 기업 90곳 개인정보 털었습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회 영향",
+      "kicker": "AI 범죄",
+      "title": "AI 독학 해킹단, 기업 90곳 820만건 탈취",
+      "summary": "생성형 AI로 해킹을 독학한 일당이 국내 업체 90여 곳에서 개인정보 820만건을 빼낸 혐의로 검거됐습니다. 피해 업체에 롯데케미칼도 포함된 것으로 파악됩니다.",
+      "sourceTitle": "유튜브 독학해 AI로 해킹…대기업까지 90여 곳 털어",
+      "sourceDesc": "경찰은 생성형 AI로 해킹을 익힌 일당을 검거했고, 국내 업체 90여 곳에서 개인정보와 사내 자료 820만건을 빼낸 뒤 돈을 요구한 혐의를 받습니다. 피해 업체에는 롯데케미칼도 포함된 것으로 파악됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EB%8F%85%ED%95%99+AI+%ED%95%B4%ED%82%B9+90%EC%97%AC+%EA%B3%B3&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델·서비스",
+      "kicker": "역대 최대",
+      "title": "앤트로픽, 미국 IPO 공개 서류 제출",
+      "summary": "앤트로픽이 기업공개(IPO) 신고서를 공개 제출했습니다. 2026년 상반기 매출은 $16.29 billion으로 전년 대비 큰 폭으로 늘었습니다.",
+      "narration": "앤트로픽이 IPO 서류를 공개 제출했습니다.",
+      "sourceTitle": "Anthropic, 미국 IPO 서류 공개 — 2026년 상반기 매출 $16.29 billion·순손실 $80.7 billion (10/26, Reuters)",
+      "sourceDesc": "앤트로픽이 IPO 공개 신고서를 제출했다. 2026년 상반기 매출은 $16.29 billion이며, 순손실은 $80.7 billion으로 공시됐다.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+IPO+%EA%B3%B5%EA%B0%9C+%EC%83%81%EC%9E%A5+2026&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 3,
+      "category": "반도체·인프라",
+      "kicker": "46조 주문",
+      "title": "중국 빅테크, 엔비디아 칩 46조원어치 대량 주문",
+      "summary": "바이트댄스·알리바바·텐센트 등 중국 빅테크들이 미국의 반도체 수출 규제 속에서도 엔비디아 칩 300만 개 이상을 주문했습니다. 계약 규모는 350억 달러를 넘을 것으로 추산됩니다.",
+      "narration": "중국 빅테크가 엔비디아 칩 46조원어치 주문했습니다.",
+      "sourceTitle": "中 빅테크 \"46조원어치 칩 달라\"…주문 폭주에 엔비디아도 난감",
+      "sourceDesc": "바이트댄스, 알리바바, 텐센트 등이 미국의 대중국 반도체 수출 규제 속에서 엔비디아 워크스테이션용 그래픽카드를 대량 주문했다. 주문량이 300만 개를 넘고 계약 규모가 350억 달러를 넘을 것으로 추산된다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%A4%91%EA%B5%AD+%EB%B9%85%ED%85%8C%ED%81%AC+%EC%97%94%EB%B9%84%EB%94%94%EC%95%84+%EC%B9%A9+%EC%A3%BC%EB%AC%B8&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 4,
+      "category": "빅테크 사업",
+      "kicker": "53조 조달",
+      "title": "머스크, AI칩 53조원 조달 발표",
+      "summary": "스페이스X가 AI 칩 구매를 위해 400억달러 규모의 부채 조달을 완료했습니다. 머스크는 200곳이 넘는 네오클라우드 기업 가운데 상당수가 도태될 것이라고 경고했습니다.",
+      "narration": "스페이스X가 AI 칩에 400억달러 조달했습니다.",
+      "sourceTitle": "스페이스X, AI칩 구매에 53조원 조달…머스크 \"네오클라우드 소수만 생존\"",
+      "sourceDesc": "머스크는 GPU 구매를 위한 400억달러 규모의 부채 조달을 완료했다고 밝혔고, 200곳이 넘는 네오클라우드 기업 가운데 상당수가 도태되거나 다른 기업에 통합될 것으로 내다봤다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4X+AI%EC%B9%A9+53%EC%A1%B0%EC%9B%90+%EC%A1%B0%EB%8B%AC&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    {
+      "rank": 5,
+      "category": "빅테크 사업",
+      "kicker": "주가 급등",
+      "title": "소프트뱅크, 말레이시아 AI 투자에 주가 급등",
+      "summary": "소프트뱅크(SoftBank) 주가가 AI 인프라 및 데이터센터 구축을 위한 말레이시아 투자 계획 발표로 5.0% 급등했습니다. 투자 규모는 500억 달러에 달합니다.",
+      "narration": "소프트뱅크, 말레이시아에 500억달러 투자합니다.",
+      "sourceTitle": "오늘 SoftBank 주가가 급등한 이유는? By Investing.com",
+      "sourceDesc": "SoftBank Group 주가가 5.0% 오른 4,475엔을 기록했고, 투자자들은 AI 인프라와 데이터센터 구축을 위한 말레이시아 투자 계획에 긍정적으로 반응했다. 투자 규모는 500억 달러다.",
+      "sourceLink": "https://news.google.com/search?q=SoftBank+%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84+AI+%ED%88%AC%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-27 AI 뉴스 브리핑\n\n1. AI 독학 해킹단, 기업 90곳 820만건 탈취\n2. 앤트로픽, 미국 IPO 공개 서류 제출\n3. 중국 빅테크, 엔비디아 칩 46조원어치 대량 주문\n4. 머스크, AI칩 53조원 조달 발표\n5. 소프트뱅크, 말레이시아 AI 투자에 주가 급등\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #앤트로픽 #IPO #해킹보안 #반도체 #엔비디아 #스페이스X #소프트뱅크\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
