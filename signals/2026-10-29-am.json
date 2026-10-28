@@ -1,6 +1,6 @@
 {
   "stem": "2026-10-29-am",
-  "collectedAt": "2026-10-29T06:00:08+09:00",
+  "collectedAt": "2026-10-29T06:53:06+09:00",
   "sources": {
     "news": "ok",
     "trends": "ok",
@@ -14,28 +14,64 @@
       "pubDate": "2026-10-29T00:20:00+09:00"
     },
     {
-      "title": "김민석 “민생이 첫째”…‘조희대 국조’ 공식화 뒤 눈치 살피기",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FZ296VGw3Si1GdTJTcWUtNVFOTm5YQ2RQWlNRYi0xTzBUODhhZEp6U2pFT0VFTEI2TGdydW5LcG1GdUZCaUhRR0tFTzRZNTcwanZXbUtKaWlqUdIBX0FVX3lxTE5HNTh6bkgybHBqQW5RbjZyc1R0aDhBX01WZ2NNNTB3RmVqNWQtNGdycDR0UTRpUTFIZXJQaDRFZ3hlR2FTRU1CWHhPY1VFcFpKa3RjUDMxWUY1ZzYtZGJr?oc=5",
-      "pubDate": "2026-10-28T21:21:00+09:00"
+      "title": "한미 국방장관, SCM 내년 초 개최…이례적 12월 만나기로",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WWWtyZjNnZl9KTjhaZUxqa2dMX3V1UDBzQlRjcUZyc1c1TzdWZDZWZmxxcW9FVllRZW5rWXNETmwtcmo1cVJEVkMtZ1NDTE5LdUQ2ZVRMQVV4SlU?oc=5",
+      "pubDate": "2026-10-29T06:03:00+09:00"
     },
     {
-      "title": "이 대통령 “다문화가족 우대 제도 폐지 필요한지 검토”",
+      "title": "민주, '조작기소 특검법' 재추진...\"다음 주 법사위 상정\"",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wOEVZRlVOZF9UV3V1Z19RLTNQT1IySUhOWUVURmktX3pYOEdPTmhpRXhYdXlHaDNyYlozMWNXNUJEZXZtWDJ4dl9PM042Wnh0RENza3h1WUxMd05URFE?oc=5",
+      "pubDate": "2026-10-28T16:56:00+09:00"
+    },
+    {
+      "title": "이 대통령 “다문화 가족 우대까지 할 필요성 큰지 검토”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQQnlGVUppQXB4bkhmLVJ2V2lJLWZMTE9ZcURrMU9FZmZIWXB1Nkh3aGhfWEdOaDloRmxzMG5pZktEdkNTVWM0d3lNazk3anpiZEs0ZG4yYm5QQdIBX0FVX3lxTE5WME5nZ2xaQ05FOHdwa0c4QXFGNDhGZDRmbXZUTUxFclJkR19ScDRDb0ZGVWM3YTdMN1JIYnVCUHE1NW1ZamFkQ1NDbGZ1azF4bm9fQW0zZjFOdUVZSEtB?oc=5",
+      "pubDate": "2026-10-28T21:37:00+09:00"
+    },
+    {
+      "title": "스페인 고속열차 추돌... 최소 64명 사망, 한국인 9명 경상",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTURUWnE1YXRlYThTOW42WjBWREdSSEFDMVR6TTJZWDAxMzFoQWV2NjVhNVhnZHBUa3BNMGFuc3FQV0FyUFU0SHZoYjNtVndscjdicUFHbHAybl9WQldPQl9vdHMwNmJ5QllDVGlxR0xaaERHVjdzSTFhNHFDSHJXOE01ZFZpTE1Ja29zYTZTaXdZT1ZaemZhV1VteDNYQQ?oc=5",
+      "pubDate": "2026-10-28T22:12:00+09:00"
+    },
+    {
+      "title": "[속보] 선관위 특검, ‘247만표 보관’ 올림픽공원 현장검증 종료",
       "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyeC10aUxZRzh6cnk4a19STmdmelJvTXoxOGVOY1J0THByRXZSN0w4Q1BORXBkX0FPOTdiWXNGZ3R5MXRUMUQ3LWZHOWxhSnJVVjF1aUhSSlc5eDdXSWM1VUlTd3RJQU1IMnBmSWdONks5SWh2?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Q3RyX3UxN1R5c010eGZjcEJhbnEwS0tvWXA3dnBLUEVERUN6c1ZqUVJLd3ZVQzhrd3AxdFRVSHlzY0RTNno2bFJaRE9QUy1wajBlbHpPOU11dzY5dlkxbjR2amlCTlBZdF9kNC1PYlNEQQ?oc=5",
+      "pubDate": "2026-10-29T01:10:00+09:00"
+    },
+    {
+      "title": "[사설] 대법원장 ‘탄핵 거리’ 찾으려 국정조사 한다니",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3hyYU9kbWsxUFR1VEtYUWVyZi1HUHlaTmRvMWRjSkQtUWpkZWtBRGV5QTJsc3JablFFU2ZfWW5jbl90QjRqYk5NbHdfeU5wUmh4dVpZZEdLUFBMN0lhTVE3bnNEQl9WbEFCZmMyNXdsLWVnVjZZcTMxREJ0OE5BVGdDbDhBdw?oc=5",
+      "pubDate": "2026-10-29T00:20:00+09:00"
+    },
+    {
+      "title": "유시민, 이 대통령 향해 “윤석열처럼 자기 집 해체하고 있다”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pWlpicU5TeXY1bVkxLTVhMlhfNU9kUDJyRUx0RmNjdmZGeWtVQVU5WWY2NWUzR3AyemdsZTFvQ2RFbnY2OE9LRHQxSmJlWlp0enB2Ry1DXzJ4TFM2aUMzejMxYVhUdjJuelQzVGhFcjlaZFhw?oc=5",
       "pubDate": "2026-10-29T00:19:00+09:00"
     },
     {
-      "title": "’13시간 마라톤’ 투표지 검증…“상당수 추가검증 필요“",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93R2oxc0xjWGIwNVFGU3pyRDJKZktEOXZZNTBfNlNNbm42SklxcXFpSVJ2UVNiS3BOX2FGTWg4VEhyOVdKMnpjV1k0NkV5OFk1V2haYkhKZmtPeDIzQVFXaXozR3N0dVU?oc=5",
-      "pubDate": "2026-10-29T05:06:00+09:00"
+      "title": "장윤기 부친 “아들, 그런 일 저질렀다니 납득 안 돼···미안합니다”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tU1NfNXpLa1M4ZnFZTzZZa3I5NDlsMl91Q1VxRmQzM05tWmpmbk1YY085OWI4cWFjV255NTJSVnh6ZUtMd2dtRHVvaXNlaHp6Z3FBUWlwWjRGZ9IBX0FVX3lxTE4wZmpCQlFXSFQ4MDFkQkR0RWl1VmxhZEFVc0xjaWJBOUJZblFXT0d0S3VLcUpWTlhrb2ViMW84ZTA5NmNlcEE4Wm01QmtHZndNNEpyTWQ3eUUzSWN1UzVV?oc=5",
+      "pubDate": "2026-10-28T20:46:00+09:00"
     },
     {
-      "title": "오전부터 차차 흐려져…중부지방 중심 비",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9feUpVN2gzcUJkYXVtMHdrZkUtdkRhenVLc1RfaFd2eVB3d3QzWFhuRy05aDl4bmYxeUJldUJ6ZnZla1ZyZHhXdHhyOFZlcmtkeWptcUM4ZGE1NDg?oc=5",
-      "pubDate": "2026-10-29T05:01:06+09:00"
+      "title": "[날씨] 오늘도 추위 이어져‥오후 중부지방 비 시작해 전국 확대",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmbzhIMFgwVVdFZ1I0WHI2YVJLa096M3gwX2wwQUE0WUZ2b1Bhbl9oQzhkWkdOdUxMcEx1QXNLOXNaWXdOOFJYTDEtamZqN3RRMGhvZUpnS2ZzZ3pUSl9hRzVHV2FhbjI5bklEczFOZFhGdzZ4QzFB0gF3QVVfeXFMT3dJcG9DNmtHSzVjTHlsV1JIbGpKMFZaY25Hd2JZd1JkM3RTdVAzLVF0WGU3eWVRQ0lCdjc1SVdXTkRKeFdzZlMzUFA0T2h6Wng2UGdIS1BIY3VpN095T2p5STBfV2UwZmtPaVNURVZOeVlzZnk4cE0?oc=5",
+      "pubDate": "2026-10-29T00:04:41+09:00"
+    },
+    {
+      "title": "이스라엘 총선 ‘심판’ 없었다…네타냐후 진영, 과반은 실패할 듯",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sekN5TldmeC1vRmdLYmdLc3M2SE1OZ2V1NVFEa3RyaVQ0UTVqUzgyVlJVNUE1bE92R2dfY0Iza1dRUmNpckZqMDNVVkN2bWxtYWF4U3h3eTc3UzVFNXpsRFl1T3Q5b1hadnk5WmEwcVpjWFU?oc=5",
+      "pubDate": "2026-10-29T00:25:00+09:00"
     },
     {
       "title": "美중간선거 저울추는…\"불만 한가득 공화 지지자 '업셋 트럼프'\"",
@@ -44,76 +80,22 @@
       "pubDate": "2026-10-29T02:44:51+09:00"
     },
     {
-      "title": "유시민 \"윤석열 자기 집 다 해체…李대통령도 똑같이 해\"",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBV1ZreU00ek94SDRPRXZLQXVyOHVEZGhIZjJwYk9TLVgxRERBZEdvU0llaVJzaUgzdEd2UURPSmxvTkFkU05SV3g5M1N5S1lJODF2QVlEMUtTVk3SAWBBVV95cUxOUVBoRjVOTURhSFNhQzdnLTRmaWZwVkxjVzBqeXpfUjd0LWdLdkVOdXQ2N2EtYTdnbkxwYk9LbFZMVzM3TDBqQ1Q2SVZhNmlxTUF5cDlCMWZFQlQxcmRYZ24?oc=5",
-      "pubDate": "2026-10-28T23:16:10+09:00"
+      "title": "젤렌스키 \"3자 회담, 내달 6∼10일 내 열어야\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YWmZib0RvRk5uU2NQdFdFUWtDanVPazlEN05MZGgwQ1FRaWNNY3JFanliaHZkLVppalBETEkwek5BQkNsU2szWTRnT0dOenhPWjlPTXBVbzlEYktMcmh2dnhHSXo0c0xranlRZW1icFVIWG5G0gF0QVVfeXFMTVB2Y255NGdGdE9xSmU3WW0zVVlDSGNQWF9hOXVYUGxpcFQxWHh2UmNuazdVdk1EUGYyR1dISDJMekViZGhqRlA0Y1Bnd0l0YWRScUFvVzI3ZlNsaFV2YnZBUnNvTk5Qcm13Q1BOcUMzTFdubXo?oc=5",
+      "pubDate": "2026-10-29T03:41:17+09:00"
     },
     {
-      "title": "미국, 정청래 이어 진성준 국방위원장 비자 발급도 거부",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82UURyNHpqYWo1SGJkVGpqWVRSNEthRWI0WDBwN3RoZWZBVGNXY0FiMmZVUUdtemZ0RVNKWWlNenAwQ2s3enJ1NnRfZUFEWEJ5N3ZxVDRNejlJM2k5RzZiclRhdXV4TVdFLU1kcjdhUUxzVE9C?oc=5",
-      "pubDate": "2026-10-29T00:20:00+09:00"
-    },
-    {
-      "title": "‘전작권 환수 시기 결정’ 한-미 안보협의회의 내년 초 개최",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwVlpwVUxzTVZpbFI2MHJWZENuV3FnNGdGTDdnWk5SR0x0R2RNbVYwSmpSUVkweENZMWxqOGg5ZDFOTVZfTmdRRXFIek1pR05qWk9aVzhlV3gyczllM1R3WVppM1YzLW9h?oc=5",
-      "pubDate": "2026-10-29T00:22:00+09:00"
-    },
-    {
-      "title": "눈물 흘린 이태원 참사 외국인 유가족 …“조사 과정 소통도 어려워”",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IYXB0T3FsZnF3ekFtMWdiWk9tT01EakhaelZuUU1GbndwdGt3ZmdaUjNqMS1sTThtNExzaUp1aDlXNlhocThDdjQ1anl4S0J6cUJMV0V6WTdzTzN0TW9teEpjcXdhQQ?oc=5",
-      "pubDate": "2026-10-28T19:24:00+09:00"
-    },
-    {
-      "title": "스페인 톨레도 인근서 고속열차 추돌…최소 30명 사망, 한국인 2명 경상",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hWGNKdzZYWmFVTkYyUTJZLUpQRFVfMnBqSm02YVpsYWFoYlBCVFZZaHJFM1ZlQjZhd04wYkhXSmZZUnBOdllVSWg1WEF1YkQtLS1Da3FkWUZPTG90TmdSTFVQb1c2amFHMWdXdVh3?oc=5",
-      "pubDate": "2026-10-29T00:19:00+09:00"
-    },
-    {
-      "title": "\"美, 걸프국들에 '중간선거 후 짧고, 강력한 대이란 공격에 대비하라' 통보\"",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SVVI2cWdXQWR5d0tuT3RqaG0yUHpyVnlCMWs4a0lqOHRqVXlQVmhPZm1pN1h2TUtHVnFmcS1qeHVvVlcwbTV6cWZQMmdvQ1NoQ3JiWUJhZXR2OUhk?oc=5",
-      "pubDate": "2026-10-28T15:25:00+09:00"
-    },
-    {
-      "title": "이스라엘 총선 과반정당 안나와…네타냐후 집권 ‘일단 연장’",
-      "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LMHNBSGlsSWdraGhBRlo5RWNQRzNhMFNKOGJGR0hmT1A4dmwyUkc3VE9BcWdWNDlfLWJacmhXd0dPYVpnQXU5NHpWM2ZCRDVmLWVZMmRXNlhnVnFJM2Y4LVQ2aVhkVk5zVXFOVVFVQ2JqUEHSAWZBVV95cUxOd294MHlDS0RlRUpNNmpZTklPSVRfZ0dMODBYT0h5X1A3cENlN1lhOFEzM0F5LXdHZjh4bUZsd3lCRF9obk5VQ01RMzA3ejN1WFJEWkdqZWtIZEJwX1kwS0cwYi1FVUE?oc=5",
-      "pubDate": "2026-10-28T20:39:00+09:00"
-    },
-    {
-      "title": "젤렌스키 \"3자 회담, 다음 달 6~10일 내 열어야\"…크렘린은 신중",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xLVJaN0hKQ2lyb1hNaVdxX1cyaVhOVV8xdmYwb2Ruam5idjQ2N2x5Q3NTSXgyOFo3czV6LXIwV0tidnBWRkZzY25iYUhKR3U4d2wxQXBMQVdDOXZxbm5seTB4N3pxdFE?oc=5",
-      "pubDate": "2026-10-29T03:51:00+09:00"
+      "title": "뉴욕증시, 연준 금리 동결 속 일제히 상승‥오라클 11%↑",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjZmN5NHd5SlkxZ2xYR1Z3Q01VZ3hoSFJLWGFOeGNNcERaU2NTNlAzVlA3dmRvMGhZTTBhZGxqcUhOTjB1NDNCZEsxTjlGYjdwNHVYVmxOQ3Bzb1g0SlRNdkdzQlFocjNieDdDODRVem12V0150gF0QVVfeXFMTVVIcHdSdWdCa0lLN0otcXVTSnlqckoyaEl5bVZiLTJVMHRVUHNCNW94M3E1Zm1YXzI2UjlWNzhKT29pRHU1WXdsU053d2FkQ1BfY0tkcUE2WUU4U3lBSWZIMUhDT3JROUF6RVBhalNGUjhKbzk?oc=5",
+      "pubDate": "2026-10-29T06:18:03+09:00"
     },
     {
       "title": "하이닉스 “2030년까지 반도체 공급부족”…4분기 ‘영업익 100조’ 전망도",
       "source": "한겨레",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00RUxjTWZVMUZlVXBmT2U5LVpKRmNrd2VyNlpiSkdmTDduajBVVjNmMjVFTlVSVE1XdFRkRDZWWXRrYjZZQUVpTEdXMjhJSnJtbGVFOGdTdWpJMzFHeTctZ09xT3pHbVowV3c?oc=5",
       "pubDate": "2026-10-29T00:23:00+09:00"
-    },
-    {
-      "title": "미 연준, 기준금리 3.75~4% 동결…속도 조절",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTHFuTFdTV21IWHRhalRjQkpBZDBfSTRtcVROSU16LWRnX0xVeXF5VGlfdV90TzItdUFIanRxTnpXUFRmeVBZY2VuUkVodXlVbWR0QXp2RzVXSlJfV3ZuMFM1Y0lvUk0?oc=5",
-      "pubDate": "2026-10-29T05:09:00+09:00"
-    },
-    {
-      "title": "[뉴욕증시-1보] 워시의 인플레 낙관론…상승 마감",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMlpuZ2R6OVh3Z1BEY0d3WWpkcjhOYkxGNDBIcEkwc0pyc0VOdlJKX1YwRDBKa1RrWlVZZFlUUi0yTEo0QmdXYkJSU2RkMHhraDRNN0loSDFfbUF4el9iaFVNRVJOTGdOdVlxZ3BIMVLSAXRBVV95cUxQOXM4WEthWWdrb2FjQm4yNENrNXFORm93VEwzcmt2dHNpeUtpenhrV0xlUU5pTDh5Qm03VERiMUh1SC1jdXVmYmxzclVCcE9KbTdGc3kyNld6WlQxNFZCNEpQUFZSd2VmcUpNUGp1aUEyYVVEaw?oc=5",
-      "pubDate": "2026-10-29T05:16:45+09:00"
-    },
-    {
-      "title": "애플, 첫 터치스크린 맥북 공개…하드웨어 전략 변화 신호",
-      "source": "블로터",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81ZVdxVUtxblJPMHFYV2IzZWVVY3pmZzhQelZ1eFRoeVBEQV9aUHRZOU1DY0Z6YmI0RGx5TG1vWUkyNmU2UGVoSUQ0X2YwUUwtMVZhUUlGM1dja2FmNHVRZ25vcURjXzlG0gFsQVVfeXFMTUNDNEUwSndLWTMyczRjSndnNDlwZWtkTkpQWjROdkp5dXF5bmxUNV8zVHhOTkRsNVEyZTlyYkJJY0ctZ05nVl93MzRSNnZONE1Iam14Wm1qMmRNaFdUalpfbG5MRFpnVkNYRUVr?oc=5",
-      "pubDate": "2026-10-29T03:19:31+09:00"
     },
     {
       "title": "중력장도 끊어졌다가 다시 붙는다…'중력 재결합' 이론 규명",
@@ -154,260 +136,229 @@
     {
       "title": "재미교포 신인 드래프트 뚫고 V리그 첫 입성… 오드리 박 “난 100% 한국인”",
       "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04MjA0ck1nTm5DQWNUalNsSDl0M1RlVXYyR2F0ZkFBT2N4dEFkLXdtSVkxZ3BySEE3ZWJIMFpWc3JNb1RoenNGWVR5RTI5d241dl9KUjlSUjhHazFxY1NHQURuanhnZS1BVjhUU0k0U014cHFL?oc=5",
-      "pubDate": "2026-10-29T04:30:00+09:00"
-    },
-    {
-      "title": "‘최고령이 만든 최고의 하루’ 가을야구 주인공 삼성 최형우",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84N29DUFptY1ZSaDFWTlVjamFtdThkc2pweHd3b2pWcklUdEJUdmlsdHNwT0VMUlg0TW1LWkpXeldYVW85SlkyNTFOdTMxUHFBcVpPOWxQai1fcFU?oc=5",
-      "pubDate": "2026-10-28T21:51:00+09:00"
-    },
-    {
-      "title": "움직이는 몸이 새로운 뇌와 뉴런을 만든다 [뇌·몸·학습의 베리타스]",
-      "source": "한국일보",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fSFRMQmVKZkV6U21QbzIxTVloaDlIRU40ejN3WEVnWEowZnA4ZjdKaDZWY0w1c0JkajdxS1BtZFR4S0VYWEVlYjI3LUd2SHl6Qkt5SHAtRXRsRy1ZMm5LVGRKOTNQSDdIamxDN3BB0gFzQVVfeXFMTnZOVUVza1dRZ1AwOG53MnIzeVpyN3Z1S0VsQ1Jjb0ZwWDlYU05OMWtpUjFzeUxVOHV2eDlfNnFLMFdaeEVQXzUzZDNnQlpMemdYMi1BaUFybU55ZmpOLWZyTW92aEtHVEI1bVFzeDJCUUpMSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04MjA0ck1nTm5DQWNUalNsSDl0M1RlVXYyR2F0ZkFBT2N4dEFkLXdtSVkxZ3BySEE3ZWJIMFpWc3JNb1RoenNGWVR5RTI5d241dl9KUjlSUjhHazFxY1NHQURuanhnZS1BVjhUU0k0U014cHFL0gFmQVVfeXFMTlpleWJtbFpxUTIxSlhPbGJKS21pVndrbkRUYm44X2h0YzFHVVpJOEp0ajBLc3IxbENZOWNEN1p2VDV4QTlYZ1hBUXRFN29CUVlyZGpaRVJxelpuRHRGVW04a3BKMnF3?oc=5",
       "pubDate": "2026-10-29T04:30:00+09:00"
     }
   ],
   "trends": [
     {
-      "term": "농지",
-      "pubDate": "2026-10-29T04:50:00+09:00",
+      "term": "김하성",
+      "pubDate": "2026-10-29T05:40:00+09:00",
       "newsItems": [
         {
-          "title": "李, ‘농지조사는 장관 제안’ 논란에 “칭찬 삼아 한 말, 언론이 문제”",
+          "title": "김하성 한국 돌아와야 하나, 265억 먹튀 논란→美 역대급 혹평 떴다 “KIM 최악의 FA 영입 사례, 재계약 반대한다”",
           "snippet": "",
-          "url": "https://www.chosun.com/politics/politics_general/2026/10/28/DECDHIIKVZHU7BD4F3UBILLGW4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"개방 이익, 농어민과 나눠야\"…CPTPP 가입 해법은",
-          "snippet": "",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01479286645617840",
-          "source": "마켓인"
-        },
-        {
-          "title": "이 대통령 “짜장면 좋다는 건 짬뽕 폄훼···대통령 욕하는 게 국민스포츠이던 그때가 떠오른다”",
-          "snippet": "",
-          "url": "https://www.khan.co.kr/article/202610280831001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "term": "혈당",
-      "pubDate": "2026-10-29T04:50:00+09:00",
-      "newsItems": [
-        {
-          "title": "“단백질 풍부한데 혈당까지 잡는다?”… 잘 몰랐던 렌틸콩 건강 효능 4가지",
-          "snippet": "",
-          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=69245",
-          "source": "하이닥"
-        },
-        {
-          "title": "이영자가 만든 ‘단백질 한 그릇’… 카레에 듬뿍 넣은 ‘의외의 재료’",
-          "snippet": "",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/10/20/2026102001139.html",
-          "source": "헬스조선"
-        },
-        {
-          "title": "“크기만 보고 삶으면 될까?”…렌틸콩·병아리콩 준비법",
-          "snippet": "",
-          "url": "https://www.jejutwn.com/news/article.html?no=464542",
-          "source": "제주교통복지신문"
-        }
-      ]
-    },
-    {
-      "term": "본머스 대 애스턴 빌라",
-      "pubDate": "2026-10-29T04:30:00+09:00",
-      "newsItems": [
-        {
-          "title": "카라바오컵 본머스 대 아스톤 빌라 축구 예측",
-          "snippet": "",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-bournemouth-vs-aston-villa-tai-carabao-cup-1790133.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "본머스 vs 아스톤 빌라 예측: 승리 시 다음 라운드 진출",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-bournemouth-vs-aston-villa-thang-de-di-tiep",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "경기 프리뷰: 본머스 vs 아스톤 빌라, 10월 29일 오전 2시 45분: 다음 라운드 진출을 위한 예측 불가능한 티켓.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-bournemouth-vs-aston-villa-2h45-ngay-29-10-tam-ve-kho-luong",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "term": "김혜성",
-      "pubDate": "2026-10-29T04:30:00+09:00",
-      "newsItems": [
-        {
-          "title": "\"김혜성 주전은 최악\"이라더니…美 매체 하루 만에 정반대 평가 \"노쇠한 다저스에 정확히 필요한 선수\"",
-          "snippet": "",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/29/GBRDKMZTHFSDQMLCGUYDGNBTGE/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"성장 못하면 설자리 잃을 수도\" 김혜성 향한 다저스 기대감 여전히 크지만, 증명 못하면 칼바람이다",
-          "snippet": "",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015987",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "김혜성 충격 트레이드설 떴다, 다저스 파격 결단 내리나…\"KIM 다저스 떠날까, 초특급 유망주 기회 주려면 보내야\"",
-          "snippet": "",
-          "url": "https://m.news.nate.com/view/20261022n03639?issue_sq=9298",
-          "source": "네이트"
-        }
-      ]
-    },
-    {
-      "term": "이데일리",
-      "pubDate": "2026-10-29T04:30:00+09:00",
-      "newsItems": [
-        {
-          "title": "[이슈분석]月 500만원 준다는 '농촌 일자리'…1만명에 1500억, 효과는 미지수",
-          "snippet": "",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05703926645617512&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "이 대통령 '외국인 노동자·다문화' 발언 논란...진보진영 반발",
-          "snippet": "",
-          "url": "https://www.ytn.co.kr/_ln/0101_202610290509118847",
-          "source": "YTN"
-        },
-        {
-          "title": "'일당 13만원' 불체자도 바글바글…\"외국인 없으면 다 멈출 판\"",
-          "snippet": "",
-          "url": "https://www.hankyung.com/article/2026102813991",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "term": "리버풀 대 첼시",
-      "pubDate": "2026-10-29T04:10:00+09:00",
-      "newsItems": [
-        {
-          "title": "[오피셜] '벼랑 끝' 맨유 대형 호재! '첼시 NO.9' 주앙 페드로, 허벅지 부상으로 이탈...알론소 \"몇 주 동안 경기 출전 불가\"",
-          "snippet": "",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697357",
-          "source": "인터풋볼"
-        },
-        {
-          "title": "토트넘전 패배도 서러운데 ‘최다 득점자’도 부상이라니… 난관 봉착한 첼시 알론소 감독, “변명 아닌 해결책 찾아야 한다”",
-          "snippet": "",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313539",
-          "source": "베스트일레븐"
-        },
-        {
-          "title": "사비 알론소, 안필드 복귀: 리버풀과의 미완의 인연",
-          "snippet": "",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/xabi-alonso-tro-lai-anfield-moi-luong-duyen-dang-do-voi-liverpool-1790764.ldo",
-          "source": "Laodong.vn"
-        }
-      ]
-    },
-    {
-      "term": "황희찬",
-      "pubDate": "2026-10-29T04:00:00+09:00",
-      "newsItems": [
-        {
-          "title": "모레노, 11월 마지막 시험대에 '96라인' 부를까?",
-          "snippet": "",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610282320079932",
-          "source": "YTN"
-        },
-        {
-          "title": "'풀타임 소화' 황희찬, '부상 복귀' 김민재, 11월 A매치 소집될까...오늘(29일) 명단 발표",
-          "snippet": "",
-          "url": "https://www.osen.co.kr/article/G1112900014",
+          "url": "https://www.osen.co.kr/article/G1112898862",
           "source": "OSEN"
         },
         {
-          "title": "'은퇴 소동' 그냥 덮고 갈 수 없다... 한 달 만에 입 여는 모레노, 손흥민·김민재 등 '갈등 논란'에 어떤 답 내놓을까 - 머니투데이",
+          "title": "\"265억 유격수, 차라리 없는게 낫다\" 부상보다 더 큰 교훈? 한층 더 차가워진 김하성 현지 여론",
           "snippet": "",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102904324360862",
-          "source": "머니투데이"
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/27/G5QTCZBWGRRGIMBZMMYWKNLDHE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'또 한국 선수 괴롭히나' 트레이드 영입 강력 주장, \"270억짜리 실책\" 김하성 위험하다",
+          "snippet": "",
+          "url": "https://www.sportschosun.com/baseball/2026-10-29/202610290100183660012418",
+          "source": "스포츠조선"
         }
       ]
     },
     {
-      "term": "바이에른 대 fc 마그데부르크",
-      "pubDate": "2026-10-29T03:50:00+09:00",
+      "term": "메이저 리그 베이스볼",
+      "pubDate": "2026-10-29T05:40:00+09:00",
       "newsItems": [
         {
-          "title": "Preview: Bayern, vs. 1. FC Magdeburg, DFB Cup",
+          "title": "Rallying Rays join rare company by forcing Game 5 facing 3-0 deficit",
           "snippet": "",
-          "url": "https://fcbayern.com/en/news/matchpreviews/2026/10/preview-bayern-vs.-magdeburg-dfb-cup-second-round",
-          "source": "FC Bayern"
+          "url": "https://www.mlb.com/news/stats-facts-from-rays-win-2026-world-series-game-4",
+          "source": "MLB.com"
         },
         {
-          "title": "Bayern Munich vs. Magdeburg Lineups, Live Streaming, How & Where to Watch DFB-Pokal on TV",
+          "title": "Rays 4-3 Brewers (Oct 27, 2026) Game Recap",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/bayern-munich-vs-magdeburg-lineups-170000648.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.espn.com/mlb/recap?gameId=401908045",
+          "source": "ESPN"
         },
         {
-          "title": "Bayern Munich vs Magdeburg: German DFB Pokal stats & head-to-head",
+          "title": "Ben Williamson, rest of bench save Rays’ World Series hopes",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/cqe9l1yej078t",
-          "source": "BBC"
+          "url": "https://www.tampabay.com/sports/rays/2026/10/28/ben-williamson-nick-fortes-cedric-mullins-world-series-game-4/",
+          "source": "Tampa Bay Times"
         }
       ]
     },
     {
-      "term": "국채",
-      "pubDate": "2026-10-29T03:50:00+09:00",
+      "term": "자동차",
+      "pubDate": "2026-10-29T05:30:00+09:00",
       "newsItems": [
         {
-          "title": "국채금리 5% 육박해도 사모시장으로…보험사 돈이 몰린다 [김주완의 글로벌머니 X파일]",
+          "title": "삼성전자 브랜드 가치 7년 연속 세계 5위",
           "snippet": "",
-          "url": "https://www.hankyung.com/article/202610280080i",
-          "source": "한국경제"
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/28/OVWUUTAMFFCX7GCSEHZH2LNYQ4/",
+          "source": "조선일보"
         },
         {
-          "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합2보)",
+          "title": "현대차 브랜드 가치 33조원…글로벌 브랜드 29위·첫 자동차 4위",
           "snippet": "",
-          "url": "https://www.yna.co.kr/view/AKR20261029002952071",
+          "url": "https://www.yna.co.kr/view/AKR20261028051600003",
           "source": "연합뉴스"
         },
         {
-          "title": "미국 연준, 금리 동결하며 '숨 고르기'...케빈 워시 연준 의장 \"한국 경제에 많은 관심\"",
+          "title": "완성차 넘어 기술기업으로 인정받은 현대차…글로벌 브랜드 20위권 첫 진입",
           "snippet": "",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610290521033608",
-          "source": "YTN"
+          "url": "https://www.donga.com/news/Economy/article/all/20261028/134925822/1",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "term": "맨 시티 대 브라이턴",
-      "pubDate": "2026-10-29T03:40:00+09:00",
+      "term": "풀럼 대 크리스털 팰리스",
+      "pubDate": "2026-10-29T05:30:00+09:00",
       "newsItems": [
         {
-          "title": "EFL Cup last 16 LIVE: Liverpool vs Chelsea plus four other games - build-up, team news, score, radio commentary, text updates & match stats",
+          "title": "카라바오컵 풀럼 대 크리스탈 팰리스 경기 예측",
           "snippet": "",
-          "url": "https://www.bbc.com/sport/football/live/crz98pe8v2gqt",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fulham-vs-crystal-palace-tai-carabao-cup-1790701.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "경기 프리뷰: 풀럼 vs 크리스탈 팰리스, 10월 29일 오전 2시 45분: 더비 경기가 예상치 못한 방향으로 흘러간다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fulham-vs-crystal-palace-2h45-ngay-29-10-derby-doi-chieu",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "EFL컵: 풀럼은 축배를 들 수 있을 것인가?",
+          "snippet": "",
+          "url": "https://sbotopkr.tistory.com/2645",
+          "source": "티스토리"
+        }
+      ]
+    },
+    {
+      "term": "iphone",
+      "pubDate": "2026-10-29T05:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke.",
+          "snippet": "",
+          "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-broken-hinge-screen-31b2b28a",
+          "source": "WSJ"
+        },
+        {
+          "title": "iPhone Duo owners say Apple's new foldable phone broke within hours of purchase",
+          "snippet": "",
+          "url": "https://www.cbsnews.com/news/iphone-duo-owners-report-cracked-screens-apple-foldable/",
+          "source": "CBS News"
+        },
+        {
+          "title": "Apple says it will replace iPhone Duo units showing screen problems",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/media-telecom/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-2026-10-26/",
+          "source": "Reuters"
+        }
+      ]
+    },
+    {
+      "term": "경찰",
+      "pubDate": "2026-10-29T05:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "소아응급실 지켰던 이주영 의원 \"절망적 현실, 참담하다\"",
+          "snippet": "",
+          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=166986",
+          "source": "의협신문"
+        },
+        {
+          "title": "‘진료중 응급센터 압수수색’ 경찰에 항의… 아주대병원 소아전문의 7명 사직 의사",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Society/article/all/20261029/134928721/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "野, 소아응급의 사의표명에 \"警수사 감찰해야…의료현장 공포로\"",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261028186000001",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "term": "새마을금고",
+      "pubDate": "2026-10-29T05:20:00+09:00",
+      "newsItems": []
+    },
+    {
+      "term": "liverpool vs chelsea",
+      "pubDate": "2026-10-29T05:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "Liverpool vs Chelsea: League Cup stats & head-to-head",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/c69wz7x4jq71t",
           "source": "BBC"
         },
         {
-          "title": "Manchester City vs Brighton Confirmed Lineups",
+          "title": "Alonso: ‘I support my team and fight for my club’ | News | Official Site",
           "snippet": "",
-          "url": "https://www.whoscored.com/news/ACIpB6qaMUuuKK6AJYmaDA/show/cng112-20261028-manchester-city-vs-brighton-confirmed-lineup-1793211937",
-          "source": "WhoScored.com"
+          "url": "https://www.chelseafc.com/en/news/article/alonso-i-support-my-team-and-fight-for-my-club",
+          "source": "Chelsea Football Club"
         },
         {
-          "title": "Nunes, Ndiaye, Semenyo - Man City injury news and return dates ahead of Brighton tie",
+          "title": "Liverpool boss Andoni Iraola reveals 'addictive' taste for victory ahead of Carabao Cup clash with Xabi Alonso's Chelsea",
           "snippet": "",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/nunes-ndiaye-semenyo-man-city-34825044",
-          "source": "Manchester Evening News"
+          "url": "https://www.goal.com/en-sa/news/liverpool-andoni-iraola-carabao-cup-xabi-alonso-chelsea/bltfa756a3fc8f86324",
+          "source": "Goal.com"
+        }
+      ]
+    },
+    {
+      "term": "단풍",
+      "pubDate": "2026-10-29T05:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "숲길 따라 꽃길 따라, 율곡수목원과 율곡습지공원에서 만나는 가을",
+          "snippet": "",
+          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202610270030483807C056&s_code=C056",
+          "source": "경기도뉴스포털"
+        },
+        {
+          "title": "(라이프) 우리 동네 단풍은 언제? ‘2026 단풍지도·한반도 단풍절정 검색서비스’로 고민 해결",
+          "snippet": "",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373881",
+          "source": "전기신문"
+        },
+        {
+          "title": "단풍과 가을꽃, 축제가 있는 수목원으로 오세요",
+          "snippet": "",
+          "url": "https://www.chosun.com/special/special_section/2026/10/28/6BAETGVR7FGR5HCY35JT2F6SWY/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "term": "ลิเวอร์พูล พบ เชลซี",
+      "pubDate": "2026-10-29T05:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "ทำนายผลการแข่งขันลิเวอร์พูล vs เชลซี: ชนะเพื่อผ่านเข้ารอบ",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-liverpool-vs-chelsea-thang-de-di-tiep",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ เชลซี บอลวันนี้ ถ่ายทอดสด 03.00 น. คาราบาว คัพ 2026-27",
+          "snippet": "",
+          "url": "https://www.thairath.co.th/sport/eurofootball/carabao-cup/2968399",
+          "source": "Thairath.co.th"
+        },
+        {
+          "title": "บอลวันนี้ โปรแกรมบอล ดูบอลสด ถ่ายทอดสด วันพุธที่ 28 ต.ค. 69",
+          "snippet": "",
+          "url": "https://www.posttoday.com/lifestyle/751034",
+          "source": "posttoday"
         }
       ]
     }
@@ -415,13 +366,13 @@
   "nate": [
     {
       "rank": 1,
-      "title": "올림픽공원 투표지 검증 12시간만 종료…\"상당수 추가분석 필요\"",
-      "link": "https://news.nate.com/view/20261029n00551"
+      "title": "[단독] 드라마 '카지노' 제작사 대표, 4개월째 행방 불명",
+      "link": "https://news.nate.com/view/20261029n01642"
     },
     {
       "rank": 2,
-      "title": "김민 '나혼산' 후 사생활 잃었다 \"동두천 집에 사람들 찾아와\" 마당 진...",
-      "link": "https://news.nate.com/view/20261028n41658"
+      "title": "올림픽공원 투표지 검증 12시간만 종료…\"상당수 추가분석 필요\"",
+      "link": "https://news.nate.com/view/20261029n00551"
     },
     {
       "rank": 3,
@@ -430,88 +381,88 @@
     },
     {
       "rank": 4,
-      "title": "난리 났던 거미 얼굴, 2주 만에 싹 변했다…혈색 돌아온 '디바' 미모 ...",
-      "link": "https://news.nate.com/view/20261028n40401"
+      "title": "김민 '나혼산' 후 사생활 잃었다 \"동두천 집에 사람들 찾아와\" 마당 진...",
+      "link": "https://news.nate.com/view/20261028n41658"
     },
     {
       "rank": 5,
-      "title": "후배 역무원에 목 수차례 찔렸다…\"평소 다툼 없었는데\"",
-      "link": "https://news.nate.com/view/20261028n39100"
+      "title": "신민아 \"청룡서 김우빈, 이광수 옆자리…불안함 엄습\" (유퀴즈)",
+      "link": "https://news.nate.com/view/20261029n00695"
     },
     {
       "rank": 6,
+      "title": "솔비, ♥이규한 프러포즈 실망했나 \"행복했지만…크리스마스 기대 중\"",
+      "link": "https://news.nate.com/view/20261029n01614"
+    },
+    {
+      "rank": 7,
+      "title": "\"나를 죽일까 봐 먼저 죽였다\"…잠자던 60대 환자 소화기로 살해한 70대",
+      "link": "https://news.nate.com/view/20261029n01878"
+    },
+    {
+      "rank": 8,
       "title": "이택근 유튜브에 탄로난 롯데의 거짓말",
       "link": "https://news.nate.com/view/20261028n41984"
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "title": "자정 넘긴 247만장 투표지 검증…떠나는 특검에 \"원천무효\" 외침",
+      "link": "https://news.nate.com/view/20261029n00860"
+    },
+    {
+      "rank": 10,
       "title": "유튜브 '짠한형 신동엽' 제작사, 75억 매각 열흘 만에 흡수합병…법인 소멸",
       "link": "https://news.nate.com/view/20261028n03426"
     },
     {
-      "rank": 8,
-      "title": "잠든 후배 여경 태우고 인천서 속초까지…30대 경찰 대기발령",
-      "link": "https://news.nate.com/view/20261028n38595"
-    },
-    {
-      "rank": 9,
-      "title": "'처가 절연' 이승기, 논란 의식했나…\"요새 너무 인기 없어 보여\" 셀프 ...",
-      "link": "https://news.nate.com/view/20261028n41512"
-    },
-    {
-      "rank": 10,
-      "title": "'여고생 살해' 장윤기 부친 \"착한 아들이…\" 법원서 나온 후 한 말",
-      "link": "https://news.nate.com/view/20261028n40305"
-    },
-    {
       "rank": 11,
-      "title": "\"죽은 것 같아요\"…반지하 숨진 여성 '충격의 홈캠'",
-      "link": "https://news.nate.com/view/20261028n06658"
-    },
-    {
-      "rank": 12,
       "title": "[밀착카메라] 찹쌀떡 사려고 '11시간 대기'…기자도 기다려봤습니다",
       "link": "https://news.nate.com/view/20261028n39851"
     },
     {
+      "rank": 12,
+      "title": "\"다른 남자 만날까 봐\"…잠든 아내 얼굴에 끓는 물 부은 남편, 형량 줄어든...",
+      "link": "https://news.nate.com/view/20261029n00877"
+    },
+    {
       "rank": 13,
-      "title": "\"지금 사도 주당 2만원 배당\"…하닉 통 큰 선물에 '6천피' 탈환",
-      "link": "https://news.nate.com/view/20261028n38701"
+      "title": "후배 역무원에 목 수차례 찔렸다…\"평소 다툼 없었는데\"",
+      "link": "https://news.nate.com/view/20261028n39100"
     },
     {
       "rank": 14,
-      "title": "'아내 친구와 뒷골목 음란행위' 영상 퍼져 이혼당한 럭비스타, 그런데 새 ...",
-      "link": "https://news.nate.com/view/20261029n00174"
+      "title": "잠든 후배 여경 태우고 인천서 속초까지…30대 경찰 대기발령",
+      "link": "https://news.nate.com/view/20261028n38595"
     },
     {
       "rank": 15,
-      "title": "\"중국산인 줄 알았으면 우리 애 안 먹였죠\"…눈뜨고 당했다",
-      "link": "https://news.nate.com/view/20261028n02677"
+      "title": "'여고생 살해' 장윤기 부친 \"착한 아들이…\" 법원서 나온 후 한 말",
+      "link": "https://news.nate.com/view/20261028n40305"
     },
     {
       "rank": 16,
+      "title": "\"학폭 가해자들, 졸업 잘 시켜 보디가드로 쓰면 돼\"…교장 말에 분노",
+      "link": "https://news.nate.com/view/20261029n02199"
+    },
+    {
+      "rank": 17,
+      "title": "\"죽은 것 같아요\"…반지하 숨진 여성 '충격의 홈캠'",
+      "link": "https://news.nate.com/view/20261028n06658"
+    },
+    {
+      "rank": 18,
       "title": "\"바퀴벌레 아냐?\" 경악…몸에 좋다는 에그타르트 '반전 정체' [월드픽]",
       "link": "https://news.nate.com/view/20261028n03438"
     },
     {
-      "rank": 17,
-      "title": "\"소시지 토핑 좀 넣었더니\"…카레 먹으려던 회사원 '화들짝' [도쿄나우]",
-      "link": "https://news.nate.com/view/20261028n03682"
-    },
-    {
-      "rank": 18,
-      "title": "\"금값 폭락하자 기다렸다는 듯\"…중국인들 일주일 새 금 430톤 거래",
-      "link": "https://news.nate.com/view/20261028n05741"
-    },
-    {
       "rank": 19,
-      "title": "아보카도에 맞아 숨졌다…생후 12일 신생아 비극, 무슨 일",
-      "link": "https://news.nate.com/view/20261028n03497"
+      "title": "\"맛있는 거 사줘요\"…지옥철에 지친 만삭 임산부 울린 할머니",
+      "link": "https://news.nate.com/view/20261028n41281"
     },
     {
       "rank": 20,
-      "title": "계좌에 월 1000만원 꽂힌다…국장 고수 확신한 '833% 종목'",
-      "link": "https://news.nate.com/view/20261028n12225"
+      "title": "\"지금 사도 주당 2만원 배당\"…하닉 통 큰 선물에 '6천피' 탈환",
+      "link": "https://news.nate.com/view/20261028n38701"
     }
   ]
 }
