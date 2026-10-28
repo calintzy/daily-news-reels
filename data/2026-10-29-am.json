@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-29",
+  "slot": "am",
+  "hookLine": "한국인도 탄 스페인 열차가 충돌했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "스페인 고속열차 참사",
+      "title": "스페인 열차 충돌, 한국인 2명 부상 확인",
+      "summary": "스페인에서 고속열차 두 대가 충돌하는 대형 사고가 발생해 다수 사망자가 나왔습니다. 현장에 있던 한국인 탑승객 중 부상자는 2명으로 확인됐습니다.",
+      "narration": "스페인 열차 충돌로 한국인 2명이 부상을 입었습니다.",
+      "sourceTitle": "스페인 열차 충돌…한국인 부상자는 2명",
+      "sourceDesc": "스페인에서 고속열차 두 대가 추돌해 수십 명이 사망했으며, 한국인 탑승객 가운데 부상자는 2명으로 최종 집계됐다. 주스페인 대사관이 현장 영사를 파견해 현지에서 직접 확인한 결과다.",
+      "sourceLink": "https://www.segye.com/newsView/20261029500566",
+      "sourceDate": "2026-10-29",
+      "imagePrompt": "Twisted and crumpled high-speed train carriages derailed on a Spanish railway track, emergency rescue vehicles and floodlights visible in the dark background, broken glass and debris scattered across the ballast. No people, no text. Vertical 9:16 composition, photojournalism style, dramatic low light."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "강남 구룡마을 화재",
+      "title": "구룡마을 화재 12시간 만에 완진, 이재민 속출",
+      "summary": "서울 강남구 구룡마을에서 발생한 대형 화재가 12시간 50분 만에 완전히 진화됐습니다. 수십 가구가 피해를 입어 이재민 지원이 이어지고 있습니다.",
+      "sourceTitle": "밤새 이어진 구룡마을 화재…12시간50분 만에 완진",
+      "sourceDesc": "서울 강남구 구룡마을에서 전날 오후 발생한 화재가 12시간 50분 만에 완전히 진화됐다. 소방 당국은 28일 새벽 4시 39분께 완전 진화 후 대응 1단계를 해제했다. 77가구 107명이 피해를 본 것으로 잠정 집계됐다.",
+      "sourceLink": "https://www.hankyung.com/article/2026102891887",
+      "sourceDate": "2026-10-28",
+      "imagePrompt": "Charred and collapsed makeshift wooden structures in an urban hillside settlement at dawn, smoldering embers glowing orange against a blackened landscape, fire trucks parked at the perimeter. No people, no text. Vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "금융권 보안 참사",
+      "title": "빗썸·대신증권·미래에셋운용 동시 해킹",
+      "summary": "국내 주요 금융사인 빗썸·대신증권·미래에셋운용에서 잇따라 해킹 피해가 확인됐습니다. 금융당국이 긴급 현장점검에 착수하고 피해 경위를 조사하고 있습니다.",
+      "sourceTitle": "빗썸·대신증권·미래에셋운용 뚫렸다…금융권 보안 참사",
+      "sourceDesc": "빗썸과 대신증권, 미래에셋자산운용에서 잇따라 해킹으로 인한 정보 유출이 확인됐다. 대신증권에서는 고객 개인·신용정보가 유출됐으며, 빗썸과 미래에셋운용에서도 외부 비인가 접근이 발생했다. 금융감독원이 긴급 현장점검팀을 파견했다.",
+      "sourceLink": "https://www.hankyung.com/article/2026102800026",
+      "sourceDate": "2026-10-28",
+      "imagePrompt": "Glowing blue server racks in a dark data center, a blinking red warning light casting harsh shadows, code reflected on polished metal surfaces. No people, no text. Vertical 9:16 composition, documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "반도체 신기록",
+      "title": "SK하이닉스, 분기 매출 사상 첫 100조 돌파",
+      "summary": "SK하이닉스가 올해 3분기 분기 매출 100조 원을 처음으로 돌파했습니다. 반도체 호황 속 역대 최대 실적을 기록했습니다.",
+      "sourceTitle": "[속보] SK하이닉스, 3분기 매출 104조·영업익 83조",
+      "sourceDesc": "SK하이닉스가 2026년 3분기 잠정 연결 실적을 발표했다. 매출은 104조 원으로 분기 기준 처음으로 100조 원을 돌파했으며, 영업이익은 83조 원으로 역대 최대치를 기록했다. HBM4 출하 확대와 서버 D램 수요 급증이 실적을 이끌었다.",
+      "sourceLink": "https://zdnet.co.kr/view/?no=20261028080340",
+      "sourceDate": "2026-10-28",
+      "imagePrompt": "Rows of semiconductor wafers on robotic arms inside a clean room, illuminated by ultraviolet light, microscopic circuit patterns visible on polished surfaces. No people, no text. Vertical 9:16 composition, photojournalism style, cool blue and white tones."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-29 아침 브리핑\n\n1. 스페인 열차 충돌, 한국인 2명 부상 확인\n2. 구룡마을 화재 12시간 만에 완진, 이재민 속출\n3. 빗썸·대신증권·미래에셋운용 동시 해킹\n4. SK하이닉스, 분기 매출 사상 첫 100조 돌파\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑 #반도체 #국제뉴스\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
