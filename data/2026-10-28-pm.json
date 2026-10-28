@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-28",
+  "slot": "pm",
+  "hookLine": "투표지 247만장, 오늘 특검이 들어갔습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사법·정치",
+      "kicker": "선관위 특검",
+      "title": "선관위 특검, 투표지 247만장 현장검증 돌입",
+      "summary": "선관위 특검이 올림픽공원 경기장에 진입해 투표지 247만장 검증을 시작했습니다. 참관인 반발로 2시간 지연됐지만 방송사 카메라 2대 촬영을 허용하며 진행됐습니다.",
+      "narration": "선관위 특검이 오늘 투표지 검증에 돌입했습니다.",
+      "sourceTitle": "선관위 특검, 올공 경기장 진입… 247만장 투표지 검증 돌입",
+      "sourceDesc": "선관위 특검이 28일 오전 올림픽공원 경기장에 진입해 투표지 247만장에 대한 임의 검증에 돌입했다. 참관인 반발로 2시간가량 지연된 끝에 시작됐으며, 방송사 카메라 2대 촬영이 허용됐다.",
+      "sourceLink": "https://www.fnnews.com/news/202610280851406989",
+      "sourceDate": "2026-10-28",
+      "imagePrompt": "Close-up of stacked official ballot papers inside a large secured arena storage area, dramatic overhead lighting casting sharp shadows across pale paper stacks behind metal barriers, empty venue seating blurred in background, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "경제·산업",
+      "kicker": "SK하이닉스 실적",
+      "title": "SK하이닉스 3분기 영업이익 83.3조 어닝 서프라이즈",
+      "summary": "SK하이닉스가 3분기 영업이익 83.3조 원을 기록하며 어닝 서프라이즈를 달성했습니다. 매출은 100조 원을 처음으로 돌파했습니다.",
+      "sourceTitle": "[속보]SK하이닉스, 3분기 영업이익 83.3조…'어닝 서프라이즈'",
+      "sourceDesc": "SK하이닉스가 28일 3분기 영업이익 83.3조 원을 기록하며 어닝 서프라이즈를 달성했다. 매출은 100조 원을 처음으로 돌파했다.",
+      "sourceLink": "https://www.mt.co.kr/industry/2026/10/28/2026102808030898776",
+      "sourceDate": "2026-10-28",
+      "imagePrompt": "Close-up of advanced semiconductor chips on a dark precision testing surface, cool blue LED lighting illuminating microscale circuit patterns and metallic connectors, clean-room environment with white background blurred behind, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "경제·증시",
+      "kicker": "코스피 급등",
+      "title": "코스피 6%대 급등, 6012.44로 마감…10일 만 회복",
+      "summary": "코스피가 6%대 급등하며 6012.44로 마감했습니다. 10거래일 만에 6000선을 회복하며 장중 매수 사이드카가 발동됐습니다.",
+      "sourceTitle": "[속보] 코스피, 6%대 급등 6012.44로 마감...10일만 회복",
+      "sourceDesc": "코스피가 28일 전 거래일 대비 6%대 급등한 6012.44로 마감했다. SK하이닉스 어닝 서프라이즈에 힘입어 10거래일 만에 6000선을 회복했으며, 장중 매수 사이드카가 발동됐다.",
+      "sourceLink": "https://www.fnnews.com/news/202610281523015061",
+      "sourceDate": "2026-10-28",
+      "imagePrompt": "Wide view of empty stock exchange trading floor at close of day, rows of dark terminals displaying sharply upward-trending green digital charts, warm amber city lights through floor-to-ceiling glass walls, polished floor reflecting glowing screens, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "사건·사회",
+      "kicker": "구룡마을 후속",
+      "title": "구룡마을 화재 합동 감식 착수",
+      "summary": "구룡마을 화재 현장에서 합동 감식이 시작됐습니다. 이재민 107명이 임시 거처에 머물고 있는 가운데 원인 조사가 진행 중입니다.",
+      "sourceTitle": "구룡마을 화재 합동 감식 착수…이재민 107명 임시 거처 마련",
+      "sourceDesc": "소방·경찰 등 합동 감식팀이 28일 구룡마을 화재 현장에서 정밀 감식에 착수했다. 화재로 집을 잃은 이재민 107명은 인근 임시 거처에 머물고 있다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261028001317",
+      "sourceDate": "2026-10-28",
+      "imagePrompt": "Charred hillside settlement ruins in morning haze, yellow investigation tape stretched across ash-covered debris and collapsed wooden structures, distant apartment towers faintly visible through smoke-tinged sky, no people, no text, photojournalism documentary style, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-28 저녁 브리핑\n\n1. 선관위 특검, 투표지 247만장 현장검증 돌입\n2. SK하이닉스 3분기 영업이익 83.3조 어닝 서프라이즈\n3. 코스피 6%대 급등, 6012.44 마감\n4. 구룡마을 화재 합동 감식 착수\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #저녁브리핑 #오늘의뉴스 #뉴스요약 #선관위특검 #투표지검증 #SK하이닉스 #어닝서프라이즈 #코스피 #코스피급등 #구룡마을화재 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
