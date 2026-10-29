@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-29",
+  "account": "aibrief",
+  "hookLine": "SK하이닉스 영업이익 83조, 역대 최대입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "반도체·인프라",
+      "kicker": "역대 최대",
+      "title": "SK하이닉스 영업이익 83조 원, 역대 최대",
+      "summary": "SK하이닉스가 올해 3분기 영업이익 83조3,338억원을 기록하며 역대 최대 실적을 달성했습니다. 분기 매출은 104조6,155억원으로 주주환원도 통 크게 추진됩니다.",
+      "sourceTitle": "SK하이닉스, 3분기 영업이익 83조 원 '역대 최대'‥주주환원은 통 크게",
+      "sourceDesc": "SK하이닉스, 2026년 3분기 매출 104조6,155억원·영업이익 83조3,338억원·순이익 39조 7,756억원 기록",
+      "sourceLink": "https://news.google.com/search?q=SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4+3%EB%B6%84%EA%B8%B0+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80+2026"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델",
+      "kicker": "API 50% 인하",
+      "title": "오픈AI, GPT-6.1 테라 공개…API 가격 낮춰",
+      "summary": "오픈AI가 'GPT-6.1 테라'를 공개했습니다. API 가격은 GPT-6.1 솔보다 50% 낮으며, 시각 추론과 컴퓨터 작업 성능을 강화했습니다.",
+      "narration": "오픈AI가 더 저렴한 모델을 선보였습니다.",
+      "sourceTitle": "오픈AI, 'GPT-6.1 테라' 공개…API 가격 50% 낮춰",
+      "sourceDesc": "오픈AI가 26일(현지시간) 시각 추론과 컴퓨터 작업 성능을 강화한 'GPT-6.1 테라(GPT-6.1 Terra)'를 공개했습니다. 가격은 GPT-5.6 테라와 GPT-6.1 솔보다 표준 API 가격이 50% 낮습니다.",
+      "sourceLink": "https://news.google.com/search?q=GPT-6.1+%ED%85%8C%EB%9D%BC+%EC%98%A4%ED%94%88AI+2026"
+    },
+    {
+      "rank": 3,
+      "category": "국내 AI",
+      "kicker": "8천200억 투자",
+      "title": "퓨리오사AI, 8천200억 유치…기업가치 3조8천억",
+      "summary": "퓨리오사AI가 8,200억 원 규모의 시리즈D 투자를 마쳤습니다. 기업가치는 약 3조 8천억 원으로 평가됐습니다.",
+      "narration": "퓨리오사AI, 8천200억 투자 유치했습니다.",
+      "sourceTitle": "퓨리오사AI, 8천200억 투자 유치…기업가치 3.8조 평가",
+      "sourceDesc": "AI 반도체 기업 퓨리오사AI가 8,200억 원 규모의 시리즈D 투자를 마쳤고, 기업가치는 약 3조 8천억 원으로 평가됐습니다.",
+      "sourceLink": "https://news.google.com/search?q=%ED%93%A8%EB%A6%AC%EC%98%A4%EC%82%ACAI+%ED%88%AC%EC%9E%90+2026"
+    },
+    {
+      "rank": 4,
+      "category": "AI 규제·정책",
+      "kicker": "데이터 무단 학습",
+      "title": "중국 AI, OpenAI Astra 출력물로 학습",
+      "summary": "중국 AI 기업들이 OpenAI의 Astra 출력물로 모델을 학습했다고 보도됐습니다. DeepSeek과 Moonshot AI가 이를 활용한 것으로 알려졌습니다.",
+      "narration": "중국 AI 기업이 OpenAI 출력물로 학습했습니다.",
+      "sourceTitle": "중국 AI 기업, OpenAI의 Astra 출력물로 모델 학습 - The Information",
+      "sourceDesc": "DeepSeek과 Moonshot AI가 OpenAI의 Astra 모델 출력물로 모델을 학습했다고 The Information이 보도했다.",
+      "sourceLink": "https://news.google.com/search?q=%EC%A4%91%EA%B5%AD+AI+OpenAI+Astra+%EC%B6%9C%EB%A0%A5%EB%AC%BC+%ED%95%99%EC%8A%B5+2026"
+    },
+    {
+      "rank": 5,
+      "category": "사회 영향",
+      "kicker": "6분 만에 탈취",
+      "title": "국내 금융권 AI 해킹범, 중국 26세 추정",
+      "summary": "국내 금융권을 공격한 해킹범은 중국 광둥성 26세로 추정됩니다. AI를 활용해 개인정보를 탈취했으며 6분이면 가능하다는 분석이 나왔습니다.",
+      "narration": "국내 금융권이 AI 해킹 공격을 받았습니다.",
+      "sourceTitle": "[이슈체크] 'AI 활용' 금융권 턴 해킹범, 중국 광둥성 26세 추정…개인정보 탈취에 '단 6분'이면 가능?",
+      "sourceDesc": "AI를 활용한 해커가 국내 금융권을 공격했다. 중국 광둥성 26세로 추정되는 해킹범이 개인정보를 탈취했으며 단 6분이면 가능한 것으로 알려졌다.",
+      "sourceLink": "https://news.google.com/search?q=%EA%B8%88%EC%9C%B5%EA%B6%8C+AI+%ED%95%B4%ED%82%B9+%EC%A4%91%EA%B5%AD+2026"
+    }
+  ],
+  "caption": "[오리 기자] 2026-10-29 AI 뉴스 브리핑\n\n1. SK하이닉스 영업이익 83조 원, 역대 최대\n2. 오픈AI, GPT-6.1 테라 공개…API 가격 낮춰\n3. 퓨리오사AI, 8천200억 유치…기업가치 3조8천억\n4. 중국 AI, OpenAI Astra 출력물로 학습\n5. 국내 금융권 AI 해킹범, 중국 26세 추정\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #SK하이닉스 #HBM #오픈AI #반도체\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": { "spec": "ai-v1", "signalSources": {}, "signalHits": [] }
+}
