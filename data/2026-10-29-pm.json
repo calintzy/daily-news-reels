@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-29",
+  "slot": "pm",
+  "hookLine": "북한이 17일 만에 탄도미사일을 또 쐈습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "안보",
+      "kicker": "北 미사일 도발",
+      "title": "北, 탄도미사일 10여 발 동해 발사",
+      "summary": "북한이 강원도 원산 일대에서 동해상으로 탄도미사일 10여 발을 발사했습니다. 올해 17번째 발사로, 국가안보실은 긴급 안보 상황 점검회의를 개최했습니다.",
+      "narration": "북한이 동해상으로 탄도미사일 10여 발을 발사했습니다.",
+      "sourceTitle": "[3보] 北, 원산서 단거리 탄도미사일 등 10여 발 발사… 약 250㎞ 비행",
+      "sourceDesc": "북한이 29일 강원도 원산 일대에서 동해상으로 단거리 탄도미사일(SRBM) 등 10여 발을 발사했다. 미사일은 약 250㎞를 비행했다. 합참은 이날 발사를 포착했다고 밝혔으며, 올해 17번째이자 지난 12일 이후 17일 만이다. 국가안보실은 긴급 안보 상황 점검회의를 개최했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261029000966",
+      "sourceDate": "2026-10-29",
+      "imagePrompt": "A ballistic missile exhaust trail rising over a dark ocean shoreline, warning lights glowing on a military radar console in the foreground, night sky with smoke plumes. No people, no text. Vertical 9:16 composition, photojournalism style, high contrast dramatic lighting."
+    },
+    {
+      "rank": 2,
+      "category": "정치·사법",
+      "kicker": "내란 항소심",
+      "title": "내란특검, 윤석열 2심서 사형 구형",
+      "summary": "내란특검팀이 윤석열 전 대통령 항소심 결심공판에서 사형을 구형했습니다. 1심에서 무기징역을 선고받은 윤 전 대통령에게 2심에서 더 무거운 형이 요청됐습니다.",
+      "sourceTitle": "특검, '내란 우두머리 혐의' 윤석열 2심 사형 구형",
+      "sourceDesc": "내란특검팀이 29일 서울고법 형사12-1부에서 열린 윤석열 전 대통령 항소심 결심공판에서 사형을 구형했다. 윤 전 대통령은 1심에서 무기징역을 선고받았다. 특검팀은 1심 선고가 지나치게 가벼웠다고 주장했다.",
+      "sourceLink": "https://www.ytn.co.kr/_ln/0103_202610291234109168",
+      "sourceDate": "2026-10-29",
+      "imagePrompt": "The imposing stone and glass facade of a high court building with an entrance gate and flagpoles, overcast autumn sky above, falling leaves at the base of the steps. No people, no text. Vertical 9:16 composition, photojournalism style, muted grey tones."
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "이태원 4주기",
+      "title": "이태원 4주기, 현직 대통령 첫 기억식 참석",
+      "summary": "이재명 대통령이 이태원 참사 4주기 기억식에 현직 대통령으로는 처음 참석했습니다. 광화문광장 추모사에서 이 대통령은 국가 부재로 억울한 희생이 없도록 하겠다고 다짐했습니다.",
+      "sourceTitle": "李대통령 이태원 참사 4주기…'국가 부재로 억울한 희생 없도록'",
+      "sourceDesc": "이재명 대통령이 이태원 참사 4주기 기억식에 현직 대통령으로는 처음 참석했다. 기억식은 광화문광장에서 열렸으며, 이 대통령은 추모사에서 국가 부재로 억울한 희생이 없도록 하겠다고 밝혔다.",
+      "sourceLink": "https://www.fnnews.com/news/202610291107537713",
+      "sourceDate": "2026-10-29",
+      "imagePrompt": "Rows of white chrysanthemums and yellow memorial ribbons laid on stone plaza pavement, small candles flickering in a gentle breeze, autumn leaves scattered nearby. No people, no text. Vertical 9:16 composition, photojournalism style, soft morning light."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "연준 금리 동결",
+      "title": "美연준 금리 동결, 한은 인상 가능성 주목",
+      "summary": "美연준이 기준금리를 동결하며 긴축 여지를 열어뒀습니다. 한은은 내달 금리 인상을 검토 중으로, 한·미 금리 흐름에 시장 관심이 집중되고 있습니다.",
+      "sourceTitle": "'긴축 여지' 열어둔 美연준…한은, 내달 금리 인상 나설까",
+      "sourceDesc": "미국 연방준비제도(Fed)가 기준금리를 동결했다. 연준은 긴축 여지를 열어두며 추가 인상 가능성을 시사했다. 한국은행은 인플레이션 압력 속에 내달 금리 인상을 검토 중이며, 한·미 기준금리차 변동에 시장 관심이 집중되고 있다.",
+      "sourceLink": "https://www.fnnews.com/news/202610290742165770",
+      "sourceDate": "2026-10-29",
+      "imagePrompt": "A dark polished mahogany boardroom table with empty chairs reflected in a glossy surface, muted financial charts visible on frosted glass panels in the background. No people, no text. Vertical 9:16 composition, documentary style, cool blue tones."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-29 저녁 브리핑\n\n1. 北, 탄도미사일 10여 발 동해 발사\n2. 내란특검, 윤석열 2심서 사형 구형\n3. 이태원 4주기, 현직 대통령 첫 기억식 참석\n4. 美연준 금리 동결, 한은 인상 가능성 주목\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑 #이태원4주기 #북한미사일\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
