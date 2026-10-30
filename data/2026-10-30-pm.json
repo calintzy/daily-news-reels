@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-30",
+  "slot": "pm",
+  "hookLine": "외국인이 1.6조 원 팔며 사이드카가 발동됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제·금융",
+      "kicker": "코스피 급락",
+      "title": "코스피 3.48% 급락…사이드카 발동",
+      "summary": "미국 알파벳 실적 쇼크로 외국인이 1.6조 원을 순매도하며 코스피가 3.48% 내려 5730선에 마감했습니다. 매도 사이드카가 발동됐으며 SK하이닉스와 삼성전자 등 반도체주도 동반 급락했습니다.",
+      "narration": "코스피가 3.48% 내려 사이드카까지 발동됐습니다.",
+      "sourceTitle": "[마감시황] 코스피, 외국인 1.6조 매도에 3.48% 급락…5730선 마감",
+      "sourceDesc": "코스피가 전 거래일보다 206.92포인트(3.48%) 내린 5730.74로 마감했다. 미국 알파벳 실적 부진 여파로 외국인이 1.6조 원 이상을 순매도했고 유가증권시장 매도 사이드카가 발동됐다. SK하이닉스와 삼성전자 등 반도체주도 동반 급락했다.",
+      "sourceLink": "https://m.news.nate.com/view/20261030n24078",
+      "sourceDate": "2026-10-30",
+      "imagePrompt": "Photojournalism documentary style, vertical 9:16 composition. Stock market trading display screens showing red downward arrows and falling numbers reflected on dark glass surfaces, no people, no text. Muted tones with red glow, high contrast."
+    },
+    {
+      "rank": 2,
+      "category": "사회·교통",
+      "kicker": "공항 발권 마비",
+      "title": "인천공항 발권 장애, 1200여 명 발 묶여",
+      "summary": "글로벌 네트워크 장애로 인천공항 중국 항공사 3곳이 수기 체크인에 돌입해 1200여 명이 출국 대기하는 혼란이 빚어졌습니다. 공항공사는 현장 안내 인력 50명을 추가로 배치하고 출국 심사 증원도 요청했습니다.",
+      "sourceTitle": "[속보]인천공항 발권 장애로 항공사 3곳 수기 체크인…\"1200여명 대기\"",
+      "sourceDesc": "미국 ARINC 글로벌 네트워크 불안정으로 인천공항 중국 항공사 3곳이 수기 체크인에 돌입하며 1200여 명이 출국 대기하는 혼란이 빚어졌다. 공항공사는 현장 안내 인력 50명을 추가로 배치하고 출국 심사 증원을 법무부에 요청했다.",
+      "sourceLink": "https://m.news.nate.com/view/20261030n24564",
+      "sourceDate": "2026-10-30",
+      "imagePrompt": "Documentary style, vertical 9:16 composition. Airport terminal check-in hall with rows of empty counters and luggage trolleys piled with suitcases under bright fluorescent lighting, departure signs dark, no people, no text. Cool blue-grey tones."
+    },
+    {
+      "rank": 3,
+      "category": "사회·교통",
+      "kicker": "버스 파업 타결",
+      "title": "경기 버스 파업 극적 타결, 첫차 정상 운행",
+      "summary": "[후속] 경기 버스 노사가 30일 새벽 파업 직전 극적으로 합의해 첫차부터 정상 운행됐습니다. 준공영제·민영제 시급 3.2% 인상에 합의했으며 854개 노선 4130대가 정상 운행됐습니다.",
+      "sourceTitle": "경기 버스 노사 임단협 파업 앞두고 극적 타결···오늘 정상 운행",
+      "sourceDesc": "경기 버스 노사가 30일 새벽 수원시 영통구 경기지방노동위원회 최종 조정회의에서 합의해 파업을 철회했다. 준공영제와 민영제 노선 시급을 3.2% 인상하기로 했으며 854개 노선 4130대가 첫차부터 정상 운행됐다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610300543001/",
+      "sourceDate": "2026-10-30",
+      "imagePrompt": "Photojournalism documentary style, vertical 9:16 composition. Row of city buses moving along a wide empty road at dawn, streetlamps reflecting on wet dark asphalt, destination signs lit up, no people, no text. Cool early morning blue tones."
+    },
+    {
+      "rank": 4,
+      "category": "정치·사법",
+      "kicker": "선관위 압수수색",
+      "title": "선관위특검, 중앙선관위 압수수색…140억 납품 비리",
+      "summary": "선관위 특검이 30일 중앙선관위와 전현직 직원 주거지 2곳을 압수수색했습니다. 140억원대 선거장비 납품 비리 의혹으로, 기준 미달 장비를 합격 처리한 정황이 포착됐습니다.",
+      "sourceTitle": "[속보]선관위특검, 중앙선관위 압수수색···'기준 미달 장비 합격 처리'",
+      "sourceDesc": "선관위 특검이 30일 140억원대 선거장비 납품 비리 의혹으로 중앙선관위와 전현직 직원 주거지 2곳을 압수수색했다. 기준 미달 장비를 합격 처리한 정황이 포착됐으며 업무상 배임 등 혐의다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610301631001/",
+      "sourceDate": "2026-10-30",
+      "imagePrompt": "Documentary style, vertical 9:16 composition. Empty government office interior with stacked document boxes, folders and computer monitors under harsh fluorescent lighting, institutional grey walls, no people, no text. Muted institutional tones."
+    },
+    {
+      "rank": 5,
+      "category": "정치·사법",
+      "kicker": "의원 기소",
+      "title": "장경태 의원, 보좌진 성추행 혐의로 불구속 기소",
+      "summary": "서울남부공소청이 장경태 무소속 의원을 보좌진 준강제추행 및 2차 가해 혐의로 30일 불구속 기소했습니다. 2024년 서울 여의도 식당에서 발생한 사건으로 성폭력처벌법 위반 혐의도 함께 적용됐습니다.",
+      "sourceTitle": "서울남부공소청, '보좌진 성추행 혐의' 장경태 의원 불구속 기소",
+      "sourceDesc": "서울남부지방공소청은 30일 장경태 무소속 의원을 여성 보좌진 준강제추행과 성폭력처벌법 위반 혐의로 불구속 기소했다. 2024년 10월 서울 여의도 식당에서 발생한 사건으로 2차 가해 혐의도 함께 적용됐다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610301543001/",
+      "sourceDate": "2026-10-30",
+      "imagePrompt": "Photojournalism documentary style, vertical 9:16 composition. South Korean National Assembly building exterior facade with marble steps and national flags in foreground under grey overcast sky, no people, no text. Cool muted grey tones."
+    }
+  ],
+  "caption": "[물어오리] 2026-10-30 저녁 브리핑\n\n1. 코스피 3.48% 급락…사이드카 발동\n2. 인천공항 발권 장애, 1200여 명 발 묶여\n3. 경기 버스 파업 극적 타결, 첫차 정상 운행\n4. 선관위특검, 중앙선관위 압수수색…140억 납품 비리\n5. 장경태 의원, 보좌진 성추행 혐의로 불구속 기소\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #코스피급락 #인천공항 #선관위 #장경태\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
