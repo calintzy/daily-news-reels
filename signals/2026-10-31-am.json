@@ -1,21 +1,12 @@
 {
   "stem": "2026-10-31-am",
-  "collectedAt": "2026-10-31T05:43:34+09:00",
+  "collectedAt": "2026-10-31T06:41:22+09:00",
   "sources": {
     "news": "ok",
     "trends": "ok",
-    "nate": "fail"
-  },
-  "errors": {
-    "nate": "fetch failed"
+    "nate": "ok"
   },
   "news": [
-    {
-      "title": "소아응급실 압수수색 논란…의료계 “진료 방해” vs 경찰 “적법 집행”",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VejFRV1dGbGJVYTRrbXV6bEV6bUFlbTYwOGVQQmhvaHV3RmVXTjZwUFVzYTJTc05iT2c2Yi04NDR0OFNRU3VhU1BJck9sb3JJdW1VOUVOSVpBWGlMTWRRazVEcWxmZw?oc=5",
-      "pubDate": "2026-10-31T01:43:00+09:00"
-    },
     {
       "title": "고성·파행·충돌로 끝난 국정감사…“올해 국감 F학점”",
       "source": "KBS 뉴스",
@@ -23,10 +14,16 @@
       "pubDate": "2026-10-30T21:47:00+09:00"
     },
     {
-      "title": "이 대통령, 다문화가정 산후조리원 우선 이용 “소액·소량이라고 불공정해도 되는 건 아냐”",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLU3B6ZHpHRUtqMFRwSlZCOTF2MG1IQ0JiQnh0ODV3VDZfaEpyNV9WR3BRTzBHenNORU5pVWZHWjk4LS1DUXUtNFJrZVFRd294a1EwM3M1UFBNUdIBX0FVX3lxTE9XZ2l1WFFvME93YktEcVg0TXQzVXkzbDhLOXJPWTNaTk1hVk5kWHpkbzd6Zl9rcDJyY0Raa1Zkc215cVQ5dlBpcjFSNjNhSklVb3pQbzFXWmJ4YzJWWjhN?oc=5",
-      "pubDate": "2026-10-30T19:06:00+09:00"
+      "title": "소아응급실 압수수색 논란…의료계 “진료 방해” vs 경찰 “적법 집행”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VejFRV1dGbGJVYTRrbXV6bEV6bUFlbTYwOGVQQmhvaHV3RmVXTjZwUFVzYTJTc05iT2c2Yi04NDR0OFNRU3VhU1BJck9sb3JJdW1VOUVOSVpBWGlMTWRRazVEcWxmZw?oc=5",
+      "pubDate": "2026-10-31T01:43:00+09:00"
+    },
+    {
+      "title": "새벽까지 약한 비에 짙은 안개…강원 산지 동해안엔 강풍 유의",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ZlB4WFRwemY5MTZ2cXowd0RIZ2R6RExNbUxfS2xUdE5LMi11MVBwYllnU0E3X2tiNmUxXzB2V0pPY1ZXU2ZSRm9mM3lNZVhaWkU0RXhfbkg5T1k?oc=5",
+      "pubDate": "2026-10-31T02:23:06+09:00"
     },
     {
       "title": "바닥 위 국화와 부캉이 코스튬…핼러윈 앞둔 이태원 ‘차분함 속 활기’",
@@ -35,10 +32,16 @@
       "pubDate": "2026-10-31T01:43:00+09:00"
     },
     {
-      "title": "서울시, 특검 '명태균 의혹' 상고에 \"논리 갈수록 빈약해져\"",
+      "title": "“우리의 자랑이던 최불암씨, 먼저 가셨네”…연예계·정계 추모 발길",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXbjQ2RHR6NWpmc2paNXFsOVdBVVJfY0ZYcXpaeFFnam5aMERfWUJna2tYYmhJbWtBTkgxckxLcGZBZlZPVDNza3RyQUg2R0c1QWxUTmhZQjN0ZGMtN3Q3NGpZLWhWRWpYWnBVTjNPb3RPZw?oc=5",
+      "pubDate": "2026-10-31T01:44:00+09:00"
+    },
+    {
+      "title": "공개 검증 마친 '선관위' 특검 \"투표지 현 상태 보전 요청\"",
       "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RSHZOT200RUx4MlU5YlFMeFE3UERUQV96TVhvMWlTeHJ4R1FueXgxaWJmaGpJM1FaOXVJbVoxRm54d2hxTENzQTJYN2xNcmg4bEdMcDFnMFNjTjRYTlFkQ3o4ZExlaWRUQmlSNFphY1dlOGxOR0sw0gF3QVVfeXFMUFdEekszek9DaEl4U29ER2dDN3Njemg0M3ZJRFVzQ2hQcGFTbGY2RTM2T1ljR25PMGUzMkdIQWFGY1M3Q1h2enBiR2ZDTkFjZFJtQ3d1LVU2a0lBOThIY1FlV1BQTGktendsazdSUUh1LUV5cTRiQzg?oc=5",
-      "pubDate": "2026-10-30T16:29:26+09:00"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yTWxBVmZLN08yeGc4VWFSUXl6TG1NTnZtQmNGcXNVeW5IWkczTG1mVllOT3FIQlVsMmtpYnJtZ2ZkZjI1a18yN2RkZmRoWUNCbmp0VUprRGVDaTJiOElEa3RjR3JGaFBKQ190RFpDSXhkb1ZncS1F0gF3QVVfeXFMTXFpRkZURFlpdlBaT0dJMUg3NzZUSGg3VnJPT2xlVzRkUnlaZHZ1YXZjT05VUTFZYUFLN3NBZnZIQ24zcG1NMlU5ZlRSOVVwTktaTzI3RjJ1ejJoeVpxa1ZJbFdjR3FnSXBHVGFoNGJLVmJ2Wnhva3M?oc=5",
+      "pubDate": "2026-10-30T17:55:12+09:00"
     },
     {
       "title": "’김건희에게 명품 선물’ 김기현 1심 무죄…부인은 벌금 500만 원",
@@ -71,10 +74,22 @@
       "pubDate": "2026-10-31T04:33:00+09:00"
     },
     {
-      "title": "MS 보고서 \"북한 해킹조직, AI로 한국 겨냥 피싱 문서 대량 제작\"",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xc3FwVkxKWm1MZXVuNmMxZ1JJSWlWdGV0cEVSUTRZNDZLNWhfbnJEMFc4bFdyZ2g5MG9DZzNxVXh3WnY3U05fTUQ2OEJoR3NBSm9vNEIwVlpYS01LbXc?oc=5",
-      "pubDate": "2026-10-30T21:15:00+09:00"
+      "title": "‘8.4조원 해킹’ 바이낸스 사태, FBI·비밀경호국 조사 착수",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VZ2NFejU5akJlbkhBdWxURnFNeHljbFowdDVvS3Jyc2Y4SGxyVUljRWx3Q3UxRXg2MzNsZlNVWDV4WV94UFNrSVktTFVvb01OLW85Y2lWM0d1dDg?oc=5",
+      "pubDate": "2026-10-31T02:13:00+09:00"
+    },
+    {
+      "title": "[마켓뷰] AI 투자 우려에 코스피 ‘직격탄’… SK하이닉스 7% 하락",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWQ2Z1I3ZEVkeXYtT0g2a1I1TUUydUZqU0pzVXlmMjNfUE9ha2ljYVZnQ04waENDQ3Y2TkQyS1BJNTJHbVM3eFFGTUs5UXdBRmhsSTE0YWxXcHBlV0VJSUpoQmhhYWx3WjVmcXliYmZ2RWp1OV8zajA5YnRjR3NiamJkY3NOcktx0gGcAUFVX3lxTE5KT0ZEcjFBX3lfYjFISXlJS0Y3Y0JQRG9kMTFteUVGeDNWS2c5Ym5rX2ZwX25JRW8wWmplMTUzWEFHaktjakNoaHRYNk14aE5GeXU2dXJ6NGRyZm40Q1g1LVdWSi1FbG03QnpRRWxMS3ZpQ0Y4c215M0tzeWliblpiRHRGTGJtd3lNZm9jd3JTeEU2bXYtRUZIMTFsTQ?oc=5",
+      "pubDate": "2026-10-30T16:24:00+09:00"
+    },
+    {
+      "title": "북한 해킹조직, AI로 한국 겨냥 피싱 문서 대량 제작",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkX3ZHQUE3b0xZS1N5U0prbGhBM2lqNHROcGlNajdlMWk2M0ZGbWIwNjBDMkZGbWhiM0U3YjMwcU56N05xZXlkM0FBWUhVNzZRNkZYWWE4Q1hhMjVwejlDbF9hOEVTdEU?oc=5",
+      "pubDate": "2026-10-30T16:45:00+09:00"
     },
     {
       "title": "세인트루이스 연은 총재 \"추가 긴축 조만간 필요할 것\"",
@@ -83,46 +98,22 @@
       "pubDate": "2026-10-31T04:59:35+09:00"
     },
     {
-      "title": "4분기엔 전 세계 영업익 1위 찍는다는데… 삼성전자 시총은 엔비디아 ‘5분의 1’ 기현상",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWE1ekRaUVU0TjljY1RxMklPRTdQUXhvMTlTdW45cHYyVHd6X0dnVTFlOHJtWEV2T3F1Y0lEUjhEM0lIZE1RYlExSTByb1pmNktnQTcyWGl6NGgxVUxYZ20wdGVNSWZNMDN5TmZLRzBuQmw3VTNEeVlRVld5SkxTZXllRFFSZm960gGcAUFVX3lxTE9Ia1d3VDFtNnFkOTAtR3licVUyWFRiSWpNa09oeU9LUS11STRqZHhHd2ZRbFNwOHdDWTdheWdIY3hkbURQY1ROWl9OLXdlUDJRdEROUTZIUVYyQ0liNlJWTzlySVVXd0FucjFpSENQcERWRkVESmhqN25ILTlmSHNsUGJrNVFMWEpOdXEtNTlOOHAzaTFBZFhKdTh4Uw?oc=5",
-      "pubDate": "2026-10-30T16:51:00+09:00"
+      "title": "지구 10도 더워져도 동남극 빙상 버틴다…뜻밖의 이유[과학을읽다]",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSNGR0QlA2QjBDLWlvOXdhc1d5Y0p5aXJ4aEdnTW5MRUZJLXNtRmFJZXp1eW5oekQydmduX0VEWGdSUGxqZHdoZ0RsZC1DUGJMbDBtZVJiTG9RSko1VndtVQ?oc=5",
+      "pubDate": "2026-10-30T19:01:00+09:00"
     },
     {
-      "title": "포스코 노사 임금교섭 잠정 합의…기본임금 2.6% 인상",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KZnFXYjY3Tk5MVVU2aHhHc2xYUk9Ea3k2VWVWd1ZzQ3g1a25RUTRNRU9URHE2TjlLRG5GMnlNcXkwVU5yTUpRejRaWVJxNWxqUmNLMWtVYUpFczd6LWVDdENVWmlnd1U?oc=5",
-      "pubDate": "2026-10-30T20:04:00+09:00"
-    },
-    {
-      "title": "IBS \"동남극 빙상 기온 10도 올라도 버틴다\"",
-      "source": "뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5weVBJYnpDMW5CM3liQWVjbkh1Nkl0N3EyRHJ6ZG0tb1Y1dEdLdTVaWk4xMkhQbEdjRHFVWmZ0dDhqR3gxSWJYbjhJLWRGSFlCYUJnQmdaWDY0UDRYMFNXdjVQcUxWR1BWWUhvMEszVdIBc0FVX3lxTFBvTFVJNTBxb2dSOHNHUFlvQlk0TjZfY1NkdUZ6dXBQX0dtckhIN1BKLVhCN0lfaTZ6ajlwcWZpcGstOFVrUzB0LUo3QTIycnlKSWNwWEtJZzZiQzhSUnJXTVlIeXp4ZEpkZ2xlcUhDYjNHTDQ?oc=5",
-      "pubDate": "2026-10-30T19:00:00+09:00"
+      "title": "[프리뷰] '소울프레임', 치유가 모험이 된다",
+      "source": "인벤",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ucVkyVldkRFJaY1pBa1NKRnhVVkhneXJDV25SbWc0VWUzLVVBbE9UY004V0pFdHZuZmJuRlBnM0w2T2FleFFlVGktdFVDdUV3NDRmQjF2RHN1LTBkUFE?oc=5",
+      "pubDate": "2026-10-31T05:53:23+09:00"
     },
     {
       "title": "명왕성 너머 ‘거대 얼음 천체’ 발견…태양계 6번째 왜소행성 될까",
       "source": "지디넷코리아",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Mc3gzaFVldmtJeUxsX1gwb292eGdTR0VQdkpzSE5VMzBRRXJwRk90b01xMzNQX2t2aXZXdTIwMDdEWTdFOW4tNHVPZS0tZUlNMjdBb2t3?oc=5",
       "pubDate": "2026-10-30T16:40:52+09:00"
-    },
-    {
-      "title": "석기시대 스페인 동굴서 반복된 식인 흔적…'장례 의식' 가능성도",
-      "source": "DongA Science",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kNlpnTlBEa01CdmV0WGZnMFppWGlFaGdSYzBuaFNOaXpQTDNhUFhXTzlWdlEwZldreW1OUHBzX3FDX1BtOEtZOXZtN1dMYTUxckd3TA?oc=5",
-      "pubDate": "2026-10-30T17:45:00+09:00"
-    },
-    {
-      "title": "“우리의 자랑이던 최불암씨, 먼저 가셨네”…연예계·정계 추모 발길",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXbjQ2RHR6NWpmc2paNXFsOVdBVVJfY0ZYcXpaeFFnam5aMERfWUJna2tYYmhJbWtBTkgxckxLcGZBZlZPVDNza3RyQUg2R0c1QWxUTmhZQjN0ZGMtN3Q3NGpZLWhWRWpYWnBVTjNPb3RPZw?oc=5",
-      "pubDate": "2026-10-31T01:44:00+09:00"
-    },
-    {
-      "title": "“뺨 맞아 고막 찢어졌다” 차예련 학폭 의혹…소속사 “사실무근”",
-      "source": "주간조선",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93V210N3dIcFFYWUp5VXdPcnk3Qko1YUphcFVNWW4ycXJyWGx4QlNHdlRkcHNycUFzZkM1cVdldXBtNEM0OVM4MEJ0bjBUZEF1Q1VUc3ByU0xMN0QzSWFIQXo2bWlyaUhMT3fSAW5BVV95cUxPRUM2S0NoTV9qZFRPYVMyTmpQaUx5MHk2Z25CZEwtSkhvbEhPY0hFMkdObXFFQjh1ekJjVm9OTzF6SDZYeHd0bE1Sd194QmFjSWNZLWJyZFBSTVRtVXE3akRaekp1cGdUaV9IcTB1QQ?oc=5",
-      "pubDate": "2026-10-30T23:55:00+09:00"
     },
     {
       "title": "‘닥터X’ 5·18 비극 피해자 살린 건 ‘형’이 아닌 ‘광주’였다… 김지원, 눈물 폭발시킨 역대급 연극",
@@ -137,10 +128,28 @@
       "pubDate": "2026-10-31T03:33:00+09:00"
     },
     {
-      "title": "KIA, 플레이오프 4차전 역전승...한준수, 결승타 포함 2타점",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1T2hyYWxIeGkyTnc4bmVfN1NDR3I2NFJ4Tkw2Skt4ZTFoX255RkFhdk92SmpUcUpIak5XQnZlMjVsRm5wNm1JeUlpSFg3cEctT05maEFmdXFGZHZvNXc?oc=5",
-      "pubDate": "2026-10-30T22:45:00+09:00"
+      "title": "\"고막 찢어지고 뺨 퉁퉁\" 학폭 의혹에…차예련 \"사실무근\"",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PMndmTzVRa0szNnF1LU4wdUthMjl0c0o1U3lNcWZqclVOV1pUT3pVN3ZSWS1nOS1qd2J4RkZ4YS16dzhka192czVTbzFiaUgyUnVOdkVoZjd6Zw?oc=5",
+      "pubDate": "2026-10-30T15:58:33+09:00"
+    },
+    {
+      "title": "'엄마가 미쳤어요' 정민아·강경헌·배지완, 의미심장 삼자대면",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSk42V3dndHgyMGxBUlRJMU43UzFHempMaUp3R295cmdFMFpIeFhMS2pLZkk1aWVQRkdJaXgzQ2xZay1PcHVERlBsZElEbV81V2xUekhTYlQxUlZ3SE5UM0FlcjdWTWM2RTlrUlZjY0VzZFk2QnlQZDR6S0ZFYjZHQVZ0RTZQaEJXbmR1QnRUVkg4RVnSAacBQVVfeXFMTjhJRFpGSkVHMllPdzk1Y3dQNVh3bkEzbmQ1MlBSWmFFLW4tcnFvZ1NWWlZ1bS1VVU1wWFhLMjJuQ3lPTTRaMjgzVDJCbDNmTldTU243cWpXWUZYamtiZVVQWHVFaFZWWkRmUkZKTW1BSXNiU1J2RW02bkkxZ09rSjlyNTRDRW1YZmlZR3NnM0Y5RENfc2ZqUWRBUmJSNmpWT1p4eEZ3d00?oc=5",
+      "pubDate": "2026-10-30T15:20:00+09:00"
+    },
+    {
+      "title": "아쉬움 가득 PO 4차전, 선수 격려한 박진만 감독…삼성라이온즈 홈 5차전 총력전 예고",
+      "source": "대구MBC",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oc0N2MTVLT2xtSEl5cU5YdF9LQ1lWZXJXZWUwUHhDeWJXTDFoNVpNVzF4bHd6Smc5ZWYwNm90aUhVc09BanBDSmdHd1E?oc=5",
+      "pubDate": "2026-10-31T06:02:46+09:00"
+    },
+    {
+      "title": "V리그 내일 개막…GS, ‘실바 파워’ 재충전 완료",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JMFltcEdxczVhVmFZUGlvWTNNZ19uMjRfSlVUOVhHeVpWR3oyVlZRNU9LX0pqdGdQSmhYRHJwcUdYUS01RzhpMnRPQWlhSWJaQWtDYkh5aFZxcGtYc3pQOV81OGhOUQ?oc=5",
+      "pubDate": "2026-10-30T21:58:00+09:00"
     },
     {
       "title": "[PO 포커스] '2번타자' 김도영 승부수 적중...3출루 2득점으로 KIA 역전승 견인",
@@ -155,31 +164,97 @@
       "pubDate": "2026-10-30T22:21:36+09:00"
     },
     {
-      "title": "'양현종 vs 원태인' 백의종군 헌신 대결 → 3일 쉰 선발 대결 만큼 중요하다 [PO4]",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2YtTnhlUjlaa3FoTVJFVmNhYkE3TWVLOFBiZVFiajFLRzFVYzREU2hxa3VabjVHSEhHOUtZa0RoZkI1U1Z3X095V0pxeS1IamtjbmRHSU8xOHZ0Mzc4OENGZno1OVN3eFFURmhpeEZyZlpIMFUtWkJZbGo2dlJ5a0dqOA?oc=5",
-      "pubDate": "2026-10-30T18:37:00+09:00"
-    },
-    {
       "title": "코로나 백신 맞으면 암 걸린다?...\"근거 없어\"",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vcXJTcm9MUTlDYWsyZ0pJQlRLRWR3dGgwQnB6Vy1VWjN3cmp5Q1dBUjFTOVZQOGhpLVowTFZnUm1ZLU1Nd18yM1g0RTdOWUhyQmctd0NVYmFUbGRmenc?oc=5",
       "pubDate": "2026-10-30T23:24:00+09:00"
     },
     {
+      "title": "“병뚜껑 열기도 힘들다면?”… 단순 노화 아닌 ‘근감소증’ 신호일 수도",
+      "source": "하이닥",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSVAzeTNNM2JSTy13V2xEOU9XNzBOV2l2aXhMNlIyS2EwaTZnWWQxRjhVWklqVGZfb1JGOEZLN0NhcUhrOW5iOGxfcnBiXzJIajJnWUctTUVQNEVGenRGeTR1aXVtaExsSGc?oc=5",
+      "pubDate": "2026-10-30T19:00:00+09:00"
+    },
+    {
       "title": "국경없는수의사회, 베트남 42개 마을 찾아 개·고양이 2천800마리 광견병 예방접종",
       "source": "뉴스펫",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xU2l2bzExR2tiaFdLVlZrUEdxVDk5X2ttRUhndS0zc3MyUmtJaFZfOEJkbGl2d1BwZGNzLUxMWFNEemhlM0tmOUg1dldfd0dBMUs4R2VBRWdUcWc3Z3BtbXdORmx2Z19vWVpZ?oc=5",
       "pubDate": "2026-10-30T18:48:49+09:00"
-    },
-    {
-      "title": "‘레켐비 치료 임상 경과’와 ‘신체적 노쇠·근감소증’ 연관성 밝혀",
-      "source": "병원신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUlF1TzMteHVMN19UZnB2aWVJSmdLZGFaXzBIUUtob0E0WFcyZ1dMY0ZnNFRlWVdhbUxOUEJlOW1YZFRZa3ZkREFOaHVyczJYWGJSZ1FXMlFDLW53R19iN3BVYmhhSms2NVE?oc=5",
-      "pubDate": "2026-10-30T16:03:41+09:00"
     }
   ],
   "trends": [
+    {
+      "term": "삼성중공업",
+      "pubDate": "2026-10-31T05:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "삼성중공업, 3분기 영업이익 3,384억원…작년보다 42%↑",
+          "snippet": "",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029175609Uyt",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "삼성重, 3Q 영업익 3384억원…고부가 선박 효과로 조업감소 상쇄",
+          "snippet": "",
+          "url": "https://m.ekn.kr/view.php?key=20261029025592842",
+          "source": "에너지경제신문"
+        },
+        {
+          "title": "삼성중공업, 중국 저가 공세에 FLNG로 승부…목표가↓-NH",
+          "snippet": "",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02948726645618168",
+          "source": "마켓인"
+        }
+      ]
+    },
+    {
+      "term": "욕망의 덫",
+      "pubDate": "2026-10-31T05:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "\"가슴 저린 오열 연기\"… 전혜원, 장세현 상실감 딛고 각성 폭발",
+          "snippet": "",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735744",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "장서희, 유태웅에 백허그 \"외로우셨죠\"…아내 윤해영 몰래 유혹 성공 (욕망의 덫)",
+          "snippet": "",
+          "url": "https://m.news.nate.com/view/20261028n39508?mid=e02&list=recent&cpcd=",
+          "source": "네이트"
+        },
+        {
+          "title": "장서희, 라이터로 유태웅 압박…숨겨진 비밀 드러날까",
+          "snippet": "",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=777875",
+          "source": "싱글리스트"
+        }
+      ]
+    },
+    {
+      "term": "파업",
+      "pubDate": "2026-10-31T04:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "포스코노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261030171151053",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "포스코 노사, 임금협상 잠정 합의…기본급 2.6% 인상+격려금 600만원 - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/economy/2026/10/30/2026103019110243455",
+          "source": "머니투데이"
+        },
+        {
+          "title": "140일 만에…포스코 노사, 기본급 2.6%↑ 임금교섭 잠정 합의",
+          "snippet": "",
+          "url": "https://view.asiae.co.kr/article/2026103019213680131",
+          "source": "아시아경제"
+        }
+      ]
+    },
     {
       "term": "엘버스베르크 대 마인츠 05",
       "pubDate": "2026-10-31T04:30:00+09:00",
@@ -191,16 +266,16 @@
           "source": "BBC"
         },
         {
-          "title": "Pre-match SV Elversberg vs Mainz 05, Bundesliga Round 8",
+          "title": "Licensable picture: SV Elversberg V 1. FSV Mainz 05: Matchday 9 - Bundesliga",
           "snippet": "",
-          "url": "https://www.besoccer.com/match/elversberg/mainz-amat/202730979",
-          "source": "BeSoccer Livescore"
+          "url": "https://www.reutersconnect.com/item/sv-elversberg-v-1-fsv-mainz-05-matchday-9-bundesliga/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA4Nkk2QU0",
+          "source": "Reuters Connect"
         },
         {
-          "title": "How to watch FSV Mainz vs. SV 07 Elversberg in the U.S.: TV channel and streaming options for October 30",
+          "title": "̳̳{SOccer}+++[#!LIVESTREAMs-FREE!]™SV Elversberg vs Mainz SOccer Live Free 30 October 2026",
           "snippet": "",
-          "url": "https://www.nytimes.com/athletic/7738528/2026/10/30/fsv-mainz-vs-sv-07-elversberg-stream-how-to-watch-bundesliga-oct-30/",
-          "source": "The New York Times"
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21rc29wcnRzLmdpdGh1Yi5pby92Z2h1Znl0ZnJ5L2FhLnhtbCIvPjwva3JwYW5vPg==&id=sv-elversberg-vs-mainz-waert",
+          "source": "Port of Rotterdam"
         }
       ]
     },
@@ -209,22 +284,22 @@
       "pubDate": "2026-10-31T03:40:00+09:00",
       "newsItems": [
         {
-          "title": "DIRECT. Lille-Lens: suivez le match de la 9e journée de Ligue 1 en live",
+          "title": "Le Havre-PSG : la composition probable des Parisiens avec Digne, Torres et Mayulu titulaires",
           "snippet": "",
-          "url": "https://www.live-mercato.com/article/202117-direct-lille-lens-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live",
-          "source": "www.live-mercato.com"
+          "url": "https://www.leparisien.fr/sports/football/ligue-1/le-havre-psg-la-composition-probable-des-parisiens-avec-digne-torres-et-mayulu-titulaires-29-10-2026-HLYZKQX435D5RGSB7QWBWCTI2A.php",
+          "source": "Le Parisien"
         },
         {
-          "title": "Face au Havre, l'incroyable nouveau coup tactique de Luis Enrique 😱",
+          "title": "Les compositions pour le match Le Havre - Paris SG",
           "snippet": "",
-          "url": "https://onefootball.com/fr/news/face-au-havre-lincroyable-nouveau-coup-tactique-de-luis-enrique-43699231",
-          "source": "OneFootball"
+          "url": "https://www.20minutes.fr/sport/football/ligue-1/4259077-20261030-havre-paris-sg-composition-officielle-9e-journee-ligue-1-2027",
+          "source": "20 Minutes"
         },
         {
-          "title": "PSG : le nouveau but de Mika Godts",
+          "title": "Ligue 1 - Les notes de Le Havre AC - PSG : Achraf Hakimi brillant et cinq fois décisif, Paris terrasse le HAC et conserve son trône !",
           "snippet": "",
-          "url": "https://www.footmercato.net/a1037020982020841676-psg-le-nouveau-but-de-mika-godts",
-          "source": "Foot Mercato"
+          "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-les-notes-de-le-havre-ac-psg-achraf-hakimi-brillant-et-cinq-fois-decisif-paris-terrasse-le-hac-et-conserve-son-trone-544077.html",
+          "source": "MadeInFOOT"
         }
       ]
     },
@@ -239,16 +314,40 @@
           "source": "네이버페이 머니스토리"
         },
         {
-          "title": "이번 주 주목할 주식: 알파벳·인텔·아마존 등 기술주 급락",
-          "snippet": "",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2152028",
-          "source": "Investing.com 한국어"
-        },
-        {
           "title": "돈은 더 버는데 주가 폭락?‥AI가 집어삼킨 현금",
           "snippet": "",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862067_37004.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "[속보] 뉴욕 증시, 기술주 실적 부진에 하락 출발···다우 0.27%↓ 나스닥 2.42%↓",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261030_0003849101",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "term": "강남 이상화",
+      "pubDate": "2026-10-31T03:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "강남, 다시 태어나도 이상화와 결혼? \"로또 같은 사람, 안 맞아\"",
+          "snippet": "",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/ME2DIZTGHEYDONDEMRRTCOBWGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "강남 \"이상화, 로또 같은 사람\"이라더니…\"안 맞아\" 반전 고백",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848479",
+          "source": "뉴시스"
+        },
+        {
+          "title": "‘프러포즈 3번’ 강남 “♥이상화, 나한테 로또 같은 사람…안 맞아” 반전 폭로",
+          "snippet": "",
+          "url": "https://m.newsen.com/news_view.php?uid=202610301022430310",
+          "source": "뉴스엔"
         }
       ]
     },
@@ -281,22 +380,22 @@
       "pubDate": "2026-10-31T02:20:00+09:00",
       "newsItems": [
         {
-          "title": "Le Havre vs PSG Prediction, Betting Tips, Lineups & Odds | 30 Oct 2026",
+          "title": "Achraf Hakimi scores 1st career hat trick as Luis Enrique makes PSG history",
           "snippet": "",
-          "url": "https://www.sportsgambler.com/betting-tips/football/le-havre-vs-psg-prediction-lineups-odds-2026-10-30/",
-          "source": "Sportsgambler"
+          "url": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
+          "source": "ESPN"
         },
         {
-          "title": "Le Havre - Paris Saint-Germain LIVE. Ligue 1 latest updates",
+          "title": "Le Havre vs Paris Saint-Germain: Predicted starting lineup for Ligue 1 game",
           "snippet": "",
-          "url": "https://www.marca.com/en/soccer/ligue-1/le-havre-paris-saint-germain/2026/10/30/01_0109_20261030_141_149-live.html",
-          "source": "MARCA"
+          "url": "https://psgpost.com/le-havre-vs-paris-saint-germain-predicted-starting-lineup-for-ligue-1-game-01m668s8kjsv",
+          "source": "PSG Post"
         },
         {
-          "title": "Le Havre vs PSG: TV channel, live stream and kick-off time for Ligue 1 fixture",
+          "title": "Le Havre 1-5 PSG | Highlights",
           "snippet": "",
-          "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-le-havre-v-paris-saint-germain/blt84f88295b2c143cd",
-          "source": "Goal.com"
+          "url": "https://www.beinsports.com/en-mena/football/ligue-1/articles-video/hakimi-bags-hat-trick-as-paris-saint-germain-rip-le-havre-to-pieces-2026-10-30",
+          "source": "beIN SPORTS"
         }
       ]
     },
@@ -305,10 +404,10 @@
       "pubDate": "2026-10-31T01:20:00+09:00",
       "newsItems": [
         {
-          "title": "미국 중간선거 앞두고 사전투표 열기 ‘후끈’…역대최다 4천800만명 사전투표",
+          "title": "미 중간선거 사전 투표 '역대 최다'...트럼프, 캔자스·아이오와 유세 재개",
           "snippet": "",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700370",
-          "source": "KBS 뉴스"
+          "url": "https://www.ytn.co.kr/_ln/0104_202610310618279515",
+          "source": "YTN"
         },
         {
           "title": "\"美공화 텃밭도 안심 못해\"…루이지애나 ‘확실’→‘우세’ 하향",
@@ -317,109 +416,114 @@
           "source": "마켓인"
         },
         {
-          "title": "흔들리는 중서부 '딥 레드'...중도주의 내세워 파란",
+          "title": "[문정현의 글로브] 美 중간선거 이후 시장은",
           "snippet": "",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610310402484267",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "term": "카를로스 알카라스",
-      "pubDate": "2026-10-31T00:20:00+09:00",
-      "newsItems": [
-        {
-          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
-          "snippet": "",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "알카라즈는 2026년 비엔나 오픈 준결승에서 메드베데프와 맞붙게 된다.",
-          "snippet": "",
-          "url": "https://www.vietnam.vn/ko/alcaraz-cham-tran-medvedev-o-ban-ket-vienna-open-2026",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "알카라스, 하차노프 꺾고 비엔나오픈 16강⋯ATP 500 22연승",
-          "snippet": "",
-          "url": "https://m.etoday.co.kr/news/view/2640962?trc=right_categori_news",
-          "source": "이투데이"
-        }
-      ]
-    },
-    {
-      "term": "핼러윈",
-      "pubDate": "2026-10-31T00:10:00+09:00",
-      "newsItems": [
-        {
-          "title": "안전한 핼러윈, 소방이 함께합니다 - 카드/한컷 | 멀티미디어",
-          "snippet": "",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974606",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "[르포]이태원에 장갑차·경찰견도 등장...'핼러윈' 안전관리 총력 - 머니투데이",
-          "snippet": "",
-          "url": "https://www.mt.co.kr/society/2026/10/31/2026103020440586602",
-          "source": "머니투데이"
-        },
-        {
-          "title": "주말 핼러윈 앞둔 '불금' 저녁‥이태원 '북적' 인파관리 '비상'",
-          "snippet": "",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862064_37004.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "term": "김혜자",
-      "pubDate": "2026-10-31T00:00:00+09:00",
-      "newsItems": [
-        {
-          "title": "눈물 흘리며 빈소 온 김혜수‥'배우들의 아버지' 작별 [현장영상]",
-          "snippet": "",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862057_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "고 최불암에 '금관문화훈장' 추서...\"선한 영향력\"",
-          "snippet": "",
-          "url": "https://www.ytn.co.kr/_ln/0106_202610310435032689",
-          "source": "YTN"
-        },
-        {
-          "title": "의로운 박반장, 푸근한 김회장… ‘파하’ 웃으며 시대를 위로했다",
-          "snippet": "",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/31/DPLWMSNJPNCLZOZ7CWQQ5CBAQQ/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "term": "trick or treat",
-      "pubDate": "2026-10-31T00:00:00+09:00",
-      "newsItems": [
-        {
-          "title": "Halloween weather forecast: what to expect where you are",
-          "snippet": "",
-          "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast",
-          "source": "The Weather Channel"
-        },
-        {
-          "title": "Halloween weekend forecast: lots of cloud cover with some rain possible",
-          "snippet": "",
-          "url": "https://www.yahoo.com/news/weather-news/articles/halloween-weekend-forecast-lots-cloud-192533647.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Houston weather: Cloudy, scattered showers to kick off Halloween weekend",
-          "snippet": "",
-          "url": "https://www.fox26houston.com/weather/houston-weather-friday-october-30-2026",
-          "source": "FOX 26 Houston"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442213",
+          "source": "연합인포맥스"
         }
       ]
     }
   ],
-  "nate": []
+  "nate": [
+    {
+      "rank": 1,
+      "title": "'다리에 대변 흐르는데도 경기 강행' 민폐 논란 女 선수, 거센 비판에 ...",
+      "link": "https://news.nate.com/view/20261031n00159"
+    },
+    {
+      "rank": 2,
+      "title": "기안84, 또 위생 논란…땅에 떨어진 음식 주워 먹자 유리 충격 \"왜 안 ...",
+      "link": "https://news.nate.com/view/20261030n36776"
+    },
+    {
+      "rank": 3,
+      "title": "핼러윈 앞둔 이태원·성수 '들썩'…\"4년 전 잊지 않으려 와\"(종합)",
+      "link": "https://news.nate.com/view/20261030n35860"
+    },
+    {
+      "rank": 4,
+      "title": "故최불암 아내 김민자, 조문객 손 꼭 잡고 눈물 삼키며 배웅 '먹먹'",
+      "link": "https://news.nate.com/view/20261030n35857"
+    },
+    {
+      "rank": 5,
+      "title": "서현진, 첫 데이트 후 성폭행 주장 오열→유연석 긴급 체포(라이어)",
+      "link": "https://news.nate.com/view/20261030n35971"
+    },
+    {
+      "rank": 6,
+      "title": "\"4인 가족 뷔페 갔더니 '94만원' 나와\" 그래도 만석…연말 앞두고 예약 몰...",
+      "link": "https://news.nate.com/view/20261030n34448"
+    },
+    {
+      "rank": 7,
+      "title": "\"손흥민 아닌 새 주장으로 출발 원했다\"? 英 매체 충격 주장! 김민재·황인...",
+      "link": "https://news.nate.com/view/20261031n00158"
+    },
+    {
+      "rank": 8,
+      "title": "\"단골인데 정이 다 떨어져\"…치킨 '포장할인' 두고 '갑론을박'",
+      "link": "https://news.nate.com/view/20261030n31688"
+    },
+    {
+      "rank": 9,
+      "title": "\"안 꾸민 척, 사실은 풀세팅\"…강유미, '현백코어' 저격에 몽클레르 꼴 날...",
+      "link": "https://news.nate.com/view/20261030n28245"
+    },
+    {
+      "rank": 10,
+      "title": "환하게 웃는 김정은-김주애-리설주",
+      "link": "https://news.nate.com/view/20261030n22378"
+    },
+    {
+      "rank": 11,
+      "title": "\"피곤해도 비싸서 망설였는데\"…내년 휴게소 커피 1000원대로",
+      "link": "https://news.nate.com/view/20261030n28134"
+    },
+    {
+      "rank": 12,
+      "title": "'0' 하나 잘못 썼다가 18억 아파트가 172억에 낙찰…결국 경매 입찰표 양식...",
+      "link": "https://news.nate.com/view/20261030n16339"
+    },
+    {
+      "rank": 13,
+      "title": "\"음식 바닥에 놓기 죄송해서\"…쿠팡 배달원의 작은 배려",
+      "link": "https://news.nate.com/view/20261030n32664"
+    },
+    {
+      "rank": 14,
+      "title": "\"젠슨 황 옆에서 술 마시던 女사업가, 중국 스파이였다\"",
+      "link": "https://news.nate.com/view/20261030n25689"
+    },
+    {
+      "rank": 15,
+      "title": "\"못생긴 신발, 한물간 줄 알았는데\"…30% 폭락했던 크록스 주가 '대반전'",
+      "link": "https://news.nate.com/view/20261030n22161"
+    },
+    {
+      "rank": 16,
+      "title": "\"책임 통감\"…'대장균군 부적합' 한정선 찹쌀떡 제조사 결국 사과",
+      "link": "https://news.nate.com/view/20261030n27598"
+    },
+    {
+      "rank": 17,
+      "title": "종로 무료급식소 100ｍ 줄에 여성은 5명뿐…궁핍한 할머니들은 어디로 갔나...",
+      "link": "https://news.nate.com/view/20261030n29195"
+    },
+    {
+      "rank": 18,
+      "title": "한준수가 다 했다…'아내' 김이서 치어리더도 '한준수 주니어' 번쩍[스한 ...",
+      "link": "https://news.nate.com/view/20261030n34818"
+    },
+    {
+      "rank": 19,
+      "title": "'선 넘었다' 충격의 악플 테러, 결국 삼성 외인 또 폭발했다…\"내가 만난 ...",
+      "link": "https://news.nate.com/view/20261030n36722"
+    },
+    {
+      "rank": 20,
+      "title": "\"여학생들 급하면 성매매 가능\"…망언 교수 '감봉 2개월' 뒤 정년퇴직",
+      "link": "https://news.nate.com/view/20261030n27016"
+    }
+  ]
 }
