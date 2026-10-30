@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-31",
+  "slot": "am",
+  "hookLine": "알파벳 충격에 코스피 3.48% 폭락했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "증시 충격",
+      "title": "코스피 3.48% 급락, 5730선",
+      "summary": "코스피가 3.48% 급락해 5730.74로 마감했습니다. 알파벳 실적 쇼크로 외국인이 1조6173억원을 순매도했습니다.",
+      "sourceTitle": "코스피 3.48% 급락 5730선...알파벳 AI 실적 쇼크, 외국인 1조6173억 순매도",
+      "sourceDesc": "알파벳 실적 부진으로 외국인이 1조6173억원을 순매도하며 코스피가 3.48% 급락해 5730.74로 마감했다. 코스닥도 3%대 하락해 720선을 기록했으며 SK하이닉스가 6% 하락했다.",
+      "sourceLink": "https://m.news.nate.com/view/20261030n23847",
+      "sourceDate": "2026-10-30",
+      "imagePrompt": "photojournalism, stock exchange digital ticker board with sharp red downward arrows, dark trading floor atmosphere, dramatic contrast lighting, no people, no text, vertical 9:16 composition",
+      "narration": "알파벳 쇼크, 코스피 3.48% 폭락했습니다."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "사이버 해킹",
+      "title": "바이낸스 63억달러 해킹, 북한 배후",
+      "summary": "바이낸스에서 63억달러(약 8조4111억원) 규모의 자산이 유출됐습니다. 미 당국과 TRM랩스는 북한 해킹그룹 TraderTraitor를 배후로 지목했습니다.",
+      "sourceTitle": "세계 최대 거래소 바이낸스서 63억달러 해킹...북한 TraderTraitor 배후",
+      "sourceDesc": "미 재무부와 TRM랩스가 북한 해킹 그룹 TraderTraitor를 배후로 공식 지목했다. 피해액은 63억달러(약 8조4111억원)이며 약 25억~30억달러가 동결됐다.",
+      "sourceLink": "https://www.newsis.com/view/NISX20261030_0003847900",
+      "sourceDate": "2026-10-30",
+      "imagePrompt": "photojournalism, dark server room with rows of illuminated hardware and network cables glowing in blue, data breach atmosphere, no people, no text, vertical 9:16 composition",
+      "narration": "세계 최대 거래소에서 63억달러가 털렸습니다."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "계엄 재판",
+      "title": "계엄 군인 8명 전원 무죄 선고",
+      "summary": "서울중앙지법이 계엄 사태 관련 군인 8명 전원에게 무죄를 선고했습니다. 재판부는 국헌문란을 목적으로 한 행위가 없었다고 판단했습니다.",
+      "sourceTitle": "계엄 군인 8명 전원 무죄...구삼회·방정환 등 국헌문란 목적 없어",
+      "sourceDesc": "서울중앙지법 형사합의38-2부가 계엄 사태 관련 구삼회 전 2기갑여단장, 방정환 전 국방혁신기획관 등 8명 전원에게 무죄를 선고했다. 재판부는 국헌문란을 목적으로 한 행위가 없었다고 판단했다.",
+      "sourceLink": "https://www.segye.com/newsView/20261030508254",
+      "sourceDate": "2026-10-30",
+      "imagePrompt": "photojournalism, empty courtroom interior with polished wooden judge bench and formal overhead lighting, austere solemn atmosphere, no people, no text, vertical 9:16 composition",
+      "narration": "계엄 군인 8명, 법원이 전원 무죄를 선고했습니다."
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "버스 정상화",
+      "title": "경기 버스 4130대 파업 철회 정상 운행",
+      "summary": "경기도 버스 노사가 오전 2시 32분 임금 3.2% 인상에 합의하며 파업을 철회했습니다. 29개 업체 4130대가 첫차부터 정상 운행했습니다.",
+      "sourceTitle": "경기 버스 노사 임단협 파업 앞두고 극적 타결···오늘 정상 운행",
+      "sourceDesc": "수원 경기지방노동위원회에서 오전 2시 32분 조정안에 합의했다. 준공영제·민영제 시급을 3.2% 인상하기로 했으며, 29개 업체 854개 노선 4130대가 첫차부터 정상 운행에 들어갔다.",
+      "sourceLink": "https://www.khan.co.kr/article/202610300543001/",
+      "sourceDate": "2026-10-30",
+      "imagePrompt": "photojournalism, Gyeonggi intercity buses lined up at a terminal in early morning dawn light, misty atmosphere, first departure of the day, no people, no text, vertical 9:16 composition",
+      "narration": "경기 버스 4130대, 오늘 첫차부터 정상 운행됩니다."
+    }
+  ],
+  "caption": "오늘의 국내 주요 뉴스 — 2026년 10월 31일\n\n1. 코스피 3.48% 급락, 5730선\n2. 바이낸스 63억달러 해킹, 북한 배후\n3. 계엄 군인 8명 전원 무죄 선고\n4. 경기 버스 4130대 파업 철회 정상 운행\n\n매일 아침 대한민국 주요 뉴스를 1분 안에 정리해 드립니다. 팔로우하고 매일 받아보세요.\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #속보 #카드뉴스 #데일리뉴스",
+  "selection": {
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
