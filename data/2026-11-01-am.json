@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-01",
+  "slot": "am",
+  "hookLine": "최불암이 별세했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "문화",
+      "kicker": "국민 배우 부고",
+      "title": "최불암 별세",
+      "summary": "배우 최불암 씨가 별세했습니다. 빈소에 추모 조문 발길이 이어지고 있습니다.",
+      "sourceTitle": "최불암 별세 / 차예련 학폭 의혹 부인 / 승리 혼인신고·아내 임신 등 [주간 대중문화 이슈]",
+      "sourceDesc": "배우 최불암이 별세했다. 조문 행렬이 빈소로 이어지는 가운데 연예계 전반에서 추모의 물결이 번지고 있다.",
+      "sourceLink": "https://m.news.nate.com/view/20261031n06427",
+      "sourceDate": "2026-10-31",
+      "imagePrompt": "photojournalism, close-up of white chrysanthemum flowers in a ceremonial wreath, soft diffused natural light, solemn memorial atmosphere, shallow depth of field, documentary style, no people, no text, vertical 9:16 composition",
+      "narration": "배우 최불암 씨가 별세했습니다."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "할로윈 현장",
+      "title": "이태원 할로윈, 3만 인파 무정차 통과까지",
+      "summary": "할로윈 당일 이태원에 3만여 명이 몰렸습니다. 혼잡으로 이태원역이 무정차 통과했지만 큰 사고 없이 마무리됐습니다.",
+      "sourceTitle": "[르포] '좁은 골목길 엄청난 인파'…이태원역 무정차 통과까지",
+      "sourceDesc": "할로윈 당일 이태원에 3만에서 3만2천 명이 모였다. 혼잡이 심해지며 이태원역이 무정차 통과했지만 경찰이 통제에 나서며 큰 사고 없이 마무리됐다. 2022년 참사 현장 골목 인근까지 인파가 들어찼다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026103123350638214",
+      "sourceDate": "2026-10-31",
+      "imagePrompt": "photojournalism, Seoul subway platform entrance at night with blurred city lights visible through glass, overhead fluorescent lighting, late night urban atmosphere, empty platform edge, documentary style, no people, no text, vertical 9:16 composition",
+      "narration": "이태원역이 혼잡으로 무정차 통과했습니다."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "외교·비자",
+      "title": "진성준, 비자 발급…내일 미국 출국",
+      "summary": "진성준 위원장이 미국 비자를 뒤늦게나마 발급받았다고 밝혔습니다. 그는 내일 미국으로 출국할 예정입니다.",
+      "sourceTitle": "[속보] 진성준 \"방금 비자 발급… 뒤늦게나마 다행\" 내일 美 출국",
+      "sourceDesc": "진성준 위원장이 방금 비자가 발급됐다며 뒤늦게나마 다행이라고 밝혔다. 그는 내일 미국으로 출국할 예정이라고 전했다.",
+      "sourceLink": "https://www.segye.com/newsView/20261031503373",
+      "sourceDate": "2026-10-31",
+      "imagePrompt": "photojournalism, dark navy blue diplomatic passport on a wooden desk beside a window with soft daylight, travel documents and boarding pass, diplomacy mood, documentary style, no people, no text, vertical 9:16 composition",
+      "narration": "진성준이 미국 비자를 발급받았습니다."
+    },
+    {
+      "rank": 4,
+      "category": "날씨",
+      "kicker": "11월 첫날 비",
+      "title": "11월 첫날 전국 비, 제주 천둥번개도",
+      "summary": "11월 첫날 전국 대부분 지역에 비가 내립니다. 제주도는 천둥·번개를 동반한 비가 예보됐으니 우산을 챙기세요.",
+      "sourceTitle": "11월 첫날 우산 챙기세요…전국 대부분 비, 제주는 천둥·번개도",
+      "sourceDesc": "11월 첫날인 1일 전국 대부분 지역에 비가 내릴 것으로 예보됐다. 제주도는 천둥·번개를 동반한 비가 예보됐다. 우산을 챙겨야 하는 날씨가 이어질 전망이다.",
+      "sourceLink": "https://m.news.nate.com/view/20261031n06422",
+      "sourceDate": "2026-10-31",
+      "imagePrompt": "photojournalism, rain falling on a Korean city street with reflections of traffic lights on wet pavement, moody grey overcast sky, early morning atmosphere, documentary style, no people, no text, vertical 9:16 composition",
+      "narration": "11월 첫날 전국에 비가 내립니다."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-01 아침 브리핑\n\n1. 최불암 별세\n2. 이태원 할로윈, 3만 인파 무정차 통과까지\n3. 진성준, 비자 발급…내일 미국 출국\n4. 11월 첫날 전국 비, 제주 천둥번개도\n\n내일 아침에도 물어오겠습니다 🦆\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리",
+  "selection": {
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
