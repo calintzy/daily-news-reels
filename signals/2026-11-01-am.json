@@ -1,6 +1,6 @@
 {
   "stem": "2026-11-01-am",
-  "collectedAt": "2026-11-01T04:56:01+09:00",
+  "collectedAt": "2026-11-01T05:39:22+09:00",
   "sources": {
     "news": "ok",
     "trends": "ok",
@@ -8,10 +8,16 @@
   },
   "news": [
     {
-      "title": "정청래, 유시민 발언에 “독립운동도 노선 여럿…얘기 들어주고 고개 끄덕여줘야”",
+      "title": "[포토] 장갑차까지 등장한 이태원 핼러윈…축제와 추모가 한자리에",
       "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Wa3NpQ0FzM04xNnBnOGRLRW5JUmhuazhGNURmMWo3Rll6R01xOThuRmlrVFFDcFNNQmNtRjE4LU1ucjBtMEp1Qk40aXBUVVo2ZDg3V1QzU1dBTDRCZ0F1UExzUTFhMWViRG82b2pudS1XTmhE?oc=5",
-      "pubDate": "2026-10-31T21:40:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ycHZMZmNicHNjeEJfRkc3VE5YajVJT2dlclQxNkVSNElJRVJGUTZtdVVLS3p0TDNVbzdleUxjZHA5cHRneU5VeHpMNTN1QzRNQlVJTWVTV05WRDc1RnV0N254RXVWR3FiMFVBZ0Fxd2lUdw?oc=5",
+      "pubDate": "2026-10-31T21:23:00+09:00"
+    },
+    {
+      "title": "‘유시민 발언 논란’에 입 연 정청래 “독립운동도 노선 하나 아냐···토닥이며 함께 가야”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jdWF3V1NWbHA5Y2xwQ185SjRoaEF0Y1QzdmM3MVNsYkRoM212SHBFRnhKNGwzWHZEa0pYckozcEhtLXpYMVpNMDZiajNoMExwMndVMUUwQ0FQQdIBX0FVX3lxTE55MUkzSWpIcXZSWTJVcGVCYlE4dUtiUF9hMGwwa3N4LTNvZXJOYjQxeE0wTGZkc29IMDJlS1VMeHhMNjZPVnI1VWoycUJfZmQwSE54cF84cThoNHM1UjU4?oc=5",
+      "pubDate": "2026-10-31T18:12:00+09:00"
     },
     {
       "title": "미 국무, 한국 의원 비자 문제에 “수십년 전 행동 관련…해결할 것”",
@@ -20,10 +26,10 @@
       "pubDate": "2026-11-01T02:59:00+09:00"
     },
     {
-      "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmxpSHJEUmNBR2lPN01KcURBLU8yUjA0SmtuZWJXVHlsQnROX0dBTW9yblNKYkdOVFhoVDBwbWVfSGhSTExNUnZmSTRLMFJFb2p4NWUtWUZPTWMyWU41RFdLNnlHV1lsMkVDNDBZSlFYdHdNWkhfM2c2M2E0NHZSeWpYUUhwZERZS2hkLXo4SEM?oc=5",
-      "pubDate": "2026-10-31T23:34:57+09:00"
+      "title": "이 대통령, 서울 집값 하락 전망 글 공유하며 “자산시장 정상화, 지금은 견디는 중”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwNnlaWF9mRXF5bEtlSkJvWTlZU0xOM2p1X216TDJkV1BUMjBkZHpUVG1lRUUteHlsUHZFYjVpcjkyckRTZlgydDY4ZXZ4T0hGdUVvWS1yRGE4UdIBX0FVX3lxTE83WWVEUmt2ZWREYzk2UVNnNXM2OWEwYlpfbEtRVElCOGdKSWV1bS1FRDY2enluUnF3UWljNlVYeHRlMWYwTDlkUkFxUE84RmtzYkItaUMwX18yWkd1S3JF?oc=5",
+      "pubDate": "2026-10-31T17:22:00+09:00"
     },
     {
       "title": "[뉴스9 날씨] 내일, 점차 전국에 비…오늘보다 더 쌀쌀",
@@ -32,22 +38,10 @@
       "pubDate": "2026-10-31T21:36:00+09:00"
     },
     {
-      "title": "[현장] 투표지 떠난 올공… 검증 불신 커진 시민들 “전국에 알릴 것”",
-      "source": "천지일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjV2NEX1pILW9UUzNtNFZYSGhDcmYwYzNMb3lnMGpYajgzVWdyLTdfRUtaazAyaGVxMUZOWHUzNHhOdjdib1VUNE5OLV9QSU1LazZuTGFXN29nQzlqQVJST3M5ZXNCWTlXU2c?oc=5",
-      "pubDate": "2026-10-31T19:00:00+09:00"
-    },
-    {
-      "title": "정청래 “김민석, 취임 100일이면 판가름…이후 어떤 깃발 들지 생각 중”",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPbndQNmEtUEM4aXRkUVJPcERoU1U5ajFzRlh2VGhUSzNiQTFzQmllN2lfaEtKMldhTjZTSDlzQjZPT2hCZ2t5dG5jXzk4LXFxdzJvbmdtYm16UdIBX0FVX3lxTE9FbEotbUU5WFhmSnpQcnFyRGg5cGZ6MDBYa21NU2hEZVEyY09rdDRwcVlNeHEzTEt3MVZ3UWJaNktselFjdlhpWUFXenV1ZTNGTmFmYmZMVlpGV2g5T2ZJ?oc=5",
-      "pubDate": "2026-10-31T21:39:00+09:00"
-    },
-    {
-      "title": "서울 집값 90주 연속 올랐는데... 李 \"자산시장 정상화 향한 힘든 길\"",
+      "title": "정청래 \"김민석, 취임 100일이면 판가름… 그때 난 어떤 깃발 들지 생각 중\"",
       "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1czcDN2dW1CWm0tcnA5VHB5alFuQ19yZkhaQVJuOFFJOGc2SktGWDQ2cjZIVkJWSmV0OUhsX3k4NXhuQ2JxTm90WnNTQS1OVVliSEU0bzZhOHRUaS1EZmI4cWZySmQ4dkNXMW5Ddl9FNzNkQlZoOEVxUmtyRTJ5Q3NhbUZZRTRKU1pndHR4dUM?oc=5",
-      "pubDate": "2026-10-31T17:40:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFJwWDVONE0wZFA4R01fU25WcVZ0aXd0Q2VZN2laYi1EZ0xRMHFtTUNxSTh5Q0Zad1JXQ3BNaEVRdUY1VHRIeFN4dzZwUy0tOWpZblVxRmhKeHV3YkducFpyYlJ0LVdRSFdQRzl3X3pNYU0tUnlSZ3NnNm1oNVZDWGdZMmIwZw?oc=5",
+      "pubDate": "2026-10-31T22:39:00+09:00"
     },
     {
       "title": "160만명 홀린 부산 명물 ‘부캉이’ 어디 갔나…닷새째 감감무소식",
@@ -56,10 +50,22 @@
       "pubDate": "2026-10-31T15:49:22+09:00"
     },
     {
+      "title": "구속영장 반려 50일 만에 소환된 김병기 “말로는 다 못 할 불이익”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UOUY3alJBYzFRR09obXk5Um56VDNYb2ROV2lmU3VqcWxBYUE3R243Zl9mZFQtNTNOT3ZIOGRHckhRakk1SXpnaGdVZjJFeGFKb2FnZ3ZyWGNFLWxscVRVTTllR1U4cjZfSENUa1d4OUtXQQ?oc=5",
+      "pubDate": "2026-10-31T17:55:00+09:00"
+    },
+    {
       "title": "\"개처럼 일한다\"는 트럼프, 10월에만 26차례 중간선거 유세",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aMHJYak5uTUQzS190U2dFS25WQXI5aXFxQmhWYlR4NDR6WDM3WlVSZndBTGU3NlNpOHZxQ2JiMTJiVEM4NVk0UHRObTROUDN4LW1SNHNfcm9QSUXSAWBBVV95cUxOdVExNi1iVmJBWmNsMVpsTnozQU5HR3ozbEM2bjJoQWE2OW5OSHNNN09DeF9jMzczajFNVkhYZm83bXgwNDhtQ29YM0RiOGNROFJYcXhsNjVOMjJfNVJKeGI?oc=5",
       "pubDate": "2026-11-01T00:08:51+09:00"
+    },
+    {
+      "title": "트럼프, 美 중간선거 조건부 승복 입장에 불복 우려 커져",
+      "source": "천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsZVBTRWxSbDhfZmE3T1ZiVTB4RnVQRnN3bjVZTkxRbEJ1UndXTDgxMElMbHpkVk9JRWIxYm94cnFWaEoyTTRQVDY5NTA3WlhPQnVGNEREd190ZVRXMWY0a0tNbHNFMW9pX0E?oc=5",
+      "pubDate": "2026-10-31T23:12:05+09:00"
     },
     {
       "title": "프랑스 전역 3주째 주말 시위…강경대응에도 32만명 거리로",
@@ -68,22 +74,16 @@
       "pubDate": "2026-11-01T01:37:58+09:00"
     },
     {
-      "title": "우크라, 정유시설 공격 재개… 美, 패트리엇 500발 판매 승인",
-      "source": "천지일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Qk1UelB4WmpsUXNVS3RxaE0zam9jd2tlTW1pcVg3VFZ4cEJGSFFLZENJamY5U0RNTDdpZ01Ed2RDZW4wMmJVZ2xjYUY5NVMyMXRBQlVjeUphVjRvM0NRV2xvZnJCU0JabXc?oc=5",
-      "pubDate": "2026-10-31T17:30:00+09:00"
+      "title": "美국무 \"트럼프, 이란 공격 재개 아직 결정 안 내렸다\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84bHF1RU1QcE1WX2VoUFdhcU1ibkh2Vk1HeGxJVzlOVnpJQlpEX0JhN1hfeTBZSlp4cTAxR3pYNmlwNlk3TjZEWEVKanF4b3d5ODRqaUdTUVlXQlXSAWBBVV95cUxNNnd5X3VodllocDA4dkxnR2tqOEh3ekhGa2hqUVZLQ2xDV3NBU1FRc3N4RzRnT1RHZkJkSmt1UDNKb3BpTXNyY1diLXo5WEhiN0VmT21ic0w3aHJCR2JPRXM?oc=5",
+      "pubDate": "2026-11-01T04:04:24+09:00"
     },
     {
-      "title": "브라질 대선 패배 후 미국 도피한 보우소나루 \"핍박 때문\"",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rMVpWRmpEUkNPQWtBRzVlU2prOWlTeGxfb2ZZY3QwN1lmU0s3MHNlM3NSZkdRcE5xZWh0UlNURWJXd1ZYWHV2X2gxOGZGUEg4WXRLZlNlTjV6QQ?oc=5",
-      "pubDate": "2026-10-31T18:20:37+09:00"
-    },
-    {
-      "title": "미, 바이낸스 해킹 공조수사 착수…북미대화 변수되나?",
+      "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓",
       "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2X1V6ZDNUaG9zbDB6Uk5tZmlfSkc4MU5VN0pOa012WEdFOXl1RERXcUlJTVJyN29mb0x6dUtmMm5qbUlMbEdLd2s1Y0ZCa0dFOXZ2ZThCRnk3QUU?oc=5",
-      "pubDate": "2026-10-31T21:02:00+09:00"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
+      "pubDate": "2026-10-31T21:04:00+09:00"
     },
     {
       "title": "삼성 사장단 만난 올트먼‥'AI 키보드' 선물도",
@@ -92,10 +92,16 @@
       "pubDate": "2026-10-31T16:53:12+09:00"
     },
     {
-      "title": "올해만 57% 넘게 올랐다고?…정교해지는 해킹수법에 보안ETF ‘이목’",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PS2M4X1ZGNGFSbjFiSG1pMkVMNDhiTDRBdndmN2NRTXBSXzlMRk91TkdmQmlubE9nWW50SVFtTHZWUFJBc1dsWlZ2MHNQSjRyMWc?oc=5",
-      "pubDate": "2026-10-31T21:05:26+09:00"
+      "title": "바이낸스, 63억弗 해킹 피해액 90% 회삿돈 등으로 메워…내일부터 출금",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZmxlTF84T1EyM2EtRmFlY1R0dXA0b0ZFTU94cm50dDV0M1BzZjFRbkl2Q1RoQlZvSXFxTkU4SUhvR083WDlDRXEtZU9qS2JzSzdMcFl0dldoazVEOVR4bnRYUGxUNWVMSFhiWVBIcFQ?oc=5",
+      "pubDate": "2026-11-01T02:42:46+09:00"
+    },
+    {
+      "title": "군산시, 새만금 기본계획 변경 ‘선제 대응’ 결실",
+      "source": "한국방송뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UMUZicFVpdGNrRTRpeFRJd3plOER2SEpaMWpjcHVKcFJCdU5oZ1NySlZZYnpBTkZTM2RfUFRKVmhUZWg5OXhoS1FHd2JVeTVnYkxsMlRYRDRGaE1Bamc?oc=5",
+      "pubDate": "2026-11-01T03:29:27+09:00"
     },
     {
       "title": "RTX 5090은 4K 해상도에서 DLSS 5 2X를 사용했을 때 53 FPS를 기록했으며, 패스 트레이싱과 DLSS 4.5 성능을 사용했을 때는 92 FPS를 기록했습니다.",
@@ -104,34 +110,34 @@
       "pubDate": "2026-10-31T23:23:38+09:00"
     },
     {
+      "title": "레노버 구글북 15, 1,099달러 OLED 하드웨어는 호평인데 OS는 덜 완성됐다는 혹평",
+      "source": "위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wc3BPN2hKamI4a2ZpVkJkQ19kOE5PRXhXcE1oN2F2OHBFZDB4bzBBRWVWVnEwSUhIR201bDFLRVpJZ0VVb3ExVC1QN0szcS1ocnR4Ukp3?oc=5",
+      "pubDate": "2026-11-01T05:01:00+09:00"
+    },
+    {
       "title": "Call of Duty 블랙옵스 3에 DLSS 5 그래픽으로 리메이크된 FIVE 맵이 추가됩니다.",
       "source": "GameGPU",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREU4cHNUamk5QVViNDA1aVB3cU80QzRxdEhoejA0YTNoNkJiRG55VVZZWFJtZTcwd0JsTW56OXlXU0xSTE9iRHB3MGpIQ1NFQW1MbDNkNmF6WTYtbXNyYWQyU2VFaFR6VWpsUjAyWDFLMEVVZkZWTThYT2lJa3Rybk1QRFNZQW9KWEdXWUx4R3BWcG9scENxa0RjZkdSMUtnS3VtV0pn?oc=5",
       "pubDate": "2026-10-31T20:38:47+09:00"
     },
     {
-      "title": "파이널 판타지 7 리버스는 메시 셰이더를 지원하지 않는 NVIDIA TITAN V에서 60 FPS로 실행되었습니다.",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeV9yZUxFdE9CY3RuUzlnQmJFRkZGcWl5WDR5MEQtbWhienJjY2h5dk4wV1g0NlV0b2Q5THhoaHF5UnRTTlA5ckZLR25GM281TjFLalIyMURldHFsNEZFRGltVXdNc2lGQlhNY0VOLTA5ejhfa283MDk2UlFPZjViV1lFYU01bFNfcnE4eEdfVkpUWEh0N1JPWmhpRXR0RWRzNXdJSnpPNEctODN6RVRBX2J5WFowMXhQS2lvci05aWhzQQ?oc=5",
-      "pubDate": "2026-11-01T00:38:10+09:00"
-    },
-    {
-      "title": "김흥국 \"故최불암 빈소, '수사반장'팀 한 명도 안 오셔 '다 떠나셨구나'\" 먹먹",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUZ0TWViSVFyTF9kU3pualZYalBXRzBWUXl2NmtoYUViZDNEempfcmVYM1AxME1tYVVGREczWEVNYzE2UXo4WUxxWWkxQWhtLU5oNE1waUFhcWpDWWlycjR4ZnluenU0VldCLTJzbHByQUVBS0V5YkJZWk0wRW4tSHB2dnRnbE1RRmMwc1FNSQ?oc=5",
-      "pubDate": "2026-10-31T18:51:00+09:00"
-    },
-    {
-      "title": "로빈 “한국인 아내와 결혼한 지 1년 반‥내년 초에 아들 태어나” (동치미)",
+      "title": "줄리안 “한국인 아내와 2년 동거 후 결혼, 룸메이트 많아 기준 찾아” (동치미)",
       "source": "뉴스엔",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBacS13QV94enAxbTNSVzhwc1BqckZoSVdvZ2xiYWFSNnh2bTlWUFFxdEI1b0p1TW5CaDVOek5IMllpVFM0dmd4SlBzU0lOdjM3RGE0dDlrYTlfejBKYjFSalBxX2xBYWpoYlV4THRxN3lwTm1HelNZQ18yQQ?oc=5",
-      "pubDate": "2026-10-31T23:56:05+09:00"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94MkNZR2NHa1lmZjJVaEpMSE9WVW5kSm9OZU40VXVNbHRDSm14V1JOUHJUSUJMX2Y5SmR5TE04RDlNbjhEYllVdXl6anlPcEp1UEVGR3BNX3c1ZUhaUGZGUF8zYTFMUTczRWRfSlp0WU1Pd0FyQnpuaE5CZw?oc=5",
+      "pubDate": "2026-11-01T00:18:24+09:00"
     },
     {
       "title": "‘파이널 테이블’ 안효섭 vs 장률 선 넘는 도발…과거사 베일 벗는다",
       "source": "iMBC 연예",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XVUJRQnlHZ0xtQk9NaEM4VlFQRmdRa1FBc0xtekk1UHZvNmREdVhsUEdrTUh4YVhubmJBOE1yaXNEVGJJYS1oZnJxSy1HVnlqcm5aUnpKeXQ5UGo2cTNxSg?oc=5",
       "pubDate": "2026-10-31T22:43:00+09:00"
+    },
+    {
+      "title": "'학폭 의혹' 차예련, 딸 공개가 독 됐나..♥주상욱 꽃길에 '찬물' [핫피플]",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNng2T3pTUVZtaS1FZElqUmhXNVZqbjVFaGp3ekxIeWZaVDJSTW9DcE4ybmRDQ2N2RGVOUUhabmxINDFYQ3JQazd6X0VrZnUyMnZFaDV5S25yUHVneU1oZkNVSE43ZlpGNnZBcVFzaGlPVFFac29wanFsSUdOR2E3SWg4TDRWRXZQd05JZzRLZw?oc=5",
+      "pubDate": "2026-10-31T17:17:00+09:00"
     },
     {
       "title": "KBO, 프로야구 한화 내야수 노시환 MLB에 포스팅 요청",
@@ -160,26 +166,26 @@
   ],
   "trends": [
     {
-      "term": "레알 베티스 대 말라가",
-      "pubDate": "2026-11-01T03:30:00+09:00",
+      "term": "바르셀로나 대 알라베스",
+      "pubDate": "2026-11-01T04:10:00+09:00",
       "newsItems": [
         {
-          "title": "Blackhawks vs. Bruins (Oct 31, 2026) Live Score",
+          "title": "바르셀로나 vs 알라베스 예측: 원정팀은 부진을 끝내기 위해 필사적으로 노력할 것이다.",
           "snippet": "",
-          "url": "https://www.espn.com/nhl/game/_/gameId/401892614",
-          "source": "ESPN"
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-alaves-khach-quyet-chan-da-sa-sut",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Western Michigan 23-10 Bowling Green (Oct 31, 2026) Box Score",
+          "title": "라리가 바르셀로나 대 알라베스 축구 예측",
           "snippet": "",
-          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866452",
-          "source": "ESPN"
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-barcelona-vs-alaves-tai-la-liga-1792360.ldo",
+          "source": "Laodong.vn"
         },
         {
-          "title": "St. Louis vs. San Diego (Oct 31, 2026) Team Stats",
+          "title": "‘공격력은 막강한데 수비가 문제’ 바르셀로나, 겨울에 즉시전력감 CB 영입 나선다...주요 타겟은 4명!",
           "snippet": "",
-          "url": "https://www.espn.com/soccer/team-stats/_/gameId/761926/league/usa.1",
-          "source": "ESPN"
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100055",
+          "source": "포포투"
         }
       ]
     },
@@ -188,22 +194,22 @@
       "pubDate": "2026-11-01T03:20:00+09:00",
       "newsItems": [
         {
+          "title": "Tottenham 2-0 Crystal Palace: Spurs pile pressure on Sage as 10-man Palace are beaten",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/c9gkv231djj2t",
+          "source": "BBC"
+        },
+        {
           "title": "Premier League predictions & Jones Knows' best bets: Liverpool vs Arsenal, Tottenham vs Crystal Palace and much more",
           "snippet": "",
           "url": "https://www.skysports.com/football/news/13604412/premier-league-predictions-and-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
           "source": "Sky Sports"
         },
         {
-          "title": "BBC journalist singles out Crystal Palace star who has badly let Pierre Sage down after Tottenham display",
+          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
           "snippet": "",
-          "url": "https://www.livescore.com/en/news/football/premier-league/bbc-journalist-singles-out-crystal-palace-star-who-has-badly-let-pierre-sage-down-after-tottenham-display-caughtoffside/",
-          "source": "LiveScore"
-        },
-        {
-          "title": "Spurs v Crystal Palace team news: Maddison a sub, Solanke in",
-          "snippet": "",
-          "url": "https://www.fantasyfootballscout.co.uk/2026/10/31/spurs-v-crystal-palace-team-news-maddison-a-sub-solanke-in/",
-          "source": "Fantasy Football Scout"
+          "url": "https://www.firstpost.com/football-news/live-score/stats/bet-vs-mag-191496/",
+          "source": "Firstpost"
         }
       ]
     },
@@ -232,30 +238,6 @@
       ]
     },
     {
-      "term": "바이에른 뮌헨",
-      "pubDate": "2026-11-01T03:00:00+09:00",
-      "newsItems": [
-        {
-          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
-          "snippet": "",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성",
-          "snippet": "",
-          "url": "https://www.osen.co.kr/article/G1112901767",
-          "source": "OSEN"
-        },
-        {
-          "title": "국가대표 은퇴 논란 이후 펄펄 나는 김민재, 독일 대표팀 조나단 타 밀어낼까…“한때 전력 외였지만 점점 주전을 점하는 분위기”",
-          "snippet": "",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016660",
-          "source": "SPOTV NEWS"
-        }
-      ]
-    },
-    {
       "term": "트위치",
       "pubDate": "2026-11-01T02:40:00+09:00",
       "newsItems": [
@@ -276,6 +258,30 @@
           "snippet": "",
           "url": "https://www.hankyung.com/article/202610306269i",
           "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "term": "ngoại hạng anh",
+      "pubDate": "2026-11-01T02:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "Kết quả bóng đá Man City - Brighton: Đánh sập Etihad (Ngoại hạng Anh)",
+          "snippet": "",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-man-city-brighton-danh-sap-etihad-ngoai-hang-anh-c48a1807376.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Man City thua trận thứ hai liên tiếp ở Ngoại hạng Anh",
+          "snippet": "",
+          "url": "https://vnexpress.net/man-city-thua-tran-thu-hai-lien-tiep-o-ngoai-hang-anh-5139255.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Dự đoán kết quả và đội hình ra sân trận Man City vs Brighton",
+          "snippet": "",
+          "url": "https://vov.vn/the-thao/du-doan-ket-qua-va-doi-hinh-ra-san-tran-man-city-vs-brighton-post1346001.vov",
+          "source": "VOV.VN"
         }
       ]
     },
@@ -308,16 +314,16 @@
       "pubDate": "2026-11-01T01:40:00+09:00",
       "newsItems": [
         {
-          "title": "'김민재 선발! 요나탄 타는 벤치' 콤파니의 선택은 韓 철기둥이었다...바이에른, 도르트문트와 분데스리가 1위 놓고 정면충돌",
+          "title": "[분데스·리뷰] 케인 ‘PK 실축’ 김민재 90분 풀타임···바이에른 뮌헨, ‘슈팅 23개’ 시도하고 도르트문트...",
           "snippet": "",
-          "url": "https://www.osen.co.kr/article/G1112902057",
-          "source": "OSEN"
+          "url": "https://sports.khan.co.kr/article/202611010512003",
+          "source": "스포츠경향"
         },
         {
-          "title": "바이에른 뮌헨 vs 보루시아 도르트문트 예측: 선두 자리를 향한 경쟁이 더욱 치열해집니다.",
+          "title": "'김민재 선발! 요나탄 타는 벤치' 콤파니의 선택은 韓 철기둥이었다...바이에른, 도르트문트와 분데스리가 1위 놓고 정면충돌 - 머니투데이",
           "snippet": "",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-bayern-munchen-vs-borussia-dortmund-cuoc-dua-ngoi-dau-nong-len",
-          "source": "Vietnam.vn"
+          "url": "https://www.mt.co.kr/sports/2026/11/01/202611010133778988O",
+          "source": "머니투데이"
         },
         {
           "title": "분데스리가 바이에른 뮌헨 대 도르트문트 생중계 링크",
@@ -332,22 +338,22 @@
       "pubDate": "2026-11-01T01:20:00+09:00",
       "newsItems": [
         {
-          "title": "Hull City 2-2 Ipswich: Stunning Julio Enciso strike earns visitors point as Tigers' winless run extends to seven games",
+          "title": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors",
           "snippet": "",
-          "url": "https://www.skysports.com/football/news/13606108/hull-city-2-2-ipswich-stunning-julio-enciso-strike-earns-visitors-point-as-tigers-winless-run-extends-to-seven-games",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Premier League: Sergej Jakirovic post match interview",
-          "snippet": "",
-          "url": "https://www.bbc.com/sport/football/videos/ck0e0y180z90o",
+          "url": "https://www.bbc.com/sport/football/live/cxq6nqml97e0t",
           "source": "BBC"
         },
         {
-          "title": "Analysis: Missed opportunity for both sides?",
+          "title": "Match report and highlights - Hull 2-2 Ipswich",
           "snippet": "",
-          "url": "https://sports.yahoo.com/articles/analysis-missed-opportunity-both-sides-175121974.html",
-          "source": "Yahoo Sports"
+          "url": "https://www.skysports.com/football/live-blog/13604902/hull-city-vs-ipswich-live-premier-league-match-updates-news-and-score",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
+          "snippet": "",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401878763",
+          "source": "ESPN"
         }
       ]
     },
@@ -403,23 +409,23 @@
   "nate": [
     {
       "rank": 1,
-      "title": "이찬혁, 68억 건물주인데 1만원짜리 가운 4년 입었다…여성용이 취향인...",
-      "link": "https://news.nate.com/view/20261031n11486"
-    },
-    {
-      "rank": 2,
       "title": "\"세계 최고\" 1위 기업도 무너졌다…한국 비상 걸린 이유",
       "link": "https://news.nate.com/view/20261031n09907"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "\"차예련 학폭 사실무근? 일진 여왕벌 놀이 간 크네\" 주장 '점입가경'[...",
       "link": "https://news.nate.com/view/20261031n11191"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "'핼러윈' 토요일 저녁 홍대 12만·이태원 2만 인파…국화꽃 추모도",
       "link": "https://news.nate.com/view/20261031n09685"
+    },
+    {
+      "rank": 4,
+      "title": "이찬혁, 68억 건물주인데 1만원짜리 가운 4년 입었다…여성용이 취향인...",
+      "link": "https://news.nate.com/view/20261031n11486"
     },
     {
       "rank": 5,
@@ -428,23 +434,23 @@
     },
     {
       "rank": 6,
-      "title": "흰머리 뽑으면 두 가닥 난다는 소문의 진실은?…의사가 말하는 최악의 손버...",
-      "link": "https://news.nate.com/view/20261031n09554"
-    },
-    {
-      "rank": 7,
       "title": "'이 나라' 과일 유명한데…\"발톱 파내던 칼로 손질\" 관광객 '경악' [월드픽...",
       "link": "https://news.nate.com/view/20261031n10746"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "[단독] 부산으로 헤쳐모여…'채천재' 채태인까지 롯데 코치진 합류, 2군 타...",
       "link": "https://news.nate.com/view/20261101n00088"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "\"한국인들이 日서 싹쓸이\"…검색량 1800% 폭증한 명품 정체 [안혜원의 명품...",
       "link": "https://news.nate.com/view/20261031n07721"
+    },
+    {
+      "rank": 9,
+      "title": "흰머리 뽑으면 두 가닥 난다는 소문의 진실은?…의사가 말하는 최악의 손버...",
+      "link": "https://news.nate.com/view/20261031n09554"
     },
     {
       "rank": 10,
@@ -453,53 +459,53 @@
     },
     {
       "rank": 11,
-      "title": "\"명품 들었니? 촌스럽네\"…10배 저렴한 '꿀템' 찾아내는 나, 멋져[세계는Z...",
-      "link": "https://news.nate.com/view/20261031n02072"
-    },
-    {
-      "rank": 12,
       "title": "입사 4년 만에 반포신축 샀다…20대 신혼부부 투자비법은",
       "link": "https://news.nate.com/view/20261031n02693"
     },
     {
+      "rank": 12,
+      "title": "\"명품 들었니? 촌스럽네\"…10배 저렴한 '꿀템' 찾아내는 나, 멋져[세계는Z...",
+      "link": "https://news.nate.com/view/20261031n02072"
+    },
+    {
       "rank": 13,
-      "title": "로또 1등 '19억원'씩 15명…자동 13명·수동 2명",
-      "link": "https://news.nate.com/view/20261031n10430"
-    },
-    {
-      "rank": 14,
-      "title": "\"경차보다 싼데 4명 탄다\"…800만원대 '귀요미 전기차' 등장",
-      "link": "https://news.nate.com/view/20261031n06400"
-    },
-    {
-      "rank": 15,
       "title": "\"필기시험 30번 넘게 떨어져\"…무면허로 87ｍ 운전하다 6개월 징역",
       "link": "https://news.nate.com/view/20261031n07131"
     },
     {
-      "rank": 16,
-      "title": "한화, 터질 것이 터졌다! '대전 예수' 귀환+페라자 작별 임박?…류지현 감...",
-      "link": "https://news.nate.com/view/20261031n08044"
-    },
-    {
-      "rank": 17,
+      "rank": 14,
       "title": "\"이거 테러 아냐?\"…에어포스원 등장에 공포로 뒤덮인 백악관 핼러윈 파티",
       "link": "https://news.nate.com/view/20261031n09723"
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "title": "\"경차보다 싼데 4명 탄다\"…800만원대 '귀요미 전기차' 등장",
+      "link": "https://news.nate.com/view/20261031n06400"
+    },
+    {
+      "rank": 16,
+      "title": "로또 1등 '19억원'씩 15명…자동 13명·수동 2명",
+      "link": "https://news.nate.com/view/20261031n10430"
+    },
+    {
+      "rank": 17,
       "title": "\"손흥민이 하이파이브 청했지만 그대로 쌩\" 황희찬 태도 영상에 포착…손흥...",
       "link": "https://news.nate.com/view/20261031n08651"
     },
     {
+      "rank": 18,
+      "title": "한화, 터질 것이 터졌다! '대전 예수' 귀환+페라자 작별 임박?…류지현 감...",
+      "link": "https://news.nate.com/view/20261031n08044"
+    },
+    {
       "rank": 19,
-      "title": "AI에 30년 밥그릇 뺏겼다…'사진 왕국' 게티이미지의 몰락",
-      "link": "https://news.nate.com/view/20261031n01327"
+      "title": "\"주말마다 길 막혀\" 기안84도 쓴소리…내일 JTBC마라톤, 버스 190개 노선...",
+      "link": "https://news.nate.com/view/20261031n09614"
     },
     {
       "rank": 20,
-      "title": "\"10대 때 성폭행으로 출산, 숨긴 아내\"…신혼 남편, 혼인 취소 고민",
-      "link": "https://news.nate.com/view/20261031n00936"
+      "title": "\"여자친구 선물 사러 성심당 갔는데\"…시각장애인 유튜버가 감동한 이유",
+      "link": "https://news.nate.com/view/20261031n02499"
     }
   ]
 }
