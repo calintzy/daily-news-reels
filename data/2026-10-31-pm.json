@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-31",
+  "slot": "pm",
+  "hookLine": "이태원에 장갑차까지 배치됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "핼러윈 안전",
+      "title": "이태원 핼러윈, 경찰 7800명·장갑차 투입",
+      "summary": "경찰이 핼러윈 당일 이태원 등 전국 인파 밀집 지역에 7800명을 투입하고 장갑차를 배치했습니다. 이태원로는 오후 6시부터 차량이 전면 통제됩니다.",
+      "narration": "경찰 7800명이 오늘 이태원에 배치됐습니다.",
+      "sourceTitle": "주말 겹친 핼러윈···경찰, 7800명 투입·장갑차 배치",
+      "sourceDesc": "경찰이 핼러윈을 맞아 이태원 등 전국 인파 밀집 우려 지역에 7800명을 투입하고 장갑차를 배치했다. 이태원로는 오늘 오후 6시부터 차량 통행이 전면 통제된다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026103109360002704",
+      "sourceDate": "2026-10-31",
+      "imagePrompt": "photojournalism, empty Seoul night street lined with police barricades and orange traffic cones illuminated by floodlights, crowd management setup before a major event, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "한미일 외교",
+      "title": "한미일 외교장관, 北 비핵화·긴장완화 촉구",
+      "summary": "한국·미국·일본 외교장관이 북한의 비핵화 노력 지속을 재확인하고 북한에 긴장완화 동참을 촉구했습니다. 세 나라는 공동성명 없이 별도 보도자료를 냈습니다.",
+      "sourceTitle": "한미일 외교장관 \"北 비핵화 노력 지속\"…北 긴장완화 촉구",
+      "sourceDesc": "한국·미국·일본 외교장관이 북한의 비핵화 노력을 지속하겠다고 밝히고 북한에 긴장완화 동참을 촉구했다. 세 나라는 공동성명 없이 별도 보도자료를 냈다.",
+      "sourceLink": "https://segye.com/newsView/20261031503163",
+      "sourceDate": "2026-10-31",
+      "imagePrompt": "photojournalism, three national flags on poles against a clear sky at an outdoor diplomatic venue, formal governmental setting, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "국민배우 별세",
+      "title": "최불암 빈소 이틀째 조문, 모레 발인",
+      "summary": "배우 최불암의 빈소에 이틀째 조문객이 이어지고 있습니다. 동료 배우와 정계 인사들이 빈소를 찾아 고인을 추모했으며, 모레 발인이 예정돼 있습니다.",
+      "sourceTitle": "\"큰 산 같은 분\" 최불암 빈소 이틀째 조문…모레 발인",
+      "sourceDesc": "배우 최불암의 빈소에 이틀째 조문이 이어지고 있다. 동료 배우와 정계 인사들이 찾았으며 모레 발인이 예정돼 있다.",
+      "sourceLink": "https://m.news.nate.com/view/20261031n07695",
+      "sourceDate": "2026-10-31",
+      "imagePrompt": "photojournalism, white chrysanthemum flowers arranged in a quiet Korean memorial hall, soft warm ambient lighting, solemn and respectful atmosphere, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사건",
+      "kicker": "고속도로 사고",
+      "title": "인천 고속도로 SUV 전복, 30대 운전자 사망",
+      "summary": "인천 제1순환고속도로에서 SUV 차량이 갓길의 공사 물품과 부딪혀 전복됐습니다. 이 사고로 30대 운전자가 숨졌습니다.",
+      "sourceTitle": "공사 물품과 부딪혀 SUV 전복...30대 운전자 숨져",
+      "sourceDesc": "인천 제1순환고속도로 갓길에서 SUV 차량이 공사 물품과 충돌한 뒤 전복됐다. 이 사고로 30대 운전자가 숨졌다.",
+      "sourceLink": "https://m.ytn.co.kr/news_view.php?key=202610310714228646&s_mcd=0103",
+      "sourceDate": "2026-10-31",
+      "imagePrompt": "photojournalism, overturned vehicle on a Korean expressway shoulder at dawn, emergency cones and reflective barriers visible on wet asphalt, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-10-31 저녁 브리핑\n\n1. 이태원 핼러윈, 경찰 7800명·장갑차 투입\n2. 한미일 외교장관, 北 비핵화·긴장완화 촉구\n3. 최불암 빈소 이틀째 조문, 모레 발인\n4. 인천 고속도로 SUV 전복, 30대 운전자 사망\n\n저녁도 무사히 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #핼러윈 #이태원\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
