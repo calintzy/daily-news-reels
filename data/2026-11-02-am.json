@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-02",
+  "slot": "am",
+  "hookLine": "63억달러 사라진 뒤 범인이 지목됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·안보",
+      "kicker": "가상자산 해킹",
+      "title": "FBI, 바이낸스 해킹 북한 소행 공식 지목",
+      "summary": "미국 FBI가 암호화폐 거래소 바이낸스에서 63억달러 규모 가상화폐를 탈취한 사건의 배후로 북한을 공식 지목했습니다. FBI가 북한을 해킹 배후로 공식 확인한 것은 이번이 처음입니다.",
+      "narration": "FBI가 바이낸스 해킹 배후로 북한을 지목했습니다.",
+      "sourceTitle": "美 FBI 북한, 바이낸스 63억달러 가상화폐 탈취 배후",
+      "sourceDesc": "미 연방수사국(FBI)이 암호화폐 거래소 바이낸스에서 63억달러 규모 가상화폐를 탈취한 사건의 배후로 북한을 공식 지목했다. FBI가 북한을 해킹 배후로 공식 확인한 것은 이번이 처음이다.",
+      "sourceLink": "https://www.hankyung.com/article/2026110178437",
+      "sourceDate": "2026-11-01",
+      "imagePrompt": "Photojournalism documentary style. Close-up of a glowing computer monitor displaying cryptocurrency blockchain transaction data in a dark server room, dramatic shadows, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "사건·국방",
+      "kicker": "공군 사고 은폐",
+      "title": "공군 KT-1 훈련기 충돌, 두 달간 비공개",
+      "summary": "경남 사천 공군기지 인근에서 KT-1 훈련기 2대가 공중에서 충돌했으나 인명 피해는 없었습니다. 사고는 지난 9월 발생했지만 공군이 두 달간 외부에 공개하지 않아 논란이 일고 있습니다.",
+      "sourceTitle": "사천 공군기지 인근서 KT-1 훈련기 2대 공중 접촉…부상자 없어",
+      "sourceDesc": "경남 사천 공군기지 인근에서 KT-1 훈련기 2대가 공중에서 충돌했으나 인명 피해는 없었다. 사고는 지난 9월 발생했지만 공군이 두 달간 외부에 공개하지 않아 은폐 논란이 일고 있다.",
+      "sourceLink": "https://www.ajunews.com/view/20261101214937161",
+      "sourceDate": "2026-11-01",
+      "imagePrompt": "Photojournalism documentary style. Empty military airfield tarmac at dusk with yellow caution tape across a hangar entrance, overcast sky, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "역대 최대 예산",
+      "title": "이재명 대통령, 821조 역대 최대 예산 시정연설",
+      "summary": "이재명 대통령이 역대 최대 규모인 821조원의 내년도 예산안 시정연설에 나섭니다. 올해보다 93조원 늘어난 초확장 예산안을 두고 여야 충돌이 예상됩니다.",
+      "sourceTitle": "李 대통령, 2일 시정연설…역대 최대 821조 예산 설득 나서",
+      "sourceDesc": "이재명 대통령이 11월 2일 역대 최대 규모인 821조원의 2027년도 예산안 시정연설에 나선다. 올해보다 93조원 늘어난 초확장 예산안을 두고 여야 충돌이 예상된다.",
+      "sourceLink": "https://www.segye.com/newsView/20261101507201",
+      "sourceDate": "2026-11-01",
+      "imagePrompt": "Photojournalism documentary style. Grand interior of a national assembly chamber, empty wooden podium under bright overhead lights, formal curved benches in semicircle, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "재정·통화 충돌",
+      "title": "821조 초확장 예산에도 한은은 긴축 유지",
+      "summary": "정부의 821조원 역대 최대 예산에도 한국은행이 긴축을 유지해 재정·통화 엇박자 우려가 커지고 있습니다. 재정 확장과 통화 긴축 방향이 엇갈리는 상황이 지속되고 있습니다.",
+      "sourceTitle": "정부는 돈풀고 한은은 빗장… 재정·통화 엇박자 커지는 우려[정상균의 깊이읽기]",
+      "sourceDesc": "이재명 정부가 821조원의 역대 최대 예산을 편성한 가운데, 한국은행이 긴축 기조를 유지하고 있어 재정과 통화정책이 엇박자를 내고 있다는 우려가 커지고 있다.",
+      "sourceLink": "https://www.fnnews.com/news/202611011909427457",
+      "sourceDate": "2026-11-01",
+      "imagePrompt": "Photojournalism documentary style. Korean currency banknotes on a reflective surface beside a central bank building facade seen through a rain-streaked window, moody overcast light, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "미국 중간선거",
+      "title": "미국 중간선거 최대 변수, 고물가 트럼프 심판론",
+      "summary": "미국 중간선거에서 이란 전쟁과 관세 정책으로 생필품 가격이 급등하면서 고물가가 최대 변수로 부상했습니다. 체감 경기가 악화되며 트럼프 대통령에 대한 심판론이 확산되고 있습니다.",
+      "sourceTitle": "美 중간선거 최대 변수는 '고물가'…트럼프 심판론 확산",
+      "sourceDesc": "미국 중간선거에서 이란 전쟁과 관세 정책으로 생필품 가격이 급등하면서 고물가가 최대 변수로 부상했다. 체감 경기가 악화되며 트럼프 대통령에 대한 심판론이 확산되고 있다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110200301616618",
+      "sourceDate": "2026-11-02",
+      "imagePrompt": "Photojournalism documentary style. Row of empty voting booths with curtains in a civic polling station, American flag visible in soft focus background, side lighting, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-02 아침 브리핑\n\n1. FBI, 바이낸스 해킹 북한 소행 공식 지목\n2. 공군 KT-1 훈련기 충돌, 두 달간 비공개\n3. 이재명 대통령, 821조 역대 최대 예산 시정연설\n4. 821조 초확장 예산에도 한은은 긴축 유지\n5. 미국 중간선거 최대 변수, 고물가 트럼프 심판론\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
