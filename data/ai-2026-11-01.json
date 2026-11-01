@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-01",
+  "account": "aibrief",
+  "hookLine": "이달 수출 1조달러 달성이 확실시됩니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "반도체·인프라",
+      "kicker": "연 1조달러 이달 달성",
+      "title": "반도체 수출 259.4% 급증, 1조달러 이달 확실",
+      "summary": "10월 수출이 전년보다 93.7% 증가했습니다. 반도체 수출이 259.4% 급증하면서 연간 1조달러 달성이 이달 확실시됩니다.",
+      "sourceTitle": "10월 수출 93.7% 증가…반도체 259.4% 늘어",
+      "sourceDesc": "10월 수출이 전년 동월보다 93.7% 증가한 1153억달러를 기록했다. 반도체 수출은 564억4000만달러로 259.4% 급증했으며, 연간 수출 1조달러 달성이 이달 확실시된다고 산업부 장관이 밝혔다.",
+      "sourceLink": "https://news.google.com/search?q=10월+수출+반도체+259.4+1조달러+2026"
+    },
+    {
+      "rank": 2,
+      "category": "빅테크 사업",
+      "kicker": "주가 8% 급락",
+      "title": "알파벳, 3분기 실적 발표에 주가 8% 급락",
+      "summary": "알파벳이 3분기 실적을 발표했지만 주가가 8% 이상 급락했습니다. 기대에 못 미치는 실적과 자본지출 증가 우려가 주가를 끌어내렸습니다.",
+      "narration": "알파벳, AI 투자 우려에 주가 8% 급락했습니다.",
+      "sourceTitle": "Alphabet disappoints Wall Street despite record results, shares plunge over 8% and test $300",
+      "sourceDesc": "Alphabet shares fell 8.25% in after-hours trading following the earnings release. EPS came in at $2.12 against expectations of about $3.00, with investors focusing on weaker-than-expected earnings, deteriorating cash flow, and the risk of further increases in capital expenditure.",
+      "sourceLink": "https://news.google.com/search?q=Alphabet+Q3+2026+earnings+shares+plunge+8+percent+capex"
+    },
+    {
+      "rank": 3,
+      "category": "AI 모델·서비스",
+      "kicker": "유럽 첫 1조 파라미터",
+      "title": "Mistral, 1조 파라미터 오픈 AI 모델 공개",
+      "summary": "프랑스 AI 기업 미스트랄이 1조 파라미터의 Large 4를 오픈 웨이트로 공개했습니다. 사이버보안 특화 모델로, 기업이 자체 서버에서 직접 구동할 수 있습니다.",
+      "narration": "유럽 AI, 1조 파라미터 오픈 모델 나왔습니다.",
+      "sourceTitle": "Mistral launches public preview of AI model with 1 trillion parameters",
+      "sourceDesc": "Mistral AI has launched a public preview of its Large 4 model with 1 trillion parameters, targeting cybersecurity applications. The open-weight model can be deployed in private cloud or on-premises environments, with weights available by the end of October.",
+      "sourceLink": "https://news.google.com/search?q=Mistral+Large+4+1+trillion+parameters+open+weights+October+2026"
+    },
+    {
+      "rank": 4,
+      "category": "빅테크 사업",
+      "kicker": "Azure 48% 성장",
+      "title": "마이크로소프트 Azure, AI 수요에 48% 성장",
+      "summary": "마이크로소프트가 3분기 실적을 발표하며 Azure 클라우드가 48% 성장했습니다. AI 수요 가속화에 힘입어 시장 예상을 웃도는 호실적을 기록했습니다.",
+      "narration": "마이크로소프트 Azure 48% 고성장했습니다.",
+      "sourceTitle": "Microsoft delivers strong Q3, Azure growth up 48%",
+      "sourceDesc": "Microsoft delivered strong Q3 results with Azure cloud growing 48%, driven by AI demand, beating analyst expectations.",
+      "sourceLink": "https://news.google.com/search?q=Microsoft+Azure+48+percent+growth+Q3+earnings+October+2026"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "AI 단속 경고",
+      "title": "미 SEC, AI 과장 기업 단속 강화 경고",
+      "summary": "미국 증권거래위원회 SEC가 AI 능력을 과장 공시한 기업에 강도 높은 단속을 예고했습니다. 집행 책임자는 AI 공시 분야의 단속 수위가 높아지고 있다고 경고했습니다.",
+      "narration": "미국 SEC, AI 과장 공시 기업 단속 강화합니다.",
+      "sourceTitle": "SEC director of enforcement warns of a perfect storm developing around AI",
+      "sourceDesc": "The SEC's director of enforcement warned that a perfect storm is developing around AI, with the agency increasing scrutiny of companies that overstate their AI capabilities in public disclosures.",
+      "sourceLink": "https://news.google.com/search?q=SEC+enforcement+perfect+storm+AI+disclosures+2026"
+    }
+  ],
+  "caption": "[오리 기자] 2026-11-01 AI 뉴스 브리핑\n\n1. 반도체 수출 259.4% 급증, 1조달러 이달 확실\n2. 알파벳, 3분기 실적 발표에 주가 8% 급락\n3. Mistral, 1조 파라미터 오픈 AI 모델 공개\n4. 마이크로소프트 Azure, AI 수요에 48% 성장\n5. 미 SEC, AI 과장 기업 단속 강화 경고\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #AIbrief #반도체 #빅테크 #알파벳 #마이크로소프트\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
