@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-01",
+  "slot": "pm",
+  "hookLine": "10월 수출이 전년보다 93.7% 급증했습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "수출 역대 최대",
+      "title": "수출 1조달러 이달 돌파 전망",
+      "summary": "10월 수출이 전년 대비 93.7% 급증한 1152억8000만 달러를 기록했습니다. 1~10월 누적 수출이 9300억 달러를 돌파해 이달 연간 1조 달러 달성이 확실시됩니다.",
+      "sourceTitle": "이달 '수출 1조 달러' 달성 전망…美·中·獨 이어 세계 4번째 (종합2보)",
+      "sourceDesc": "2026년 10월 수출이 1152억8000만 달러로 전년 대비 93.7% 급증했다. 1~10월 누적 수출이 9300억 달러를 돌파해 이달 연간 수출 1조 달러 달성이 확실시된다. 달성 시 미국·중국·독일에 이어 세계 4번째 국가가 된다.",
+      "sourceLink": "https://www.fnnews.com/news/202611011155501676",
+      "sourceDate": "2026-11-01",
+      "imagePrompt": "photojournalism, rows of colorful shipping containers stacked high at a Korean seaport at golden hour, warm ambient light on metal surfaces, cargo cranes silhouetted against a clear sky, expansive industrial scale, documentary style, no people, no text, vertical 9:16 composition",
+      "narration": "이달 연간 수출 1조 달러 달성이 확실시됩니다."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "가상화폐 도발",
+      "title": "FBI, 바이낸스 해킹 배후에 북한",
+      "summary": "미국 FBI가 바이낸스에서 약 60억달러를 훔친 배후로 북한을 지목했습니다. 바이낸스는 손실 보전 계획과 출금 재개 방침을 밝혔습니다.",
+      "sourceTitle": "FBI, 바이낸스 60억달러 해킹 배후로 북한 지목",
+      "sourceDesc": "미국 FBI가 바이낸스에서 약 60억달러를 훔친 배후로 북한을 지목했다. 바이낸스는 손실 보전 계획과 출금 재개 방침을 밝혔다.",
+      "sourceLink": "https://www.hankyung.com/article/2026110178437",
+      "sourceDate": "2026-11-01",
+      "imagePrompt": "photojournalism, close-up of a dark monitor displaying digital blockchain network visualization in blue and green tones, soft glow from screen, dark background, cybersecurity atmosphere, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "사법부 국조",
+      "title": "여야, 조희대 국정조사 충돌",
+      "summary": "여야가 조희대 대법원장 국정조사를 두고 충돌했습니다. 더불어민주당은 추진을 강행하겠다는 입장이고 국민의힘은 반대했습니다.",
+      "sourceTitle": "'미 비자 발급' 진성준, 오늘 출국...여야, 조희대 국조 충돌",
+      "sourceDesc": "더불어민주당이 조희대 대법원장 국정조사 추진을 강행하겠다는 입장을 밝히며 여야가 충돌했다. 국민의힘은 이에 반대 입장을 표명했다.",
+      "sourceLink": "https://ytn.co.kr/_ln/0101_202611011212545175",
+      "sourceDate": "2026-11-01",
+      "imagePrompt": "photojournalism, wide interior shot of the South Korean National Assembly chamber showing rows of empty seats under formal overhead lighting, marble floors and institutional architecture, solemn government atmosphere, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "예고된 인재",
+      "title": "울산화력발전소 참사, 예고된 인재",
+      "summary": "울산화력발전소 참사는 발파 전 과다한 사전 취약화 작업으로 인한 기둥의 국부좌굴이 직접 원인으로 밝혀졌습니다. 엉터리 하중 계산이 예고된 인재를 불렀습니다.",
+      "sourceTitle": "엉터리 하중 계산에 무너진 타워… 울산화력발전소 참사는 '예고된 인재'",
+      "sourceDesc": "발파 전 과다한 사전 취약화 작업으로 인한 기둥의 국부좌굴이 직접 원인으로 밝혀졌다. 당초 발파 전 수행해야 하는 하중 계산이 제대로 이뤄지지 않았다.",
+      "sourceLink": "https://www.dailyt.co.kr/newsView/dlt202611010017",
+      "sourceDate": "2026-11-01",
+      "imagePrompt": "photojournalism, industrial power plant site showing steel structural framework and cooling towers under an overcast grey sky, safety tape in foreground, aftermath atmosphere, documentary style, no people, no text, vertical 9:16 composition"
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "지하철 운행 장애",
+      "title": "7호선 보라매역 열차 고장, 정상운행 재개",
+      "summary": "낮 보라매역에서 7호선 열차가 고장나 승객들이 전원 하차했습니다. 약 1시간 45분 만에 전 구간 정상 운행이 재개됐습니다.",
+      "sourceTitle": "7호선 보라매역서 열차 고장…현재는 정상운행(종합)",
+      "sourceDesc": "1일 낮 보라매역에서 열차가 고장나 승객들이 전원 하차했다. 약 1시간 45분 만인 오후 2시 7분께 전 구간 정상 운행이 재개됐다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110114460038989",
+      "sourceDate": "2026-11-01",
+      "imagePrompt": "photojournalism, Seoul subway platform with yellow safety barriers placed across the platform edge, fluorescent overhead lighting reflecting off tiled floors, empty platform, documentary style, no people, no text, vertical 9:16 composition"
+    }
+  ],
+  "caption": "[물어오리] 2026-11-01 저녁 브리핑\n\n1. 수출 1조달러 이달 돌파 전망\n2. FBI, 바이낸스 해킹 배후에 북한\n3. 여야, 조희대 국정조사 충돌\n4. 울산화력발전소 참사, 예고된 인재\n5. 7호선 보라매역 열차 고장, 정상운행 재개\n\n내일 저녁에도 물어오겠습니다 🦆\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리",
+  "selection": {
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
