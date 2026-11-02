@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-02",
+  "slot": "pm",
+  "hookLine": "선관위 18개 부서에 특검이 들어갔습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치·사법",
+      "kicker": "선관위 특검",
+      "title": "선관위 특검, 위원장실 등 18개 부서 압수수색",
+      "summary": "선관위 특검이 중앙선관위원장실 등을 압수수색했습니다. 국고 손실 혐의로 전 사무총장 자택도 수사 대상에 포함됐습니다.",
+      "narration": "선관위 특검이 18개 부서와 자택을 압수수색했습니다.",
+      "sourceTitle": "선관위 특검, 중앙선관위원장실 등 압수수색…국고 손실 등 혐의",
+      "sourceDesc": "선관위 특검이 중앙선관위원장실 등 18개 부서와 전 사무총장 자택을 압수수색했다. 국고 손실 혐의 등을 수사 중이다.",
+      "sourceLink": "https://seoul.co.kr/news/society/2026/11/02/20261102500092",
+      "sourceDate": "2026-11-02",
+      "imagePrompt": "Photojournalism documentary style. Empty government office corridor with sealed evidence boxes stacked near an exit door, harsh fluorescent overhead lighting, yellow caution tape visible in background, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "에르도안 방한",
+      "title": "에르도안, 한국을 제2원전 파트너로 꼽다",
+      "summary": "에르도안 대통령이 한국을 제2원전 유력 파트너로 꼽았습니다. 방산·AI도 중요한 협력 기회가 있다고 밝혔습니다.",
+      "sourceTitle": "에르도안 '한국이 제2원전 유력 파트너…방산·AI도 협력 기회'",
+      "sourceDesc": "에르도안 튀르키예 대통령이 한국을 제2원전 유력 파트너로 꼽았다. 방산·AI 등 분야의 협력 기회도 강조했다.",
+      "sourceLink": "https://www.segye.com/newsView/20261102501435",
+      "sourceDate": "2026-11-02",
+      "imagePrompt": "Photojournalism documentary style. National flags of Turkey and South Korea hanging side by side in an official government reception hall, ornate architecture, warm ambient lighting, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "예산안 여야 공방",
+      "title": "미래대응기금, 여야 '안전판' vs '쌈짓돈' 공방",
+      "summary": "내년 예산안 토론회에서 여야가 미래대응기금을 두고 공방을 벌였습니다. 여당은 세수 감소 대비 안전판이 필요하다고, 야당은 국채 상환이 우선이라며 맞섰습니다.",
+      "sourceTitle": "내년 예산안 토론회서 여야 공방…미래대응기금 '안전판' vs '쌈짓돈'",
+      "sourceDesc": "내년 예산안 토론회에서 여야가 미래대응기금을 두고 공방을 벌였다. 여당은 세수 감소 대비 재정 안전판이 필요하다고, 야당은 국채 상환이 우선이며 국회 통제 약화 우려도 있다고 주장했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110216555774989",
+      "sourceDate": "2026-11-02",
+      "imagePrompt": "Photojournalism documentary style. Empty National Assembly chamber with opposing curved rows of seats under fluorescent overhead lights, central podium unoccupied, formal institutional setting, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "코스피 반등",
+      "title": "'블랙먼데이'는 없었다…美 급락에도 코스피 상승",
+      "summary": "미국 기술주 급락 여파에도 코스피가 강한 회복세를 보이며 상승 전환했습니다. 당초 우려한 '블랙먼데이'는 국내 증시에서 현실화하지 않았습니다.",
+      "sourceTitle": "'블랙먼데이'는 없었다…美증시 급락에도 코스피 상승",
+      "sourceDesc": "미국 기술주 급락 여파로 1.6%대 하락하며 개장한 코스피가 장 초반 강한 회복세를 보이며 상승 전환했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110210274200302",
+      "sourceDate": "2026-11-02",
+      "imagePrompt": "Photojournalism documentary style. Financial trading screens showing upward-trending candlestick charts reflected in rain-streaked window of a modern office building exterior at dusk, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-02 저녁 브리핑\n\n1. 선관위 특검, 위원장실 등 18개 부서 압수수색\n2. 에르도안, 한국을 제2원전 파트너로 꼽다\n3. 미래대응기금, 여야 '안전판' vs '쌈짓돈' 공방\n4. '블랙먼데이'는 없었다…美 급락에도 코스피 상승\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
