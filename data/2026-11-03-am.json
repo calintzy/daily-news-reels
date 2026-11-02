@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-03",
+  "slot": "am",
+  "hookLine": "하사가 숨지고 총기가 현장에서 발견됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "전방부대 미스터리",
+      "title": "철원 전방부대 하사 총기·탄피와 함께 숨져",
+      "summary": "강원 철원의 육군 전방부대에서 하사 한 명이 외상을 입고 숨진 채 발견됐습니다. 현장에서 총기와 탄피가 발견됐으며 군과 경찰이 사망 경위를 조사하고 있습니다.",
+      "narration": "전방부대에서 하사가 숨진 채 발견됐습니다.",
+      "sourceTitle": "철원 육군 전방부대서 하사 1명 숨져…현장서 총기·탄피 발견",
+      "sourceDesc": "육군은 강원 철원 소재 전방 부대에서 하사 1명이 외상을 입고 숨졌다고 밝혔다. 현장에서 총기와 탄피가 발견됐으며 사망 경위를 조사 중이다.",
+      "sourceLink": "https://www.mt.co.kr/politics/2026/11/02/2026110211071759528",
+      "sourceDate": "2026-11-02",
+      "imagePrompt": "Photojournalism documentary style, an empty military barracks interior with neatly arranged bunk beds and boots on the floor, somber morning light filtering through frosted windows, still and silent atmosphere. Vertical 9:16 composition. no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "경호 허점",
+      "title": "대통령 1호기 탑승자 168명 개인정보 유출",
+      "summary": "대통령 부부를 포함한 공군 1호기 탑승자 168명의 개인정보가 인터넷에 노출됐습니다. 청와대는 사전 인지 후 대응했다고 밝혔으며 경찰 수사가 진행됩니다.",
+      "sourceTitle": "李대통령 등 1호기 탑승자 168명 정보 노출…靑 \"추가 조치\"",
+      "sourceDesc": "이재명 대통령 부부를 포함한 공군 1호기 탑승자 168명의 개인정보가 인터넷 사이트에 노출됐다. 여권번호 등 신상 정보가 포함됐으며 청와대는 추가 조치를 취할 예정이다.",
+      "sourceLink": "https://www.fnnews.com/news/202611022209209743",
+      "sourceDate": "2026-11-02",
+      "imagePrompt": "Photojournalism documentary style, a close-up of an official government nameplate resting on an empty polished wooden desk, a blurred open filing cabinet in the background, cold fluorescent office lighting. Vertical 9:16 composition. no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "역대 최대 예산",
+      "title": "820조 예산안 시정연설, 국회에 협조 요청",
+      "summary": "이재명 대통령이 국회에서 820조 규모의 내년도 예산안 시정연설을 했습니다. 슈퍼 예산 처리를 위한 국회의 협조를 요청했습니다.",
+      "sourceTitle": "李, 오늘 취임 후 네 번째 시정연설…'820조 슈퍼 예산' 처리 협조 요청",
+      "sourceDesc": "이재명 대통령이 국회에서 2027년도 820조 규모 예산안 시정연설을 했다. 슈퍼 예산의 처리 협조를 요청했으며 성장 투자를 강조했다.",
+      "sourceLink": "https://www.ajunews.com/view/20261102073704263",
+      "sourceDate": "2026-11-02",
+      "imagePrompt": "Photojournalism documentary style, an empty parliamentary chamber with curved wooden benches arranged in a semicircle, warm overhead lighting casting long shadows across the formal architecture, symbolizing national deliberation. Vertical 9:16 composition. no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "의회의 향방",
+      "title": "미국 중간선거 투표 시작, 한국도 촉각",
+      "summary": "미국 중간선거 투표가 현지에서 시작됐습니다. 의회 주도권이 결정되며 결과에 따라 한국 외교와 경제에도 영향이 예상됩니다.",
+      "sourceTitle": "[세종로의 아침] 미국 중간선거 이후 우리에게 닥칠 일",
+      "sourceDesc": "미국 중간선거 투표가 시작됐다. 선거 결과에 따라 미국 정치 지형이 달라지며 한국을 포함한 동맹국들에게도 영향이 예상된다.",
+      "sourceLink": "https://www.seoul.co.kr/news/editOpinion/column/politics-story/2026/11/03/20261103025001",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Photojournalism documentary style, a row of empty official ballot boxes lined up in a formal civic hall, morning light streaming through tall windows illuminating the quiet ceremonial space, symbolizing democratic participation. Vertical 9:16 composition. no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-03 아침 브리핑\n\n1. 철원 전방부대 하사 총기·탄피와 함께 숨져\n2. 대통령 1호기 탑승자 168명 개인정보 유출\n3. 820조 예산안 시정연설, 국회에 협조 요청\n4. 미국 중간선거 투표 시작, 한국도 촉각\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #아침브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
