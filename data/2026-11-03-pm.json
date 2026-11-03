@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-03",
+  "slot": "pm",
+  "hookLine": "역삼 연쇄방화범 이명수의 신상이 공개됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "신상 공개",
+      "title": "역삼 연쇄방화범 77세 이명수 신상공개",
+      "summary": "역삼동 연쇄 방화 피의자 이명수(77세)의 신상정보가 공개됐습니다. 서울경찰청은 이씨의 이름, 나이, 얼굴 사진을 한 달간 공개하기로 했습니다.",
+      "narration": "역삼동 연쇄방화범 이명수의 신상이 공개됐습니다.",
+      "sourceTitle": "'역삼 연쇄방화범' 피의자는 77세 이명수... 한 달간 신상공개",
+      "sourceDesc": "역삼동 건물에 연쇄 방화해 현존건조물방화치상·살인미수 혐의로 구속 송치된 이명수(77세)의 신상정보가 3일 공개됐다. 서울경찰청은 피의자 신상공개심의위원회 결정에 따라 이씨의 이름, 나이, 얼굴 사진을 한 달간 공개하기로 했다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026110308230005094",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Photojournalism documentary style, an official police notice board with an empty identification frame mounted on a plain institutional wall, harsh overhead fluorescent lighting casting sharp shadows, conveying a criminal identity disclosure. Vertical 9:16 composition. no people, no text."
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "수사 착수",
+      "title": "경찰, 1호기 탑승자 168명 정보 유출 정식 수사 착수",
+      "summary": "경찰이 공군 1호기 탑승자 개인정보 유출 사건에 대해 정식 수사에 착수했습니다. 대통령실은 임광현 비서실장 주재로 탑승자 전원의 여권 재발급을 진행 중이라는 후속 소식입니다.",
+      "sourceTitle": "경찰, '李 대통령 부부 등 168명 개인정보 유출' 정식 수사 착수",
+      "sourceDesc": "경찰청 국가수사본부 사이버테러수사대가 이재명 대통령 부부 등 168명의 개인정보가 담긴 공군 1호기 탑승자 명단 유출 사건에 대해 정식 수사에 착수했다. 대통령실은 임광현 비서실장 주재로 긴급회의를 열고 탑승자 전원의 여권 재발급을 진행 중이다.",
+      "sourceLink": "https://www.asiatoday.co.kr/kn/view.php?key=20261103010001103",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Photojournalism documentary style, an open laptop on a polished desk inside a dim government office, the screen faintly glowing, a closed folder beside it, symbolizing a cyber investigation in progress. Vertical 9:16 composition. no people, no text."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "물가 압박",
+      "title": "10월 소비자물가 2.8% 올라…석유류 14.9%↑",
+      "summary": "10월 소비자물가가 전년 동월 대비 2.8% 상승했습니다. 석유류가 14.9% 올랐으며 가공식품은 11개월 만에 최대 오름세를 기록했습니다.",
+      "sourceTitle": "[속보] 10월 소비자물가 2.8%↑…석유류 14.9%↑, 가공식품 11개월 만에 최대",
+      "sourceDesc": "10월 소비자물가가 전년 동월 대비 2.8% 상승했다. 석유류가 14.9% 올라 전체 물가를 0.56%포인트 끌어올렸다. 식료품과 에너지를 제외한 근원물가는 2.8%로 9월과 같았다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/2026/11/03/20261103500016",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Photojournalism documentary style, a supermarket shelf lined with price tags, empty spaces among neatly stacked products under bright fluorescent store lighting, conveying rising consumer prices. Vertical 9:16 composition. no people, no text."
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "사이버 공격",
+      "title": "유럽 슈퍼마켓 냉장·냉동고 연쇄 해킹, 배후 미상",
+      "summary": "프랑스 사건 이후 유럽 전역의 슈퍼마켓 냉장·냉동 시스템이 연쇄적으로 해킹당해 식품 폐기 피해가 발생했습니다. 배후가 밝혀지지 않아 수사가 진행 중입니다.",
+      "sourceTitle": "프랑스 이어 유럽 전역서 슈퍼마켓 냉장·냉동고 해킹⋯배후는 누구?",
+      "sourceDesc": "프랑스 사건 3주 만에 유럽 전역에서 슈퍼마켓 냉장·냉동 시스템이 해킹당해 식품 폐기 피해가 발생했다. 배후는 밝혀지지 않았다.",
+      "sourceLink": "https://www.kmib.co.kr/article/20261103501653",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Photojournalism documentary style, a row of empty open refrigeration units inside a supermarket, glass doors ajar revealing frost-covered bare shelves under cold fluorescent light, conveying cyber sabotage and food waste. Vertical 9:16 composition. no people, no text."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-03 저녁 브리핑\n\n1. 역삼 연쇄방화범 77세 이명수 신상공개\n2. 경찰, 1호기 탑승자 168명 정보 유출 정식 수사 착수\n3. 10월 소비자물가 2.8% 올라…석유류 14.9%↑\n4. 유럽 슈퍼마켓 냉장·냉동고 연쇄 해킹, 배후 미상\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #저녁브리핑\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
