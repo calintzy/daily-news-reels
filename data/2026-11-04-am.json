@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-04",
+  "slot": "am",
+  "hookLine": "'악마의 무기'에도 경보가 울리지 않았습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제·안보",
+      "kicker": "軍 탐지 실패",
+      "title": "北 미사일에 경보 없었다…軍 \"탐지 제한\"",
+      "summary": "북한이 집속탄두 순항미사일을 발사했으나 군은 위험경보를 발동하지 않았습니다. 합참은 저고도 비행으로 탐지가 제한됐다고 밝혔습니다.",
+      "narration": "군이 북한 미사일에 위험경보를 발동하지 않았습니다.",
+      "sourceTitle": "'악마의 무기' 北 발사에도 위험경보 또 미발동.. 軍 \"탐지 제한돼\"",
+      "sourceDesc": "북한이 집속탄두 장착 전략순항미사일을 발사했으나 군은 위험경보를 발동하지 않았다. 합참 공보실장은 저고도로 비행해 탐지가 제한될 수 있다고 설명했다.",
+      "sourceLink": "https://www.fnnews.com/news/202611031437470896",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Night sky over a coastline silhouette, a single bright missile exhaust trail streaking upward from the sea horizon, radar dish in the foreground, no people, no text, vertical 9:16 composition, photojournalism documentary style, cold blue and grey tones"
+    },
+    {
+      "rank": 2,
+      "category": "사건",
+      "kicker": "얼굴 공개",
+      "title": "역삼동 연쇄방화 이명수 신상 공개",
+      "summary": "역삼동 연쇄 방화 피의자 이명수의 이름과 얼굴이 경찰에 의해 공개됐습니다. 이명수는 역삼동 두 곳의 특허법인 사무실에 불을 질러 26명을 다치게 한 혐의를 받습니다.",
+      "sourceTitle": "'역삼동 연쇄방화' 77세 이명수 신상공개 … 26명 부상",
+      "sourceDesc": "경찰이 역삼동 연쇄 방화 피의자 이명수(77)의 이름, 나이, 얼굴 사진을 공개했다. 이명수는 역삼동 두 곳의 특허법인 사무실에 불을 질러 26명에게 피해를 입힌 혐의로 구속 수감 중이다.",
+      "sourceLink": "https://www.newdaily.co.kr/site/data/html/2026/11/03/2026110300070.html",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Exterior of a smoke-damaged office building in an urban district at night, yellow police cordon tape stretched across the entrance, burnt debris on the sidewalk, no people, no text, vertical 9:16 composition, photojournalism documentary style, dark moody tones"
+    },
+    {
+      "rank": 3,
+      "category": "사건",
+      "kicker": "대통령 여권번호 유출",
+      "title": "공군 1호기 탑승자 정보유출, 경찰 수사",
+      "summary": "대통령 부부 등 공군 1호기 탑승자의 개인정보가 유출된 사건을 경찰이 정식 수사로 전환했습니다. 외교부는 해킹이 아닌 내부 유출로 판단해 여권 재발급 조치를 진행 중입니다.",
+      "sourceTitle": "경찰, 李대통령 부부 등 '공군 1호기 탑승자 정보유출' 수사 전환",
+      "sourceDesc": "경찰청이 대통령 부부 등 공군 1호기 탑승자의 개인정보가 유출된 사건을 정식 수사로 전환했다. 외교부는 해킹이 아닌 내부 유출로 판단하고 여권 재발급 조치를 진행 중이다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110314251367178",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Open passports and printed identity documents scattered on a dark surface, a glowing red digital warning icon reflected on a passport cover, no people, no text, vertical 9:16 composition, documentary photojournalism style, blue and amber tones"
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "사이버 비상",
+      "title": "국정원, 2100개 기관 긴급 보안점검",
+      "summary": "국정원이 금융권 해킹 사고를 계기로 중앙부처와 지자체 등 2100여 곳에 긴급 보안점검을 요청했습니다. 외부 접점 보안과 보안관제 가동 여부 등을 이달 중순까지 점검할 계획입니다.",
+      "sourceTitle": "[속보] 국정원, '해킹사고' 관련 중앙부처·지자체 2100여곳 긴급 보안점검 착수",
+      "sourceDesc": "국정원이 최근 금융권 사이버 침해 사고를 계기로 중앙부처와 지자체 등 2100여 개 기관에 보안점검을 긴급 요청했다. 외부 접점 보안과 보안관제 가동 여부를 점검하며 이달 중순 완료를 목표로 한다.",
+      "sourceLink": "https://www.khan.co.kr/article/202611031030001/",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Illuminated server rack towers in a dimly lit data center, a flashing red alert indicator on one panel, cool blue ambient glow, no people, no text, vertical 9:16 composition, documentary photojournalism style, dark blue tones"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "항소심 마무리",
+      "title": "尹 측, 항소심 최후변론서 무죄 주장",
+      "summary": "윤석열 측이 내란 우두머리 혐의 항소심 최후변론에서 비상계엄은 망국을 알린 호소였다고 주장했습니다. 친위쿠데타는 허구라며 무죄를 요청하고 변론을 마쳤습니다.",
+      "sourceTitle": "尹 측 최후변론서 \"비상계엄은 망국 알린 호소...'친위쿠데타'는 허구\"",
+      "sourceDesc": "윤석열 전 대통령 측 변호인단이 내란 우두머리 혐의 항소심 최후변론에서 비상계엄은 망국을 알린 호소였다고 주장했다. 특검이 주장하는 친위쿠데타는 허구라며 무죄를 요청했다.",
+      "sourceLink": "https://www.fnnews.com/news/202611031749466625",
+      "sourceDate": "2026-11-03",
+      "imagePrompt": "Exterior of a modern high-rise courthouse building at dusk, stone-carved judicial scales above the entrance doors, dramatic clouds reflected in tall glass windows, no people, no text, vertical 9:16 composition, photojournalism documentary style, muted grey and amber tones"
+    }
+  ],
+  "caption": "[물어오리] 2026-11-04 아침 브리핑\n\n1. 北 미사일에 경보 없었다…軍 \"탐지 제한\"\n2. 역삼동 연쇄방화 이명수 신상 공개\n3. 공군 1호기 탑승자 정보유출, 경찰 수사\n4. 국정원, 2100개 기관 긴급 보안점검\n5. 尹 측, 항소심 최후변론서 무죄 주장\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #북한 #사이버보안 #방화 #재판\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_news": "fail"
+    },
+    "signalHits": []
+  }
+}
