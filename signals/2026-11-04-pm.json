@@ -1,0 +1,523 @@
+{
+  "stem": "2026-11-04-pm",
+  "collectedAt": "2026-11-04T15:57:38+09:00",
+  "sources": {
+    "news": "ok",
+    "trends": "ok",
+    "nate": "ok"
+  },
+  "news": [
+    {
+      "title": "[속보] 미 민주당, 상하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
+      "pubDate": "2026-11-04T14:21:00+09:00"
+    },
+    {
+      "title": "[속보] 尹 선거법 2심도 당선무효형...확정시 국힘 397억 반환",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUN5TWJsM29Yc0J6UGhXZjFtYVpTeEtfSTRndTYxV2tTY2FmaVVUTWVxOHFoQ3BpSWFHRzNCaGZNV2JuaUlIZWZ4ZVU5SGs2THppdjJJM3JNZko5cm1iVEVaSlB4Z0U2WXlkV2J3bHBHRTRZTWphVm5sQ0tsQXNTMmNMWkVZRTA?oc=5",
+      "pubDate": "2026-11-04T14:32:00+09:00"
+    },
+    {
+      "title": "박지원 “김민석 공개사과 하라? 장충단공원에서 해야 사과냐”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxaTIxU09UakJpT0g3bVYzTTVQOWNYMy13NVNjNzFiX002cFozQmdiWXphUm43VWxJdENBUkstSE1IZlVKVmpYWGc5eEpZOWZVVkYzZG82RThnR1JZSmNNSG9ET1pJSzByZHVac0lMN3RhOURG?oc=5",
+      "pubDate": "2026-11-04T11:54:00+09:00"
+    },
+    {
+      "title": "합참 “북, 동해상으로 미사일 여러 발”…탄도미사일 나흘 만에",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFSnJsMG14MGwwNzBibmxKelhWZEh2Y1lvdzY1OVY1YTFkNVo1cDFqTHJRRTZidkFHMUtET2NqSGo1MzN0cG00SGw0QmRIMnRkak5KRHNJZDlGLS1ubkx1QzRfbTI4WlBr?oc=5",
+      "pubDate": "2026-11-04T09:54:00+09:00"
+    },
+    {
+      "title": "이 대통령 “서울 집값 발언, 강남만 맞았다는 것도 가짜뉴스”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ONUJHbzhrSXpOUGZzMzRfTHV1UDEzNE95aXRHRU1MSFlDR2N1dk9GUTN4RTRHalZtaFpnRE5lekpTMlpTWDlCUVp2RnBPbHBELVhSbnBTN0tobmhxQWlfNnBYN25pdTlHOGVrbnVIZ0VRdk5w?oc=5",
+      "pubDate": "2026-11-04T13:53:00+09:00"
+    },
+    {
+      "title": "한병도 \"'공소취소' 조항 삭제했는데도 국힘 억지 부려\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15SGdTcW1VQmtKd2xfYkFnUVZDMVJpMm9fa3BuV3ZaNkhzVHlyaFlGcG1mZHM0MEFZVmRUNFRqQTRLZmMtNGhIX2t0eGswUFlIM1pYYUcycmZBTFdnZXUxZFp5NEdYUkJXWE5NbURkc3BZdDhjbDlGZNIBeEFVX3lxTE9fUGxqdS00UEJxc1FQTXdzNVM1MmQyV21hVlFBQTJBQjI5X1ZQUDF4dlhkUFJHMUlxNm9HM0x5NVM4QUxHUlQwQVRweEVyNDlKQjZCNk12dXQ2MExHNVBQQ2hRQUdleDVlc2NrUXUzaUFxcm1mbFhqdw?oc=5",
+      "pubDate": "2026-11-04T11:41:54+09:00"
+    },
+    {
+      "title": "전남광주 순천대·경북 경국대에 의대 신설…2030년부터 60명·40명 선발",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYY0lBV21JcnZGbnlHZjRVc0NzazM0N2JVVmdUYjYydF9vZmVBMUNTN2JGN1pFbm9Ldkt5a1Z0RlVGUEVDaV9LWHJ4TGVzQ0xUNTRVNW13R0pNd9IBX0FVX3lxTFBDOHRXNjFseGtBaDRXX1BYVGVrMkRuWXZXWUVfN1hoZm5GdF9fZnJ5MWtwWTFxXzQ5YlZ1b05fOHRFWjVtVDdPdGo1NjQ0aDRDMjloeWVGcGtwMWNQLTlz?oc=5",
+      "pubDate": "2026-11-04T12:16:00+09:00"
+    },
+    {
+      "title": "‘5·18 왜곡 혐의’ 지만원, 구속적부심…“석방해달라”",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tcEJNMWQ2YWRBVmdzZGMxdGdwRzdXMWJJWnF1bV96dTJHWWEtdGJiQjNlbVp0clVsSmRwMWhqMjFmckZlNkFXUEV2c0tLaVJub2VVWDNUREU0R2s?oc=5",
+      "pubDate": "2026-11-04T14:14:00+09:00"
+    },
+    {
+      "title": "남서부부터 ‘비 소식’, 내일 전국 확대…토요일 아침 ‘영하’",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9haElqc0VFdmstdVZoMGFnaGszY2o3aUlwQXpFanpXY1J6aUJ6XzVTd3JQMXFzd2dHNzN0dlZLUEtqaE9vc0NJdTlBNnE1bVg1Q3F4cWpIVXhpcU1LbWNFTDVaUW10OVNMbWtqbw?oc=5",
+      "pubDate": "2026-11-04T10:55:00+09:00"
+    },
+    {
+      "title": "국회 예결위, 이틀간 종합정책질의‥'821조 최대 예산' 본격 심사",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuNUw0RWRkSWh3T1pwRFN4Um5RVnVPUm1vYUxwVWs2UUEwbnRPa3VfdTFCZmJvR0pQWXg5RmRuYmxjaEtkeVlaQ1UxSDlGMHAydXFFbktuWkdkTW1vMFNBSF9kRnp6LUhUdEN2TThmcEdnUUVwX3hyetIBeEFVX3lxTFBWZTIzVjRGcmVITEdjWkUwWl9sbXB6ckVvb3pVMllZUzhzRnVmajc5emY2M0tiUS1ja0FPd0hVRUcwSkNtdERVcUVfcGNQQ1ZnV0NOSWlxZFhIVFEzamdSa0N0ckZqMmUzaG1GZXdTMVNwY1gxVVVpdA?oc=5",
+      "pubDate": "2026-11-04T08:34:01+09:00"
+    },
+    {
+      "title": "\"핵폭탄 있어야 버틴다‥이란서 핵무장 기류 커져\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzZlBJSE5mMFVqN19BQVBUcGtrYlhhbEZJaEJJQ3lCZTNyS1dmeERmOURJcm9rTWJWa0pwZGNnSjBnemtvREN4N0tzSHoyODVjRzhvVU1YZU5JYlBzbGFSNTBIUUtGQk11YjJmWmp0bVdCYktL0gF0QVVfeXFMTTVIMFhpMzBScjVfay02aHQ1SUZZdnNBUm9IcHQ4VUZZQTZ6VFpyNHdlVnNEcnVSWG5RR1d5NWpKandDTjdSTVJtWGpIX2cwbzQyTV9KZVdNWEQ2R0ZDMHpzSEZpMjRBMUVDNXFsNmFUY0pwT2s?oc=5",
+      "pubDate": "2026-11-04T09:08:34+09:00"
+    },
+    {
+      "title": "트럼프 \"이란 당장 공격할 이유 없을수도…전쟁 상태 아냐\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rWHRiWHQ4bk9TWFlaQ2RtQy1kUUIydUhMN3JKYjhaYUY1cGNlVGdHaW9jV3VQZ3RXY3YtTk02TGdlZ2VoZmRlWEpFTUR2eGxCZzMyWGlOSjBhN3PSAWBBVV95cUxNWmN1eXFaWU9QS0c5N2JhOExPc1BTYTJ2dEctMDgwM2N3YXRWM3hWSjU2Y20xOXZJcTF2ME1YWUhzV25aMjRNYzJNR0xXZXZ2aUU5eGNXWWZVSHFpWVlCM1k?oc=5",
+      "pubDate": "2026-11-04T09:51:53+09:00"
+    },
+    {
+      "title": "이스라엘 '이란 화학무기 준비' 정보에 미 당국도 이견",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XOEV4RGFvSFItTzhsZGktWFo0Qm1QdzJYUmo1OVlpX0p1cm1Wb3dvd3RUSmZHM096S2l4NlBCSW43TEFUNzVKTlVIbUViR2xaZTBqNUM3Z182cUpXQ1E?oc=5",
+      "pubDate": "2026-11-04T11:21:00+09:00"
+    },
+    {
+      "title": "면접관도 CEO도 가짜였다···북한 해커들 ‘위장 채용’으로 엔지니어에 접근, 5개월간 다단계 공격",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scWdlbFVQSFhxa0szQ1NIOU9IWkxSd3pFdEtqOU1pU3Vsc0JoMmczbmgtOENNQzFwb0JXR2RzMll1Tjk0WHE5Qm4ycy1lTkNXdUFfOUhEWmhEQdIBX0FVX3lxTFByZmNBc0J2M3dVbHhYekVBWGlib0VGaFpOR0dVcUNlWjRuZ3IwclpzWWFoZWE1WW1fMjZRS1F4bmdlUURUbDhmWHVtZTZXeXZkSEZWQVg3SGpfYVR0OGVR?oc=5",
+      "pubDate": "2026-11-04T14:38:00+09:00"
+    },
+    {
+      "title": "[한진칼 경영권 2막] 바람 잘 날 없는 지배구조 잔혹사",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nelpkMEFNYkVHSy1HQXh3NWM0ZTZBLTNMQmdoT0FYeXduek5tb2tFTmZTRFYtNWxSUThZUVhsNHpxZ2Jaa0NfREVjdXhJVllYVHJOZHQ1RXo3VV8wTW5CYnVPVjg2SktFNnBCOVUwYUY?oc=5",
+      "pubDate": "2026-11-04T09:33:16+09:00"
+    },
+    {
+      "title": "GS리테일, 3Q 영업익 1천321억·18.9%↑…분기 최대 실적(종합)",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DM3lSWnZEcFZkTW01YndCOXR6Ui03SkhzT2Rob21KVnM1VEVQRmVIMlRPRTlCV25oaVBiRzlBd0c4NzhSMDJuWk5uNDFTOEpJaW16ZERZMG5uOHpSbHhNcHFkNGhjUkZRWFNZYldleWE?oc=5",
+      "pubDate": "2026-11-04T09:36:48+09:00"
+    },
+    {
+      "title": "김민석 “가상자산 소득 과세 유예, 정부에 공식 제안”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEN3RaRWpZWDFmQ0VicFduMWlILUJrUTA2dE5waUxpTFdlZnJzUFV5TDZNVEY2NHFpc2h5aWppckZVN3VTaVVHRGpMeW56d2FWWC0wYVN4NlBQT0cxeWNsMGlYZ3ZMelBsRnlaVi1RWXJBQm5s?oc=5",
+      "pubDate": "2026-11-04T10:17:00+09:00"
+    },
+    {
+      "title": "美 스위프트 우주망원경 4일 저녁 대기권 재진입…“한반도 영향 없어”",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SZEJKcExIZExCRkpkNVk4eHpHcWFWcm9pVTJSSGw2RHlFR2E3MU5tX2ZBQml5UmVqUld4RGNPSWg2ajVTT09EYnF0VQ?oc=5",
+      "pubDate": "2026-11-04T15:38:28+09:00"
+    },
+    {
+      "title": "락스타 ‘GTA6’, 출시 준비 본격화…10일 사전 다운로드 시작",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JcjFTX3NNLXZPLXY3eTY3UGJ0czJpVjF0eU9YZWJLUFI4dzVSaXpUTU9Vdm9CTE1OVXBtdlMzOWRNVk1zcklFWFloRll6Uk5zbmZXT2JR?oc=5",
+      "pubDate": "2026-11-04T14:24:51+09:00"
+    },
+    {
+      "title": "리센느 신곡 ‘위드’ 2시간 만에 멜론 1위…앨범 5곡 모두 ‘톱10’",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92V0pCYjZxa2NtenNPZlVwTV9mZE1MUl9zMmpUMUdVNVl0RHNJaFo0NzI4d0V6NGJ1NkkySUZlRXJSXzZLcnFUazduek82MmtnV2FJc1RERlNWUWNILU0tak92S2I?oc=5",
+      "pubDate": "2026-11-04T10:41:00+09:00"
+    },
+    {
+      "title": "[단독] 故 최불암 '아빠의 말씀' 다시 들을까..'불후의 명곡' 추모 자막 '애도'",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEdmdkl4amZObVRDVy01dnpwYkRhazg1NVZIVUFSRzlXWnNtdUNmN3NvM2kxQXdlTlJhTHVWdWgxZUc2ZnhIUXUwZGVNbDh1OW1wNl9xcGphWkoyOUlwb3FzZkxKOU9GM19rYjM1QVpWdWV6N0toRHAxSTI0SXY3aXNKTkZYbm5HcXdHNFlSNA?oc=5",
+      "pubDate": "2026-11-04T13:36:00+09:00"
+    },
+    {
+      "title": "첫 판부터 어긋난 한국시리즈 마운드 운용, kt도 삼성도 한숨 푹...로건, 원태인 활용법 원점에서 다시 출발?",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhLUlqek1uLUh5MldvMktobXk3YXFocjlsREFaZEdZLXpsWllTSHgzNG9UQWlVUnpHaWo5Rmg5QTZlRzlPMS1HSExFMnNNMTFKZGdCRVBZNDZvaERtMHlaa191Sko1dEI4OUxUdQ?oc=5",
+      "pubDate": "2026-11-04T14:05:42+09:00"
+    },
+    {
+      "title": "‘코리안 더비’ 김민재의 뮌헨, 이강인의 아틀레티코에 2대 0 완승",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tSm96Ym50cWdrNWZCblZ6TVhpWUdFd0h3TVhCMmJKeW1yVlh2RS0wSGpJT1ZJcnZCZm53R0YwR1lWc19jYXFtVXBYWTExWUZuRFM0MHRJQU82bVZ1SGQ4ZDBMUXA5Zw?oc=5",
+      "pubDate": "2026-11-04T10:26:00+09:00"
+    },
+    {
+      "title": "'이제, 죄송합니다. 그만해도 된다' 日 모리야스 감독 연내 용퇴 확실, 아시안컵 12월 연기→17일 파라과이전 대표팀 고별전 된다..'1월 LA올림픽 축구 예선도 연기'",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckgwWFJxclU4UlJQeDNhdGtvZWxjTGpJdXNXSTgzeTVqMl9qbFpBcEdBVU91RDE4VncxYTZMYXA2MERqajdjLUs4Rm1aY0tueGdrTHZTSGdHbGxaNUZYQ1FiRThDTHQtQmN0T2hvRFAyN1JyLVZkVTlHRkQxNnZyUV96WQ?oc=5",
+      "pubDate": "2026-11-04T14:40:00+09:00"
+    },
+    {
+      "title": "스페인 프로축구 선수, 경기중 골키퍼와 충돌 후 끝내 숨져",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zZ2RRTnp5b2RLaWZSNm13RlVGM0g5SUVJblI4Y3lUT1BpTmducy1RblRmWXhkTERhWHV4QzRjclZfRXA4MmVZSnQ1S051dW9yam1ZU1p6QUNVWlJoTl9fc1B6b1BWMjJCNGxhUnBmbEtIem_SAWZBVV95cUxPaHZVOWV2RmFFWm5nVE9QU3RVUEZoS0JPUlgtNmZ5LUNBQkcyalo0RkRwcVNha3A3d2F6enVYVUlMYnNDY2hBeXhWRmlUeFhhTEJOYWM1bVpSeVRiNk5BbUdJZXk4QUE?oc=5",
+      "pubDate": "2026-11-04T13:00:19+09:00"
+    },
+    {
+      "title": "\"알츠하이머는 왜 뇌 전체로 번질까\"…실마리 쥔 단백질 'FAM84B'",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NNkNGcmVpd0ZINHZaTFpzLWlubFp4dDBaTmNIWENod0toOWpqZ1RCclY5VWRYQW9LSFhGQlE4Q1ZDbzNnTlRVSDNyWVoxZl9aS2pzcUk4c0FTUQ?oc=5",
+      "pubDate": "2026-11-04T12:00:00+09:00"
+    },
+    {
+      "title": "군산시보건소, 인플루엔자·코로나19 등 호흡기 감염병 예방수칙 준수 당부",
+      "source": "한국방송뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2dlhzc0JDMDAxOFR5RFpkUG5qM0hzMy11bTRsR3g3SVIzUVctY0N0bFlvUkc4UlFNNThfVGJSejhQM1hGdTFiLXJSWk84aGpHRlU3dGdkWllPUXhiSnc?oc=5",
+      "pubDate": "2026-11-04T12:05:41+09:00"
+    },
+    {
+      "title": "안과의사회, '당뇨망막병증 인식의 달' 캠페인 추진",
+      "source": "병원신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYWm9uR2tBSTdfY1lMYXA2eF9KTUd2YV83QmJQaVR2ZFJtLURITEMzR0h1bDAwSTJMci0yVXpHa1E0NUxYekdfT1VCSExXNmRzeVZ0RmJIcHhDamRiNkhpV2FZVHd3ZjhyUXc?oc=5",
+      "pubDate": "2026-11-04T14:14:46+09:00"
+    }
+  ],
+  "trends": [
+    {
+      "term": "가덕도신공항",
+      "pubDate": "2026-11-04T14:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "가덕도공항, 6200억 공사비 매듭…대우건설 컨소, 착공 ‘카운트다운’",
+          "snippet": "",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031009404680338",
+          "source": "대한경제"
+        },
+        {
+          "title": "\"가덕도신공항 올해 예산집행률 고작 0.03%…정상화 시급\"",
+          "snippet": "",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261104.99099001194",
+          "source": "국제신문"
+        },
+        {
+          "title": "“신공항·LCC·도시철도 비상”… 김재운 시의원, 시정 무기력 질타",
+          "snippet": "",
+          "url": "https://sports.donga.com/region/article/all/20261104/134962585/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "term": "약국",
+      "pubDate": "2026-11-04T14:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "약통 속 3천만 원...약국 직원·경찰 덕에 주인 찾아",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611040527084127",
+          "source": "YTN"
+        },
+        {
+          "title": "숨진 남편 약상자마다 5만원권이…약국 덕분에 3천만원 찾아",
+          "snippet": "",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1285700.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "약 봉지마다 현금 다발이…숨진 남편 약 상자 버리려던 60대, 돌아온 3000만원",
+          "snippet": "",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56836",
+          "source": "주간조선"
+        }
+      ]
+    },
+    {
+      "term": "헤지펀드",
+      "pubDate": "2026-11-04T14:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "美 대형 헤지펀드의 '대폭락' 경고…\"주식 시장 망가졌다\"",
+          "snippet": "",
+          "url": "https://www.hankyung.com/article/202611045349i",
+          "source": "한국경제"
+        },
+        {
+          "title": "빌 애크먼 \"주식시장 망가졌다…레버리지 투기 거래에 주가 급등락\"",
+          "snippet": "",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442832",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "\"대공황 직전 광란과 비슷\"…헤지펀드 운용사의 섬뜩한 경고 [지금이뉴스]",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0545_202611041020013501",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "term": "윤석열",
+      "pubDate": "2026-11-04T14:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "[속보] 윤석열, 선거법 2심서도 당선무효형…확정 땐 국힘 397억 반환",
+          "snippet": "",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1285733.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "[속보] 2심 재판부 \"변호사 소개·건진법사 발언, 중요 정보‥허위사실 공표로 선거인 선택 침해\"",
+          "snippet": "",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863151_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[속보] 윤석열 선거법 2심도 징역형 집유…확정 시 국민의힘 397억 반환",
+          "snippet": "",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261104144225kFR",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "term": "비상식량",
+      "pubDate": "2026-11-04T14:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "일본 방재상 \"재해 틈탄 타국 공격 등에 대비해야\"",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611041402334345_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "日 방재상 \"재해 틈탄 타국 공격 등에 대비해야\" 언급 주목",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261104086300073",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "전 세계 33개국, 시민들에 ‘식량·의약품 비상 비축’ 권고… 인니 단체 “선제적 대응책 촉구”",
+          "snippet": "",
+          "url": "https://haninpost.com/archives/132536",
+          "source": "한인포스트"
+        }
+      ]
+    },
+    {
+      "term": "해병대 제2사단",
+      "pubDate": "2026-11-04T14:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "CU '우리 부대 응원전' 1위는 제2해병사단…정동원 팬덤도 한몫",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261104031400030",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "하나은행·하나카드, CU와 군부대에 간식차 릴레이 지원",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854679",
+          "source": "뉴시스"
+        },
+        {
+          "title": "하나은행·하나카드·CU, 국민 응원 모아 군 장병 간식 지원",
+          "snippet": "",
+          "url": "https://www.viva100.com/article/20261104500527",
+          "source": "브릿지경제"
+        }
+      ]
+    },
+    {
+      "term": "물김치",
+      "pubDate": "2026-11-04T14:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "\"할머니가 이것만 드셔\"…맨발 청년에 물김치 건넨 가게[오따뉴] - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/society/2026/11/04/2026110413412885090",
+          "source": "머니투데이"
+        },
+        {
+          "title": "“할머니 마지막 음식이었습니다”…‘공짜 물김치’ 건넨 식당 울린 청년의 보은",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Society/article/all/20261104/134963398/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "\"할머니가 이것만 드세요\"…심야에 건넨 물김치 한 그릇이 만든 기적 [따뜻했슈]",
+          "snippet": "",
+          "url": "https://www.fnnews.com/news/202611040651310348",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "term": "국채",
+      "pubDate": "2026-11-04T13:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까",
+          "snippet": "",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56845",
+          "source": "주간조선"
+        },
+        {
+          "title": "[중간선거] 美 국채 금리, 민주당 압승 전망에 하락세…3년물 8bp↓(상보)",
+          "snippet": "",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443014",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "누가 이겨도 '반도체·조선·바이오' 수혜…'블루스윕'이면 이차전지·태양광 뜬다",
+          "snippet": "",
+          "url": "https://www.news1.kr/finance/market-exr/6341939",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "term": "강남구",
+      "pubDate": "2026-11-04T13:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "공인노무사가 노동법 실무교육…강남구 '고용노동대학'",
+          "snippet": "",
+          "url": "https://news.tf.co.kr/read/life/2384616.htm",
+          "source": "더팩트"
+        },
+        {
+          "title": "근로계약부터 임금관리까지 ‘테헤란밸리 고용노동대학’",
+          "snippet": "",
+          "url": "http://m.ignnews.co.kr/news/articleView.html?idxno=20176",
+          "source": "강남내일신문"
+        },
+        {
+          "title": "강남구, 중소기업 노무 실무 과정 11월 5일 개강",
+          "snippet": "",
+          "url": "http://www.mediaissue.net/3603889",
+          "source": "미디어이슈"
+        }
+      ]
+    },
+    {
+      "term": "주한 미군",
+      "pubDate": "2026-11-04T13:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "군사우편으로 대마 밀수한 주한미군 구속",
+          "snippet": "",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6863066_36932.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "美군사우편으로 합성대마 밀반입한 주한미군 2명 적발",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261104125800061",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "군사우편 이용해 마약밀수한 주한미군 구속",
+          "snippet": "",
+          "url": "https://view.asiae.co.kr/article/2026110411095617112",
+          "source": "아시아경제"
+        }
+      ]
+    }
+  ],
+  "nate": [
+    {
+      "rank": 1,
+      "title": "李대통령, 집값 보도 직접 반박…\"폭락 중이라고 한 적 없어, 가짜뉴스...",
+      "link": "https://news.nate.com/view/20261104n12864"
+    },
+    {
+      "rank": 2,
+      "title": "'학폭 논란' 차예련 측, 6일만에 입 열었다 \"악의적 허위사실…강력 조...",
+      "link": "https://news.nate.com/view/20261104n21465"
+    },
+    {
+      "rank": 3,
+      "title": "\"집도 있고 차도 두 대인데 다문화 우선순위?\"…유치원 입소 두고 SN...",
+      "link": "https://news.nate.com/view/20261104n13733"
+    },
+    {
+      "rank": 4,
+      "title": "아내 불륜남은 전 K리그 선수…상간 소송당하자 \"죽이겠다\" 협박·폭...",
+      "link": "https://news.nate.com/view/20261104n13856"
+    },
+    {
+      "rank": 5,
+      "title": "\"소방관 중에 개XX가 있다\" 경찰이 구급대원 저격…사건 발단은?",
+      "link": "https://news.nate.com/view/20261104n02829"
+    },
+    {
+      "rank": 6,
+      "title": "[속보] 윤석열 선거법 위반 2심도 유죄…확정 땐 국힘 397억 반환",
+      "link": "https://news.nate.com/view/20261104n22884"
+    },
+    {
+      "rank": 7,
+      "title": "텍사스 상원마저…공화당, '보수 텃밭'서 줄줄이 민주당에 패배",
+      "link": "https://news.nate.com/view/20261104n21273"
+    },
+    {
+      "rank": 8,
+      "title": "[속보]美중간선거 낮12시 현재…상원 민주 46석, 공화 36석",
+      "link": "https://news.nate.com/view/20261104n16930"
+    },
+    {
+      "rank": 9,
+      "title": "박진영, 이단 논란에 입 열었다…\"하나님이 해결하실 것\"",
+      "link": "https://news.nate.com/view/20261104n10454"
+    },
+    {
+      "rank": 10,
+      "title": "비닐봉지가 꿈틀꿈틀…열었더니 주둥이 묶인 강아지, 누리꾼 '경악'",
+      "link": "https://news.nate.com/view/20261104n06403"
+    },
+    {
+      "rank": 11,
+      "title": "'억까'도 정도껏…민호, 마라톤 논란 사과에 \"뉴스까지 탈 일인가\" 옹호 여...",
+      "link": "https://news.nate.com/view/20261104n17349"
+    },
+    {
+      "rank": 12,
+      "title": "[속보] 尹, 선거법 2심 유죄에 헛웃음…확정땐 국힘 397억 토해낸다",
+      "link": "https://news.nate.com/view/20261104n24180"
+    },
+    {
+      "rank": 13,
+      "title": "'외도·전처 폭행' 男가수, 대중 앞에 섰다…\"계속 좋아할 가치 있는 사...",
+      "link": "https://news.nate.com/view/20261104n17347"
+    },
+    {
+      "rank": 14,
+      "title": "손흥민(36)-황희찬(32)-설영우(30)-이강인(27), 2028년에 평균나이 30살 되...",
+      "link": "https://news.nate.com/view/20261104n16976"
+    },
+    {
+      "rank": 15,
+      "title": "트럼프 \"중간선거 결과 수용…민주당과 협력할 것\"",
+      "link": "https://news.nate.com/view/20261104n18150"
+    },
+    {
+      "rank": 16,
+      "title": "\"차기 대통령 누구?\" 묻자…오세훈 20.4%·한동훈 14.3% [조원씨앤아이]",
+      "link": "https://news.nate.com/view/20261104n19025"
+    },
+    {
+      "rank": 17,
+      "title": "전쟁 공포 이 정도인가…안전모·생수 구입, 400만원 썼다는 가족 등장",
+      "link": "https://news.nate.com/view/20261104n01848"
+    },
+    {
+      "rank": 18,
+      "title": "특검 \"투표지 부족 투표소, 중앙선관위 지시로 투표록 사후 위변조\"",
+      "link": "https://news.nate.com/view/20261104n16455"
+    },
+    {
+      "rank": 19,
+      "title": "\"집값 놀랄 만큼 하락\" 이 대통령의 말…서민들은 왜 체감 못할까",
+      "link": "https://news.nate.com/view/20261104n02004"
+    },
+    {
+      "rank": 20,
+      "title": "[속보]김민석 \"당내 종교 정치 개입 의혹 사라지도록 제도 개선 밟을 것\"",
+      "link": "https://news.nate.com/view/20261104n09777"
+    }
+  ]
+}
