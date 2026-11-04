@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-04",
+  "slot": "pm",
+  "hookLine": "국민의힘 397억, 반환 위기입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사법",
+      "kicker": "당선무효형",
+      "title": "尹 선거법 2심도 유죄…당선무효형 확정되나",
+      "summary": "서울고법이 윤석열 전 대통령의 허위사실 공표 2심에서 집행유예 3년을 선고했습니다. 대법원에서 확정되면 당선무효가 되고 국민의힘은 선거비용 397억원을 반환해야 합니다.",
+      "narration": "오늘 2심에서도 집행유예 3년 판결이 나왔습니다.",
+      "sourceTitle": "[속보]법원, '윤석열 허위사실 공표' 2심도 징역형 집유 선고",
+      "sourceDesc": "서울고법이 윤석열 전 대통령의 허위사실 공표 2심에서 당선무효형인 징역 1년6개월 집행유예 3년을 선고했다. 대법원에서 확정되면 국민의힘은 선거비용 397억원을 반환해야 한다.",
+      "sourceLink": "https://www.khan.co.kr/article/202611041443001/",
+      "sourceDate": "2026-11-04",
+      "imagePrompt": "Judicial gavel resting on stacked legal documents in a formal Korean courtroom, Korean national flag draped softly in background, marble desk surface with scattered papers, no people, no text, vertical 9:16 composition, photojournalism style, muted grey and gold tones"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "개표 진행",
+      "title": "美 중간선거 개표 돌입…민주당 초반 선전",
+      "summary": "미국 중간선거 개표가 시작돼 민주당이 버지니아, 조지아 등에서 의석을 확보했습니다. 상원 다수당 향방은 아직 결정되지 않아 개표가 계속되고 있습니다.",
+      "sourceTitle": "트럼프 운명의 날, 美 중간선거 개표 돌입…버지니아 상원 민주 당선",
+      "sourceDesc": "미국 중간선거 개표가 시작됐다. 민주당이 버지니아, 조지아, 노스캐롤라이나 등에서 의석을 확보하며 선전하고 있으며 상원 다수당 향방은 아직 결정되지 않았다.",
+      "sourceLink": "https://www.mt.co.kr/world/2026/11/04/2026110409300161078",
+      "sourceDate": "2026-11-04",
+      "imagePrompt": "Empty voting booths in a large American polling station, red, white and blue bunting hanging from the ceiling, ballot boxes in background, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "3분기 연속 적자",
+      "title": "쿠팡 3분기 적자 6423억…인천 물류센터 화재 여파",
+      "summary": "쿠팡이 올해 3분기에 약 6423억원의 영업손실을 냈습니다. 인천 물류센터 화재 손실이 반영된 결과로, 1~3분기 누적 영업손실은 1조8318억원입니다.",
+      "sourceTitle": "쿠팡 1~3분기 영업손실 1조8318억···3년 벌어들인 이익 날렸다",
+      "sourceDesc": "쿠팡Inc가 올해 3분기 영업손실 6423억원을 기록했다. 7월 인천 물류센터 화재 손실비용이 반영됐으며, 1~3분기 누적 영업손실은 1조8318억원에 달한다.",
+      "sourceLink": "https://weekly.khan.co.kr/article/202611040735001/",
+      "sourceDate": "2026-11-04",
+      "imagePrompt": "Charred steel beams inside a collapsed industrial warehouse, smoke damage visible on concrete walls, yellow caution tape in foreground, overcast sky through collapsed roof, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "경제",
+      "kicker": "과세 유예",
+      "title": "민주당, 가상자산 과세 유예 정부에 공식 제안",
+      "summary": "더불어민주당이 가상자산 소득 과세를 유예하자고 정부에 공식 제안했습니다. 디지털자산기본법을 먼저 제정하고 투자자에게 적응 기간을 주자는 취지입니다.",
+      "sourceTitle": "민주당, 정부에 '가상자산 과세 유예' 공식 제안",
+      "sourceDesc": "더불어민주당 대표가 정부에 가상자산 소득 과세 유예를 공식 제안했다. 디지털자산기본법을 먼저 제정하고 투자자와 기업에 적응 기간을 두자는 취지라고 밝혔다.",
+      "sourceLink": "https://www.khan.co.kr/article/202611041132001/",
+      "sourceDate": "2026-11-04",
+      "imagePrompt": "Abstract digital cryptocurrency coin symbols hovering above glowing trading monitor screens in a dark financial hub interior, golden ambient light on monitors, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "소위 통과",
+      "title": "조작기소 특검법 법사소위 통과…與 5일 본회의 추진",
+      "summary": "더불어민주당이 조작기소 특검법을 국회 법사소위에서 통과시켰습니다. 국민의힘은 반발 퇴장했고, 민주당은 5일 본회의 처리를 추진합니다.",
+      "sourceTitle": "'조작기소 특검법' 법사위 상정, 野 집단퇴장 속 與 5일 본회의 추진",
+      "sourceDesc": "더불어민주당 주도로 조작기소 특검법이 국회 법제사법위원회 소위를 통과했다. 국민의힘 의원들은 반발 집단퇴장했고, 민주당은 5일 본회의에서 처리할 계획이다.",
+      "sourceLink": "https://www.fnnews.com/news/202611041422342101",
+      "sourceDate": "2026-11-04",
+      "imagePrompt": "Wide-angle view of an empty South Korean National Assembly chamber, rows of green legislative seats and wooden podium at center, Korean national flag visible in background, overhead lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-11-04 저녁 브리핑\n\n1. 尹 선거법 2심도 유죄…당선무효형 확정되나\n2. 美 중간선거 개표 돌입…민주당 초반 선전\n3. 쿠팡 3분기 적자 6423억…인천 물류센터 화재 여파\n4. 민주당, 가상자산 과세 유예 정부에 공식 제안\n5. 조작기소 특검법 법사소위 통과…與 5일 본회의 추진\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #선거 #중간선거 #쿠팡 #가상자산\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail",
+      "google_news": "fail"
+    },
+    "signalHits": []
+  }
+}
