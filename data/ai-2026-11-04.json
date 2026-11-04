@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-04",
+  "account": "aibrief",
+  "hookLine": "Anthropic이 AI 자기개선 임박을 경고합니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "AI 안전",
+      "kicker": "자기개선 AI 임박",
+      "title": "Anthropic, AI 자기개선 임박 공식 경고",
+      "summary": "Anthropic이 AI가 스스로 개선하는 단계가 임박했다고 경고했습니다. SEC 공시에서 RSI 도달이 목전이라는 위험 경고가 담겼습니다.",
+      "sourceTitle": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+      "sourceDesc": "Anthropic warns it is very close to RSI (recursive self-improvement) in updated SEC filing",
+      "sourceLink": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+    },
+    {
+      "rank": 2,
+      "category": "AI 모델",
+      "kicker": "화웨이 칩 협력",
+      "title": "DeepSeek, Huawei 칩으로 모델 훈련 계획",
+      "summary": "DeepSeek이 연내 Huawei Ascend 950DT 칩으로 모델 훈련을 시작할 계획입니다. 양사의 AI 칩 협력이 더욱 깊어지고 있습니다.",
+      "narration": "DeepSeek이 Huawei 칩 훈련을 계획했습니다.",
+      "sourceTitle": "The Information: DeepSeek Will Pre-Train on Huawei Ascend 950DT by End of 2026 in Deepening Chip Pact",
+      "sourceDesc": "DeepSeek to pre-train on Huawei Ascend 950DT by end of 2026",
+      "sourceLink": "https://aiweekly.co/alerts/the-information-deepseek-will-pre-train-on-huawei-ascend-950dt-by-end-of-2026"
+    },
+    {
+      "rank": 3,
+      "category": "AI 서비스",
+      "kicker": "우주 AI 첫 교신",
+      "title": "구글 AI 반도체, 우주에서 시 한 편 지구로",
+      "summary": "구글이 우주에 보낸 AI 반도체가 지구로 시 한 편을 전송했습니다. 우주 데이터센터 첫 시험을 통과한 결과입니다.",
+      "narration": "구글 AI가 우주에서 시 한 편을 보내왔습니다.",
+      "sourceTitle": "우주로 보낸 구글 AI 반도체, 지구에 시 한 편 보냈다",
+      "sourceDesc": "구글 AI 칩, 우주에서 시 한 편 보내왔다…우주 데이터센터 첫 시험 통과",
+      "sourceLink": "https://zdnet.co.kr/view/?no=20261101104853"
+    },
+    {
+      "rank": 4,
+      "category": "반도체·인프라",
+      "kicker": "AI 칩 수출규제",
+      "title": "Nvidia, 아시아 AI 칩 구매자 절반 이상 삭제",
+      "summary": "Nvidia가 AI 칩 화이트리스트에서 아시아 구매자의 50% 이상을 삭제했습니다. 미국 수출 규정 준수 압박에 따른 조치입니다.",
+      "narration": "Nvidia AI 칩 화이트리스트 절반 삭제됐습니다.",
+      "sourceTitle": "Nvidia cuts over half of Asian buyers from AI chip whitelist in China crackdown",
+      "sourceDesc": "Nvidia NVDA Slashes Asian Buyer List by 50% Following US Compliance Pressure",
+      "sourceLink": "https://www.tweaktown.com/news/112613/nvidia-cuts-over-half-of-asian-buyers-from-ai-chip-whitelist-in-china-crackdown/index.html"
+    },
+    {
+      "rank": 5,
+      "category": "정책·규제",
+      "kicker": "제조 AI 확산",
+      "title": "제조 AI 혁신, 공급망·산단으로 확산",
+      "summary": "제조 AI 혁신이 공급망과 산단으로 확산되고 있습니다. 중기 생산성 혁신을 위해 AI를 적극 확산해야 한다는 의견이 나왔습니다.",
+      "narration": "제조 AI가 공급망과 산단으로 확산 중입니다.",
+      "sourceTitle": "제조AI 혁신, 공급망·산단으로 확산",
+      "sourceDesc": "[사설] 제조 AI 적극 확산시켜 중기 생산성 혁신해야",
+      "sourceLink": "https://segye.com/newsView/20261103516639"
+    }
+  ],
+  "caption": "[오리 기자] 2026-11-04 AI 뉴스 브리핑\n\n1. Anthropic, AI 자기개선 임박 공식 경고\n2. DeepSeek, Huawei 칩으로 모델 훈련 계획\n3. 구글 AI 반도체, 우주에서 시 한 편 지구로\n4. Nvidia, 아시아 AI 칩 구매자 절반 이상 삭제\n5. 제조 AI 혁신, 공급망·산단으로 확산\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #Anthropic #DeepSeek #Nvidia #구글 #제조AI\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
