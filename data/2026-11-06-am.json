@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-06",
+  "slot": "am",
+  "hookLine": "의사를 흉기로 공격한 50대가 붙잡혔습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건",
+      "kicker": "의료 현장 공격",
+      "title": "세브란스 교수 진료 중 흉기 피습",
+      "summary": "서울 신촌세브란스병원 정신건강의학과 진료실에서 50대 여성이 교수를 흉기로 공격해 상해를 입혔습니다. 경찰은 살인미수 혐의를 적용해 구속영장을 신청했습니다.",
+      "narration": "세브란스 진료실에서 교수가 흉기를 맞았습니다.",
+      "sourceTitle": "경찰, '세브란스 교수 흉기 피습' 50대 여성 구속영장 신청",
+      "sourceDesc": "서울 신촌세브란스병원 정신건강의학과 진료실에서 50대 여성이 교수를 흉기로 공격해 상해를 입혔다. 경찰은 살인미수 혐의를 적용해 구속영장을 신청했다.",
+      "sourceLink": "https://newsis.com/view/NISX20261105_0003857025",
+      "sourceDate": "2026-11-05",
+      "imagePrompt": "A hospital examination room with a stainless steel surgical tray, a white coat hanging on a hook, and scattered medical charts on a desk. Harsh fluorescent overhead lighting, cold sterile atmosphere. No people, no text, vertical 9:16 composition, photojournalism style."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "AI 규제 충격",
+      "title": "민주 압승에 나스닥 5.5% 폭락",
+      "summary": "미국 중간선거에서 민주당이 압승하자 AI 규제 우려에 반도체·기술주 매도세가 확산됐습니다. 나스닥지수가 5.5% 폭락했습니다.",
+      "sourceTitle": "[속보]민주 압승에 AI 규제 우려로 나스닥 5.5% 폭락 마감",
+      "sourceDesc": "미국 중간선거에서 민주당이 압승하자 AI 규제 강화 우려에 반도체와 기술주를 중심으로 매도세가 확산돼 나스닥지수가 5.5% 폭락 마감했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110605284256662",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "An empty financial trading floor with large dark screens showing downward red trend lines on black backgrounds, dim blue ambient lighting with reflections on the polished floor. No people, no text, vertical 9:16 composition, documentary photography."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "가상자산 세금 또 연기",
+      "title": "가상자산 과세 2029년으로 2년 더 유예",
+      "summary": "정부가 가상자산 소득세 시행을 2029년으로 2년 더 유예하기로 했습니다. 투자 손실을 3년간 이월공제하는 방안도 함께 추진합니다.",
+      "sourceTitle": "가상자산 과세 2년 또 유예한다…2029년 시행",
+      "sourceDesc": "정부가 가상자산 소득세 시행을 2029년으로 2년 더 유예하기로 했다. 투자 손실을 3년간 이월공제하는 방안도 함께 추진한다.",
+      "sourceLink": "https://news.mtn.co.kr/article/2026110510395969986",
+      "sourceDate": "2026-11-05",
+      "imagePrompt": "A dark wooden desk with a stack of golden coins beside an official document stamped with a red seal, and a calendar opened to a distant year. Warm directional side lighting. No people, no text, vertical 9:16 composition, documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "kicker": "개인정보 쿠팡 책임",
+      "title": "쿠팡 과징금 4235억 집행정지 기각",
+      "summary": "법원이 개인정보 유출로 부과된 쿠팡의 과징금 4235억원에 대한 집행정지 신청을 기각해 과징금 효력이 유지됩니다. 쿠팡은 법원 결정을 검토한 뒤 대응할 계획이라고 밝혔습니다.",
+      "sourceTitle": "법원, '개인정보 유출' 쿠팡 4235억원 과징금 집행정지 기각",
+      "sourceDesc": "법원이 쿠팡의 개인정보 유출 과징금 4235억원에 대한 집행정지 신청을 기각해 과징금 효력이 유지된다. 쿠팡은 법원 결정을 검토한 뒤 대응할 계획이라고 밝혔다.",
+      "sourceLink": "https://www.seoul.co.kr/news/society/law/2026/11/05/20261105500327",
+      "sourceDate": "2026-11-05",
+      "imagePrompt": "A courthouse entrance with tall stone columns, revolving glass doors, and an overcast sky reflected on polished granite steps. No people, no text, vertical 9:16 composition, photojournalistic documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "여야 충돌",
+      "title": "조작기소 특검법 상정, 국힘 필리버스터",
+      "summary": "더불어민주당이 조작기소 특검법을 국회 본회의에 상정하자 국민의힘이 필리버스터에 돌입했습니다. 여야가 조작기소 특검 처리를 두고 충돌하고 있습니다.",
+      "sourceTitle": "민주, 조작기소 특검법 상정… 국힘 \"李 방탄 특검\" 필버 돌입",
+      "sourceDesc": "더불어민주당이 조작기소 특검법을 국회 본회의에 상정하자 국민의힘이 필리버스터에 돌입했다. 국민의힘은 방탄 특검이라며 강하게 반발하고 있다.",
+      "sourceLink": "https://www.seoul.co.kr/news/politics/2026/11/06/20261106008004",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "Interior of a legislative assembly chamber with semicircular wooden benches, a tall central podium, and institutional overhead lighting casting long shadows on the empty seats. No people, no text, vertical 9:16 composition, documentary photography."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-06 아침 브리핑\n\n1. 세브란스 교수 진료 중 흉기 피습\n2. 민주 압승에 나스닥 5.5% 폭락\n3. 가상자산 과세 2029년으로 2년 더 유예\n4. 쿠팡 과징금 4235억 집행정지 기각\n5. 조작기소 특검법 상정, 국힘 필리버스터\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
