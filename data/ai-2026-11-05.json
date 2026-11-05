@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-05",
+  "account": "aibrief",
+  "hookLine": "미 선거 AI 데이터센터 주민투표 대거 부결됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "규제·정책",
+      "kicker": "선거 대이변",
+      "title": "미 중간선거 AI 데이터센터 주민투표 대거 부결",
+      "summary": "미 중간선거에서 AI 데이터센터 관련 주민투표가 단 한 건을 제외하고 모두 부결됐습니다. 오하이오에서만 최소 14개 지자체가 데이터센터 금지 또는 제한 조치를 통과시켰습니다.",
+      "sourceTitle": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+      "sourceDesc": "Ohio voters rejected the AI buildout almost everywhere it was on the ballot Tuesday, with at least 14 municipalities passing bans or other restrictions on data centers.",
+      "sourceLink": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html"
+    },
+    {
+      "rank": 2,
+      "category": "반도체·인프라",
+      "kicker": "AI칩 수출규제",
+      "title": "Oracle, Tencent AI칩 $7B 임대 취소",
+      "summary": "Oracle이 Tencent에 AI 칩을 임대하기로 한 $7B 계약을 취소했습니다. 미국 정부의 압박에 따른 조치입니다.",
+      "narration": "미 압박에 Oracle AI 칩 임대가 취소됐습니다.",
+      "sourceTitle": "Oracle drops $7B Tencent AI chip lease under US pressure",
+      "sourceDesc": "Oracle drops $7B Tencent AI chip lease under US pressure",
+      "sourceLink": "https://aiweekly.co/alerts/oracle-drops-7b-tencent-ai-chip-lease-under-us-pressure"
+    },
+    {
+      "rank": 3,
+      "category": "빅테크",
+      "kicker": "AI 신약 투자",
+      "title": "Isomorphic Labs $5B 투자 유치 협상 중",
+      "summary": "Isomorphic Labs가 $5B 규모의 신규 투자 유치를 협상 중입니다. 성사되면 기업 가치는 $50B에 달할 전망입니다.",
+      "narration": "Isomorphic이 $50B 투자를 협상 중입니다.",
+      "sourceTitle": "Isomorphic Labs in talks for $5B round at $50B valuation",
+      "sourceDesc": "Isomorphic Labs in talks for $5B round at $50B valuation",
+      "sourceLink": "https://aiweekly.co/alerts/isomorphic-labs-in-talks-for-5b-round-at-50b-valuation"
+    },
+    {
+      "rank": 4,
+      "category": "AI 서비스",
+      "kicker": "코드툴 강화",
+      "title": "OpenAI, Pierre 인수·Codex 통합",
+      "summary": "OpenAI가 Pierre Computer를 인수했습니다. Code Storage 제품을 Codex에 통합할 예정입니다.",
+      "narration": "OpenAI가 Pierre를 인수했습니다.",
+      "sourceTitle": "OpenAI Buys Pierre Computer, Folds Code Storage Into Codex",
+      "sourceDesc": "OpenAI Buys Pierre Computer, Folds Code Storage Into Codex",
+      "sourceLink": "https://aiweekly.co/alerts/openai-buys-pierre-computer-folds-code-storage-into-codex"
+    },
+    {
+      "rank": 5,
+      "category": "사회 영향",
+      "kicker": "청소년 소송 파산",
+      "title": "Character.ai 파산, Disney 입찰",
+      "summary": "청소년 자해 소송에 휘말린 Character.ai가 Chapter 11 파산 보호를 신청했습니다. Disney가 $20 million에 IP 라이선스 취득을 위해 입찰에 나섰습니다.",
+      "narration": "Character.ai가 파산 보호를 신청했습니다.",
+      "sourceTitle": "Character.ai enters Chapter 11 after self-harm suits, with Disney set to pay $20 million for IP license",
+      "sourceDesc": "Character.ai enters Chapter 11 after self-harm suits, with Disney set to pay $20 million for IP license",
+      "sourceLink": "https://www.thecooldown.com/green-business/character-ai-bankruptcy-disney-license-lawsuits/"
+    }
+  ],
+  "caption": "[오리 기자] 2026-11-05 AI 뉴스 브리핑\n\n1. 미 중간선거 AI 데이터센터 주민투표 대거 부결\n2. Oracle, Tencent AI칩 $7B 임대 취소\n3. Isomorphic Labs $5B 투자 유치 협상 중\n4. OpenAI, Pierre 인수·Codex 통합\n5. Character.ai 파산, Disney 입찰\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #Oracle #Tencent #IsomorphicLabs #OpenAI #CharacterAI\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
