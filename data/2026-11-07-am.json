@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-07",
+  "slot": "am",
+  "hookLine": "어제 한국 증시 개장 직후 거래가 중단됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "서킷브레이커 발동",
+      "title": "코스피 8% 폭락…서킷브레이커 발동",
+      "summary": "미국 증시 AI 급락 여파로 어제 코스피가 개장 직후 8% 폭락하며 서킷브레이커가 발동됐습니다. 삼성전자와 SK하이닉스 등 반도체주가 동반 급락해 개인 투자자들의 피해가 컸습니다.",
+      "narration": "한국 증시에 서킷브레이커가 발동돼 거래가 멈췄습니다.",
+      "sourceTitle": "[속보]코스피, 8% 폭락에 서킷브레이커…5000선 붕괴",
+      "sourceDesc": "미국 중간선거 여파로 AI·반도체 관련주가 급락하며 코스피가 8% 넘게 폭락해 서킷브레이커가 발동됐다. 삼성전자와 SK하이닉스 주가가 동반 급락하며 외국인 투자자들이 집중 순매도했다.",
+      "sourceLink": "https://www.khan.co.kr/article/202611060908001",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "Empty stock exchange trading floor with rows of dark screens and dim overhead lighting casting long shadows on a polished tile floor, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "정치",
+      "kicker": "민주당 단독 처리",
+      "title": "조작기소 특검법 국회 본회의 통과",
+      "summary": "국회 본회의에서 조작기소 특검법안이 더불어민주당 주도로 가결됐습니다. 필리버스터에 나선 국민의힘은 표결에 불참했습니다.",
+      "sourceTitle": "[속보] 조작기소 특검법, 與 주도 국회 본회의 통과",
+      "sourceDesc": "민주당은 국민의힘의 필리버스터를 종결 표결로 끝낸 뒤 조작기소 특검법안을 의결했다. 재석 168명 중 찬성 167명으로 가결됐으며 국민의힘은 표결에 참여하지 않았다.",
+      "sourceLink": "https://www.fnnews.com/news/202611061620249469",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "Wide angle interior of an empty parliamentary chamber at night with curved wooden benches lit by soft overhead ceiling lights and a speaker's podium at center, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "AI·과학",
+      "kicker": "AI 규제 공포",
+      "title": "AI 규제 우려에 나스닥 5.5% 급락",
+      "summary": "미국 중간선거 결과로 AI 규제 강화 우려가 커지며 나스닥이 5.5% 급락했습니다. 하루 만에 나스닥 시총 3400조원이 증발했습니다.",
+      "sourceTitle": "AI 규제 공포에 나스닥 5.5% 급락…하루만에 시총 3400조원 증발",
+      "sourceDesc": "미국 중간선거에서 AI 투자 속도 조절을 강조해온 민주당이 상·하원 과반을 확보하면서 AI 데이터센터 투자 둔화 우려가 커졌다. 나스닥 종합지수는 5.5% 급락했고 하루 만에 시총 3400조원이 사라졌다.",
+      "sourceLink": "https://www.fnnews.com/news/202611060834515879",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "Abstract close-up of multiple dark monitor screens reflecting deep red gradient light on a glossy desk surface, shallow depth of field with moody blue-grey ambient lighting, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "노벨평화상 추천",
+      "title": "한국 '빛의 혁명' 노벨평화상에 추천",
+      "summary": "이 대통령이 오르타 동티모르 대통령과 정상회담을 가졌습니다. 오르타 대통령은 회담에서 한국의 '빛의 혁명'을 노벨평화상에 추천했습니다.",
+      "sourceTitle": "이 대통령, 오르타 동티모르 대통령과 회담…\"한국 '빛의 혁명' 노벨평화상 추천\" \"수상 가능성 높겠네\"",
+      "sourceDesc": "이 대통령이 오르타 동티모르 대통령과 정상회담을 갖고 양국 협력을 논의했다. 오르타 대통령은 한국의 민주주의 운동인 '빛의 혁명'을 노벨평화상에 추천했다고 밝혔다.",
+      "sourceLink": "https://www.khan.co.kr/article/202611061432001/",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "Two empty elegant chairs facing each other in a formal state reception room with floor-length curtains and muted diplomatic decor, natural light filtering through tall windows, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "입동 한파",
+      "title": "절기 입동에 올가을 첫 영하권 한파",
+      "summary": "절기 입동인 오늘 아침 서울에 올가을 첫 영하권 추위가 찾아왔습니다. 체감온도는 영하 5도까지 떨어져 두터운 겉옷이 필요한 날씨입니다.",
+      "sourceTitle": "[내일 날씨] 절기 '입동'에 찾아온 한파…체감 '영하 5도'",
+      "sourceDesc": "절기 입동인 7일 서울 아침 최저기온이 올가을 처음으로 영하권에 접어든다. 7일 전국의 아침 최저기온은 영하 6도에서 영상 5도 사이로 예보되며 체감온도는 영하 5도 안팎이 된다.",
+      "sourceLink": "https://www.mt.co.kr/index.php/society/2026/11/06/2026110617033040082",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "Frost crystals forming on bare twigs and dead autumn leaves scattered on the ground at dawn, cold blue light with thin morning mist hovering above the soil, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-07 아침 브리핑\n\n1. 코스피 8% 폭락…서킷브레이커 발동\n2. 조작기소 특검법 국회 본회의 통과\n3. AI 규제 우려에 나스닥 5.5% 급락\n4. 한국 '빛의 혁명' 노벨평화상에 추천\n5. 절기 입동에 올가을 첫 영하권 한파\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #증시 #AI #한파\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
