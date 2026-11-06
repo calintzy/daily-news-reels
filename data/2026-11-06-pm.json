@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-06",
+  "slot": "pm",
+  "hookLine": "장중 5000선이 무너지며 거래가 멈췄습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "블랙프라이데이 증시",
+      "title": "코스피 6% 폭락, 서킷브레이커 발동",
+      "summary": "미국 중간선거 여파가 후속으로 번져 코스피가 6% 넘게 폭락하며 서킷브레이커가 발동됐습니다. SK하이닉스 등 반도체주가 직격탄을 맞았습니다.",
+      "narration": "코스피가 6% 떨어지며 서킷브레이커가 발동됐습니다.",
+      "sourceTitle": "코스피 5000 간신히 지켰다…'18만전자'·'113만닉스'",
+      "sourceDesc": "코스피가 미국 중간선거 여파로 6% 넘게 급락하며 장중 서킷브레이커가 발동됐다. 5000선이 붕괴됐다가 가까스로 사수했으며 SK하이닉스 등 반도체주 중심으로 외국인 매도가 쏟아졌다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/securities/2026/11/06/20261106500238",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "A dimly lit financial trading floor with large digital screens displaying sharp downward red trend lines, empty desks with scattered papers, cold blue neon ambient light reflecting on a polished floor. No people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "사건",
+      "kicker": "개인정보 유출",
+      "title": "SSG닷컴 고객 개인정보 유출",
+      "summary": "외부 비인가자가 API 취약점을 악용해 SSG닷컴 일부 고객 이름·식별번호 등 개인정보가 유출됐습니다. 회사는 개인정보보호위원회에 신고하고 고객에게 안내를 발송했습니다.",
+      "sourceTitle": "SSG닷컴, 개인정보 유출 사고 발생…성명·내부 식별번호 등",
+      "sourceDesc": "외부 비인가자가 API 취약점을 악용해 SSG닷컴 일부 고객의 이름과 내부 식별번호 등 개인정보가 유출됐다. SSG닷컴은 개인정보보호위원회에 신고하고 고객에게 개별 안내를 발송했다고 밝혔다.",
+      "sourceLink": "https://zdnet.co.kr/view/?no=20261106151118",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "A close-up of a laptop keyboard with a glowing padlock icon reflected on the screen, surrounded by blurred documents with redacted personal data symbols on a dark desk. No people, no text, vertical 9:16 composition, photojournalism documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "조류독감 비상",
+      "title": "연천 올겨울 첫 고병원성 AI, 전국 방역 비상",
+      "summary": "경기 연천 산란계 농장에서 올 동절기 첫 고병원성 조류인플루엔자가 확인됐습니다. 경기도는 18개 시군 긴급 방역점검에 나서며 차단 방역을 강화했습니다.",
+      "sourceTitle": "경기도, 연천 고병원성 AI 발생에 18개 시군 긴급 방역점검",
+      "sourceDesc": "경기 연천 산란계 농장에서 올 동절기 첫 고병원성 조류인플루엔자(AI)가 발생했다. 경기도는 18개 시군 부단체장이 참석하는 긴급 방역점검회의를 열고 차단 방역을 강화하기로 했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110611431938798",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "An empty poultry farm shed with rows of vacant cages under harsh fluorescent lighting, yellow caution tape stretched across the entrance gate, misty rural morning atmosphere visible through a metal door. No people, no text, vertical 9:16 composition, documentary photography style."
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "특검법 국회 처리",
+      "title": "조작기소 특검법 필리버스터 종결, 오늘 처리",
+      "summary": "조작기소 특검법 필리버스터 후속으로 민주당이 오늘 오후 종결동의안 표결을 거쳐 법안을 처리할 방침입니다. 국민의힘은 장외집회를 예고하며 강경 대응을 밝혔습니다.",
+      "sourceTitle": "조작기소 특검법 오늘 표결…국힘 필리버스터 종료 후 처리 전망",
+      "sourceDesc": "민주당이 국민의힘의 필리버스터 종결동의안을 오후 표결로 끊고 조작기소 특검법을 처리할 방침이다. 국민의힘은 특검법이 가결돼도 장외집회 등 강경 대응을 이어가겠다고 밝혔다.",
+      "sourceLink": "https://www.hankyung.com/article/2026110696187",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "Interior of an empty legislative chamber with curved wooden benches, a tall central podium under institutional overhead lighting casting long shadows on the unoccupied seats. No people, no text, vertical 9:16 composition, documentary photography style."
+    },
+    {
+      "rank": 5,
+      "category": "정치",
+      "kicker": "청와대 인사",
+      "title": "이재명, 법무·국세청장 지명",
+      "summary": "이재명 대통령이 법무부 장관에 이용철 방위사업청장을, 국세청장에 안덕수 서울지방국세청장을 지명했습니다. 청와대 정무수석에는 최인호가 내정됐습니다.",
+      "sourceTitle": "李, 법무장관 이용철·국세청장 안덕수 지명…靑 정무수석엔 최인호",
+      "sourceDesc": "이재명 대통령이 법무부 장관에 이용철 방위사업청장을, 국세청장에 안덕수 서울지방국세청장을 지명했다. 청와대 정무수석에는 최인호 HUG 사장을 내정했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110615541688134",
+      "sourceDate": "2026-11-06",
+      "imagePrompt": "Official government building exterior with stone columns and national flags on tall poles, formal stone steps leading to closed wooden doors under an overcast sky. No people, no text, vertical 9:16 composition, photojournalism documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-06 저녁 브리핑\n\n1. 코스피 6% 폭락, 서킷브레이커 발동\n2. SSG닷컴 고객 개인정보 유출\n3. 연천 올겨울 첫 고병원성 AI, 전국 방역 비상\n4. 조작기소 특검법 필리버스터 종결, 오늘 처리\n5. 이재명, 법무·국세청장 지명\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #증시 #특검\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
