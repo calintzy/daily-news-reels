@@ -1,0 +1,523 @@
+{
+  "stem": "2026-11-08-am",
+  "collectedAt": "2026-11-08T05:13:04+09:00",
+  "sources": {
+    "news": "ok",
+    "trends": "ok",
+    "nate": "ok"
+  },
+  "news": [
+    {
+      "title": "“조작기소 특검법은 ‘이재명 탈옥법’”…거리 나선 국힘, ‘탄핵’ 거론",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhcjZHTlRwamhtY3FsZ2ZIeElvVHVxeC1EUXRHc3ZpUXlPRHRTTzQ4VFFPLUozQWg5RE1jaHBxNFQ2OHVQMFlyUG5PdU9GMGpNZEpQMHBwZElpeW9COFo4WFJ6WEltbmxLM0xRLV90c2lxVGhq?oc=5",
+      "pubDate": "2026-11-07T18:25:00+09:00"
+    },
+    {
+      "title": "\"날 마루타로 만들어\" 횡설수설... 세브란스 흉기 난동 50대女 구속",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXFyZm8wYW1YWTRhUm9FYWxqcmRxcnF4N1c2a2FPS0xMM2dOOGpubHZCaXo5anMzN240M1lWMWxmYnZBcXhEei1rajNNUHQ3NldmdzJaNVVaMkI1LUw3NU5IZ0JJU05xREM4ZmFRRldCWEIwM1pXUVhrQV9DYnduV3A0ZjBNbGM4NHZJTWRJM0E?oc=5",
+      "pubDate": "2026-11-07T21:07:13+09:00"
+    },
+    {
+      "title": "트럼프, 정부 인적개편 질문에 \"거의 없을 것…우리 내각 훌륭\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuRmpWTHNOYnRER2UzLTU5V0hBUUlhSUZDZnRDb2ZRRXRDRm5Tb0JEemxCOXNSenpsdFhmZXVsb3FzbWRCc3Y1Tmxsajdwcnl3RC1sdk80YnBVVmPSAWBBVV95cUxQb295djh3emdKUmMwXzZZX292ZFdObFBPSUd6b0JYOUdsSjlRelhtR1NrLUZvVHoxUmFIMEZPSll1OFhoUWxxcEZ0MjJrNjJPalVROHlLM2w5VExBZU9xNkM?oc=5",
+      "pubDate": "2026-11-07T23:55:46+09:00"
+    },
+    {
+      "title": "후티 \"사우디 공습으로 예멘 수도 인근서 22명 사망\" 주장",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84VlBUZHZPaE43RDMxNUtLcHdBcUpnRFpsVWZvcklyT2ZpX2F2OWJVY0RfdnhENmVoUlNYVkFfSUZQQlRidVhRcEtNLWxtUVNLMmFoNlZmMmVxYWR0QS0tRjVrZGlFQnM?oc=5",
+      "pubDate": "2026-11-07T23:42:00+09:00"
+    },
+    {
+      "title": "‘은평구 스토킹 살인’ 60대 남성 구속…법원 “도망할 염려”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YR0xmdy1BbDQ0RjhtQkIxWk5va1VxamtoWGhDak5XLUdrb2xnQWdfOXYydFNJMVFQckRYX1ZFOWlMaTlkNU40N3NiMFpXdFVkbV9tUU56cmtQZ9IBX0FVX3lxTE9Qc2RLU3M5azlIdXdWVE1WS1lWdmx3TWVqZ2pEOEE4MXNkYThZM1Y1ZEFJNl9MNVJjZmNhTmNtYnZsMWdWMGw3SVpoS0VlSDRORXpnbUM1SnVUcVc4RHFZ?oc=5",
+      "pubDate": "2026-11-07T19:23:00+09:00"
+    },
+    {
+      "title": "밤길 날벼락…강서 마곡동 ‘온수 웅덩이’ 빠진 40대 중화상",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0bWw2MVdvSmJmQ1FDdlVramcxVWhRRVRnYzBMaFpDSVNNanV1djlGb2w4cHI1UGt0WmhYa3ZYeDZXSUpCWEsyd3Npd0NOMXZBOEd3UDRvN2ktUWpfUXlQTU9LNXpMUnlPdFZsN0dYcFR5dw?oc=5",
+      "pubDate": "2026-11-07T20:52:00+09:00"
+    },
+    {
+      "title": "단양 만천하스카이워크 짚라인 멈춰…승객 30분간 공중에 매달려",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94VkE3VGNXemRTUjJobk55MnQ4b3pTZ0pqdkxkYXlDMzNCZkFsUldfcnFEb0ZYS3kzY05tN1Ric0E4VmdXRE1zdjdMZDhqV3cwc3pXVFFqRW5pRjDSAWBBVV95cUxQOU5MNUdQT1JHOTFUcldCdzZ1OHd0Z2xBNkNnYVE1a2ozZG16dlVfVTZxaTdFcnpmd0V6QXBDSzQ5M2NUanhTdmMtS0doeWpTMzNRZ3ZhM0NNMlBMdHBNc2M?oc=5",
+      "pubDate": "2026-11-07T17:12:56+09:00"
+    },
+    {
+      "title": "가을 밤바다 수놓은 8만 발 불꽃…‘부산의 꿈’",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JeWtWZGVxUDFaU1Mxd2hrWTNiaDFvZzN5dGRrQ2E3UEdMQkhZcnlZZTMtRHpCaFlWWHprZXNGWWxjNS1RYWZpTVB6aU5hOGEwMDlLYWgtOC1iQm8?oc=5",
+      "pubDate": "2026-11-07T21:13:00+09:00"
+    },
+    {
+      "title": "밴스, ‘중간선거 패배는 이란전 탓’ 트럼프에 미리 알렸다",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWF9IX3k2RnhnbVc1VUl2LXNSUFYxRHlvd2hKY3dXRUE2UGx6NkFiY3RrcEJYU3pMalp0cEVkZVdMeTJRVEZGRFBrc1d2YU50UEtJRlRCb3lzYkkxai16akNXVlF3YW5ma0N5OEQxNFpQSGvSAWZBVV95cUxOSFRsc2phQmVMeU43cTBOMldBUlBQVHlkalJsQmgwcTgtWEpYU3YtdFVfVTVZeGlnREI3TzF1dHlGb2hYOFp1MkFTNUpFaHpsQ3N6WGVRQkdyUVE1VGFZOXRtSWlxOUE?oc=5",
+      "pubDate": "2026-11-07T22:38:42+09:00"
+    },
+    {
+      "title": "젤렌스키 \"북한 KN-23 미사일, 우크라 에너지 시설 공격에 사용돼\"",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lRGZlVk9jSS1xdVRnYnM3b2FZaE13SnIxTkhPdnotM2dQbzhOT0pMeHlXX1pSdkZUbjQ0c1RoTnY3bDh1UmlqbWZFSFc3S2FNOFFwUWpjTE9xU3BpbzVOZDVSVGdyenc?oc=5",
+      "pubDate": "2026-11-08T00:24:00+09:00"
+    },
+    {
+      "title": "프랑스 4주째 고물가 항의 주말 시위…규모 줄어 15만명 집결(종합)",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vN2F6Y0VwalhJMmphNThhdFltZjNGOWZRa1NUanVsSlVaN3NuejhTYjRwODdrY20yeGxyNDBlZndHVzZ2bDd1Qzk1ejVQa0g2SFNLMzZzWTVVaEXSAWBBVV95cUxQZWZ0aUNiaExEVlBWcFJMM3dkN2ZmY1pOOUltRzY3S3JxV1VISFlXZk8yZDJ5MV8tejVPZ28wWmNxd3dqN1FKaExfWi00aHRISG80blBxRFlsWXdtcTlkN0o?oc=5",
+      "pubDate": "2026-11-08T04:52:10+09:00"
+    },
+    {
+      "title": "“트럼프 죽이라는 목소리 들었다”···백악관 앞에 총기 싣고 나타난 남성 체포",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwVzgxT2czblJHQ2RyckQyOXk0VmExbHQ2T3JFRXZPR0NUTTh5cm5zUk1qU0syaWVUUkN5Wl9CdmZSOFRod2ZYRklVS0FsOGtVaFJobW51Q0lkQdIBX0FVX3lxTE1ULXNvSXk0VkxOc0tFNE1GN25aekVDLWJwR3NBRzFhWnBtM0dnMzlMeV9HZ3d0Zloxa2pUNDZzem40Z05QSkU4Z29tUEJJTXZWNTNHeE8teDhuUmNsWVVN?oc=5",
+      "pubDate": "2026-11-07T15:50:00+09:00"
+    },
+    {
+      "title": "포스코 노조, 임금 잠정합의안 부결…51.7% 반대",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PR2R3bkJ4cXUzR1pDa09kenRKTzZlbi1oWXN4dGR4ODlNYTEyZXJ0ODJPUm5JQW43WHZvbTdGemlGRXg2THBlU19ld01HVjFURXU0bXljWDNibUXSAWBBVV95cUxOZk40eDlOYUpVUDJyUXFPdlQ3UER0QU11VGo4OEdPdC1iMURMb2o2blVVRU93UGtkVExkUkpDNEdpNzR0aWpjLVlSWDV0MnlGaWYxTjR2dGQ3VXdCRDlSSVI?oc=5",
+      "pubDate": "2026-11-07T17:47:25+09:00"
+    },
+    {
+      "title": "젠슨 황 장녀 매디슨, 방한 돌연 취소…젠슨 황 ‘中스파이’ 의심 女와 연인설 탓?",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tNUNUUmZMNTBxRkVTQ21HX3FYa29yR2UtYjZvQjYwT1hoTndvTHJJMHdwbUFGajR2Y2h6YTRTX3NBWEhJTnpNam9zN1k0ckNU?oc=5",
+      "pubDate": "2026-11-08T01:01:51+09:00"
+    },
+    {
+      "title": "\"미 정부, 젠슨황 '중국 스파이 의혹' 여성과 연인 관계였다고 판단\"",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EZmlBR2NITFlDcWlOMUNvc0xkeXNHZGUyTTVkNktreGQ2aGw0UjUyYVN2N2dURVJYRlZOY1dONXJBQWpIRkgzdG1WYWN2VDhKM3pNX2Z1SUpCWnRvQzFRdnVZaVJIVFRiSnpJNXJXRUktQ3Bk0gF0QVVfeXFMTzVuei1reXMzOGM4X1F3b1JuX0QzbC1leGs5S0JkbVVaYlNVc3RZNlZjQVlQUGRiM2lQNHFhS1VCNUhscjJpeXRibXE2bzdqeVRIUVUwaTJ3UUpNZGJaTHJwYnMwYTZKN2NjM0ZTcDdQZ0pBWXg?oc=5",
+      "pubDate": "2026-11-07T16:32:38+09:00"
+    },
+    {
+      "title": "블루웨이브 쇼크에…세계증시 시총, 하루 만에 4773조원 증발",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QNFVQWTN0elJ4OEROeTd0ZEdwWFlVbWc4ZHRQNEl4M3BuQXlFQlpvLWR5M2N0VFBsc0lFaHN2cFJlaEQ4ZEZESVdYQm5MLXlLamN2QnV5QWVidHJfZTh4b3BpYV94bEk?oc=5",
+      "pubDate": "2026-11-07T15:16:00+09:00"
+    },
+    {
+      "title": "갤럭시 탭 S10 라이트, 상위 모델보다 하루 늦게 원 UI 9 받았다…용량 2.8GB",
+      "source": "위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZHFIZzQ2b3J2ZXhtNlZTbUNTWWcyRGZ0dlI1dHlwcDhPT09KS2tkdU9sVkJNQUR4UV9FWVY4STZ5QmoyblIwZW9DR3B3SmpFNTNreDVB?oc=5",
+      "pubDate": "2026-11-07T23:13:00+09:00"
+    },
+    {
+      "title": "NVIDIA 및 AMD 그래픽 카드용 새로운 비디오 메모리 모니터링 기능이 제공됩니다. GPU AI 기반",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTERYNWhBa0RPcmtySUsyeUF1MVIxMXZ6TVVtaGEzZFlOdFFaaWdxcUxJTDZNOWhXMk9pVU5oV2Z5STlsX2liZzBFRmE2NnB5NEZiUjdCclNNZjlpU3FfS1l6d0Zxc1c2cUxxeFZIazZPYk5VRjJzcjVya09QbzFfOXU5LXhNTXE2T1MwbFRjY0VnOW9aSUJIaS1ua2VnSm4yVUZrNGx1VDl6M2tfTWpZcWc5S0lZNk80Ul9QUUlHcTBlajQ?oc=5",
+      "pubDate": "2026-11-08T04:34:53+09:00"
+    },
+    {
+      "title": "이요원, '♥6살 연상'과 연기 절대 못한다 \"담배 냄새 나는 남편과 못 해\"('살림남2')",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTzRuNFczV0Rwd1JCT0g0ejNvRk9aZ2xLb3ZfWkV1bS1aRExaZ1JRS2d3RlNtbkVzc0xyZE1OVDdMTy1oNW5ySFZTTVhpSmtXNFN2eGx1NGdMb0ZaV2x1SWtDTEFDLVZNTUEtTjdiLVhvV1lXY3VFbG5Qa3ZFaTBLNXVSQV9WU1lBWFk2Q2wtdw?oc=5",
+      "pubDate": "2026-11-07T23:07:00+09:00"
+    },
+    {
+      "title": "[오늘의 운세] 2026년 11월 8일 오행별 행운의 컬러",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xMnF4ZHY1T0tldkdaTnJxUFlPczg4RWlsN2ZqVXp2bzA5MGhlSEUxMEdIZW4xX2pTb2w1MWN5SWhCb1U4cTRSdGpOdWFoc0Z4WlNlaGxBUmxldw?oc=5",
+      "pubDate": "2026-11-08T00:00:09+09:00"
+    },
+    {
+      "title": "김용건 '故최불암 조문 불참 논란' 속 하정우..♥차정원 결혼 앞두고 망중한",
+      "source": "OSEN",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wLW5mMkwzRktHcUxHSzZZd1laNTczMnEzSlZvcTZ1ZzFXMzZHaDVYR3ZVTlpDdGNwQXJUX1JkSWxPbDdVN2Qyd2g5MmFWa2N0TGRwcg?oc=5",
+      "pubDate": "2026-11-07T15:20:00+09:00"
+    },
+    {
+      "title": "‘55년 우정’ 양희은, 故 전유성에 “좀 괴팍했지만 퍼주고 생색내지 않았다”",
+      "source": "주간경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oRzdRUHNvLWNZX0hCd0lfa2lrM3BubjdWaVhCQTQtMUlQbWliQkpVUF9KN2JTeGJVSkZyTzZJVHFrS2FKUmQ3TWFTVEdhMG8tdGRIR19LMmxRaHA0YUE?oc=5",
+      "pubDate": "2026-11-07T20:30:00+09:00"
+    },
+    {
+      "title": "승장 삼성 박진만 감독 “오늘 MVP는 이재희…방심하지 않고 5차전서 끝내야”",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iVVM2Z1l2VV9Ra3lFczhTTUJfN3AzMnlkdThfaUlSRmZTS3ZkUmNjckpwZFdMdWg0RkVKQkF4V2Z5dHphQlFmSVdQUm9kWWt1?oc=5",
+      "pubDate": "2026-11-07T18:12:41+09:00"
+    },
+    {
+      "title": "\"안세영, 작년에도 충분히 강했는데...\" 1년 전 꺾었던 日 야마구치의 솔직 평가...\"모든 면에서 발전, 필승법 없다\"[현장 인터뷰]",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWhmeVFnTEZYZzRpODRGM3pmVmlsR3ZXbHZVZGc3SzFBTHJ6YzJZMHZqU1dNRXRGR3BsU2VFRUt4QmxMdXdaSGpqOTFfYi1XMFRqN2tjdEdQcHpPbFpJNkZKajBuTF9MdGwtRDNMRG1lVGkzX3lPOFdCMU1WZWdWaEprR2drbms0aUJV0gGfAUFVX3lxTE9ma1o1emJYMlhHUlB0SGY3Rnd3RmNiRU9zQlFlX1dLQVl1MEpJbVZVWTBjaFJfVGw4MTJ2WmE1OEU5Y3VabWRJb3JIVlJNZUo0NDlONDFfN0RiMXg3RTFEQ1RNLW1VSmtYX3hlYk5iRm5sVW0xWmlKSW43eS1jV2NGNXRucHpEYWFTcWwxNDRBVUtQVnhyX3pCWlRLdmVGNA?oc=5",
+      "pubDate": "2026-11-08T03:29:00+09:00"
+    },
+    {
+      "title": "'1R 이글·홀인원 이어 2R버디 7개' 유현조, KLPGA 최종전 공동 선두 도약",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80ZC1RSFBuMFBkRFlBTlpGWWxQYVVPWWNlSFk1Qi0wN1o4QTRfci1QcE9hU0xpSEp6OE9PV3VXR3RMUUxxb3BZMzRFRGx5Y1plNE9UckhDcHk1VGFEYlE?oc=5",
+      "pubDate": "2026-11-07T19:18:00+09:00"
+    },
+    {
+      "title": "'트리플 악셀' 피겨 이해인, 올 시즌 처음 출전한 시니어 그랑프리서 동메달",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tc0ZZR3FYb3dIMHE4MmhON1U4MkhhWmh0Tk1Eall2OWZqemlydUZJWVZtaEdIWTlqd2NUZll5ME93amxIOGFLTnJMX3U3VG12N2sxR1RmU1d0NE16bHRRY0tsN29OTktfQkE?oc=5",
+      "pubDate": "2026-11-07T21:48:00+09:00"
+    },
+    {
+      "title": "[초록] PEDV와 다른 병원체의 혼합감염 역학적 특성 분석: 체계적 문헌고찰 및 메타분석",
+      "source": "돼지와사람",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ORkdkOUpyT3BhamVJNUZaRExVRXJwbHdzWm9TVkQ3VzhnbGF1alY5MjA1SkJiVU14VktZRk1Sc2s2ZWQ2aVZGX0F0MUVvOFlpa2thOGN5RXhPRENOcEF4NEdkQ1k?oc=5",
+      "pubDate": "2026-11-08T01:06:28+09:00"
+    },
+    {
+      "title": "“치매 독성 단백질, 뭉치기 전 막고 이미 생긴 덩어리도 무력화”... KAIST, 알츠하이머 새 치료 원리 규명",
+      "source": "특허뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40SmNHZ05WdXhPSDZSSlIteVh4cFc0eGpYSUlXcjlMWTJHWjA4MVRQeHd5alZHQnRSN1RnUzMwNGVad0pTZVFucg?oc=5",
+      "pubDate": "2026-11-07T17:46:00+09:00"
+    }
+  ],
+  "trends": [
+    {
+      "term": "발렌시아 대 레알 마드리드",
+      "pubDate": "2026-11-08T04:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "라리가 발렌시아 대 레알 마드리드 축구 예측",
+          "snippet": "",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-valencia-vs-real-madrid-tai-la-liga-1795640.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "조세 무리뉴 감독은 아틀레티코 마드리드와 바르셀로나의 경기에 대한 발언으로 논란을 일으켰다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/jose-mourinho-gay-sot-khi-noi-ve-tran-atletico-dau-barca",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "라리가: ‘아기레 체제 첫 승’ 발렌시아 vs ‘리그 4연승’ 마드리드… 승자는 누구",
+          "snippet": "",
+          "url": "https://sbotopkr.tistory.com/2663",
+          "source": "티스토리"
+        }
+      ]
+    },
+    {
+      "term": "배드민턴",
+      "pubDate": "2026-11-08T04:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "\"안세영, 작년에도 충분히 강했는데...\" 1년 전 꺾었던 日 야마구치의 솔직 평가...\"모든 면에서 발전, 필승법 없다\"[현장 인터뷰] - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/202611071511774591O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘배드민턴을 얼굴로 치나?’ 일본이 자랑하는 배드민턴 아이돌, 코리아오픈 결승전 전멸...일본 3개 종목 우승 도전",
+          "snippet": "",
+          "url": "https://www.osen.co.kr/article/G1112906193",
+          "source": "OSEN"
+        },
+        {
+          "title": "‘올 시즌 70번째 승리’ 안세영, 내일은 야마구치 만난다!",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706772",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "term": "맨시티",
+      "pubDate": "2026-11-08T03:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "'115건 유죄' 맨시티, 리그 2연패하며 아스널에 1위 내줬다",
+          "snippet": "",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190430",
+          "source": "금강일보"
+        },
+        {
+          "title": "맨체스터 시티는 추가 혐의를 받을 위험에 처해 있다.",
+          "snippet": "",
+          "url": "https://www.vietnam.vn/ko/man-city-doi-mat-nguy-co-bi-them-cac-cao-buoc",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "무리뉴는 이미 알고 있었다? 前 맨유 선수 “뭔가 이상한 일이 벌어지고 있다고 했는데”",
+          "snippet": "",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697452",
+          "source": "인터풋볼"
+        }
+      ]
+    },
+    {
+      "term": "gta6",
+      "pubDate": "2026-11-08T02:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "Explore the Grand Theft Auto VI Launch Gallery",
+          "snippet": "",
+          "url": "https://www.rockstargames.com/newswire/article/39ak81277255o9/explore-the-grand-theft-auto-vi-launch-gallery",
+          "source": "Rockstar Games"
+        },
+        {
+          "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life",
+          "snippet": "",
+          "url": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars",
+          "source": "Hypebeast"
+        },
+        {
+          "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
+          "snippet": "",
+          "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/",
+          "source": "GameSpot"
+        }
+      ]
+    },
+    {
+      "term": "노팅엄 포레스트 대 맨 시티",
+      "pubDate": "2026-11-08T01:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
+          "snippet": "",
+          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+          "source": "BBC"
+        },
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Nottingham Forest vs Man City, Man Utd vs Aston Villa and more!",
+          "snippet": "",
+          "url": "https://www.skysports.com/football/news/13607998/premier-league-predictions-and-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Delap double condemns Man City to third straight defeat",
+          "snippet": "",
+          "url": "https://www.france24.com/en/live-news/20261107-delap-double-condemns-man-city-to-third-straight-defeat",
+          "source": "France 24"
+        }
+      ]
+    },
+    {
+      "term": "일본 지진",
+      "pubDate": "2026-11-08T01:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "일본 시즈오카현 하마마쓰시 북쪽 21km 지역 규모 5.7 지진",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706831",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "일본 지바현 지바시 동남동쪽 바다서 규모 6.1 지진 발생",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261106183200530",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "일본 지바현 앞바다서 규모 6.1 지진···쓰나미 경보 없어",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202611062024001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "term": "이천수",
+      "pubDate": "2026-11-08T00:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "'손흥민-96라인 불화설'...'前 국가대표' 이천수 작심 발언 \"축구에만 집중하길\"",
+          "snippet": "",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018354",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "김민재-황인범-황희찬 눈물의 은퇴 논란 '96즈'…모레노 감독 '직관'→대한민국 축구 '중심축'임은 변함없다",
+          "snippet": "",
+          "url": "https://www.chosun.com/sports/football/2026/11/05/GY2GENJVHBRDCNDGMQZGCZJYGI/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "term": "복권",
+      "pubDate": "2026-11-08T00:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "\"20억 대박\" 로또 1등 14명 당첨…서울에서만 7곳 최다",
+          "snippet": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645643424&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
+          "snippet": "",
+          "url": "https://www.kyeonggi.com/article/20261107580125",
+          "source": "경기일보"
+        },
+        {
+          "title": "1249회 로또 1등 14명…1인당 20억3천만원",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202611072132001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "term": "하정우",
+      "pubDate": "2026-11-08T00:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "하정우, 12월 결혼 앞두고...확 달라진 비주얼 - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110716222760934",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘차정원♥’ 하정우, 12월 결혼 앞두고 근황…한층 날렵해진 모습",
+          "snippet": "",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261107/134983571/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "'예비 신랑' 하정우, 결혼 앞둔 근황… 삭발 이후 달라진 비주얼",
+          "snippet": "",
+          "url": "https://www.hankookilbo.com/news/article/A2026110715480002442",
+          "source": "한국일보"
+        }
+      ]
+    },
+    {
+      "term": "mainz vs bayern",
+      "pubDate": "2026-11-08T00:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "Tietz nach über vierminütigem VAR-Check: \"Ganz kurios, wie das abgelaufen ist\"",
+          "snippet": "",
+          "url": "https://www.kicker.de/tietz-nach-ueber-vierminuetigem-var-check-ganz-kurios-wie-das-abgelaufen-ist-1269518/artikel",
+          "source": "Kicker"
+        },
+        {
+          "title": "Spitzenduo Bayern und Dortmund weiter im Gleichschritt",
+          "snippet": "",
+          "url": "https://www.stol.it/artikel/sport/spitzenduo-bayern-und-dortmund-weiter-im-gleichschritt",
+          "source": "stol.it"
+        },
+        {
+          "title": "Fußball heute: Ergebnisse & Spiele am 7.11.2026 im Überblick",
+          "snippet": "",
+          "url": "https://www.fussballnationalmannschaft.net/fussball-heute-am-7-11-2026-3-123326874.html",
+          "source": "News zur deutschen Nationalmannschaft"
+        }
+      ]
+    }
+  ],
+  "nate": [
+    {
+      "rank": 1,
+      "title": "서울 마곡동 도로에 파인 '100℃ 열탕'…빠진 40대 행인 중태",
+      "link": "https://news.nate.com/view/20261107n13314"
+    },
+    {
+      "rank": 2,
+      "title": "스윗소로우 김영우, 연세대 교수 됐다…전현무 \"나랑 수업 같이 들어\"[...",
+      "link": "https://news.nate.com/view/20261108n00086"
+    },
+    {
+      "rank": 3,
+      "title": "'근육맨' 드웨인 존슨, '뼈말라' 충격 근황?…\"해골 노인이 됐다\"",
+      "link": "https://news.nate.com/view/20261107n13450"
+    },
+    {
+      "rank": 4,
+      "title": "'그것이 알고 싶다' 김성우, 장모 살해·아내 납치의 전말···범행 ...",
+      "link": "https://news.nate.com/view/20261107n13776"
+    },
+    {
+      "rank": 5,
+      "title": "\"친구 만날 땐 한껏 치장, 나 만날 땐 선크림만\"…3년 차 커플의 갈등",
+      "link": "https://news.nate.com/view/20261107n13456"
+    },
+    {
+      "rank": 6,
+      "title": "\"20억 대박\" 로또 1등 14명 당첨…서울에서만 7곳 최다",
+      "link": "https://news.nate.com/view/20261107n12921"
+    },
+    {
+      "rank": 7,
+      "title": "젠슨 황 장녀 매디슨, 방한 돌연 취소…\"가족 사유\"",
+      "link": "https://news.nate.com/view/20261107n13646"
+    },
+    {
+      "rank": 8,
+      "title": "3개월전 \"코스피5000 붕괴, 최악 가능성\" 예언 적중한 전문가…\"내년까지 ...",
+      "link": "https://news.nate.com/view/20261107n13490"
+    },
+    {
+      "rank": 9,
+      "title": "\"버킨백 사두면 무조건 돈 번다더니\"…에르메스의 굴욕 [안혜원의 명품의세...",
+      "link": "https://news.nate.com/view/20261107n08910"
+    },
+    {
+      "rank": 10,
+      "title": "\"존박이 랩으로 주문했더니\"…맥도날드가 진짜 만든 '이것' [김소연의 얼굴...",
+      "link": "https://news.nate.com/view/20261107n05514"
+    },
+    {
+      "rank": 11,
+      "title": "\"진짜 상상도 못 했다\"…다이소 매대 싹 다 털어간 대란의 정체[지금사는방...",
+      "link": "https://news.nate.com/view/20261107n02233"
+    },
+    {
+      "rank": 12,
+      "title": "젠슨 황, 중국 스파이와 연인?…의혹 일파만파",
+      "link": "https://news.nate.com/view/20261107n12212"
+    },
+    {
+      "rank": 13,
+      "title": "'삐끼삐끼' 이주은, 대만서 연예인급 인기라더니…깜짝 근황",
+      "link": "https://news.nate.com/view/20261107n11878"
+    },
+    {
+      "rank": 14,
+      "title": "\"로건한테 사기당했다\" KT 팬들 분노 폭발! 42만 5000달러 정식 계약했...",
+      "link": "https://news.nate.com/view/20261107n13416"
+    },
+    {
+      "rank": 15,
+      "title": "\"미친X이, 씨X 니가 뭘 잘했다고\"…초등생 머리 피범벅 만든 태권도 관장",
+      "link": "https://news.nate.com/view/20261107n08308"
+    },
+    {
+      "rank": 16,
+      "title": "\"입동인데, 공중서 벌벌 떨었다\"…단양 만천하스카이워크 '짚라인 30분 멈...",
+      "link": "https://news.nate.com/view/20261107n11178"
+    },
+    {
+      "rank": 17,
+      "title": "\"건강검진 때 놓치지 마세요\"…전문의가 추천한 혈액검사 5가지",
+      "link": "https://news.nate.com/view/20261107n06191"
+    },
+    {
+      "rank": 18,
+      "title": "어쩐지 2030 많이 보이더라…'신세계百 강남점' 갔다가 깜짝 [류은혁의 유...",
+      "link": "https://news.nate.com/view/20261107n11958"
+    },
+    {
+      "rank": 19,
+      "title": "관악산 '삼세판 챌린지' 난리났다…등산객 폭증에 112 신고까지 나왔다 [세...",
+      "link": "https://news.nate.com/view/20261107n09262"
+    },
+    {
+      "rank": 20,
+      "title": "1984→1986→1987→2001→2015년, 삼성이 매번 역전극 희생양이었는데…창...",
+      "link": "https://news.nate.com/view/20261107n13795"
+    }
+  ]
+}
