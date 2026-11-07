@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-07",
+  "slot": "pm",
+  "hookLine": "현장을 지나던 40대가 전신 화상을 입었습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "열수송관 파손",
+      "title": "마곡 열수송관 파손…9000세대 난방 중단·2명 부상",
+      "summary": "서울 마곡동에서 열수송관이 파손돼 40대 남성이 전신 화상을 입고 위중한 상태입니다. 인근 8965세대의 온수·난방 공급이 중단됐으며 7일 오전 복구가 완료됐습니다.",
+      "narration": "서울 마곡동에서 열수송관이 파손돼 2명이 부상했습니다.",
+      "sourceTitle": "서울 마곡동 열수송관 파손에 2명 부상…9000세대 온수·난방 중단",
+      "sourceDesc": "6일 오후 8시 18분 서울 강서구 마곡동 아파트 인근 열수송관이 파손돼 현장을 지나던 40대 남성이 전신 화상을 입고 위중한 상태이며, 서울에너지공사 직원 1명도 부상을 입었다. 인근 8965세대의 온수·난방 공급이 중단됐으며 7일 오전 복구가 완료됐다.",
+      "sourceLink": "https://m.news.nate.com/view/20261107n07543",
+      "sourceDate": "2026-11-07",
+      "imagePrompt": "Burst pipe fitting surrounded by steam and mist on a dark residential street at night, hot vapor rising above wet pavement reflecting orange street lights, shallow depth of field, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "대북 외교 변수",
+      "title": "트럼프 참패에 대북 협상 선회 가능성",
+      "summary": "미국 중간선거 후속으로, 국내 입지가 좁아진 트럼프 대통령이 김정은 국무위원장과의 회담에 더욱 매달릴 수 있다는 전망이 나왔습니다. 한편 북한의 협상력이 커질 것이라는 우려도 제기됐습니다.",
+      "sourceTitle": "'참패' 트럼프, 북한에 눈 돌릴까...김정은도 셈법 복잡",
+      "sourceDesc": "미국 중간선거에서 민주당이 상·하원을 장악하면서 국내 입지가 좁아진 트럼프 대통령이 김정은 국무위원장과의 회담에 더욱 매달릴 수 있다는 전망이 나왔다. 한편 북한의 협상력이 커질 것이라는 우려도 제기됐다.",
+      "sourceLink": "https://www.ytn.co.kr/_ln/0101_202611070459558914",
+      "sourceDate": "2026-11-07",
+      "imagePrompt": "Empty diplomatic conference table with two facing chairs in a formal state room, nameplate holders facing each other on a polished wood surface, cool indirect lighting, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    },
+    {
+      "rank": 3,
+      "category": "경제",
+      "kicker": "증시 대응 조치",
+      "title": "신용융자 담보 140%, 9일부터 3개월 면제",
+      "summary": "증시 급락 후속 조치로, 재정경제부가 증권사의 신용융자 담보비율 140% 유지 의무를 완화합니다. 오는 9일부터 3개월간 한시적으로 면제되며 반대매매 연쇄 하락을 막기 위한 조치입니다.",
+      "sourceTitle": "증권사 신용융자 담보 140% 의무, 9일부터 석 달 한시 면제",
+      "sourceDesc": "재정경제부는 증시 급락에 따른 반대매매 연쇄 하락을 막기 위해 증권사의 신용융자 담보비율 140% 유지 의무를 오는 9일부터 3개월간 한시적으로 면제하기로 했다.",
+      "sourceLink": "https://www.dailyt.co.kr/newsView/dlt202611070007",
+      "sourceDate": "2026-11-07",
+      "imagePrompt": "Stock market data terminal with declining chart lines on a dark screen, deep red and blue ambient glow reflecting on a polished trading desk surface, shallow depth of field, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "젠슨 황 연루 의혹",
+      "title": "FT \"젠슨 황, 中 스파이 의혹 여성과 연인\"",
+      "summary": "FT는 미국 정보당국이 싱가포르 기업 임원을 MSS 스파이로 판단했다고 보도했습니다. 해당 여성이 젠슨 황 CEO와 연인이었다는 메모도 있으며 엔비디아는 위법 증거를 찾지 못했다고 밝혔습니다.",
+      "sourceTitle": "FT \"미, 젠슨 황 '스파이 의혹' 여성과 연인 관계 판단\"",
+      "sourceDesc": "파이낸셜타임스(FT)는 미국 정보당국이 싱가포르 데이터센터 기업 메가스피드 임원 앨리스 황을 중국 국가안전부(MSS) 스파이로 판단하고, 젠슨 황 엔비디아 CEO와 연인 관계였다는 내용의 메모를 작성했다고 보도했다. 엔비디아는 자체 조사에서 위법 행위 증거를 찾지 못했다고 밝혔다.",
+      "sourceLink": "https://www.ytn.co.kr/_cs/_ln_0104_202611071353050609_005.html",
+      "sourceDate": "2026-11-07",
+      "imagePrompt": "Server racks in a dimly lit data center corridor with blinking status lights and dense cabling, cool blue and green LED highlights casting subtle patterns on a polished floor, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    },
+    {
+      "rank": 5,
+      "category": "사회",
+      "kicker": "역대급 엘니뇨",
+      "title": "기상청, 역대 가장 강한 엘니뇨 공식 확인",
+      "summary": "기상청이 올해 엘니뇨가 역대 가장 강한 수준임을 공식 확인했습니다. 올겨울 기온이 평년보다 높겠으며 12월에 절정에 달하고, 1월에는 일시적 한파로 변동폭이 클 수 있습니다.",
+      "sourceTitle": "[속보] 기상청 \"이번 겨울 역대 가장 강한 엘니뇨 공식 확인\"",
+      "sourceDesc": "기상청이 올해 발달하고 있는 엘니뇨가 역대 가장 강한 수준임을 공식 확인했다. 올겨울 전반적으로 기온이 평년보다 높겠으며 12월에 절정에 달할 것으로 예상됐다. 다만 1월에는 일시적 한파로 기온 변동폭이 클 수 있어 대비가 필요하다고 밝혔다.",
+      "sourceLink": "https://www.ytn.co.kr/_cs/_ln_0108_202611070628595337_005.html",
+      "sourceDate": "2026-11-07",
+      "imagePrompt": "Bare tree branches with unusual green leaves against an overcast winter sky, unseasonably mild morning light casting soft shadows on frost-dusted ground, vertical 9:16 composition, no people, no text, photojournalistic documentary style."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-07 저녁 브리핑\n\n1. 마곡 열수송관 파손…9000세대 난방 중단·2명 부상\n2. 트럼프 참패에 대북 협상 선회 가능성\n3. 신용융자 담보 140%, 9일부터 3개월 면제\n4. FT \"젠슨 황, 中 스파이 의혹 여성과 연인\"\n5. 기상청, 역대 가장 강한 엘니뇨 공식 확인\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #열수송관 #증시 #AI #엘니뇨\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
