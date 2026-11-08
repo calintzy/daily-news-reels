@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-08",
+  "slot": "pm",
+  "hookLine": "12월이 아닌데 서울에 눈이 내렸습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회",
+      "kicker": "올가을 첫눈",
+      "title": "서울 올가을 첫눈, 작년보다 26일 빨라",
+      "summary": "오늘 오전 서울기상관측소에서 올가을 첫눈이 관측됐습니다. 지난해 서울 첫눈은 12월 4일이었으며, 올해는 작년보다 26일 빨리 왔습니다.",
+      "narration": "서울에 올가을 첫눈이 왔습니다.",
+      "sourceTitle": "서울에 '첫눈' 내렸다…작년보다 26일 빨라",
+      "sourceDesc": "기상청은 이날 오전 서울기상관측소에서 눈이 관측됐다고 밝혔다. 지난해 서울 첫눈은 12월 4일이었으며, 올해 첫눈은 지난해보다 26일 앞당겨졌다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110811364509973",
+      "sourceDate": "2026-11-08",
+      "imagePrompt": "Documentary photograph of snowflakes falling on an empty urban street at dawn, wet pavement with thin white snow dusting, bare tree branches catching snow, grey winter sky overhead, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "경제",
+      "kicker": "파업 재개 갈림길",
+      "title": "포스코 잠정합의안 부결, 파업 재개 변수",
+      "summary": "포스코 임금협상 잠정합의안이 반대 51.69%로 부결됐습니다. 찬성 4433표 대 반대 4744표로, 노사 재협상이 불가피해졌습니다.",
+      "sourceTitle": "포스코 임금협상 잠정합의안 부결…노사 재협상·파업 재개 변수",
+      "sourceDesc": "한국노총 금속노련 포스코노동조합이 전날 실시한 임금협상 잠정합의안 찬반투표에서 찬성 4433표(48.31%), 반대 4744표(51.69%)로 부결됐다.",
+      "sourceLink": "https://www.fnnews.com/news/202611081547001680",
+      "sourceDate": "2026-11-08",
+      "imagePrompt": "Documentary photograph of a large industrial steel factory exterior at dusk, tall smokestacks with no smoke, iron fences and locked gates in foreground, overcast sky, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "이스라엘 정권 교체",
+      "title": "이스라엘 아이젠코트, 정부 구성권 획득",
+      "summary": "이스라엘 대통령이 야권 아이젠코트에게 정부 구성 권한을 부여했습니다. 아이젠코트가 연정 구성 우선권을 갖게 되면서 네타냐후 총리의 실각 위기가 현실화됐습니다.",
+      "sourceTitle": "네타냐후 19년 집권 끝나나…이스라엘 대통령, 아이젠코트에 정부 구성권 부여",
+      "sourceDesc": "이스라엘 대통령이 야권 아이젠코트 전 참모총장에게 새 정부 구성 권한을 부여했다. 아이젠코트가 연정 구성 우선권을 쥐면서 네타냐후 총리의 실각 위기가 현실화됐다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026110804450000461",
+      "sourceDate": "2026-11-08",
+      "imagePrompt": "Documentary photograph of an empty governmental chamber interior, rows of dark leather seats facing a raised speaker's podium, national flags flanking the dais, subdued lighting, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "AI·과학",
+      "kicker": "엔비디아 장녀 방한 취소",
+      "title": "엔비디아 CEO 장녀 매디슨 황 방한 취소",
+      "summary": "엔비디아 CEO 젠슨 황의 장녀 매디슨 황이 방한을 돌연 취소했습니다. 배경훈 과기정통부 장관과의 면담 등 예정된 일정이 모두 무산됐습니다.",
+      "sourceTitle": "'젠슨 황 장녀' 매디슨 황, 방한 돌연 취소…'가족 사유' 때문?",
+      "sourceDesc": "젠슨 황 엔비디아 최고경영자(CEO)의 장녀인 매디슨 황 엔비디아 수석이사의 방한이 취소됐다. 과학기술정보통신부에 따르면 황 수석이사의 방한 일정이 취소되면서 이날 예정됐던 배경훈 부총리 겸 과기정통부 장관과의 면담이 무산됐다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110809563709567",
+      "sourceDate": "2026-11-08",
+      "imagePrompt": "Documentary photograph of an empty airport arrival hall, fluorescent lighting reflecting off polished marble floors, vacant customs desks and exit gates along the walls, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "서민 이자 절반 환급",
+      "title": "금융위, 햇살론 이자 절반 환급 추진",
+      "summary": "금융위원회가 국회에 서민금융 예산 3770억 원 증액을 요청했습니다. 성실 상환 차주에게 납부 이자의 50%를 환급해 실질 금리를 연 6.3% 수준으로 낮추는 방안입니다.",
+      "sourceTitle": "금융위, 국회에 서민금융 3770억 증액·신설 요청…햇살론 이자 절반 환급",
+      "sourceDesc": "금융위원회가 국회에 서민금융 예산 3770억 원 증액·신설을 요청했다. 1년 이상 성실하게 대출금을 갚은 차주에게 매년 말 납부 이자의 50%를 환급해 실질 금리 부담을 연 6.3% 수준으로 낮춘다는 구상이다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110814420239771",
+      "sourceDate": "2026-11-08",
+      "imagePrompt": "Documentary photograph of a Korean bank branch exterior in an urban neighborhood, closed glass doors reflecting the street, ATM alcove with a glowing screen, modest commercial surroundings, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-08 저녁 브리핑\n\n1. 서울 올가을 첫눈, 작년보다 26일 빨라\n2. 포스코 잠정합의안 부결, 파업 재개 변수\n3. 이스라엘 아이젠코트, 정부 구성권 획득\n4. 엔비디아 CEO 장녀 매디슨 황 방한 취소\n5. 금융위, 햇살론 이자 절반 환급 추진\n\n오늘 저녁도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail", "googleNews": "fail"},
+    "signalHits": []
+  }
+}
