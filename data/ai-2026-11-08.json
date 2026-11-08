@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-08",
+  "account": "aibrief",
+  "hookLine": "Anthropic IPO 로드쇼가 시작됩니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "빅테크 사업",
+      "kicker": "IPO 로드쇼",
+      "title": "Anthropic, 이번 주 IPO 로드쇼 시작",
+      "summary": "Anthropic이 이번 주 IPO 로드쇼를 시작합니다. 추수감사절 전 대형 상장을 목표로 하고 있습니다.",
+      "sourceTitle": "Anthropic plans mega IPO before Thanksgiving roadshow on November 9",
+      "sourceDesc": "Anthropic is seeking to go public as early as mid-November, before Thanksgiving, and to kick off its initial public offering roadshow on November 9, Bloomberg reported, citing sources familiar with the matter.",
+      "sourceLink": "https://www.thestandard.com.hk/innovation/article/344409/Anthropic-plans-mega-IPO-before-Thanksgiving-roadshow-on-November-9"
+    },
+    {
+      "rank": 2,
+      "category": "AI 서비스",
+      "kicker": "영상통화 출시",
+      "title": "Meta Muse, 미국 전역 영상통화 출시",
+      "summary": "Meta가 AI 아바타 Muse의 영상통화 기능을 미국 이용자 전체에게 출시했습니다. 이제 전화와 영상통화로 AI 에이전트 Muse를 만날 수 있습니다.",
+      "narration": "Meta AI 아바타와 영상통화가 가능해졌습니다.",
+      "sourceTitle": "Meta says US users can now video chat with their Muse AI avatar",
+      "sourceDesc": "Meta chief AI officer Alexandr Wang said users can now make phone calls and video chat with their Muse AI avatar, with the feature rolling out to all US users.",
+      "sourceLink": "https://www.winzheng.com/en/article/meta-muse-ai-avatar-video-chat"
+    },
+    {
+      "rank": 3,
+      "category": "AI 모델",
+      "kicker": "편향 누적",
+      "title": "AI 추천 오류, 반복 학습으로 더 심해진다",
+      "summary": "AI 추천 시스템이 자신의 오류를 반복 학습해 특정 상품 쏠림이 심해진다는 연구가 나왔습니다. UNIST 연구팀이 이를 진단하는 도구 '에코트레이스'를 개발했습니다.",
+      "narration": "AI 추천의 오류가 쌓여 쏠림이 심해진다 합니다.",
+      "sourceTitle": "LLM 추천 AI, 과거 오류까지 학습…특정 상품 쏠림 심해진다",
+      "sourceDesc": "UNIST 인공지능대학원 이연창 교수팀은 대규모언어모델(LLM) 기반 AI 추천 시스템의 편향과 오류 누적 과정을 추적하는 진단 도구 '에코트레이스'를 개발했다고 8일 발표했다.",
+      "sourceLink": "https://www.hankyung.com/article/202611082747i"
+    },
+    {
+      "rank": 4,
+      "category": "AI 서비스",
+      "kicker": "2027 출시 확약",
+      "title": "에어비앤비 CEO, AI 에이전트 2027년 출시 확약",
+      "summary": "에어비앤비 CEO Brian Chesky가 2027년 AI 에이전트 출시를 약속했습니다. 단순 챗봇을 넘는 AI 여행 서비스를 출시하겠다는 계획입니다.",
+      "narration": "에어비앤비가 AI 여행 에이전트를 내놓습니다.",
+      "sourceTitle": "Airbnb CEO Plans AI-First App to Disrupt Travel Agencies",
+      "sourceDesc": "Airbnb CEO Brian Chesky committed to launching an AI agent in 2027, saying the interface will be much richer than a chatbot and will serve as a travel concierge.",
+      "sourceLink": "https://www.webpronews.com/airbnb-ceo-plans-ai-first-app-to-disrupt-travel-agencies"
+    },
+    {
+      "rank": 5,
+      "category": "빅테크 사업",
+      "kicker": "지출 성장 둔화",
+      "title": "AI 지출 성장세 둔화…가격 경쟁 여파",
+      "summary": "AI 지출 증가세가 올 여름 이후 멈춘 것으로 나타났습니다. 토큰 사용량은 늘었지만 가격 경쟁으로 OpenAI와 Anthropic의 매출 성장이 제한되고 있다는 분석입니다.",
+      "narration": "AI 사용은 늘었지만 지출 증가세는 멈췄습니다.",
+      "sourceTitle": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "sourceDesc": "A new report from Ramp shows AI spending flatlined over late summer even as token volumes rose, a sign that price competition and savvier customers may be capping revenue for OpenAI and Anthropic.",
+      "sourceLink": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    }
+  ],
+  "caption": "[오리 기자] 2026-11-08 AI 뉴스 브리핑\n\n1. Anthropic, 이번 주 IPO 로드쇼 시작\n2. Meta Muse, 미국 전역 영상통화 출시\n3. AI 추천 오류, 반복 학습으로 더 심해진다\n4. 에어비앤비 CEO, AI 에이전트 2027년 출시 확약\n5. AI 지출 성장세 둔화…가격 경쟁 여파\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #Anthropic #IPO #메타 #에어비앤비 #AI에이전트\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {"spec": "ai-v1", "signalSources": {}, "signalHits": []}
+}
