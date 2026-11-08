@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-09",
+  "slot": "am",
+  "hookLine": "최대 증권사까지 뚫렸는데, 대책은 그날 나왔습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "최대 증권사 뚫렸다",
+      "title": "최대 증권사 해킹, 고객·임직원 정보 유출",
+      "summary": "금융당국이 보안 대책을 발표한 날, 국내 최대 증권사 미래에셋증권도 해킹을 당했습니다. 고객과 임직원 개인정보가 유출되며 금융권 연쇄 해킹 피해가 계속 늘고 있습니다.",
+      "narration": "대책이 나온 날 최대 증권사도 뚫렸습니다.",
+      "sourceTitle": "대책 내놓은 날 또 해킹… 국내 최대 증권사마저 뚫렸다",
+      "sourceDesc": "금융당국이 금융사 보안 강화 대책을 발표한 당일 국내 최대 증권사 미래에셋증권이 해킹 공격을 받아 고객과 임직원 등 개인정보가 유출됐다. 금융권 해킹 피해 금융사는 38곳으로 늘었고 유출 건수는 51만 건을 넘어섰다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026110813130002503",
+      "sourceDate": "2026-11-08",
+      "imagePrompt": "Close-up of illuminated server rack hardware with red warning alert indicators, cables and circuit boards in sharp focus in a dark data center, no people, no text, vertical 9:16 composition, photojournalism style, dramatic blue and red lighting"
+    },
+    {
+      "rank": 2,
+      "category": "국제",
+      "kicker": "아람코 피격",
+      "title": "예멘 후티, 사우디 아람코 건물 공격",
+      "summary": "예멘 후티 반군이 사우디아라비아 수도 리야드의 아람코 건물을 공격해 파손됐습니다. 이틀 새 예멘에서 어린이를 포함해 최소 63명이 숨지는 등 예멘 내전이 격화되고 있습니다.",
+      "sourceTitle": "예멘 내전 점입가경···사우디 수도 아람코 건물 피격에 시리아 파병설까지, 이틀 새 63명 사망",
+      "sourceDesc": "예멘 내전이 격화되는 가운데 사우디아라비아 수도 리야드의 아람코 건물이 후티 반군의 공격을 받아 파손됐다. 최근 이틀 새 예멘에서 어린이를 포함해 최소 63명이 숨졌고, 사우디에 대한 시리아군 파병설도 제기됐다.",
+      "sourceLink": "https://www.khan.co.kr/article/202611081700001/",
+      "sourceDate": "2026-11-08",
+      "imagePrompt": "Modern glass office tower facade with shattered windows and visible fire damage, smoke in the urban sky above a Middle Eastern cityscape, no people, no text, vertical 9:16 composition, photojournalism documentary style, harsh sunlight"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "16년 만에 첫눈",
+      "title": "서울 올가을 첫눈, 2010년 이후 가장 빨라",
+      "summary": "서울에서 올가을 첫눈이 관측됐습니다. 1973년 이후 역대 6번째로 이른 첫눈으로, 2010년 이후 16년 만에 가장 빠른 기록입니다.",
+      "sourceTitle": "[날씨] 서울 올가을 첫눈 관측...2010년 이후 가장 빨라",
+      "sourceDesc": "기상청은 서울에서 올가을 첫눈이 관측됐다고 밝혔다. 전국적으로 기상 관측망이 구축된 1973년 이후 역대 6번째로 이른 첫눈으로, 2010년 이후 16년 만에 가장 빠른 기록이다.",
+      "sourceLink": "https://www.ytn.co.kr/_ln/0108_202611081151571259",
+      "sourceDate": "2026-11-08",
+      "imagePrompt": "Light snow dusting on golden and red autumn leaves on a Seoul city tree branch, blurred rooftops in background under gray overcast sky, no people, no text, vertical 9:16 composition, photojournalism documentary style, soft morning light"
+    },
+    {
+      "rank": 4,
+      "category": "국방·외교",
+      "kicker": "핵잠 속도전",
+      "title": "핵잠수함 사업 가속, 한미 원자력협정 난항",
+      "summary": "정부가 한국형 핵추진잠수함 사업에 속도를 내고 있습니다. 그러나 핵연료 확보에 필요한 한·미 원자력협정 협상은 여전히 제자리걸음이라 과제가 남아 있습니다.",
+      "sourceTitle": "속도 내는 핵잠 사업…연료 확보 '한·미 원자력협정'은 제자리",
+      "sourceDesc": "정부가 한국형 핵추진잠수함 사업에 타당성 조사를 면제하며 속도를 내고 있지만, 핵연료 확보에 필요한 한·미 원자력협정 협상은 진전이 없는 상태다. 한국과 미국은 협정 개정 협상을 진행 중이나 아직 타결되지 않았다.",
+      "sourceLink": "https://www.khan.co.kr/article/202611082115005/",
+      "sourceDate": "2026-11-08",
+      "imagePrompt": "Submarine periscope emerging from dark ocean waters at dawn, blue-gray sea surface with calm waves, overcast sky reflected in water, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "철도 대참사",
+      "title": "이집트 여객열차 충돌, 7명 사망·112명 부상",
+      "summary": "이집트 카이로 인근에서 여객열차 두 대가 추돌해 탈선하는 사고가 발생했습니다. 이 사고로 7명이 숨지고 112명이 다쳐 현지에 큰 충격을 주고 있습니다.",
+      "sourceTitle": "이집트 여객열차 추돌·탈선 … 7명 사망·112명 부상",
+      "sourceDesc": "이집트 수도 카이로 인근에서 여객열차 두 대가 추돌해 탈선하는 사고가 발생했다. 이 사고로 7명이 숨지고 112명이 다쳤다.",
+      "sourceLink": "https://www.newdaily.co.kr/site/data/html/2026/11/09/2026110900011.html",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Overturned passenger train car beside a railway track in an arid landscape, emergency response equipment visible on the ground, dusty sky, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-11-09 아침 브리핑\n\n1. 최대 증권사 해킹, 고객·임직원 정보 유출\n2. 예멘 후티, 사우디 아람코 건물 공격\n3. 서울 올가을 첫눈, 2010년 이후 가장 빨라\n4. 핵잠수함 사업 가속, 한미 원자력협정 난항\n5. 이집트 여객열차 충돌, 7명 사망·112명 부상\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #해킹 #보안 #예멘 #중동 #서울첫눈 #핵잠수함\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
