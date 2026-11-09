@@ -1,0 +1,535 @@
+{
+  "stem": "2026-11-09-pm",
+  "collectedAt": "2026-11-09T16:08:01+09:00",
+  "sources": {
+    "news": "ok",
+    "trends": "ok",
+    "nate": "ok"
+  },
+  "news": [
+    {
+      "title": "김종철 경찰청장 내정자 “국정 방향 공유 위해 국무회의 참석 필요…수사 독립성 훼손 없을 것”",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qWlhKTFlzbXVDYzFMNDBQLVdONHpqUW56VWdBSDZtcVBpemZXN3VNT2MxQmJiQlNaQmVOc2NhWmdYdXU3X1V3MGNqVXBRSlJpa1Exa25NeVJmd9IBX0FVX3lxTFBCUFp4WXlzdjlFazRYZzdqU3ZfYzlUWmNJckp4bzFjdlE5X2hCNVdiQTdXWnlnazBKUEZ2cDlQcjc4d0V0SU1idDUxeDdIMFFfcFpnVTVNVU5BVjI3bnFr?oc=5",
+      "pubDate": "2026-11-09T12:00:00+09:00"
+    },
+    {
+      "title": "[단독] \"도박 안했다\"는 이용철... 유동규 \"나랑 최소 3번 포커\"",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYi0wc0J3cDJ2QktnaTF5VFdtbHZnczVkYmxzMUFuN0p2aHdTQzBXUGVLTXB4R1RBcFN5a1lqYzRRMWxwVUpaaUpkZkZGN1hPek91bVE5ekNpaV9sdmdnTW9hNnlOMGd5UnFuYjZsazBjNU9pOUdVZEtkc21mUzg4YUhfbXowSU0?oc=5",
+      "pubDate": "2026-11-09T10:46:00+09:00"
+    },
+    {
+      "title": "'대통령 Y' 회당 제작비 1천7백여만 원‥총 4편 기획",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11WkZ2NzlZVEZKV19IdlEyRklxY18wWVBORUxPcE9tZU1lYVN6ZHRsUVhPcElNLWM0cG03Yjg2NGxYd2FBdWhrWk9sZ3h5MzBSc3A4S3UyUDVXZXdIblBoSVV6Y2R2clpTTUczVGp3QnRUaC0wbkM5QdIBeEFVX3lxTE9MeGJlYTV2Qi1weWl6WVNrckJCcXN0MWVrNFNzQVJTWXRfVEt4azlGSUZZeDlSandTZURBbDlvODlEUlJIdlFXUmI5TkVzX01lVnNLMWpTaHQyNnpuM29rMDlZX2s2Qk1jd2xwS3N6LXNZdHdKRl9yMA?oc=5",
+      "pubDate": "2026-11-09T09:25:01+09:00"
+    },
+    {
+      "title": "이 대통령 “정부가 소방의 119가 돼 지켜드릴 것”…재원 확대 약속",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yZC1QV1RFalJSRTNfZnVLbkZDcFMtSzVZQ0dZYWMyOXBGTEZxQmJ6TUZRMWk2UmR4QWJqZ0RfZzM2bkV4M3QxcE03a3JieDNBb0RhX05TTGZteThpSDB5anJNLXc5bDJPNGR0Z0VDb1RoamZj?oc=5",
+      "pubDate": "2026-11-09T11:47:00+09:00"
+    },
+    {
+      "title": "①진술 번복 유인 ②수사범위 무한확장 ③파견 검사 법왜곡죄 위반 … \"권력의 사유화\"",
+      "source": "뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GVDhOek50YU94UkRUc0hRRUhFWGNMSXUycDI5Tm94a3AyajNHdDdLeUFTaXM0QVJiQkZLVFhVeExsOWlMcFl1ZWVqM2hJSWMxU2dyOUkyS25wOHpHano0X0JqcTNnY3EzU2w0X0F4QVU4aXJiNmtUMGY2QdIBgAFBVV95cUxNWmIyT3lwZThVbFFFaFlqZjZBZzMta1RtQ1VJeHVBblJ6WUVMcGUySU5hd2hOcmdIRk03a0YzOVZzX2NJLUpULTFOWE84NFk1MXZjU2Y4em95NzZFX2o2akR1QUptcmg3SktZaTVPdl9QSGNqamFGVm1oVWFuaDBmVw?oc=5",
+      "pubDate": "2026-11-09T09:44:00+09:00"
+    },
+    {
+      "title": "선관위 특검, '담합 혐의' 투표지 계수기 업체 압수수색",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85MGdyTVRHRnF0NWprbFFDSWZsU2xoOG9ZY1UwREN0VDNEaTRTQkhZU05wazdoLXdoV1hOZkhIZ2lCUW9xX3ZkdjZkS2RCSGFGdG1WRGhQOXhGdVR4dGc?oc=5",
+      "pubDate": "2026-11-09T13:43:00+09:00"
+    },
+    {
+      "title": "\"돈 쓰지 마\" 남대문 '스카프 아저씨'…고교 동창이 밝힌 과거",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSaWFVaXJXdUVlbS1sb1dMWnoyaThOeGFJNmM0R0JKMjBLUjFpVk9FczZtaHEtQ01fVjlRQlFZcjdwQWhyZGxFdnNNQ3lnWm0xYjlCbDZHSnNDUQ?oc=5",
+      "pubDate": "2026-11-09T10:06:37+09:00"
+    },
+    {
+      "title": "대전 전 연인 살해 피의자 신상 공개…43세 권종필",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4MEs2RkxTMVBsTGRyUGVWRm9WRFc2c3d5cE54MTAzZUUxY2pzeXFfaEszOVBtbnZZYVg1RWhZVktQc0FYN2NDTXBKOGZya0dCd1AxQUVmSjVCT3VWc2RLU3FPMUZDdjA?oc=5",
+      "pubDate": "2026-11-09T10:07:00+09:00"
+    },
+    {
+      "title": "중고교 내신 시험도 ’스마트안경 커닝’…올해 4건 적발",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ubGVIVnFZdHUyTFFGZlJFR0ZRQ1ZzM1pxbzNnWmJza3poWUtSNk92OGJyTDVhRWFXc2xLUVY0UE4teGV2bTA4cDVtQ1NkV2V1YUpCX2pzaEJWS3Ric0c4Nm56dUc0SWs?oc=5",
+      "pubDate": "2026-11-09T14:04:00+09:00"
+    },
+    {
+      "title": "민주 “비거주 1주택도 종부세 공제 14억, 정부에 강력 요구”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlczAyZUdhLW0yMVhCZWx2Y1hWTmRnWVBUQ1Z4S2RURUdXZks2bXJqOWFhSUZVV1dlSWhSQUt2QzBTRVhGQUxxTHlYa0luYTJiYWw1ZmlQV0NHYmZtaURTYXNFbFcxT3lZMlVLTmVWOFpiUHNG?oc=5",
+      "pubDate": "2026-11-09T13:26:00+09:00"
+    },
+    {
+      "title": "트럼프 “이란 재공격 가능성 매우 작다”…이란 “선거 여파로 협상 교착”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxZGwwNlZXLVNvajhDX3doT2JmYkZQMTREczFCdDRmaDVac21wTW1BZ0FMUnNpMml5c3Q2VXV3YmlKdEVmR2dpbi1Bd2VueFN6OFlrVDBrMDVhUHc4akV6MFAzY19GbVpscjFGekNGbw?oc=5",
+      "pubDate": "2026-11-09T10:59:00+09:00"
+    },
+    {
+      "title": "UFC 선수들이 기자 제압하고, 트럼프는 “훌륭해”라며 콜라 한잔···트럼프 SNS 애니메이션 논란",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WcUVpSkZLWDVIN3J5SXl3YW94R1NhZEw2MnJvdFIwd0J4dWl2V3I3VDl4Wl83akRnRFdkOUcwVjZiV2d6bzZnSWxsZ0dMblFFa1NzNlFwVzQ4UdIBX0FVX3lxTE9QUFFWX2VxSk1YczJ0cHhJLWxrY3hvV0lYVVpDa1NqOUhjNXludExlM2Z2ZFpHVWlDelJRZ0ZhRFBYOWZNRlV2M2VaX0FkZjh0RHVDc3czTGZHTU5KVkdV?oc=5",
+      "pubDate": "2026-11-09T08:57:00+09:00"
+    },
+    {
+      "title": "이스라엘 총리 후보된 아이젠코트 \"창의적인 방식으로 비상정부 구성\"",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXTW9uZy1kLWVudEdVX0xVb0VCRGdGcUl0aFp6bmNpUWV3emljVTNjVEQ2SFQ4Z19XbkRNUFBfYWlzY1ZQaWh6Z1VXU1dEOHZjcGRwZVZtRkdxbnZB?oc=5",
+      "pubDate": "2026-11-09T09:22:00+09:00"
+    },
+    {
+      "title": "후티 공습 재개...사우디 수도 중심부 '아람코 타워' 피격",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43OFdFcUd1bzNmSXBEaldZM01WZjIyZzBVSEJpOHJLRlpSQVZFNzZubFRxeUllNUs4eTlzNnhpMDlScnJLR1NGY2RkNXQyb2w5UjZuM014UXRyaEJDSWfSAWNBVV95cUxQVmxWOXdYbVBKYndWYnNZTzJaclllWmdUWGdFcFZSMld1QV9hb282RnZtZXA0aVhrWVI3eEJyeVRIbWlMXzdGWUtCcXpRTDVlVmpVeGNuTy1Qb3QtSWRwX050S0k?oc=5",
+      "pubDate": "2026-11-09T13:46:30+09:00"
+    },
+    {
+      "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jYjk5VGRsTVRXb3phQWZpamtvMW1TbGNHckc1bVI1Tk4wVWdIMG5xTFdKTzMzT2dMM3pKVi1CeGhoZGJyaXh2ZzUxT3BNaWI1ZTFVNWp3?oc=5",
+      "pubDate": "2026-11-09T11:40:44+09:00"
+    },
+    {
+      "title": "대신증권, ‘해킹 정보유출’ 고객에 보상보험 가입 등 지원",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XaEo5ZWI2ZlNaWXR4eFNrYmZ5OUw2R3pXWDNTY1psZ1drNW5PLS1mQlpDVHc1MFVHU1ZMUmw3dXNRLUwxTTZsZjExanZMZnVKelhubTlrSy1VWHM?oc=5",
+      "pubDate": "2026-11-09T14:59:00+09:00"
+    },
+    {
+      "title": "배민·쿠팡 과징금 6천억대 '역대 최대'‥최혜대우 요구 등 갑질",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jcllRUnRyeExPRnd5eUN3dlQ5RjcybTgxNGRUZjh2S1RDTW5aYm9CLXJueDQ0SndnRHNId0FNd3hIdEpZZHl4dTBaRDg1cnNPSTNWalJ4N0lMR2pxTDJxR00yajZVTE5Id1NuTzRGOTVBbkQ20gF0QVVfeXFMUGRZQXg2MUNTT2lJZnRjam9nbTJuRVVHeTc4b3p5dFJFbnpMSmR1NExPeFB2MFgwdnVtZUJzNW9XOFRCazNZdTdJSlA3YUNkQXpIYUJ3Q3RLeDlKNXJQR183Mkp1VEdvQ21RUXRyYVljOTFIa0Q?oc=5",
+      "pubDate": "2026-11-09T13:48:52+09:00"
+    },
+    {
+      "title": "아주대 연구팀, 분자 비틀림 방향으로 발광 속도 제어…차세대 발광 기술 개발",
+      "source": "주간한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55d09mUGZwb1ktdkt6eDFkck1hSm5pdlFlRm4zMjlINm1HYXNET25WcGtOdWp2bl8wanhlVE54cFAtcEpwbExoR0l4Wno4Yy1jR3lwS1prMXg5Z3NLLUttM3NTSHpDZlZrMDNoYXp3TELSAXRBVV95cUxQTnhZRnNNZVdVWkhNLVVNZXR4bW5UYjNXSjFNNDlMdEUteEs4NG1ZazdVUzlfY2xYSEswa0IySHRDbEl3R2xFbFJXTERHb3NEdUJTWVFTbGlnNloyWWlhQ29ZSXc2d3hXeUtXVEdlYzJJWVRCNg?oc=5",
+      "pubDate": "2026-11-09T11:43:45+09:00"
+    },
+    {
+      "title": "우주 폭발 좇던 스위프트, 22년 관측 끝내고 지구 대기권 재진입",
+      "source": "미디어파인",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0cHpGcGI0Qi1PQUIyaDBKWS15Q3d5dVU1SFdBbFdhYS1pdWVlVmhKZGVXYjJMdjlRU2tuLUIyTEpiZmk4dHBiSGdKcFd3VWJFa1dKUk1BSW1xcld4ZEFlMk4ya3ZFTXhLTHFEMnFn?oc=5",
+      "pubDate": "2026-11-09T12:05:00+09:00"
+    },
+    {
+      "title": "PS5 없이 클라우드로 즐긴다… 소니 ‘PS 포탈’ 12월 출시",
+      "source": "IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNYXZncWQyazBnSFkyRGZvZ0k4cVk1SjVHcmxkSGVfdTkwWEY4VnQzVll4VVhnX2UtdDVDYkpjVklMdmEtNWh2M1d1R2k3SkRVZWJiX0VGVGF2V2w2bzJMcFFKcjFOUEM3RFltSTZXWEfSAXRBVV95cUxPVV9VajJhcU9Vd2lEaDAwSG53WXRKaVJZS1Q5cEktT3h5R2lUMnB3VURYN2xCSEhyRzd3M3RaZmlfTzVsTlZxTDdQOU5iOWNlbWhnZG1zTmRxM1MyMEFNclBMNU1zVEtDNHoxVzJmM0R1OXRQbQ?oc=5",
+      "pubDate": "2026-11-09T13:46:19+09:00"
+    },
+    {
+      "title": "빌리어네어 보이즈 클럽, 포켓몬 30주년 기념 캡슐 컬렉션 출시",
+      "source": "Hypebeast.KR",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWUJrY01QUWZ2NXY2VzJFeTZMd1A5NFQ4dlF0a2Q2NFc1bWZISWZfTENKbGVPQm9qRm1WUEpGWXhLTTd3d1dOUTZWb2lrdFgxME4wNkJUb2w2LVA0bHlOaVNkMjBQV20xdDdjQkVtMzE4Q2ZuUnNnT056RjM4Zk5obVAzWmNTdFloX2lQa25CS2pJM01fNnJKYWRLbzlZUnRIZDVJSFdXMWE0ZTR4NERPeF80R0xiT2RXMXhmQTAzS09ocTFNX09HbmhSZGhkNFgt?oc=5",
+      "pubDate": "2026-11-09T11:03:12+09:00"
+    },
+    {
+      "title": "혜리 \"첫 서바이벌 예능 MC…참가자들 마음에 공감할게요\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKa2ZVZ3FYd0FPcG0yWi0zbHFhdjA2MnBrMGw2dTNtSWZWSVE1czdWYUxHZVRYYUp3VDktYlpDRzJsY0wzS2hwUXd3NWVhRzdZVi1kTm55V0dlS2fSAWBBVV95cUxNWnNyMHNlWGZ6OG1LeVowdjloNFFhNS1mWlIwbGRTVTk1V3JZUWlBQkFQZGl3RF84cnR3TUVpYTBJNXJmSURMMGRaOEo3M0g3a051d3BWbE9JTzR1cjhpNzc?oc=5",
+      "pubDate": "2026-11-09T13:04:13+09:00"
+    },
+    {
+      "title": "‘키드냅 게임’ 이준기, 5년 전 비밀 추적",
+      "source": "BNT뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04aGFPalRaelltRXFBa0g0NnNkVnAzSTlGN2l3VVZFYUNyd3M1Yk1kQUh4aUcxM2FlcXhweUhYck1aM0FNaHhMenpuSlZ5MWVTSTYxMnprWFFRandRWW1qb2t5aTk?oc=5",
+      "pubDate": "2026-11-09T07:53:53+09:00"
+    },
+    {
+      "title": "“삼성 우승기념, 48% 파격세일…전기는 63%!” 개미들의 웃픈 풍자",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1UnBPMUc4Z2IycGF6R0l0cFhVWERqb3hkYy1lXzFDRFFnRXRjNHVKcHc1NUhfaEN6V2tCV1NZRndSbzVGcHZHQlNkcmpwS040?oc=5",
+      "pubDate": "2026-11-09T08:41:43+09:00"
+    },
+    {
+      "title": "수원 굴욕 걷어낸 '이정효 매직'...\"안되길 바랐죠?\"",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fc0VWUWh2Q2JQeDZ3YTBZbWpHQ0xIT01BMGV1d0VfYlpHSU9GdDliSnM3TGo3SGdHNTFpVUtiRU50U2hvbWZFQ2gxM1QtUGJHdFZqRTd2Wmh3d1ZfekE?oc=5",
+      "pubDate": "2026-11-09T11:13:00+09:00"
+    },
+    {
+      "title": "‘100조’ 벌었다는데 얼마를 줘야 하나…구자욱·원태인 “사장님 믿습니다” FA 시장 요동칠까",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTRWJsakNnM21xeTA5TkhGQ0trVG8xNkpzZy0wNHV0aTdSVmRfOTlLcnlmMUhJSTQtMkJvYU1iMFRmZlpGSGNUTUZ4c2d1V2RWYlhpbm5RZWNzb2dkSjNZc3ZtdXZRckhEeG10UkJYZ21sajNFaEVGOA?oc=5",
+      "pubDate": "2026-11-09T11:51:54+09:00"
+    },
+    {
+      "title": "‘이강인 선제골 기점 패스’ 아틀레티코, 바르셀로나에 역전패",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGSEk5QjZiZEVWSUJ6WEJkWWVuaUR5ajIxekdwR3dOTkNQeWJHeWtmSTVGT3ZhblFFM2lUN09JVjFRUGttVjVCQkpEZzR0TTVqVV8xcGFNNnlxVzA?oc=5",
+      "pubDate": "2026-11-09T15:10:00+09:00"
+    },
+    {
+      "title": "스타틴·에제티미브 초기 복합요법, LDL 조절 2배 빠르다",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mMXBIaWxGc0g4Nnc5VTF5bE14RFJOY05YTDBTX3ktc1FFZzZGVG14bTdocHVtWi1PcGVscDJoTkJzSW5ydHNlaDBZeTZlVVJRY2cyNjRmWnVhdl9oRlFMTVJ4Ukw?oc=5",
+      "pubDate": "2026-11-09T13:58:24+09:00"
+    },
+    {
+      "title": "\"테스토스테론 낮으면 병원부터 가라\"…2만6천명 추적 연구 결과",
+      "source": "매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mbVJ4OXctNDhqOTlnbHo4cFhsZjhWSFllcnVOd3pzMHhhWnk1bWRqczN3NDN1VlRnY3ptM2ZJYTFlRVlEalFHSkVWZmpYX0t1TjJUS0lWV1p0dG5XT0NPRGNR?oc=5",
+      "pubDate": "2026-11-09T10:58:22+09:00"
+    },
+    {
+      "title": "하루 굶었더니 장 속 유익균 급증…방사선 손상 회복 빨라졌다",
+      "source": "매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NaUVJMTEwNUFYNkYtXzB1T0hyQWNsMHl3TlhfTGpUUVBRSml5TXdNSldhZTB5Q2NZRlI5YzZ0ZGtTcG9pMGs4ZllxV2hacjhFdDNOeXAzSHBTV3ZzV2pBVk53?oc=5",
+      "pubDate": "2026-11-09T10:59:17+09:00"
+    }
+  ],
+  "trends": [
+    {
+      "term": "정지선",
+      "pubDate": "2026-11-09T14:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "정지선, 대만 매장서 직원 10명 퇴사…“한 달 반 만에 다 나갔다”",
+          "snippet": "",
+          "url": "https://www.segye.com/newsView/20261109502858",
+          "source": "세계일보"
+        },
+        {
+          "title": "정지선 \"140평 대만 식당 한 달 반 만에 10명 퇴사해\"",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859545",
+          "source": "뉴시스"
+        },
+        {
+          "title": "“아이라인 그려주세요” 정지선, 대만 ‘국민셰프’된 비결? MZ 취향 저격 ‘AI 광고’",
+          "snippet": "",
+          "url": "https://sports.khan.co.kr/article/202611081818003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "term": "이규한",
+      "pubDate": "2026-11-09T14:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "이규한, 예비신부 솔비 향한 남다른 사랑…“분리수거도 안 시킬 것”",
+          "snippet": "",
+          "url": "https://www.segye.com/newsView/20261109502020",
+          "source": "세계일보"
+        },
+        {
+          "title": "솔비와 결혼 티낸 이규한 \"짧은머리 이상형…결혼 압박 없어\"",
+          "snippet": "",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859533",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"솔비에 분리수거도 안 시킬 것\"…이규한 사랑꾼 면모 '눈길' - 머니투데이",
+          "snippet": "",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110909101718149",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "term": "lg전자",
+      "pubDate": "2026-11-09T14:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "[기업] LG전자, 차량 통신 모듈 안전 최고등급...\"중대 사고 방지\"",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611091433199410",
+          "source": "YTN"
+        },
+        {
+          "title": "LG전자, 차량 통신모듈 안전성 최고 등급 획득…제네시스 GV90 탑재",
+          "snippet": "",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02191046645644080",
+          "source": "마켓인"
+        },
+        {
+          "title": "LG전자 차량 통신제어 모듈, 업계 최초로 자동차 기능안전 국제표준 최고 등급 획득",
+          "snippet": "",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451457",
+          "source": "비즈니스포스트"
+        }
+      ]
+    },
+    {
+      "term": "논문",
+      "pubDate": "2026-11-09T14:30:00+09:00",
+      "newsItems": [
+        {
+          "title": "황우석 전 서울대 교수, UAE 국적 취득해 한국 국적 상실",
+          "snippet": "",
+          "url": "https://www.khan.co.kr/article/202611091126001",
+          "source": "경향신문"
+        },
+        {
+          "title": "황우석 박사, 아랍에미리트 국적 취득…韓 국적 상실",
+          "snippet": "",
+          "url": "https://www.segye.com/newsView/20261109504842",
+          "source": "세계일보"
+        },
+        {
+          "title": "'줄기세포 논문 조작'으로 파면됐는데…황우석 '뜻밖의 근황'",
+          "snippet": "",
+          "url": "https://www.hankyung.com/article/202611093732H",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "term": "박진혁",
+      "pubDate": "2026-11-09T14:20:00+09:00",
+      "newsItems": [
+        {
+          "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
+          "snippet": "",
+          "url": "https://www.munhwa.com/article/11629685",
+          "source": "문화일보"
+        },
+        {
+          "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
+          "snippet": "",
+          "url": "https://www.mk.co.kr/news/stock/12202311",
+          "source": "매일경제"
+        },
+        {
+          "title": "알고도 털린 8조4000억원: 보안의 가장 오래된 취약점, ‘사람’",
+          "snippet": "",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147003",
+          "source": "보안뉴스"
+        }
+      ]
+    },
+    {
+      "term": "catl",
+      "pubDate": "2026-11-09T14:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "CATL is exploring an air-breathing battery. Could it give EVs 2,000 km of range?",
+          "snippet": "",
+          "url": "https://carnewschina.com/2026/11/07/catl-is-exploring-an-air-breathing-battery-could-it-give-evs-2000-km-of-range/",
+          "source": "CarNewsChina.com"
+        },
+        {
+          "title": "1,200-mile EV range: Chinese firm’s new lithium air EV battery offers 5x energy density",
+          "snippet": "",
+          "url": "https://interestingengineering.com/energy/1200-miles-chinese-firms-new-ev-battery",
+          "source": "Interesting Engineering"
+        },
+        {
+          "title": "World’s Biggest EV Battery Maker Explores Theoretical 1,243-Mile Range",
+          "snippet": "",
+          "url": "https://www.autoblog.com/news/worlds-biggest-ev-battery-maker-explores-theoretical-1243-mile-range",
+          "source": "Autoblog"
+        }
+      ]
+    },
+    {
+      "term": "금융감독원",
+      "pubDate": "2026-11-09T14:10:00+09:00",
+      "newsItems": [
+        {
+          "title": "보이스피싱 심리적 피해도 심각…금감원, 금융권과 피해자 지원",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261109104600002",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "보이스피싱 피해자에 생계비·심리상담 지원…“다시 일상으로”",
+          "snippet": "",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707569",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "금융권, 보이스피싱 피해자 생계비·심리상담 지원 By EBN",
+          "snippet": "",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2165437",
+          "source": "Investing.com 한국어"
+        }
+      ]
+    },
+    {
+      "term": "윤여정",
+      "pubDate": "2026-11-09T14:00:00+09:00",
+      "newsItems": [
+        {
+          "title": "80세 윤여정, 연예계 최고령 공항패션…백발에 화이트코트 ‘우아 그 자체’[Oh!쎈 이슈]",
+          "snippet": "",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/ME4DMYLFHAZTEYJRMMYWMZBZGA/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "[사진]윤여정, '런던으로 떠나요'",
+          "snippet": "",
+          "url": "https://www.osen.co.kr/article/G1112907063",
+          "source": "OSEN"
+        },
+        {
+          "title": "[영상] 윤여정, 깔끔하고 고급진 할꾸 '멋쟁이 할머니 코어'",
+          "snippet": "",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524068",
+          "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "term": "의과대학",
+      "pubDate": "2026-11-09T13:50:00+09:00",
+      "newsItems": [
+        {
+          "title": "'의대 탈락' 목포지역에 전남대병원 분원 설립 검토",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261109052200054",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "김형동 국회의원, 국립경국대 의대 설립으로 경북 북부권 의료 혁신 기대",
+          "snippet": "",
+          "url": "https://www.viva100.com/article/20261109500635",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "[패트롤]안동시-영주시",
+          "snippet": "",
+          "url": "https://m.ekn.kr/view.php?key=20261108023246778",
+          "source": "에너지경제신문"
+        }
+      ]
+    },
+    {
+      "term": "아나운서",
+      "pubDate": "2026-11-09T13:40:00+09:00",
+      "newsItems": [
+        {
+          "title": "노메이크업·안경쓰고 지진속보…日 공영방송 아나운서 화제",
+          "snippet": "",
+          "url": "https://www.yna.co.kr/view/AKR20261109064100009",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘안경·노메이크업’ 日 아나운서 화제…\"지진 속보 보고 바로 출근\"",
+          "snippet": "",
+          "url": "https://www.kyeonggi.com/article/20261109580331",
+          "source": "경기일보"
+        },
+        {
+          "title": "일본 5.7 지진에 20여 명 부상...\"2~3일 강한 여진 주의\"",
+          "snippet": "",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611090840181300",
+          "source": "YTN"
+        }
+      ]
+    }
+  ],
+  "nate": [
+    {
+      "rank": 1,
+      "title": "젠슨 황, 中첩자 의혹女와 불륜 시인…\"아내에 불충실했다\"",
+      "link": "https://news.nate.com/view/20261109n02209"
+    },
+    {
+      "rank": 2,
+      "title": "지하철서 잠든 여성에 성폭력 행사한 60대 남성 구속 송치",
+      "link": "https://news.nate.com/view/20261109n19672"
+    },
+    {
+      "rank": 3,
+      "title": "'오토바이 사망 사고' 낸 女아나운서, 5년 만 복귀→틱톡커로 변신한 ...",
+      "link": "https://news.nate.com/view/20261109n20605"
+    },
+    {
+      "rank": 4,
+      "title": "李대통령 지지율 35.9%…민주 36.5%·국힘 39.7% 오차범위 내[리얼미터...",
+      "link": "https://news.nate.com/view/20261109n04687"
+    },
+    {
+      "rank": 5,
+      "title": "추미애 '경기 재정난' 호소하더니…'최대 1조' 광교청사 매각 검토",
+      "link": "https://news.nate.com/view/20261109n13092"
+    },
+    {
+      "rank": 6,
+      "title": "\"대선배한테 반말 찍찍, 예의 부족\" 이요원, 뜻밖의 인성 논란 [SC이슈]",
+      "link": "https://news.nate.com/view/20261109n16490"
+    },
+    {
+      "rank": 7,
+      "title": "'재혼 황후' 정영주 아들, EXID 하니 친동생 안태환이었다",
+      "link": "https://news.nate.com/view/20261109n21629"
+    },
+    {
+      "rank": 8,
+      "title": "\"다른 앱서 싸게 팔지 마\"…배민·쿠팡이츠에 과징금 6319억",
+      "link": "https://news.nate.com/view/20261109n15687"
+    },
+    {
+      "rank": 9,
+      "title": "[소셜＋] \"토요 등교에 인간폰북\"…'80·90년대생 괴물설' 공감 봇물",
+      "link": "https://news.nate.com/view/20261109n01908"
+    },
+    {
+      "rank": 10,
+      "title": "\"전쟁 나면 아기 분유는?\"…맘카페에 퍼지는 영유아 생존배낭",
+      "link": "https://news.nate.com/view/20261109n01998"
+    },
+    {
+      "rank": 11,
+      "title": "\"뭔가 건수가 많이 걸렸다\"…젠슨 황, '초고속'으로 불륜 인정한 진짜 이...",
+      "link": "https://news.nate.com/view/20261109n18528"
+    },
+    {
+      "rank": 12,
+      "title": "\"하루 3만원 버는데…\" 붕어빵 노점상 울린 판사의 한마디 [사장님 고충백...",
+      "link": "https://news.nate.com/view/20261109n01911"
+    },
+    {
+      "rank": 13,
+      "title": "\"전화 좀 받고 올게요\"…한우 8만원어치 먹고 사라진 남성",
+      "link": "https://news.nate.com/view/20261109n20748"
+    },
+    {
+      "rank": 14,
+      "title": "'대통령의 Y' 유튜브 한 편 제작에 1703만원…4편 6812만원",
+      "link": "https://news.nate.com/view/20261109n03506"
+    },
+    {
+      "rank": 15,
+      "title": "젠슨황 中간첩 지목 여성과 불륜…엔비디아 CEO 교체 가능성(종합)",
+      "link": "https://news.nate.com/view/20261109n06149"
+    },
+    {
+      "rank": 16,
+      "title": "\"일본 남자들은 안 해줘요\"…日 여성들이 한국 남성에 빠진 이유",
+      "link": "https://news.nate.com/view/20261109n04532"
+    },
+    {
+      "rank": 17,
+      "title": "대전 '스토킹 신고' 전 연인 살해범 신상공개…43세 권종필",
+      "link": "https://news.nate.com/view/20261109n09126"
+    },
+    {
+      "rank": 18,
+      "title": "'우승하면 면도한다더니…' 말끔해진 구자욱, 수염 싹 밀고 홀가분하게 웃...",
+      "link": "https://news.nate.com/view/20261109n21449"
+    },
+    {
+      "rank": 19,
+      "title": "회식서 볼뽀뽀·떠날 땐 같은 차…젠슨 황과 그녀, 이미 심상치 않았다",
+      "link": "https://news.nate.com/view/20261109n03812"
+    },
+    {
+      "rank": 20,
+      "title": "지진 발생 10분만에 '생얼'로 등장한 日 아나운서…\"재난 때마다 그랬다\" [...",
+      "link": "https://news.nate.com/view/20261109n11841"
+    }
+  ]
+}
