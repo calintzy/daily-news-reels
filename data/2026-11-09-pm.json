@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-09",
+  "slot": "pm",
+  "hookLine": "젠슨 황의 불륜 상대가 중국 스파이로 의심받습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "국제",
+      "kicker": "AI 황제 스캔들",
+      "title": "젠슨 황 불륜 인정, 이사회 조사 착수",
+      "summary": "엔비디아 CEO 젠슨 황이 스파이로 의심받는 여성과의 불륜 관계를 인정했습니다. 엔비디아 이사회는 독립위원회를 꾸려 조사에 착수했습니다.",
+      "narration": "젠슨 황 CEO가 직접 불륜 관계를 인정했습니다.",
+      "sourceTitle": "젠슨 황, 中스파이 의심 여성과 불륜 인정...엔비디아 이사회 조사 착수",
+      "sourceDesc": "황 CEO가 불륜 관계를 인정한 여성은 앨리스 황이다. 엔비디아 고객사인 싱가포르 클라우드 기업 메가스피드의 전직 임원이다. 뉴욕타임스와 파이낸셜타임스는 미국 정보당국이 앨리스 황을 중국 국가안전부에 포섭된 인물로 판단했고 황 CEO를 상대로 정보 수집을 시도한 것으로 의심하고 있다고 보도했다.",
+      "sourceLink": "https://www.mt.co.kr/tech/2026/11/09/2026110906061650499",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Dramatic close-up of a modern GPU circuit board in dim blue light, a shadowy silhouette faintly reflected in the metallic surface suggesting dual identity and corporate espionage, no people, no text, vertical 9:16 composition, photojournalism documentary style, dark moody atmosphere"
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "43세 살인범 신상공개",
+      "title": "스토킹 살인 43세 권종필, 오늘 신상공개",
+      "summary": "스토킹을 신고했던 전 연인을 살해한 혐의를 받는 43세 권종필의 이름과 얼굴 사진이 공개됐습니다. 경찰은 범행의 잔인성 등을 고려해 공개를 결정했습니다.",
+      "sourceTitle": "스토킹 신고 1년 뒤 전 연인 살해 혐의…43세 권종필 신상공개",
+      "sourceDesc": "9일 대전경찰청은 살인 등 혐의로 구속송치된 권종필(43)의 이름과 나이, 얼굴 사진(머그샷)을 대전경찰청 홈페이지에 공개했다. 공개 기간은 내달 9일까지다. 앞서 A씨는 지난해 10월 권종필을 스토킹으로 112에 신고했으나, 처벌을 원치 않는다는 뜻을 밝히면서 사건은 그해 11월 불송치됐다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026110910423813589",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Empty apartment corridor with a single closed door, dim overhead lighting casting long shadows on tiled floor, isolated and threatening atmosphere, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "정치",
+      "kicker": "예산심사 보이콧",
+      "title": "국힘 법사위, 특검법 반발로 예산심사 보이콧",
+      "summary": "국민의힘 법사위원들이 조작기소 특검법 강행에 반발해 향후 법사위 예산 심사 일정에 불참하기로 했습니다. 여야가 특검법을 둘러싸고 충돌하며 국회 운영에 차질이 빚어지고 있습니다.",
+      "sourceTitle": "국민의힘 법사위원, 특검법 강행에 예산 심사 보이콧",
+      "sourceDesc": "국민의힘 법사위원들은 9일 국회 기자회견에서 예산결산심사소위를 포함한 향후 법사위 일정에 불참하겠다고 밝혔다. 더불어민주당이 조작기소 특검법을 강행 처리한 데 항의하는 취지다.",
+      "sourceLink": "https://www.etnews.com/20261109000190",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Wide shot of empty wooden parliamentary seats in a Korean legislative chamber from an elevated angle, some chairs pushed back as if abandoned midway, overhead fluorescent lighting, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "청문회 쟁점 부상",
+      "title": "이용철 후보자, 대장동 의혹 부인·공소취소 묵묵부답",
+      "summary": "이용철 법무부 장관 후보자가 대장동 사업 연루 의혹을 전면 부인했습니다. 이재명 대통령 관련 사건의 공소취소 여부에 대해서는 추후 입장을 밝히겠다는 말만 반복했습니다.",
+      "sourceTitle": "대장동부터 李대통령 공소취소까지…이용철 법무 인사청문회 뇌관",
+      "sourceDesc": "이용철 법무부 장관 후보자가 대장동 사업 연루 의혹을 전면 부인했다. 이재명 대통령 관련 사건의 공소취소 여부에 대해서는 추후 입장을 밝히겠다는 뜻을 전했다.",
+      "sourceLink": "https://www.fnnews.com/news/202611091254194618",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Polished wooden courtroom interior with an empty judge's podium and empty spectator seats, shafts of light streaming from high windows, formal and solemn atmosphere, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "사건",
+      "kicker": "31억 비자금 첫 재판",
+      "title": "이호진 전 태광 회장, 비자금 혐의 첫 재판서 부인",
+      "summary": "이호진 전 태광그룹 회장이 31억 비자금 조성 혐의로 첫 재판을 받으며 혐의를 전면 부인했습니다. 함께 기소된 전 임원과 법정에서 서로 책임을 미루는 치열한 공방이 벌어졌습니다.",
+      "sourceTitle": "'31억 비자금' 이호진 전 회장·김기유, 첫 공판서 정면 대립",
+      "sourceDesc": "이호진 전 태광그룹 회장이 첫 정식 공판에서 31억원대 비자금 조성 혐의를 전면 부인했다. 이날 공판에선 김기유 전 경영협의회 의장과 정면 대립하는 등 치열한 공방이 벌어졌다.",
+      "sourceLink": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003351",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Cluttered office desk with bound financial ledgers, stacks of loose documents and an overturned pen on scattered papers, dim overhead light suggesting corporate fraud investigation, no people, no text, vertical 9:16 composition, photojournalism documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-11-09 저녁 브리핑\n\n1. 젠슨 황 불륜 인정, 이사회 조사 착수\n2. 스토킹 살인 43세 권종필, 오늘 신상공개\n3. 국힘 법사위, 특검법 반발로 예산심사 보이콧\n4. 이용철 후보자, 대장동 의혹 부인·공소취소 묵묵부답\n5. 이호진 전 태광 회장, 비자금 혐의 첫 재판서 부인\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #젠슨황 #엔비디아 #스파이 #스토킹살인 #조작기소특검법 #이용철 #이호진 #태광\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
