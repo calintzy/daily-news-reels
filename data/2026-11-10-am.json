@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-10",
+  "slot": "am",
+  "hookLine": "5000 붕괴 당일, 지지율도 33.8%입니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "정치",
+      "kicker": "지지율 급락",
+      "title": "이재명 지지율 33.8% 급락, 부정평가 최고치",
+      "summary": "이재명 대표 지지율이 코스피 5000선 붕괴 당일 33.8%까지 급락했습니다. 부정평가는 62.5%까지 올랐습니다.",
+      "narration": "지지율 33.8%, 부정평가 62.5%였습니다.",
+      "sourceTitle": "李 지지율, '5000 붕괴·조작특검' 당일 33.8%까지 급락 … 부정평가는 62.5%까지 올라",
+      "sourceDesc": "더불어민주당 이재명 대표의 지지율이 코스피 5000선 붕괴·조작기소특검 통과 당일 33.8%까지 급락했다. 같은 날 이 대표의 부정평가는 62.5%까지 올랐다.",
+      "sourceLink": "https://newdaily.co.kr/site/data/html/2026/11/09/2026110900009.html",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Financial stock index board with sharp red decline indicators in a modern office, blurred newspaper headlines in foreground, no people, no text, vertical 9:16 composition, photojournalism documentary style, harsh fluorescent lighting, red and black tones"
+    },
+    {
+      "rank": 2,
+      "category": "스포츠",
+      "kicker": "삼성 12년 만에 우승",
+      "title": "삼성 라이온즈, 12년 만에 KBO 한국시리즈 우승",
+      "summary": "삼성 라이온즈가 2026 KBO 한국시리즈에서 KT를 꺾고 2014년 이후 12년 만에 정상을 탈환했습니다. 구자욱이 한국시리즈 MVP를 수상했습니다.",
+      "sourceTitle": "삼성라이온즈 한국시리즈 우승…2년 전 눈물의 약속 환희의 눈물로 갚다",
+      "sourceDesc": "삼성 라이온즈가 11월 8일 대구 삼성라이온즈파크에서 열린 2026 KBO 한국시리즈 5차전에서 KT를 12대 1로 꺾고 4승 1패로 우승했다. 구자욱이 한국시리즈 MVP를 수상했다. 2014년 이후 12년 만의 정상 탈환이다.",
+      "sourceLink": "https://sports.khan.co.kr/article/202611090000006/",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Baseball stadium at night with bright field lights illuminating the diamond, championship trophy pedestal at center field, no people, no text, vertical 9:16 composition, photojournalism documentary style, dramatic spotlight and crowd atmosphere"
+    },
+    {
+      "rank": 3,
+      "category": "사회",
+      "kicker": "황우석 국적 상실",
+      "title": "황우석 박사, UAE 국적 취득…한국 국적 상실",
+      "summary": "줄기세포 논문 조작 의혹을 받은 황우석 전 서울대 교수가 UAE 국적을 취득해 한국 국적을 상실했습니다. 올해 4월 9일 UAE 국적을 취득한 사실이 전자관보를 통해 공개됐습니다.",
+      "sourceTitle": "'줄기세포 논문 조작' 황우석 박사, UAE 국적 취득… 韓 국적 상실",
+      "sourceDesc": "법무부 청주출입국·외국인사무소가 8월 13일 고시한 국적상실자 명단이 11월 9일 전자관보를 통해 공개됐다. 황우석 전 서울대 교수가 2026년 4월 9일 UAE 국적 취득으로 한국 국적을 상실했다. 그는 아랍에미리트 아부다비 소재 'UAE 바이오테크' CEO로 활동 중이다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026110909170002931",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Official government gazette document on a desk with a Korean national seal stamp, blurred flag in background, no people, no text, vertical 9:16 composition, photojournalism documentary style, neutral office lighting"
+    },
+    {
+      "rank": 4,
+      "category": "정치",
+      "kicker": "특검법 국무회의 제외",
+      "title": "조작기소 특검법, 10일 국무회의 제외·다음 주 상정",
+      "summary": "청와대는 조작기소 특검법 공포안을 11월 10일 국무회의 안건에서 제외하고 다음 주 상정 예정이라고 밝혔습니다. 법안은 지난 6일 국회 본회의를 통과해 가결됐습니다.",
+      "sourceTitle": "靑 \"조작기소 특검법 공포안, 다음주 국무회의 상정 예정\"",
+      "sourceDesc": "청와대는 '조작기소 특검법' 공포안을 11월 10일 제48회 국무회의 안건에서 제외하고 다음 주(이르면 17일) 상정 예정이라고 밝혔다. 법안은 지난 6일 국회 본회의를 통과해 재석 168명 중 찬성 167명으로 가결됐다.",
+      "sourceLink": "https://www.seoul.co.kr/news/politics/2026/11/09/20261109500400",
+      "sourceDate": "2026-11-09",
+      "imagePrompt": "Empty government conference room with long wooden table, formal chairs arranged in rows, national flag in background, no people, no text, vertical 9:16 composition, photojournalism documentary style, fluorescent overhead lighting"
+    },
+    {
+      "rank": 5,
+      "category": "국제",
+      "kicker": "유가 급락",
+      "title": "트럼프 이란 공격 자제 시사…유가 급락·금값 상승",
+      "summary": "트럼프 대통령이 이란과의 합의를 전제로 추가 군사공격 가능성이 매우 낮다고 밝혔습니다. 브렌트유가 5.85% 급락한 배럴당 92.57달러로 마감됐습니다.",
+      "sourceTitle": "[금/유가] 트럼프, 이란 추가 공격 자제 시사에 유가 급락...금값 상승",
+      "sourceDesc": "트럼프 대통령이 이란과의 합의를 전제로 추가 군사공격 가능성이 매우 낮다고 밝히면서 국제유가가 급락했다. 브렌트유 5.85% 급락한 배럴당 92.57달러, WTI 4.38% 하락한 86.85달러로 마감됐다. 금값은 달러 약세 속에 소폭 상승했다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261110000008",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Oil barrel and crude pipeline infrastructure in an arid Middle Eastern landscape, overcast sky with dramatic clouds, no people, no text, vertical 9:16 composition, photojournalism documentary style, harsh sunlight with long shadows"
+    }
+  ],
+  "caption": "[물어오리] 2026-11-10 아침 브리핑\n\n1. 이재명 지지율 33.8% 급락, 부정평가 최고치\n2. 삼성 라이온즈, 12년 만에 KBO 한국시리즈 우승\n3. 황우석 박사, UAE 국적 취득…한국 국적 상실\n4. 조작기소 특검법, 10일 국무회의 제외·다음 주 상정\n5. 트럼프 이란 공격 자제 시사…유가 급락·금값 상승\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #이재명 #지지율 #삼성라이온즈 #한국시리즈 #황우석 #UAE #조작기소특검 #유가\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
