@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-10",
+  "slot": "pm",
+  "hookLine": "3거래일 급락 끝에 사이드카가 터졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "경제",
+      "kicker": "증시 급반등",
+      "title": "코스피 4.39% 급반등…매수 사이드카 발동",
+      "summary": "코스피가 4.39% 급반등해 5239.13으로 마감했습니다. 양 시장 매수 사이드카가 발동됐고 필라델피아 반도체지수 6.86% 급등에 반도체주가 강세를 보였습니다.",
+      "narration": "4.39% 급반등, 사이드카가 발동됐습니다.",
+      "sourceTitle": "코스피·코스닥 동반 급등에 매수 사이드카…반도체주 강세",
+      "sourceDesc": "코스피는 전 거래일 대비 220.28포인트(4.39%) 오른 5239.13에 거래를 마쳤다. 최근 3거래일 급락 뒤 양 시장에 매수 사이드카가 발동됐고, 9일(현지시간) 필라델피아 반도체지수가 6.86% 급등한 영향으로 반도체 대형주가 지수 반등을 이끌었다.",
+      "sourceLink": "https://www.thepowernews.co.kr/view.php?ud=202611101015278419de3f0aa1be_7",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Stock market trading screen showing sharp green upward trend charts, semiconductor chips arranged in foreground on dark surface, no people, no text, vertical 9:16 composition, photojournalism documentary style, dramatic green and gold lighting against dark financial background"
+    },
+    {
+      "rank": 2,
+      "category": "사회",
+      "kicker": "부정청약 적발",
+      "title": "부정청약 의심 354건 적발…의사 부부도",
+      "summary": "정부 합동점검에서 아파트 부정청약 의심 354건이 적발됐습니다. 위장전입이 334건으로 가장 많았고 의사 부부가 위장퇴사 방식으로 특공에 당첨된 사례도 포함됐습니다.",
+      "sourceTitle": "위장전입에 허위퇴사·위장미혼…아파트 부정청약 의심 354건 적발",
+      "sourceDesc": "정부 합동점검에서 아파트 부정청약 의심 354건이 적발됐다. 위장전입이 334건으로 전체의 대다수를 차지했고 위장미혼 18건, 위장퇴사 1건도 포함됐다. 고소득 의사 부부가 허위로 퇴사해 신혼부부 특별공급에 당첨된 사례가 대표적이다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026111009371099623",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Apartment building exterior with rows of identical windows at dusk, government inspection form on clipboard in foreground on a desk, no people, no text, vertical 9:16 composition, photojournalism documentary style, cool blue institutional lighting"
+    },
+    {
+      "rank": 3,
+      "category": "정치·사법",
+      "kicker": "한덕수 석방 임박",
+      "title": "한덕수, 19일 대법 전합 심리…20일 석방 임박",
+      "summary": "대법원 전원합의체가 한덕수 전 국무총리 구속기간 만료 하루 전인 19일 심리를 열기로 했습니다. 이번이 선고기일이 아니어서 20일 구속기간 만료와 함께 석방될 가능성이 높아졌습니다.",
+      "sourceTitle": "한덕수, 구속 만료 하루 전 대법 전합 심리 속행 … 20일 석방 가능성",
+      "sourceDesc": "대법원 전원합의체가 한덕수 전 총리의 내란 사건 구속기간 만료 하루 앞둔 19일 두 번째 심리 기일을 열기로 했다. 형사소송법상 상고심 최대 구속기간이 만료되는 20일에 추가 연장이 불가능해 석방될 것으로 보인다.",
+      "sourceLink": "https://www.newdaily.co.kr/site/data/html/2026/11/10/2026111000164.html",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Empty supreme court chamber interior with high wooden benches and formal dais, Korean flag stand visible in background, no people, no text, vertical 9:16 composition, photojournalism documentary style, formal daylight streaming through tall windows"
+    },
+    {
+      "rank": 4,
+      "category": "국제",
+      "kicker": "트럼프 부정선거론",
+      "title": "트럼프, 패배 6일 만에 부정선거 의혹 제기",
+      "summary": "트럼프 대통령이 중간선거 패배 6일 만에 소셜미디어에서 부정선거 의혹을 제기했습니다. 사전투표가 과도했다며 투표기 문제를 주장했지만 구체적 근거는 없었습니다.",
+      "sourceTitle": "트럼프, 공화당 참패 6일 만에 \"선거 공정했나\" 부정선거 의혹",
+      "sourceDesc": "트럼프 대통령은 자신의 SNS에 이번 선거가 정직하게 치러졌다고 믿을 수 있느냐며 일부 사전투표에서 나온 표가 너무 많아 공화당 후보들이 이기기 어려웠다고 주장했다. 중간선거에서 공화당이 참패한 지 6일 만의 입장 변화다.",
+      "sourceLink": "https://www.segye.com/newsView/20261110504171",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Empty American voting booths in a polling station with ballot boxes on tables, national flag visible in background corner, no people, no text, vertical 9:16 composition, photojournalism documentary style, harsh fluorescent overhead lighting"
+    },
+    {
+      "rank": 5,
+      "category": "경제",
+      "kicker": "종부세 당정 갈등",
+      "title": "비거주 종부세 14억 공제, 당·청 갈등",
+      "summary": "민주당 지도부가 비거주 1주택자 종부세 기본공제를 14억 원으로 올려달라고 요구했습니다. 청와대는 거주 여부에 따른 차등을 없애면 정책 방향이 흔들린다며 조정 불가 입장을 유지했습니다.",
+      "sourceTitle": "'비거주 14억' 띄운 與, 선 그은 靑… 엇박자 노출",
+      "sourceDesc": "민주당 지도부가 비거주 1주택자 종부세 기본공제액을 현행 12억 원에서 14억 원으로 올려 실거주 1주택자와 동일하게 하자고 강력히 요구했다. 청와대는 1주택자 종부세 기본공제액을 추가로 조정하지 않겠다는 입장이어서 당정 간 갈등이 불거졌다.",
+      "sourceLink": "https://seoul.co.kr/news/politics/2026/11/10/20261110004003",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Modern apartment high-rise buildings at dusk with government administrative building visible in background, official policy document on a desk in foreground, no people, no text, vertical 9:16 composition, photojournalism documentary style, warm golden hour light"
+    }
+  ],
+  "caption": "[물어오리] 2026-11-10 저녁 브리핑\n\n1. 코스피 4.39% 급반등…매수 사이드카 발동\n2. 부정청약 의심 354건 적발…의사 부부도\n3. 한덕수, 19일 대법 전합 심리…20일 석방 임박\n4. 트럼프, 패배 6일 만에 부정선거 의혹 제기\n5. 비거주 종부세 14억 공제, 당·청 갈등\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #코스피 #사이드카 #부정청약 #한덕수 #트럼프 #부정선거 #종부세\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {
+      "trends": "fail",
+      "nate": "fail"
+    },
+    "signalHits": []
+  }
+}
