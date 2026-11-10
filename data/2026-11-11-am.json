@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-11",
+  "slot": "am",
+  "hookLine": "운전자가 자주포에 치인 뒤 끝내 숨졌습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "군 차량 사고",
+      "title": "국도서 자주포에 민간인 운전자 1명 사망",
+      "summary": "훈련을 마친 육군 자주포가 밤길 국도에서 뒤따르던 민간 차량과 충돌해 운전자 1명이 사망했습니다. 경찰은 자주포의 운행과 안전 조치가 적절했는지 조사하고 있습니다.",
+      "narration": "자주포가 민간인 1명의 목숨을 앗아갔습니다.",
+      "sourceTitle": "밤길 국도 나타난 자주포에 3중 추돌...민간인 운전자 1명 사망",
+      "sourceDesc": "강원 철원 국도에서 훈련을 마치고 귀환하던 육군 자주포가 뒤따르던 민간 차량 2대와 연쇄 추돌해 운전자 1명이 사망했다. 경찰은 자주포 운행과 안전 조치가 적절했는지 수사하고 있다.",
+      "sourceLink": "https://www.hankookilbo.com/news/article/A2026111019510004253",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Dark unlit Korean rural highway at night, crushed civilian sedan pushed off road, heavy military vehicle tracks visible on asphalt, sparse emergency cones scattered on road, no people, no text, vertical 9:16 composition, low ambient light, desaturated tones, photojournalistic documentary style"
+    },
+    {
+      "rank": 2,
+      "category": "경제·보안",
+      "kicker": "사이버 공격",
+      "title": "금융보안원 해킹…금융사 보안 정보 유출",
+      "summary": "금융보안원이 해킹 공격을 받아 금융사 보안 평가 관련 정보 일부가 외부로 유출됐습니다. 금융보안원은 접속을 긴급 차단하고 피해 범위를 정밀 조사 중입니다.",
+      "sourceTitle": "금융보안원도 해킹당했다… 금융사 보안 정보 일부 유출",
+      "sourceDesc": "금융보안원이 해킹 공격을 받아 금융사 보안 평가 정보 일부가 외부로 유출됐다. 외부의 비정상적 접근이 감지되자 긴급 차단에 나섰으나 일부 정보 유출을 막지 못했으며 관계 당국에 신고하고 정밀 조사에 착수했다.",
+      "sourceLink": "https://www.seoul.co.kr/news/economy/finance/2026/11/11/20261111029004",
+      "sourceDate": "2026-11-11",
+      "imagePrompt": "Close-up macro photograph of computer server rack with blinking error indicator lights, exposed network cables tangled, padlock icon cracked open on dark screen, no people, no text, vertical 9:16 composition, red warning light glow against dark background, documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "국방·정치",
+      "kicker": "파병 논란",
+      "title": "청해부대 파병 연장안 국회 제출…이란 반발",
+      "summary": "정부가 청해부대 파견 연장 동의안을 국무회의에서 의결하고 국회에 제출했습니다. 이란의 반발에 외교부는 전쟁에 개입하지 않는 원칙을 거듭 밝혔습니다.",
+      "sourceTitle": "정부, 청해부대 파병 연장안 국회 제출…이란 반발엔 \"전쟁 불관여\"",
+      "sourceDesc": "정부가 청해부대 작전 범위를 오만 남방 해상까지 넓히는 파견 연장 동의안을 국무회의에서 의결하고 국회에 제출했다. 이란 외교부가 한국 측의 파병 자제를 촉구했으나 외교부는 전쟁 불관여 원칙을 강조하며 이란과 소통하고 있다고 밝혔다.",
+      "sourceLink": "https://www.khan.co.kr/article/202611102133015",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Korean naval destroyer silhouette at open sea, grey hull in calm ocean waters, national flag on mast, distant horizon under overcast sky, no people, no text, vertical 9:16 composition, muted blue-grey ocean tones, photojournalistic documentary style"
+    },
+    {
+      "rank": 4,
+      "category": "국제·외교",
+      "kicker": "한미 외교",
+      "title": "조현·루비오, 파리서 한미관계·북한 문제 논의",
+      "summary": "조현 외교장관이 루비오 미 국무장관과 파리에서 환담하고 한미관계와 북한 문제 등을 논의했습니다. 양국은 정상 간 합의 사항의 진전을 위해 긴밀히 협력하기로 했습니다.",
+      "sourceTitle": "조현·루비오, 파리서 환담…한미 정상 합의 이행에 협력",
+      "sourceDesc": "조현 외교장관과 루비오 미 국무장관이 파리 G7 외교장관회의를 계기로 환담하고 한미관계, 북한 문제 등에 의견을 교환했다. 양측은 정상 간 합의 사항의 진전을 포함해 양국 관계를 지속적으로 발전시키기 위해 협력하기로 했다.",
+      "sourceLink": "https://view.asiae.co.kr/article/2026111022002791968",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Empty formal diplomatic conference room with two national flag stands, long polished table with nameplates, wide-angle interior view, no people, no text, vertical 9:16 composition, natural window light streaming in, clean neutral tones, documentary style"
+    },
+    {
+      "rank": 5,
+      "category": "AI·과학",
+      "kicker": "AI 경제 경고",
+      "title": "AI 버블 붕괴 땐 세계경제 충격…美 연구진 경고",
+      "summary": "미국 연구진이 엔비디아 중심 AI 버블 붕괴 시 세계 경제에 큰 충격이 올 수 있다고 경고했습니다. 반도체 생산이 한국에 집중돼 한국의 전략적 선택이 필요하다는 분석도 나왔습니다.",
+      "sourceTitle": "\"엔비디아가 떠받치는 'AI 버블'… 붕괴 땐 세계경제 충격\" 美 연구진의 경고",
+      "sourceDesc": "스탠퍼드대 연구진이 엔비디아 주가 급등으로 미국 증시가 AI에 과도하게 기대고 있다고 경고했다. 반도체 생산이 한국과 대만에 집중돼 있어 AI 버블 붕괴 시 한국 경제에도 충격이 클 것이라는 전망이 나왔다.",
+      "sourceLink": "https://hankookilbo.com/news/article/A2026111008570000367",
+      "sourceDate": "2026-11-10",
+      "imagePrompt": "Stock market ticker board showing sharp downward trend graph, semiconductor silicon wafer gleaming in foreground, server farm blurred in background, no people, no text, vertical 9:16 composition, red and amber warning color palette, photojournalistic documentary style"
+    }
+  ],
+  "caption": "[물어오리] 2026-11-11 아침 브리핑\n\n1. 국도서 자주포에 민간인 운전자 1명 사망\n2. 금융보안원 해킹…금융사 보안 정보 유출\n3. 청해부대 파병 연장안 국회 제출…이란 반발\n4. 조현·루비오, 파리서 한미관계·북한 문제 논의\n5. AI 버블 붕괴 땐 세계경제 충격…美 연구진 경고\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
