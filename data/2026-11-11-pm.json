@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-11",
+  "slot": "pm",
+  "hookLine": "브레이크가 말을 안 들은 버스, 57명이 다쳤습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사건·사고",
+      "kicker": "분당 버스 추돌",
+      "title": "출근길 분당 버스 32대 연쇄 추돌·57명 부상",
+      "summary": "오늘 오전 경기 성남시 분당에서 시내버스가 출근 차량 32대와 연쇄 추돌해 57명이 중경상을 입었습니다. 버스 기사는 브레이크가 작동하지 않았다고 진술했으며, 경찰이 원인을 조사 중입니다.",
+      "narration": "버스 기사는 브레이크가 작동하지 않았다고 했습니다.",
+      "sourceTitle": "분당서 시내버스 32대 연쇄추돌, 57명 중경상···\"브레이크 작동 안했다\"",
+      "sourceDesc": "11일 오전 7시 34분께 경기 성남시 분당구 야탑동에서 340번 시내버스가 신호 대기 중이던 차량 32대와 연쇄 추돌해 57명이 중경상을 입었다. 버스 기사 A씨는 브레이크가 작동하지 않았다는 취지로 진술했으며, 경찰이 블랙박스 분석과 차량 정밀 검사로 원인을 조사 중이다.",
+      "sourceLink": "https://weekly.khan.co.kr/article/202611111230001/",
+      "sourceDate": "2026-11-11",
+      "imagePrompt": "Multiple crashed civilian vehicles on a Korean urban road, twisted metal and shattered glass scattered on asphalt, orange traffic cones blocking lane, cold morning overcast light, no people, no text, vertical 9:16 composition, photojournalistic documentary style, muted grey tones"
+    },
+    {
+      "rank": 2,
+      "category": "국내 정치",
+      "kicker": "법무장관 청문회",
+      "title": "이용철 법무 후보, 공소취소 '진상규명 우선'",
+      "summary": "이용철 법무부 장관 후보자가 이 대통령 형사사건 공소취소 질문에 진상규명을 우선하겠다는 입장을 되풀이했습니다. 수사지휘권 행사 여부에 대해서는 예단을 삼가겠다고 밝혔습니다.",
+      "sourceTitle": "이용철, 공소취소 묻자 \"진상규명 우선…법과 원칙 따를 것\"",
+      "sourceDesc": "이용철 법무부 장관 후보자가 인사청문회 준비단 사무실에 처음 출근해 이재명 대통령 사건 공소취소 가능성에 진상규명이 우선이라며 법과 원칙에 따라 판단하겠다고 밝혔다. 수사지휘권 행사 여부 질문에는 예단과 선입견 없이 지켜보겠다고 답했다.",
+      "sourceLink": "https://pressian.com/pages/articles/2026111110202561382",
+      "sourceDate": "2026-11-11",
+      "imagePrompt": "Empty parliamentary hearing room with microphones on long table, Korean national flag in background, formal name placards on table, natural daylight through tall windows, no people, no text, vertical 9:16 composition, cool institutional lighting, documentary style"
+    },
+    {
+      "rank": 3,
+      "category": "국제·외교",
+      "kicker": "한우크라 첫 회담",
+      "title": "한·우크라 첫 외교장관 회담, 사과 없어",
+      "summary": "조현 외교장관과 시비하 우크라이나 외무장관이 북한군 포로 공개 소환 갈등 이후 처음으로 직접 회담을 열었습니다. 우크라이나 측의 사과 표명은 없었으나 양측은 관계 정상화를 위한 공감대를 확인했습니다.",
+      "sourceTitle": "한-우크라 외교장관, 갈등 후 첫 회담…사과는 없었다",
+      "sourceDesc": "조현 외교장관과 시비하 우크라이나 외무장관이 북한군 포로 공개 소환 갈등 이후 첫 대면 회담을 열었다. 우크라이나 측의 사과는 없었으며, 양측은 상호 존중을 바탕으로 관계 정상화에 공감대를 형성했다.",
+      "sourceLink": "https://www.sidae.com/article/2026111110370971286",
+      "sourceDate": "2026-11-11",
+      "imagePrompt": "Two diplomatic flags of different nations side by side in formal meeting room, polished conference table with empty chairs, official name cards and water glasses arranged, no people, no text, vertical 9:16 composition, soft natural diplomatic lighting, documentary style, muted cool tones"
+    },
+    {
+      "rank": 4,
+      "category": "사건·의료",
+      "kicker": "의료진 위협",
+      "title": "세브란스 교수 흉기 피습, 임세원법 적용 검토",
+      "summary": "세브란스병원 외래진료실에서 환자로 추정되는 여성이 정신건강의학과 교수를 흉기로 공격했습니다. 경찰은 살인미수 혐의를 적용했고 의료진 보호법인 임세원법 적용도 함께 검토하고 있습니다.",
+      "sourceTitle": "세브란스 교수 흉기 피습 50대女…경찰, '임세원법' 적용 검토",
+      "sourceDesc": "신촌세브란스병원 외래진료실에서 50대 여성이 정신건강의학과 교수를 흉기로 공격해 중상을 입혔다. 경찰은 살인미수 혐의를 적용하고, 의료진 보호를 위한 임세원법 적용 여부도 함께 검토하고 있다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261111001288",
+      "sourceDate": "2026-11-11",
+      "imagePrompt": "Empty hospital corridor with closed examination room door, indoor fluorescent lighting, sterile clinical hallway, hand sanitizer dispenser on wall, no people, no text, vertical 9:16 composition, cold white clinical light, documentary photojournalistic style"
+    },
+    {
+      "rank": 5,
+      "category": "사건·사회",
+      "kicker": "반복 화재",
+      "title": "강남 구룡마을 올해 세 번째 화재",
+      "summary": "서울 강남구 구룡마을에서 올해 들어 세 번째 화재가 발생해 소방 인력이 출동했습니다. 인명피해는 없었으나 2주 만의 반복 화재로 주민들의 불안이 커지고 있습니다.",
+      "sourceTitle": "강남 구룡마을 또 화재… 인명피해는 없어",
+      "sourceDesc": "11일 오전 4시 28분쯤 서울 강남구 구룡마을 8지구에서 화재가 발생해 소방이 출동했다. 2주 만의 화재로 올해 들어 세 번째이며, 인명피해는 없었다.",
+      "sourceLink": "https://www.segye.com/newsView/20261111509570",
+      "sourceDate": "2026-11-11",
+      "imagePrompt": "Smoldering charred wooden structures in informal hillside settlement at dawn, yellow caution tape stretched across debris, grey smoke rising against pale morning sky, no people, no text, vertical 9:16 composition, dawn light with smoke haze, documentary photojournalistic style"
+    }
+  ],
+  "caption": "[물어오리] 2026-11-11 저녁 브리핑\n\n1. 출근길 분당 버스 32대 연쇄 추돌·57명 부상\n2. 이용철 법무 후보, 공소취소 '진상규명 우선'\n3. 한·우크라 첫 외교장관 회담, 사과 없어\n4. 세브란스 교수 흉기 피습, 임세원법 적용 검토\n5. 강남 구룡마을 올해 세 번째 화재\n\n오늘 저녁도 물어왔습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": {"trends": "fail", "nate": "fail"},
+    "signalHits": []
+  }
+}
