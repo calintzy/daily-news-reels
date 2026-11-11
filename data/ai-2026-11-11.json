@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-11",
+  "account": "aibrief",
+  "hookLine": "Anthropic, $3.4B 발전기를 샀습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "반도체·인프라",
+      "kicker": "$3.4B 발전기 계약",
+      "title": "Anthropic, AI용 가스 발전기 $3.4B 계약",
+      "summary": "Anthropic이 AI 데이터센터 전력 확보를 위해 천연가스 발전기를 구매했습니다. AI 기업의 단일 발전 설비 투자로는 역대 최대 규모입니다.",
+      "sourceTitle": "Anthropic joins AI's natural gas frenzy, buys $3.4B worth of turbines",
+      "sourceDesc": "Anthropic agreed to pay $3.4 billion for 1.7 gigawatts of natural gas generators to power AI data centers, the largest direct power-generation equipment investment by an AI company.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+natural+gas+turbines+%243.4B"
+    },
+    {
+      "rank": 2,
+      "category": "사회 영향",
+      "kicker": "AI 서비스 해킹",
+      "title": "Fireworks AI, 고객 데이터와 모델 가중치 유출",
+      "summary": "AI 개발 플랫폼 Fireworks AI가 사이버 공격을 받아 고객 데이터와 AI 모델 가중치가 유출됐습니다. API 키와 결제 정보 등이 노출됐으며 Notion AI 채팅도 영향을 받았습니다.",
+      "narration": "AI 서비스 Fireworks AI가 해킹됐습니다.",
+      "sourceTitle": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+      "sourceDesc": "Fireworks AI confirmed hackers accessed customer datasets, partial model weights, billing data, and API keys through a third-party cloud provider breach, with Notion AI chats also exposed.",
+      "sourceLink": "https://news.google.com/search?q=Fireworks+AI+breach+customer+data+model+weights"
+    },
+    {
+      "rank": 3,
+      "category": "AI 모델",
+      "kicker": "30% 빨라진 신모델",
+      "title": "Anthropic, Fable·Mythos 5.2 출시",
+      "summary": "Anthropic이 Fable 5.2와 Mythos 5.2를 출시했습니다. 이전 모델보다 30% 빠르며 Fable 5.2의 API 가격은 20% 내렸습니다.",
+      "narration": "Anthropic 신모델, 더 빠르고 더 싸졌습니다.",
+      "sourceTitle": "Anthropic Launches Claude Fable And Mythos 5.2 With 20% Price Cut",
+      "sourceDesc": "Anthropic has released Claude Fable 5.2 and Claude Mythos 5.2, with outputs generated 30% faster than predecessors and a 20% reduction in Fable 5.2 API pricing ahead of the company's planned IPO.",
+      "sourceLink": "https://news.google.com/search?q=Anthropic+Fable+5.2+Mythos+5.2+launch"
+    },
+    {
+      "rank": 4,
+      "category": "빅테크 사업",
+      "kicker": "스마트워치로 확장",
+      "title": "Meta AI 에이전트 Muse, 스마트워치로 확장",
+      "summary": "Meta가 AI 에이전트 Muse를 Apple Watch와 Android Wear OS에서 쓸 수 있게 했습니다. 스마트워치에서 음성 통화, 문자, 받아쓰기로 AI 비서를 이용할 수 있습니다.",
+      "narration": "Meta AI 비서가 이제 스마트워치에서도 됩니다.",
+      "sourceTitle": "Meta's AI agent Muse lands on Apple Watch and Android Wear OS",
+      "sourceDesc": "Meta is bringing its Muse AI agent to the Apple Watch and Android's Wear OS, letting users interact with Meta's AI assistant through voice calls, text messages, or dictation directly on their smartwatch.",
+      "sourceLink": "https://news.google.com/search?q=Meta+Muse+Apple+Watch+Wear+OS"
+    },
+    {
+      "rank": 5,
+      "category": "규제·정책",
+      "kicker": "중국 규제로 인수 무산",
+      "title": "중국, SoftBank의 ABB Robotics 인수 거부",
+      "summary": "중국 당국이 SoftBank의 ABB Robotics 인수를 불허했습니다. AI 모델 학습 데이터가 해외로 유출될 수 있다는 우려가 불허 이유로 꼽힙니다.",
+      "narration": "중국이 SoftBank 로봇 인수를 막았습니다.",
+      "sourceTitle": "China blocks SoftBank's $5.4 billion ABB robotics deal, FT says, in blow to Son's AI push",
+      "sourceDesc": "China's regulators blocked SoftBank's $5.4 billion acquisition of ABB Robotics, citing concerns that data for training artificial intelligence models could be transferred overseas.",
+      "sourceLink": "https://news.google.com/search?q=China+SoftBank+ABB+Robotics+blocked"
+    }
+  ],
+  "caption": "[오리 기자] 2026-11-11 AI 뉴스 브리핑\n\n1. Anthropic, AI용 가스 발전기 $3.4B 계약\n2. Fireworks AI, 고객 데이터와 모델 가중치 유출\n3. Anthropic, Fable·Mythos 5.2 출시\n4. Meta AI 에이전트 Muse, 스마트워치로 확장\n5. 중국, SoftBank의 ABB Robotics 인수 거부\n\n내일도 AI 뉴스 물어오겠습니다 🦆\n\n#AI #인공지능 #테크뉴스 #IT뉴스 #오리기자 #Anthropic #Fireworks #Meta #로봇 #AI보안\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "ai-v1",
+    "signalSources": {},
+    "signalHits": []
+  }
+}
