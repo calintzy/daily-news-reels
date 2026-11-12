@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-12",
+  "slot": "pm",
+  "hookLine": "닭 4만8000마리 농장서 H5형 AI 검출됐습니다.",
+  "issues": [
+    {
+      "rank": 1,
+      "category": "사회·방역",
+      "kicker": "강화 AI 항원",
+      "title": "인천 강화 H5형 AI, 수도권 24시간 이동중지",
+      "summary": "인천 강화의 산란계 농장에서 H5형 조류인플루엔자 항원이 확인됐습니다. 수도권 산란계 농장과 도축장 등에 12일 오후 4시부터 24시간 일시이동중지 명령이 내려졌습니다.",
+      "narration": "강화 산란계 농장에서 H5형 AI 항원이 나왔습니다.",
+      "sourceTitle": "인천 강화 산란계 농장서 AI 항원 검출…수도권 24시간 이동중지",
+      "sourceDesc": "고병원성 조류인플루엔자(AI) 중앙사고수습본부는 12일 인천 강화 소재 산란계 농장에서 H5형 AI 항원이 확인됐다고 밝혔다. 해당 농장에서는 닭 4만8000여 마리를 사육하고 있다. 인천·서울·경기 지역 산란계 농장과 도축장, 사료공장 등 축산시설 및 축산차량에 대해서는 12일 오후 4시부터 13일 오후 4시까지 24시간 일시이동중지 명령을 발령한다.",
+      "sourceLink": "https://www.ajunews.com/view/20261112145933433",
+      "sourceDate": "2026-11-12",
+      "imagePrompt": "Wide-angle documentary photo of an empty poultry farm interior, row of empty chicken cages under harsh industrial lighting, biosafety hazard tape at entrance, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 2,
+      "category": "경제·산업",
+      "kicker": "삼성 HBM 착공",
+      "title": "삼성, 온양에 HBM 팹 착공…46조 투자",
+      "summary": "삼성전자가 온양에서 HBM 첨단패키징 팹 착공식을 열었습니다. 46조 투자로 AI 반도체 HBM 공급을 대폭 늘릴 계획입니다.",
+      "sourceTitle": "AI 거품론에도 HBM 공급 빠듯…삼성, 온양에 46조 투자 속도전",
+      "sourceDesc": "삼성전자가 온양캠퍼스에서 고대역폭메모리(HBM) 첨단패키징 팹 착공식을 열었다. AI 반도체 수요가 꾸준한 가운데 46조 투자로 HBM 공급 거점을 구축하며 속도전에 나섰다.",
+      "sourceLink": "https://www.newspim.com/news/view/20261112000621",
+      "sourceDate": "2026-11-12",
+      "imagePrompt": "Documentary photo of a large semiconductor fab construction site with tower cranes and steel frameworks, industrial campus under a clear sky with open fields visible, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 3,
+      "category": "국제",
+      "kicker": "체코 원전 공백",
+      "title": "체코 원전 공백, 한수원이 직접 채운다",
+      "summary": "체코 두코바니 원전 시공계약 협상이 결렬된 가운데, 한국수력원자력이 직접 사업 공백을 메우기로 했습니다. 산업부 장관이 추진현황 점검회의를 주재하며 단호히 대응하겠다고 밝혔습니다.",
+      "sourceTitle": "한수원, 체코 원전 공백 직접 메운다…산업장관 \"신뢰·협력 훼손, 단호히 대응\"",
+      "sourceDesc": "체코 두코바니 원전사업의 시공계약 협상이 결렬된 가운데 한국수력원자력이 직접 사업 공백을 메우기로 했다. 김정관 산업통상부 장관은 12일 팀코리아 체코 원전사업 추진현황 점검회의를 주재하며 신뢰와 협력 훼손에 단호히 대응하겠다고 밝혔다.",
+      "sourceLink": "https://www.ajunews.com/view/20261112110706610",
+      "sourceDate": "2026-11-12",
+      "imagePrompt": "Documentary photo of a nuclear power plant with large cooling towers surrounded by rural landscape, overcast sky, perimeter fence in foreground, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 4,
+      "category": "정치·사법",
+      "kicker": "한덕수 석방 임박",
+      "title": "한덕수 석방 임박, 조희대 탄핵론 재점화",
+      "summary": "한덕수 전 국무총리의 석방 가능성이 제기됐습니다. 여당 내부에서 조희대 대법원장 탄핵론이 재점화됐지만, 당 지도부는 신중한 입장입니다.",
+      "sourceTitle": "한덕수 석방 가능성에 '조희대 탄핵론' 재점화...與 '의견 수렴 중'",
+      "sourceDesc": "내란 우두머리 방조·중요임무종사 등의 혐의를 받는 한덕수 전 국무총리 석방 가능성이 제기되자 여당 더불어민주당에서 조희대 대법원장 탄핵론이 다시 불거졌다. 당 지도부는 역풍을 우려해 신중한 입장이며 의견을 수렴 중이다.",
+      "sourceLink": "https://www.ajunews.com/view/20261112142423198",
+      "sourceDate": "2026-11-12",
+      "imagePrompt": "Documentary photo of a Korean Supreme Court building exterior with granite facade and national emblem above the entrance, flagpoles and stone steps, overcast sky, no people, no text, vertical 9:16 composition."
+    },
+    {
+      "rank": 5,
+      "category": "경제·정책",
+      "kicker": "코스닥 육성",
+      "title": "이 대통령, 코스닥 육성·벤처캐피탈 혁신 주문",
+      "summary": "이재명 대통령이 코스닥시장 육성과 벤처캐피탈 생태계 혁신에 박차를 가하라고 주문했습니다. 국내 자본시장이 여전히 저평가된 매력적인 투자 대상이라고 말했습니다.",
+      "sourceTitle": "李대통령 '코스닥 육성·벤처캐피탈 생태계 혁신에 박차'",
+      "sourceDesc": "이재명 대통령이 청와대 수석보좌관회의에서 코스닥시장 육성과 벤처캐피탈 생태계 혁신에 박차를 가해야 한다고 주문했다. 혁신 기업들이 성장 단계에 따라 필요한 자본을 원활하게 조달할 수 있도록 하는 것이 핵심이며, 국내 자본시장이 여전히 저평가된 매력적인 투자 대상이라고 말했다.",
+      "sourceLink": "https://www.ajunews.com/view/20261112152135603",
+      "sourceDate": "2026-11-12",
+      "imagePrompt": "Documentary photo of a financial trading screen showing Korean stock market indices and colorful candlestick charts, trading terminals in foreground, no people, no text, vertical 9:16 composition."
+    }
+  ],
+  "caption": "[물어오리] 2026-11-12 저녁 브리핑\n\n1. 인천 강화 H5형 AI, 수도권 24시간 이동중지\n2. 삼성, 온양에 HBM 팹 착공…46조 투자\n3. 체코 원전 공백, 한수원이 직접 채운다\n4. 한덕수 석방 임박, 조희대 탄핵론 재점화\n5. 이 대통령, 코스닥 육성·벤처캐피탈 혁신 주문\n\n내일 아침에도 물어오겠습니다 🦆\n\n#뉴스 #오늘의뉴스 #뉴스요약 #시사 #이슈 #물어오리 #조류인플루엔자 #삼성전자 #체코원전 #코스닥\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+  "selection": {
+    "spec": "remix-v1",
+    "signalSources": { "trends": "fail", "nate": "fail" },
+    "signalHits": []
+  }
+}
